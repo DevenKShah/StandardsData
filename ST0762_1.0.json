@@ -1,0 +1,804 @@
+{
+  "larsCode": 540,
+  "referenceNumber": "ST0762",
+  "title": "Information manager",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/540",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2020-02-03T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Support the delivery and management of critical information, whether digital or otherwise, in the (capital) delivery phase of an infrastructure project and the ongoing management of that information within the operational phase of the resulting asset",
+  "level": 4,
+  "typicalDuration": 24,
+  "maxFunding": 7000,
+  "route": "Business and administration",
+  "keywords": [],
+  "jobRoles": [
+    "Information Manager – Projects",
+    "Information Content Specialist",
+    "Project Information Specialist",
+    "Project Automation Specialist",
+    "Information Manager job titles often vary between sectors",
+    "employers and functions"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3395/st0762_information-manager_l4_plan-for-publication_080819-copy.pdf",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.2 Administration",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of sectors and industries such as construction, engineering, manufacturing, transportation including high-speed rail, energy and life sciences, the power industry including nuclear and renewables, local authorities, developers of smart cities and logistics.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to support the delivery and management of critical information, whether digital or otherwise, in the (capital) delivery phase of an infrastructure project and the ongoing management of that information within the operational phase of the resulting asset. The Information Manager ensures that information meets required quality and specifications and is collected, managed and transferred effectively ensuring its value is understood, maximised and reused where it describes its physical asset counterpart (the digital twin). Effective information management not only enables efficiencies to be achieved throughout an asset&#39;s lifecycle, it also provides the opportunity to develop further insight or innovation by using, collaborating and manipulating information in more effective ways.Built assets, whether these are major facilities, large scale developments, engineering projects or significant infrastructure projects require management of information consistent with ISO 19650 (Organisation and digitization of information) or UK BIM (Building Information Modelling) Level 2 approach, or equally other industry information strategies and standards, and in these cases, the Information Manager is required to ensure compliance with these requirements. The Information Manager is a procedural gatekeeper, managing the common data environment (CDE) ensuring it follows the agreed project procedures and that the data is accurate, current and secure. The CDE is the shared source of information used to support collaborative production, management, sharing and exchange of all information during operational and delivery phases whether created in a BIM environment or in a conventional data format.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a broad range of stakeholders, spanning clients / owners, through to internal and external departments inclusive of engineering, project controls, quality, supply chain, construction, legal and commissioning / completion – in essence, managing information and data as it moves through its lifecycle. It facilitates collaboration between project team members, promotes the development of an informed design and helps avoid duplication and mistakes. Information management holistically addresses the requirements for documentation, data and models in describing a built asset, supporting the delivery of information through the management of integrated systems, processes and people.Whilst normally office based, the Information Manager may need to visit all aspects of the operation from clients’ offices, fabrication and vendor sites, to construction and partner organization sites.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for managing information through the project&#39;s lifecycle and would report to the project or operational manager dependent on the project phase. Within their specialist area, the Information Manager would generally work autonomously and would be expected to exert influence to maintain protocols outside their reporting line including external stakeholders and internal functions. On larger projects, the Information Manager may have a range of specialists reporting to them.&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "68290d74-67ec-4540-9497-957f21b91075",
+      "detail": "Regulations, data protection, protocols, standards, and guidelines relating to effective management and control of information and how they are applied in the organisation"
+    },
+    {
+      "knowledgeId": "6e15424a-1a4e-4424-8a68-1e7a44184836",
+      "detail": "Understanding of the concept of the Common Data Environment (CDE) as the primary source of information used by stakeholders to collect, manage and disseminate information, whether this is through one or multiple systems of record"
+    },
+    {
+      "knowledgeId": "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+      "detail": "Information storage and exchange processes, systems and outputs within a team and across a project and asset. Principles of the mechanisms for formal and informal information distribution, whether this is complex models (such as 3D) or documentation/data (using mechanisms like COBie), use of workflow for digital delivery of information through business processes, and information types and how/where these are stored"
+    },
+    {
+      "knowledgeId": "5ad17f77-d7cc-4320-8de7-d7964f789fde",
+      "detail": "The details and implications of security accreditation, ISO27001, PAS 1192 Part 5 and industry specific requirements such as List N (Nuclear) and List X (Defence) and information classification such as sensitive and classified"
+    },
+    {
+      "knowledgeId": "762f0102-b9ce-4938-a4c2-4711d7b34286",
+      "detail": "How to design and implement project management and asset management systems incorporating specification of requirement, definition of process, configuration and approach"
+    },
+    {
+      "knowledgeId": "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+      "detail": "Types and styles of communication and business reports, presentations and training events"
+    },
+    {
+      "knowledgeId": "61ffabbc-40af-4b47-b1ee-6f69ce22e68e",
+      "detail": " Basic engineering, construction, asset, procurement and operational systems and the role they play in the execution of projects and how information flows between these systems"
+    },
+    {
+      "knowledgeId": "a615eb79-495e-41ae-ac74-c4eb96dbcd34",
+      "detail": "Understanding of information standards as they relate to implementation and compliance of requirements and how these might impact systems that manage the CDE"
+    },
+    {
+      "knowledgeId": "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+      "detail": "Range of solutions and formats for the design, procurement, creation, building, operation, storage, validation, dissemination, inter-operability and merging of information and to provide secure access and integration"
+    },
+    {
+      "knowledgeId": "e0af402f-c718-468a-9875-abf4d80876f8",
+      "detail": "Line management practice and principle and how they are applied in the organisation"
+    },
+    {
+      "knowledgeId": "1f2790c1-8b7b-4a94-832b-f5c519228630",
+      "detail": "Estimation and budget management techniques that ensure income and expenditure"
+    },
+    {
+      "knowledgeId": "914094b8-8c64-45d9-ae00-7fb1d7a9bd2d",
+      "detail": "Processes to securely hand over information in a manner that supports the future management of the asset"
+    },
+    {
+      "knowledgeId": "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+      "detail": "Scope of responsibilities for the management of information"
+    },
+    {
+      "knowledgeId": "a8da3218-b19d-4468-84ba-968f75247d0d",
+      "detail": "Practice and principle of allocation of duties and work scheduling and how they operate in the organisation"
+    },
+    {
+      "knowledgeId": "c12d64b4-736d-4b75-8364-40cf620c84fb",
+      "detail": " Contractual and commercial implications relating to the management of information"
+    },
+    {
+      "knowledgeId": "d3dda28b-189f-4a35-8b02-bd6b1bd8c28f",
+      "detail": "Principles of risk management and processes for mitigating risk"
+    },
+    {
+      "knowledgeId": "62be56fe-95ed-4b8e-9dd9-69196c866748",
+      "detail": "Concept of information planning, what is required and at what lifecycle stage"
+    },
+    {
+      "knowledgeId": "a5f714f3-0b14-4aaf-a6e1-9f8248335580",
+      "detail": "Supply chain competency assessment to meet information delivery requirements"
+    },
+    {
+      "knowledgeId": "6d115b6c-ebae-4075-92bc-1153befad62e",
+      "detail": "The importance of reflection and evaluation of own work and their impact on the organisation"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+      "detail": "Act professionally, show commitment to the industry and employer and work collaboratively across multiple disciplines"
+    },
+    {
+      "behaviourId": "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+      "detail": "Demonstrate analytical skills to effectively solve problems"
+    },
+    {
+      "behaviourId": "1dc0178f-5e30-44c3-8ede-557a634d553c",
+      "detail": "Establish and maintain effective relationships with clients, internal and external stakeholders and colleagues at all levels"
+    },
+    {
+      "behaviourId": "2946e113-024f-434f-9656-cec37ce56a44",
+      "detail": "Demonstrate a commitment to equality, diversity and inclusion, and act ethically with integrity and respect"
+    },
+    {
+      "behaviourId": "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+      "detail": "Committed to lead, manage and coach others effectively"
+    },
+    {
+      "behaviourId": "c7211f68-8e89-4458-8770-0cd55c246a70",
+      "detail": "Maintain a focus on the end result and be flexible while adopting a lean and agile approach"
+    },
+    {
+      "behaviourId": "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+      "detail": "Foster a safe, secure and healthy working environment through personal responsibility and behaviour"
+    },
+    {
+      "behaviourId": "dbbddaaa-152d-4383-9441-a6316f053e0f",
+      "detail": "Effective self-manage, prioritise and proactively approach work and continuous professional development"
+    },
+    {
+      "behaviourId": "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+      "detail": "Flexible to changing working environment and  demands, resilient under pressure"
+    },
+    {
+      "behaviourId": "2a52a9e2-f0b1-4895-918a-43732f625f08",
+      "detail": "Adopt a reflective approach to evaluating own work and its impact on the organisation to plan for improved performance"
+    },
+    {
+      "behaviourId": "9127337a-ff1e-4a2c-816e-e7bdce8f366b",
+      "detail": "Maintain an open mind, be inquisitive and apply learning to take advantage of innovation and new methods of working"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "77e0df17-bec6-48b9-97b0-04d6902db98d",
+      "detail": "Proficiently apply regulations including data protection, standards, guidelines and quality requirements as they pertain to information process and output"
+    },
+    {
+      "skillId": "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+      "detail": "Assist with the operation and maintenance of a Common Data Environment (CDE) and ensure the (CDE) maintains integrity and follows agreed protocols and that data remains secure"
+    },
+    {
+      "skillId": "a642accd-c450-4a87-9d71-13df6de1a696",
+      "detail": "Establish processes and accurately analyse, audit, verify and validate data as being accurate, appropriate, attributable, authentic and relevant according to protocols"
+    },
+    {
+      "skillId": "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+      "detail": "Evaluate and make recommendations around information work processes, quality improvement and future resource planning for information management requirements"
+    },
+    {
+      "skillId": "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+      "detail": "Identify and manage risk, put in place mitigating actions to minimise risk data integrity and security"
+    },
+    {
+      "skillId": "a5ef2d56-d376-40ac-ba24-41950cd57d3f",
+      "detail": "Draft work plans, strategies, delegate responsibilities and work instructions defining the scope of information management that comply with  aims, objectives, planned milestones and organisation procedure"
+    },
+    {
+      "skillId": "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+      "detail": "Validate, manage, disseminate and store information throughout all stages of a project or asset"
+    },
+    {
+      "skillId": "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+      "detail": "Design and embed consistent data control processes and workflows accounting for status, maturity, version control, revision control, audit history and approval processes"
+    },
+    {
+      "skillId": "a26dacf7-0108-4d2e-b7b1-a05eedb04fb0",
+      "detail": "Advise on the implications of security accreditation, ISO27001, PAS 1192 Part 5 and industry specific requirements such as List N (Nuclear) and List X (Defence) and information classification"
+    },
+    {
+      "skillId": "8dbc1225-f660-4273-83db-1597732a13be",
+      "detail": "Establish and consistently implement project and asset systems including specification requirements, definition of processes, configuration and appropriate training plans"
+    },
+    {
+      "skillId": "816f16ed-f171-42ba-9f1d-193c141207e0",
+      "detail": "Prepare and deliver timely, accurate and clear written and verbal reports"
+    },
+    {
+      "skillId": "462c3c91-94f9-48b7-9fc0-f7f107369051",
+      "detail": "Define and implement solutions to information sharing and storage problems"
+    },
+    {
+      "skillId": "cee26831-a70e-4400-8f44-6cc2061e0a7c",
+      "detail": "Evaluate requirements and provide solutions for embedding contractual and regulatory requirements"
+    },
+    {
+      "skillId": "0bad8891-f03c-46a6-a6b3-849cf2ea45e2",
+      "detail": "Define and manage processes for staged and progressive handover of information and structured formats in line with delivery schedules, duly verified to meet quality acceptability requirements"
+    },
+    {
+      "skillId": "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6",
+      "detail": "Effectively use a range of solutions and formats for the creation, dissemination, storage, validation and merging of information, ensuring secure access and effective integration"
+    },
+    {
+      "skillId": "25585a01-dec5-44fc-886a-5c2b867d17b0",
+      "detail": "Prepare and deliver effective training on information management to internal and external stakeholders, monitor the effectiveness of this training and reflect on feedback to inform continuous quality improvement within the scope of responsibility"
+    },
+    {
+      "skillId": "5d53412d-46f9-4887-b6ad-343f37716f4f",
+      "detail": "Estimate resources, manpower and associated costs to ensure compliance with baseline and changes to scope for future development and innovation requirements"
+    },
+    {
+      "skillId": "8aba04f1-d53c-444f-b8e3-7615b74ddc9f",
+      "detail": "Apply principles of effective line management in line with organisation practice"
+    },
+    {
+      "skillId": "af9380f2-3501-498f-8cb5-ff22958d5ab3",
+      "detail": "Reflect and evaluate own work and its impact on the organisation to plan for improved performance"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
+  "integratedDegree": "",
+  "tbReference": "TB0227 ",
+  "tbMainContact": "Stuart.Mclean@fluor.com",
+  "involvedEmployers": "Fluor, Atkins Global, The National College for High Speed Rail, ECITB, Pauley Interactive",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Information Manager – Projects",
+    "Information Content Specialist",
+    "Project Information Specialist",
+    "Project Automation Specialist",
+    "Information Manager job titles often vary between sectors",
+    "employers and functions"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Management and Administration",
+  "cluster": "Business Manager",
+  "createdDate": "2020-04-21T10:57:01 +00:00",
+  "lastUpdated": "2020-04-21T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/information-manager-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/information-manager-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "9dcee50d-66c9-4bf9-9074-9c5bb7a11b11",
+      "dutyDetail": "Receive, validate, manage and store information, both digital and hard copy throughout all stages of a project or asset",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "a615eb79-495e-41ae-ac74-c4eb96dbcd34",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "462c3c91-94f9-48b7-9fc0-f7f107369051",
+        "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26751be5-9e0d-4a86-8e77-54f42948c502",
+      "dutyDetail": "Deliver effective control of all digital and hard copy information recorded in the scope of a project",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "0bad8891-f03c-46a6-a6b3-849cf2ea45e2",
+        "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "223c3673-2b6d-4f28-9ce0-5dd7a86aa748",
+      "dutyDetail": "Distribute information accurately and securely to required internal and external recipients within a project team",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "914094b8-8c64-45d9-ae00-7fb1d7a9bd2d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "a5ef2d56-d376-40ac-ba24-41950cd57d3f",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "462c3c91-94f9-48b7-9fc0-f7f107369051"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8fbb00cd-42a3-4b88-8b6f-93effdc8eb38",
+      "dutyDetail": " Ensure the security, including cyber security of all information disseminated and stored",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "5ad17f77-d7cc-4320-8de7-d7964f789fde",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "a26dacf7-0108-4d2e-b7b1-a05eedb04fb0",
+        "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a1f7183-d41e-4881-8b15-eca310ee7f81",
+      "dutyDetail": "Produce timely reports on the project information which is being managed, including appropriate metrics and forecasts in required formats",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "816f16ed-f171-42ba-9f1d-193c141207e0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4d195772-9cfc-43b5-ba38-94d76080bc4d",
+      "dutyDetail": "Establish and implement systems for the management, sharing and storage of project information according to required protocols throughout the lifecycle of the project",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "5ad17f77-d7cc-4320-8de7-d7964f789fde",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "a5ef2d56-d376-40ac-ba24-41950cd57d3f",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "462c3c91-94f9-48b7-9fc0-f7f107369051",
+        "0bad8891-f03c-46a6-a6b3-849cf2ea45e2",
+        "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "abf6c8d3-9b0f-4cd9-b283-18e7b6fe541d",
+      "dutyDetail": "Ensure all relevant parties are compliant with information management protocols and procedures and address any non-compliance",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "1f2790c1-8b7b-4a94-832b-f5c519228630",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "62be56fe-95ed-4b8e-9dd9-69196c866748",
+        "a5f714f3-0b14-4aaf-a6e1-9f8248335580",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "bc45a9f4-4ece-4c2f-87ca-93d4c148f21d",
+        "16f235e0-1fa2-4de9-8475-8ba4a0b604f0",
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "cee26831-a70e-4400-8f44-6cc2061e0a7c",
+        "0bad8891-f03c-46a6-a6b3-849cf2ea45e2",
+        "25585a01-dec5-44fc-886a-5c2b867d17b0",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eeca01ed-3be4-4fb8-81c9-4f4cfa99c9c9",
+      "dutyDetail": "Collaborate with IT to ensure the simplification of systems and work methods that are fit for purpose and efficient",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "cee26831-a70e-4400-8f44-6cc2061e0a7c",
+        "cf600f6f-5b63-45cf-b9e1-b75ebd8162b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "419f7eb0-fbdf-4907-a45f-c68dff4a84b8",
+      "dutyDetail": "Line manage and lead staff assigned according to required policies and procedures",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "e0af402f-c718-468a-9875-abf4d80876f8",
+        "1f2790c1-8b7b-4a94-832b-f5c519228630",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "a8da3218-b19d-4468-84ba-968f75247d0d",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "a5ef2d56-d376-40ac-ba24-41950cd57d3f",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f",
+        "8aba04f1-d53c-444f-b8e3-7615b74ddc9f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f0e4d418-f4b8-4117-be2c-2e857e9dff34",
+      "dutyDetail": "Provide training on all aspects of information management to all stakeholders across the project",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "5ad17f77-d7cc-4320-8de7-d7964f789fde",
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "61ffabbc-40af-4b47-b1ee-6f69ce22e68e",
+        "a615eb79-495e-41ae-ac74-c4eb96dbcd34",
+        "2ef92f69-3fc0-4b59-95be-88d24dc9e88d",
+        "1f2790c1-8b7b-4a94-832b-f5c519228630",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "d3dda28b-189f-4a35-8b02-bd6b1bd8c28f",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3ffaae56-bd49-452c-bc4a-1a3461b33299",
+      "dutyDetail": "Manage delegated budgets within agreed project tolerances",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "1f2790c1-8b7b-4a94-832b-f5c519228630",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "25585a01-dec5-44fc-886a-5c2b867d17b0",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b3e58a9-4bf5-40b3-960b-3af331969f32",
+      "dutyDetail": "Prepare and provide future resource planning for the information management requirements of a project",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "2946e113-024f-434f-9656-cec37ce56a44",
+        "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "e0af402f-c718-468a-9875-abf4d80876f8",
+        "1f2790c1-8b7b-4a94-832b-f5c519228630",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "cee26831-a70e-4400-8f44-6cc2061e0a7c",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dacb27f5-60d3-429b-b2a1-9f32863985e1",
+      "dutyDetail": "Deliver continuous quality improvement for the safe and secure management of project information",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "5bcea9e8-63cc-4843-a45f-b2c55025a1f3",
+        "c7211f68-8e89-4458-8770-0cd55c246a70",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08",
+        "9127337a-ff1e-4a2c-816e-e7bdce8f366b"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "5ad17f77-d7cc-4320-8de7-d7964f789fde",
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "e0af402f-c718-468a-9875-abf4d80876f8",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "c12d64b4-736d-4b75-8364-40cf620c84fb",
+        "d3dda28b-189f-4a35-8b02-bd6b1bd8c28f",
+        "62be56fe-95ed-4b8e-9dd9-69196c866748",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "462c3c91-94f9-48b7-9fc0-f7f107369051",
+        "cee26831-a70e-4400-8f44-6cc2061e0a7c",
+        "25585a01-dec5-44fc-886a-5c2b867d17b0",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1a749d82-17f3-4506-aefd-a29e0c2483bc",
+      "dutyDetail": "Close projects and hand over information to the client in a manner that supports the future management of the asset, in line with project timescales and quality requirements",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08"
+      ],
+      "mappedKnowledge": [
+        "762f0102-b9ce-4938-a4c2-4711d7b34286",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "914094b8-8c64-45d9-ae00-7fb1d7a9bd2d",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8dbc1225-f660-4273-83db-1597732a13be",
+        "816f16ed-f171-42ba-9f1d-193c141207e0",
+        "462c3c91-94f9-48b7-9fc0-f7f107369051",
+        "0bad8891-f03c-46a6-a6b3-849cf2ea45e2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31450f22-9b29-4f9c-bbba-76e1b9bed91f",
+      "dutyDetail": "Prepare and provide reports, analysis and forecasting as required",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "bf82dd19-9282-417f-98da-cbdeb5a537fc",
+        "24d330ab-7e7e-4e61-9d08-d7c1cfafbb75",
+        "1dc0178f-5e30-44c3-8ede-557a634d553c",
+        "3a0e258e-0dce-45d5-aeb4-b0a514092ac6",
+        "dbbddaaa-152d-4383-9441-a6316f053e0f",
+        "da47c053-2eaf-4f04-8458-862b2a6e96eb",
+        "2a52a9e2-f0b1-4895-918a-43732f625f08"
+      ],
+      "mappedKnowledge": [
+        "68290d74-67ec-4540-9497-957f21b91075",
+        "6e15424a-1a4e-4424-8a68-1e7a44184836",
+        "eb42dca2-100c-4bba-975c-f5a94e7f3150",
+        "be8a1c12-f5fe-4a26-87b0-dcf913e7a895",
+        "9bb4c575-83a9-4e4c-a6ba-deeeb81352b3",
+        "6d115b6c-ebae-4075-92bc-1153befad62e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "77e0df17-bec6-48b9-97b0-04d6902db98d",
+        "a9ac68cd-2e09-4d2c-8558-a5d1d72aeb30",
+        "a642accd-c450-4a87-9d71-13df6de1a696",
+        "fbb58562-d5e0-48b3-9dea-14c297b1cb92",
+        "4e2e38e5-6dc9-404c-a394-574fdcb6ecad",
+        "816f16ed-f171-42ba-9f1d-193c141207e0",
+        "5d53412d-46f9-4887-b6ad-343f37716f4f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
