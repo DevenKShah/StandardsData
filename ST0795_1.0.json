@@ -1,0 +1,444 @@
+{
+  "larsCode": 576,
+  "referenceNumber": "ST0795",
+  "title": "Data technician",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/576",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2020-07-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Source, format and present data securely in a relevant way for analysis",
+  "level": 3,
+  "typicalDuration": 24,
+  "maxFunding": 12000,
+  "route": "Digital",
+  "keywords": [],
+  "jobRoles": [
+    "Database Technician",
+    "Data support analyst",
+    "Junior data analyst",
+    "Junior information analyst"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4585/st0795_data_technician_l3_assessment-plan-for-publication_c27_qm-adjustment-october-2020.pdf",
+  "ssa1": "6 Information and Communication Technology (ICT)",
+  "ssa2": "6.1 ICT practitioners",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "2135 - IT business analysts, architects and systems designers",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors where data is generated or processed including but not limited to finance, retail, education, health, media, manufacturing and hospitality.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to source, format and present data securely in a relevant way for analysis using basic methods; to communicate outcomes appropriate to the audience; analyse structured and unstructured data to support business outcomes; blend data from multiple sources as directed and apply legal and ethical principles when manipulating data.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders including colleagues, managers, customers and internal and external suppliers. They would typically work as a member of a team; this may be office based or virtual.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for collecting and processing data under the guidance of a senior colleague or multiple colleagues across the business. This may vary by sector and size of the organisation. An employee would mainly be responsible for their own work but may have the opportunity to mentor others.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5435d39e-38f5-49b1-b94e-8fd4c23ef929",
+      "detail": "Range of different types of existing data.\nCommon sources of data - internal, external, open data sets, public and private.\nData formats and their importance for analysis.\nData architecture - the framework against which data is stored and structured including on premises and cloud."
+    },
+    {
+      "knowledgeId": "8565c9b9-2dd5-4a7d-8c48-263aa78976e4",
+      "detail": "How to access and extract data from a range of already identified sources"
+    },
+    {
+      "knowledgeId": "83d1db05-4286-4c0d-bf12-f06a7aca9e80",
+      "detail": "How to collate and format data in line with industry standards"
+    },
+    {
+      "knowledgeId": "7f1a2cdb-ac94-4175-b79c-8d89ae19f6c5",
+      "detail": "Data formats and their importance for analysis\nManagement and presentation tools to visualise and review the characteristics of data\nCommunication tools and technologies for collaborative working"
+    },
+    {
+      "knowledgeId": "f5790638-c71b-480e-95c5-846b5256a092",
+      "detail": "Communication methods, formats and techniques, including: written, verbal, non-verbal, presentation, email, conversation, audience and active listening\nRange of roles within an organisation, including: customer, manager, client, peer, technical and non-technical"
+    },
+    {
+      "knowledgeId": "3865f772-3831-45f2-9b15-ffd55afc5774",
+      "detail": "The value of data to the business\nHow to undertake blending of data from multiple sources"
+    },
+    {
+      "knowledgeId": "eafcb4f2-b911-454d-952c-bd645758fcef",
+      "detail": "Algorithms, and how they work using a step-by-step solution to a problem, or rules to follow to solve the problem and the potential to use automation"
+    },
+    {
+      "knowledgeId": "96c2c660-56ee-46bf-9eb2-a181792a9e42",
+      "detail": "How to filter details, focusing on information relevant to the data project"
+    },
+    {
+      "knowledgeId": "d06fcb5c-fe7f-4e2f-98cb-894c7ca3b751",
+      "detail": "Basic statistical methods and simple data modelling to extract relevant data and normalise unstructured data"
+    },
+    {
+      "knowledgeId": "fb9b781d-9cc6-44f3-a7fe-41bd2f57c911",
+      "detail": "The range of common data quality issues that can arise e.g. misclassification, duplicate entries, spelling errors, obsolete data, compliance issues and interpretation/ translation of meaning"
+    },
+    {
+      "knowledgeId": "531a61ef-f938-4e5d-8976-9ad305ea5d27",
+      "detail": "Different methods of validating data and the importance of taking corrective action"
+    },
+    {
+      "knowledgeId": "9d7507a2-5fb3-4566-ae47-4208dd8d7bd8",
+      "detail": "Communicating the results through basic narrative"
+    },
+    {
+      "knowledgeId": "149ba6dc-1381-4842-8144-96146cd24900",
+      "detail": "Legal and regulatory requirements e.g. Data Protection, Data Security, Intellectual Property Rights (IPR), Data sharing, marketing consent, personal data definition.\nThe ethical use of data"
+    },
+    {
+      "knowledgeId": "0500508d-c948-4724-9163-9b53bb7b9aff",
+      "detail": "The significance of customer issues, problems, business value, brand awareness, cultural awareness/ diversity, accessibility, internal/ external audience, level of technical knowledge and profile in a business context"
+    },
+    {
+      "knowledgeId": "93dd06c5-4f1e-4b78-a3f2-d5489ab1aa2e",
+      "detail": "The role of data in the context of of the digital world including the use of eternal trusted open data sets, how data underpins every digital interaction and connectedness across the digital landscape including applications, devises, IoT, customer centricity"
+    },
+    {
+      "knowledgeId": "5bdbf447-ea84-40aa-820c-a33fd72e287a",
+      "detail": "Different learning techniques, learning techniques and the breadth and sources of knowledge"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+      "detail": "Manage own time to meet deadlines and manage stakeholder expectations"
+    },
+    {
+      "behaviourId": "a140ac69-17e1-4ade-ae71-9859833c2189",
+      "detail": "Work independently and take responsibility"
+    },
+    {
+      "behaviourId": "175a8206-5332-40c2-b003-91bdb3a79d35",
+      "detail": "Use own initiative"
+    },
+    {
+      "behaviourId": "8eb38f74-5141-454c-a351-610ba8eaf74f",
+      "detail": "A thorough and organised approach"
+    },
+    {
+      "behaviourId": "7a42fe43-95e7-4437-ba02-a7b911dcd4d7",
+      "detail": "Work with a range of internal and external customers"
+    },
+    {
+      "behaviourId": "15825693-c047-4f4d-bb29-8c57ecd476ab",
+      "detail": "Value difference and be sensitive to the needs of others"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e96f942b-8dc2-4442-b0e1-df03005e6e99",
+      "detail": "Source and migrate data from already identified different sources"
+    },
+    {
+      "skillId": "b9eebfdb-7c30-48d3-9cae-387848c0f37a",
+      "detail": "Collect, format and save datasets"
+    },
+    {
+      "skillId": "a5922cd6-3746-40d7-bb45-9b1ce5e10039",
+      "detail": "Summarise and explain gathered data"
+    },
+    {
+      "skillId": "21eef197-0692-4a92-9d49-91d779f03386",
+      "detail": "Blend data sets from multiple sources and present in format appropriate to the task"
+    },
+    {
+      "skillId": "29f289f4-c99a-46c6-8684-41af8e78be6c",
+      "detail": "Manipulate and link different data sets as required"
+    },
+    {
+      "skillId": "fcf79ae1-30a0-4f7a-8ea7-b1b5c5e06dce",
+      "detail": "Use tools and techniques to identify trends and patterns in data"
+    },
+    {
+      "skillId": "b0fd69b3-0783-49bb-82a4-681124abe46d",
+      "detail": "Apply basic statistical methods and algorithms to identify trends and patterns in data"
+    },
+    {
+      "skillId": "881c8459-880f-4570-8f25-9df926900700",
+      "detail": "Apply cross checking techniques for identifying faults and data results for data project requirements"
+    },
+    {
+      "skillId": "a42abd6a-1339-4217-b746-09dae03d9a6e",
+      "detail": "Audit data results"
+    },
+    {
+      "skillId": "9d21cc64-6b55-41cf-8aca-41f6aaa4a9a7",
+      "detail": "Demonstrate the different ways of communicating meaning from data in line with audience requirements"
+    },
+    {
+      "skillId": "f64b877a-62b6-4eb9-970c-2fc1423fbc8b",
+      "detail": "Produce clear and consistent technical documentation using standard organisational templates"
+    },
+    {
+      "skillId": "fe6c108f-6c8c-4d36-91e2-a918f6809a70",
+      "detail": "Store, manage and distribute in compliance with data security standards and legislation"
+    },
+    {
+      "skillId": "8152b02d-ea1b-4140-b49a-67528fa4b58d",
+      "detail": "Explain data and results to different audiences in a way that aids understanding."
+    },
+    {
+      "skillId": "de912314-a4a6-4e93-84c1-cf255f394f7b",
+      "detail": "Review own development needs"
+    },
+    {
+      "skillId": "888ac40a-6ac9-4a74-845f-802e22df0663",
+      "detail": "Keep up to date with developments in technologies, trends and innovation using a range of sources"
+    },
+    {
+      "skillId": "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722",
+      "detail": "Clean data i.e. remove duplicates, typos, duplicate entries, out of date data, parse data (e.g. format telephone numbers according to a national standard) and test and assess confidence in the data and its integrity."
+    },
+    {
+      "skillId": "4909741c-c845-4f7c-8574-12287c2d2224",
+      "detail": "Operate as part of a multi-functional team"
+    },
+    {
+      "skillId": "e1d25a9f-ce48-4462-9a22-1b1402826008",
+      "detail": "Prioritise within the context of a project"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "National Skills Academy for Rail (NSAR)",
+    "contactName": "Barry Smith",
+    "contactAddress": "NSAR Ltd\r\n11 Carteret Street\r\nLondon\r\nSW1H 9DJ",
+    "contactEmail": "Barry.smith@nsar.co.uk",
+    "webLink": "https://www.nsar.co.uk/"
+  },
+  "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
+  "integratedDegree": "",
+  "tbReference": "TB0417",
+  "tbMainContact": "damian.jacobs@lloydsbanking.com",
+  "involvedEmployers": "Fijitsu, Lloyds Banking, GEO Strategies, Accenture, Accordio Ltd, Stategic Discourse Ltd, Digital Care Consultancy Ltd",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Database Technician",
+    "Data support analyst",
+    "Junior data analyst",
+    "Junior information analyst"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Digital Business Services",
+  "cluster": "Data Analyst Technician",
+  "createdDate": "2020-02-06T09:29:31 +00:00",
+  "lastUpdated": "2020-07-10T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "c06ac8ab-b964-47c3-a83f-0dc12736d19c",
+      "dutyDetail": "Source data from a collection of already identified trusted sources in a secure manner",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "5435d39e-38f5-49b1-b94e-8fd4c23ef929",
+        "8565c9b9-2dd5-4a7d-8c48-263aa78976e4",
+        "93dd06c5-4f1e-4b78-a3f2-d5489ab1aa2e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e96f942b-8dc2-4442-b0e1-df03005e6e99"
+      ],
+      "criteriaForMeasuringPerformance": "Data is collected securely from trusted sources in line with current company requirements informed by relevant regulatory and legal standards and industry best practice"
+    },
+    {
+      "dutyID": "aa935240-8799-418c-b8d7-34cb2271ff83",
+      "dutyDetail": "Collate and format data to facilitate processing and presentation for review and further advanced analysis by others",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "83d1db05-4286-4c0d-bf12-f06a7aca9e80"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b9eebfdb-7c30-48d3-9cae-387848c0f37a",
+        "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722"
+      ],
+      "criteriaForMeasuringPerformance": "Data collated and formatted according to company procedures and recognised industry good practice"
+    },
+    {
+      "dutyID": "8b2f5cff-b860-4aad-96cd-634b5ecc0d5d",
+      "dutyDetail": "Present data for review and analysis by others, using required medium for example tables, charts and graphs",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7a42fe43-95e7-4437-ba02-a7b911dcd4d7",
+        "15825693-c047-4f4d-bb29-8c57ecd476ab"
+      ],
+      "mappedKnowledge": [
+        "7f1a2cdb-ac94-4175-b79c-8d89ae19f6c5",
+        "f5790638-c71b-480e-95c5-846b5256a092"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a5922cd6-3746-40d7-bb45-9b1ce5e10039"
+      ],
+      "criteriaForMeasuringPerformance": "Data is presented in an appropriate format for review and analysis in line with company procedures and industry best practice."
+    },
+    {
+      "dutyID": "a063c34a-9995-45f5-a3fe-8baaaa61f486",
+      "dutyDetail": "Blend data by combining data from various sources and formats to explore its relevance for the business needs",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "3865f772-3831-45f2-9b15-ffd55afc5774"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "21eef197-0692-4a92-9d49-91d779f03386",
+        "29f289f4-c99a-46c6-8684-41af8e78be6c",
+        "fcf79ae1-30a0-4f7a-8ea7-b1b5c5e06dce",
+        "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722"
+      ],
+      "criteriaForMeasuringPerformance": "Data is blended ensuring that accuracy and consistency is maintained in line with current company requirements informed by relevant regulatory and legal standards and industry best practice"
+    },
+    {
+      "dutyID": "928cad95-a5a2-43e3-b08b-20bf57edd34c",
+      "dutyDetail": "Analyse simple and complex structured and unstructured data to support business outcomes using basic statistical methods to analyse the data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "175a8206-5332-40c2-b003-91bdb3a79d35",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f",
+        "7a42fe43-95e7-4437-ba02-a7b911dcd4d7",
+        "15825693-c047-4f4d-bb29-8c57ecd476ab"
+      ],
+      "mappedKnowledge": [
+        "eafcb4f2-b911-454d-952c-bd645758fcef",
+        "96c2c660-56ee-46bf-9eb2-a181792a9e42",
+        "d06fcb5c-fe7f-4e2f-98cb-894c7ca3b751"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b0fd69b3-0783-49bb-82a4-681124abe46d"
+      ],
+      "criteriaForMeasuringPerformance": "Data is structured in a way that meets business outcomes"
+    },
+    {
+      "dutyID": "38bb4485-7143-456d-b59c-07b8f82e545a",
+      "dutyDetail": "Validate results of analysis using various techniques, e.g cross checking, to identify faults in data results and to ensure data quality",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d102ec9c-6b35-4e57-86f6-993e0ef16eea",
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "175a8206-5332-40c2-b003-91bdb3a79d35",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "fb9b781d-9cc6-44f3-a7fe-41bd2f57c911",
+        "531a61ef-f938-4e5d-8976-9ad305ea5d27"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "881c8459-880f-4570-8f25-9df926900700",
+        "a42abd6a-1339-4217-b746-09dae03d9a6e",
+        "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722"
+      ],
+      "criteriaForMeasuringPerformance": "Results are validated in line with organisation and project data quality requirements"
+    },
+    {
+      "dutyID": "14bdc14a-3a12-4f2c-8b64-89a6358acb5d",
+      "dutyDetail": "Communicate results verbally, through reports and technical documentation and tailoring the message for the audience",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7a42fe43-95e7-4437-ba02-a7b911dcd4d7",
+        "15825693-c047-4f4d-bb29-8c57ecd476ab"
+      ],
+      "mappedKnowledge": [
+        "f5790638-c71b-480e-95c5-846b5256a092",
+        "9d7507a2-5fb3-4566-ae47-4208dd8d7bd8"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "9d21cc64-6b55-41cf-8aca-41f6aaa4a9a7",
+        "f64b877a-62b6-4eb9-970c-2fc1423fbc8b"
+      ],
+      "criteriaForMeasuringPerformance": "Results from data communicated in line with audience requirements"
+    },
+    {
+      "dutyID": "486f9d1c-664d-48f6-ab31-b5691f5b3fd0",
+      "dutyDetail": "Store, manage and share data securely in a compliant manner",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "149ba6dc-1381-4842-8144-96146cd24900"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "fe6c108f-6c8c-4d36-91e2-a918f6809a70",
+        "888ac40a-6ac9-4a74-845f-802e22df0663"
+      ],
+      "criteriaForMeasuringPerformance": "Data is stored, managed and shared in line with organisation, legal and regulatory requirements"
+    },
+    {
+      "dutyID": "6e390b9b-0c33-48d6-83c7-5129f8721dca",
+      "dutyDetail": "Collaborate with people both internally and externally at all levels with a view to creating value from data",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "7a42fe43-95e7-4437-ba02-a7b911dcd4d7",
+        "15825693-c047-4f4d-bb29-8c57ecd476ab"
+      ],
+      "mappedKnowledge": [
+        "0500508d-c948-4724-9163-9b53bb7b9aff"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8152b02d-ea1b-4140-b49a-67528fa4b58d",
+        "888ac40a-6ac9-4a74-845f-802e22df0663",
+        "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722",
+        "4909741c-c845-4f7c-8574-12287c2d2224",
+        "e1d25a9f-ce48-4462-9a22-1b1402826008"
+      ],
+      "criteriaForMeasuringPerformance": "The employee is able to confidently engage with people internally and externally at all levels in a professional manner"
+    },
+    {
+      "dutyID": "349dbf14-7b31-4bab-b5d9-09406612e39d",
+      "dutyDetail": "Practise continuous self learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a140ac69-17e1-4ade-ae71-9859833c2189",
+        "175a8206-5332-40c2-b003-91bdb3a79d35",
+        "8eb38f74-5141-454c-a351-610ba8eaf74f"
+      ],
+      "mappedKnowledge": [
+        "93dd06c5-4f1e-4b78-a3f2-d5489ab1aa2e",
+        "5bdbf447-ea84-40aa-820c-a33fd72e287a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "de912314-a4a6-4e93-84c1-cf255f394f7b",
+        "888ac40a-6ac9-4a74-845f-802e22df0663",
+        "52fd7d9d-e5b2-46ea-ae7f-c0b3e7e0d722",
+        "4909741c-c845-4f7c-8574-12287c2d2224",
+        "e1d25a9f-ce48-4462-9a22-1b1402826008"
+      ],
+      "criteriaForMeasuringPerformance": "Articulate the latest technology trends affecting data analysis and can communicate the impacts of latest trends"
+    }
+  ],
+  "regulationDetail": []
+}
