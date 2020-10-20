@@ -1,0 +1,920 @@
+{
+  "larsCode": 568,
+  "referenceNumber": "ST0898",
+  "title": "Water network operative",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/568",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2020-06-17T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users",
+  "level": 2,
+  "typicalDuration": 18,
+  "maxFunding": 6000,
+  "route": "Engineering and manufacturing",
+  "keywords": [],
+  "jobRoles": [
+    "Mains layer",
+    "Repair and maintenance operative",
+    "Service layer",
+    "Utility operative",
+    "Water operative"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4326/st0898_water_network_operative_l2_epa-plan_for-publication_050620.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "8119 - Process operatives n.e.c.",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the utilities sector, in clean water and waste water industries. Water network operatives typically work in only one of the water industries, although some multi-utility workers may work across both. They work for utility owners, operators or contractors, ranging in size from small to large companies.&lt;br /&gt;&lt;br /&gt;This is a core and options apprenticeship standard. Apprentices will need to complete the core and one option:&lt;br /&gt;1. Clean water network operative. &lt;br /&gt;2. Waste water network operative. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users. Clean water infrastructure includes mains pipes, water supply pipes, stop taps, fire hydrants and sluice valves for clean water operations; and in waste water operations: drains and sewers, chambers, interceptors, flow control devices and storage tanks. In both occupations the work is both planned - construction and maintenance, and reactive - repairs and emergencies. They ensure the site is safe for work, which may include traffic management and control, complete site excavation and restore the site to a safe condition. They use a range of powered equipment and hand tools, for example diggers.&lt;br /&gt;&lt;br /&gt;Depending on the work required, they may spend the day at one site or work across a number of sites. Work locations may include new build sites, public highways or domestic properties. They are required to work in all weather conditions. They may need to work shifts, standby and unsociable hours. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues, such as managers, network technicians and engineers, delivery drivers, reinstatement teams and administration staff. They usually work in a small team - typically with one or two other operatives, responsible for their own work, reporting to managers but not under direct supervision. On a site they may also interact with site agents and other trades. They will communicate with clients/customers regarding work that is being undertaken and in some situations the general public. They may also liaise with personnel from statutory authorities, such as the Highways Authority, local authorities and the Environment Agency. When working in emergency situations, they may liaise with emergency services personnel. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring Health &amp;amp; Safety and regulatory compliance, for example with the Drinking Water Inspectorate, The Water Services Regulation Authority (OFWAT) and Environment Agency etc; failure to do so could have serious consequences for self, public health and the environment. Recording and reporting on work completed is an important part of the job, which may include completion of paperwork or computerised records, drawings and providing site photographs. They are expected to present a professional image of the company. They are responsible for ensuring their tools and equipment are fit for use, correctly stored and maintained. Depending on their level of experience, they may be responsible for leading the team.&lt;br /&gt;&lt;br /&gt;Water network operatives need to be qualified and on the Street Works Register. Typically, a driving license will be required as they may be expected to drive to their place of work, using a company vehicle. In addition, clean water network operatives must hold a Water Hygiene Card. Some water network operatives may require a CSCS (Construction Skills Certification Scheme) Card and/or SHEA (Safety, Health and Environmental Awareness) Gas Passport Card.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+      "detail": "Health and safety practice: risk assessments and safe systems of work, permits to work, working in confined spaces, personal protective equipment (PPE), manual handling."
+    },
+    {
+      "knowledgeId": "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+      "detail": "Health and safety regulations and procedures: Health and Safety at Work Act 1974, New Roads and Street Works Act 1991, Working at Heights, Provision and Use of Work Equipment Regulations (PUWER), Control of Substances Hazardous to Health (COSHH), Lifting Operations Lifting Equipment Regulations (LOLER), first aid, fire safety. Types and uses of asbestos and where they may come into contact; safe work practices, control measures, and protective equipment needed to undertake asbestos mains work."
+    },
+    {
+      "knowledgeId": "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+      "detail": "Environmental requirements; Environment Protection Act 1990."
+    },
+    {
+      "knowledgeId": "1d23017f-de4e-416d-899b-7759449dc5a1",
+      "detail": "Principles and processes that underpin the location of utility network assets; health and safety guidance on avoiding damage to underground utility services."
+    },
+    {
+      "knowledgeId": "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
+      "detail": "Checks and operational requirements for commonly used utility network operations equipment and tools: utility location equipment/tools, pneumatic gun, hand/power tools – power disc cutter, chain saw, drills."
+    },
+    {
+      "knowledgeId": "b5f3f4fc-a0e4-428c-9eff-667fbaadf643",
+      "detail": "Before/after use checks, maintenance and storage requirements for commonly used utility network operations equipment and tools: utility location equipment/tools, pneumatic gun, hand/power tools – power disc cutter, chain saw, drills."
+    },
+    {
+      "knowledgeId": "0eb20535-9855-4372-ac40-eb2d2fa42e54",
+      "detail": "Principles of traffic management and control."
+    },
+    {
+      "knowledgeId": "bab3543d-abbe-4880-8a40-ae15d80b70c5",
+      "detail": "Excavation techniques: open cut, moling, vacuum extraction; and trench support techniques: proprietary systems, sheeting and mechanical."
+    },
+    {
+      "knowledgeId": "edaf5032-7546-426a-85fb-c1492e302014",
+      "detail": "Emergency services, Highways authorities, Environment Agency; who they are, what they do; escalation procedures."
+    },
+    {
+      "knowledgeId": "af137fa4-0876-4066-9996-3ce6b3614084",
+      "detail": "Industry structure and regulatory requirements; Drinking Water Inspectorate, The Water Services Regulation Authority (OFWAT), regulatory surveys."
+    },
+    {
+      "knowledgeId": "6ead6974-d6dd-4da9-893a-1967e6acd607",
+      "detail": "Reporting channels; limits of authority."
+    },
+    {
+      "knowledgeId": "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
+      "detail": "Communication techniques – written, verbal; customer service techniques."
+    },
+    {
+      "knowledgeId": "9037f641-2ef0-4e3e-95a5-e6539f34d1bb",
+      "detail": "Equality & diversity considerations in the workplace."
+    },
+    {
+      "knowledgeId": "d750a334-27dd-4a0a-a8de-46eb9d1afccb",
+      "detail": "Procedures for the construction and connection of clean water network assets (mains and services)."
+    },
+    {
+      "knowledgeId": "84144b85-3bd6-4460-adf0-4e253ead30eb",
+      "detail": "Procedures for the repair of mains clean water network assets."
+    },
+    {
+      "knowledgeId": "8e7b30df-fee6-459e-86e9-d66dbb33fe11",
+      "detail": "Procedures for clean water network emergencies."
+    },
+    {
+      "knowledgeId": "919d1c80-a120-4a6d-8b8a-09bda8a0c32d",
+      "detail": "Consequences of flooding and pollution, on people and the environment."
+    },
+    {
+      "knowledgeId": "53eae8d0-7d9c-4f84-b376-6987b0a2a801",
+      "detail": "Clean water network operative. Principles of taking water samples."
+    },
+    {
+      "knowledgeId": "776ac351-676d-4e3d-b7ed-d4d3506c9ec8",
+      "detail": "Procedures for the construction and connection of waste water network assets (mains and services)."
+    },
+    {
+      "knowledgeId": "ed0280c7-bc94-4fbc-888d-e69d7dc5a36a",
+      "detail": "Procedures for repairs in waste water: mechanical and patches (hot, cold and ultraviolet)."
+    },
+    {
+      "knowledgeId": "403e7c02-0249-4781-a861-26f1fcf081e2",
+      "detail": "Procedures for dealing with emergencies, internal contamination flooding (DG5), pollution (Category 1-4)."
+    },
+    {
+      "knowledgeId": "527de4a2-e72a-4444-bd41-7246d5e1ef0d",
+      "detail": "Consequences of waste water flooding and pollution, on people and the environment."
+    },
+    {
+      "knowledgeId": "123d6f54-2fb5-4732-887e-7afcf4399a68",
+      "detail": "Decontamination risks and mitigations; biological hazards."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "cc051522-203e-471b-b63f-aa09484d003e",
+      "detail": "Prioritises health, safety and environment when undertaking work."
+    },
+    {
+      "behaviourId": "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+      "detail": "Adaptable, for example willing to accept changing priorities and working requirements."
+    },
+    {
+      "behaviourId": "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+      "detail": "Team player, for example keeps others informed, recognises personal and professional limitations and seeks advice when necessary, takes account of equality and diversity in interactions."
+    },
+    {
+      "behaviourId": "71a83a23-a257-42e8-a05b-ade12213dc02",
+      "detail": "Professional, for example wears work attire according to company requirements, polite and courteous, maintains security of business specific and personal data."
+    },
+    {
+      "behaviourId": "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+      "detail": "Self-motivated, for example manages own time effectively, takes responsibility to complete the job."
+    },
+    {
+      "behaviourId": "a302893c-106d-4918-8682-e14f43aff27d",
+      "detail": "Pride in work, for example works to agreed quality targets and standards."
+    },
+    {
+      "behaviourId": "d9640e06-3fe2-4c26-b429-3499655b9bfd",
+      "detail": "Committed to continued professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "75069bbf-7bbd-4c91-a457-a4891b1ab969",
+      "detail": "Identify hazards and implement controls to reduce risks; comply with method statements."
+    },
+    {
+      "skillId": "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+      "detail": "Interpret work instructions/engineering instructions and determine actions."
+    },
+    {
+      "skillId": "809f894b-603a-4123-94b4-ef92cd6ea9f1",
+      "detail": "Identify and organise resources to undertake activities."
+    },
+    {
+      "skillId": "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+      "detail": "Comply with workplace health, safety & environmental policy and practice; use of Personal Protective Equipment (PPE) and safety equipment."
+    },
+    {
+      "skillId": "89e3ef21-74f1-4652-b0d9-0ea2d83185d5",
+      "detail": "Check signing, lighting and guarding; address issues if required."
+    },
+    {
+      "skillId": "e4d948f2-8e97-4403-a1f5-a13a981f2ec2",
+      "detail": "Dig holes for utility network services."
+    },
+    {
+      "skillId": "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
+      "detail": "Monitor and maintain site conditions; good housekeeping."
+    },
+    {
+      "skillId": "cebf90b5-0639-473c-be81-aa681bed519c",
+      "detail": "Identify, locate and avoid utility supply apparatus and sub-structures."
+    },
+    {
+      "skillId": "cd702524-7555-4200-a1a6-ffe0340685b7",
+      "detail": "Select, check and operate equipment and tools; report faults if required."
+    },
+    {
+      "skillId": "5aae3d0a-1b09-438e-a6da-05b27375b1fa",
+      "detail": "Maintain and store equipment and tools, for example charge batteries, clean equipment, grease machines, re-fuel."
+    },
+    {
+      "skillId": "63c4c2ea-30e6-45fa-bb13-3ed6305badcc",
+      "detail": "Communicate with colleagues and/or stakeholders, for example, statutory agencies and members of the public, customers."
+    },
+    {
+      "skillId": "8648d564-cb99-4c86-839b-e2d2526385a1",
+      "detail": "Use breathing apparatus."
+    },
+    {
+      "skillId": "f362070f-3e26-4827-be22-4f5b767f49d1",
+      "detail": "Use gas detection equipment."
+    },
+    {
+      "skillId": "e26e20b5-4b2c-4dbe-a413-02b31aa60735",
+      "detail": "Carry out trench installation for example, sheeting, lightweight and proprietary systems."
+    },
+    {
+      "skillId": "e4ccaa26-4607-47d5-a6e8-f92c7fa3fbda",
+      "detail": "Record information, for example job reports, time sheets."
+    },
+    {
+      "skillId": "e3bd9b99-41a1-4cae-bb56-864a0a56eedb",
+      "detail": "Backfill and reinstate road and/or pavement surfaces after water network construction/repair."
+    },
+    {
+      "skillId": "59ef22b5-d062-4270-97f4-c67fd1e5e658",
+      "detail": "Carry out squeeze off activities to clean water services (Clean water)."
+    },
+    {
+      "skillId": "077a98c7-fc71-4deb-9585-7a74533cee11",
+      "detail": "Join materials by electro-fusion."
+    },
+    {
+      "skillId": "c8627d02-05fe-445e-9f3a-b591674628dd",
+      "detail": "Join materials by butt fusion processes."
+    },
+    {
+      "skillId": "c703aa29-cc2e-4226-b8a1-ecddd8e739b6",
+      "detail": "Join materials by mechanical means on clean water services, for example encapsulation, straight, ferrule, flange connections."
+    },
+    {
+      "skillId": "4e0adfc0-233d-4b1d-8d5e-7bd8331742c5",
+      "detail": "Clean water. Drill and tap clean water services."
+    },
+    {
+      "skillId": "e82a364d-949d-4a63-a56c-ed20b09387fe",
+      "detail": "Install water supply services."
+    },
+    {
+      "skillId": "d2261e25-64e6-49d3-a7ac-13387df4da62",
+      "detail": "Conduct disinfection procedures for clean water mains and services."
+    },
+    {
+      "skillId": "1681e86a-b750-45b9-b7cc-ef3256ebb164",
+      "detail": "Conduct repairs to clean water asbestos mains ."
+    },
+    {
+      "skillId": "42fdabef-9737-4951-9146-7fb2881feeea",
+      "detail": "Conduct pressure and soundness (integrity of pipework) testing to clean water services."
+    },
+    {
+      "skillId": "2e7aab80-f2ab-4797-94e6-c7488700d67a",
+      "detail": "Use flow and line stopping procedures."
+    },
+    {
+      "skillId": "e84d299e-61bf-4212-9b62-4ba74f527ffd",
+      "detail": "Repair water network equipment, for example hydrants, values, boundary boxes."
+    },
+    {
+      "skillId": "00aba064-8335-41d2-aa2f-1408cea43fd1",
+      "detail": "Clean water network operative. Use pumps and dewatering equipment."
+    },
+    {
+      "skillId": "b95ce363-19f6-426f-b505-300126200c5e",
+      "detail": "Apply clean water network emergency procedures."
+    },
+    {
+      "skillId": "f7a6b0ae-9efc-4013-8683-10164d9f1906",
+      "detail": "Join materials by flexible seals on waste water services."
+    },
+    {
+      "skillId": "ebd1a735-f350-42e9-bf43-b2e2241a3ec4",
+      "detail": "Install waste water supply services."
+    },
+    {
+      "skillId": "f13193e8-04ad-41a4-b70e-f6bded651d2d",
+      "detail": "Prepare pipework for lining."
+    },
+    {
+      "skillId": "e53eb65e-9dc3-4e8c-97c8-e8ae875d6bbe",
+      "detail": "Prepare for rodding activities for example, break out concrete or manhole point."
+    },
+    {
+      "skillId": "57899697-c3d6-4bd4-befc-e93f625f67b1",
+      "detail": "Conduct repairs on waste water asbestos pipes."
+    },
+    {
+      "skillId": "4039d8c9-2a4d-49a3-9eeb-1f69ab5d0703",
+      "detail": "Repair and maintain pressurised pipes on rising mains."
+    },
+    {
+      "skillId": "e8737cea-f197-4260-8ef0-318a8fdcbe9d",
+      "detail": "Use mitigation methods to maintain flow on waste water networks flow, for example stopping or diverting."
+    },
+    {
+      "skillId": "0b22c770-1465-4469-a3fa-341be5f33bf3",
+      "detail": "Use pumps and dewatering equipment to mitigate and maintain flow in the network."
+    },
+    {
+      "skillId": "c4246eed-e7a4-4e2d-8d50-01109a36ad94",
+      "detail": "Apply waste water network emergency procedures."
+    },
+    {
+      "skillId": "36e62bc6-c578-4f7d-98f3-e028e0c2831a",
+      "detail": "Apply cure in place patches."
+    },
+    {
+      "skillId": "dcd9479f-01a3-4fde-a70d-4f72193d0cc6",
+      "detail": "Decontaminate equipment, tooling and PPE."
+    }
+  ],
+  "options": [
+    {
+      "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
+      "title": "Clean water network operative"
+    },
+    {
+      "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
+      "title": "Waste water network operative"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2020-06-17T00:00:00 +00:00",
+  "integratedDegree": "",
+  "tbReference": "TB0484",
+  "tbMainContact": "Chris.Jenkins@theclancygroup.co.uk",
+  "involvedEmployers": "Anglian Water, Balfour Beatty, Clancy Group, Highways utilities, Kier, Morrison Utility Services, Northumbrian Water, SES Water, Severn Trent, Southern Water, Thames Water, United Utilities, Wessex Water",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Mains layer",
+    "Repair and maintenance operative",
+    "Service layer",
+    "Utility operative",
+    "Water operative"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "createdDate": "2020-07-06T09:41:45 +00:00",
+  "lastUpdated": "2020-06-17T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "f6ae26d0-6e9d-4de4-ad27-59cfd78adc1d",
+      "dutyDetail": "Prepare for water network infrastructure work to meet clients'/customers' requirements and priorities for example, identify and obtain plant, equipment and materials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
+        "b5f3f4fc-a0e4-428c-9eff-667fbaadf643",
+        "6ead6974-d6dd-4da9-893a-1967e6acd607"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "809f894b-603a-4123-94b4-ef92cd6ea9f1",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e4c3c2f3-b831-49cf-9e73-f019e23c8496",
+      "dutyDetail": "Conduct risk assessments for water network infrastructure work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "6ead6974-d6dd-4da9-893a-1967e6acd607"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "75069bbf-7bbd-4c91-a457-a4891b1ab969",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93524764-083d-4bb0-88aa-63013b1526fa",
+      "dutyDetail": "Set up and maintain site for water network infrastructure work for example, traffic management and control, cable/conductor detection and avoidance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "1d23017f-de4e-416d-899b-7759449dc5a1",
+        "0eb20535-9855-4372-ac40-eb2d2fa42e54"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "89e3ef21-74f1-4652-b0d9-0ea2d83185d5",
+        "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
+        "cebf90b5-0639-473c-be81-aa681bed519c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "82715dfa-133e-49e4-b256-5fb466c02267",
+      "dutyDetail": "Excavate site for water network infrastructure work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "1d23017f-de4e-416d-899b-7759449dc5a1",
+        "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
+        "bab3543d-abbe-4880-8a40-ae15d80b70c5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "e4d948f2-8e97-4403-a1f5-a13a981f2ec2",
+        "cebf90b5-0639-473c-be81-aa681bed519c",
+        "e26e20b5-4b2c-4dbe-a413-02b31aa60735"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "076e0dc1-7bd8-4e1c-a520-6a3b4fd329b6",
+      "dutyDetail": "Restore water network infrastructure site to a safe condition to meet clients'/customers' requirements, for example backfill, signing and guarding.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "89e3ef21-74f1-4652-b0d9-0ea2d83185d5",
+        "e4ccaa26-4607-47d5-a6e8-f92c7fa3fbda",
+        "e3bd9b99-41a1-4cae-bb56-864a0a56eedb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "96587562-bf14-4832-b7af-883f114413f8",
+      "dutyDetail": "Keep water network stakeholders informed for example, explain to customers’ work to be undertaken/taken.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02"
+      ],
+      "mappedKnowledge": [
+        "edaf5032-7546-426a-85fb-c1492e302014",
+        "af137fa4-0876-4066-9996-3ce6b3614084",
+        "6ead6974-d6dd-4da9-893a-1967e6acd607",
+        "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
+        "9037f641-2ef0-4e3e-95a5-e6539f34d1bb"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "63c4c2ea-30e6-45fa-bb13-3ed6305badcc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9041a890-e327-4722-b3de-cd7e18e8192d",
+      "dutyDetail": "Complete water network infrastructure records/documentation (written or digital), for example work sheets, time-sheets, drawings, risk-assessments and safety documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7"
+      ],
+      "mappedKnowledge": [
+        "6ead6974-d6dd-4da9-893a-1967e6acd607",
+        "8418ab48-19ed-4bd6-9bf2-ffb27be1182a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e4ccaa26-4607-47d5-a6e8-f92c7fa3fbda"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c9dbdc61-31d4-4b46-89ad-c0799dd905d5",
+      "dutyDetail": "Look after tools and equipment used in water network infrastructure work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
+        "b5f3f4fc-a0e4-428c-9eff-667fbaadf643"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "cd702524-7555-4200-a1a6-ffe0340685b7",
+        "5aae3d0a-1b09-438e-a6da-05b27375b1fa"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fa66fa68-53d9-49f6-9bd5-23792ae76da5",
+      "dutyDetail": "Install clean water network infrastructure for example, new mains, water supply pipes, boundary boxes and meters.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "d750a334-27dd-4a0a-a8de-46eb9d1afccb"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
+        "cd702524-7555-4200-a1a6-ffe0340685b7",
+        "8648d564-cb99-4c86-839b-e2d2526385a1",
+        "f362070f-3e26-4827-be22-4f5b767f49d1",
+        "59ef22b5-d062-4270-97f4-c67fd1e5e658",
+        "077a98c7-fc71-4deb-9585-7a74533cee11",
+        "c8627d02-05fe-445e-9f3a-b591674628dd",
+        "c703aa29-cc2e-4226-b8a1-ecddd8e739b6",
+        "4e0adfc0-233d-4b1d-8d5e-7bd8331742c5",
+        "e82a364d-949d-4a63-a56c-ed20b09387fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "32ec954f-1b5b-46bc-a679-9b33ed301c76",
+      "dutyDetail": "Clean water network operative. Restore functionality of clean water network infrastructure for example, clean to a hygienic standard prior to testing.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "d750a334-27dd-4a0a-a8de-46eb9d1afccb",
+        "53eae8d0-7d9c-4f84-b376-6987b0a2a801"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "d2261e25-64e6-49d3-a7ac-13387df4da62",
+        "42fdabef-9737-4951-9146-7fb2881feeea"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8127c31d-edce-423b-a231-a89cd991a1d6",
+      "dutyDetail": "Clean water network operative. Conduct repairs to clean water network infrastructure (reactive) for example, under-pressure repair and asset repair (valves/ hydrants etc).",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "84144b85-3bd6-4460-adf0-4e253ead30eb"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "8648d564-cb99-4c86-839b-e2d2526385a1",
+        "f362070f-3e26-4827-be22-4f5b767f49d1",
+        "59ef22b5-d062-4270-97f4-c67fd1e5e658",
+        "077a98c7-fc71-4deb-9585-7a74533cee11",
+        "c8627d02-05fe-445e-9f3a-b591674628dd",
+        "c703aa29-cc2e-4226-b8a1-ecddd8e739b6",
+        "4e0adfc0-233d-4b1d-8d5e-7bd8331742c5",
+        "1681e86a-b750-45b9-b7cc-ef3256ebb164",
+        "42fdabef-9737-4951-9146-7fb2881feeea",
+        "2e7aab80-f2ab-4797-94e6-c7488700d67a",
+        "e84d299e-61bf-4212-9b62-4ba74f527ffd",
+        "00aba064-8335-41d2-aa2f-1408cea43fd1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7203f804-0e24-41c0-a1ab-4c6ec4fa8bd9",
+      "dutyDetail": "Clean water network operative. Respond to clean water network infrastructure emergencies and take emergency action for example, repair overland supply pipes, provide alternative supplies equipment (tankers), conduct under-pressure line stopping and diversion.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "edaf5032-7546-426a-85fb-c1492e302014",
+        "af137fa4-0876-4066-9996-3ce6b3614084",
+        "6ead6974-d6dd-4da9-893a-1967e6acd607",
+        "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
+        "8e7b30df-fee6-459e-86e9-d66dbb33fe11",
+        "919d1c80-a120-4a6d-8b8a-09bda8a0c32d"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "75069bbf-7bbd-4c91-a457-a4891b1ab969",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "b95ce363-19f6-426f-b505-300126200c5e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d3a99c66-c184-41eb-b15d-c25ac17c0cda",
+      "dutyDetail": "Clean water network operative. Apply hygiene procedures to water infrastructure in line with national water hygiene regulations - sanitation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "d750a334-27dd-4a0a-a8de-46eb9d1afccb",
+        "84144b85-3bd6-4460-adf0-4e253ead30eb"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "d2261e25-64e6-49d3-a7ac-13387df4da62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aa70da70-d6b2-4894-8665-c60f40470bea",
+      "dutyDetail": "Clean water network operative. Conduct chlorination activities of water infrastructure.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "d750a334-27dd-4a0a-a8de-46eb9d1afccb"
+      ],
+      "mappedOptions": [
+        "21060680-89ad-49bf-8d77-40a4a63cd4d8"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "d2261e25-64e6-49d3-a7ac-13387df4da62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3df97989-ca2d-4948-901e-31036b5004bb",
+      "dutyDetail": "Waste water network operative. Install/construct waste water network infrastructure (planned) for example, gravity and pressurised (foul and storm).",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "776ac351-676d-4e3d-b7ed-d4d3506c9ec8"
+      ],
+      "mappedOptions": [
+        "36f32460-9e39-47dc-b04b-9416e928f7bb"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
+        "cd702524-7555-4200-a1a6-ffe0340685b7",
+        "8648d564-cb99-4c86-839b-e2d2526385a1",
+        "f362070f-3e26-4827-be22-4f5b767f49d1",
+        "e26e20b5-4b2c-4dbe-a413-02b31aa60735",
+        "f7a6b0ae-9efc-4013-8683-10164d9f1906",
+        "ebd1a735-f350-42e9-bf43-b2e2241a3ec4",
+        "36e62bc6-c578-4f7d-98f3-e028e0c2831a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "792bbeb9-1fda-4f65-aed3-1cda20252999",
+      "dutyDetail": "Waste water network operative. Restore functionality of waste water network infrastructure for example, tankering operations and over-pumping",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "776ac351-676d-4e3d-b7ed-d4d3506c9ec8"
+      ],
+      "mappedOptions": [
+        "36f32460-9e39-47dc-b04b-9416e928f7bb"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
+        "e53eb65e-9dc3-4e8c-97c8-e8ae875d6bbe",
+        "e8737cea-f197-4260-8ef0-318a8fdcbe9d",
+        "0b22c770-1465-4469-a3fa-341be5f33bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dede0f21-4262-4712-9cd8-8d3927c55ed6",
+      "dutyDetail": "Waste water network operative. Conduct repairs to waste water network infrastructure (reactive) for example, replacing man-hole cover.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "776ac351-676d-4e3d-b7ed-d4d3506c9ec8",
+        "ed0280c7-bc94-4fbc-888d-e69d7dc5a36a"
+      ],
+      "mappedOptions": [
+        "36f32460-9e39-47dc-b04b-9416e928f7bb"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "8648d564-cb99-4c86-839b-e2d2526385a1",
+        "f7a6b0ae-9efc-4013-8683-10164d9f1906",
+        "f13193e8-04ad-41a4-b70e-f6bded651d2d",
+        "57899697-c3d6-4bd4-befc-e93f625f67b1",
+        "4039d8c9-2a4d-49a3-9eeb-1f69ab5d0703",
+        "36e62bc6-c578-4f7d-98f3-e028e0c2831a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "268007be-68bd-4c4a-8b61-cda4c1cd48cc",
+      "dutyDetail": "Waste water network operative. Respond to waste water network infrastructure emergencies and take emergency action for example, pollution control, flood prevention.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "85e5a3ce-d44b-48ef-abcd-c5f951762d89",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "71a83a23-a257-42e8-a05b-ade12213dc02",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d",
+        "d9640e06-3fe2-4c26-b429-3499655b9bfd"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "edaf5032-7546-426a-85fb-c1492e302014",
+        "af137fa4-0876-4066-9996-3ce6b3614084",
+        "6ead6974-d6dd-4da9-893a-1967e6acd607",
+        "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
+        "403e7c02-0249-4781-a861-26f1fcf081e2",
+        "527de4a2-e72a-4444-bd41-7246d5e1ef0d"
+      ],
+      "mappedOptions": [
+        "36f32460-9e39-47dc-b04b-9416e928f7bb"
+      ],
+      "mappedSkills": [
+        "75069bbf-7bbd-4c91-a457-a4891b1ab969",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "0b22c770-1465-4469-a3fa-341be5f33bf3",
+        "c4246eed-e7a4-4e2d-8d50-01109a36ad94"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f1e80c2f-cdea-40b4-8148-9426c9958b87",
+      "dutyDetail": "Waste water network operative. Undertake hygiene measures for example, leptospirosis, gastroenteritis.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cc051522-203e-471b-b63f-aa09484d003e",
+        "cea6425a-7152-4c0c-98f4-9a6ad76f04e7",
+        "2569afb4-ebf5-46a1-88ee-f163f36dd5c7",
+        "a302893c-106d-4918-8682-e14f43aff27d"
+      ],
+      "mappedKnowledge": [
+        "5b78deaa-54e4-411a-907c-83fafa6cf0c2",
+        "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
+        "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
+        "123d6f54-2fb5-4732-887e-7afcf4399a68"
+      ],
+      "mappedOptions": [
+        "36f32460-9e39-47dc-b04b-9416e928f7bb"
+      ],
+      "mappedSkills": [
+        "8dfcc0a4-9759-4e57-8de7-fbac40488529",
+        "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
+        "dcd9479f-01a3-4fde-a70d-4f72193d0cc6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
