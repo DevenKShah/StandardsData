@@ -1,0 +1,795 @@
+{
+  "larsCode": 474,
+  "referenceNumber": "ST0662",
+  "title": "Automation and controls engineering technician",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/474",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2019-07-03T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Installing and maintaining hardware and software for automation systems",
+  "level": 4,
+  "typicalDuration": 48,
+  "maxFunding": 14000,
+  "route": "Engineering and manufacturing",
+  "keywords": [],
+  "jobRoles": [
+    "Automation and controls engineering technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2923/st0662_automation-_-controls_engineering_technician_l4_epa-for-publication_160419.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in cross sector (e.g. Automotive, Food &amp;amp; Drink, Oil &amp;amp; Gas, Pharmaceutical, Construction), companies involved in manufacturing (discrete or process), logistics or utilities environments.&#160; These employers may be directly involved in these activities or as a provider of services (e.g. systems integration, field service, technical consultancy) to these companies.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is twofold.&lt;/p&gt;\r\n&lt;p&gt;Where the role is based inside a manufacturing (discrete or process), logistics or utilities environments, a fully competent Automation &amp;amp; Control Engineering Technician will be able to install, maintain, fault find and optimise hardware and software for automation systems.&#160;&lt;/p&gt;\r\n&lt;p&gt;Where the role is based in a service provider, OEM (Original Equipment Manufacturer) or approved solutions provider in large or SME (Small to Medium Enterprise) companies, the Automation &amp;amp; Control Engineering Technician will be the interface between the vendor and it’s customer and will be able to competently provide high quality, engineering services such as installation, commissioning, fault finding (the activity of testing an installation prior to handover) and support.&#160;&lt;/p&gt;\r\n&lt;p&gt;For both iterations of this role, this would involve the above duties across a range of hardware such as on Programmable Logic Controllers (PLC), Human Machine Interfaces (HMI), robots and Industrial Networks (e.g. PROFIBUS, DeviceNet, PROFINET, ModBus).&#160; Use of physical tools, software tools and instruments (e.g. multi-meter), are fundamental to carrying out tasks associated with building (e.g. control panels), installing (e.g. site cabling) and maintaining of automation systems.&lt;/p&gt;\r\n&lt;p&gt;This occupation will give employers the ability to maintain successful operational capability.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation will be part of a multi-disciplinary team for example as a member or leader of a project team, maintenance team, service team that will work alongside other stakeholders for example design, production or coordination that interfaces with internal and external customers alike.&#160; Monitoring of the operation of these systems can be carried out either within in-situ control rooms/offices or remotely via web based/GPRS based mobile communications.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for the ordering, coordination of services, working to established operating procedures for resources such as equipment and software to ensure functionality of automation systems are maintained.&#160; In a large company, they would generally report to an engineering manager whereas they may have greater responsibility and autonomy in an SME. Individuals in service provision would certainly find themselves working in a more autonomous situation.&#160; In either situation they would be responsible for their own actions and to protect those around them with respect to health, safety and the environment.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+      "detail": "Engineering maths - mathematical principles and theories that underpin engineering"
+    },
+    {
+      "knowledgeId": "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+      "detail": " Engineering principles - the underlying principles of electrical and electronic circuits and devices"
+    },
+    {
+      "knowledgeId": "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+      "detail": "Functional solutions - Create functional solutions; identifying and justifying a solution to a given engineering need"
+    },
+    {
+      "knowledgeId": "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+      "detail": "Safety procedures - relevant safety procedures required to operate on automation equipment in an industrial environment"
+    },
+    {
+      "knowledgeId": "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+      "detail": " Single and three phase circuits - single phase and three phase supplies on AC and DC motor and control circuits"
+    },
+    {
+      "knowledgeId": "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+      "detail": "Automation knowledge - Programmable Logic Controllers (PLC), Variable Speed Drives (VSD), Human Machine Interface (HMI) & Supervisory Control and Data Acquisition (SCADA), robotics hardware and software tools to carry out configuration, programming and fault finding duties"
+    },
+    {
+      "knowledgeId": "a443f52c-84f6-4d14-9185-5d981c4628fc",
+      "detail": "Instrumentation knowledge - instrumentation used to measure flow, temperature, pressure etc and the means by which they transmit measurement data"
+    },
+    {
+      "knowledgeId": "f4e3f141-e808-460d-b28c-b66c674968d8",
+      "detail": " Use of software tools - Justification in the utilisation of software tools would be for but not limited to the changing of hardware configurations, firmware updates, software modifications and commissioning"
+    },
+    {
+      "knowledgeId": "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+      "detail": " Industrial networking knowledge - the application, installation and operational characteristics of industrial communication networks at Supervisory (e.g. Ethernet), Cell (e.g. PROFINET/PROFIBUS) and Field (e.g. AS-Interface) levels"
+    },
+    {
+      "knowledgeId": "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+      "detail": " Use of diagnostic tools - diagnostic tools and equipment including web-based diagnostics incorporated into network devices and other software tools (e.g. PROFITrace)"
+    },
+    {
+      "knowledgeId": "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+      "detail": "Understand technical documents - Ability to follow electrical system circuit diagrams, understand the operation of the various components that make up an automation system"
+    },
+    {
+      "knowledgeId": "530b96e2-59fb-4c49-8c33-8413773d6a93",
+      "detail": "Safety legislation and responsibilities - electrical safety system legislation & directives"
+    },
+    {
+      "knowledgeId": "7e6f6792-871f-4343-8c81-984106c97b72",
+      "detail": "Quality systems - quality assurance principles to ensure operation, consistency and quantification of enhancement of manufacturing and process applications"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+      "detail": "Zero Harm - Always prioritise on Health and Safety best practice"
+    },
+    {
+      "behaviourId": "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+      "detail": "esilience - Sound and established ability to work effectively both in a team and alone"
+    },
+    {
+      "behaviourId": "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+      "detail": "Personal excellence - Interact professionally with clients and stakeholders"
+    },
+    {
+      "behaviourId": "e2948890-3590-4a95-baba-59718b97d50c",
+      "detail": "Communicative - High quality communication skills"
+    },
+    {
+      "behaviourId": "9c06b034-e487-4094-951c-3dbf3a576444",
+      "detail": "Ethical - Strong professional and business ethics"
+    },
+    {
+      "behaviourId": "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+      "detail": " Commitment - A focus on quality in all the tasks assigned"
+    },
+    {
+      "behaviourId": "958fe186-d271-42fc-82c8-b34591be9d78",
+      "detail": "Continual development - Willingness to learn new processes, methods and technologies"
+    },
+    {
+      "behaviourId": "5f82d548-cf0d-4040-bac4-ee229d06c109",
+      "detail": " Responsibility - Strong commitment and accountability and ability to apply independent judgement"
+    },
+    {
+      "behaviourId": "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+      "detail": "Personal Values - Respect and tolerance of others"
+    },
+    {
+      "behaviourId": "29c2a173-5308-4e05-83b2-24559889ec9c",
+      "detail": "Ambassadorial - To be a role model of engineering practice and to promote engineering in order to sustain a pipeline of future talent"
+    },
+    {
+      "behaviourId": "b8f823d9-62f0-4f31-8c8a-289f61d102f8",
+      "detail": " Reflection - Evaluate outcomes of own performance across all duties"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+      "detail": "Safety Effective - The ability to work safely in an industrial environment and where required, produce risk assessment/method statement documentation.  Be able to apply the principles of functional machinery and/or process safety including SIL (Safety Integrated Level) and PL (Performance Level) terminology"
+    },
+    {
+      "skillId": "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+      "detail": "Engineering documentation - Production and interpretation of a range of technical documentation (device manuals, operating procedures, schematics, fault reports etc), and working with company documentation systems"
+    },
+    {
+      "skillId": "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+      "detail": " Project engineering capabilities - Support of installation, commissioning, shut-down, start-up and maintenance/service/support of a wide range of systems and devices"
+    },
+    {
+      "skillId": "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+      "detail": "Diagnostic capabilities - Fault finding, diagnosis, rectification and reporting of automation control systems and controls applications via the utilisation of formal problem solving methods and diagnostic tools/software"
+    },
+    {
+      "skillId": "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+      "detail": "Instrumentation configuration and calibration - Set-up, calibrate and commission a wide variety of field level instrumentation that interfaces to automation & control systems"
+    },
+    {
+      "skillId": "9c175043-b690-4744-a462-3efd08f8c922",
+      "detail": "Industrial Networks configuration and support - configure, assist commissioning and continued support of industrial network solutions at all hierarchical levels of control system integration using the requisite tools and or software"
+    },
+    {
+      "skillId": "018c66ba-b489-47e0-b184-1c59404b5062",
+      "detail": "HMI & SCADA configuration and programming - Make changes to existing systems or implement new configurations"
+    },
+    {
+      "skillId": "f0ab4ad6-7b1a-4868-8654-da235ab0f14f",
+      "detail": "PLC/Robot configuration and programming - Implement complex PLC/Robot program content and configurations to affect changes to increase availability and or efficiency of automation controlled machinery and the ability to configure PLC and or Robot hardware and program a wide variety of PLC’s and or Robot’s"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
+  "integratedDegree": "",
+  "tbReference": "TB0226",
+  "tbMainContact": "jason.phin@siemens.com ",
+  "involvedEmployers": "Siemens, Amazon, Toyota UK, Bentley Motors, Mondelez, Omega, Mechatronics international UK, Bae Systems, Kuka Robotics, Fairfield Control Systems",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Automation and controls engineering technician"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "createdDate": "2020-02-10T10:53:18 +00:00",
+  "lastUpdated": "2020-02-10T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/automation-and-controls-engineering-technician-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/automation-and-controls-engineering-technician-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "6e098ca0-c51c-4499-8249-3cea130b875f",
+      "title": "Technical engineering qualification covering at least one of the following areas: Electrical/Electronic Engineering, General Engineering, Manufacturing Engineering, Operations Engineering",
+      "level": "0"
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Engineering & Technology (IET) ",
+      "level": "0",
+      "isPartial": null,
+      "partialFreeText": null
+    },
+    {
+      "bodyName": "Institutue of Mechanical Engineers (IMechE)",
+      "level": "0",
+      "isPartial": null,
+      "partialFreeText": null
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "7641174b-0b28-4ef4-9971-688f6ec456eb",
+      "dutyDetail": "Setup of a wide range of hardware and software found on industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "The set-up duty  is concerned with the preparation of devices either on the control system itself or devices such as laptops on which programming and set-up tools will be deployed.  This duty can take place during commissioning or  as a result of making a change or replacing devices of an existing operational system.\n\nCriteria for measurement: -\n\nSoftware installed on PCs correctly, using the right version of the software for the hardware being configured.\n\nHardware settings correctly applied to devices to meet specifications of the job.\n\nSystems made operational after changes or updates including configuration / re-configuration via software tools   \n\nAll safety standards met or exceeded\n\nDevices set up correctly using manufacturers technical information."
+    },
+    {
+      "dutyID": "4ef6fd3d-5795-4872-8d1e-d926fed9db22",
+      "dutyDetail": "Program a wide range of hardware using a range of software tools on control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This duty is normally carried out prior to installation of a control system but will also be deployed during factory acceptance testing, during commissioning and post operation optimization. \n\nCriteria for measurement: -\n\nDevices are correctly parameterized according to required functionality and purpose.\n\nEffective software solutions (programs) are implemented and correct functionality is achieved.\n\nAll safety standards met or exceeded\n\nThe customer's requirement for functionality is understood and delivered in line with expectations"
+    },
+    {
+      "dutyID": "f6ff45a0-49ed-46fa-9d86-2ac93ca4d8ef",
+      "dutyDetail": "Commission a wide range of hardware and/or software found in industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "Commissioning is the pre-operation phase of testing of functionality prior to systems being released for full operational requirements. Criteria for measurement: -\n\nAll wired electrical systems are connected correctly\n\nSafe power-up checks are implemented in compliance with method statements\n\nCorrect functionality of device performance measures up to functional requirements\n\nAll safety standards met or exceeded\n\nUse and understanding of a wide range of supporting documentation including electrical schematic diagrams, Functional Design Specification (FDS) or User Requirement Specification (URS), manufacturers data sheets and operation manuals to ensure correct functionality is delivered in line with requirements."
+    },
+    {
+      "dutyID": "4de55a0d-fd25-4ef3-bc57-4a77746d366c",
+      "dutyDetail": "Service a wide range of hardware found on today’s industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "is proactive activity would take place over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nLatest firmware upgrades are downloaded into existing devices\n\nAscertain effectiveness of hardware performance against required functionality.\n\nInterpret and use manufacturers guidelines to aid service requirements of devices.\n\nAll safety standards met or exceeded\n\nDocumentation updated indicating that servicing has taken place."
+    },
+    {
+      "dutyID": "668530f4-8bda-4120-a5f8-f83ad9291694",
+      "dutyDetail": "Maintain a wide range of hardware and software found on today’s industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "his proactive activity would take place over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nLatest firmware upgrades downloaded into existing devices\n\nRelevant versions of software configuration tools on computers/laptops are maintained.\n\nEffectiveness of hardware performance against required functionality ascertained.\n\nInterpret and use manufacturers guidelines to aid maintenance requirements of devices.\n\nAll safety standards met or exceeded\n\nDocumentation updated indicating that maintenance has taken place"
+    },
+    {
+      "dutyID": "e7e8696d-75e8-4739-83fc-c4382e760177",
+      "dutyDetail": "Develop or modify automation and control system programs using a variety of different  programing tools, languages and techniques",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This activity would take place primarily at the beginning of a project but would also be utilised during testing & commissioning and during the operational lifecycle of the automation system for optimisation and additional functional requirements.\n\nCriteria for measurement: -\n\nProgram functionality in the required language (e.g. ladder logic), to a given specification or requirements.\n\nUnderstand and explain existing software solutions written in languages (e.g. ladder logic).\n\nPlan software solutions prior to development.\n\nAccurate and clear supporting documentation of the program is provided.\n\nAll safety standards met or exceeded.\n\nDocumentation/operator manuals are updated reflecting any changes made to existing systems."
+    },
+    {
+      "dutyID": "651e9762-6163-40b1-b684-d551e76d15c2",
+      "dutyDetail": "Test and validate automation & control systems to ensure that they are safe, functional and satisfy the requirements of a system specification, complying with national and/or international standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This activity would take place during commissioning and over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nManufacturers or system specific operational information used to gauge existing performance against required performance.\n\nProcesses for recording test & validation activities are updated and maintained.\n\nAll safety standards met or exceeded.\n\nAppropriate national/international standards have been complied with."
+    },
+    {
+      "dutyID": "bdeb30fa-143c-40f4-a901-962c50556bed",
+      "dutyDetail": "Support and maintain the integration of electrical/electronic safety devices within an automation & control system",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This activity would take place over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nSafety devices specified for the function and their suitability is understood.\n\nEffective lock-off and safe isolation procedures carried out.\n\nManufacturers product information with regards installation, operation and replacement are understood and applied.\n\nRisk assessments for electrical safety circuits are understood and applied.\n\nTerminology and relevance of safety levels (e.g. SIL 3 or PLe) are understood"
+    },
+    {
+      "dutyID": "33a79166-2786-43f9-a411-33fdb121f643",
+      "dutyDetail": "Install, support and maintain devices linked to and across Industrial Networking infrastructures including configuration and programming duties to ensure that the flow of data across these devices is maintained",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This activity would take place over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nFirmware on all devices are kept up to date in line with manufacturer recommendations and available updates.\n\nAppropriate  network topologies are installed and maintained.\n\nAppropriate software configurations and program solutions are implemented\n\nSituations where updating firmware should not be carried out are identified.\n\nAll safety standards met or exceeded\n\nDocumentation that requires change subject to update activities are maintained.\n\nBack-ups of previous configurations are implemented."
+    },
+    {
+      "dutyID": "9f395350-0d74-4001-8ba3-613944b4c10d",
+      "dutyDetail": "Provide effective fault escalation support to first line service personnel that lead to successful return to operation of automation & control systems",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This reactive activity would take place over the operational lifecycle of a control system.\n\nCriteria for measurement: -\n\nInformation about a faulty situation is obtained and used to provide a suitable solution.\n\nCommunicate effectively with all stakeholders.\n\nAll safety standards met or exceeded, \n\nSafety of others is ensured during start/re-start of a system.\n\nTechnical information from sources such as operator manuals, electrical schematics, software configurations is understood and applied.\n\nOther resources such as manufacturer technical support facilities used effectively."
+    },
+    {
+      "dutyID": "faee008d-8ecf-4000-a9e7-74ae1e019aaa",
+      "dutyDetail": " Supervise/manage/oversee activities such as installation of automation & control equipment and industrial networks",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "This activity would take place during the installation lifecycle of a control system.\n\nCriteria for measurement: -\n\nTechnical information such as electrical schematics, wiring schedules are understood and applied\n\nA safe working environment is maintained.\n\nManufacturers product guidelines regarding installation of equipment are understood and applied.\n\nEffective communication with all installation parties is maintained in order to escalate/resolve issues."
+    },
+    {
+      "dutyID": "a863af01-835c-4e71-ab73-105c259e8782",
+      "dutyDetail": "Upkeep and maintenance of own knowledge of by actively engaging in a program of CPD for example to keep abreast of changes to legislation, standards (e.g. quality), state of technology",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "29c2a173-5308-4e05-83b2-24559889ec9c",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5"
+      ],
+      "criteriaForMeasuringPerformance": "Criteria for measurement: -\n\nAppropriate seminars, exhibitions and training courses are attended\n\nEngaged in promoting engineering activities such as careers fairs\n\nParticipated in skills competitions (e.g. World Skills)"
+    },
+    {
+      "dutyID": "1b3fad08-5218-48e8-90e2-a5acd19c7fda",
+      "dutyDetail": "Apply relevant safety legislation, and any extra company requirements when working with industrial networking, automation & control systems",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "urses and site inductions.\n\nCriteria for measurement: -\n\nRelevant safety legislation is applied\n\nEffective risk assessment is carried out prior to work activities.\n\nAll safety standards met or exceeded\n\nSafe working environment is maintained."
+    },
+    {
+      "dutyID": "356dc3b0-a6d6-4e79-ad03-91ba51cfd9cf",
+      "dutyDetail": "Carry out effective risk assessments when undertaking engineering activities on automation systems",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": "The duty will usually be carried out prior to undertaking work activities that may be proactive (e.g. commissioning) or reactive in nature (e.g.fault finding). \n\nCriteria for measurement: -\n\nAppropriate hazard identification .\n\nAppropriate risks identified and reduced.\n\nProbability of occurrence identified and if necessary, reduced.\n\nA risk assessment document is produced"
+    }
+  ],
+  "regulationDetail": []
+}
