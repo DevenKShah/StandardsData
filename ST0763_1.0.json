@@ -1,0 +1,783 @@
+{
+  "larsCode": 561,
+  "referenceNumber": "ST0763",
+  "title": "Artificial intelligence (AI) data specialist",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/561",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2020-05-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Discover new artificial intelligence solutions that use data to improve and automate business processes",
+  "level": 7,
+  "typicalDuration": 24,
+  "maxFunding": 17000,
+  "route": "Digital",
+  "keywords": [],
+  "jobRoles": [
+    "Machine learning engineer",
+    "Artificial intelligence engineer",
+    "Director AI",
+    "AI strategy manager",
+    "Artificial intelligence specialist",
+    "Machine learning specialist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3685/st0763_artificial-intelligence-ai-data-specialist_l7_ap-for-publication_qm.pdf",
+  "ssa1": "6 Information and Communication Technology (ICT)",
+  "ssa2": "6.1 ICT practitioners",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "2139 - Information technology and telecommunications professionals n.e.c.",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in any sector or organisation that analyses high-volume or complex data sets using advanced computational methods, such as Agriculture, Environmental, Business, Leisure, Travel, Hospitality, Education, Public Services, Construction, Creative and Design, Media, Engineering, Technology, Manufacturing, Health, Science, Legal, Finance, Accountancy, Sales, Marketing, Procurement, Transport and Logistics&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to discover and devise new data-driven AI solutions to automate and optimise business processes and to support, augment and enhance human decision-making. AI Data Specialists carry out applied research in order to create innovative data-driven artificial intelligence (AI) solutions to business problems within the constraints of a specific business context. They work with datasets that are too large, too complex, too varied or too fast, that render traditional approaches and techniques unsuitable or unfeasible. &lt;br /&gt;&lt;br /&gt;AI Data Specialists champion AI and its applications within their organisation and promote adoption of novel tools and technologies, informed by current data governance frameworks and ethical best practices. &lt;br /&gt;&lt;br /&gt;They deliver better value products and processes to the business by advancing the use of data, machine learning and artificial intelligence; using novel research to increase the quality and value of data within the organisation and across the industry. They communicate, internally and externally, with technology leaders and third parties. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a broad spectrum of people and collaborates with, and provides technical authority and insight to, a diverse business community of Senior Leaders Data Scientists, Data Engineers, Statisticians, Analysts, Research and Development Scientists and Academics. Their interactions extend to working externally alongside other organisations, such as local and international governments, businesses, policy regulators, academic research scientists and non-technical audiences. They will work independently and collaboratively as required, reporting to Heads of Data, Chief Architects, Company Directors, Product Managers and senior decision makers within any organisation.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for initiating new projects in an agile environment, and collaboratively maintaining technical standards within AI solutions applied across the organisation and its customers. They lead research into AI and its potential application within the business. They collaborate with and influence policy and operations teams to identify areas where AI solutions can create new business opportunities and efficiencies.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+      "detail": "How to use AI and machine learning methodologies such as data-mining, supervised/unsupervised machine learning, natural language processing, machine vision to meet business objectives"
+    },
+    {
+      "knowledgeId": "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+      "detail": "How to apply modern data storage solutions, processing technologies and machine learning methods to maximise the impact to the organisation by drawing conclusions from applied research"
+    },
+    {
+      "knowledgeId": "ad248012-df5c-4587-bf2e-ca662161d132",
+      "detail": "How to apply advanced statistical and mathematical methods to commercial projects"
+    },
+    {
+      "knowledgeId": "c2fa6d17-3560-459c-a777-26837a2c0194",
+      "detail": "How to extract data from systems and link data from multiple systems to meet business objectives"
+    },
+    {
+      "knowledgeId": "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+      "detail": "How to design and deploy effective techniques of data analysis and research to meet the needs of the business and customers"
+    },
+    {
+      "knowledgeId": "c765e904-d945-4582-a03b-2788a29d01af",
+      "detail": "How data products can be delivered to engage the customer, organise information or solve a business problem using a range of methodologies, including iterative and incremental development and project management approaches"
+    },
+    {
+      "knowledgeId": "58f29795-b4ef-49e3-ab62-181eb84d6061",
+      "detail": "How to solve problems and evaluate software solutions via analysis of test data and results from research, feasibility, acceptance and usability testing"
+    },
+    {
+      "knowledgeId": "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+      "detail": "How to interpret organisational policies, standards and guidelines in relation to AI and data"
+    },
+    {
+      "knowledgeId": "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+      "detail": "The current or future legal, ethical, professional and regulatory frameworks which affect the development, launch and ongoing delivery and iteration of data products and services."
+    },
+    {
+      "knowledgeId": "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+      "detail": "How own role fits with, and supports, organisational strategy and objectives"
+    },
+    {
+      "knowledgeId": "98179ea5-5eb6-403b-aa51-126f878701f1",
+      "detail": "The roles and impact of AI, data science and data engineering in industry and society"
+    },
+    {
+      "knowledgeId": "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+      "detail": "The wider social context of AI, data science and related technologies, to assess business impact of current ethical issues such as workplace automation and misuse of data"
+    },
+    {
+      "knowledgeId": "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+      "detail": "How to identify the compromises and trade-offs which must be made when translating theory into practice in the workplace"
+    },
+    {
+      "knowledgeId": "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+      "detail": "The business value of a data product that can deliver the solution in line with business needs, quality standards and timescales"
+    },
+    {
+      "knowledgeId": "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+      "detail": "The engineering principles used (general and software) to investigate and manage the design, development and deployment of new data products within the business"
+    },
+    {
+      "knowledgeId": "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+      "detail": "Understand high-performance computer architectures and how to make effective use of these"
+    },
+    {
+      "knowledgeId": "60a6105c-4152-4434-8ed1-8319898bb6d9",
+      "detail": "How to identify current industry trends across AI and data science and how to apply these"
+    },
+    {
+      "knowledgeId": "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+      "detail": "The programming languages and techniques applicable to data engineering"
+    },
+    {
+      "knowledgeId": "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+      "detail": "The principles and properties behind statistical and machine learning methods"
+    },
+    {
+      "knowledgeId": "7b873130-625e-4113-ab1d-b216a6b01d63",
+      "detail": "How to collect, store, analyse and visualise data"
+    },
+    {
+      "knowledgeId": "7a702923-8557-4478-ae26-fc75d4066dc9",
+      "detail": "How AI and data science techniques support and enhance the work of other members of the team"
+    },
+    {
+      "knowledgeId": "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+      "detail": "The relationship between mathematical principles and core techniques in AI and data science within the organisational context"
+    },
+    {
+      "knowledgeId": "3abc8cf9-ddd6-4886-b936-4dda7522279b",
+      "detail": "The use of different performance and accuracy metrics for model validation in AI projects"
+    },
+    {
+      "knowledgeId": "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
+      "detail": "Sources of error and bias, including how they may be affected by choice of dataset and methodologies applied"
+    },
+    {
+      "knowledgeId": "4931d527-5397-42d1-96d8-6fcc1f3849b5",
+      "detail": "Programming languages and modern machine learning libraries for commercially beneficial scientific analysis and simulation"
+    },
+    {
+      "knowledgeId": "4eeb8b05-4197-4879-863a-d4295dcb90b6",
+      "detail": "The scientific method and its application in research and business contexts, including experiment design and hypothesis testing"
+    },
+    {
+      "knowledgeId": "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e",
+      "detail": "The engineering principles used (general and software) to create new instruments and applications for data collection"
+    },
+    {
+      "knowledgeId": "51cd0953-b387-470b-8a4b-3fa536388075",
+      "detail": "How to communicate concepts and present in a manner appropriate to diverse audiences, adapting communication techniques accordingly"
+    },
+    {
+      "knowledgeId": "596706b7-cec9-4cee-87bc-b729658c2e94",
+      "detail": "The need for accessibility for all users and diversity of user needs"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "19bed421-3a3a-4068-a225-11f9d5fda6db",
+      "detail": "A strong work ethic and commitment in order to meet the standards required."
+    },
+    {
+      "behaviourId": "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+      "detail": "Reliable, objective and capable of independent and team working"
+    },
+    {
+      "behaviourId": "cc48f0fb-3b55-446b-8c66-e283319ae673",
+      "detail": "Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security"
+    },
+    {
+      "behaviourId": "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+      "detail": "Initiative and personal responsibility to overcome challenges and take ownership for business solutions"
+    },
+    {
+      "behaviourId": "9acad373-61b4-43bf-a830-3b2cc1744bbd",
+      "detail": "Commitment to continuous professional development; maintaining their knowledge and skills in relation to AI developments that influence their work"
+    },
+    {
+      "behaviourId": "dc814099-4599-44ba-8003-0d81fff63a53",
+      "detail": "Is comfortable and confident interacting with people from technical and non-technical backgrounds. Presents data and conclusions in a truthful and appropriate manner"
+    },
+    {
+      "behaviourId": "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec",
+      "detail": "Participates and shares best practice in their organisation, and the wider community around all aspects of AI data science"
+    },
+    {
+      "behaviourId": "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5",
+      "detail": "Maintains awareness of trends and innovations in the subject area, utilising a range of academic literature, online sources, community interaction, conference attendance and other methods which can deliver business value"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+      "detail": "Use applied research and data modelling to design and refine the database & storage architectures to deliver secure, stable and scalable data products to the business"
+    },
+    {
+      "skillId": "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+      "detail": "Independently analyse test data, interpret results and evaluate the suitability of proposed solutions, considering current and future business requirements"
+    },
+    {
+      "skillId": "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+      "detail": "Critically evaluate arguments, assumptions, abstract concepts and data (that may be incomplete), to make recommendations and to enable a business solution or range of solutions to be achieved"
+    },
+    {
+      "skillId": "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+      "detail": "Communicate concepts and present in a manner appropriate to diverse audiences, adapting communication techniques accordingly"
+    },
+    {
+      "skillId": "5fb38e34-8148-4275-8ddb-40d9e8133473",
+      "detail": "Manage expectations and present user research insight, proposed solutions and/or test findings to clients and stakeholders."
+    },
+    {
+      "skillId": "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+      "detail": "Provide direction and technical guidance for the business with regard to AI and data science opportunities"
+    },
+    {
+      "skillId": "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+      "detail": "Work autonomously and interact effectively within wide, multidisciplinary teams"
+    },
+    {
+      "skillId": "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+      "detail": "Coordinate, negotiate with and manage expectations of diverse stakeholders suppliers with conflicting priorities, interests and timescales"
+    },
+    {
+      "skillId": "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+      "detail": "Manipulate, analyse and visualise complex datasets"
+    },
+    {
+      "skillId": "27651021-35d7-4415-a845-bbf4c6a12c47",
+      "detail": "Select datasets and methodologies most appropriate to the business problem"
+    },
+    {
+      "skillId": "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+      "detail": "Apply aspects of advanced maths and statistics relevant to AI and data science that deliver business outcomes"
+    },
+    {
+      "skillId": "e7a898fd-6c7e-4dae-937a-459533913645",
+      "detail": "Consider the associated regulatory, legal, ethical and governance issues when evaluating choices at each stage of the data process"
+    },
+    {
+      "skillId": "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+      "detail": "Identify appropriate resources and architectures for solving a computational problem within the workplace"
+    },
+    {
+      "skillId": "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+      "detail": "Work collaboratively with software engineers to ensure suitable testing and documentation processes are implemented."
+    },
+    {
+      "skillId": "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+      "detail": "Develop, build and maintain the services and platforms that deliver AI and data science"
+    },
+    {
+      "skillId": "5a876141-cc26-44cc-a978-3cba7fbbfc96",
+      "detail": "Define requirements for, and supervise implementation of, and use data management infrastructure, including enterprise, private and public cloud resources and services"
+    },
+    {
+      "skillId": "a56bbb66-dd52-4030-93d1-bf19d08492a6",
+      "detail": "Consistently implement data curation and data quality controls"
+    },
+    {
+      "skillId": "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+      "detail": "Develop tools that visualise data systems and structures for monitoring and performance"
+    },
+    {
+      "skillId": "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+      "detail": "Use scalable infrastructures, high performance networks, infrastructure and services management and operation to generate effective business solutions."
+    },
+    {
+      "skillId": "e246397c-d210-4c62-8ccd-06a79d252ac6",
+      "detail": "Design efficient algorithms for accessing and analysing large amounts of data, including Application Programming Interfaces (API) to different databases and data sets"
+    },
+    {
+      "skillId": "1b158e62-fba3-429a-ba1d-899e2535764e",
+      "detail": "Identify and quantify different kinds of uncertainty in the outputs of data collection, experiments and analyses"
+    },
+    {
+      "skillId": "f00fe691-98bb-4107-88b6-d3237ebd7b21",
+      "detail": "Apply scientific methods in a systematic process through experimental design, exploratory data analysis and hypothesis testing to facilitate business decision making"
+    },
+    {
+      "skillId": "9c512181-d57b-4979-80cc-394febe54979",
+      "detail": "Disseminate AI and data science practices across departments and in industry, promoting professional development and use of best practice"
+    },
+    {
+      "skillId": "1bba7517-b2c5-40d7-8363-7b377a1e9ee9",
+      "detail": "Apply research methodology and project management techniques appropriate to the organisation and products"
+    },
+    {
+      "skillId": "ebbcaa34-1912-471b-8c00-768168bb78c1",
+      "detail": "Select and use programming languages and tools, and follow appropriate software development practices"
+    },
+    {
+      "skillId": "1ba082b2-8598-42fe-ab8e-23fb50f1e53d",
+      "detail": "Select and apply the most effective/appropriate AI and data science techniques to solve complex business problems"
+    },
+    {
+      "skillId": "b2dde58f-773d-42d7-b5c8-46498b5f0703",
+      "detail": "Analyse information, frame questions and conduct discussions with subject matter experts and assess existing data to scope new AI and data science requirements"
+    },
+    {
+      "skillId": "17aaead3-e1ee-4112-9ebb-53a1383be007",
+      "detail": "Undertakes independent, impartial decision-making respecting the opinions and views of others in complex, unpredictable and changing circumstances"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0388",
+  "tbMainContact": "huw.davies1@bbc.co.uk",
+  "involvedEmployers": "British Broadcasting Corporation, Public Health England, Bank of England, Royal Mail Group, Unilever, TUI, Aviva, Shop Direct, Defence Science Technology Laboratory – MOD, Ericsson, First Response Finance LTD, GlaxoSmithKline, AstraZeneca, EasyJet, BT, Barclays, Machinable, Office of National Statistics, UBS",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Machine learning engineer",
+    "Artificial intelligence engineer",
+    "Director AI",
+    "AI strategy manager",
+    "Artificial intelligence specialist",
+    "Machine learning specialist"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "pathway": "Digital Business Services",
+  "cluster": "Digital Solutions Professional",
+  "createdDate": "2019-08-28T09:53:53 +00:00",
+  "lastUpdated": "2020-05-13T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "089c3251-0e7b-4c66-86b8-13681f8848b3",
+      "dutyDetail": "Initiate new projects in an agile environment, and collaboratively maintain technical standards within AI solutions applied across the organisation and its customers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "9acad373-61b4-43bf-a830-3b2cc1744bbd",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+        "c765e904-d945-4582-a03b-2788a29d01af",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "7a702923-8557-4478-ae26-fc75d4066dc9",
+        "596706b7-cec9-4cee-87bc-b729658c2e94"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "1b158e62-fba3-429a-ba1d-899e2535764e",
+        "f00fe691-98bb-4107-88b6-d3237ebd7b21",
+        "9c512181-d57b-4979-80cc-394febe54979",
+        "1bba7517-b2c5-40d7-8363-7b377a1e9ee9",
+        "17aaead3-e1ee-4112-9ebb-53a1383be007"
+      ],
+      "criteriaForMeasuringPerformance": "Research prototypes are developed to organisational/customer requirements in line with industry standards."
+    },
+    {
+      "dutyID": "a2aecf6f-2301-482e-b47d-254f9a002727",
+      "dutyDetail": "Critically evaluate and synthesise research findings in AI and related fields and translate into organisational context.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "ad248012-df5c-4587-bf2e-ca662161d132",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+        "7a702923-8557-4478-ae26-fc75d4066dc9",
+        "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+        "4eeb8b05-4197-4879-863a-d4295dcb90b6"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "1bba7517-b2c5-40d7-8363-7b377a1e9ee9",
+        "1ba082b2-8598-42fe-ab8e-23fb50f1e53d"
+      ],
+      "criteriaForMeasuringPerformance": "Research findings in AI and related fields are clearly articulated and documented, translating them into potential impacts, opportunities and threats for the organisation."
+    },
+    {
+      "dutyID": "90143327-e308-487c-8554-e395fca880ea",
+      "dutyDetail": "Use the conclusions drawn from applied research in order to develop innovative, scalable data-driven AI solutions for business problems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+        "4eeb8b05-4197-4879-863a-d4295dcb90b6",
+        "51cd0953-b387-470b-8a4b-3fa536388075"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "1bba7517-b2c5-40d7-8363-7b377a1e9ee9",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1",
+        "1ba082b2-8598-42fe-ab8e-23fb50f1e53d"
+      ],
+      "criteriaForMeasuringPerformance": "New projects are initiated and maintained to organisational/customer requirements in line with industry standards."
+    },
+    {
+      "dutyID": "33eed38e-1e27-4a2f-ae75-4a64f36f4f3b",
+      "dutyDetail": "Contribute to the development and ethical and legal conduct of AI systems and processes, in  line with organisational and regulatory requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "cc48f0fb-3b55-446b-8c66-e283319ae673",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "98179ea5-5eb6-403b-aa51-126f878701f1",
+        "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+        "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
+        "596706b7-cec9-4cee-87bc-b729658c2e94"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "a56bbb66-dd52-4030-93d1-bf19d08492a6"
+      ],
+      "criteriaForMeasuringPerformance": "Effective solutions are delivered in accordance with principles of responsible research and innovation for automated AI decision-making systems. Governance frameworks are established which take into account legal and regulatory requirements including privacy issues."
+    },
+    {
+      "dutyID": "087f982e-deed-458c-bc9d-5dee46d08ac7",
+      "dutyDetail": "Investigate and devise the most efficient and effective architectures, to enable and maximise the use and impact of AI systems and solutions for the organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc48f0fb-3b55-446b-8c66-e283319ae673",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+        "4eeb8b05-4197-4879-863a-d4295dcb90b6",
+        "596706b7-cec9-4cee-87bc-b729658c2e94"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+        "5a876141-cc26-44cc-a978-3cba7fbbfc96",
+        "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1"
+      ],
+      "criteriaForMeasuringPerformance": "Effective architectures are delivered in line with agreed timescales and to organisational requirements."
+    },
+    {
+      "dutyID": "1a936f6a-215f-4232-a274-4a54748ead71",
+      "dutyDetail": "Develop innovative approaches to tackle known business problems that previously did not have a feasible solution within the constraints of a specific business context.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "cc48f0fb-3b55-446b-8c66-e283319ae673",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "dc814099-4599-44ba-8003-0d81fff63a53"
+      ],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
+        "596706b7-cec9-4cee-87bc-b729658c2e94"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "b2dde58f-773d-42d7-b5c8-46498b5f0703"
+      ],
+      "criteriaForMeasuringPerformance": "Innovative approaches are developed to meet industry standards utilising a full range of AI and related technologies to create and build solutions that can be used by strategic or operational users and can be further integrated into business systems."
+    },
+    {
+      "dutyID": "daadc633-732b-4797-bde9-b6c8e7ee489e",
+      "dutyDetail": "Initiate and design scalable batch/real-time analytical solutions to business problems leveraging AI and related technologies such as, data science, machine learning and statistics and related technologies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "e6515e01-1e1b-4726-b005-bb8167ffc0ef",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "7b873130-625e-4113-ab1d-b216a6b01d63",
+        "3abc8cf9-ddd6-4886-b936-4dda7522279b",
+        "4931d527-5397-42d1-96d8-6fcc1f3849b5",
+        "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+        "e246397c-d210-4c62-8ccd-06a79d252ac6",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1",
+        "1ba082b2-8598-42fe-ab8e-23fb50f1e53d",
+        "17aaead3-e1ee-4112-9ebb-53a1383be007"
+      ],
+      "criteriaForMeasuringPerformance": "Solutions are designed and developed in line with agreed timescales and organisational and industry standards."
+    },
+    {
+      "dutyID": "e8d52fcb-3140-4cb4-92a3-5e371550b320",
+      "dutyDetail": "Enhance awareness of the wider application of AI tools and technologies across the business so that opportunities for its use can be identified",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "9acad373-61b4-43bf-a830-3b2cc1744bbd",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "98179ea5-5eb6-403b-aa51-126f878701f1",
+        "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+        "9585a9aa-9d43-48c2-8c18-ff703fc5e54f",
+        "7a702923-8557-4478-ae26-fc75d4066dc9",
+        "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
+        "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e",
+        "51cd0953-b387-470b-8a4b-3fa536388075"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "9c512181-d57b-4979-80cc-394febe54979",
+        "b2dde58f-773d-42d7-b5c8-46498b5f0703"
+      ],
+      "criteriaForMeasuringPerformance": "The use of AI and its applications are championed within the organisation and novel tools and technologies are adopted."
+    },
+    {
+      "dutyID": "7e6d4383-b1c7-416f-9977-d9349fb2c27c",
+      "dutyDetail": "Develop and architect new robust data sourcing and processing systems to serve the organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "cc48f0fb-3b55-446b-8c66-e283319ae673",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "c2fa6d17-3560-459c-a777-26837a2c0194",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "5c6bfb03-923a-473c-90b6-5483022b9d6d",
+        "1611ed65-fb6d-40ee-a3dc-85b2f61b6d84",
+        "5a876141-cc26-44cc-a978-3cba7fbbfc96",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1"
+      ],
+      "criteriaForMeasuringPerformance": "New data sources are integrated into business processes in line with organisational change management processes. Analytics and statistical methods for data preparation and pre-processing are applied. Opportunities are identified to integrate data from silos both within and outside the organisation, to provide value added insights. These data pipelines should follow organisational and general architecture best practice."
+    },
+    {
+      "dutyID": "b4f45d24-03b9-453f-8457-6de708f52824",
+      "dutyDetail": "Design technical roadmaps for data life-cycles ensuring appropriate support and business processes are in place.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "c765e904-d945-4582-a03b-2788a29d01af",
+        "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "a56bbb66-dd52-4030-93d1-bf19d08492a6",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1"
+      ],
+      "criteriaForMeasuringPerformance": "Technical roadmaps are designed and maintained to organisational requirements. Clear plans for evolution of the technologies, and the relevant support and business processes, are in place."
+    },
+    {
+      "dutyID": "e3291715-6c64-4116-ac4e-563654afa0b0",
+      "dutyDetail": "Create and optimise efficient mechanisms for accessing and analysing datasets that are too large, too complex, too varied or too fast, that render traditional approaches and techniques unsuitable or unfeasible, in order to deliver business outcomes",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "d48447f6-5d40-4cf8-9ca8-2ccde4d3ae5e",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e"
+      ],
+      "mappedKnowledge": [
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf",
+        "f20dd211-17b1-49c0-9e79-58bf1a9d2177",
+        "7b873130-625e-4113-ab1d-b216a6b01d63",
+        "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+        "3abc8cf9-ddd6-4886-b936-4dda7522279b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
+        "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "e246397c-d210-4c62-8ccd-06a79d252ac6",
+        "ebbcaa34-1912-471b-8c00-768168bb78c1",
+        "1ba082b2-8598-42fe-ab8e-23fb50f1e53d"
+      ],
+      "criteriaForMeasuringPerformance": "Bespoke problem-specific mechanisms that consider performance limitations are developed and tested to meet organisational/customer data access and analysis requirements."
+    },
+    {
+      "dutyID": "2649196a-2ca3-4d4a-88ce-31093eba04e3",
+      "dutyDetail": "Identify best practice in AI data systems, data structures, data architecture and data warehousing technologies and provide technical oversight in order to meet business objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "dc814099-4599-44ba-8003-0d81fff63a53",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec"
+      ],
+      "mappedKnowledge": [
+        "e80c841c-5e6a-4b99-b218-892f7bc9563a",
+        "c2fa6d17-3560-459c-a777-26837a2c0194",
+        "58f29795-b4ef-49e3-ab62-181eb84d6061",
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "7f0fe277-c963-4310-ac4f-f5e14a2a5ddf",
+        "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
+        "bd0cbd73-4bf9-4f91-b018-a4dba20274d9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
+        "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "9c512181-d57b-4979-80cc-394febe54979"
+      ],
+      "criteriaForMeasuringPerformance": "Future business/domain opportunities are researched, identified and completed in line with organisational/customer requirements. Rigorous scientific methodology is followed at all stages of research activity, including communication of uncertainty in results of experiments and analysis."
+    },
+    {
+      "dutyID": "4fffac2c-fa7f-47b3-854d-5352a080071f",
+      "dutyDetail": "Assess risks/limitations and quantify biases associated with applications of AI within given business contexts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bed421-3a3a-4068-a225-11f9d5fda6db",
+        "ad13f254-63c8-4449-ae19-3b750ba5b30e",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
+        "ad248012-df5c-4587-bf2e-ca662161d132",
+        "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
+        "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
+        "4931d527-5397-42d1-96d8-6fcc1f3849b5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "27651021-35d7-4415-a845-bbf4c6a12c47",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4",
+        "e7a898fd-6c7e-4dae-937a-459533913645",
+        "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
+        "1b158e62-fba3-429a-ba1d-899e2535764e",
+        "f00fe691-98bb-4107-88b6-d3237ebd7b21",
+        "17aaead3-e1ee-4112-9ebb-53a1383be007"
+      ],
+      "criteriaForMeasuringPerformance": "Risks are assessed according to organisational policy/customer requirements/industry standards."
+    },
+    {
+      "dutyID": "198a5490-e046-41ab-9f79-e0c96bbc13b7",
+      "dutyDetail": "Provide technical authority for the business regarding emerging opportunities for AI.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dc814099-4599-44ba-8003-0d81fff63a53",
+        "afc9ebf6-6d71-42e4-8983-6e3ec02e7dec",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "d67b6947-3622-4f62-b1ea-fc6c5e283b63",
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "98179ea5-5eb6-403b-aa51-126f878701f1",
+        "64b2d47b-d821-413f-80cf-e0e13ee0b5b8",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9",
+        "7a702923-8557-4478-ae26-fc75d4066dc9",
+        "51cd0953-b387-470b-8a4b-3fa536388075"
+      ],
+      "mappedOptions": [
+        "195d7582-9cdd-403f-be86-c943a6650835"
+      ],
+      "mappedSkills": [
+        "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
+        "5fb38e34-8148-4275-8ddb-40d9e8133473",
+        "99911efd-443f-4484-8b25-0c90eeb7e3d7",
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
+        "dd0da3e4-e9c0-4654-b315-c116af9d72be",
+        "9c512181-d57b-4979-80cc-394febe54979",
+        "1ba082b2-8598-42fe-ab8e-23fb50f1e53d"
+      ],
+      "criteriaForMeasuringPerformance": "Direction and guidance for the business is clearly articulated to industry standards. Strategic opportunities are identified and new insights relevant to business goals are generated."
+    },
+    {
+      "dutyID": "260d85a0-a0fc-4dcb-bb63-8cd3fe88b6f8",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9acad373-61b4-43bf-a830-3b2cc1744bbd",
+        "03afbd32-ce2c-4e38-83df-3e4eb8dd43d5"
+      ],
+      "mappedKnowledge": [
+        "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
+        "60a6105c-4152-4434-8ed1-8319898bb6d9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "075cfa31-144d-4187-98e8-4c19ea1afc3e",
+        "b333548c-9862-41c2-84e2-be3a4d0f63a4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
