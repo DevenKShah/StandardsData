@@ -1,0 +1,723 @@
+{
+  "larsCode": 0,
+  "referenceNumber": "ST0893",
+  "title": "Clinical Scientist",
+  "status": "In development",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "versionNumber": "",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Collect, analyse and provide expert interpretation of clinical and specialist scientific data and make key judgements and decisions",
+  "level": 7,
+  "typicalDuration": 36,
+  "maxFunding": 0,
+  "route": "Health and science",
+  "keywords": [],
+  "jobRoles": [
+    "Clinical Scientist",
+    "Individuals undertaking this occupation must be registered with the HCPC as a Clinical Scientist (a protected title)"
+  ],
+  "entryRequirements": "&lt;p&gt;Typically, entry requirements are a 2:1 or 1st class honours degree or integrated master’s degree in a pure or applied science subject relevant to the specialism. Alternatively, a 2:2 honours degree with a higher degree in a subject relevant to the specialism would be suitable. Examples of relevant degrees are listed on the NSHCS website. Apprentices who successfully complete a HCPC approved apprenticeship programme will be eligible for registration with the Health and Care Professions Council as a Clinical Scientist.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4378/st0893_clinical-scientist_l7_ap-for-publication_15072020.pdf",
+  "ssa1": "2 Science and Mathematics",
+  "ssa2": "2.1 Science",
+  "version": "",
+  "standardInformation": "",
+  "standardOccupationalCode": "There are multiple codes for this occupation as there are a number of different specialisms.",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the healthcare service delivery environment, although some Clinical Scientists also work in academic research, public health and teaching, or in the medical equipment industry. Clinical Scientists are registered with the Health and Care Professions Council (HCPC) and have a specific scientific knowledge in a healthcare environment. This apprenticeship standard is available to individuals in professions which would be eligible for HCPC registration as a Clinical Scientist, which is a protected title.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to collect, analyse and provide expert interpretation of clinical and specialist scientific data and make key judgements and decisions about complex facts and clinical situations. Clinical Scientists communicate scientific and clinical information to ensure that the benefits to patients are maximised and the risks minimised. Where appropriate, Clinical Scientists instruct others to take action, taking into account the wider clinical resource implications of the decision. Clinical Scientists apply their knowledge to improve patient care in all clinical contexts, through the safe application of complex science, engineering or technology. Clinical Scientists lead innovation, research and development directed towards improving human health, and participate in education and training. For example, conducting research in new diagnostic and/or treatment techniques, developing new devices or processes, implementing and translating scientific research and advances into routine clinical practice and raising awareness of their role with the general public. They have a key role in assuring the quality of clinical scientific services.&lt;br /&gt;&lt;br /&gt;Clinical Scientists work across the whole patient pathway and breadth of healthcare environments in a range of scientific areas, including but not limited to:&lt;br /&gt;&lt;br /&gt;• Bioinformatics – collecting and analysing complex data systems &lt;br /&gt;• Life sciences – examining, investigating, diagnosing and treatment of disease, including decontamination science, pathology, genetics and reproductive science&lt;br /&gt;• Physical sciences and engineering – applying physical sciences and engineering to a large range of clinical services&lt;br /&gt;• Physiological sciences – evaluating the performance and functionality of the body’s organs using technologies and specialist equipment to diagnose abnormalities, and to direct, and in some cases, provide therapeutic intervention and long-term management and care. &lt;br /&gt;&lt;br /&gt;Further information about the areas above, is available from NHS Careers and the National School of Healthcare Science at https://www.healthcareers.nhs.uk/explore-roles/healthcare-science/roles-healthcare-science .&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide range of healthcare professionals in the healthcare sector including medical and nursing staff, allied health professionals and pharmacists, as well as patients, carers and relatives. They may also interact with other organisations such as professional and government bodies (Health and Safety Executive, Care Quality Commission and the Environment Agency), equipment manufacturers and their engineers, pharmaceutical and diagnostic companies and university academics.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for making clinical decisions, if appropriate, and providing scientific advice to patients, clinicians and other healthcare professionals that affect patients in many clinical contexts. Some Clinical Scientists deliver interventions in patient treatment and may be responsible for patient management. They would normally act independently within the bounds of their knowledge and scope of practice and would report to a more senior clinical scientist, such as a Consultant Clinical Scientist, who might be their head of department. Some Clinical Scientists may also advise trusts and national bodies on policy issues. They may supervise other staff assigned to support the services being provided.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+      "detail": "The Health and Care Professions Council standards of proficiency for clinical scientists; codes of conduct for relevant professional bodies; appropriate legislation and statutory frameworks and employers’ policies and procedures."
+    },
+    {
+      "knowledgeId": "a7d2b907-235e-43d1-b0ef-f89108d01174",
+      "detail": "Limits of own scope of practice, knowledge and skills, including strategies for time and resource management."
+    },
+    {
+      "knowledgeId": "b4b45a2f-b733-40e8-b70e-31793e15e536",
+      "detail": "The underpinning clinical and scientific principles relevant to the specialism and associated practice."
+    },
+    {
+      "knowledgeId": "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+      "detail": "Anatomical, physiological and biochemical functions of the human body appropriate to the specialism."
+    },
+    {
+      "knowledgeId": "ac22f279-99a8-424e-9468-8d31b2535935",
+      "detail": "The analytical methodologies and techniques appropriate to the specialism and the performance and limitations of those methodologies."
+    },
+    {
+      "knowledgeId": "956871d5-adb0-4dc8-86f3-203095b48331",
+      "detail": "Current and emerging procedures relevant to professional practice."
+    },
+    {
+      "knowledgeId": "fb695206-0a07-4319-8a41-ddd7cee8d52f",
+      "detail": "Information and data searching methodologies eg literature searching, patient data searches, search algorithms."
+    },
+    {
+      "knowledgeId": "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+      "detail": "Communication strategies within a healthcare context, including conflict management techniques, and the need to provide individuals with appropriate information."
+    },
+    {
+      "knowledgeId": "b1bd89ba-b843-4af3-9890-37eb371ad761",
+      "detail": "The differing needs and rights of individuals."
+    },
+    {
+      "knowledgeId": "1882b7d8-5ee8-4f81-8835-385ba5bb2e65",
+      "detail": "The structure and function of health and social care services, including the composition of the multidisciplinary team and the role of the Clinical Scientist within it, relevant to scope of practice, and the need for effective partnership working, as appropriate."
+    },
+    {
+      "knowledgeId": "11c44c70-178a-47e8-93b7-823ca0514347",
+      "detail": "Leadership and management techniques and strategies appropriate to practice."
+    },
+    {
+      "knowledgeId": "6cf8dc2c-a99e-4591-9199-e6dba0725de2",
+      "detail": "Accreditation, quality systems and relevant quality standards, appropriate to the specialism."
+    },
+    {
+      "knowledgeId": "7a276502-554f-442e-8348-81db8b9eff67",
+      "detail": "Audit methodologies, quality control and quality assurance techniques, reporting mechanisms and corrective action techniques."
+    },
+    {
+      "knowledgeId": "e9d9d58c-691c-41b0-86ff-00477036aae6",
+      "detail": "Strategies and methodologies for conducting effective research, including research ethics and statistics."
+    },
+    {
+      "knowledgeId": "ab28f599-eb33-4367-afb8-a96a1a8d26d9",
+      "detail": "Learning and development strategies, including giving and receiving feedback, appropriate to practice."
+    },
+    {
+      "knowledgeId": "2efbbf61-1673-4776-8d64-dc6dcf1de11f",
+      "detail": "Scientific and clinical investigation strategies and problem-solving techniques, appropriate to practice."
+    },
+    {
+      "knowledgeId": "ef23c9de-81fa-4a2d-a8f5-e5bffb2913dc",
+      "detail": "Health and safety techniques relevant to areas of practice and the importance of maintaining own safety and that of patients, colleagues and the public."
+    },
+    {
+      "knowledgeId": "df8e17dc-c020-4907-a04e-eace6786b733",
+      "detail": "Change management theory in relation to innovation and service improvement, appropriate to practice."
+    },
+    {
+      "knowledgeId": "556eda18-82b0-4cd4-afbe-adf1ba43a416",
+      "detail": "The concepts and limits of confidentiality, the principles of information governance and the processes and procedures for managing records and other information."
+    },
+    {
+      "knowledgeId": "388544a3-d872-49fa-a7ce-0a25d11b9508",
+      "detail": "The importance of continuing personal and professional development and the role of critical reflection in maintaining fitness to practise."
+    },
+    {
+      "knowledgeId": "f62344dd-8562-492f-8a3b-d879f362089f",
+      "detail": "The application, implementation and security of digital technology within the healthcare environment as appropriate to the specialism."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+      "detail": "Be open, honest, compassionate, act with integrity at all times, observe duty of candour and maintain confidentiality."
+    },
+    {
+      "behaviourId": "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+      "detail": "Be respectful, non-judgemental and engage with people in an inclusive and non-discriminatory manner."
+    },
+    {
+      "behaviourId": "851fad55-7b79-44c1-af08-d1b70b4a5c28",
+      "detail": "Maintain good character as outlined in professional Code of Conduct and refrain from activities which would bring the profession or organisation into disrepute."
+    },
+    {
+      "behaviourId": "63cb162d-4d55-46b6-8f0b-b7411ee4306c",
+      "detail": "Be adaptable and able to respond professionally to all feedback."
+    },
+    {
+      "behaviourId": "ea2135d5-2340-4bfe-9d34-d78b7d4ad5a2",
+      "detail": "Be prepared to challenge and/or report inappropriate behaviours and practices, using established procedures."
+    },
+    {
+      "behaviourId": "e4ea36e4-53e0-4167-a095-0ff80645869d",
+      "detail": "Take a proactive approach to own personal wellbeing, and that of others, reporting concerns as appropriate."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "5bea2f43-03e8-4917-adee-544f633dbce8",
+      "detail": "Interpret, apply and comply with legislation, statutory frameworks, professional codes of practice and guidance."
+    },
+    {
+      "skillId": "d5b5fd30-c811-48f1-804b-7b0a62408114",
+      "detail": "Work within limits of personal and professional competence,  justify and take responsibility for own actions and seek advice when required. Manage time, resources and workload effectively."
+    },
+    {
+      "skillId": "6cd06870-1f9c-473e-b744-343869d5470d",
+      "detail": "Apply relevant clinical and scientific knowledge in the clinical context, to inform own decision making, and that of service users, as appropriate."
+    },
+    {
+      "skillId": "e8d8b950-1269-47c1-a78e-24f3d74cf702",
+      "detail": "Select and perform, if required, the appropriate analytical technique relevant to the given data set."
+    },
+    {
+      "skillId": "d8e8683a-435a-4266-b557-62f5935221af",
+      "detail": "Assess and interpret the results of data analysis, report appropriately in accordance with the clinical and scientific context and recommend further investigations where appropriate."
+    },
+    {
+      "skillId": "79b4e22e-3654-4960-82ff-1699d1ddeb57",
+      "detail": "Identify emerging clinical, scientific, analytical, diagnostic, monitoring, treatment and therapeutic procedures, as appropriate, and adapt practice accordingly."
+    },
+    {
+      "skillId": "b7f2ecc1-5a5d-46f3-99f3-3a82d530d3f3",
+      "detail": "Develop, introduce or modify procedures and techniques to improve service delivery, as appropriate."
+    },
+    {
+      "skillId": "ee8f0dd7-c523-4e37-8a0b-d74b51ccbab6",
+      "detail": "Compare procedures and techniques against references or baseline and take action, as appropriate."
+    },
+    {
+      "skillId": "4e8874c7-f351-4bfe-9678-f758a2568501",
+      "detail": "Assess and evaluate new technologies prior to their routine use."
+    },
+    {
+      "skillId": "08fdbb50-bd30-4faf-8388-e103fd3a4488",
+      "detail": "Select, and if necessary develop, the appropriate methodology(ies) to investigate the problem or source of error."
+    },
+    {
+      "skillId": "46839793-6bd4-4bdb-a555-87406f4c856c",
+      "detail": "Take appropriate action to correct problem or source of error based on the results of the investigation."
+    },
+    {
+      "skillId": "53913b59-875c-4a09-aa84-c87ab17afdab",
+      "detail": "Search and critically appraise scientific literature, including literature on new and emerging technologies, and other sources of information."
+    },
+    {
+      "skillId": "6ce36f9c-e204-47d8-aaef-98de9bca7981",
+      "detail": "Implement suitable evidence gathering strategies."
+    },
+    {
+      "skillId": "4329edad-533c-45ff-9e1d-2aa45f7c1314",
+      "detail": "Evaluate evidence to inform professional practice."
+    },
+    {
+      "skillId": "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+      "detail": "Determine existing levels of knowledge, select the appropriate methodology(ies) and approaches in accordance with individuals’ needs, and use appropriate forms of communication with a diverse range of audiences, including colleagues and service users."
+    },
+    {
+      "skillId": "4d12ff2c-be66-4f16-b790-40e1365e647d",
+      "detail": "Lead projects to successful completion within agreed and defined timescales eg audits, research projects"
+    },
+    {
+      "skillId": "0f1f8040-9bc2-4d6d-8924-e48234212607",
+      "detail": "Set, maintain and apply standards, and undertake quality control and assurance techniques."
+    },
+    {
+      "skillId": "d91b6b99-b343-4e08-a9e7-cf69634ca87c",
+      "detail": "Undertake audit and take appropriate actions to ensure quality of processes/procedures."
+    },
+    {
+      "skillId": "da8d34fe-858e-4aba-9a5a-c3594bd67459",
+      "detail": "Present data and/or research findings to peers, in appropriate forms."
+    },
+    {
+      "skillId": "5c433339-ceb4-4af5-8d0b-3e0ec028b134",
+      "detail": "Facilitate learning and provide feedback to others, as appropriate."
+    },
+    {
+      "skillId": "b1f6bce6-ccfb-4a75-bcff-e9fcae5352bb",
+      "detail": "Undertake  risk assessments to identify and manage sources of risk in the workplace."
+    },
+    {
+      "skillId": "d01f6086-1006-461c-ab36-98e1aceb8588",
+      "detail": "Select the appropriate equipment and methodology(ies) to ensure safe working practices, in accordance with relevant guidelines and legislation."
+    },
+    {
+      "skillId": "b6914e5d-89c4-44bd-bcfc-4ab84580e4c7",
+      "detail": "Maintain an effective audit trail and initiate service improvements."
+    },
+    {
+      "skillId": "91314fc0-534d-4cb2-972c-0647c7c717e1",
+      "detail": "Keep accurate and comprehensive records and manage information in accordance with relevant legislation and guidelines."
+    },
+    {
+      "skillId": "3c3efdec-93bd-434b-b611-a9f5a56a49b4",
+      "detail": "Reflect on and critically review practice and identify areas for personal and professional development."
+    },
+    {
+      "skillId": "3120a58c-516f-4f5a-8a36-aa9a62cb3b72",
+      "detail": "Use digital systems in a manner appropriate to function and clinical scientific context."
+    },
+    {
+      "skillId": "06491814-b8cf-4a1a-b39b-71173c00517a",
+      "detail": "Work in partnership with others to build sustainable professional relationships."
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "contactName": "",
+    "contactAddress": "",
+    "contactEmail": "",
+    "webLink": ""
+  },
+  "approvedForDelivery": "",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0377",
+  "tbMainContact": "Robert.farley1@nhs.net",
+  "involvedEmployers": "SOUTH TEES HOSPITALS NHS FOUNDATION TRUST, Barts Health NHS Trust, Guy’s and St Thomas’ NHS Trust, Wythenshawe Hospital , Imperial College Healthcare NHS Trust\r\nSurrey & Sussex Healthcare NHS Trust, Sheffield Children’s Hospital, Leeds Teaching Hospitals, Birmingham Women’s and Children’s NHS Foundation Trust, University Hospitals, Southampton NHS Foundation Trust, Manchester University NHS Foundation Trust, County Durham and Darlington NHS Foundation Trust, Royal Bournemouth and Christchurch Hospitals, University Hospitals Coventry and Warwickshire NHS Trust, Salisbury NHS Foundation Trust, Kings College Hospital\r\nRoyal Marsden NHS Foundation Trust, Covance,  National School of Healthcare Science, University of Manchester, Newcastle University, Society for Vascular Technology for GB&I, Association of Clinical Embryologists, British Society for Histocompatibility and Immunogenetics, Institute of Physics and Engineering in Medicine, British Society for Clinical Electrophysiology of Vision\r\nInstitute of Biomedical Science, NHS Blood and Transplant, Association for Clinical Genomic Science",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Clinical Scientist",
+    "Individuals undertaking this occupation must be registered with the HCPC as a Clinical Scientist (a protected title)"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Science",
+  "cluster": "Science Professional",
+  "createdDate": "2020-04-23T08:50:23 +00:00",
+  "lastUpdated": "2020-07-16T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clinical-scientist#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clinical-scientist",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "bfb21f41-b9a6-4935-a00c-04154c8ae874",
+      "dutyDetail": "Work autonomously, safely and effectively within the Health and Care Professions Council (HCPC) regulated standards of proficiency for practice for clinical scientists, take professional accountability for and understand the limitations of own practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "851fad55-7b79-44c1-af08-d1b70b4a5c28",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c",
+        "ea2135d5-2340-4bfe-9d34-d78b7d4ad5a2"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "a7d2b907-235e-43d1-b0ef-f89108d01174",
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "df8e17dc-c020-4907-a04e-eace6786b733",
+        "388544a3-d872-49fa-a7ce-0a25d11b9508"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "d5b5fd30-c811-48f1-804b-7b0a62408114",
+        "b1f6bce6-ccfb-4a75-bcff-e9fcae5352bb",
+        "d01f6086-1006-461c-ab36-98e1aceb8588",
+        "b6914e5d-89c4-44bd-bcfc-4ab84580e4c7",
+        "91314fc0-534d-4cb2-972c-0647c7c717e1",
+        "3c3efdec-93bd-434b-b611-a9f5a56a49b4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "863e5af0-db71-422d-8879-c2e35c7c7c05",
+      "dutyDetail": "Apply knowledge, relevant guidelines and judgement to complex clinical and scientific situations to inform decision making, and make decisions, as appropriate, to ensure effective patient-centred care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+        "ac22f279-99a8-424e-9468-8d31b2535935",
+        "956871d5-adb0-4dc8-86f3-203095b48331",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "6cd06870-1f9c-473e-b744-343869d5470d",
+        "e8d8b950-1269-47c1-a78e-24f3d74cf702",
+        "d8e8683a-435a-4266-b557-62f5935221af",
+        "79b4e22e-3654-4960-82ff-1699d1ddeb57",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "69ae0c64-eab6-4690-b261-eeecffe8ba6a",
+      "dutyDetail": "Collect, process, analyse and critically evaluate raw data from a variety of sources in different forms in the context of clinical science and interpret the results to formulate a response which, for clinical practice/reporting data, takes into account the prevailing clinical and specialist scientific context.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "ac22f279-99a8-424e-9468-8d31b2535935",
+        "956871d5-adb0-4dc8-86f3-203095b48331",
+        "fb695206-0a07-4319-8a41-ddd7cee8d52f",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "6cd06870-1f9c-473e-b744-343869d5470d",
+        "e8d8b950-1269-47c1-a78e-24f3d74cf702",
+        "d8e8683a-435a-4266-b557-62f5935221af",
+        "79b4e22e-3654-4960-82ff-1699d1ddeb57",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6860b92e-fcec-4019-800b-1c1223857a18",
+      "dutyDetail": "Develop, optimise, evaluate, validate and verify new or existing scientific, technical, diagnostic, monitoring, treatment, therapeutic procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+        "ac22f279-99a8-424e-9468-8d31b2535935",
+        "956871d5-adb0-4dc8-86f3-203095b48331"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "d8e8683a-435a-4266-b557-62f5935221af",
+        "79b4e22e-3654-4960-82ff-1699d1ddeb57",
+        "b7f2ecc1-5a5d-46f3-99f3-3a82d530d3f3",
+        "ee8f0dd7-c523-4e37-8a0b-d74b51ccbab6",
+        "4e8874c7-f351-4bfe-9678-f758a2568501",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "b1f6bce6-ccfb-4a75-bcff-e9fcae5352bb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4fd33509-f0b1-4ce3-919a-b8c0cd30f4ae",
+      "dutyDetail": "Instigate investigative techniques to solve problems and/or find the source of errors in a wide range of healthcare systems, devise and implement strategies to correct them and/or mitigate their effect where appropriate.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+        "ac22f279-99a8-424e-9468-8d31b2535935",
+        "2efbbf61-1673-4776-8d64-dc6dcf1de11f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d5b5fd30-c811-48f1-804b-7b0a62408114",
+        "08fdbb50-bd30-4faf-8388-e103fd3a4488",
+        "46839793-6bd4-4bdb-a555-87406f4c856c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a8b9341f-4575-4e64-a03e-4ed9ac9af8fc",
+      "dutyDetail": "Utilise evidence-based practice to adapt and embed new methodologies in routine scientific or clinical practice to drive forward science improvements in healthcare.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "956871d5-adb0-4dc8-86f3-203095b48331",
+        "fb695206-0a07-4319-8a41-ddd7cee8d52f",
+        "2efbbf61-1673-4776-8d64-dc6dcf1de11f",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "b7f2ecc1-5a5d-46f3-99f3-3a82d530d3f3",
+        "4e8874c7-f351-4bfe-9678-f758a2568501",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "6ce36f9c-e204-47d8-aaef-98de9bca7981",
+        "4329edad-533c-45ff-9e1d-2aa45f7c1314",
+        "4d12ff2c-be66-4f16-b790-40e1365e647d",
+        "da8d34fe-858e-4aba-9a5a-c3594bd67459",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f30a8fa-bd13-4eb8-9797-1df559f48648",
+      "dutyDetail": "Communicate and/or explain information which may be complex, contentious or sensitive, effectively to a diverse range of audiences, including colleagues, service users and the public, taking into account relevant prior knowledge to further their understanding at a level appropriate to their needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "b1bd89ba-b843-4af3-9890-37eb371ad761"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "91314fc0-534d-4cb2-972c-0647c7c717e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d338b72c-912e-4857-a2b7-32a8b81bae79",
+      "dutyDetail": "Adapt clinical and scientific practice to meet the needs of different groups and individuals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "b1bd89ba-b843-4af3-9890-37eb371ad761",
+        "1882b7d8-5ee8-4f81-8835-385ba5bb2e65"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "06491814-b8cf-4a1a-b39b-71173c00517a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7c234aaf-f415-4993-96c6-6103f0b35a65",
+      "dutyDetail": "Work effectively as part of a multidisciplinary team to ensure integrated patient-centred care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "b1bd89ba-b843-4af3-9890-37eb371ad761",
+        "1882b7d8-5ee8-4f81-8835-385ba5bb2e65"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d5b5fd30-c811-48f1-804b-7b0a62408114",
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "da8d34fe-858e-4aba-9a5a-c3594bd67459",
+        "06491814-b8cf-4a1a-b39b-71173c00517a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e0ef214-9654-4d46-9a16-1261c52488f9",
+      "dutyDetail": "Direct the management and further development of processes, systems and/or devices, to ensure continuous improvement, and their safe and effective use in the healthcare environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "11c44c70-178a-47e8-93b7-823ca0514347",
+        "6cf8dc2c-a99e-4591-9199-e6dba0725de2",
+        "7a276502-554f-442e-8348-81db8b9eff67",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "6cd06870-1f9c-473e-b744-343869d5470d",
+        "4d12ff2c-be66-4f16-b790-40e1365e647d",
+        "d91b6b99-b343-4e08-a9e7-cf69634ca87c",
+        "b1f6bce6-ccfb-4a75-bcff-e9fcae5352bb",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b8ddfc8-7bec-41a2-a7ad-6dc274a01824",
+      "dutyDetail": "Design, implement, maintain and apply quality control and assurance techniques across clinical, scientific and technological activities across the healthcare environment, to ensure that a given intervention is fit for purpose.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "6cf8dc2c-a99e-4591-9199-e6dba0725de2",
+        "7a276502-554f-442e-8348-81db8b9eff67",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "ee8f0dd7-c523-4e37-8a0b-d74b51ccbab6",
+        "0f1f8040-9bc2-4d6d-8924-e48234212607",
+        "d91b6b99-b343-4e08-a9e7-cf69634ca87c",
+        "b6914e5d-89c4-44bd-bcfc-4ab84580e4c7",
+        "91314fc0-534d-4cb2-972c-0647c7c717e1",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a1eace23-1bdb-4243-b007-61d9ce0ea212",
+      "dutyDetail": "Design, lead and undertake research and development projects and communicate results and conclusions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c",
+        "e4ea36e4-53e0-4167-a095-0ff80645869d"
+      ],
+      "mappedKnowledge": [
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+        "ac22f279-99a8-424e-9468-8d31b2535935",
+        "fb695206-0a07-4319-8a41-ddd7cee8d52f",
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "e9d9d58c-691c-41b0-86ff-00477036aae6",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e8d8b950-1269-47c1-a78e-24f3d74cf702",
+        "d8e8683a-435a-4266-b557-62f5935221af",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "6ce36f9c-e204-47d8-aaef-98de9bca7981",
+        "4329edad-533c-45ff-9e1d-2aa45f7c1314",
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "4d12ff2c-be66-4f16-b790-40e1365e647d",
+        "da8d34fe-858e-4aba-9a5a-c3594bd67459",
+        "d01f6086-1006-461c-ab36-98e1aceb8588",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "50c76cbd-83a7-45d9-a5f9-c8b42ddaee7e",
+      "dutyDetail": "Supervise, train and/or lead others in own area of practice as appropriate, including setting and monitoring outcomes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "e4ea36e4-53e0-4167-a095-0ff80645869d"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "b4b45a2f-b733-40e8-b70e-31793e15e536",
+        "a455d8d4-fd86-4ce9-92cc-1c758f6449a6",
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "11c44c70-178a-47e8-93b7-823ca0514347",
+        "ab28f599-eb33-4367-afb8-a96a1a8d26d9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "5c433339-ceb4-4af5-8d0b-3e0ec028b134"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bb62c867-84aa-4758-bf40-8e668fd6f65f",
+      "dutyDetail": "Establish, maintain and promote a safe and sustainable working environment conducive to safe clinical and scientific practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "8caae457-56ed-4651-8a4a-e51b46ea28e3",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c",
+        "ea2135d5-2340-4bfe-9d34-d78b7d4ad5a2",
+        "e4ea36e4-53e0-4167-a095-0ff80645869d"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "7a276502-554f-442e-8348-81db8b9eff67",
+        "ef23c9de-81fa-4a2d-a8f5-e5bffb2913dc",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "b7f2ecc1-5a5d-46f3-99f3-3a82d530d3f3",
+        "b1f6bce6-ccfb-4a75-bcff-e9fcae5352bb",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "925aa167-6ede-4e95-83dc-4aa1cb1ad6e5",
+      "dutyDetail": "Drive service improvements and innovation, including effective use of resources and identification and implementation of change management initiatives, to ensure sustained optimal delivery of current and future clinical scientific services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "956871d5-adb0-4dc8-86f3-203095b48331",
+        "1f6bb858-9227-4c9b-9913-94e1f3100e63",
+        "6cf8dc2c-a99e-4591-9199-e6dba0725de2",
+        "7a276502-554f-442e-8348-81db8b9eff67",
+        "df8e17dc-c020-4907-a04e-eace6786b733",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "79b4e22e-3654-4960-82ff-1699d1ddeb57",
+        "b7f2ecc1-5a5d-46f3-99f3-3a82d530d3f3",
+        "4e8874c7-f351-4bfe-9678-f758a2568501",
+        "9a7bced6-13b3-4d91-8167-b6d836ab3e72",
+        "4d12ff2c-be66-4f16-b790-40e1365e647d",
+        "d91b6b99-b343-4e08-a9e7-cf69634ca87c",
+        "b6914e5d-89c4-44bd-bcfc-4ab84580e4c7",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3eeb82ef-4320-4b2f-bf49-9a183e34508c",
+      "dutyDetail": "Record, maintain and handle clinical and scientific results and information, ensuring accuracy, integrity and security.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "556eda18-82b0-4cd4-afbe-adf1ba43a416",
+        "f62344dd-8562-492f-8a3b-d879f362089f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "91314fc0-534d-4cb2-972c-0647c7c717e1",
+        "3120a58c-516f-4f5a-8a36-aa9a62cb3b72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f8b6c3e-ffbb-4804-868c-c129e0a06f35",
+      "dutyDetail": "Use continuing professional development (CPD), as required, for HCPC registration.  Keep up to date and engage with current research and evidence-based practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba9323fd-1637-4f84-b13a-5666c7f6b612",
+        "63cb162d-4d55-46b6-8f0b-b7411ee4306c"
+      ],
+      "mappedKnowledge": [
+        "b84198b5-806a-405f-a0aa-0962c2c5bc43",
+        "956871d5-adb0-4dc8-86f3-203095b48331",
+        "fb695206-0a07-4319-8a41-ddd7cee8d52f",
+        "388544a3-d872-49fa-a7ce-0a25d11b9508"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5bea2f43-03e8-4917-adee-544f633dbce8",
+        "53913b59-875c-4a09-aa84-c87ab17afdab",
+        "6ce36f9c-e204-47d8-aaef-98de9bca7981",
+        "4329edad-533c-45ff-9e1d-2aa45f7c1314",
+        "3c3efdec-93bd-434b-b611-a9f5a56a49b4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
