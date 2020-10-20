@@ -1,0 +1,804 @@
+{
+  "larsCode": 559,
+  "referenceNumber": "ST0865",
+  "title": "Cyber security technician",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/559",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": "2020-05-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Provide first line cyber security support",
+  "level": 3,
+  "typicalDuration": 18,
+  "maxFunding": 11000,
+  "route": "Digital",
+  "keywords": [],
+  "jobRoles": [
+    "Cyber Security Administrator",
+    "Access Control Administrator",
+    "Incident Response Technician",
+    "Junior Security Operations Centre (SOC) Analyst",
+    "Junior Information Security Analyst",
+    "Junior Threat and Risk Analyst",
+    "Junior Penetration Tester",
+    "Junior Security Analyst"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4221/st0865_cyber_security_technician_l3_annotated-assessment-plan_c26_for-publication-010420.pdf",
+  "ssa1": "6 Information and Communication Technology (ICT)",
+  "ssa2": "6.1 ICT practitioners",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "3131 - IT operations technicians",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors where information is held digitally and where that information is an asset that needs to be protected including but not limited to finance, retail, telecoms, health, media, manufacturing and local authorities.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to provide first line cyber security support. This requires individuals to monitor and detect potential security threats and escalate as necessary and to support secure and uninterrupted business operations of an organisation through the implementation of cyber security mechanisms and the application of cyber security procedures and controls. To contribute to the delivery of a security culture across an organisation, understanding vulnerabilities and threats and supporting the development of an organisation&#39;s cyber security maturity. To apply procedures and controls to maintain security and control of an organisation, and process security requests ensuring confidentiality, integrity and availability of information stored digitally.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders including colleagues, managers, customers and internal and external suppliers. They would typically work as a member of a team; this may be office based or virtual. The employee will interact with, and influence colleagues and will have working level contact with customers, suppliers and partners in their capacity as an individual contributor.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for supporting a cyber security function (frequently a Security Operations Centre or Network Operations Centre) working under supervision. The employee will be conducting specific cyber security tasks to defined procedures and standards. Specific cyber security mechanisms and controls that an individual would be required to implement would include: patching software, installing software updates, implementing access control, configuring firewalls, security incident and event management tools (SIEM) tools and protection tools (Anti-virus, Anti-malware, Anti-spam). They will be responsible for their own activities with other resources made available to them as required. As directed, the employee will engage with specific cyber security events. The employee will be expected to work with internal and external stakeholders under general direction. They will use discretion in identifying and responding to complex issues and assignments and will usually receive specific instructions and will have work reviewed at frequent milestones. They will be expected to determine when issues should be escalated to a higher level.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+      "detail": "Principles of organisational information security governance and the components of an organisation's cyber security technical infrastructure including hardware, operating systems, networks, software and cloud"
+    },
+    {
+      "knowledgeId": "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+      "detail": "Cyber security policies and standards based on an Information Security Management System (ISMS)"
+    },
+    {
+      "knowledgeId": "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+      "detail": "Types of physical, procedural and technical controls"
+    },
+    {
+      "knowledgeId": "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+      "detail": "Awareness of how current legislation relates to or impacts upon the occupation including Data Protection Act, Regulation of Investigatory Powers Act, Human Rights Act, Computer Misuse Act, Freedom of Information Act, Official Secrets Act, Payment Card Industry Data Security Standard (PCI-DSS), Wireless and Telegraphy Act, professional body codes of conduct, ethical use of information assets"
+    },
+    {
+      "knowledgeId": "6bd1f415-79a1-4139-8497-4476f200d6a4",
+      "detail": "Cyber security awareness and components of an effective security culture, different organisational structures and cultures, the importance of maintaining privacy and confidentiality of an organisation's information and the impact of a poor security culture"
+    },
+    {
+      "knowledgeId": "16d1699f-15ec-41f4-acf0-5e8d40e7d288",
+      "detail": "Principles of cyber security compliance and compliance monitoring techniques"
+    },
+    {
+      "knowledgeId": "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+      "detail": "Core terminology of cyber security – confidentiality, integrity, availability (the CIA triad), assurance, authenticity, identification, authentication, authorization, accountability, reliability, non-repudiation, access control"
+    },
+    {
+      "knowledgeId": "165ae668-549d-4969-8c2d-0669d7371524",
+      "detail": "Common security administrative operational tasks e.g. patching, software updates, access control, configuring a range of firewalls, security incident and event management tools (SIEM) and protection tools (Anti-virus, Anti-malware, Anti-spam)"
+    },
+    {
+      "knowledgeId": "00403dbf-ca17-40c9-bf80-067ab8171a06",
+      "detail": "Cryptography, certificates and use of certificate management tools"
+    },
+    {
+      "knowledgeId": "bdc0cb92-a3d1-4d3c-b5b0-026f6e3a43ff",
+      "detail": "Processes for detecting, reporting, assessing, responding to, dealing with and learning from information security events"
+    },
+    {
+      "knowledgeId": "cebe3189-be79-4a75-8fda-cdfb47a37c32",
+      "detail": "Principles of identity and access management - authentication, authorisation and federation - and the inter-relationship between privacy and access rights and access control, and the types of access control, access control mechanisms and application control"
+    },
+    {
+      "knowledgeId": "751e8643-d136-4b00-bfe3-1b0fd0e0b065",
+      "detail": "Types of digital information assets used in a controlled environment and the need to maintain an inventory of information assets used in a controlled environment and the need for and practice of secure information asset disposal"
+    },
+    {
+      "knowledgeId": "a02820cf-efa8-4ea8-a298-239f584db3d7",
+      "detail": "Disaster prevention and recovery methods and the need for continuity of service planning and how an organisation might implement basic disaster prevention and recovery practices using conventional and incremental secure backup and recovery techniques and tools both onsite and offsite including geographic considerations"
+    },
+    {
+      "knowledgeId": "1eaa2d8c-a3af-4fd9-b245-17fcb531355f",
+      "detail": "Categories of cyber security vulnerabilities and common vulnerability exposures –software misconfiguration, sensitive data exposure, injection vulnerabilities, using components with known vulnerabilities, insufficient logging and monitoring, broken access control and authentication, security misconfiguration, incorrect cross-site validation"
+    },
+    {
+      "knowledgeId": "628ceeaf-d80c-408c-b456-19da63c9cb89",
+      "detail": "Components of a vulnerability assessment scope and techniques to evaluate the results of a vulnerability assessment and provide recommendations based upon the evidence provided by the vulnerability assessment tools. The impact that vulnerabilities might have on an organisation and common vulnerability assessment tools and their strengths and weaknesses"
+    },
+    {
+      "knowledgeId": "b5208d48-d9b3-4e3c-84ac-5d8c38f75018",
+      "detail": "Threat sources and threat identification and network reconnaissance techniques and the impact that threats might have on an organisation"
+    },
+    {
+      "knowledgeId": "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
+      "detail": "Types of information security events – brute force attack, malware activity, suspicious user behaviour, suspicious device behaviour, unauthorized system changes"
+    },
+    {
+      "knowledgeId": "567deb0a-5c1e-4de5-bf8d-9d9e3f55e5b2",
+      "detail": "Computer forensic principles – the importance of ensuring that evidence is not contaminated and maintaining the continuity of evidence without compromising it"
+    },
+    {
+      "knowledgeId": "c928252a-48c5-42cb-9aac-6c08d590d915",
+      "detail": "Standard information security event incident, exception and management reporting requirements and how to document incident and event information as part of a chain or evidence"
+    },
+    {
+      "knowledgeId": "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
+      "detail": "Common information security policies – acceptable use, incident management, patching, anti-virus, BYOD, access control, social media, password, data handling and data classification, IT asset disposal"
+    },
+    {
+      "knowledgeId": "89f3a467-0dd2-4ff0-9df4-f5ae78c5603b",
+      "detail": "Cyber security audit requirements, procedures and plans, need to obtain and document evidence in an appropriate form for an internal or external auditor to review"
+    },
+    {
+      "knowledgeId": "57a84b22-e050-49e4-960b-827ed650a132",
+      "detail": "The significance of customer issues, problems, business value, brand awareness, cultural awareness/ diversity, accessibility, internal/ external audience, level of technical knowledge and profile in a business context"
+    },
+    {
+      "knowledgeId": "df325723-3186-4f6d-884a-d0eee6658ce8",
+      "detail": "Evolving cyber security issues in the digital world including the application to critical national infrastructure, communications technologies, the need for information assurance and governance, control systems and internet of things (IoT) devises"
+    },
+    {
+      "knowledgeId": "cfc5e40c-8180-488a-8776-021de7986df6",
+      "detail": "Different learning techniques and the breadth and sources of knowledge and sources of verified information and data"
+    },
+    {
+      "knowledgeId": "ea7ffb09-95d5-4772-be60-4a92d853ac94",
+      "detail": "Importance of maintaining privacy and confidentiality of an organisations information and the impact of a poor security culture"
+    },
+    {
+      "knowledgeId": "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b",
+      "detail": "Concepts of service desk delivery and how to respond to requests for assistance received by a service desk and be able to describe different methods of escalation, when to escalate to a higher level where necessary and the need to communicate accurately and appropriately during an escalation"
+    },
+    {
+      "knowledgeId": "0128d1be-d8b1-4231-909d-b80f182d41ea",
+      "detail": "Risk assessment, risk management and business impact analysis principles"
+    },
+    {
+      "knowledgeId": "5105ba84-419a-4037-ac6e-99f0a0e6a5e5",
+      "detail": "How their occupation fits into the wider digital landscape and any current or future regulatory requirements"
+    },
+    {
+      "knowledgeId": "94718a96-2336-49e6-9895-0287d837ec8e",
+      "detail": "How to use data ethically and the implications for wider society, with respect to the use of data"
+    },
+    {
+      "knowledgeId": "375943fc-59e6-4bd4-b59f-cb17b8613f46",
+      "detail": "Roles within a multidisciplinary team and the interfaces with other areas of an organisation"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+      "detail": "Manage own time to meet deadlines and manage stakeholder expectations"
+    },
+    {
+      "behaviourId": "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+      "detail": "Work independently and take responsibility for own actions within the occupation"
+    },
+    {
+      "behaviourId": "da150685-7e3c-41b5-a7dc-1944f403d9f1",
+      "detail": "Use own initiative"
+    },
+    {
+      "behaviourId": "9d564a72-fecc-4072-8e07-62baf5421a6b",
+      "detail": "A structured approach to the prioritisation of tasks"
+    },
+    {
+      "behaviourId": "18ce5851-2183-4439-a9c8-f5341ee0e475",
+      "detail": "Treat colleagues and external stakeholders fairly and with respect without bias or discrimination"
+    },
+    {
+      "behaviourId": "afaa9b9b-f798-49c4-9af0-d34ca0b854ea",
+      "detail": "Act in accordance with occupation specific laws, regulations and professional standards and not accept instruction that is incompatible with any of these"
+    },
+    {
+      "behaviourId": "7ef77217-c99e-406b-a19f-d80ab8f543ba",
+      "detail": "Review own development needs in order to keep up to date with evolution in technologies, trends and innovation using a range of sources"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+      "detail": "Follow information security procedures"
+    },
+    {
+      "skillId": "90666401-f091-4f53-ae47-811e41f2a77e",
+      "detail": "Maintain information security controls"
+    },
+    {
+      "skillId": "4b11fe49-21b5-463e-8b12-55800bb1e976",
+      "detail": "Develop information security training and awareness resources"
+    },
+    {
+      "skillId": "a35f073d-71a2-45df-90a0-7979e57de214",
+      "detail": "Monitor the effectiveness of information security training and awareness"
+    },
+    {
+      "skillId": "c38a3eff-e69c-4c55-8401-844786391a6a",
+      "detail": "Handle and assess the validity of security requests from a range of internal and external stakeholders"
+    },
+    {
+      "skillId": "89ff792c-8c8c-45d9-8b5b-4d0c7c66df6f",
+      "detail": "Follow technical procedures to install and maintain technical security controls"
+    },
+    {
+      "skillId": "ea09e005-b5ba-4704-a05c-84f2fa50f7a6",
+      "detail": "Monitor and report information security events"
+    },
+    {
+      "skillId": "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
+      "detail": "Recognise when and how to escalate information security events in accordance with relevant procedures and standards"
+    },
+    {
+      "skillId": "59d4b3d3-fb3c-4213-88a0-d132eec3b032",
+      "detail": "Review and modify access rights to digital information systems, services, devices or data"
+    },
+    {
+      "skillId": "17aebf03-e43d-4727-9ebc-ffe3894bc4c4",
+      "detail": "Maintain an inventory of digital information systems, services, devices and data storage"
+    },
+    {
+      "skillId": "3db11ef1-3d79-4dd1-aa16-aedd96f6eea0",
+      "detail": "Scopes cyber security vulnerability assessments"
+    },
+    {
+      "skillId": "ed3a87d3-a3e0-4308-b561-eb6f4c23332a",
+      "detail": "Evaluate the results of a cyber security vulnerability assessment"
+    },
+    {
+      "skillId": "d2e7faa2-ac88-4a35-aa37-2e4a8e379a9b",
+      "detail": "Perform routine threat intelligence gathering tasks through consulting external sources"
+    },
+    {
+      "skillId": "64861d0e-056c-4a2d-b1dd-3160210104e8",
+      "detail": "Undertake digital information risk assessments"
+    },
+    {
+      "skillId": "24fa2b15-0e7a-4faa-82eb-a637f91c6b7b",
+      "detail": "Identify and categorise threats, vulnerabilities and risks in preparation for response or escalation"
+    },
+    {
+      "skillId": "481b2ba4-37ed-463f-b834-bc0b240722a1",
+      "detail": "Document cyber security event information whilst preserving evidence"
+    },
+    {
+      "skillId": "929d5821-f63a-42f3-9841-42e0dd32f55e",
+      "detail": "Draft information management reports using standard formats appropriate to the recipients"
+    },
+    {
+      "skillId": "2dce4537-b6d7-4bbe-8219-fd09c9895093",
+      "detail": "Review and comment upon cyber security policies, procedures, standards and guidelines"
+    },
+    {
+      "skillId": "2d167573-3148-4d09-a5c0-c886cd325d79",
+      "detail": "Perform cyber security compliance checks"
+    },
+    {
+      "skillId": "dcbca131-61f7-4057-acf9-477de79337ac",
+      "detail": "Translate audit requirements and collate relevant information from log files, incident reports and other data sources"
+    },
+    {
+      "skillId": "10a710c1-cb37-47df-946b-a1a98b549b14",
+      "detail": "Communication skills to co-operate as part of a multi-functional, multi-disciplinary team using a range of technical and non-technical language to provide an effective interface between internal or external users and suppliers"
+    },
+    {
+      "skillId": "ec8246c0-6684-47f2-943b-b740e599fa28",
+      "detail": "Keep up-to-date with legislation and industry standards related to the implementation of cyber security in an organisation"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
+  "integratedDegree": "",
+  "tbReference": "TB0532",
+  "tbMainContact": "budgie.dhanda@qufaro.uk",
+  "involvedEmployers": "IBM, Qufaro, Cap Gemini, Fujitsu, Sandettie, Dimension Data, CyberCrowd, Forgerock, CompTIA, ABFoods\r\nIssured, Deloitte, Local Government Association, Global Knowledge",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Cyber Security Administrator",
+    "Access Control Administrator",
+    "Incident Response Technician",
+    "Junior Security Operations Centre (SOC) Analyst",
+    "Junior Information Security Analyst",
+    "Junior Threat and Risk Analyst",
+    "Junior Penetration Tester",
+    "Junior Security Analyst"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Digital Support and Services",
+  "cluster": "IT Support and Services Technician",
+  "createdDate": "2020-01-23T14:40:18 +00:00",
+  "lastUpdated": "2020-05-13T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technician-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technician-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS - The Chartered Institute for IT ",
+      "level": "0",
+      "isPartial": null,
+      "partialFreeText": null
+    },
+    {
+      "bodyName": "Registration for IT Technicians (RITTech)",
+      "level": "0",
+      "isPartial": null,
+      "partialFreeText": null
+    },
+    {
+      "bodyName": "Chartered Institute for Information Security ",
+      "level": "0",
+      "isPartial": null,
+      "partialFreeText": null
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "1229f4de-9d2b-4617-bc2e-6266d52d0c2c",
+      "dutyDetail": "Apply procedures and controls to maintain security and control of an organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+        "94718a96-2336-49e6-9895-0287d837ec8e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "90666401-f091-4f53-ae47-811e41f2a77e",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cf8a368c-812f-455b-b481-6e3d1c3585e7",
+      "dutyDetail": "Contribute to the production and development of security culture across an organisation including assisting with the promotion of cyber security awareness programmes, monitoring the effectiveness of cyber security awareness programmes, promoting an effective cyber security culture",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "6bd1f415-79a1-4139-8497-4476f200d6a4",
+        "16d1699f-15ec-41f4-acf0-5e8d40e7d288",
+        "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+        "ea7ffb09-95d5-4772-be60-4a92d853ac94",
+        "94718a96-2336-49e6-9895-0287d837ec8e",
+        "375943fc-59e6-4bd4-b59f-cb17b8613f46"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4b11fe49-21b5-463e-8b12-55800bb1e976",
+        "a35f073d-71a2-45df-90a0-7979e57de214",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad270fc9-0005-44e7-97ac-cbb29a0fe760",
+      "dutyDetail": "Process cyber security helpdesk requests ensuring confidentiality, integrity and availability of digital information, meeting relevant legal and regulatory requirements for example access control requests.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "da150685-7e3c-41b5-a7dc-1944f403d9f1",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+        "165ae668-549d-4969-8c2d-0669d7371524",
+        "57a84b22-e050-49e4-960b-827ed650a132",
+        "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "c38a3eff-e69c-4c55-8401-844786391a6a",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b314f71f-5911-44c1-96ac-0323c48d568a",
+      "dutyDetail": "Conduct the installation and maintenance of technical security controls in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "165ae668-549d-4969-8c2d-0669d7371524",
+        "00403dbf-ca17-40c9-bf80-067ab8171a06"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "90666401-f091-4f53-ae47-811e41f2a77e",
+        "89ff792c-8c8c-45d9-8b5b-4d0c7c66df6f",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f133e9e8-e317-4c4d-b32b-5021ed308d23",
+      "dutyDetail": "Monitor, identify, report and escalate information security incidents and events in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "da150685-7e3c-41b5-a7dc-1944f403d9f1",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+        "bdc0cb92-a3d1-4d3c-b5b0-026f6e3a43ff",
+        "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
+        "c928252a-48c5-42cb-9aac-6c08d590d915"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "ea09e005-b5ba-4704-a05c-84f2fa50f7a6",
+        "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ace99e69-0aae-46f8-8069-20182edb5990",
+      "dutyDetail": "Administer cryptographic and certificate management activities in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "00403dbf-ca17-40c9-bf80-067ab8171a06"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "90666401-f091-4f53-ae47-811e41f2a77e",
+        "89ff792c-8c8c-45d9-8b5b-4d0c7c66df6f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92662c88-b0dd-4da2-8d02-f0f08633fed8",
+      "dutyDetail": "Conduct regular review of access rights to digital information assets in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "cebe3189-be79-4a75-8fda-cdfb47a37c32",
+        "751e8643-d136-4b00-bfe3-1b0fd0e0b065"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "90666401-f091-4f53-ae47-811e41f2a77e",
+        "59d4b3d3-fb3c-4213-88a0-d132eec3b032"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ecf8a5b-58ac-46ec-92b2-1beb4119c9b6",
+      "dutyDetail": "Maintain an asset register of controlled environments in accordance with relevant policies, procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "751e8643-d136-4b00-bfe3-1b0fd0e0b065"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "17aebf03-e43d-4727-9ebc-ffe3894bc4c4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25267334-2397-4c2d-8111-03589ad403ee",
+      "dutyDetail": "Assist with backup and recovery processes in accordance with relevant policies, procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
+        "a02820cf-efa8-4ea8-a298-239f584db3d7",
+        "628ceeaf-d80c-408c-b456-19da63c9cb89"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "89ff792c-8c8c-45d9-8b5b-4d0c7c66df6f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d8220996-d01e-449b-9cdc-7bf12dfccc3b",
+      "dutyDetail": "Contribute to documenting the scope and evaluating the results of vulnerability assessments in accordance with management requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "1eaa2d8c-a3af-4fd9-b245-17fcb531355f",
+        "628ceeaf-d80c-408c-b456-19da63c9cb89",
+        "b5208d48-d9b3-4e3c-84ac-5d8c38f75018",
+        "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
+        "567deb0a-5c1e-4de5-bf8d-9d9e3f55e5b2"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "3db11ef1-3d79-4dd1-aa16-aedd96f6eea0",
+        "ed3a87d3-a3e0-4308-b561-eb6f4c23332a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2ab23052-f5ca-41e6-bab8-0021c1ea881f",
+      "dutyDetail": "Contribute to risk assessments and escalate where appropriate in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "c928252a-48c5-42cb-9aac-6c08d590d915",
+        "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
+        "0128d1be-d8b1-4231-909d-b80f182d41ea"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "64861d0e-056c-4a2d-b1dd-3160210104e8",
+        "24fa2b15-0e7a-4faa-82eb-a637f91c6b7b",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f02c1de-e279-4282-ac2d-9d0b7724c3ac",
+      "dutyDetail": "Contribute to routine threat intelligence gathering tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "b5208d48-d9b3-4e3c-84ac-5d8c38f75018"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "d2e7faa2-ac88-4a35-aa37-2e4a8e379a9b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "176dd553-0794-4db1-a517-1f7a833b3975",
+      "dutyDetail": "Document incident and event information and incident, exception and management reports in accordance with relevant policies, procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "bdc0cb92-a3d1-4d3c-b5b0-026f6e3a43ff",
+        "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
+        "567deb0a-5c1e-4de5-bf8d-9d9e3f55e5b2",
+        "c928252a-48c5-42cb-9aac-6c08d590d915",
+        "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
+        "89f3a467-0dd2-4ff0-9df4-f5ae78c5603b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ea09e005-b5ba-4704-a05c-84f2fa50f7a6",
+        "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
+        "481b2ba4-37ed-463f-b834-bc0b240722a1",
+        "929d5821-f63a-42f3-9841-42e0dd32f55e",
+        "2d167573-3148-4d09-a5c0-c886cd325d79"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db6c2b24-7f12-4045-b96f-5f1116ca40ba",
+      "dutyDetail": "Contribute towards the production and review of cyber security policies, procedures, standards and guidelines drawing on their experience of applying policies for example -  acceptable use, incident management, patching, anti-virus, bring your own device (BYOD), access control, social media, password, data handling and data classification, information technology asset disposal",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
+        "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
+        "df325723-3186-4f6d-884a-d0eee6658ce8"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "2dce4537-b6d7-4bbe-8219-fd09c9895093",
+        "10a710c1-cb37-47df-946b-a1a98b549b14",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ce7533d-65ca-44bc-a300-3380ec3ada9a",
+      "dutyDetail": "Monitor cyber security compliance and provide relevant data to auditors if required by the auditor.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "16d1699f-15ec-41f4-acf0-5e8d40e7d288",
+        "89f3a467-0dd2-4ff0-9df4-f5ae78c5603b",
+        "cfc5e40c-8180-488a-8776-021de7986df6",
+        "ea7ffb09-95d5-4772-be60-4a92d853ac94"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "2d167573-3148-4d09-a5c0-c886cd325d79",
+        "dcbca131-61f7-4057-acf9-477de79337ac"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "271b131a-5ca0-494b-a220-605d032f412e",
+      "dutyDetail": "Collaborate with people both internally and externally to support secure and uninterrupted business operations of an organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "da150685-7e3c-41b5-a7dc-1944f403d9f1",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "18ce5851-2183-4439-a9c8-f5341ee0e475",
+        "afaa9b9b-f798-49c4-9af0-d34ca0b854ea"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "f8c59efe-0189-443b-80ca-d8d5b2058bf1",
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "df325723-3186-4f6d-884a-d0eee6658ce8",
+        "ea7ffb09-95d5-4772-be60-4a92d853ac94",
+        "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b",
+        "5105ba84-419a-4037-ac6e-99f0a0e6a5e5",
+        "375943fc-59e6-4bd4-b59f-cb17b8613f46"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
+        "90666401-f091-4f53-ae47-811e41f2a77e",
+        "a35f073d-71a2-45df-90a0-7979e57de214",
+        "10a710c1-cb37-47df-946b-a1a98b549b14"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fdad7582-c47e-4513-8370-2c37968a521e",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with industry trends and developments to enhance relevant skills and take responsibility for own professional development.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "da150685-7e3c-41b5-a7dc-1944f403d9f1",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b",
+        "7ef77217-c99e-406b-a19f-d80ab8f543ba"
+      ],
+      "mappedKnowledge": [
+        "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
+        "df325723-3186-4f6d-884a-d0eee6658ce8",
+        "cfc5e40c-8180-488a-8776-021de7986df6",
+        "0128d1be-d8b1-4231-909d-b80f182d41ea"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76fe9958-1d5d-4a5c-9b20-abe47b22fd1d",
+      "dutyDetail": "Monitor and detect potential security threats and escalate in accordance with relevant procedures and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7446dbbc-12da-42e5-86d6-5fdfe1805f99",
+        "89efe7d1-ed2a-4528-9840-a5b39d807c2e",
+        "9d564a72-fecc-4072-8e07-62baf5421a6b"
+      ],
+      "mappedKnowledge": [
+        "6f48cab5-8dac-4207-ad47-509bdee64d3e",
+        "b5208d48-d9b3-4e3c-84ac-5d8c38f75018",
+        "c928252a-48c5-42cb-9aac-6c08d590d915",
+        "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
+        "d2e7faa2-ac88-4a35-aa37-2e4a8e379a9b",
+        "24fa2b15-0e7a-4faa-82eb-a637f91c6b7b",
+        "ec8246c0-6684-47f2-943b-b740e599fa28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
