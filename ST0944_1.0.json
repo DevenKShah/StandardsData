@@ -1,0 +1,588 @@
+{
+  "larsCode": 0,
+  "referenceNumber": "ST0944",
+  "title": "Assistant recording technician",
+  "status": "In development",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "versionNumber": "1.0",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 0,
+  "overviewOfRole": "Produce a high-quality recording.",
+  "level": 4,
+  "typicalDuration": 24,
+  "maxFunding": 0,
+  "route": "Creative and design",
+  "keywords": [
+    "Media",
+    "communication",
+    "technician",
+    "recording",
+    "software"
+  ],
+  "jobRoles": [
+    "Assistant recording engineer",
+    "Assistant audio engineer",
+    "Mixing engineer",
+    "Recording assistant"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4581/st0944_assistant-recording-technician_l4_ap_for-publication-280920.pdf",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.3 Media and communication",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "5244",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in broadcasters and production companies that edit and produce music and sound content prior to release across multiple platforms. This includes music that is recorded for sale under the artists name and that used in TV, radio, film and computer games.&lt;br /&gt;Assistant Recording Technicians work as part of a small team, in a studio environment. They work with a variety of technological tools. They need knowledge and skills related to both the hardware and software used.&lt;br /&gt;&lt;br /&gt;They work closely with, and under the direction of more experienced and senior Audio or Recording Engineers. Audio recording businesses may be large or small. Assistant Recording Technicians may work directly for a studio or in a self-employed capacity. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to produce a high-quality recording. They work on the technical aspect of recording. This requires balancing and adjusting sound sources using equalization and audio effects, mixing, reproduction and reinforcement of sound. This usually starts with a &quot;sound brief&quot; which outlines what is required. Their job is to check that this is delivered, engaging with artists and clients. This can include the placing of microphones, pre-amp settings, the setting of levels, the specification and set up of equipment. They monitor the quality of the recording in relation to the equipment setup and use this information to make adjustments. They adapt their approach to suit the artist and to achieve the final sound required. They record how the equipment was set up, so it can be replicated if required. They also store the final audio files in a suitable format, and which protects the security of the data. An Assistant Recording Technician resolves hardware and software problems and monitors the use of software. They engage with the artist and/or client to ensure that their needs are met. The physical recording of any project is done by an audio engineer. It is a creative profession where musical instruments and technology are used. Assistant Recording Technicians assist with the recording of master files and ensure that audio files are stored securely. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with creative representatives from client organisations and other members of the technical staff engaged with the recording process. Assistant Recording Technicians also engage with client organisations and representatives from suppliers, and work as part of a team. They work with artists and others with diverse skills sets. They need to work with people with different characteristics and know how to manage potential conflicts of opinion and approach. An employee in this occupation must ensure that technology is used effectively and correctly to achieve the sound that producers and artists are seeking. &lt;br /&gt;&lt;br /&gt;Assistant Recording Technicians have a significant impact on the final sound experience. They balance technical and creative skills to produce the impact that the director and other creative staff members and clients/artists want to achieve. Assistant Recording Technicians trouble shoot processes and technical issues and provide solutions to resolve them or work with colleagues with relevant experience. Sound recordings may of great interest to members of the public prior to their completion. They must ensure that physical and digital assets are stored securely and safely and ensure that files are not subject to piracy or theft. &lt;br /&gt;&lt;br /&gt;In many instances, Assistant Recording Technicians will work under the direction of senior audio/recording engineers. The assistant will work with them on more complex sound projects, responding to the guidance and experience of the senior staff. These individuals will act as mentors to the assistant recording technicians and ultimately enable them to take on increasing levels of complexity and responsibility. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for ensuring that technology is used effectively and correctly to achieve the sound that producers and artists are seeking. &lt;br /&gt;&lt;br /&gt;Assistant Recording Technicians have a significant impact on the final sound experience. They balance technical and creative skills to produce the impact that the director and other creative staff members and clients/artists are seeking to achieve. Assistant Recording Technicians trouble shoot processes and technical issues and provide solutions to resolve them or work with colleagues with relevant experience.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "04806acc-fa3e-492f-a889-0af968c30ce9",
+      "detail": "Audio equipment set up requirements to meet differing recording specifications and its final application."
+    },
+    {
+      "knowledgeId": "35fc5a4a-9e42-443c-8e09-538dfe9e6b03",
+      "detail": "How to use software to edit and mix sound."
+    },
+    {
+      "knowledgeId": "fa6e2504-d175-4ec1-9a23-fceaa28debea",
+      "detail": "How to regulate volume levels and the impact on sound quality."
+    },
+    {
+      "knowledgeId": "414756f7-5bf8-44e4-93b0-8dc6fa72c89e",
+      "detail": "How to minimise unwanted sounds."
+    },
+    {
+      "knowledgeId": "eb45f4b8-3f8f-48ad-a830-47093739ae29",
+      "detail": "Audio dynamics of the studio and how this impacts on the quality of the recording."
+    },
+    {
+      "knowledgeId": "6d8bb723-2223-4e5b-a815-79a898771452",
+      "detail": "What different items of audio equipment are for, their functions and ideal uses, and in what situations they should be deployed.  Different types of microphones and the situations in which they could be used to best effect."
+    },
+    {
+      "knowledgeId": "6a16bf02-cc09-44cc-932b-c251c79647dd",
+      "detail": "How to set up inputs and outputs on the mixing console and its impact on the final sound.  To include pre-amp, EQ, pan/mute and fader."
+    },
+    {
+      "knowledgeId": "cbe58718-e78e-49e6-9b5a-b9ff4f600bf6",
+      "detail": "How to mix input sound signals and send them to the outputs (aux sends, subgroups and main mix)."
+    },
+    {
+      "knowledgeId": "7909bd61-3ff7-4049-ae67-04d306a98b49",
+      "detail": "Procedures to identify and diagnose problems with audio equipment and common solutions for their resolution."
+    },
+    {
+      "knowledgeId": "2e2af664-2efc-4391-97fe-332fc92d8cc8",
+      "detail": "When to refer issues with equipment to a technician for repair/maintenance."
+    },
+    {
+      "knowledgeId": "87ccca59-72ae-41cc-bfa1-9213ddf6f927",
+      "detail": "Boundaries of responsibility in regard to recording sessions."
+    },
+    {
+      "knowledgeId": "1efe2c9b-3cdf-43ae-98e8-0fc1e6b12ec4",
+      "detail": "How the set-up of the studio is impacted by the type of music/sound being recorded and its final application."
+    },
+    {
+      "knowledgeId": "0ffa56ef-a9a5-4f0c-830a-371e17415ab3",
+      "detail": "How to identify studio equipment and integrate with client's own equipment.  The set up and operation of recording software and hardware protocols."
+    },
+    {
+      "knowledgeId": "845eb5e6-65c8-4241-bac6-579fdc8876ab",
+      "detail": "Inputs and outputs assignment and how to set these up on equipment."
+    },
+    {
+      "knowledgeId": "1f4e5326-8219-47b3-b7e5-d1f5525bd02f",
+      "detail": "The protocols for labelling and documenting channels."
+    },
+    {
+      "knowledgeId": "0f0f49f8-187a-4cd7-a79e-de51b40e3967",
+      "detail": "Back up procedures for digital sound files and sound library requirements."
+    },
+    {
+      "knowledgeId": "792f92a1-b902-49b0-b37c-6431c8d1a2c1",
+      "detail": "How the security of sound files and physical assets on site can be protected."
+    },
+    {
+      "knowledgeId": "849fd137-2e8e-4c84-a926-21832b4e33dd",
+      "detail": "How credits are assigned and the implications this has upon the recording."
+    },
+    {
+      "knowledgeId": "39eb2adb-5f89-43b0-a0b3-e282a4160378",
+      "detail": "How to collaborate with producers and performers."
+    },
+    {
+      "knowledgeId": "75ebe2fd-2a5d-48ea-9c40-c56f211b7899",
+      "detail": "How the requirements of different media can vary according to where the sound recording will be used (e.g. tv/film, computer games)."
+    },
+    {
+      "knowledgeId": "f930dcd8-f3f9-4895-b888-45c31a7c08b9",
+      "detail": "The Health and Safety at Work Act 1974.  Assessing the risks and potential health and safety issues that apply, particularly in relation to ear protection and electrical safety."
+    },
+    {
+      "knowledgeId": "ac16059d-f402-4735-b380-7ea4a7f16ce0",
+      "detail": "The Control of Noise at Work Regulations 2005 (CNWR), and the relevant guidance for the music and entertainment sector."
+    },
+    {
+      "knowledgeId": "cbab4616-d243-484f-9c67-d355ee590e60",
+      "detail": "The importance of meeting deadlines during sessions that use several external paid musicians. The need to maintain the momentum of the recording session to minimise costs."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "6fbf98e9-88f7-426e-8077-c03705ca5119",
+      "detail": "Champions the importance of adherence to the organisation’s Environmental, Health and Safety management systems. Actively displays and promotes a safety first culture within the organisation."
+    },
+    {
+      "behaviourId": "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+      "detail": "Operates in a systematic, proactive and transparent way."
+    },
+    {
+      "behaviourId": "2757f33b-ad6c-494b-ad0a-f97ceabfa72c",
+      "detail": "Keeps abreast of developments in emerging technologies and actively promotes the use of new technologies to optimise performance."
+    },
+    {
+      "behaviourId": "081ce151-8e6d-4611-8b69-1a28c458c86f",
+      "detail": "Takes full responsibility for own professional development, seeking opportunities to enhance knowledge, skills and experience."
+    },
+    {
+      "behaviourId": "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+      "detail": "Accepts responsibility for their workload with a responsible approach to risk. Demonstrates a high level of motivation and resilience when facing challenge."
+    },
+    {
+      "behaviourId": "f5eec446-dc93-405e-b6a5-1da3e122da97",
+      "detail": "Sensitive to the needs of artists. Creates and maintains positive, professional, trusting and ethical working relationships with their team and the wider range of internal, external and connected stakeholders."
+    },
+    {
+      "behaviourId": "90da048d-e661-4448-b925-1c4d8b0540fb",
+      "detail": "Acts professionally with a positive and respectful attitude."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "72a52189-4b78-47d4-ad3d-40b68ff6626e",
+      "detail": "Establish editor, producer and client requirements.  Determines hardware and software needed to achieve the sound specification."
+    },
+    {
+      "skillId": "5533dee6-99a4-4767-b078-411caa0d84f8",
+      "detail": "Sets up the studio and equipment to meet sound brief.  Takes into account acoustics to produce the best quality outputs tailored to the purpose. Positions microphones, sets up amps and sound levels."
+    },
+    {
+      "skillId": "6a8d5125-c33e-476a-a005-dfc61b0255ef",
+      "detail": "Reviews the effectiveness of the setup and adjusts equipment to achieve the required specification and quality."
+    },
+    {
+      "skillId": "99acab94-7b66-4503-9efc-ca521b1e566c",
+      "detail": "Evaluates information and makes recommendations, for different sound requirements.  Supports stakeholders preparing for and during the live recording and maintains client relationships."
+    },
+    {
+      "skillId": "aca596b2-5d05-4eb4-8176-d77857f0ac39",
+      "detail": "Sets up and assists with the operation of the mixing console. Balances and adjust sound sources using equalization and audio effects, mixing, reproduction, and reinforcement of sound."
+    },
+    {
+      "skillId": "fad89846-dd3b-4160-905e-0b31b4f26f2d",
+      "detail": "Plans work in a methodical way to ensure the efficiency of the recording session and takes into account competing priorities."
+    },
+    {
+      "skillId": "f5914632-6b7c-41ba-9041-17e5e1ec70e6",
+      "detail": "Balance the differing needs required by clients and the priorities of the organisation/ studio."
+    },
+    {
+      "skillId": "cd650c12-31a9-45ad-af4d-f7f0e72289ae",
+      "detail": "Manage the security and format of different types of sound files."
+    },
+    {
+      "skillId": "75618925-7919-4089-9543-6126c0b67556",
+      "detail": "Uses problem solving techniques to diagnose equipment faults/issues.  Escalates faults/issues when they are outside the levels of their own responsibility."
+    },
+    {
+      "skillId": "3423253c-75d0-4135-8fba-c9a5bd19e094",
+      "detail": "Implements solutions to address equipment faults in a live environment to ensure the continuing running of the recording session.  Considers cost and artist requirements when implementing the solution."
+    },
+    {
+      "skillId": "78d26ea8-4758-4b9d-b5e3-caaa7eaf604f",
+      "detail": "Produce records related to the set-up of the studio and particular equipment for future reference/ continuous improvement and to ensure repeatability."
+    },
+    {
+      "skillId": "ae72bed9-263e-4ec9-8754-1cf2cc57567d",
+      "detail": "Log when credits may be due to self or other individuals involved with the recording."
+    },
+    {
+      "skillId": "6d7ca8cc-5f2b-432c-ac34-cac0007bd4b8",
+      "detail": "Synchronises audio with other mediums/ productions."
+    },
+    {
+      "skillId": "a1bc3992-a5f1-4131-8599-9dd4abd936d8",
+      "detail": "Restore work area and store equipment maintaining equipment integrity and to ensure the condition of the equipment is not compromised"
+    },
+    {
+      "skillId": "3404e39d-0928-42ed-87de-00344e5332ba",
+      "detail": "Monitor the maintenance requirements of electrical equipment in line with company procedures. Consider the frequency of checks required, the inspection requirements and testing needed."
+    },
+    {
+      "skillId": "f984a727-13b6-461c-b4fc-b2b96de6a582",
+      "detail": "Complies with statutory and organisational health & safety regulations and policies."
+    },
+    {
+      "skillId": "ef74333d-a500-4af3-ba11-8725a32d8242",
+      "detail": "Supports stakeholders preparing for and during the live recording and maintains client relationships."
+    },
+    {
+      "skillId": "f35a4dc9-358b-46cf-bb65-70498a6ae826",
+      "detail": "Follow protocol to correctly label file names and archive the different mixes and multitrack recordings for easy retrieval."
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "National Skills Academy for Rail (NSAR)",
+    "contactName": "Barry Smith",
+    "contactAddress": "NSAR Ltd\r\n11 Carteret Street\r\nLondon\r\nSW1H 9DJ",
+    "contactEmail": "Barry.smith@nsar.co.uk",
+    "webLink": "https://www.nsar.co.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedDegree": "",
+  "tbReference": "TB0456",
+  "tbMainContact": "davidt@evolution-partnership.com",
+  "involvedEmployers": "UK Music, Evolution Partnership (on behalf of ScreenSkills), Aquarium Studios, Halo Post,  Metropolis,  Molinaire, RAK Studios,  Alchemy Mastering, Elephant Studios, Music Producers Guild/James, London South Bank University",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Assistant recording engineer",
+    "Assistant audio engineer",
+    "Mixing engineer",
+    "Recording assistant"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Media, Broadcast and Production",
+  "cluster": "Media, Broadcast and Production Technician",
+  "createdDate": "2020-09-23T10:28:53 +00:00",
+  "lastUpdated": "2020-09-23T10:28:53 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-recording-technician#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-recording-technician",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "a672559d-d330-48f3-bcf1-2de7fc685b92",
+      "dutyDetail": "Interpret the requirements of a sound brief, seeking clarity when required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a"
+      ],
+      "mappedKnowledge": [
+        "04806acc-fa3e-492f-a889-0af968c30ce9",
+        "75ebe2fd-2a5d-48ea-9c40-c56f211b7899",
+        "f930dcd8-f3f9-4895-b888-45c31a7c08b9",
+        "ac16059d-f402-4735-b380-7ea4a7f16ce0",
+        "cbab4616-d243-484f-9c67-d355ee590e60"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "72a52189-4b78-47d4-ad3d-40b68ff6626e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c3e6d1c-f926-4226-a38e-fd9e60c9c4fc",
+      "dutyDetail": "Identify the equipment, hardware and software required for the recording.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "2757f33b-ad6c-494b-ad0a-f97ceabfa72c",
+        "081ce151-8e6d-4611-8b69-1a28c458c86f",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "6d8bb723-2223-4e5b-a815-79a898771452"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "72a52189-4b78-47d4-ad3d-40b68ff6626e",
+        "5533dee6-99a4-4767-b078-411caa0d84f8",
+        "fad89846-dd3b-4160-905e-0b31b4f26f2d",
+        "f5914632-6b7c-41ba-9041-17e5e1ec70e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f50683b-8670-4aa6-b912-a7d1a42cb181",
+      "dutyDetail": "Set up, position and test sound equipment and associated cables to achieve the requirements of the sound brief.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "f5eec446-dc93-405e-b6a5-1da3e122da97",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "fa6e2504-d175-4ec1-9a23-fceaa28debea",
+        "414756f7-5bf8-44e4-93b0-8dc6fa72c89e",
+        "eb45f4b8-3f8f-48ad-a830-47093739ae29",
+        "6a16bf02-cc09-44cc-932b-c251c79647dd",
+        "cbe58718-e78e-49e6-9b5a-b9ff4f600bf6",
+        "845eb5e6-65c8-4241-bac6-579fdc8876ab"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5533dee6-99a4-4767-b078-411caa0d84f8",
+        "6a8d5125-c33e-476a-a005-dfc61b0255ef",
+        "99acab94-7b66-4503-9efc-ca521b1e566c",
+        "aca596b2-5d05-4eb4-8176-d77857f0ac39",
+        "fad89846-dd3b-4160-905e-0b31b4f26f2d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7117df50-d715-4a03-a6ee-6a0bdcb17073",
+      "dutyDetail": "Produce records of the set up used for the recording for future reference.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "1f4e5326-8219-47b3-b7e5-d1f5525bd02f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "78d26ea8-4758-4b9d-b5e3-caaa7eaf604f",
+        "ae72bed9-263e-4ec9-8754-1cf2cc57567d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b38d68fb-dc34-4d22-a631-19225e221a6d",
+      "dutyDetail": "Apply the use of software packages to achieve sound and balance required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "2757f33b-ad6c-494b-ad0a-f97ceabfa72c",
+        "081ce151-8e6d-4611-8b69-1a28c458c86f",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "35fc5a4a-9e42-443c-8e09-538dfe9e6b03",
+        "6a16bf02-cc09-44cc-932b-c251c79647dd",
+        "cbe58718-e78e-49e6-9b5a-b9ff4f600bf6"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "aca596b2-5d05-4eb4-8176-d77857f0ac39",
+        "fad89846-dd3b-4160-905e-0b31b4f26f2d",
+        "6d7ca8cc-5f2b-432c-ac34-cac0007bd4b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5f918d1a-878f-4bf0-8b79-3756d115b06c",
+      "dutyDetail": "Engage with production staff to develop recording in line with sound brief.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f5eec446-dc93-405e-b6a5-1da3e122da97",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "cbe58718-e78e-49e6-9b5a-b9ff4f600bf6",
+        "87ccca59-72ae-41cc-bfa1-9213ddf6f927",
+        "849fd137-2e8e-4c84-a926-21832b4e33dd",
+        "75ebe2fd-2a5d-48ea-9c40-c56f211b7899",
+        "cbab4616-d243-484f-9c67-d355ee590e60"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "f5914632-6b7c-41ba-9041-17e5e1ec70e6",
+        "ae72bed9-263e-4ec9-8754-1cf2cc57567d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f4e568e2-fab0-4890-9dab-66d5197eeddb",
+      "dutyDetail": "Adapt set up of equipment and other resources to respond to specific requirements of the client/artist.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "f5eec446-dc93-405e-b6a5-1da3e122da97",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "0ffa56ef-a9a5-4f0c-830a-371e17415ab3",
+        "75ebe2fd-2a5d-48ea-9c40-c56f211b7899",
+        "f930dcd8-f3f9-4895-b888-45c31a7c08b9",
+        "ac16059d-f402-4735-b380-7ea4a7f16ce0"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "99acab94-7b66-4503-9efc-ca521b1e566c",
+        "f5914632-6b7c-41ba-9041-17e5e1ec70e6",
+        "ef74333d-a500-4af3-ba11-8725a32d8242"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8eab6f9e-7c70-4bce-8fde-361c87af9f1e",
+      "dutyDetail": "Engage with the artist and other individuals with sensitivity and in a professional manner.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "f5eec446-dc93-405e-b6a5-1da3e122da97",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "39eb2adb-5f89-43b0-a0b3-e282a4160378"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "f5914632-6b7c-41ba-9041-17e5e1ec70e6",
+        "cd650c12-31a9-45ad-af4d-f7f0e72289ae",
+        "6d7ca8cc-5f2b-432c-ac34-cac0007bd4b8",
+        "ef74333d-a500-4af3-ba11-8725a32d8242"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "00df8331-0332-42b7-b30d-bfb86556b1b2",
+      "dutyDetail": "Collaborate with editors, producers and artists to synchronise audio with other mediums/ productions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "f5eec446-dc93-405e-b6a5-1da3e122da97",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "87ccca59-72ae-41cc-bfa1-9213ddf6f927",
+        "1efe2c9b-3cdf-43ae-98e8-0fc1e6b12ec4",
+        "39eb2adb-5f89-43b0-a0b3-e282a4160378"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "6d7ca8cc-5f2b-432c-ac34-cac0007bd4b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e3b9445-6a18-45ec-8979-8d442907b227",
+      "dutyDetail": "Store, clean and process audio files in a suitable format and which protects the security of the data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "0f0f49f8-187a-4cd7-a79e-de51b40e3967",
+        "792f92a1-b902-49b0-b37c-6431c8d1a2c1"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "cd650c12-31a9-45ad-af4d-f7f0e72289ae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fb4cdd2-f739-49bd-8703-2fb3e60c831e",
+      "dutyDetail": "Investigate problems with audio equipment using diagnostic methods to identify what faults are.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "081ce151-8e6d-4611-8b69-1a28c458c86f",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "7909bd61-3ff7-4049-ae67-04d306a98b49",
+        "2e2af664-2efc-4391-97fe-332fc92d8cc8"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "75618925-7919-4089-9543-6126c0b67556",
+        "3423253c-75d0-4135-8fba-c9a5bd19e094",
+        "78d26ea8-4758-4b9d-b5e3-caaa7eaf604f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "461fd119-d1a9-44bf-ae52-f9fc731661ea",
+      "dutyDetail": "Take action to resolve equipment and software faults.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "7909bd61-3ff7-4049-ae67-04d306a98b49",
+        "2e2af664-2efc-4391-97fe-332fc92d8cc8"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "75618925-7919-4089-9543-6126c0b67556",
+        "3423253c-75d0-4135-8fba-c9a5bd19e094",
+        "78d26ea8-4758-4b9d-b5e3-caaa7eaf604f",
+        "3404e39d-0928-42ed-87de-00344e5332ba",
+        "f984a727-13b6-461c-b4fc-b2b96de6a582"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b049c478-eeae-43a1-b7c5-faf900055baa",
+      "dutyDetail": "Collate and maintain sound libraries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "081ce151-8e6d-4611-8b69-1a28c458c86f",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "0f0f49f8-187a-4cd7-a79e-de51b40e3967"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ae72bed9-263e-4ec9-8754-1cf2cc57567d",
+        "f35a4dc9-358b-46cf-bb65-70498a6ae826"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c74284d6-401d-40aa-a6b2-c035866640d7",
+      "dutyDetail": "Disassemble audio equipment and pack and store in accordance with organisational procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6fbf98e9-88f7-426e-8077-c03705ca5119",
+        "fa2db9b3-faa9-49fc-bd43-656a09b3a138",
+        "559de2e7-dd1b-4bc8-a3be-cd020d064a3a",
+        "90da048d-e661-4448-b925-1c4d8b0540fb"
+      ],
+      "mappedKnowledge": [
+        "f930dcd8-f3f9-4895-b888-45c31a7c08b9",
+        "ac16059d-f402-4735-b380-7ea4a7f16ce0"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a1bc3992-a5f1-4131-8599-9dd4abd936d8",
+        "3404e39d-0928-42ed-87de-00344e5332ba",
+        "f984a727-13b6-461c-b4fc-b2b96de6a582"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
