@@ -1,0 +1,511 @@
+{
+  "larsCode": 0,
+  "referenceNumber": "ST0651",
+  "title": "Lightning protection operative",
+  "status": "In development",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "versionNumber": "",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 0,
+  "overviewOfRole": "Install and maintain lightning protection and earthing systems to buildings and infrastructure to minimise damage",
+  "level": 2,
+  "typicalDuration": 18,
+  "maxFunding": 0,
+  "route": "Construction",
+  "keywords": [],
+  "jobRoles": [
+    "Lightning protection fitter",
+    "Lightning protection installer",
+    "Lightning protection engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4570/st0651_lightning-protection-operative_l2_for_publication_24092020.pdf",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "",
+  "standardInformation": "",
+  "standardOccupationalCode": "",
+  "occupationalSummary": "&lt;p&gt;This Lightning Protection Operative occupation is found in the construction, facilities management, heritage, infrastructure, transportation, utilities, petrochemical and energy production/distribution sectors. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to install and/or maintain lightning protection and earthing systems to buildings and infrastructure to minimise damage to structures and their contents and to reduce the risk of injury to people in, or working on, the equipment that is being protected. The core element of an operative’s work is the installation of lightning protection systems but most will also undertake some power earthing work to provide a safe earth for electrical systems. This is a growing element of employers’ activities and some operatives will specialise in power earthing duties.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with internal stakeholders such as company project managers, supervisors and safety representatives; and external stakeholders such as contractors, site management and safety teams, clients representatives, materials and equipment suppliers and training providers. The work is typically undertaken on construction sites or on client-owned premises or equipment and usually involves working on the outside of building structures on the roof or walls, or on equipment that is open to the atmosphere. It is an occupation that is often conducted outside in all weathers and at height. &lt;br /&gt;&lt;br /&gt;An employee in this occupation typically works in small teams overseen by a senior operative or supervisor. They will be required to complete basic tasks, such as product installation, routine testing and maintenance, without supervision and make accurate records of work undertaken. They will also be required to assist with more complex tasks, such as specialist testing, with the support of their team and under direct supervision.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "0788c98f-11c8-4267-95e4-28be56913dc0",
+      "detail": "The principles of the relevant Health & Safety legislation, including Health & Safety at Work Act 1974; Management of Health & Safety at Work Regulations 1999; Manual Handling Operations Regulations 1999 (MHOR); Working at Height Regulations 2005/2007, LOLER Regs 1998,PPE Regulations, PUWER and where to find additional information e.g. ATLAS website, Health & Safety Executive (HSE) website."
+    },
+    {
+      "knowledgeId": "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
+      "detail": "The use of mobile elevated work platforms (MEWPS) e.g.  the selection of equipment, safe positioning, correct operation and pedestrian control."
+    },
+    {
+      "knowledgeId": "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+      "detail": "The use of task specific personal protective equipment e.g. fall restraint/arrest equipment for working at height, goggles for drilling/cutting, face masks for dust/drilling and gloves for work with sharp/hot equipment."
+    },
+    {
+      "knowledgeId": "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+      "detail": "The key elements of an earthing system (BS 7430) and the parameters that are required in order to ensure compliance"
+    },
+    {
+      "knowledgeId": "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+      "detail": "The principles of the British Standard for Lightning Protection (BS EN 62305) and, in particular, Part 3: Physical Damage to Structures and Life Hazard and how this is provides for 4 different levels of protection."
+    },
+    {
+      "knowledgeId": "c350de86-61dc-4521-93e8-48b826a9f434",
+      "detail": "Material and component requirements for all parts of a Lightning Protection or Earthing System, including fitting/surface compatibility and preparation, fixing distances, jointing requirements."
+    },
+    {
+      "knowledgeId": "e86151f0-093b-438d-9c3d-94e1eeab958a",
+      "detail": "The methods of handling, storing and transporting lightning protection and earthing materials e.g. conductor materials, earth electrodes and fixtures and fittings."
+    },
+    {
+      "knowledgeId": "00061b7b-55f7-4876-9805-ecb787780428",
+      "detail": "The procedure for testing and verification of a Lightning Protection or Earthing System, including equipment required and its correct use."
+    },
+    {
+      "knowledgeId": "e6221c0c-3018-47f8-8558-b43dbee97f6d",
+      "detail": "The correct and safe method of erecting and dismantling mobile aluminium towers."
+    },
+    {
+      "knowledgeId": "f40041c7-6840-496c-97cc-31189c08f8e1",
+      "detail": "How to interpret design layout drawings and determine the correct and safe methods for access, work tasks and egress."
+    },
+    {
+      "knowledgeId": "2a946031-af04-4d51-bcd1-0c8737bcda84",
+      "detail": "The methods of surveying and investigating ground conditions, paying particular regard to the safe identification and avoidance of buried services e.g. cable avoidance tools and techniques and service plan drawings."
+    },
+    {
+      "knowledgeId": "1b3aa86d-c1ea-4bf9-94f7-f1bc4eedc7db",
+      "detail": "The safe and correct use of power tool equipment, giving particular regard to safe exposure limits of vibrating hand tools."
+    },
+    {
+      "knowledgeId": "a0a697a8-b2a3-47c5-bc6d-d28b330e7d3a",
+      "detail": "The use of surge protection devices for electrical, data and telecom systems."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "322fa6e5-4bf6-47be-a14b-2df342a952e1",
+      "detail": "Teamwork: engage collaboratively with others"
+    },
+    {
+      "behaviourId": "6abe4481-ec55-41a4-ba48-1abc9006a990",
+      "detail": "Independent working: take responsibility for completion of own work."
+    },
+    {
+      "behaviourId": "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+      "detail": "Logical thinking: use clear and valid reasoning when making decisions to undertake work instructions."
+    },
+    {
+      "behaviourId": "18c4075d-e112-413e-a70b-f4090df05302",
+      "detail": "Time management: use own time effectively to complete the work instructions to schedule."
+    },
+    {
+      "behaviourId": "a789defe-694b-4e84-ac9a-b9f05ac4812b",
+      "detail": "Respect: apply equality, diversity and inclusion in dealing with others."
+    },
+    {
+      "behaviourId": "d5e184b9-ae5b-4660-a959-76dbdf32b0b0",
+      "detail": "Compliance/Instruction: abide by employer procedure/company values, site inductions, Risk Assessment and Method Statements, tool box talks."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0344feae-1662-4926-9728-af1578657ad9",
+      "detail": "Organise the workplace and other areas affected by the activities."
+    },
+    {
+      "skillId": "320237bf-3dd2-491a-8e6a-87196486e183",
+      "detail": "Cross reference to Method Statements and Risk Assessments"
+    },
+    {
+      "skillId": "6b2cb080-4c36-417e-b4ea-dd7fa242abae",
+      "detail": "Identify shortfalls in the process and/or changes to the workplace which will have a safety, production or budgetary impact."
+    },
+    {
+      "skillId": "7ca9a593-8cd3-44e4-a8f0-99b8bba87dd9",
+      "detail": "Solve problems - predict and prevent H&S problems through observation and preventative action."
+    },
+    {
+      "skillId": "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+      "detail": "Select the correct materials and equipment for the application and to ensure that the installation is compliant with the 'Standards' and that it meets client requirements/specification"
+    },
+    {
+      "skillId": "e1569a65-68b4-42e9-a58c-060092e8fb4b",
+      "detail": "Ability to fault-find and determine and/or apply suitable corrective action."
+    },
+    {
+      "skillId": "b6125cc9-b07b-4a9b-b991-4037e3f69352",
+      "detail": "Installation of lightning protection and earthing products including air termination rods, down conductors and earth electrodes, isolated masts with associated testing and verification of products, networks and systems"
+    },
+    {
+      "skillId": "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
+      "detail": "Installation of pedestrian controls including temporary traffic management"
+    },
+    {
+      "skillId": "f24f440b-7e62-420f-afed-1fff15d11875",
+      "detail": "Effective communication skills including oral, written including the keeping of accurate records, listening and body language."
+    },
+    {
+      "skillId": "ea835c92-fda5-4af2-b6be-2f93641830cb",
+      "detail": "Installation of safety barriers or exclusion zones where hazardous work tasks are performed or mechanical plant is being used."
+    },
+    {
+      "skillId": "5c216433-d652-4a41-a57a-c576e189d947",
+      "detail": "Effective loading, unloading and distribution of materials"
+    },
+    {
+      "skillId": "926c15cb-4709-4cca-b3db-647c2e60399d",
+      "detail": "Conductor joining techniques including pressure clamps, exo-thermic welding, brazing and crimping"
+    },
+    {
+      "skillId": "2348c945-eb48-4b29-a7ed-800e5f0bcf7c",
+      "detail": "Specialist testing and verification: low resistance electrical continuity tests for earthing systems joint connections"
+    }
+  ],
+  "options": [],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
+  "approvedForDelivery": "",
+  "integratedDegree": "",
+  "tbReference": "TB0240",
+  "tbMainContact": "john.jolly@cuttings.london",
+  "involvedEmployers": "Cuttings London, BEST Services, Churchill SC, Delta International, J Redpath Buchanan, Omega Red Group, Orion LP, PTSG Electrical Services, Rafferty International, Sentinel",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Lightning protection fitter",
+    "Lightning protection installer",
+    "Lightning protection engineer"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Onsite Construction",
+  "cluster": "Construction Specialist Operative/Technician",
+  "createdDate": "2020-09-25T14:38:39 +00:00",
+  "lastUpdated": "2020-09-25T14:38:39 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "dc58a752-a0ff-49af-9a74-780b553566ca",
+      "dutyDetail": "Establish systems and equipment to create a safe working environment in line with organisational procedures, site requirements and budgets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "0788c98f-11c8-4267-95e4-28be56913dc0",
+        "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0344feae-1662-4926-9728-af1578657ad9",
+        "320237bf-3dd2-491a-8e6a-87196486e183",
+        "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
+        "ea835c92-fda5-4af2-b6be-2f93641830cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f426df4b-db44-41e2-ab5a-914d3d5fcb1e",
+      "dutyDetail": "Assess the site or workplace for hazards and identify/implement the necessary control measures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+        "f40041c7-6840-496c-97cc-31189c08f8e1",
+        "2a946031-af04-4d51-bcd1-0c8737bcda84"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "320237bf-3dd2-491a-8e6a-87196486e183",
+        "6b2cb080-4c36-417e-b4ea-dd7fa242abae",
+        "7ca9a593-8cd3-44e4-a8f0-99b8bba87dd9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c3b10685-ea89-4857-a03f-753ff1af0938",
+      "dutyDetail": "Implement necessary pedestrian controls and traffic management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "322fa6e5-4bf6-47be-a14b-2df342a952e1",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "a789defe-694b-4e84-ac9a-b9f05ac4812b"
+      ],
+      "mappedKnowledge": [
+        "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0344feae-1662-4926-9728-af1578657ad9",
+        "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
+        "ea835c92-fda5-4af2-b6be-2f93641830cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "310d45e6-fea6-46f8-8d81-4ebb7fc7c5ea",
+      "dutyDetail": "Control manual and assisted handling of materials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "18c4075d-e112-413e-a70b-f4090df05302",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "0788c98f-11c8-4267-95e4-28be56913dc0",
+        "e86151f0-093b-438d-9c3d-94e1eeab958a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "320237bf-3dd2-491a-8e6a-87196486e183",
+        "5c216433-d652-4a41-a57a-c576e189d947"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "622a5023-eed4-4736-b1ea-14e11cd6c3d0",
+      "dutyDetail": "Ensure compliance with British Standards BS EN 62305 (Lightning Protection) and BS EN 7430 (Earthing) is maintained at all times.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d"
+      ],
+      "mappedKnowledge": [
+        "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "c350de86-61dc-4521-93e8-48b826a9f434"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7bae377b-96cd-4f56-831d-136bf2674589",
+      "dutyDetail": "Install air termination rods and isolated masts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302"
+      ],
+      "mappedKnowledge": [
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "c350de86-61dc-4521-93e8-48b826a9f434"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a786fae3-c27f-48fb-973c-406eeb3f8065",
+      "dutyDetail": "Install an air termination network, jointing of conductors and bonding of extraneous metalwork.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302"
+      ],
+      "mappedKnowledge": [
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "c350de86-61dc-4521-93e8-48b826a9f434",
+        "e86151f0-093b-438d-9c3d-94e1eeab958a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7facce1d-084f-44c8-9ef5-f2a5e2b1897f",
+      "dutyDetail": "Install a down conductor network either by the use of conductor tape or by the use of a building structure, testing and verifying acceptability.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302"
+      ],
+      "mappedKnowledge": [
+        "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+        "c350de86-61dc-4521-93e8-48b826a9f434",
+        "e6221c0c-3018-47f8-8558-b43dbee97f6d"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7cd1d48c-a1bf-4a59-af2b-29fce99fb48b",
+      "dutyDetail": "Safely install an earth network by the use of earth electrodes, earth mats or the use of building foundations including the identification and avoidance of buried services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "322fa6e5-4bf6-47be-a14b-2df342a952e1",
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302",
+        "a789defe-694b-4e84-ac9a-b9f05ac4812b",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "c350de86-61dc-4521-93e8-48b826a9f434",
+        "2a946031-af04-4d51-bcd1-0c8737bcda84",
+        "1b3aa86d-c1ea-4bf9-94f7-f1bc4eedc7db"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0344feae-1662-4926-9728-af1578657ad9",
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352",
+        "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
+        "ea835c92-fda5-4af2-b6be-2f93641830cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b9783a8e-360d-4c11-9229-b1440afd7d04",
+      "dutyDetail": "Undertake appropriate resistance testing of lightning protection and earthing system individual electrodes plus earth and down conductor networks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302"
+      ],
+      "mappedKnowledge": [
+        "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "00061b7b-55f7-4876-9805-ecb787780428"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c8c213c1-f40d-4c78-8f9a-cbaf9bcf6db8",
+      "dutyDetail": "Undertake conductor jointing techniques including pressure clamps, exo-thermic welding, brazing and crimping.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "18c4075d-e112-413e-a70b-f4090df05302",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3",
+        "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "c350de86-61dc-4521-93e8-48b826a9f434"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0344feae-1662-4926-9728-af1578657ad9",
+        "320237bf-3dd2-491a-8e6a-87196486e183",
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352",
+        "ea835c92-fda5-4af2-b6be-2f93641830cb",
+        "926c15cb-4709-4cca-b3db-647c2e60399d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3911b4e6-1a9c-471c-883b-af5cdee77734",
+      "dutyDetail": "Undertake specialist testing - low resistance electrical continuity tests for earthing system joint connections.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "7c4d463e-65c0-43e2-9862-9beb8120d69b",
+        "00061b7b-55f7-4876-9805-ecb787780428"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
+        "b6125cc9-b07b-4a9b-b991-4037e3f69352",
+        "2348c945-eb48-4b29-a7ed-800e5f0bcf7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5cdb0eac-f868-4b17-9646-5e2af6990b22",
+      "dutyDetail": "Carry out maintenance and inspection duties, including fault finding and rectification.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d"
+      ],
+      "mappedKnowledge": [
+        "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
+        "00061b7b-55f7-4876-9805-ecb787780428",
+        "a0a697a8-b2a3-47c5-bc6d-d28b330e7d3a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e1569a65-68b4-42e9-a58c-060092e8fb4b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "87cabf00-ee8d-460a-8282-155767a03570",
+      "dutyDetail": "Keep accurate records and have an understanding of reporting procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6abe4481-ec55-41a4-ba48-1abc9006a990",
+        "ac013a74-7480-4e07-9e2d-093c6a59b99d",
+        "d5e184b9-ae5b-4660-a959-76dbdf32b0b0"
+      ],
+      "mappedKnowledge": [
+        "0788c98f-11c8-4267-95e4-28be56913dc0",
+        "f40041c7-6840-496c-97cc-31189c08f8e1"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7ca9a593-8cd3-44e4-a8f0-99b8bba87dd9",
+        "f24f440b-7e62-420f-afed-1fff15d11875"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
