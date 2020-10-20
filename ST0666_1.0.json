@@ -1,0 +1,786 @@
+{
+  "larsCode": 0,
+  "referenceNumber": "ST0666",
+  "title": "Education technician (he assistant technician and simulation-based technician)",
+  "status": "In development",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "versionNumber": "",
+  "change": "",
+  "changedDate": null,
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 0,
+  "overviewOfRole": "",
+  "level": 3,
+  "typicalDuration": 24,
+  "maxFunding": 0,
+  "route": "Education and childcare",
+  "keywords": [
+    "Education",
+    "assistant",
+    "smulation-based",
+    "teaching",
+    "technician",
+    "academic"
+  ],
+  "jobRoles": [
+    "Assistant technician",
+    "Junior technician",
+    "Clinical skills technician",
+    "Simulation technicians",
+    "Clinical simulation technicians"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "",
+  "ssa1": "13 Education and Training",
+  "ssa2": "13.2 Direct learning support",
+  "version": "",
+  "standardInformation": "",
+  "standardOccupationalCode": "2319",
+  "occupationalSummary": "&lt;p&gt;This standard covers two related occupations. A Higher Education (HE) Assistant Technician will work within higher education institutions such as Universities. They will typically work in one of the following academic settings: applied science, engineering, arts and humanities, environmental science, sports science, performing arts or healthcare science. A Simulation-based Education (SBE) technician may be employed and work within NHS Trusts, higher education institutions or within industry or in private facilities on a consultancy basis. &lt;br /&gt;&lt;br /&gt;SBE technicians will typically work in a skills and simulation centres, clinical and non-clinical areas and conference or event venues.&lt;br /&gt;&lt;br /&gt;Both occupations provide valuable technical support to academic or healthcare professional in learning, teaching or research&lt;br /&gt;&lt;br /&gt;The broad purpose of both occupations is to provide skilled technical support in teaching, learning and research environments across their respective sectors to personnel such as teachers, healthcare professionals, lecturers, educators, researchers and students. This is done by demonstrating and using techniques, materials, equipment, and machinery; collating and interpreting data or research outcomes and providing specific documentation and resources that support and enhance teaching, learning, or research activities, events or productions. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in either of these occupations interacts with a wide range of internal and external colleagues, including their wider team and organisation (including business, finance and IT departments), students, manufacturers and suppliers. HE Assistant Technicians are typically based in either an academic led teaching space, laboratory, studio theatre or workshop, working with al level such as students, academics professional services staff, with SBE Technicians typically based in simulated clinical environments or clinical areas (to facilitate in-situ simulation) with all levels such a nurses, Health Care Support workers and Doctors Individuals in either occupation may need to travel to work across sites (e.g. other areas of a university or trust or to a shared laboratory or facility) or externally to attend conferences and training courses relating to using complex equipment and techniques. &lt;br /&gt;&lt;br /&gt;An employee in either of these occupations will be responsible for: managing and undertaking routine maintenance of standard and bespoke equipment, stock control and housekeeping to ensure teaching, learning and research environments are, and remain, fit for purpose; contributing to the development of new and sometimes complex tools, techniques and teaching, learning and research innovations (such as developing a new piece of equipment, structure or process to support research experiments or creative practice); supporting academics, healthcare professionals and researchers by identifying problems with equipment, procedures, processes, experiments and offering design solutions; and preparing the teaching, learning and research environment by, for example, demonstrating the equipment and contributing to ongoing evaluation and continuous improvement. &lt;br /&gt;&lt;br /&gt;The occupations also require input to budget setting in relation to the costs and required functionality of specific equipment, and some supervision of students and learners, for example when using of a new piece of equipment. &lt;br /&gt;&lt;br /&gt;In addition to these common functions, each occupation has some unique responsibilities. &lt;br /&gt;Depending the setting they work in, HE assistant technicians also set up and assemble standard and bespoke equipment or resources for academic led research, teaching experiments/investigations or artistic/creative technique; provide advice and guidance on the use of these resources, materials, equipment designed to enhance students or researchers understanding of their use in an academic setting; provide appropriate representations of information derived from academic led experimental work or creative process, and manipulate them into appropriate formats, for publication or displays. &lt;br /&gt;&lt;br /&gt;SBE technicians also support delivery of training sessions using simulated learning for subjects such as life support, creating moulage/special effects make-up to apply to manikins and actors working as simulated patients to enhance the realism and the clinical accuracy of individual scenarios; undertaking the scenario coding (programming) and subsequent operation of human patient simulators, part task trainers and other modes of simulation to ensure the quality and realism of the simulation is achieved.&lt;br /&gt;&lt;br /&gt;All of these responsibilities need to be undertaken within defined quality, health and safety and environmental regulations and requirements, with minimum supervision.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+      "detail": "Which materials, equipment / machinery / tools, are needed for teaching, learning or research activities."
+    },
+    {
+      "knowledgeId": "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+      "detail": "The relevant protocols and Standard Operating Procedures for teaching, learning or research activities, why they are using them and the context in which they are using them. This includes procedures for laying out materials for practical and/or research activities and protocols and standard operating procedures related to clearing up following practical and / or research activities."
+    },
+    {
+      "knowledgeId": "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+      "detail": "The relevant health and safety legislation, environmental regulations and practice, the context in which they are applied and how and when to escalate concerns."
+    },
+    {
+      "knowledgeId": "2c7718df-ffdd-4b28-80fe-ed0583da4043",
+      "detail": "How their role fits into the organisation and the impact that it has."
+    },
+    {
+      "knowledgeId": "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+      "detail": "The different approaches and techniques required to demonstrate or facilitate for different audiences."
+    },
+    {
+      "knowledgeId": "217ee22f-90fe-4aff-864a-d97993679095",
+      "detail": "How to troubleshoot situations, systems, equipment or apparatus and when and how to escalate issues related to situations or systems or equipment or apparatus."
+    },
+    {
+      "knowledgeId": "542bc7f7-39a7-4550-b1cb-9024a0600501",
+      "detail": "The principles of housekeeping and its purpose including the implications of non-compliance, the need to maintain accurate records and the appropriate channels available to address an issue."
+    },
+    {
+      "knowledgeId": "cdfda62d-f014-496c-8f25-5393cf52ac44",
+      "detail": "The purpose of the monitoring and maintenance schedule, how regulations, systems and procedures support the activity and the implications of non-compliance."
+    },
+    {
+      "knowledgeId": "adab858a-7c5c-44cb-a1de-c616674baee1",
+      "detail": "Protocols and Standard Operating Procedures specifically in place for basic repairs to equipment, when to escalate repairs that are more complex and the appropriate place to escalate them to. This includes an understanding of why it is important to keep accurate records of equipment with their repair and service history and the correct channels to use when addressing issues identified through monitoring and maintenance."
+    },
+    {
+      "knowledgeId": "ea3d7e00-1495-453b-8e44-241ad96283b6",
+      "detail": "Local operational systems and the software that is required to support them including stock control management, budgeting and maintenance of records."
+    },
+    {
+      "knowledgeId": "1052c4c5-47c1-438a-a29d-de58f8253b83",
+      "detail": "The importance of the range of activities that support events and key activities related to internal or external events such as conferences, exhibitions, public engagements and open days."
+    },
+    {
+      "knowledgeId": "c709ca19-a2f3-49ec-80c0-3ab3099b7071",
+      "detail": "Communication techniques and approaches to interact with a range of key stakeholders in order to meet their requirements including the ways that current and emerging technologies can support communication."
+    },
+    {
+      "knowledgeId": "99f200e3-a821-40e0-b250-0f028c549ad9",
+      "detail": "The principles of evaluation and the channels for continuous improvement."
+    },
+    {
+      "knowledgeId": "b0912460-e330-4357-8bd8-025de4828a14",
+      "detail": "Data protection, confidentiality, informed consent and safeguarding."
+    },
+    {
+      "knowledgeId": "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
+      "detail": "Research process, including ethical and governance processes, and the principles and governance of audit."
+    },
+    {
+      "knowledgeId": "380276e7-5eb1-4688-9811-424b90085ca5",
+      "detail": "Safe working practices such as manual handling, risk assessment and infection control audits."
+    },
+    {
+      "knowledgeId": "c5f3b780-8b8c-4c6a-80f2-d66ab9769542",
+      "detail": "SBE only: Interpret learning outcomes for simulation-based education, including clinical skills courses such as Life Support and the role simulation and the environment plays in achieving these outcomes"
+    },
+    {
+      "knowledgeId": "624aed00-a776-433b-b748-8691349e7821",
+      "detail": "SBE only: The techniques, equipment and materials used and ensuring their safe use to create moulage/special effects make-up applications to manikins and actors working as simulated patients"
+    },
+    {
+      "knowledgeId": "7843f850-4c7d-4b67-9667-b385a839f0c8",
+      "detail": "SBE only: Interpret learning outcomes and their relevance to programming and running of scenarios using various modes of simulation"
+    },
+    {
+      "knowledgeId": "0215d08d-8ee4-4be9-beeb-3d05a14a4584",
+      "detail": "SBE only: Scenario programming and operation of relevant hardware and software for differing modes of simulation such as operation of human patient simulators, part task trainers etc."
+    },
+    {
+      "knowledgeId": "f27762d6-ef46-4f62-91c8-74dcf3ea2ee1",
+      "detail": "SBE only: The underpinning principles of the role of simulation, how to design clinical skills training programmes including programme aims, learning outcomes, teaching plans, and how learning outcomes link to assessment."
+    },
+    {
+      "knowledgeId": "4e7cf071-1d97-438c-a2d6-ebd6b2c5e526",
+      "detail": "HE only: The variety of equipment and resources used in their area of responsibility within the higher education sector and the different ways in which they support students and researchers"
+    },
+    {
+      "knowledgeId": "e77dc331-8547-49ff-818d-efc86b3d23a8",
+      "detail": "HE only: The potential needs and requirements of different stakeholders within their area of responsibility of higher education such as student groups and researchers"
+    },
+    {
+      "knowledgeId": "62939a03-7ee0-4896-8656-83c2e7ed9c3d",
+      "detail": "HE only: Techniques and sequences associated with experiments, research and other activities such as setting up, assembling and providing guidance on standard or bespoke equipment or resources for research or teaching."
+    },
+    {
+      "knowledgeId": "9a288add-d8e8-4728-851b-b57ee1f404b8",
+      "detail": "HE only: How representations of information are used for teaching and research in higher education."
+    },
+    {
+      "knowledgeId": "5d41f164-852d-4f31-b185-94fade28716f",
+      "detail": "HE only:  The process of collating appropriate information, such as experimental data or realistic visualisations, derived from academic led experimental work or creative process, and the principles behind how to manipulate them into appropriate formats (tables, figures, catalogues, indices, and portfolios) for publication."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+      "detail": "Seeks out opportunities for Continuing Professional Development (CPD)."
+    },
+    {
+      "behaviourId": "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+      "detail": "Works collaboratively with others."
+    },
+    {
+      "behaviourId": "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+      "detail": "Work safely at all times prioritising health and safety good practice."
+    },
+    {
+      "behaviourId": "2b8b785c-32ac-476b-b276-81a4500671b4",
+      "detail": "Accountability and ownership of their tasks and workload"
+    },
+    {
+      "behaviourId": "06655177-9be9-49e4-aa78-609e0e4885d0",
+      "detail": "Be open to change, amend working practices in response to feedback or changes in process."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "8a073cb6-ce81-4c4d-a655-886198df0e7c",
+      "detail": "Identify, prepare and lay out/set up relevant required materials/ equipment /machinery /tools using relevant protocols/Standard Operating Procedures for the purposes of teaching, learning or research activities within their area of responsibility."
+    },
+    {
+      "skillId": "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
+      "detail": "Clearing up materials/ equipment /machinery /tools using relevant protocols and Standard Operating Procedures specific to clearing up."
+    },
+    {
+      "skillId": "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+      "detail": "Work safely, complying with relevant Health and Safety and local regulations or policies and protocols, escalating issues where relevant."
+    },
+    {
+      "skillId": "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
+      "detail": "Demonstrate or facilitate and supervise the use of materials/ equipment /machinery /tools and equipment to meet the needs of the audience"
+    },
+    {
+      "skillId": "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+      "detail": "Respond to specific enquiries about appropriate protocols and Standard Operating Procedures, basic techniques and equipment and their safe use and being able to escalate to senior technical colleagues when further clarification is required"
+    },
+    {
+      "skillId": "dd1fd7f3-ae7c-489e-9e50-0bc91f5a5c28",
+      "detail": "Manufacture, construct or assemble both standard and bespoke components and demonstrate how these components integrate into larger teaching, learning and research systems and equipment."
+    },
+    {
+      "skillId": "97d83477-c469-495e-913a-8357e188a16b",
+      "detail": "Use creative thinking and problem solving to build on existing or new ideas in the teaching, learning or research environment based on expertise and context."
+    },
+    {
+      "skillId": "a6beaa1b-9336-4081-a81b-25185c79b348",
+      "detail": "Monitor and deliver key activities such as reactive maintenance and where required repair of equipment, safety compliance, infection control during a practical class and completing accurate records in relation to the activity."
+    },
+    {
+      "skillId": "815392cb-5c0d-4c52-9150-f36e47fb446e",
+      "detail": "Identifying the needs and then fulfil the needs of a person or group requiring information, documentation or resource - such as a student unsure of a piece of equipment during a laboratory, studio or workshop teaching session."
+    },
+    {
+      "skillId": "901d7a6a-f88c-4a13-aa0d-a90912f0c0ce",
+      "detail": "Carry out basic repairs in line with specified protocols/Standard Operating Procedures and keep accurate records where appropriate. Refer more complex or critical repairs where appropriate."
+    },
+    {
+      "skillId": "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
+      "detail": "Planning, monitoring and maintaining appropriate stocks of materials and equipment including budgeting and costing as required."
+    },
+    {
+      "skillId": "3889e400-3c04-4d36-83ed-dab893f3fabc",
+      "detail": "Prepare documentation and materials for all types of wider teaching or learning or research activities and events as required."
+    },
+    {
+      "skillId": "4ee3a4b2-3db1-4e16-ae62-d9ce9e4f9bcb",
+      "detail": "Communicate with key stakeholders (such as students, academics, clinicians or research staff, the general public, businesses, professional services staff and technical colleagues) using a range of techniques such as email, visual posters, verbal instructions to support teaching, research, wider activities."
+    },
+    {
+      "skillId": "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+      "detail": "Use and apply current and emerging technologies and techniques such as microscopy, 3D printing, robotics, use of lasers or light to create a range of images, automated screen printing, or virtual reality to support teaching, learning and research."
+    },
+    {
+      "skillId": "10d9a123-4fa4-4dd3-892d-865d27ae989b",
+      "detail": "Working at times under time pressure to raise and resolve areas of concern such as malfunctioning equipment, always working safely and to best practice."
+    },
+    {
+      "skillId": "7f592fdf-43c5-4b56-b34b-094046badfe2",
+      "detail": "Being able to adapt to changing priorities related to both their own work and to the organisation, showing the flexibility to maintain high standards in a changing environment."
+    },
+    {
+      "skillId": "46767630-a17f-4bf6-9b3c-f640515ea08f",
+      "detail": "Organising own work and achieving required results within deadlines."
+    },
+    {
+      "skillId": "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+      "detail": "Apply safe working practices such as manual handling, risk assessments and infection control audits."
+    },
+    {
+      "skillId": "91e0579c-ee30-4f19-ad5c-5c2576106a81",
+      "detail": "Facilitate, support and participate in internal or external events such as conferences, exhibitions, public engagements and open days."
+    },
+    {
+      "skillId": "fc523b54-0ef0-4e18-b4d8-238c31579610",
+      "detail": "Evaluate the delivery of demonstrations or facilitation for relevant activities such as setting up bespoke equipment for a practical demonstration by getting feedback from students, colleagues and make changes to practise as identified and appropriate."
+    },
+    {
+      "skillId": "dd57d1cc-b456-47f4-abf8-b35f97ed19b4",
+      "detail": "Undertake data collection, data analysis, data presentation and date storage, in line with legislation, local policies and procedures, such as room usage, student footfall, inventories of equipment or experimental data."
+    },
+    {
+      "skillId": "43f5c680-04a4-4a25-af85-bf6b4aed3e7c",
+      "detail": "Use of IT technologies such as management information systems "
+    },
+    {
+      "skillId": "696366c2-0238-4610-9ae5-3db5032138ce",
+      "detail": "SBE only: Identify, prepare, and apply the relevant moulage/special effects make-up to achieve the required results"
+    },
+    {
+      "skillId": "e977728d-a7f1-497d-bc9c-0be76c17a3a7",
+      "detail": "SBE only: Demonstrates scenario coding (programming and running of scenarios using the appropriate hardware and software)"
+    },
+    {
+      "skillId": "ee36e56c-ebd7-4983-b8fd-9d4a9cd489a6",
+      "detail": "HE only: Deliver end to end equipment and resource management processes in order to identify the resource needs for their area of responsibility for higher education teaching and research activities."
+    },
+    {
+      "skillId": "9da19deb-d2bc-4a68-b1c9-7874392a489b",
+      "detail": "HE only: Provide technical support for higher education activities such as experiments and demonstrations"
+    },
+    {
+      "skillId": "5a40104f-1746-4747-95a0-03573d603065",
+      "detail": "HE only: Attention to detail when collating or producing information for higher education activities such as teaching and research."
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e2eba925-ecb9-4ca0-9745-5d4684a3f470",
+      "title": "Higher education  assistant technician"
+    },
+    {
+      "optionId": "f17a021a-5229-4522-90ed-43a02e9d88b8",
+      "title": "Simulation-based education technician"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedDegree": "",
+  "tbReference": "TB0216",
+  "tbMainContact": "c.wright.2@bham.ac.uk",
+  "involvedEmployers": "University of Birmingham, Middlesex University, Medway NHS Foundation Trust, University of Portsmouth (HEE Wessex), Blackpool Teaching Hospitals NHS Foundation Trust, Wynnefield Consulting (HEE Yorkshire & Humber), University of Hull (HEE Yorkshire & Humber),  NHS Hampshire Hospitals Foundation Trust, Sims Support, NHS Hey,  University of Bristol,  London South Bank University, Southampton Solent University, Manchester Metropolitan University,  Birmingham City University, Imperial College London, University of Cambridge, Keele University, University of Chichester, Brunel University London, Newman University, BPP, University of Winchester, Leeds Trinity University, Aston University, Durham University, Medway NHS Foundation Trust, Oxford Brookes University, University College London Hospitals NHS Foundation Trust, University of Sheffield,  University of Reading, University of Newcastle, Liverpool John Moores University, University of Manchester, University of the West of England, University of Hull, Oxford Brookes University, Staffordshire University, NHS, Sheffield Hallam University",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Assistant technician",
+    "Junior technician",
+    "Clinical skills technician",
+    "Simulation technicians",
+    "Clinical simulation technicians"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Education and Childcare",
+  "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "createdDate": "2020-09-23T12:29:51 +00:00",
+  "lastUpdated": "2020-09-23T12:29:51 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/education-technician-(he-assistant-technician-and-simulation-based-technician)#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/education-technician-(he-assistant-technician-and-simulation-based-technician)",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Science and Technology  (HE Option)",
+      "level": "0",
+      "isPartial": "0",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Association for Simulated Practice in Healthcare (SBE Option)",
+      "level": "0",
+      "isPartial": "0",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "d5e1a245-3c6f-43cd-a4b6-8462d9bc2d84",
+      "dutyDetail": "Prepare the teaching, learning or research environment for a specific activity such as an introductory session to the area for new students or teaching students about particular skills, techniques and methodologies associated with a process or equipment or artistic / creative technique.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8a073cb6-ce81-4c4d-a655-886198df0e7c",
+        "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+        "815392cb-5c0d-4c52-9150-f36e47fb446e",
+        "3889e400-3c04-4d36-83ed-dab893f3fabc",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fca47ac6-e841-49f4-bb6a-f62f40aeb635",
+      "dutyDetail": "Safely demonstrate to students and staff how to operate simple and more complex equipment or a creative technique and facilitate the use of creative techniques/materials/equipment/machinery and tools to the relevant audience such as researchers, students, healthcare professionals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
+        "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+        "815392cb-5c0d-4c52-9150-f36e47fb446e",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "10d9a123-4fa4-4dd3-892d-865d27ae989b",
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "fc523b54-0ef0-4e18-b4d8-238c31579610"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3988e1e1-5e56-41ce-902f-642115bf7a45",
+      "dutyDetail": "Contribute to and support the development of new techniques, tools, equipment and innovations for teaching, learning or research.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "2c7718df-ffdd-4b28-80fe-ed0583da4043",
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "1052c4c5-47c1-438a-a29d-de58f8253b83",
+        "c709ca19-a2f3-49ec-80c0-3ab3099b7071",
+        "99f200e3-a821-40e0-b250-0f028c549ad9",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "dd1fd7f3-ae7c-489e-9e50-0bc91f5a5c28",
+        "97d83477-c469-495e-913a-8357e188a16b",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b93d6ecd-83c5-4803-aec7-34e072b06d5a",
+      "dutyDetail": "Collation of data, documentation and resources such as room usage, student footfall, inventories of equipment or experimental data in order to support and enhance teaching, learning or research activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+        "ea3d7e00-1495-453b-8e44-241ad96283b6",
+        "99f200e3-a821-40e0-b250-0f028c549ad9",
+        "b0912460-e330-4357-8bd8-025de4828a14",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
+        "3889e400-3c04-4d36-83ed-dab893f3fabc",
+        "dd57d1cc-b456-47f4-abf8-b35f97ed19b4",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c61cb7b-ee72-4f0a-b3d7-c9da6fba11d6",
+      "dutyDetail": "Safely undertake routine, scheduled,\u00A0unscheduled and bespoke housekeeping protocols/Standard Operating Procedures to ensure that the environment remains safe and fit for purpose, for example, health and safety inspections, infection control audits.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "542bc7f7-39a7-4550-b1cb-9024a0600501",
+        "cdfda62d-f014-496c-8f25-5393cf52ac44",
+        "adab858a-7c5c-44cb-a1de-c616674baee1",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+        "a6beaa1b-9336-4081-a81b-25185c79b348",
+        "10d9a123-4fa4-4dd3-892d-865d27ae989b",
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "198d6957-0654-4229-b24e-ea55d5de3586",
+      "dutyDetail": "Safely monitors and undertakes routine inspection and maintenance of standard and bespoke equipment, this may include repairs to ensure that it is fit for purpose or engaging and overseeing service contracts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "cdfda62d-f014-496c-8f25-5393cf52ac44",
+        "adab858a-7c5c-44cb-a1de-c616674baee1",
+        "ea3d7e00-1495-453b-8e44-241ad96283b6",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+        "a6beaa1b-9336-4081-a81b-25185c79b348",
+        "901d7a6a-f88c-4a13-aa0d-a90912f0c0ce",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8d8f2cc2-023b-4702-844f-443dfa3faab5",
+      "dutyDetail": "Undertake and maintain stock control including the management of stock records, procurement, equipment inventory, safe receipt, delivery, handling and storage of goods and consumables.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "542bc7f7-39a7-4550-b1cb-9024a0600501",
+        "ea3d7e00-1495-453b-8e44-241ad96283b6",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c2017f46-936d-4834-a28c-2cf937afc6f3",
+      "dutyDetail": "Facilitate, support and participate in internal or external events such as conferences, exhibitions, public engagements and open days.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "2c7718df-ffdd-4b28-80fe-ed0583da4043",
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "1052c4c5-47c1-438a-a29d-de58f8253b83",
+        "c709ca19-a2f3-49ec-80c0-3ab3099b7071",
+        "99f200e3-a821-40e0-b250-0f028c549ad9",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
+        "3889e400-3c04-4d36-83ed-dab893f3fabc",
+        "4ee3a4b2-3db1-4e16-ae62-d9ce9e4f9bcb",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "91e0579c-ee30-4f19-ad5c-5c2576106a81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a51648ed-ec7e-4da4-8468-ff280ce8e1a7",
+      "dutyDetail": "Identify and use the most suitable IT, technology and digital solution that will best support activities related to teaching, learning and research such as data collection, data storage, or technology enhanced learning (TEL).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "ea3d7e00-1495-453b-8e44-241ad96283b6",
+        "99f200e3-a821-40e0-b250-0f028c549ad9",
+        "b0912460-e330-4357-8bd8-025de4828a14",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "8a073cb6-ce81-4c4d-a655-886198df0e7c",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "7f592fdf-43c5-4b56-b34b-094046badfe2",
+        "dd57d1cc-b456-47f4-abf8-b35f97ed19b4",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f81d2dc-9bb8-49b5-9006-bc9963fd4cb8",
+      "dutyDetail": "Support academics, educators and researchers by identifying problems (with equipment, procedures, processes, experiments, creative activities) and offering design solutions (modifications) which may involve the manufacture, construction or assembly of bespoke components which may be used for procedures or experiments or used in exhibitions or events. This includes protocols and other local rules where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "c709ca19-a2f3-49ec-80c0-3ab3099b7071",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
+        "380276e7-5eb1-4688-9811-424b90085ca5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "97d83477-c469-495e-913a-8357e188a16b",
+        "815392cb-5c0d-4c52-9150-f36e47fb446e",
+        "4ee3a4b2-3db1-4e16-ae62-d9ce9e4f9bcb",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "7f592fdf-43c5-4b56-b34b-094046badfe2",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6b26f6f5-cc2f-4431-8d78-d903f65abdf3",
+      "dutyDetail": "Facilitate delivery of training sessions using simulated  practice and learning such as clinical skills and scenarios, life support, formative & summative assessment or in-situ simulation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "e123500e-62df-4e1d-a145-b0e97ec61a2c",
+        "c5f3b780-8b8c-4c6a-80f2-d66ab9769542",
+        "7843f850-4c7d-4b67-9667-b385a839f0c8",
+        "f27762d6-ef46-4f62-91c8-74dcf3ea2ee1"
+      ],
+      "mappedOptions": [
+        "f17a021a-5229-4522-90ed-43a02e9d88b8"
+      ],
+      "mappedSkills": [
+        "fc523b54-0ef0-4e18-b4d8-238c31579610",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f23a24e-00cb-4ced-a3ca-df9211e4032a",
+      "dutyDetail": "Create moulage /special effects make-up to apply to the manikins and actors working as simulated patients to enhance the realism and the clinical accuracy of individual scenarios.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "c5f3b780-8b8c-4c6a-80f2-d66ab9769542",
+        "624aed00-a776-433b-b748-8691349e7821"
+      ],
+      "mappedOptions": [
+        "f17a021a-5229-4522-90ed-43a02e9d88b8"
+      ],
+      "mappedSkills": [
+        "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
+        "fc523b54-0ef0-4e18-b4d8-238c31579610",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c",
+        "696366c2-0238-4610-9ae5-3db5032138ce"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ea4a4fc7-46ad-4a7e-bc65-fd6ba7932f1b",
+      "dutyDetail": "Undertake the scenario coding (programming) and subsequent operation of human patient simulators, part task trainers and other modes of simulation  including virtual augmented reality to ensure the quality and realism of the simulation is achieved; by applying knowledge of relevant medical conditions and physiology.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2b8b785c-32ac-476b-b276-81a4500671b4",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "b0912460-e330-4357-8bd8-025de4828a14",
+        "c5f3b780-8b8c-4c6a-80f2-d66ab9769542",
+        "7843f850-4c7d-4b67-9667-b385a839f0c8",
+        "0215d08d-8ee4-4be9-beeb-3d05a14a4584"
+      ],
+      "mappedOptions": [
+        "f17a021a-5229-4522-90ed-43a02e9d88b8"
+      ],
+      "mappedSkills": [
+        "46767630-a17f-4bf6-9b3c-f640515ea08f",
+        "fc523b54-0ef0-4e18-b4d8-238c31579610",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c",
+        "e977728d-a7f1-497d-bc9c-0be76c17a3a7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "820dd403-56d2-4607-9c09-c6f8aab61260",
+      "dutyDetail": "Set up and assemble standard or bespoke equipment or resources for academic led research or teaching, in any HE academic led disciplines such as applied sciences, medicine engineering or arts, in a novel configuration or combination, to the required level of precision and detail.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "c17f7aa9-da24-4e94-88c3-4b6ef66bfc80",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2",
+        "2b8b785c-32ac-476b-b276-81a4500671b4"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "1c9594a2-5af9-4e85-8a99-e809cfef1cc9",
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
+        "380276e7-5eb1-4688-9811-424b90085ca5",
+        "4e7cf071-1d97-438c-a2d6-ebd6b2c5e526",
+        "e77dc331-8547-49ff-818d-efc86b3d23a8",
+        "62939a03-7ee0-4896-8656-83c2e7ed9c3d"
+      ],
+      "mappedOptions": [
+        "e2eba925-ecb9-4ca0-9745-5d4684a3f470"
+      ],
+      "mappedSkills": [
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "fc523b54-0ef0-4e18-b4d8-238c31579610",
+        "dd57d1cc-b456-47f4-abf8-b35f97ed19b4",
+        "ee36e56c-ebd7-4983-b8fd-9d4a9cd489a6",
+        "9da19deb-d2bc-4a68-b1c9-7874392a489b",
+        "5a40104f-1746-4747-95a0-03573d603065"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1932f38d-f625-4bca-a366-73fc52967890",
+      "dutyDetail": "Provide advice and guidance on standard or bespoke resources, creative techniques, materials or equipment to support the academic understanding of their use to students or researchers, relevant to the HE academic led teaching or research discipline they are working in,",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "7e65123a-65ad-4d2c-bea6-5f9846bc2177",
+        "a77fcc22-c9dc-4b03-91b4-354092ee40a2"
+      ],
+      "mappedKnowledge": [
+        "c97dbfd9-c9d1-4cbe-9c7e-134140f22824",
+        "a1234e1e-3fb0-456d-8e1e-016a7bfbe0e3",
+        "217ee22f-90fe-4aff-864a-d97993679095",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
+        "380276e7-5eb1-4688-9811-424b90085ca5",
+        "4e7cf071-1d97-438c-a2d6-ebd6b2c5e526",
+        "e77dc331-8547-49ff-818d-efc86b3d23a8",
+        "62939a03-7ee0-4896-8656-83c2e7ed9c3d",
+        "9a288add-d8e8-4728-851b-b57ee1f404b8"
+      ],
+      "mappedOptions": [
+        "e2eba925-ecb9-4ca0-9745-5d4684a3f470"
+      ],
+      "mappedSkills": [
+        "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
+        "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
+        "dd1fd7f3-ae7c-489e-9e50-0bc91f5a5c28",
+        "e5769173-5ef9-403e-9e28-5792b5a5ccf4",
+        "91e0579c-ee30-4f19-ad5c-5c2576106a81",
+        "fc523b54-0ef0-4e18-b4d8-238c31579610",
+        "ee36e56c-ebd7-4983-b8fd-9d4a9cd489a6",
+        "9da19deb-d2bc-4a68-b1c9-7874392a489b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "94d6c8b4-ae7a-4069-a28b-29107ee6fb81",
+      "dutyDetail": "Develop and collate appropriate information, such as experimental data or realistic visualisations, derived from academic led experimental work or creative process, and manipulate them into appropriate formats (tables, figures, catalogues, indices, and portfolios) for publication.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2b8b785c-32ac-476b-b276-81a4500671b4",
+        "06655177-9be9-49e4-aa78-609e0e4885d0"
+      ],
+      "mappedKnowledge": [
+        "99f200e3-a821-40e0-b250-0f028c549ad9",
+        "b0912460-e330-4357-8bd8-025de4828a14",
+        "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
+        "9a288add-d8e8-4728-851b-b57ee1f404b8",
+        "5d41f164-852d-4f31-b185-94fade28716f"
+      ],
+      "mappedOptions": [
+        "e2eba925-ecb9-4ca0-9745-5d4684a3f470"
+      ],
+      "mappedSkills": [
+        "3889e400-3c04-4d36-83ed-dab893f3fabc",
+        "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
+        "dd57d1cc-b456-47f4-abf8-b35f97ed19b4",
+        "43f5c680-04a4-4a25-af85-bf6b4aed3e7c",
+        "5a40104f-1746-4747-95a0-03573d603065"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
