@@ -1,0 +1,656 @@
+{
+  "larsCode": 50,
+  "referenceNumber": "ST0331",
+  "title": "Chartered surveyor (degree)",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/50",
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan and standard revised",
+  "changedDate": "2020-05-27T00:00:00",
+  "earliestStartDate": "2020-05-27T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "isLegacyVersion": 1,
+  "overviewOfRole": "Providing professional advice and recommendations to clients on land, property or construction",
+  "level": 6,
+  "typicalDuration": 60,
+  "maxFunding": 27000,
+  "route": "Construction",
+  "keywords": [
+    "property",
+    "building contacts",
+    "land law",
+    "valuation",
+    "procurement",
+    "tendering",
+    "construction",
+    "building surveys"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "&lt;p&gt;Apprentices will be required to complete a Royal Institution of Chartered Surveyors (RICS) accredited BSc/BSc(Honours) or (where the apprentice already holds a Level 6 degree and subject to an assessment of prior learning) an RICS accredited Post Graduate Diploma or MSc. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the end point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is Entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for those for whom this is their primary language. Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved Level 3 qualifications e.g. A Levels or a Level 3 apprenticeship.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4273/st0331_chartered_surveyor_l6_ap_for_publication_26052020.pdf",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "1.2",
+  "standardInformation": "",
+  "standardOccupationalCode": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the land, property and construction sectors. The broad purpose of the occupation is to provide professional advice relating to land, property, construction or infrastructure including design, building, procurement, value and management. Chartered Surveyors measure, value, manage and protect the world’s physical and natural assets to ensure their potential is maximised. They play an integral part in all transactions across land, property, construction and infrastructure and are responsible for entire projects and the lifecycle of buildings from overseeing planning, design and construction, through to occupation, sustainable usage, demolition and redevelopment. From city skyscrapers to sports stadiums, forests to festival sites, shopping centres to the homes we live in Chartered Surveyors are involved in them all. &lt;br /&gt;Chartered Surveyors require a mix of high level technical skills, business skills, an understanding of people and communities, appreciation of the built and natural world and the ability to bring these diverse skills together. Chartered Surveyors solve problems, use leading edge technology and take account of a wide range of issues in order to provide their advice including legal and regulatory issues, finance, cost, sustainability, inclusivity and health and safety. Chartered Surveyors abide by the Royal Institution of Chartered Surveyors’ Rules of Conduct and ethical principles because they hold positions of responsibility and make decisions that have significant financial implications and impact on the natural and built environment. The occupation is regulated by high standards of professionalism assuring clients and employers of the quality of service they will receive. Chartered Surveyors are responsible for autonomously managing their own work programs and time while maintaining their own personal development and contributing to that of others.&lt;br /&gt;&lt;br /&gt;There are three distinct pathways:&lt;br /&gt;&lt;br /&gt;Building Surveying: providing professional advice on buildings and construction, ranging from city office blocks and skyscrapers to home extensions. Undertaking detailed surveys of buildings identifying defects and advising on repair, maintenance and restoration options.&lt;br /&gt;&lt;br /&gt;Quantity Surveying &amp;amp; Project Management: negotiating contracts and prices, assessing, evaluating and managing construction projects to ensure the best value for money and quality including life cycle costing, cost planning, procurement and tendering, contract administration and commercial management.&lt;br /&gt;&lt;br /&gt;Property: valuing (including inspecting and measuring), managing, buying, selling, developing and leasing land and property.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "1164c463-f1be-4162-833f-345e40b590ff",
+      "detail": "Law - The law and the role of legal advisers relating to either acquisition/disposal of property, standard forms of building contracts or other property related contracts."
+    },
+    {
+      "knowledgeId": "439d5641-a19c-4577-a7a9-23371d47a09e",
+      "detail": "Information management - The methods and techniques for providing information, data and advice to clients."
+    },
+    {
+      "knowledgeId": "60df2471-d6e6-40a7-bf18-0de31923cf12",
+      "detail": "Finance - Accounting procedures and methods for obtaining and managing finance."
+    },
+    {
+      "knowledgeId": "367522c6-2efc-4a31-b182-53fcf5b72e38",
+      "detail": "Health and safety - How to ensure safe and secure working environments for self and others."
+    },
+    {
+      "knowledgeId": "b9c78d9b-ab44-46ce-874f-97878150edd0",
+      "detail": "Diversity and inclusion - The importance and recognition of diversity. Legal, regulatory and ethical requirements including inclusive environments."
+    },
+    {
+      "knowledgeId": "ad1a1d82-4611-46eb-bac5-9e13de1d129d",
+      "detail": "Sustainability - How to embed sustainability into projects and how to influence client behaviour."
+    },
+    {
+      "knowledgeId": "d52b22b1-004e-431e-a04c-9d868814d284",
+      "detail": "Construction technology - The technology of complex buildings including materials."
+    },
+    {
+      "knowledgeId": "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+      "detail": "Ethics and professionalism - The role, governance and regulatory frameworks of the RICS. Global and professional ethical standards and Rules of Conduct and how to deal with ethical dilemmas."
+    },
+    {
+      "knowledgeId": "289e2f75-f891-450f-8f5b-c8eb14c1c408",
+      "detail": "Client relationships - How to manage client/customer relationships."
+    },
+    {
+      "knowledgeId": "6b44224f-4618-412b-8cc1-8fdaba812b6c",
+      "detail": "Building pathology - The detailed pathology of buildings and the related defects, causes and remedies. The methodology for completing a property inspection and inspection techniques."
+    },
+    {
+      "knowledgeId": "5910f9f9-ca72-4508-8886-a1087936df25",
+      "detail": "Design and specification - The various stages of the design process, legal requirements and regulations including planning, Building Regulations and health and safety requirements and the structural implication of design."
+    },
+    {
+      "knowledgeId": "8e13b0c4-c0ff-4630-9062-db5df860ce41",
+      "detail": "The standard forms of building/construction contract and subcontract, contractual mechanisms and procedures applied at various stages of the contract. The role and responsibilities of the contract administrator and the duties of the parties to the contract."
+    },
+    {
+      "knowledgeId": "9a1cd179-e378-4264-a231-705ff5a9c2c2",
+      "detail": "Procurement and contracts - Identifying when different forms of procurement and tendering are appropriate and the clauses of building/infrastructure contracts."
+    },
+    {
+      "knowledgeId": "9f863a82-560c-46cd-99b1-3c35b7b567f5",
+      "detail": "Costing and cost planning of construction works - The detailed quantification and costing of construction works and the methods of cost planning that can be applied."
+    },
+    {
+      "knowledgeId": "0c39225e-15ff-4e92-8af8-a13af47b3151",
+      "detail": "Construction project control and reporting – Management of a construction project and the principles of contingencies and risk allowances. Life cycle costing and value engineering. Techniques to manage contractors, sub contractors and/or suppliers. Reporting and forecasting."
+    },
+    {
+      "knowledgeId": "caaf87b1-16fa-4927-a95f-f659140b62a0",
+      "detail": "Applied valuation and appraisal - How to undertake complex capital and rental valuations of land and property and the requirements for valuation reporting."
+    },
+    {
+      "knowledgeId": "438eae2a-a4d9-4d47-b732-e27aafc7f81d",
+      "detail": "Land, property and planning law - How land law, the law of landlord and tenant and planning law affects the occupation, management and use of buildings and land."
+    },
+    {
+      "knowledgeId": "d41cb8f2-d1ce-4d2a-97ce-6b1f0cbb1277",
+      "detail": "Inspection and measurement – The requirements and reasons for a property inspection. Safety issues when undertaking an inspection and identifying access arrangements. The basis on which measurement should be undertaken, data capture techniques and appropriate standards and guidance. Limitations and degrees of accuracy required for measurements"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+      "detail": "Provide a high standard of service - Always ensure your client, or others to whom you have a professional responsibility, receive the best possible advice, support or performance of the terms of engagement you have agreed to and ensure you always give attention to detail."
+    },
+    {
+      "behaviourId": "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+      "detail": "Act in a way that promotes trust in the surveying profession - Act in a manner, both in your professional life and private life, to promote you, your firm or the organisation you work for in a professional and positive way."
+    },
+    {
+      "behaviourId": "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+      "detail": "Act with integrity - Always be trustworthy, open and transparent. Respect confidential information of your clients or potential clients and do not allow bias, conflict of interest or the undue influence of others to override your professional or business judgments or obligations. Always act consistently in the public interest when making decisions or providing advice."
+    },
+    {
+      "behaviourId": "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+      "detail": "Treat others with respect - Treat everyone with courtesy, politeness and respect and consider cultural sensitivities and business practices."
+    },
+    {
+      "behaviourId": "79f17091-3979-499b-8386-1fa1ec5a7065",
+      "detail": "Take responsibility - Always act with skill, care and diligence and deal with any complaint in an appropriate professional manner."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "346086ba-b16e-4be3-a17b-4d67e5dac211",
+      "detail": "Information management - Provide data, information and advice for clients relevant to the surveying discipline."
+    },
+    {
+      "skillId": "ab74d99c-e6a8-4525-a769-238f036b6963",
+      "detail": "Health and safety - Recommend solutions to ensure safe and secure working environments."
+    },
+    {
+      "skillId": "f7198487-2fc8-4938-8365-166097ada4e6",
+      "detail": "Construction technology - Provide advice relating to the construction technology of buildings and their materials."
+    },
+    {
+      "skillId": "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
+      "detail": "Law - Negotiate and agree terms for acquisition/disposal of property, standard forms of building contracts or other property related contracts and liaise with legal advisers."
+    },
+    {
+      "skillId": "1237f76a-18a2-4cb3-a753-c194b3b10cc7",
+      "detail": "Consultancy - Manage instructions from engagement to completion."
+    },
+    {
+      "skillId": "a359f636-04e5-4c65-9e6e-4a809b859886",
+      "detail": "Building surveys – Undertake inspections and surveys and provide advice and recommendations to clients relating to building surveys."
+    },
+    {
+      "skillId": "c1445262-11c2-4e37-97ec-fa6c0c1a685e",
+      "detail": "Prepare designs and specifications – Carry out the preparation of the design and specification of building projects from outline proposals to completion of the design and specification process."
+    },
+    {
+      "skillId": "e472c7fc-0491-4def-b7f5-1fffdaee1f89",
+      "detail": "Administer contracts – Implement administrative procedures for the running of a construction project.  Issue instructions, deal with payment provisions, manage variation procedures and deal with completion and possession issues and the issuing of certificates."
+    },
+    {
+      "skillId": "759b3590-dd16-48bb-bf3d-74d27c5ac5ca",
+      "detail": "Tendering and procurement - Provide advice and recommendations as to appropriate procurement routes and manage the tendering processes relevant to them."
+    },
+    {
+      "skillId": "95094ca2-fba4-4042-b2dc-ab2c2400334a",
+      "detail": "Costing and cost planning of construction works - Undertake the detailed quantification, costing and cost planning of complex construction works."
+    },
+    {
+      "skillId": "4be84e3e-7f9e-4e60-825e-a416b15d686e",
+      "detail": "Manage efficiencies of construction contracts – Manage the construction phase of a construction project. Carry out life cycle costing and apply value engineering processes. Prepare data, reports and forecasts."
+    },
+    {
+      "skillId": "37317097-876e-418f-8434-5892ebef280a",
+      "detail": "Valuation and appraisal - Prepare capital and rental valuations of land and property for a range of formal and appraisal purposes and prepare client reports."
+    },
+    {
+      "skillId": "e1357f10-dc1d-40dc-a254-2156de44b477",
+      "detail": "Land, property and planning law - Negotiate solutions to issues affecting both owners and occupiers of land and property including at least two of management, sales, lettings, purchase and/or planning."
+    },
+    {
+      "skillId": "1d5a214f-adad-4809-aeec-6280f78446c6",
+      "detail": "Inspection and measurement – Undertake inspections of land and property and prepare related reports and advice.  Use appropriate instrumentation to take measurements of land and property. Apply the appropriate guidance and use the appropriate basis to undertake measurements. Prepare and present measurements in an appropriate manner."
+    }
+  ],
+  "options": [
+    {
+      "optionId": "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb",
+      "title": "Building Surveying"
+    },
+    {
+      "optionId": "d41c0c85-2fd2-4907-b517-6704e098207c",
+      "title": "Property"
+    },
+    {
+      "optionId": "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803",
+      "title": "Quantity Surveying & Project Management"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "contactName": "",
+    "contactAddress": "",
+    "contactEmail": "",
+    "webLink": ""
+  },
+  "approvedForDelivery": "2015-09-10T00:00:00 +00:00",
+  "integratedDegree": "non-integrated degree",
+  "tbReference": "TB0001",
+  "tbMainContact": "christina.hirst@chconsultancy.com",
+  "involvedEmployers": "Gardiner and Theobald, Axis, DTZ, Faithorn Farrell Timms, DSB Construction Consultants, Valuation Office Agency, Transport for London, EC Harris, Martin Arnold Associates, Collier & Madge & CBRE",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Design, Surveying & Planning",
+  "cluster": "Design & Surveying Professional",
+  "createdDate": "2020-05-27T13:49:31 +00:00",
+  "lastUpdated": "2020-05-27T00:00:00 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/chartered-surveyor-(degree)-v1-2#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/chartered-surveyor-(degree)-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "36d4ed43-9bde-4c3f-abd3-7ec5e4aab57d",
+      "title": "Apprentices will be required to complete a Royal Institution of Chartered Surveyors (RICS) accredited BSc/BSc(Honours) or (where the apprentice already holds a Level 6 degree and subject to an assessment of prior learning) an RICS accredited Post Graduate Diploma or MSc that states it is linked to this apprenticeship.",
+      "level": "0"
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "6171c853-af59-40bc-b7ab-155f30105279",
+      "dutyDetail": "Provide professional advice and recommendations to clients relating to land, property or construction",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "b9c78d9b-ab44-46ce-874f-97878150edd0",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31ca1b9e-4c3b-49a4-876e-7695683ccecb",
+      "dutyDetail": "Manage client instructions from engagement to completion",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ce13fdaa-d80a-48b8-afdd-72527d3fbc8b",
+      "dutyDetail": "Liaise with other professionals typically including legal advisers, architects, engineers, town planners and contractors",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "1164c463-f1be-4162-833f-345e40b590ff",
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "87990726-8ef1-43b1-abab-c9b121f725c2",
+      "dutyDetail": "Negotiate contracts and prices",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "1164c463-f1be-4162-833f-345e40b590ff",
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "60df2471-d6e6-40a7-bf18-0de31923cf12",
+        "b9c78d9b-ab44-46ce-874f-97878150edd0",
+        "ad1a1d82-4611-46eb-bac5-9e13de1d129d",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7a3a81f-ab32-47cb-b2f1-6119c2539379",
+      "dutyDetail": "Analyse data relating to land, buildings or construction",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "d52b22b1-004e-431e-a04c-9d868814d284",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "f7198487-2fc8-4938-8365-166097ada4e6",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bb97f55e-506a-476d-a98d-8a57c61f92fe",
+      "dutyDetail": "Follow due diligence in providing advice to clients",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "367522c6-2efc-4a31-b182-53fcf5b72e38",
+        "b9c78d9b-ab44-46ce-874f-97878150edd0",
+        "ad1a1d82-4611-46eb-bac5-9e13de1d129d",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "ab74d99c-e6a8-4525-a769-238f036b6963",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bed1d745-02fb-4825-996f-d7c044d2a04a",
+      "dutyDetail": "Undertake detailed inspections of buildings, land or construction",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "367522c6-2efc-4a31-b182-53fcf5b72e38",
+        "b9c78d9b-ab44-46ce-874f-97878150edd0",
+        "ad1a1d82-4611-46eb-bac5-9e13de1d129d",
+        "d52b22b1-004e-431e-a04c-9d868814d284",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "ab74d99c-e6a8-4525-a769-238f036b6963",
+        "f7198487-2fc8-4938-8365-166097ada4e6",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84407566-3a4f-43c9-86b3-5ca8d899ccb6",
+      "dutyDetail": "Analyse information from inspections or visits to buildings, land and construction sites",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "1164c463-f1be-4162-833f-345e40b590ff",
+        "439d5641-a19c-4577-a7a9-23371d47a09e",
+        "60df2471-d6e6-40a7-bf18-0de31923cf12",
+        "367522c6-2efc-4a31-b182-53fcf5b72e38",
+        "b9c78d9b-ab44-46ce-874f-97878150edd0",
+        "ad1a1d82-4611-46eb-bac5-9e13de1d129d",
+        "d52b22b1-004e-431e-a04c-9d868814d284",
+        "57c9335d-bdbd-4fc2-b294-7880c27a560b",
+        "289e2f75-f891-450f-8f5b-c8eb14c1c408"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "346086ba-b16e-4be3-a17b-4d67e5dac211",
+        "ab74d99c-e6a8-4525-a769-238f036b6963",
+        "f7198487-2fc8-4938-8365-166097ada4e6",
+        "69c98d03-da9c-4ecd-8abc-6a051430f5fc",
+        "1237f76a-18a2-4cb3-a753-c194b3b10cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ec4e872d-a3e2-420a-b4e3-cb7ac15e704f",
+      "dutyDetail": "Undertake detailed inspections and surveys and identify defects. Provide advice relating to surveys and inspections.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "6b44224f-4618-412b-8cc1-8fdaba812b6c"
+      ],
+      "mappedOptions": [
+        "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb"
+      ],
+      "mappedSkills": [
+        "a359f636-04e5-4c65-9e6e-4a809b859886"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "10bb3757-9a51-470d-8361-36365d3988b4",
+      "dutyDetail": "Prepare designs and specifications including at outline and detail levels.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "5910f9f9-ca72-4508-8886-a1087936df25"
+      ],
+      "mappedOptions": [
+        "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb"
+      ],
+      "mappedSkills": [
+        "c1445262-11c2-4e37-97ec-fa6c0c1a685e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2000670b-ecc9-43c8-98b2-2d079a952725",
+      "dutyDetail": "Implement administrative procedures for the running of a construction project",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "8e13b0c4-c0ff-4630-9062-db5df860ce41"
+      ],
+      "mappedOptions": [
+        "bdc905c2-1dbb-4d60-a9a5-0eaa72e7accb"
+      ],
+      "mappedSkills": [
+        "e472c7fc-0491-4def-b7f5-1fffdaee1f89"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c6d87e69-3495-48da-b74c-52a753cb49fe",
+      "dutyDetail": "Advise on procurement routes and tender processes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "9a1cd179-e378-4264-a231-705ff5a9c2c2"
+      ],
+      "mappedOptions": [
+        "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803"
+      ],
+      "mappedSkills": [
+        "759b3590-dd16-48bb-bf3d-74d27c5ac5ca"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "78313df3-0d84-4781-b984-23873d1483b7",
+      "dutyDetail": "Undertake costing and cost planning of construction projects.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "9f863a82-560c-46cd-99b1-3c35b7b567f5"
+      ],
+      "mappedOptions": [
+        "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803"
+      ],
+      "mappedSkills": [
+        "95094ca2-fba4-4042-b2dc-ab2c2400334a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2cb7b7ef-c293-449c-bc7d-b405c359e9b7",
+      "dutyDetail": "Manage efficiencies in construction projects",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "0c39225e-15ff-4e92-8af8-a13af47b3151"
+      ],
+      "mappedOptions": [
+        "3bf486c1-e673-4c2b-8fd4-6a4bb9dd0803"
+      ],
+      "mappedSkills": [
+        "4be84e3e-7f9e-4e60-825e-a416b15d686e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b4857e55-b7eb-4001-8eee-3f5dc37a616f",
+      "dutyDetail": "Prepare capital and rental valuations and appraisals of land and property and provide reports",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "caaf87b1-16fa-4927-a95f-f659140b62a0"
+      ],
+      "mappedOptions": [
+        "d41c0c85-2fd2-4907-b517-6704e098207c"
+      ],
+      "mappedSkills": [
+        "37317097-876e-418f-8434-5892ebef280a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8183e52a-c738-4043-9dfb-ff33d32d5f48",
+      "dutyDetail": "Negotiate solutions relating to legal issues regarding land and property ownership, occupation and/or development",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "438eae2a-a4d9-4d47-b732-e27aafc7f81d"
+      ],
+      "mappedOptions": [
+        "d41c0c85-2fd2-4907-b517-6704e098207c"
+      ],
+      "mappedSkills": [
+        "e1357f10-dc1d-40dc-a254-2156de44b477"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "330d76ee-54a3-4d56-a939-8e22d05047b8",
+      "dutyDetail": "Undertake the inspection and measurement of land and property",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2fb04095-414b-45be-9a10-252a6a9b1ed8",
+        "20c1d117-89d1-41c4-9d4b-340f27f72c81",
+        "f5aae3fc-f7dd-46f2-b44e-7057dfbe0f81",
+        "91f46ed2-d8c8-4449-8eea-b64f00ab1271",
+        "79f17091-3979-499b-8386-1fa1ec5a7065"
+      ],
+      "mappedKnowledge": [
+        "d41cb8f2-d1ce-4d2a-97ce-6b1f0cbb1277"
+      ],
+      "mappedOptions": [
+        "d41c0c85-2fd2-4907-b517-6704e098207c"
+      ],
+      "mappedSkills": [
+        "1d5a214f-adad-4809-aeec-6280f78446c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
