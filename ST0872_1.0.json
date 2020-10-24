@@ -10,7 +10,6 @@
   "earliestStartDate": "2019-10-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "isLegacyVersion": 1,
   "overviewOfRole": "Repair, maintain, modify, inspect, test, install and assemble lifting equipment to ensure its suitability and safety for a continued period of service",
   "level": 3,
   "typicalDuration": 24,
@@ -298,11 +297,12 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool \nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
   "approvedForDelivery": "",
+  "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0541",
   "tbMainContact": "k.moss@catenais.co.uk",
