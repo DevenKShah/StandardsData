@@ -10,7 +10,6 @@
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "isLegacyVersion": 1,
   "overviewOfRole": "A registered professional who fits, adjusts and removes braces to patient’s teeth",
   "level": 4,
   "typicalDuration": 13,
@@ -380,6 +379,7 @@
     "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "",
+  "integratedApprenticeship": true,
   "integratedDegree": "",
   "tbReference": "TB0053",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
@@ -409,8 +409,8 @@
     {
       "bodyName": "General Dental Council ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
