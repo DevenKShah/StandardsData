@@ -5,19 +5,29 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/419",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2019-03-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Directing production activities and operations",
+  "overviewOfRole": "Directing production activities and operations.",
   "level": 4,
   "typicalDuration": 24,
   "maxFunding": 11000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "Business",
+    "management",
+    "business management",
+    "process",
+    "leader",
+    "production"
+  ],
   "jobRoles": [
-    "Process Leader"
+    "Process leader",
+    "Section leader",
+    "Production lead",
+    "Process lead manager"
   ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2712/st0695_process-leader_l4_epa-for-publication_280219.pdf",
@@ -252,7 +262,10 @@
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Process Leader"
+    "Process leader",
+    "Section leader",
+    "Production lead",
+    "Process lead manager"
   ],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
@@ -267,8 +280,8 @@
     {
       "bodyName": "Achievement of the standard is designed to be recognised by relevant Professional Engineering Institutions such as the Institute of Engineering and Technology (IET) and the Institute of Mechanical Engineers (IMechE)",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
