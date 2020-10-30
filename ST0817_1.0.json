@@ -5,17 +5,24 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/562",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2020-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Install and commission compressed air and/or vacuum equipment and their associated systems; and complete servicing, fault diagnosis, repair and to ensure equipment is operating and controlled at its optimum efficiency",
+  "overviewOfRole": "Install and commission compressed air and/or vacuum equipment and their associated systems; and complete servicing, fault diagnosis, repair and to ensure equipment is operating and controlled at its optimum efficiency.",
   "level": 3,
   "typicalDuration": 36,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "air",
+    "vaccum",
+    "engineering",
+    "repair",
+    "fault",
+    "technician"
+  ],
   "jobRoles": [
     "Service Technicians",
     "Service Engineers",
@@ -253,14 +260,14 @@
     {
       "bodyName": "The Society of Operations Engineers ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     },
     {
       "bodyName": "Engineering Council ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
