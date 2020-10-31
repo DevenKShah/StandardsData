@@ -10,12 +10,19 @@
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide advice on accessibility best practice, helping organisations (externally and internally) to meet organisational, national and international accessibility standards.",
   "level": 4,
   "typicalDuration": 24,
   "maxFunding": 0,
   "route": "Digital",
-  "keywords": [],
+  "keywords": [
+    "digital",
+    "accessibility",
+    "organisational",
+    "ICT",
+    "pracitioners",
+    "advice"
+  ],
   "jobRoles": [
     "Digital Accessibility Specialist",
     "Accessibility Subject Matter Expert (SME)",
@@ -24,7 +31,7 @@
     "Accessibility Consultant"
   ],
   "entryRequirements": "&lt;p&gt;Employers will set their own entry requirements but these may typically be: - at least five GCSEs grades A* – C (9 – 4), including English and Maths, ideally including Sciences or IT related subjects - a Level 3 qualification(s), A level(s), BTEC or equivalent. - a team player, committed to solving problems, keen to learn, not afraid to ask questions, hardworking and ready to raise to new challenges. No prior experience in IT is required, however, it would be advantageous if the candidate had completed relevant previous studies (in such subjects as IT, computer science etc.)&lt;/p&gt;",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4613/st0863_digital_accessibility_specialist_l4_ap-for-publication_291020.pdf",
   "ssa1": "6 Information and Communication Technology (ICT)",
   "ssa2": "6.1 ICT practitioners",
   "version": "",
@@ -231,7 +238,13 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual \nEarlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
@@ -261,8 +274,8 @@
     {
       "bodyName": "International Association of Accessibility Professionals ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
