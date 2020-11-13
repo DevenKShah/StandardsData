@@ -5,17 +5,23 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/548",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2020-03-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Enabling organisations to get valuable working software out in front of active users and improving the quality of digital services",
+  "overviewOfRole": "Enabling organisations to get valuable working software out in front of active users and improving the quality of digital services.",
   "level": 4,
   "typicalDuration": 24,
   "maxFunding": 17000,
   "route": "Digital",
-  "keywords": [],
+  "keywords": [
+    "engineer",
+    "ict",
+    "digital",
+    "production",
+    "software"
+  ],
   "jobRoles": [
     "DevOps Engineer",
     "Infrastructure Engineer",
@@ -252,11 +258,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual \r\nEarlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
   },
   "approvedForDelivery": "2020-03-12T00:00:00 +00:00",
   "integratedApprenticeship": false,
