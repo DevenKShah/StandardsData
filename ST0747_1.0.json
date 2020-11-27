@@ -5,7 +5,7 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/503",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2019-09-30T00:00:00",
   "latestStartDate": null,
@@ -15,7 +15,13 @@
   "typicalDuration": 24,
   "maxFunding": 15000,
   "route": "Protective services",
-  "keywords": [],
+  "keywords": [
+    "Counter fraud",
+    "investigator",
+    "public services",
+    "civil investigation",
+    "protective services"
+  ],
   "jobRoles": [
     "Investigator",
     "Fraud investigator",
@@ -323,10 +329,10 @@
   "qualifications": [],
   "professionalRecognition": [
     {
-      "bodyName": "Government Counter Fraud Investigation Profession / Practitioner",
+      "bodyName": "Government Counter Fraud Investigation Profession",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
