@@ -1,7 +1,7 @@
 {
   "larsCode": 0,
   "referenceNumber": "ST0845",
-  "title": "Project controls engineering professional",
+  "title": "Project controls professional",
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
@@ -12,22 +12,330 @@
   "latestEndDate": null,
   "overviewOfRole": "",
   "level": 6,
-  "typicalDuration": 0,
+  "typicalDuration": 48,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "engineering",
+    "project",
+    "controls",
+    "health",
+    "safety",
+    "manufacturing"
+  ],
+  "jobRoles": [
+    "Project controls manager",
+    "Cost engineering lead",
+    "Estimating lead",
+    "Planning lead",
+    "Scheduling lead",
+    "Risk management lead",
+    "Heads of profession i.e. Head of cost engineering",
+    "computing",
+    "Head of planning"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "",
-  "ssa1": "1 Health, Public Services and Care",
-  "ssa2": "1.1 Medicine and dentistry",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
   "version": "",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "standardOccupationalCode": "2129 - Engineering professionals n.e.c.",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in engineering and manufacturing in the following sectors: energy (renewables, nuclear), infrastructure, petro-chemical, aerospace, pharmaceutical, highways, rail, utilities and defence. There is a growing demand for project controls professionals across the public and private sector to work on complex projects from the very start to the end such as HS2, Hinkley Point C, Dreadnought and Thames Tideway.. The broad purpose of the occupation is to ensure that multi-faceted engineering and infrastructure projects deliver successfully and safely to time, cost and quality: by critically analysing, interpreting and evaluating technical information to develop coding structures, cost and time objectives, robust recommendations and recovery plans for the project, programme or portfolio manager. &lt;br /&gt;&lt;br /&gt;A project controls professional is needed where the level of risk associated with the project such as commercial; safety; environmental; legal; and/or people, is sufficiently great to require independent assurance and verification of technical information.&lt;br /&gt;&lt;br /&gt;Technical information includes: cost information, estimates, schedules and plans, risk, change, scoping documents, statistics, probabilities, engineering drawings and plans etc.. In their daily work, an employee in this occupation interacts with people across the business including the project, programme or portfolio manager, senior specialists, decision-makers and other colleagues. In addition, they have regular contact with engineers, site managers, clients and the supply chain. On a day to day basis the project controls professional works closely with team members and support staff. The project controls professional (PCP) will be either office or site based depending on the demands of the project. Travel and flexible working may be necessary to support the project. &lt;br /&gt;&lt;br /&gt;Depending on the organisation, they may be the only PCP on the project, part of the team or they may lead a team of project control technicians (PCTs) that deliver information and/ or report to them. They may be responsible for developing others within the organisation. Depending on the organisation they would typically report into the Director of project controls. PCPs will typically work under matrix management arrangements.. An employee in this occupation will be responsible for providing strategic, authoritative advice and recommendations to the senior decision-making panel in order to keep the project on track. The PCP is essential to complex projects in providing appropriate recommendations to influence the decision-making process. &lt;br /&gt;&lt;br /&gt;They are accountable for assuring the validity and reliability of the project controls information on the project and for interpreting the project controls reports being fed into them from the project controls technicians. They are accountable for providing an essential insight into the health of the project, programme, and portfolio and for making recommendations to control the project. &lt;br /&gt;&lt;br /&gt;The PCP has a comprehensive understanding of the component parts of the project across the life cycle. They understand the context of the analysis of the data and the impact of decisions. They have the confidence to challenge and interpret data reports, to interrogate and question the assumptions, the risks etc. They have an in-depth understanding of the technical data and what it means in detail because they have both technical knowledge and the skill to apply this in the context of controlling the project. This is why they are essential on complex projects and why project controls professionals are needed to work alongside project/programme and portfolio managers.&lt;br /&gt;&lt;br /&gt;The PCP is critical in terms of ensuring the project controls processes capture the right, meaningful, quality data from within the company and/or subcontractors in the right format at the right time and is analysed and interpreted in the correct context – this is essential to ensure effective control. &lt;br /&gt;&lt;br /&gt;The PCP is autonomous and self-directing. They decide where their expertise is needed in a project to which they have been assigned. &lt;br /&gt;&lt;br /&gt;Typically, the PCP works on a range of projects which may include projects with multi-million pound budgets, spanning over several years, across multi-locations, with inter-disciplinary teams. The project manager (PM) has ultimate responsibility for decisions made on a project. The PCP is accountable for the recommendations that they make to the project, programme and portfolio manager. The PCP influences at PM and above PM level to a project controls director. Project control has to be independent of project management in order to ensure effective control. &lt;br /&gt;&lt;br /&gt;The Project Controls Technician is responsible predominantly for gathering, entering, processing and analysing data which they then present upwards to the PCP.&lt;br /&gt;&lt;br /&gt;Depending on organisational need, Project Controls Technicians may report to the PCP, particularly on large, complex projects. Alternatively, the Project Controls Technicians may be working on smaller projects and report to project managers directly. In those instances, a PCP would be required to provide the assurance for project control across the portfolio of projects.&lt;br /&gt;&lt;br /&gt;The PCP has significant specialised knowledge and skills regarding the validity, integrity, integration, assurance, accountability of the data and the advice that they provide to the PM in order to influence the decision-making process. The PCP leads across the subordinate project controls disciplines (estimators, planners, schedulers, cost controllers)..&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ff803e8b-8070-4538-bba0-4d84b15319ca",
+      "detail": "Organisational and business strategies: and how these impact on the strategy for project control and its execution"
+    },
+    {
+      "knowledgeId": "7d16f903-6160-44c4-ab6a-cb8bd533dc6d",
+      "detail": "Principles of project control including the principles of the project life cycle; and the role project control plays in the governance of a project."
+    },
+    {
+      "knowledgeId": "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+      "detail": "Project control procedures and methods including employer organisation management systems that are critical to project control for example: quality control, configuration management, document and version control"
+    },
+    {
+      "knowledgeId": "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+      "detail": "The benefits, attributes, limitations and use of: project controls related software (for planning and scheduling, cost management, cost and risk analysis, estimating, progress and performance monitoring and reporting); data flow systems; and use and integration of new technology into project controls delivery including BIM"
+    },
+    {
+      "knowledgeId": "e0768921-48fd-4343-a7c0-f300f953f7c5",
+      "detail": "Underlying engineering/manufacturing principles including the principles of reviewing and interpreting technical project documents such as scopes of work and engineering drawings."
+    },
+    {
+      "knowledgeId": "35925f99-5ea1-4852-bdf6-21f89b1a495e",
+      "detail": "Breakdown and coding structures: purpose, creation and use for accurate control. Their relevance in the creation of data models to help feed integrated and intelligent reporting and insights; familiarisation with standard coding structures"
+    },
+    {
+      "knowledgeId": "6b0013b7-7fbc-4c84-b4df-b4a4eacbc3ae",
+      "detail": "Project Control Plans and reporting frameworks - their purpose and content and how they underpin the generation and reporting of meaningful controls data"
+    },
+    {
+      "knowledgeId": "00395d2d-9d8a-40cd-b9ea-cab1e477666c",
+      "detail": "Strategic principles of creating and managing the project controls baseline (including scope definition, schedule, risk and cost), throughout the project life cycle."
+    },
+    {
+      "knowledgeId": "7024ecfb-f1d6-45d0-ac39-ab1d0f127415",
+      "detail": "HSE knowledge relative to the industry and project controls, including related national and industrial health, safety and environmental standards and legislation, the obligations of safety in design and CDM (construction, design and management) regulations."
+    },
+    {
+      "knowledgeId": "e2440fc1-b82a-4365-aa87-5606e6ca32e3",
+      "detail": "The environmental impact of a project’s activities, how it could contribute to the drive towards net carbon zero and how to minimise negative impacts on environmental sustainability during all stages of a project, within the context of the role."
+    },
+    {
+      "knowledgeId": "d3829f52-a496-410f-a49d-a788e8c64907",
+      "detail": "Principles of ethical conduct, diversity and inclusion, including codes of conduct and duty of care, corporate social responsibility, equality, diversity and inclusivity in the workplace."
+    },
+    {
+      "knowledgeId": "3724679a-2d7f-43b4-84ee-ef2fe829c79c",
+      "detail": "Data assurance:  approaches to gathering data; ensuring the validity and integrity of data (consistent, quality, technical controls information); and how to review the assumptions used to establish the data, as well as the inherent risks associated with these assumptions."
+    },
+    {
+      "knowledgeId": "9e29561e-225f-44e1-a60d-ad61a4ba1dca",
+      "detail": "Analysis techniques: different approaches to data analysis, the benefits of each, what the analytics are indicating and why and how this may impact on decisions and recommendations."
+    },
+    {
+      "knowledgeId": "ea6402fa-e10c-4b18-9f53-5f08c20fbb72",
+      "detail": "Approaches to communicating with different stakeholders in order to influence key decision-makers and colleagues."
+    },
+    {
+      "knowledgeId": "17cbd18a-d989-4f7a-a9e8-807086ee6b06",
+      "detail": "The principles of risk management and risk process; different risk analysis techniques; the methodologies and considerations for mitigating risk."
+    },
+    {
+      "knowledgeId": "712dcffb-e191-49c9-ae7f-eb978c980e7f",
+      "detail": "Approaches to integrating cost and planning with a consistent basis for project risks and opportunities including cost and schedule risk analysis and associated contingency calculations."
+    },
+    {
+      "knowledgeId": "876e39a4-ea4e-4caa-b978-540ea6e01386",
+      "detail": "Project control change management and control:  the principles of project control change procedures; how these procedures may vary in owner/contractor organisations, and when and how to use and apply them including project closeout procedure(s)."
+    },
+    {
+      "knowledgeId": "9f97187d-2a22-4151-8b92-5ab224782e25",
+      "detail": "Commercial matters: different types of contracts and their legal principles; contractual requirements and how they impact on project controls and the auditable recording, sharing, and storing of information."
+    },
+    {
+      "knowledgeId": "1ebc44b7-90b0-4b65-b60b-08f412ba98f7",
+      "detail": "Key principles of invitations to tender received and bid responses."
+    },
+    {
+      "knowledgeId": "fb4a1c59-d99b-41f9-b646-ad838c51eed9",
+      "detail": "Estimating techniques and application (cost, time and resources): different methodologies for estimating including approaches to various estimating outcomes, pros and cons and degree of certainty/uncertainty for each; approaches to creating the estimate strategy and basis of estimate documents."
+    },
+    {
+      "knowledgeId": "3a8eb1ee-57bb-4bc1-994d-70e4903a877a",
+      "detail": "Assurance techniques including benchmarking, comparisons to historical data, published data and other projects and how to apply them in order to assure estimated schedules, cost estimates and cost forecasting"
+    },
+    {
+      "knowledgeId": "cfe5dbc7-8e5e-41f5-9276-0417fee828b9",
+      "detail": "Planning and scheduling practice:  different planning and scheduling techniques; how to create schedules to all levels; understanding, maintaining and establishing the impacts of schedule constraints; principles of resource loading and estimating activity durations."
+    },
+    {
+      "knowledgeId": "911c51ea-ecd0-4f9b-bc7e-853cd4b0e8e5",
+      "detail": "Modelling techniques (‘what-if’ scenarios and impact analysis) used to optimise the potential for improved efficiency against time, cost and quality and for project recovery."
+    },
+    {
+      "knowledgeId": "d69f04f8-722c-42e9-a19e-d330300f93c9",
+      "detail": "Cost engineering practice: approaches to the creation of cost baselines and estimate recasting; cost control hierarchy; budget transfers and other budget variances."
+    },
+    {
+      "knowledgeId": "576db6b1-4c6d-43bf-86bf-ff744906836e",
+      "detail": "Financial controls as relevant to project control, including taxation, cashflow, accruals, payment terms.  The monitoring and reporting of supplier and contractor commitments and expenditures."
+    },
+    {
+      "knowledgeId": "8ef8717e-fb22-4690-8bce-2a61d88ae216",
+      "detail": "Techniques for tracking and measuring progress including rules of credit and performance including earned value analysis, their pros and cons and what key points to share with different stakeholders."
+    },
+    {
+      "knowledgeId": "0b884128-0261-42cc-86b5-159cc50493bd",
+      "detail": "Progress and performance measurement: how to identify trends/variances using different analysis techniques."
+    },
+    {
+      "knowledgeId": "1671376f-b295-44b9-8ae7-6423de52a5cd",
+      "detail": "Approaches to using statistical analysis, productivity and performance analysis."
+    },
+    {
+      "knowledgeId": "36406110-02d3-4ec7-b3fa-e36d4a6adf6a",
+      "detail": "Forecasting techniques used to forecast cost and schedule out-turns, and the use of predictive statistical analysis techniques and engineering knowledge to generate accurate forecasts of work to complete in sufficient time for action to be taken."
+    },
+    {
+      "knowledgeId": "1c50e4d6-b76a-491f-ac87-3f8557c68dd5",
+      "detail": "Leadership: strategies to, lead, coach, motivate and develop members of the team; different leadership styles."
+    },
+    {
+      "knowledgeId": "f218d058-1d3a-4935-8ef0-f55726914d7e",
+      "detail": "Continuous improvement including how to: capture good practice and lessons learned from experience; keep up to date with new technology and ways of working and drive forwards continuous improvement."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "abd69290-0408-408e-a2f8-79c221499b64",
+      "detail": "Safety:  Promotes and adopts a safety culture within the organisation, demonstrating a commitment to personal safety and the safety and wellbeing of others."
+    },
+    {
+      "behaviourId": "c905fd03-e84c-42cf-a99b-95a51409631f",
+      "detail": "Leadership:  leads by example, demonstrating resilience, acting responsibly, and ethically, taking account of the need to progress environmental, ethical, social and economic outcomes."
+    },
+    {
+      "behaviourId": "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+      "detail": "Commercially astute: Recognising when to leverage the contract commercial terms to maximise profitability for example how the commercial agreements generate cost and revenue streams for the organisation and how this links to generation of profit."
+    },
+    {
+      "behaviourId": "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+      "detail": "Pre-emptive: Foresees events and issues that might cause instability, uncertainty and phase changes."
+    },
+    {
+      "behaviourId": "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+      "detail": "Integrity:  Challenges areas of concern and acts with assertiveness and confidence."
+    },
+    {
+      "behaviourId": "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+      "detail": "Impartial: Responds to feedback and challenging questions professionally and objectively by reference to evidence."
+    },
+    {
+      "behaviourId": "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+      "detail": "Accountable: Takes responsibility for the accuracy and integrity of project controls reporting and recommendations."
+    },
+    {
+      "behaviourId": "56169dad-90b2-451c-ae22-b4fd4ea59080",
+      "detail": "Collaboration interacts within a wide, multi-disciplinary project team, building co-operative relationships.  Encourages team effort and promotes an interdependent culture."
+    },
+    {
+      "behaviourId": "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+      "detail": "Innovation:  Learns from innovative solutions and seeks out new ideas to deliver improvements."
+    },
+    {
+      "behaviourId": "113a86ed-517d-4126-a2e2-112c89310b4c",
+      "detail": "Personal & professional development:  Takes responsibility for personal learning and professional development. Demonstrates commitment to learning and improvement of themselves and others, providing and receiving feedback and with a commitment to professional standards."
+    },
+    {
+      "behaviourId": "bf6a9c48-a04e-46aa-aade-1c4d80e6840b",
+      "detail": "Adaptable: able to adapt to evolving circumstances."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "d7e2ce6e-02fd-464c-bb05-66054f7417d5",
+      "detail": "Determine, adapt and implement the project controls procedures, methods and systems incorporating the relevant employer organisation management systems and procedures including quality, data management and security, document and version control and record keeping. Adapt approaches throughout the project activity."
+    },
+    {
+      "skillId": "de8b491d-2879-4f9a-8b9f-195791399014",
+      "detail": "Use project controls related software and IT systems for: planning and scheduling, cost management, cost and risk analysis, estimating, progress and performance monitoring and reporting; identify and select the right software package for the task"
+    },
+    {
+      "skillId": "1b348868-084e-4167-adad-62bd785c1095",
+      "detail": "Application of and the integration of, software and IT systems to enhance the level of data processing.  For example, the use of technology including BIM."
+    },
+    {
+      "skillId": "b8001280-8347-43f0-81cd-006184f669d3",
+      "detail": "Technical and engineering principles: interpret technical information from different sources, identify and know the correct data and elements to monitor and control to ensure the basis for any recommendations are credible;  review and interpret technical project documents (including scopes of work and engineering drawings etc.)."
+    },
+    {
+      "skillId": "a8f4bf20-ce63-409a-8b37-db1ef3a0c044",
+      "detail": "Breakdown and coding structures: develop, maintain and implement coding structures as well as critiquing and reviewing technical coding and breakdown structures to ensure they provide a basis for project control"
+    },
+    {
+      "skillId": "2ba06a0e-a752-4073-bb3f-7bdb412adec0",
+      "detail": "Lead the creation of comprehensive project control plans and reporting frameworks that identify the right contextual elements to track and the working assumptions to use, in order to generate meaningful controls data, ensuring that project controls deliverables are achievable and in line with project objectives"
+    },
+    {
+      "skillId": "93ad61ad-32ba-447d-991f-093cab75c54f",
+      "detail": "Lead the development, maintenance, review and strategy for the baseline for control, including scope definition, schedule, risk and cost (ensuring alignment between cost and schedule using the coding structures)."
+    },
+    {
+      "skillId": "14c4719e-8f09-4465-b203-0a1b9e975114",
+      "detail": "Implement and enforce project control change procedures, judge against evidence and decide if a change is within or without scope, evaluate its impact to profitability and make recommendations or implement the change in a manner that reflects its scale"
+    },
+    {
+      "skillId": "3e8135c0-2124-4c5f-bc98-e20cf630693a",
+      "detail": "Ensure that project control work is undertaken in accordance with HSE regulations and requirements including applying knowledge of HSE with awareness of how it impacts on project control schedules and costs and ensuring that the schedule and resourcing for a project meets the requirements of regulations (including CDM and safety) and can be delivered in accordance with the requirements i.e. ensure everything is in place and accounted for to ensure the project can run safely."
+    },
+    {
+      "skillId": "57950e31-28df-49b0-ae4d-a1d28cde6bc2",
+      "detail": "Identify opportunities within their remit in projects to contribute to net carbon zero and environmental sustainability, and then take action to minimise the environmental impact of the project"
+    },
+    {
+      "skillId": "4dbfccd1-aad8-4238-8805-dd46af44e71c",
+      "detail": "Undertake project control work in accordance with ethics, codes of conduct and duty of care."
+    },
+    {
+      "skillId": "661aca0c-dad4-4a49-a8b1-4ad6c77d7a46",
+      "detail": "Data assurance:  challenge, verify and validate data reports and data to ensure its integrity, timeliness and technical appropriateness"
+    },
+    {
+      "skillId": "9f452bb0-1927-4608-823a-158372837d3d",
+      "detail": "Identify stakeholders across the project: those to work with when developing estimates, schedules, and plans and those to deliver controls information and recommendations to.  Modify communication style and method to stakeholders, for example to gather information needed."
+    },
+    {
+      "skillId": "5054869c-a001-4a38-95ea-ef83a3e8bb14",
+      "detail": "Risk management and analysis: undertake quantitative and qualitative analysis of risks; question the risks in the risk register presence and relevance of risks and assumptions and leading regular reviews of these to underpin the management of the project risk register."
+    },
+    {
+      "skillId": "8206c5c0-e899-4311-bad6-d62dcc96d3d6",
+      "detail": "Identify opportunities to use a range of data analysis techniques to benefit the project including automating repetitive processes or improving data quality or extracting deeper insights and, validate the related data analysis to ensure correct interpretation against which effective decisions can be made."
+    },
+    {
+      "skillId": "798dcc96-ba69-4611-955f-7ce0ce6df7c7",
+      "detail": "Commercial matters: identification and application of subcontract/supplier deliverables to project control in order to provide the ability to monitor subcontractor/supplier performance and create, record and store project controls content in support of legal and contractual requirements.;"
+    },
+    {
+      "skillId": "2e8b2db9-a213-4014-b79e-d077c878e1ac",
+      "detail": "Create project controls content to inform tenders and evaluate invitations to tender received and bid responses"
+    },
+    {
+      "skillId": "8a09011a-d5a4-48c3-82fb-58a9460ff589",
+      "detail": "Prepare an estimate strategy document and make recommendations on classes of estimate to meet project needs at different project stages"
+    },
+    {
+      "skillId": "c1f1bac4-4f27-4ca2-b63c-3b450fdfebdd",
+      "detail": "Use an evidence based approach to select and apply the most suitable estimating technique for the purpose and undertake estimate assurance, cost risk analysis, prepare related detailed basis of estimate reports that are evidenced and explanatory - setting out the risks, assumptions, probabilities, uncertainties and contingencies in order to provide a sound basis for decision making"
+    },
+    {
+      "skillId": "545d2833-69f6-43ba-8527-7d05d16e70c8",
+      "detail": "Prepare planning and scheduling strategy documents and make recommendations on different levels of plans and schedules to meet different project needs for example, milestones or detailed engineer schedules."
+    },
+    {
+      "skillId": "4d6b5c12-7371-4dc6-9160-17a6e7a398b8",
+      "detail": "Use an evidence based approach to create credible, achievable control schedules, applying relevant assumptions and contingency and undertaking schedule assurance, schedule risk analysis and compile a related basis of schedule report that is explanatory, setting out the risks, assumptions, probabilities, uncertainties, contingencies, dependencies and constraints."
+    },
+    {
+      "skillId": "08355bb9-5ea1-486d-bc9f-d52a4f52373a",
+      "detail": "Model the potential for approved efficiency against time, cost and quality, review and make recommendations."
+    },
+    {
+      "skillId": "066471bf-fb78-41fe-9075-d2e48f5b0f83",
+      "detail": "Apply scheduling practice to select and apply proven planning techniques to capture actual progress and hours/cost expenditure data."
+    },
+    {
+      "skillId": "6b7fea09-063a-4e19-9443-02b0a5793a88",
+      "detail": "Apply cost engineering practice to select and apply proven cost control techniques to capture actual commitment and expenditure data."
+    },
+    {
+      "skillId": "06c83646-8fe9-4362-8605-146f3e8c3e68",
+      "detail": "Control and monitor project progress and performance by selecting and applying the right analysis techniques (for example, earned value analysis) for the size and complexity of the project"
+    },
+    {
+      "skillId": "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+      "detail": "Identify variations from the progress baseline and assess their potential impact, explain the variations to the project, portfolio or programme manager."
+    },
+    {
+      "skillId": "612799e0-3230-4f68-85d6-cd9f42e64337",
+      "detail": "Select and use the most appropriate forecasting techniques, considering the technical and sector requirements and related assumptions and metrics used.  Combine statistical analysis skills with engineering knowledge to create and model different scenarios to reforecast likely out-turns and create recommendations."
+    },
+    {
+      "skillId": "d83d1c83-864e-4918-a8c6-1b4f95caa7a9",
+      "detail": "Communicate and justify own conclusions and recommendations for example for project recovery or to lead to improved project delivery - influencing stakeholders to make informed decisions and challenging the project manager, portfolio manager, programme manager when necessary."
+    },
+    {
+      "skillId": "412f2b9e-d919-4642-9107-bcec587a9438",
+      "detail": "Steer across project controls functions in accordance with organisational core values and specific guidelines; mentor and coach team members such as Project Controls Technicians to apply project controls standards."
+    },
+    {
+      "skillId": "826ef38c-cfdb-41ad-8ce0-35b8f9e10871",
+      "detail": "Apply continuous improvement approaches for example using emerging technologies and lessons learnt from previous projects."
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
@@ -36,25 +344,534 @@
   "fundingApprovalDate": "",
   "eQAProvider": null,
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
-  "integratedDegree": "TBC",
-  "tbReference": "Tb0176 ",
-  "tbMainContact": "Helen.DALTON@education.gov.uk",
-  "involvedEmployers": "",
+  "integratedApprenticeship": null,
+  "integratedDegree": "",
+  "tbReference": "TB0176",
+  "tbMainContact": "catherine.lambert@ecitb.org.uk",
+  "involvedEmployers": "ECITB, Fluor, DES, AWE, Engie, EDF NNB, Magnox, Prima Uno, turner and Townsend, QinetiQ, Wood PLC, WSP, Amey plc, BAE Systems, Bechtel Corporation,  HS2, KBR,  Blackpool College, ACostE, 20/20 Business Insight, Bridgwater College, Project Controls Institute, TASC, NSAN",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2018-11-16T14:58:19 +00:00",
-  "lastUpdated": "2019-08-21T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/project-controls-engineering-professional#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/project-controls-engineering-professional",
+  "typicalJobTitles": [
+    "Project controls manager",
+    "Cost engineering lead",
+    "Estimating lead",
+    "Planning lead",
+    "Scheduling lead",
+    "Risk management lead",
+    "Heads of profession i.e. Head of cost engineering",
+    "computing",
+    "Head of planning"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Quality Improvement, Health & Safety Professional",
+  "createdDate": "2020-11-13T16:34:27 +00:00",
+  "lastUpdated": "2020-11-13T16:34:27 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/project-controls-professional#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/project-controls-professional",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "ACostE (Association of Cost",
+      "level": "0",
+      "isPartial": "",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "797237cb-5b73-4d43-b84c-d2844897783b",
+      "dutyDetail": "Determine, establish and implement (adapt/refine) the required project controls procedures, methods and systems to provide the project, programme or portfolio manager with reliable, consistent, quality, technical controls information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abd69290-0408-408e-a2f8-79c221499b64",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "ff803e8b-8070-4538-bba0-4d84b15319ca",
+        "7d16f903-6160-44c4-ab6a-cb8bd533dc6d",
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+        "6b0013b7-7fbc-4c84-b4df-b4a4eacbc3ae",
+        "3724679a-2d7f-43b4-84ee-ef2fe829c79c"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d7e2ce6e-02fd-464c-bb05-66054f7417d5",
+        "de8b491d-2879-4f9a-8b9f-195791399014",
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "93ad61ad-32ba-447d-991f-093cab75c54f",
+        "9f452bb0-1927-4608-823a-158372837d3d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f66eb84-5e03-4ec3-aa32-2cc2ba3b5490",
+      "dutyDetail": "Develop comprehensive project controls plan(s) and reporting framework(s) to generate meaningful controls data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abd69290-0408-408e-a2f8-79c221499b64",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "bf6a9c48-a04e-46aa-aade-1c4d80e6840b"
+      ],
+      "mappedKnowledge": [
+        "6b0013b7-7fbc-4c84-b4df-b4a4eacbc3ae"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "93ad61ad-32ba-447d-991f-093cab75c54f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "349428e9-501e-42d4-bc94-f0be4c2ecbac",
+      "dutyDetail": "Review and interpret technical project documents (including engineering scope and engineering drawings).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "56169dad-90b2-451c-ae22-b4fd4ea59080"
+      ],
+      "mappedKnowledge": [
+        "e0768921-48fd-4343-a7c0-f300f953f7c5",
+        "35925f99-5ea1-4852-bdf6-21f89b1a495e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a8f4bf20-ce63-409a-8b37-db1ef3a0c044",
+        "2ba06a0e-a752-4073-bb3f-7bdb412adec0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a85bafa0-2152-4b8e-a47a-7e572fe97cc3",
+      "dutyDetail": "Ensure project control work is undertaken in accordance with the requirements of regulations, safety, ethics, the environment and duty of care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abd69290-0408-408e-a2f8-79c221499b64",
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "7024ecfb-f1d6-45d0-ac39-ab1d0f127415",
+        "e2440fc1-b82a-4365-aa87-5606e6ca32e3",
+        "d3829f52-a496-410f-a49d-a788e8c64907"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "57950e31-28df-49b0-ae4d-a1d28cde6bc2",
+        "4dbfccd1-aad8-4238-8805-dd46af44e71c",
+        "661aca0c-dad4-4a49-a8b1-4ad6c77d7a46"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d075cbb-0523-4a6b-85eb-d0a8f11d8ff5",
+      "dutyDetail": "Be accountable for integrity and technical appropriateness of data in order to provide insight into progress.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "7d16f903-6160-44c4-ab6a-cb8bd533dc6d",
+        "e0768921-48fd-4343-a7c0-f300f953f7c5",
+        "3724679a-2d7f-43b4-84ee-ef2fe829c79c"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "de8b491d-2879-4f9a-8b9f-195791399014",
+        "a8f4bf20-ce63-409a-8b37-db1ef3a0c044",
+        "9f452bb0-1927-4608-823a-158372837d3d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c3a85e6a-e970-48f0-aa4b-f20cf47c73f1",
+      "dutyDetail": "Ensure controls information and recommendations are reported and communicated effectively in order to influence key decision-makers and colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "56169dad-90b2-451c-ae22-b4fd4ea59080",
+        "bf6a9c48-a04e-46aa-aade-1c4d80e6840b"
+      ],
+      "mappedKnowledge": [
+        "9e29561e-225f-44e1-a60d-ad61a4ba1dca",
+        "ea6402fa-e10c-4b18-9f53-5f08c20fbb72",
+        "17cbd18a-d989-4f7a-a9e8-807086ee6b06",
+        "712dcffb-e191-49c9-ae7f-eb978c980e7f",
+        "d69f04f8-722c-42e9-a19e-d330300f93c9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5054869c-a001-4a38-95ea-ef83a3e8bb14",
+        "8206c5c0-e899-4311-bad6-d62dcc96d3d6",
+        "798dcc96-ba69-4611-955f-7ce0ce6df7c7",
+        "2e8b2db9-a213-4014-b79e-d077c878e1ac",
+        "8a09011a-d5a4-48c3-82fb-58a9460ff589",
+        "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+        "612799e0-3230-4f68-85d6-cd9f42e64337"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8b726ce4-4576-44bf-8050-65d65d7c87da",
+      "dutyDetail": "Underpin the risk management process – lead reviews, challenge risks and assumptions, identify which mitigation measures will work and provide advice and recommendations to the project, programme or portfolio manager.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abd69290-0408-408e-a2f8-79c221499b64",
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "bf6a9c48-a04e-46aa-aade-1c4d80e6840b"
+      ],
+      "mappedKnowledge": [
+        "e0768921-48fd-4343-a7c0-f300f953f7c5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a8f4bf20-ce63-409a-8b37-db1ef3a0c044",
+        "2e8b2db9-a213-4014-b79e-d077c878e1ac",
+        "8a09011a-d5a4-48c3-82fb-58a9460ff589",
+        "08355bb9-5ea1-486d-bc9f-d52a4f52373a",
+        "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+        "612799e0-3230-4f68-85d6-cd9f42e64337"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9ec3001-cf9c-4607-8f0c-ab34313c13da",
+      "dutyDetail": "Carry out effective cost and schedule risk analysis, what if scenarios and impact analysis for the project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+        "17cbd18a-d989-4f7a-a9e8-807086ee6b06",
+        "712dcffb-e191-49c9-ae7f-eb978c980e7f",
+        "cfe5dbc7-8e5e-41f5-9276-0417fee828b9",
+        "d69f04f8-722c-42e9-a19e-d330300f93c9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "b8001280-8347-43f0-81cd-006184f669d3",
+        "2e8b2db9-a213-4014-b79e-d077c878e1ac",
+        "8a09011a-d5a4-48c3-82fb-58a9460ff589",
+        "066471bf-fb78-41fe-9075-d2e48f5b0f83",
+        "6b7fea09-063a-4e19-9443-02b0a5793a88",
+        "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+        "612799e0-3230-4f68-85d6-cd9f42e64337",
+        "d83d1c83-864e-4918-a8c6-1b4f95caa7a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7ef57bd0-68f1-4af2-af42-99f125673fe2",
+      "dutyDetail": "Implement and enforce project control change procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abd69290-0408-408e-a2f8-79c221499b64",
+        "c905fd03-e84c-42cf-a99b-95a51409631f"
+      ],
+      "mappedKnowledge": [
+        "876e39a4-ea4e-4caa-b978-540ea6e01386"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "c1f1bac4-4f27-4ca2-b63c-3b450fdfebdd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "735b4918-8eed-4776-bfc0-0fbf6b50716c",
+      "dutyDetail": "Evaluate invitations to tender received, contractual requirements and bid responses and create project controls’ content for inclusion in bid responses.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83"
+      ],
+      "mappedKnowledge": [
+        "9f97187d-2a22-4151-8b92-5ab224782e25",
+        "1ebc44b7-90b0-4b65-b60b-08f412ba98f7",
+        "fb4a1c59-d99b-41f9-b646-ad838c51eed9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "545d2833-69f6-43ba-8527-7d05d16e70c8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4458209c-e75b-477e-9df1-47102f8f7a0b",
+      "dutyDetail": "Create project controls content for outgoing invitations to tender, interrogate bids received and related contractual requirements to ensure project controls deliverables are achievable and in line with organisational objectives (e.g. review and create estimates of cost and time).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "56169dad-90b2-451c-ae22-b4fd4ea59080"
+      ],
+      "mappedKnowledge": [
+        "9f97187d-2a22-4151-8b92-5ab224782e25",
+        "1ebc44b7-90b0-4b65-b60b-08f412ba98f7",
+        "fb4a1c59-d99b-41f9-b646-ad838c51eed9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "545d2833-69f6-43ba-8527-7d05d16e70c8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8a8365c-e5a0-404e-90bb-4952b851c2d2",
+      "dutyDetail": "Develop, challenge and analyse the technical coding and breakdown structures to ensure the overall project scope and engineering activities are captured correctly.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3"
+      ],
+      "mappedKnowledge": [
+        "e0768921-48fd-4343-a7c0-f300f953f7c5",
+        "35925f99-5ea1-4852-bdf6-21f89b1a495e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a8f4bf20-ce63-409a-8b37-db1ef3a0c044",
+        "2ba06a0e-a752-4073-bb3f-7bdb412adec0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5c13e566-d187-49a2-a792-2af6e0471a51",
+      "dutyDetail": "Determine and apply the best methodology for estimating the project value, taking into account the level of design maturity and project risks, analyse the estimate outcomes, benchmark and report on pros and cons and degree of certainty.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+        "3a8eb1ee-57bb-4bc1-994d-70e4903a877a",
+        "cfe5dbc7-8e5e-41f5-9276-0417fee828b9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "b8001280-8347-43f0-81cd-006184f669d3",
+        "4d6b5c12-7371-4dc6-9160-17a6e7a398b8",
+        "08355bb9-5ea1-486d-bc9f-d52a4f52373a",
+        "066471bf-fb78-41fe-9075-d2e48f5b0f83",
+        "6b7fea09-063a-4e19-9443-02b0a5793a88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c82c95db-ff78-490e-ae37-11cf953b6bf0",
+      "dutyDetail": "Use planning and scheduling techniques to create credible, realistic schedules.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "56169dad-90b2-451c-ae22-b4fd4ea59080",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "113a86ed-517d-4126-a2e2-112c89310b4c"
+      ],
+      "mappedKnowledge": [
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+        "d69f04f8-722c-42e9-a19e-d330300f93c9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "b8001280-8347-43f0-81cd-006184f669d3",
+        "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+        "612799e0-3230-4f68-85d6-cd9f42e64337"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1a4e3ad-41ba-4f2e-8dd5-033382692751",
+      "dutyDetail": "Set the strategy for management of the controls baseline - develop and maintain the baseline for control including scope, schedule, risk and cost (ensuring alignment between cost and schedule using the coding structures).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "56169dad-90b2-451c-ae22-b4fd4ea59080",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "113a86ed-517d-4126-a2e2-112c89310b4c"
+      ],
+      "mappedKnowledge": [
+        "00395d2d-9d8a-40cd-b9ea-cab1e477666c"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "14c4719e-8f09-4465-b203-0a1b9e975114",
+        "3e8135c0-2124-4c5f-bc98-e20cf630693a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f6477f5d-3cdc-4526-9cca-0f5fb0f8ad3c",
+      "dutyDetail": "Undertake optimisation and efficiency practice and produce reports containing recommendations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "113a86ed-517d-4126-a2e2-112c89310b4c",
+        "bf6a9c48-a04e-46aa-aade-1c4d80e6840b"
+      ],
+      "mappedKnowledge": [
+        "911c51ea-ecd0-4f9b-bc7e-853cd4b0e8e5",
+        "d69f04f8-722c-42e9-a19e-d330300f93c9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "06c83646-8fe9-4362-8605-146f3e8c3e68",
+        "7394c4dd-139e-4b25-aed6-2bb05d83c108",
+        "612799e0-3230-4f68-85d6-cd9f42e64337"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a2f8444-a221-4b00-935f-355288fb601a",
+      "dutyDetail": "Undertake forensic analysis of data supported by accurate, timely, secure record keeping in order to support dispute resolution.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83"
+      ],
+      "mappedKnowledge": null,
+      "mappedOptions": null,
+      "mappedSkills": null,
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f84f54df-d89a-4825-bbfd-c78f791f3164",
+      "dutyDetail": "Undertake effective cost engineering control by monitoring at the appropriate level, measuring commitments, expenditures and cash flow and putting the framework in place to perform effective cost forecasting.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b",
+        "8ef8717e-fb22-4690-8bce-2a61d88ae216",
+        "0b884128-0261-42cc-86b5-159cc50493bd"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "b8001280-8347-43f0-81cd-006184f669d3",
+        "412f2b9e-d919-4642-9107-bcec587a9438",
+        "826ef38c-cfdb-41ad-8ce0-35b8f9e10871"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "da0a625b-3d8b-4970-80f0-82bd3877d1e8",
+      "dutyDetail": "Take responsibility to foster sound decision making based on analysis of progress, making recommendations and providing appropriate challenge to the project, portfolio or programme manager.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8ac07d90-e2ad-457e-a5ff-cb8910b93c0c",
+        "3951c6b9-fe76-48ba-93d7-32cc968b4e83",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30"
+      ],
+      "mappedKnowledge": [
+        "1671376f-b295-44b9-8ae7-6423de52a5cd",
+        "36406110-02d3-4ec7-b3fa-e36d4a6adf6a",
+        "1c50e4d6-b76a-491f-ac87-3f8557c68dd5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": null,
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "905d63bc-0f94-4f33-a77a-a84e4cd2e086",
+      "dutyDetail": "Select and use the most appropriate forecasting techniques to forecast cost and schedule out-turns, considering the technical and sector requirements and related assumptions and metrics being used.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a3808e4f-ed7a-482e-a4cc-d0a4d3e2dcf7",
+        "e5d7acbc-369a-4e23-81ba-bb7fcf31d6d0",
+        "90c897fa-723f-4982-b4ac-a0fd093ebb30",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3",
+        "113a86ed-517d-4126-a2e2-112c89310b4c"
+      ],
+      "mappedKnowledge": [
+        "f218d058-1d3a-4935-8ef0-f55726914d7e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": null,
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "049febc5-2616-4ed5-975e-7846a16a4036",
+      "dutyDetail": "Ensure continuous improvement in project control by monitoring and incorporating (where appropriate) the latest innovative techniques, relevant technologies and lessons learned from other projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "113a86ed-517d-4126-a2e2-112c89310b4c",
+        "bf6a9c48-a04e-46aa-aade-1c4d80e6840b"
+      ],
+      "mappedKnowledge": [
+        "9625dbfd-1ceb-4944-ba5a-b803fa03c78c",
+        "c2e28f1b-bddc-483a-97a6-41aeb6f4d67b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "1b348868-084e-4167-adad-62bd785c1095",
+        "b8001280-8347-43f0-81cd-006184f669d3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d569aea3-b9a0-49cb-9064-bb1e6f96c3b9",
+      "dutyDetail": "Provide leadership and steering across project controls functions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c905fd03-e84c-42cf-a99b-95a51409631f",
+        "1fc4d627-8b26-41cf-b45f-a9077d2500f3"
+      ],
+      "mappedKnowledge": null,
+      "mappedOptions": null,
+      "mappedSkills": null,
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
