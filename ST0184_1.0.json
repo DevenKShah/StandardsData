@@ -41,12 +41,7 @@
   "behaviours": [],
   "skills": [],
   "options": [],
-  "optionsUnstructuredTemplate": [
-    "Retail",
-    "Wealth",
-    "Team Leadership",
-    "Administrator"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
@@ -54,19 +49,19 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool \nL24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
   "approvedForDelivery": "2014-11-12T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0049 ",
   "tbMainContact": "Iain.Gallagher@santander.co.uk",
   "involvedEmployers": "Barclays, HSBC, Lloyds, RBS, Santander",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": true,
+  "coreAndOptions": false,
   "typicalJobTitles": [
     "Banker",
     "Financial Planner",
