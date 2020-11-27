@@ -5,7 +5,7 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/474",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
@@ -15,7 +15,14 @@
   "typicalDuration": 48,
   "maxFunding": 14000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "engineering",
+    "automation",
+    "technician",
+    "controls",
+    "install",
+    "service"
+  ],
   "jobRoles": [
     "Automation and controls engineering technician"
   ],
@@ -26,7 +33,7 @@
   "version": "1.0",
   "standardInformation": "",
   "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in cross sector (e.g. Automotive, Food &amp;amp; Drink, Oil &amp;amp; Gas, Pharmaceutical, Construction), companies involved in manufacturing (discrete or process), logistics or utilities environments.&#160; These employers may be directly involved in these activities or as a provider of services (e.g. systems integration, field service, technical consultancy) to these companies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is twofold.&lt;/p&gt;\n&lt;p&gt;Where the role is based inside a manufacturing (discrete or process), logistics or utilities environments, a fully competent Automation &amp;amp; Control Engineering Technician will be able to install, maintain, fault find and optimise hardware and software for automation systems.&#160;&lt;/p&gt;\n&lt;p&gt;Where the role is based in a service provider, OEM (Original Equipment Manufacturer) or approved solutions provider in large or SME (Small to Medium Enterprise) companies, the Automation &amp;amp; Control Engineering Technician will be the interface between the vendor and it’s customer and will be able to competently provide high quality, engineering services such as installation, commissioning, fault finding (the activity of testing an installation prior to handover) and support.&#160;&lt;/p&gt;\n&lt;p&gt;For both iterations of this role, this would involve the above duties across a range of hardware such as on Programmable Logic Controllers (PLC), Human Machine Interfaces (HMI), robots and Industrial Networks (e.g. PROFIBUS, DeviceNet, PROFINET, ModBus).&#160; Use of physical tools, software tools and instruments (e.g. multi-meter), are fundamental to carrying out tasks associated with building (e.g. control panels), installing (e.g. site cabling) and maintaining of automation systems.&lt;/p&gt;\n&lt;p&gt;This occupation will give employers the ability to maintain successful operational capability.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation will be part of a multi-disciplinary team for example as a member or leader of a project team, maintenance team, service team that will work alongside other stakeholders for example design, production or coordination that interfaces with internal and external customers alike.&#160; Monitoring of the operation of these systems can be carried out either within in-situ control rooms/offices or remotely via web based/GPRS based mobile communications.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the ordering, coordination of services, working to established operating procedures for resources such as equipment and software to ensure functionality of automation systems are maintained.&#160; In a large company, they would generally report to an engineering manager whereas they may have greater responsibility and autonomy in an SME. Individuals in service provision would certainly find themselves working in a more autonomous situation.&#160; In either situation they would be responsible for their own actions and to protect those around them with respect to health, safety and the environment.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in cross sector (e.g. Automotive, Food &amp;amp; Drink, Oil &amp;amp; Gas, Pharmaceutical, Construction), companies involved in manufacturing (discrete or process), logistics or utilities environments.&#160; These employers may be directly involved in these activities or as a provider of services (e.g. systems integration, field service, technical consultancy) to these companies.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is twofold.&lt;/p&gt;\r\n&lt;p&gt;Where the role is based inside a manufacturing (discrete or process), logistics or utilities environments, a fully competent Automation &amp;amp; Control Engineering Technician will be able to install, maintain, fault find and optimise hardware and software for automation systems.&#160;&lt;/p&gt;\r\n&lt;p&gt;Where the role is based in a service provider, OEM (Original Equipment Manufacturer) or approved solutions provider in large or SME (Small to Medium Enterprise) companies, the Automation &amp;amp; Control Engineering Technician will be the interface between the vendor and it’s customer and will be able to competently provide high quality, engineering services such as installation, commissioning, fault finding (the activity of testing an installation prior to handover) and support.&#160;&lt;/p&gt;\r\n&lt;p&gt;For both iterations of this role, this would involve the above duties across a range of hardware such as on Programmable Logic Controllers (PLC), Human Machine Interfaces (HMI), robots and Industrial Networks (e.g. PROFIBUS, DeviceNet, PROFINET, ModBus).&#160; Use of physical tools, software tools and instruments (e.g. multi-meter), are fundamental to carrying out tasks associated with building (e.g. control panels), installing (e.g. site cabling) and maintaining of automation systems.&lt;/p&gt;\r\n&lt;p&gt;This occupation will give employers the ability to maintain successful operational capability.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation will be part of a multi-disciplinary team for example as a member or leader of a project team, maintenance team, service team that will work alongside other stakeholders for example design, production or coordination that interfaces with internal and external customers alike.&#160; Monitoring of the operation of these systems can be carried out either within in-situ control rooms/offices or remotely via web based/GPRS based mobile communications.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for the ordering, coordination of services, working to established operating procedures for resources such as equipment and software to ensure functionality of automation systems are maintained.&#160; In a large company, they would generally report to an engineering manager whereas they may have greater responsibility and autonomy in an SME. Individuals in service provision would certainly find themselves working in a more autonomous situation.&#160; In either situation they would be responsible for their own actions and to protect those around them with respect to health, safety and the environment.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "85bc18d9-f44c-4a5e-b669-af6755e4262e",
@@ -203,16 +210,16 @@
   ],
   "professionalRecognition": [
     {
-      "bodyName": "Institute of Engineering & Technology (IET) ",
+      "bodyName": "Institute of Engineering and Technology (IET)",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     },
     {
       "bodyName": "Institutue of Mechanical Engineers (IMechE)",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
