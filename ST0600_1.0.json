@@ -5,7 +5,7 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/421",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2019-03-15T00:00:00",
   "latestStartDate": null,
@@ -15,7 +15,14 @@
   "typicalDuration": 24,
   "maxFunding": 12000,
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "Health",
+    "social care",
+    "hearing aid",
+    "science",
+    "practitioner",
+    "dispenser"
+  ],
   "jobRoles": [
     "Audiologist",
     "Hearing aid audiologist",
@@ -503,14 +510,14 @@
     {
       "bodyName": "Health and Care Professions Council ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     },
     {
       "bodyName": "British Society of Hearing Aid Audiologists ",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
