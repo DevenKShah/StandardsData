@@ -6,28 +6,210 @@
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2020-12-18T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Solve real-world problems using a combination of mechanical and electrical engineering expertise",
   "level": 6,
-  "typicalDuration": 0,
+  "typicalDuration": 60,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
   "keywords": [],
-  "jobRoles": [],
+  "jobRoles": [
+    "Electro-mechanical engineer",
+    "Mechatronics engineer",
+    "Robotics engineer",
+    "Design engineer",
+    "Mechanical engineer",
+    "Electrical engineer",
+    "Systems engineer",
+    "Manufacturing engineer",
+    "Test engineer",
+    "Instrument engineer"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "4 Engineering and Manufacturing Technologies",
-  "ssa2": "4.1 Engineering",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4725/st0672_electro-mechanical-engineer_l6_ap-for-publication_07122020.pdf",
+  "ssa1": "",
+  "ssa2": "",
   "version": "",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "standardOccupationalCode": "5241",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in many engineering sectors involving design, manufacture and research &amp;amp; development, such as aerospace, rail, automotive, defence, electronics, robotics, cybernetics, marine and renewable energy. The occupation serves private and public sectors, and can be found in large and small employers.&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to solve real-world problems using a combination of mechanical and electrical engineering expertise. This might mean designing a better wind turbine, ensuring a passenger plane can land safely, creating a robotic arm for surgery, developing a self-driving car or producing a drone to deliver parcels. An electro-mechanical engineer can oversee the development of an entire product, by understanding the principles of both electrical and mechanical disciplines. This kind of problem solving requires a mixture of skills in design, testing, analysis, reporting, verification, safety assessment, quality assurance, project management and delivering to time and cost. They provide information, advice and guidance on technical solutions and proposals, including cost/benefit analysis and awareness of commercial realities. They also provide ongoing technical support once design and development items are implemented or deployed. The products an electro-mechanical engineer can work on range from medical monitors, precision measurement tools and hydraulic actuator systems to bespoke industrial machinery and complex remote handling manipulators, and can be found in a variety of challenging environments. The occupation requires an appreciation of programming software, plus the ability to interpret data, use a range of CAD and software tools, and operate mechanical systems via electrical, pneumatic or hydraulic means.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the many stakeholders in any engineering project, and may be a key figure in integrating different teams. Within their organisation they interact with the project manager, engineering team members, technical specialists, laboratory and site-based technicians, senior managers, plus other internal teams such as customer services, production, finance, health and safety, quality etc. They may also interact directly with external stakeholders such as the customer or client, as well as suppliers and service providers.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;This occupation is typically found in an office or laboratory environment, and may be predominantly based in one or the other, depending on the employer. The role is usually carried out within normal office hours, but travel off-site may be required for trials, demonstrations, inspections and customer visits. An employee in this occupation will be responsible for delivery of project elements to time, cost and quality, either on their own or as the leader of a design/test/systems/project team. They typically report to senior project and engineering leaders. Depending on the size and structure of their organisation, they may supervise other engineers or technicians.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "e3ce52ea-0d71-43a5-bc7d-98ca1b3c749e",
+      "detail": "Mathematics: the mathematical techniques and methods required to model mechanical and electrical systems: algebra, calculus, geometry, trigonometry, statistics."
+    },
+    {
+      "knowledgeId": "10559d42-263a-4c65-a87a-565a2ff6081a",
+      "detail": "Engineering design: the creative design process including defining the problem, creating ideas and testing the solution using tools to support the process such as root cause analysis; requirements definition; research and development; solution generation, prototyping; simulation; benchmarking and testing. "
+    },
+    {
+      "knowledgeId": "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+      "detail": "Systems design: the system lifecycle from concept to disposal; requirements validation and verification; architecture definition, sub-system design and testing; integration; design for supportability/maintainability; functional safety, cyber vulnerability and secure data handling."
+    },
+    {
+      "knowledgeId": "3f0e43ed-173b-4dca-b1da-d0b302913628",
+      "detail": "Mechanics: the fundamental laws of static and dynamic classical mechanics and their application to mechanical systems: force and moment systems, free body diagrams, equilibrium, friction, beam theory, hydrostatics, kinematics, Work-Energy and Impulse-Momentum methods, vector algebra, scalar and graphical approaches."
+    },
+    {
+      "knowledgeId": "d4080229-44cf-4550-80e8-4448d463840d",
+      "detail": "Structures: analysis and modelling for the determination of the effects of loads on physical structures, mechanisms, and their associated components: static and fatigue stress, structural failure modes, safe-life and fail-safe design, Finite Element Analysis. "
+    },
+    {
+      "knowledgeId": "64743288-b939-44d3-aaf5-ef3006385d57",
+      "detail": "Materials: the main classes of engineering materials and their associated mechanical, electrical and environmental properties. How to select appropriate materials to achieve manufacturing and design goals. Thermal treatments and coatings. How to use software to model material properties and behaviour, analysis of experimental results. Avoidance, use and disposal of harmful materials according to appropriate environmental regulations."
+    },
+    {
+      "knowledgeId": "352e54aa-d12e-4b7a-9f11-f3adc1ed1e7d",
+      "detail": "Thermodynamics: core thermodynamic concepts, system types and the application to engineering systems: basic power cycles and their thermodynamic analysis (steam, gas turbine and reciprocating internal combustion engine), modern power plants (including refrigeration and heat pump plant)."
+    },
+    {
+      "knowledgeId": "932c623f-e0d8-481e-8920-fdb610e4087a",
+      "detail": "Electrical and electronic engineering: theory and design of equipment and systems which use electricity and electromagnetism, and the fundamental laws and theorems that govern electronic circuits:function of common digital and analogue electronic devices, passive circuit behaviour, modelling circuits, active electronic components, transformers, AC/DC, power electronics, motors and drives."
+    },
+    {
+      "knowledgeId": "d88cad30-e49e-445e-b897-fef715516d01",
+      "detail": "Control & instrumentation: theoretical and practical aspects of analogue and digital control system design and tuning to meet performance objectives: transducer systems and operation; measurement applications and error; principles of closed loop control systems and feedback strategies; block diagrams, root-loci, Bode diagrams, Nyquist plots;  methodologies of classical control with applications to Electrical, Mechanical and Mechatronics systems."
+    },
+    {
+      "knowledgeId": "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+      "detail": "Digital and embedded systems: embedded systems and their development, number systems, Boolean algebra, logic gates, logic expressions, combinational logic, A/D and D/A converters, computer/microcomputer systems and architectures."
+    },
+    {
+      "knowledgeId": "819cf07a-73ea-400f-93e6-12f065e8f44f",
+      "detail": "Sensors, actuators and mechanisms: Linear mechanisms (springs, levers, links, pulleys), rotational mechanisms (universal joints, gears and cams), energy storage and controlled release mechanisms. Sensor types, transfer and environmental characteristics, sensor signal conditioning and processing, digital data acquisition, sensor integration into embedded systems, transmission and receipt of sensor data. "
+    },
+    {
+      "knowledgeId": "7490c011-04a3-4325-a67c-d547f887cd8f",
+      "detail": "Structured software, coding and automation: how to create and use computer programming applied to engineering systems, including real-time applications and automated control. Data handling considerations (including data protection and encryption), data analytics and introduction to machine learning."
+    },
+    {
+      "knowledgeId": "4a422311-b365-490b-bf59-ab7f6cf74363",
+      "detail": "Manufacturing: the considerations when turning raw materials into a finished product in the most efficient way possible: common methods and models for the manufacturing process, design for manufacture, production drawings, quality control."
+    },
+    {
+      "knowledgeId": "51375aac-1d9b-4b6f-8400-a0b1d2b0f377",
+      "detail": "Project management: project planning, management of risks, commercial awareness (costs, overheads, gross margin, net margin, profit, cash), resourcing and quality assurance."
+    },
+    {
+      "knowledgeId": "ebf9cd4c-6be0-455b-bd24-5564112e1191",
+      "detail": "Safety requirements: statutory, organisational and environmental."
+    },
+    {
+      "knowledgeId": "250c282b-d2db-4eb6-86d2-0ad957d4be63",
+      "detail": "Computer-aided design: 2D and 3D CAD using software packages."
+    },
+    {
+      "knowledgeId": "9b20998f-c853-4039-9720-06499c2f9ad7",
+      "detail": "Fluid dynamics: different fluid flow types and the application to turbo machinery and hydraulics: laminar and turbulent flow, boundary conditions, drag and friction, compressible flow."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+      "detail": "Hold paramount the health and safety of themselves and others, and model health and safety conscious behaviour."
+    },
+    {
+      "behaviourId": "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+      "detail": "Self-motivated, work independently and take responsibility for their actions. Set themselves challenging personal targets and make own decisions."
+    },
+    {
+      "behaviourId": "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
+      "detail": "Communicate confidently to create and maintain working relationships. Be respectful."
+    },
+    {
+      "behaviourId": "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+      "detail": "Work collaboratively as a team player. Able to work effectively within a team and interact with / help others when required. "
+    },
+    {
+      "behaviourId": "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+      "detail": "Prioritise quality. Follow rules, procedures and principles in ensuring work completed is fit for purpose, and pay attention to detail / error checks throughout activities."
+    },
+    {
+      "behaviourId": "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+      "detail": "Adjust to different conditions, technologies, situations and environments and to new and emerging technologies. "
+    },
+    {
+      "behaviourId": "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+      "detail": "Exercise responsibilities in an ethical manner, with openness, fairness and honesty. "
+    },
+    {
+      "behaviourId": "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+      "detail": "Respect the environment and the public good. Consider sustainability and the adverse effects of projects and tasks on the wider world, in the short and longer term. "
+    },
+    {
+      "behaviourId": "51ef5e89-f729-4e24-8607-ea771364daf5",
+      "detail": "Commit to personal learning and professional development."
+    },
+    {
+      "behaviourId": "969e7344-dfc0-46e9-82d9-c2b24d250ba4",
+      "detail": "Commit to professional standards (or codes of conduct) of their employer and the wider industry."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+      "detail": "Communicate technical information with others at all levels, including technical reports and the use of digital tools. "
+    },
+    {
+      "skillId": "d4512df7-6770-402c-b952-461d3443ddea",
+      "detail": "Follow a methodical approach to engineering problem solving."
+    },
+    {
+      "skillId": "5e0025cb-a460-480f-861e-b288d63c2c87",
+      "detail": "Establish and report engineering design briefs."
+    },
+    {
+      "skillId": "3478d3fd-b5af-4eca-87e5-2e6e539a6a00",
+      "detail": "Produce mechanical and electrical designs / drawings / sketches using Computer Aided Design (CAD) and manual systems. "
+    },
+    {
+      "skillId": "55391195-a23d-49b1-b11e-d293d8de60cd",
+      "detail": "Model real-world mechanical systems efficiently."
+    },
+    {
+      "skillId": "87582cac-7fc1-490d-9f80-ee2738f9c114",
+      "detail": "Select the design solution for a given electro-mechanical engineering application and environment using data to inform their decisions."
+    },
+    {
+      "skillId": "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
+      "detail": "Integrate electrical and mechanical engineering systems, considering new and emerging technologies."
+    },
+    {
+      "skillId": "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a",
+      "detail": "Use appropriate equipment to develop and execute test plans to support electro-mechanical product validation and approval."
+    },
+    {
+      "skillId": "b2b6db2e-dd35-489c-909d-070393aa25d6",
+      "detail": "Design functional electronic systems and circuits from component level. "
+    },
+    {
+      "skillId": "2cb804bb-50c3-46ed-89b3-5edca6cc26d9",
+      "detail": "Write and document structured programming code for electro-mechanical systems."
+    },
+    {
+      "skillId": "a91987a2-2540-42ee-a0b2-b7532697820a",
+      "detail": "Fabricate engineering components and assemblies using specialist manufacturing methods and hand fitting techniques."
+    },
+    {
+      "skillId": "555d8f40-30da-4e65-9b2e-0f1f74cbfdf4",
+      "detail": "Assemble, wire, program and test electrical equipment, motors and control systems."
+    },
+    {
+      "skillId": "5192deaa-d0a7-4e5c-af4d-d702f0488904",
+      "detail": "Plan, manage and lead engineering projects."
+    },
+    {
+      "skillId": "57ca6663-8b25-45fc-913e-0c160d76cf13",
+      "detail": "Perform risk management for engineering activities."
+    },
+    {
+      "skillId": "c907cd6b-a7ca-42c2-aeb5-02531c0acea8",
+      "detail": "Comply with statutory and organisational safety requirements."
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
@@ -37,24 +219,388 @@
   "eQAProvider": null,
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-integrated degree",
-  "tbReference": "TB0158 ",
+  "integratedDegree": "",
+  "tbReference": "TB0158",
   "tbMainContact": "Jeremy.Elliott@atkinsglobal.com",
-  "involvedEmployers": "",
+  "involvedEmployers": "Littlefuse, JCB, CAT, Techworks, Safran Landing Systems, Renishaw, Arcadis, Arup, UKAEA, Atkins Global",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "typicalJobTitles": [
+    "Electro-mechanical engineer",
+    "Mechatronics engineer",
+    "Robotics engineer",
+    "Design engineer",
+    "Mechanical engineer",
+    "Electrical engineer",
+    "Systems engineer",
+    "Manufacturing engineer",
+    "Test engineer",
+    "Instrument engineer"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
-  "createdDate": "2018-11-16T14:58:46 +00:00",
-  "lastUpdated": "2018-01-29T00:00:00 +00:00",
+  "createdDate": "2020-12-18T08:43:56 +00:00",
+  "lastUpdated": "2020-12-18T08:43:56 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/electro-mechanical-engineer",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Incorporated Engineer (IEng)",
+      "level": "0",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Incorporated Engineer (IEng)",
+      "level": "0",
+      "isPartial": "partial",
+      "partialFreeText": "IMechE: It is likely that a period of further academic study or further learning would be required in order to meet the Knowledge and Understanding requirements of UK Spec (bachelors level learning or equivalent) for Incorporated Engineer professional registration and the IMechE will be happy to work with the employers and individual apprentices to support their journey towards professional registration. RAeS: We recommend that consideration is given to the academic qualification required to satisfy UKSPEC requirements i.e. the requirement to have an accredited qualification at the appropriate level, and that for the BEng proposed this would have to be accredited for IEng level by a Professional Engineering Institution approved by the Engineering Council. We will be happy to provide further advice and support in addition to help in mapping the proposed KSBs against UKSPEC to identify areas where the apprentice meets IEng competences in full, or partially."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ff1b7f0f-055c-42cd-90ba-cb15677957db",
+      "dutyDetail": "Identify and derive technical requirements for electro-mechanical projects or systems. The right requirements will ensure that any compliant final product will provide the desired function and performance, i.e. solve the problem at hand. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "51ef5e89-f729-4e24-8607-ea771364daf5",
+        "969e7344-dfc0-46e9-82d9-c2b24d250ba4"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "3f0e43ed-173b-4dca-b1da-d0b302913628",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "d88cad30-e49e-445e-b897-fef715516d01",
+        "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+        "ebf9cd4c-6be0-455b-bd24-5564112e1191"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "d4512df7-6770-402c-b952-461d3443ddea",
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "c907cd6b-a7ca-42c2-aeb5-02531c0acea8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a5465835-eaa7-4472-9e86-03adc687fa1b",
+      "dutyDetail": "Design or redesign electro-mechanical products or systems to fulfil customer and technical requirements. The design must consider the interface between the mechanical and electrical elements of the product. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "51ef5e89-f729-4e24-8607-ea771364daf5"
+      ],
+      "mappedKnowledge": [
+        "e3ce52ea-0d71-43a5-bc7d-98ca1b3c749e",
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "3f0e43ed-173b-4dca-b1da-d0b302913628",
+        "d4080229-44cf-4550-80e8-4448d463840d",
+        "64743288-b939-44d3-aaf5-ef3006385d57",
+        "352e54aa-d12e-4b7a-9f11-f3adc1ed1e7d",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "d88cad30-e49e-445e-b897-fef715516d01",
+        "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+        "819cf07a-73ea-400f-93e6-12f065e8f44f",
+        "7490c011-04a3-4325-a67c-d547f887cd8f",
+        "250c282b-d2db-4eb6-86d2-0ad957d4be63",
+        "9b20998f-c853-4039-9720-06499c2f9ad7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "d4512df7-6770-402c-b952-461d3443ddea",
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "3478d3fd-b5af-4eca-87e5-2e6e539a6a00",
+        "87582cac-7fc1-490d-9f80-ee2738f9c114",
+        "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
+        "b2b6db2e-dd35-489c-909d-070393aa25d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "30353d99-e768-4401-b5c7-77a2db0d908b",
+      "dutyDetail": "Create and utilise technical analyses models or simulations to predict the performance of products or systems. This includes modelling and analysis of electrical circuit behaviour and of mechanical behaviour (for example structural strength, kinematics, dynamic response).",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "51ef5e89-f729-4e24-8607-ea771364daf5"
+      ],
+      "mappedKnowledge": [
+        "e3ce52ea-0d71-43a5-bc7d-98ca1b3c749e",
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "3f0e43ed-173b-4dca-b1da-d0b302913628",
+        "d4080229-44cf-4550-80e8-4448d463840d",
+        "64743288-b939-44d3-aaf5-ef3006385d57",
+        "352e54aa-d12e-4b7a-9f11-f3adc1ed1e7d",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+        "819cf07a-73ea-400f-93e6-12f065e8f44f",
+        "9b20998f-c853-4039-9720-06499c2f9ad7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "55391195-a23d-49b1-b11e-d293d8de60cd",
+        "2cb804bb-50c3-46ed-89b3-5edca6cc26d9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ff1df03-6301-43f6-9a41-9d2cd5269e7a",
+      "dutyDetail": "Build or oversee the production of prototype systems, components or specimens to test functionality and performance of products.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "51ef5e89-f729-4e24-8607-ea771364daf5"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "d88cad30-e49e-445e-b897-fef715516d01",
+        "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+        "819cf07a-73ea-400f-93e6-12f065e8f44f",
+        "7490c011-04a3-4325-a67c-d547f887cd8f",
+        "250c282b-d2db-4eb6-86d2-0ad957d4be63"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3478d3fd-b5af-4eca-87e5-2e6e539a6a00",
+        "87582cac-7fc1-490d-9f80-ee2738f9c114",
+        "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
+        "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a",
+        "b2b6db2e-dd35-489c-909d-070393aa25d6",
+        "2cb804bb-50c3-46ed-89b3-5edca6cc26d9",
+        "a91987a2-2540-42ee-a0b2-b7532697820a",
+        "555d8f40-30da-4e65-9b2e-0f1f74cbfdf4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d39699c6-2c7e-4e3b-9528-eb8e660bf282",
+      "dutyDetail": "Develop, define and execute testing of products or systems including:\r\na) Gathering and use of existing data to establish test needs\r\nb) Development testing of concept solutions and alternative designs\r\nc) Qualification testing of final design, including safety cases ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "51ef5e89-f729-4e24-8607-ea771364daf5"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "3f0e43ed-173b-4dca-b1da-d0b302913628",
+        "d4080229-44cf-4550-80e8-4448d463840d",
+        "352e54aa-d12e-4b7a-9f11-f3adc1ed1e7d",
+        "819cf07a-73ea-400f-93e6-12f065e8f44f",
+        "7490c011-04a3-4325-a67c-d547f887cd8f",
+        "ebf9cd4c-6be0-455b-bd24-5564112e1191",
+        "9b20998f-c853-4039-9720-06499c2f9ad7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "87582cac-7fc1-490d-9f80-ee2738f9c114",
+        "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
+        "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a",
+        "57ca6663-8b25-45fc-913e-0c160d76cf13",
+        "c907cd6b-a7ca-42c2-aeb5-02531c0acea8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fc77bc3a-5673-4e22-b8b1-1edd0d108d87",
+      "dutyDetail": "Analyse test data and in-service data to review the suitability and performance of products or systems, including big data analytics.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "51ef5e89-f729-4e24-8607-ea771364daf5"
+      ],
+      "mappedKnowledge": [
+        "e3ce52ea-0d71-43a5-bc7d-98ca1b3c749e",
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "d88cad30-e49e-445e-b897-fef715516d01",
+        "61731e16-b6b8-491c-a9a0-2a1bc8f364cd",
+        "7490c011-04a3-4325-a67c-d547f887cd8f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "55391195-a23d-49b1-b11e-d293d8de60cd",
+        "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ed07ecd-0ad2-480d-be4f-77a63100c0d9",
+      "dutyDetail": "Verify that products/systems comply with legislative and company standards throughout the life cycle, including quality, environmental, health & safety standards. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "969e7344-dfc0-46e9-82d9-c2b24d250ba4"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "4a422311-b365-490b-bf59-ab7f6cf74363",
+        "ebf9cd4c-6be0-455b-bd24-5564112e1191"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "55391195-a23d-49b1-b11e-d293d8de60cd",
+        "87582cac-7fc1-490d-9f80-ee2738f9c114",
+        "8eb68dde-b569-4ae2-b1b0-e42cf69f8c5a",
+        "b2b6db2e-dd35-489c-909d-070393aa25d6",
+        "c907cd6b-a7ca-42c2-aeb5-02531c0acea8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8bb6c94d-9643-45b9-920d-6069e2e88eef",
+      "dutyDetail": "Review performance of in-service products/systems, assess the cause of any faults or problems, and propose ways to fix them. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+        "5f702937-9ac9-4ce1-8cb6-e73efe733dfc",
+        "51ef5e89-f729-4e24-8607-ea771364daf5",
+        "969e7344-dfc0-46e9-82d9-c2b24d250ba4"
+      ],
+      "mappedKnowledge": [
+        "e3ce52ea-0d71-43a5-bc7d-98ca1b3c749e",
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "932c623f-e0d8-481e-8920-fdb610e4087a",
+        "d88cad30-e49e-445e-b897-fef715516d01",
+        "819cf07a-73ea-400f-93e6-12f065e8f44f",
+        "7490c011-04a3-4325-a67c-d547f887cd8f",
+        "4a422311-b365-490b-bf59-ab7f6cf74363"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "d4512df7-6770-402c-b952-461d3443ddea",
+        "b12815e9-660e-4d3a-966b-4c2f8cd71bcb",
+        "2cb804bb-50c3-46ed-89b3-5edca6cc26d9",
+        "57ca6663-8b25-45fc-913e-0c160d76cf13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80d33df3-ffd1-40a4-9aae-450f897076d3",
+      "dutyDetail": "Plan and lead the delivery of an allocated work stream, ensuring integration with the wider project and company objectives/strategies. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41",
+        "51ef5e89-f729-4e24-8607-ea771364daf5",
+        "969e7344-dfc0-46e9-82d9-c2b24d250ba4"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "51375aac-1d9b-4b6f-8400-a0b1d2b0f377",
+        "ebf9cd4c-6be0-455b-bd24-5564112e1191"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "5192deaa-d0a7-4e5c-af4d-d702f0488904",
+        "57ca6663-8b25-45fc-913e-0c160d76cf13",
+        "c907cd6b-a7ca-42c2-aeb5-02531c0acea8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0fc1ec12-9973-49d8-9693-0e93f4b4ac4d",
+      "dutyDetail": "Communicate information, progress, risks and issues at all levels of the business, including through formal technical reports.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "ed7c653b-b569-40b9-9e57-7b8ebf20f84d",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "969e7344-dfc0-46e9-82d9-c2b24d250ba4"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "51375aac-1d9b-4b6f-8400-a0b1d2b0f377",
+        "250c282b-d2db-4eb6-86d2-0ad957d4be63"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "ca0ba443-0234-42a7-afea-9a2b00cf28af",
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "3478d3fd-b5af-4eca-87e5-2e6e539a6a00",
+        "2cb804bb-50c3-46ed-89b3-5edca6cc26d9",
+        "5192deaa-d0a7-4e5c-af4d-d702f0488904",
+        "c907cd6b-a7ca-42c2-aeb5-02531c0acea8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aa5ed49b-ed3a-4e27-a2e0-400255d94e2b",
+      "dutyDetail": "Contribute to risk identification and risk management processes within the scope of allocated work stream. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "3d31dfaf-7116-4b0f-b74b-677bb515b726",
+        "b2d1a7db-e97a-4d6a-bb97-615248db347d",
+        "4dce4246-755f-49c7-b1c6-6a139f7b6cf4",
+        "c258dbd8-c377-4b72-8fda-dbda5b8fd22c",
+        "997a6273-bb6f-4ee2-8a4b-30af9df18c31",
+        "e9bfc090-966c-4a3d-a580-ac1c52a40b41"
+      ],
+      "mappedKnowledge": [
+        "10559d42-263a-4c65-a87a-565a2ff6081a",
+        "bf214fd4-86b0-447c-b142-2f84e1498f9f",
+        "51375aac-1d9b-4b6f-8400-a0b1d2b0f377"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5e0025cb-a460-480f-861e-b288d63c2c87",
+        "5192deaa-d0a7-4e5c-af4d-d702f0488904",
+        "57ca6663-8b25-45fc-913e-0c160d76cf13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
