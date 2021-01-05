@@ -5,8 +5,8 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/565",
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2021-01-04T00:00:00",
   "earliestStartDate": "2020-06-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -15,8 +15,28 @@
   "typicalDuration": 24,
   "maxFunding": 9000,
   "route": "Construction",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "landscape",
+    "building",
+    "environment",
+    "planning",
+    "construction",
+    "surveying",
+    "technician",
+    "design"
+  ],
+  "jobRoles": [
+    "Junior Landscape Architect",
+    "Landscape Assistant",
+    "Landscape Technician",
+    "Landscape Technologist",
+    "Landscape Visualiser Landscape CAD Technician",
+    "Assistant Parks Manager",
+    "Parks Officer",
+    "Landscape Clerk of Works",
+    "BIM Technician",
+    "GIS Technician"
+  ],
   "entryRequirements": "&lt;p&gt;The entry requirement for the apprenticeship will typically be five GCSEs at Grade 4 (Grade C) or higher including Maths and English or a Level 2 apprenticeship in a relevant discipline but the final decision is that of each employer. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the end point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is Entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for those for whom this is their primary language.&lt;/p&gt;",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4304/st0741_landscape_technician_l3_ap_for_publication_02062020.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
@@ -24,7 +44,7 @@
   "version": "1.0",
   "standardInformation": "",
   "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, digital, creative and design, environmental and planning sectors.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments. They work to meet project requirements and support these other professionals in protecting, conserving and enhancing the natural and built environment for the benefit of the public, communities, stakeholders and clients. Landscape Technicians use a wide range of technical skills and are at the forefront of technological innovation.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with clients, planners, landscape architects, architects, landscape managers, urban designers, ecologists, engineers, arboriculturists, park managers, local and national Government departments, non-governmental organisations, the public, local communities and many others. The work includes a mixture of office based and outdoor activities.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for some of their own work and will work under supervision of landscape professionals and managers in more complex areas.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, digital, creative and design, environmental and planning sectors.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments. They work to meet project requirements and support these other professionals in protecting, conserving and enhancing the natural and built environment for the benefit of the public, communities, stakeholders and clients. Landscape Technicians use a wide range of technical skills and are at the forefront of technological innovation.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with clients, planners, landscape architects, architects, landscape managers, urban designers, ecologists, engineers, arboriculturists, park managers, local and national Government departments, non-governmental organisations, the public, local communities and many others. The work includes a mixture of office based and outdoor activities.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for some of their own work and will work under supervision of landscape professionals and managers in more complex areas.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "50c4a055-0973-4656-9ae5-ea493887542c",
@@ -136,7 +156,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool \nL24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -149,7 +169,18 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Junior Landscape Architect",
+    "Landscape Assistant",
+    "Landscape Technician",
+    "Landscape Technologist",
+    "Landscape Visualiser Landscape CAD Technician",
+    "Assistant Parks Manager",
+    "Parks Officer",
+    "Landscape Clerk of Works",
+    "BIM Technician",
+    "GIS Technician"
+  ],
   "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
   "pathway": "Design, Surveying & Planning",
@@ -163,8 +194,8 @@
     {
       "bodyName": "Landscape Institute / Technician",
       "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
