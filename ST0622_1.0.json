@@ -5,7 +5,7 @@
   "status": "Approved for delivery",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/339",
   "versionNumber": "1.0",
-  "change": "",
+  "change": "Approved for delivery",
   "changedDate": null,
   "earliestStartDate": "2018-08-22T00:00:00",
   "latestStartDate": null,
@@ -15,8 +15,23 @@
   "typicalDuration": 18,
   "maxFunding": 7000,
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "bike",
+    "bicycle",
+    "mechanic",
+    "repair",
+    "transport",
+    "operations",
+    "maintenance",
+    "engineering",
+    "manufacturing",
+    "building"
+  ],
+  "jobRoles": [
+    "bicycle mechanic",
+    "bike mechanic",
+    "cycle mechanic"
+  ],
   "entryRequirements": "",
   "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2135/st0622_bicycle-mechanic_l2_ap_for_publication_aug18.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
@@ -252,7 +267,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\r\n17 De Havilland Dr\r\nSpeke\r\nLiverpool \r\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool \nL24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -265,7 +280,11 @@
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "bicycle mechanic",
+    "bike mechanic",
+    "cycle mechanic"
+  ],
   "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
   "pathway": "Maintenance, Installation & Repair",
