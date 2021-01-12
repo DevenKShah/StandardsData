@@ -338,10 +338,10 @@
   "integratedApprenticeship": true,
   "integratedDegree": "",
   "tbReference": "TB0053",
-  "tbMainContact": "Lucy.Blinko@wdtrust.org.uk",
+  "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Genix Healthcare, 211 Dental, 543 Dental Care Centre Ltd, Azam & Associates Healthcare Ltd, Bupa Dental Services, Den Dental Group Practices Ltd, Integrated Dental Holdings, Oasis Healthcare Ltd, Rodericks Dental, Smile Care Group, Acodent Dental Laboratory, Aesthetic Dental Laboratory, Bremandent Premier (Bristol) Ltd, CosTech Elite, Knight Dental Design, Optimum Dental Laboratories, PDS Dental Laboratory, A S Harrison Lab Ltd, S4S (UK) Ltd, Sparkle Dental Labs",
-  "regulated": false,
-  "regulatedBody": "",
+  "regulated": true,
+  "regulatedBody": "General Dental Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Dental nurse"
@@ -600,5 +600,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "regulationDetail": [
+    {
+      "name": "EPAO",
+      "webLink": ""
+    }
+  ]
 }
