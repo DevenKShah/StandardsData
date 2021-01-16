@@ -12,49 +12,773 @@
   "latestEndDate": null,
   "overviewOfRole": "",
   "level": 4,
-  "typicalDuration": 0,
+  "typicalDuration": 18,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
   "keywords": [],
-  "jobRoles": [],
+  "jobRoles": [
+    "Acquistion and disposal manager",
+    "Asset and insight manager",
+    "Asset manager",
+    "Asset resilience manager",
+    "Assistant asset manager",
+    "Associate asset manager",
+    "Infrastructure asset manager"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4829/st0861_asset-manager_l4_ap_for-publication_jan21.pdf",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.3 Business management",
   "version": "",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "standardOccupationalCode": "2423",
+  "occupationalSummary": "&lt;p&gt;Asset manager practitioners work in a range of industries that manage physical assets. This includes energy and utilities, manufacturing, mining, petrochemical, buildings and transport. They may be employed by asset owning companies, outsourced services companies or asset management consultants. Companies may range in size from small to large.&lt;br /&gt;&lt;br /&gt;Physical assets are defined as an item, thing or entity that has value to a business or service. Examples include buildings, bridges, digital hardware, flood defences, gas fiscal metering, pipelines, plant , rail track, reservoirs, roads, retail space, runways and wind turbines. ISO 55000 defines asset management as ‘the co-ordinated activity of an organisation to realise value from assets&#39;.&lt;/p&gt;\n&lt;p&gt;Asset manager practitioners contribute to the asset management function within an organisation. They help to ensure physical assets are managed in a way to achieve the organisation’s objectives and provide an appropriate level of service. They assess the performance, condition, root cause of failure, consequence of failure and risk of physical assets, asset systems and the service they provide. They identify asset investment needs, interventions and mitigations for asset failure, and produce business cases to address asset investment needs. They participate in the management of asset data, supplier selection and management, and support stakeholder engagement. They also promote and champion asset management within the organisation. They will work both in the office and at asset locations. They do not conduct physical ‘hands on’ operation or maintenance of assets.&lt;/p&gt;\n&lt;p&gt;In their daily work, they interact with the wider business and senior managers in the organisation to whom they will report. In order to support their work, they will liaise with internal stakeholders. These could include maintenance and operations personnel, investment groups, policy teams and capital delivery. Plus customer services to ensure the asset management function aligns with customer, stakeholder and organisational requirements. They may also come into contact with representatives from other organisations or external bodies such as clients, funding agencies, regulators and suppliers.&lt;/p&gt;\n&lt;p&gt;They are responsible for ensuring asset management complies with legal frameworks and legislation, including public health, health and safety, economic and environmental. They need to keep up to date with asset management requirements and best practice. They typically work to deadlines with minimal supervision, operating within a set framework and budget. They may be responsible for leading a project team but are not usually responsible for line management.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+      "detail": "Asset management standards: ISO55000, British Standard Institute (BSI) Publicly Available Specification (PAS) 55. "
+    },
+    {
+      "knowledgeId": "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+      "detail": "Management systems for asset management: policy, strategy, objectives, plans and continual improvement. "
+    },
+    {
+      "knowledgeId": "0ca042fe-ee47-4489-9d71-71f8943b513d",
+      "detail": "Impact of organisational context on asset management: regulatory frameworks, stakeholders, governance and asset management policy, objectives strategy and plan. "
+    },
+    {
+      "knowledgeId": "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+      "detail": "Different types of assets and classification approaches; hierarchy, function and value. "
+    },
+    {
+      "knowledgeId": "80d1c18a-aaec-4120-8038-d5cd33316124",
+      "detail": "Asset systems; effect of each asset on the system and impact of external factors."
+    },
+    {
+      "knowledgeId": "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+      "detail": "Asset/system service and performance requirements; service level."
+    },
+    {
+      "knowledgeId": "963d36d1-f7ca-426c-8b29-cb50d28d6797",
+      "detail": "Continuous improvement techniques."
+    },
+    {
+      "knowledgeId": "de1d79c2-a4b8-47fb-bb62-52ae8c300d6c",
+      "detail": "Asset costing and valuation techniques; cost estimation (maintenance, operation, renewal), depreciation, whole life costing, and social, environmental, safety and reputational cost."
+    },
+    {
+      "knowledgeId": "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+      "detail": "Optioneering, cost benefit analysis; asset management multi-criteria decision making (cost, risk, performance, sustainability, compliance and intangibles)."
+    },
+    {
+      "knowledgeId": "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+      "detail": "Creative thinking and problem-solving techniques."
+    },
+    {
+      "knowledgeId": "818f0235-c00b-4966-bf1b-27e72323ffd0",
+      "detail": "Asset life cycle activities: demand analysis and future requirements, creation and acquisition or rationalisation, operation, resilience, redundancy, shutdown, obsolescence, outage management, future asset capability."
+    },
+    {
+      "knowledgeId": "c69a1355-9990-4265-a156-968c2bb04e29",
+      "detail": "Performance monitoring of asset life cycle activities."
+    },
+    {
+      "knowledgeId": "cd9e529f-3c2e-46ff-9875-54f5ed20d9fb",
+      "detail": "Asset and asset systems health, condition and performance assessment methods."
+    },
+    {
+      "knowledgeId": "c0676ced-cece-44ab-a760-df131b3f199b",
+      "detail": "Project management, resource and time management techniques."
+    },
+    {
+      "knowledgeId": "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+      "detail": "Types of asset maintenance: preventive, predictive, corrective."
+    },
+    {
+      "knowledgeId": "1a590ab0-691b-42cb-9d74-52e212f145c5",
+      "detail": "Risk management and its application to asset management: risk assessment, quantification, mitigation and impact."
+    },
+    {
+      "knowledgeId": "56db378d-005a-4cad-9ad6-217e47705d4d",
+      "detail": "Techniques to assess asset risk; causes and effects: Failure Mode Event/Effects Critically Analysis (FMEA/FMECA), Root cause analysis and Bow Tie analysis."
+    },
+    {
+      "knowledgeId": "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+      "detail": "Legislation: Health and Safety at Work, Environmental Protection. "
+    },
+    {
+      "knowledgeId": "9a3bfc74-7968-4799-b8fa-1707e89d5b07",
+      "detail": "Sustainable development; impact on environment of asset management and asset management activities. "
+    },
+    {
+      "knowledgeId": "5cddd8ef-6686-48c4-8c56-262580ae60e8",
+      "detail": "Supply chain; types of suppliers, their role and contractual relationships."
+    },
+    {
+      "knowledgeId": "956b63c6-c9af-4594-a0f1-55d5eff48e90",
+      "detail": "Collaborative  working techniques: personality types, influencing, negotiating, networking, and equality, diversity and inclusion. "
+    },
+    {
+      "knowledgeId": "7bc59fb8-27b2-42c8-a64d-b934bcb28ff6",
+      "detail": "Communication techniques including plain English – verbal, written and presentation. "
+    },
+    {
+      "knowledgeId": "6d8cd738-a236-43d4-bdf8-c59bc1cf2e26",
+      "detail": "Business ethics including corporate governance, bribery, discrimination, socially responsible organisations."
+    },
+    {
+      "knowledgeId": "62e6babe-7e5d-416d-8a92-d06b5f7cddcf",
+      "detail": "Data analysis and interpretation techniques; data presentation techniques (charts, diagrams and tables)."
+    },
+    {
+      "knowledgeId": "fb26226c-aed0-4f64-a46f-313abb2f76c7",
+      "detail": "Information technology (IT) systems and processes: asset registers, work management systems, word processing, spreadsheets, email, presentation. "
+    },
+    {
+      "knowledgeId": "476d7808-07bd-4abf-af52-404e636c507b",
+      "detail": "Information and data security/management requirements; cyber security, General Data Protection Regulations (GDPR), data protection and integrity. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+      "detail": "Committed to compliance with legislation, asset management standards and company policies. "
+    },
+    {
+      "behaviourId": "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+      "detail": "Focusses on value and outcomes in alignment with organisational objectives and stakeholders’ expectations. "
+    },
+    {
+      "behaviourId": "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+      "detail": "Collaborates, within teams and across disciplines. "
+    },
+    {
+      "behaviourId": "546e0fed-1476-496e-b60b-7077a6201ef6",
+      "detail": "Shares knowledge and good practice, gives and receives feedback, help and support. "
+    },
+    {
+      "behaviourId": "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+      "detail": "Adaptable for example, seeks new ways of working. "
+    },
+    {
+      "behaviourId": "f40c0803-b043-4593-8df8-30f6f47c4591",
+      "detail": "Reliable and self-motivated, takes responsibility for work and seeks to deliver against personal objectives."
+    },
+    {
+      "behaviourId": "60437293-caa8-4c23-a41e-74c49ed376fb",
+      "detail": "Committed to continued professional development. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+      "detail": "Identify the organisation’s context and constraints that affect asset management. "
+    },
+    {
+      "skillId": "b307df49-2b8a-4077-a2f3-258508159166",
+      "detail": "Identify asset service and performance requirements. "
+    },
+    {
+      "skillId": "4e9e0411-5d41-47c6-90c1-3ae1955230f2",
+      "detail": "Estimate and calculate Life Cycle Cost (LCC) or Total Cost of Ownership (TCO) for assets/asset systems. "
+    },
+    {
+      "skillId": "8d670a75-e71e-42f1-b8ae-4d2f68d82864",
+      "detail": "Use techniques to identify interventions for assets/asset system and estimate benefits. "
+    },
+    {
+      "skillId": "bc53d525-315e-43a1-912d-831ccd3cacaf",
+      "detail": "Apply multi criteria decision making methods to proposed intervention options. "
+    },
+    {
+      "skillId": "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+      "detail": "Select and use decision support tools to make asset management recommendations."
+    },
+    {
+      "skillId": "45604966-d2e5-4ec4-ab97-7e8192e103b4",
+      "detail": "Develop asset life-cycle plans including performance monitoring and business case."
+    },
+    {
+      "skillId": "ee7e9180-46b7-4274-9e86-c86a108cd642",
+      "detail": "Classify assets, asset systems, life cycle stages and activities. "
+    },
+    {
+      "skillId": "8736aa9d-8236-4117-81f5-72a94b1eef73",
+      "detail": "Plan and manage projects. "
+    },
+    {
+      "skillId": "f1f50ca3-884a-453e-840f-dc19a403f96e",
+      "detail": "Assess asset health; condition and performance. "
+    },
+    {
+      "skillId": "9b062e54-61a9-4646-9122-4759ef579f6a",
+      "detail": "Select and apply fault finding technique(s) to identify causes and effects of assets/asset system failures. "
+    },
+    {
+      "skillId": "b3334e0c-8116-494e-a631-d5b8b4fe28cf",
+      "detail": "Apply continuous improvement techniques. "
+    },
+    {
+      "skillId": "5ac3b98a-193d-445a-990c-0d7970d8ecb8",
+      "detail": "Assess and quantify asset, asset system and asset management activity-related risks; identify mitigation options. "
+    },
+    {
+      "skillId": "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+      "detail": "Comply with legislation, asset management standards and company policies. "
+    },
+    {
+      "skillId": "15e7dd46-792e-41b0-b210-5e1e1e892156",
+      "detail": "Use information technology systems and processes: for example, asset registers, work management systems, word processing, spreadsheets, email, presentation."
+    },
+    {
+      "skillId": "720669ef-7813-4f87-bec7-3f742b635bfd",
+      "detail": "Collate and analyse asset/asset system data and information. "
+    },
+    {
+      "skillId": "e7460945-9cf7-406b-bb8e-7581e6504cc7",
+      "detail": "Interpret and present data - qualitative and/or quantitative. "
+    },
+    {
+      "skillId": "5a5c1f86-896a-4f57-b64e-58e8d9ec1b62",
+      "detail": "Communicate with colleagues and stakeholders – verbal, written and presentation. "
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual \nEarlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0464",
-  "tbMainContact": "cRoyce@anglianwater.co.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "croyce@anglianwater.co.uk",
+  "involvedEmployers": "AMCL,\r\nAnglian Water,\r\nArups,\r\nBMT Consulting, \r\nCadent Gas,\r\nEnviroment Agency,\r\nJacobs,\r\nManchester Aiports Group (MAG),\r\nMott Mac Donald,\r\nNational Grid Transco,\r\nNetwork Rail,\r\nNorthern Gas Networks,\r\nNWG (Northumbrian Water),\r\nRWE Generation UK plc,\r\nSevern Trent,\r\nThe Woodhouse Partnership,\r\nUK Power Networks",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "typicalJobTitles": [
+    "Acquistion and disposal manager",
+    "Asset and insight manager",
+    "Asset manager",
+    "Asset resilience manager",
+    "Assistant asset manager",
+    "Associate asset manager",
+    "Infrastructure asset manager"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-02-19T10:47:43 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Quality Improvement and Project Control Manager",
+  "createdDate": "2021-01-15T16:27:11 +00:00",
+  "lastUpdated": "2021-01-15T16:27:11 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/asset-manager#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/asset-manager",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Associate",
+      "level": "0",
+      "isPartial": "full",
+      "partialFreeText": "The apprenticeship provides partial alignment for professional recognition. Apprentices should refer to the Institute of Asset Management's current requirements for further details."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "3c1a3dfd-b5c9-497a-a3dc-cd79aa394468",
+      "dutyDetail": "Contribute to the development of asset strategies to meet organisational goals.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+        "1a590ab0-691b-42cb-9d74-52e212f145c5",
+        "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+        "9a3bfc74-7968-4799-b8fa-1707e89d5b07"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "45604966-d2e5-4ec4-ab97-7e8192e103b4",
+        "5ac3b98a-193d-445a-990c-0d7970d8ecb8",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "57e60752-4ddf-4136-b2cc-b7b08a62fcd6",
+      "dutyDetail": "Inform the information management approach, specifications and rules. For example, how to collect data on condition assessment, age profiles and asset failures.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+        "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+        "9a3bfc74-7968-4799-b8fa-1707e89d5b07",
+        "62e6babe-7e5d-416d-8a92-d06b5f7cddcf"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b37b93e2-c972-4b33-a6ac-4307a6afe892",
+      "dutyDetail": "Collate, process and evaluate data and information for assets and asset systems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "cd9e529f-3c2e-46ff-9875-54f5ed20d9fb",
+        "62e6babe-7e5d-416d-8a92-d06b5f7cddcf",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7",
+        "476d7808-07bd-4abf-af52-404e636c507b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4e9e0411-5d41-47c6-90c1-3ae1955230f2",
+        "8d670a75-e71e-42f1-b8ae-4d2f68d82864",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "ee7e9180-46b7-4274-9e86-c86a108cd642",
+        "f1f50ca3-884a-453e-840f-dc19a403f96e",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33c3b898-9ce9-4de4-ae0c-ccd3eb70edba",
+      "dutyDetail": "Conduct assessments of asset systems. Identify current and future risk of the asset and consequential service failure. For example, reviewing the performance of assets, loss of service, failure of legal compliance, asset failure/breakage.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "de1d79c2-a4b8-47fb-bb62-52ae8c300d6c",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "c69a1355-9990-4265-a156-968c2bb04e29",
+        "1a590ab0-691b-42cb-9d74-52e212f145c5",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "4e9e0411-5d41-47c6-90c1-3ae1955230f2",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "ee7e9180-46b7-4274-9e86-c86a108cd642",
+        "8736aa9d-8236-4117-81f5-72a94b1eef73",
+        "f1f50ca3-884a-453e-840f-dc19a403f96e",
+        "5ac3b98a-193d-445a-990c-0d7970d8ecb8",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f6907748-c380-4b7e-9fc3-b0263fa0dcb1",
+      "dutyDetail": "Analyse the root cause of asset failure and the impact upon service.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "963d36d1-f7ca-426c-8b29-cb50d28d6797",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "56db378d-005a-4cad-9ad6-217e47705d4d",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "f1f50ca3-884a-453e-840f-dc19a403f96e",
+        "9b062e54-61a9-4646-9122-4759ef579f6a",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a3f1aa2-fc2f-4f1d-849c-94c6c83b80b9",
+      "dutyDetail": "Identify intervention and mitigation options for the failure of assets. For example, preventative/reactive maintenance, new build, refurbishment, replacement, change in operation, rapid response.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+        "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+        "9a3bfc74-7968-4799-b8fa-1707e89d5b07"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "8d670a75-e71e-42f1-b8ae-4d2f68d82864",
+        "bc53d525-315e-43a1-912d-831ccd3cacaf",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e72ad3e-031c-4d12-b6eb-1ec25b227668",
+      "dutyDetail": "Identify and prioritise the asset needs using for example, whole life cost, cost-benefit analysis, cost effectiveness analysis, multi-criteria decision making and options comparisons.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+        "1a590ab0-691b-42cb-9d74-52e212f145c5"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "4e9e0411-5d41-47c6-90c1-3ae1955230f2",
+        "8d670a75-e71e-42f1-b8ae-4d2f68d82864",
+        "bc53d525-315e-43a1-912d-831ccd3cacaf",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c8aaf84a-8739-4918-b012-0d82a96fde8c",
+      "dutyDetail": "Develop business cases to address investment needs and/or to inform asset management decision making.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "c0676ced-cece-44ab-a760-df131b3f199b",
+        "de8980cc-66ae-45dc-a4cf-783a62ae1234",
+        "1a590ab0-691b-42cb-9d74-52e212f145c5",
+        "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+        "9a3bfc74-7968-4799-b8fa-1707e89d5b07"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "7ee6d32e-2fc5-432b-9d04-ca293555adac",
+        "8736aa9d-8236-4117-81f5-72a94b1eef73",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "720669ef-7813-4f87-bec7-3f742b635bfd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "670fed5f-6202-4356-b6e7-df7c9bd395de",
+      "dutyDetail": "Categorise assets according to common features, consistent with the organisation’s asset management system.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "ee7e9180-46b7-4274-9e86-c86a108cd642",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25c6c5be-517b-4f92-b424-15159b2864d8",
+      "dutyDetail": "Develop impact and contingency plans for asset and/or service failure in consultation with subject matter experts.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "2a4a44ce-7aee-4f4a-b9d7-c8c45792cec0",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0",
+        "c0676ced-cece-44ab-a760-df131b3f199b",
+        "1a590ab0-691b-42cb-9d74-52e212f145c5",
+        "d46cf509-a9a5-4c8c-ba2e-b029c76457ab",
+        "9a3bfc74-7968-4799-b8fa-1707e89d5b07"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "8736aa9d-8236-4117-81f5-72a94b1eef73",
+        "5ac3b98a-193d-445a-990c-0d7970d8ecb8",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7d47bf2b-4bde-4d29-b6dd-c20f9be8cb00",
+      "dutyDetail": "Contribute to reports, for example, internal performance reports, asset management plans, reports to sector specific regulators and certifying bodies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "7bc59fb8-27b2-42c8-a64d-b934bcb28ff6",
+        "62e6babe-7e5d-416d-8a92-d06b5f7cddcf",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5ac3b98a-193d-445a-990c-0d7970d8ecb8",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "e7460945-9cf7-406b-bb8e-7581e6504cc7",
+        "5a5c1f86-896a-4f57-b64e-58e8d9ec1b62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc0e4a91-8d5a-4217-ab70-b140a9b537d4",
+      "dutyDetail": "Undertake assurance to challenge data quality, interpretations and assumptions across asset management.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "62e6babe-7e5d-416d-8a92-d06b5f7cddcf"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a627477f-cdda-493d-8dae-ea33c730595a",
+      "dutyDetail": "Engage with stakeholders to support the asset management process. For example, internal colleagues, customers, technical, economic, and environmental regulators.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "546e0fed-1476-496e-b60b-7077a6201ef6",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "956b63c6-c9af-4594-a0f1-55d5eff48e90",
+        "7bc59fb8-27b2-42c8-a64d-b934bcb28ff6",
+        "6d8cd738-a236-43d4-bdf8-c59bc1cf2e26",
+        "fb26226c-aed0-4f64-a46f-313abb2f76c7",
+        "476d7808-07bd-4abf-af52-404e636c507b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "e7460945-9cf7-406b-bb8e-7581e6504cc7",
+        "5a5c1f86-896a-4f57-b64e-58e8d9ec1b62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "74855dda-00b5-4954-9039-d242ead093d2",
+      "dutyDetail": "Identify opportunities for continuous improvement of asset management systems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "85ed1917-344a-4ca2-8038-9a3d00f46bd5",
+        "f40c0803-b043-4593-8df8-30f6f47c4591",
+        "60437293-caa8-4c23-a41e-74c49ed376fb"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "80d1c18a-aaec-4120-8038-d5cd33316124",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "963d36d1-f7ca-426c-8b29-cb50d28d6797",
+        "b05f8afd-b5ab-4c4f-86cd-7921e3c6837e",
+        "c5e7e4c7-bc9d-49aa-8d3d-8241d5f8ab82",
+        "818f0235-c00b-4966-bf1b-27e72323ffd0"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b307df49-2b8a-4077-a2f3-258508159166",
+        "b3334e0c-8116-494e-a631-d5b8b4fe28cf",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2cf9ccba-a7c4-4715-967e-8d01981211e5",
+      "dutyDetail": "Support the selection of external suppliers, the setting of objectives for suppliers and performance measurement of suppliers within the context of the organisation’s asset management approach.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "546e0fed-1476-496e-b60b-7077a6201ef6",
+        "f40c0803-b043-4593-8df8-30f6f47c4591"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "7bdd73e1-5fe3-4cd6-bf36-0a607c96678a",
+        "c0676ced-cece-44ab-a760-df131b3f199b",
+        "5cddd8ef-6686-48c4-8c56-262580ae60e8",
+        "956b63c6-c9af-4594-a0f1-55d5eff48e90",
+        "7bc59fb8-27b2-42c8-a64d-b934bcb28ff6",
+        "6d8cd738-a236-43d4-bdf8-c59bc1cf2e26",
+        "476d7808-07bd-4abf-af52-404e636c507b"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "8736aa9d-8236-4117-81f5-72a94b1eef73",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e44f955-ec42-4add-921a-cf52c22d4400",
+      "dutyDetail": "Champion the asset management approach, including implementation of the resource and competence strategy, within the organisation to support clear and consistent decision making.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "df4fe0dc-b45f-4f37-a893-a4a422da6ff5",
+        "78f770b2-47e4-4280-8d95-6f1016a4af8d",
+        "c06e053b-bb52-4758-ab80-b741bd13f6e5",
+        "546e0fed-1476-496e-b60b-7077a6201ef6",
+        "f40c0803-b043-4593-8df8-30f6f47c4591",
+        "60437293-caa8-4c23-a41e-74c49ed376fb"
+      ],
+      "mappedKnowledge": [
+        "5eb6b461-2b0d-49e2-b6c3-c2db761a8647",
+        "cd8f5b51-58b5-4c8c-b26c-f51b3cc72dcd",
+        "0ca042fe-ee47-4489-9d71-71f8943b513d",
+        "c0676ced-cece-44ab-a760-df131b3f199b",
+        "5cddd8ef-6686-48c4-8c56-262580ae60e8",
+        "956b63c6-c9af-4594-a0f1-55d5eff48e90",
+        "7bc59fb8-27b2-42c8-a64d-b934bcb28ff6",
+        "6d8cd738-a236-43d4-bdf8-c59bc1cf2e26"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5902145c-04e4-4c1e-b980-7ec3ecd880fc",
+        "8736aa9d-8236-4117-81f5-72a94b1eef73",
+        "7ca4154b-4693-4187-ab30-20ef6139ce5f",
+        "15e7dd46-792e-41b0-b210-5e1e1e892156",
+        "5a5c1f86-896a-4f57-b64e-58e8d9ec1b62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
