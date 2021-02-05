@@ -285,7 +285,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -320,12 +320,14 @@
     {
       "qualificationId": "603/2272/X, 603/2460/0, 603/2367/X, 603/2080/1",
       "title": "Award in Emergency First Aid at Work, which is a minimum of 1 day course",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "bfce8859-b7d2-46d3-b421-260133c49c22",
       "title": "Award in the Safe Use of Brushcutters and Trimmers",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [
