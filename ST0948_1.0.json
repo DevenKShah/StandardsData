@@ -648,7 +648,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -676,12 +676,14 @@
     {
       "qualificationId": "1547064f-fa70-4c7d-b190-59fa49e1555f",
       "title": "Degree in Midwifery or L7 Midwifery qualification approved by the Nursing and Midwifery Council",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "a511c6b3-6b9e-4352-bcce-28232c879591",
       "title": "Degree in Midwifery or L7 Midwifery qualification approved by the Nursing and Midwifery Council",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [
