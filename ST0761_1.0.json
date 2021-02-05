@@ -424,7 +424,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -457,12 +457,14 @@
     {
       "qualificationId": "6099e91c-bf3c-47f5-b879-66a93125fc3d",
       "title": "BASIS-FSTS - Certificate in Crop Protection IPM (Agriculture and Horticulture) – Option 1 (Agronomy and Precision Farming Adviser) ",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "03d0cd7e-b737-4cb3-9316-aba41f2938b1",
       "title": "BASIS-FACTS Certification and Training Scheme (Agriculture and Horticulture) – Option 2 (Nutrition and Fertiliser Adviser)",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [],
