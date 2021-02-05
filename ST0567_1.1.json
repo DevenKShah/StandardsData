@@ -463,7 +463,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -491,12 +491,14 @@
     {
       "qualificationId": "d457d311-46ca-4c21-9c02-b9e79bbb473b",
       "title": "Health and Care Professions Council approved BSc (Hons) Paramedic ",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "b2d3c224-0b4f-4cac-88b0-463042d97da1",
       "title": "Level 3 Certificate in Emergency Response Ambulance Driving Course. This is an Ofqual qualification and is the only mandated qualification that meets regulatory requirements. Individuals would have to complete the Level 3 Certificate in Emergency Response Ambulance Driving Course unless they have already passed either the legacy Institute of Health Care Development (IHCD) Driver training programme or Chief Ambulance Officer approved internal programmes with high speed driving component where candidates can demonstrate current and relevant driving experience. Previous driver training programmes must meet the criteria set out by the Department for Transport for high speed driving in the Road Safety Act.",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [],
