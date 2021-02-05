@@ -177,7 +177,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -205,7 +205,8 @@
     {
       "qualificationId": "6e098ca0-c51c-4499-8249-3cea130b875f",
       "title": "Technical engineering qualification covering at least one of the following areas: Electrical/Electronic Engineering, General Engineering, Manufacturing Engineering, Operations Engineering",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [
