@@ -530,7 +530,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -561,12 +561,14 @@
     {
       "qualificationId": "aac6240e-3894-43e5-a36c-829dbcb6f00e",
       "title": "Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "a87ac7ea-3ab3-4320-8960-015d3769f73e",
       "title": " Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [
