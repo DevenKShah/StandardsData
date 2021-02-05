@@ -233,7 +233,7 @@
   "eQAProvider": {
     "providerName": "Institute for Apprenticeships and Technical Education ",
     "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park\n17 De Havilland Dr\nSpeke\nLiverpool\nL24 8RN",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
     "contactEmail": "EQA@openawards.org.uk",
     "webLink": ""
   },
@@ -261,12 +261,14 @@
     {
       "qualificationId": "3977a075-19d3-46f8-b70b-f9cf95e0c04d",
       "title": "Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     },
     {
       "qualificationId": "ee1e64b2-ac83-4047-b7d8-0468607927ce",
       "title": "Extended Diploma in Advanced Manufacturing Engineering (Development Knowledge) ",
-      "level": "0"
+      "level": "0",
+      "anyAdditionalInformation": null
     }
   ],
   "professionalRecognition": [
