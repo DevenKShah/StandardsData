@@ -198,7 +198,13 @@
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "People 1st International",
+    "contactName": "Sandra Kelly",
+    "contactAddress": "Hospitality House<br>11-59 High Road<br>LONDON<br>N2 8AB",
+    "contactEmail": "Sandra.Kelly@people1st.co.uk",
+    "webLink": "http://www.people1st.co.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
@@ -227,7 +233,7 @@
       "qualificationId": "613edd0a-7524-4531-bdcc-a4f261ba116a",
       "title": "Category 9 Certificate in Dangerous Goods awareness",
       "level": "0",
-      "anyAdditionalInformation": null
+      "anyAdditionalInformation": ""
     }
   ],
   "professionalRecognition": [],
