@@ -10,51 +10,556 @@
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Research, design, craft, construction and fitting of stained glass.",
   "level": 4,
-  "typicalDuration": 0,
+  "typicalDuration": 36,
   "maxFunding": 0,
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Crafts",
+    "creative",
+    "arts",
+    "design",
+    "craftsperson",
+    "construction",
+    "glass",
+    "heritage",
+    "craft",
+    "research"
+  ],
+  "jobRoles": [
+    "Lead Glazier",
+    "Stained Glass Conservator",
+    "Conservation Glazier",
+    "Stained Glass Artist",
+    "Glass Painter",
+    "Stained Glass Designer",
+    "Stained Glass Fabricator",
+    "Stained Glass Craftsperson"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4884/20210128-st0912_stained_glass_craftsperson_l4_ap.pdf",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
   "version": "",
   "standardInformation": "",
   "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;This occupation is found in the creative and decorative arts as well as architectural and construction industries, often within the heritage sector.&lt;span&gt;&#160;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;The term ‘stained glass’ will for ease be used throughout this document. However, the term covers all forms of lead glazing, lead lights, quarry glazing, etc. and encompasses a broad range of techniques e.g. glass painting and staining, printing, enameling, etching, sand blasting, bonding, etc.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Typically, much of the work will take place in a specialist studio with a small amount of work taking place on-site. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Projects may include but are not limited to commissioned stained glass design and construction as well as stained glass repair or restoration. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;The broad purpose of the occupation is the research, design, craft, construction and fitting of stained glass.&lt;span&gt;&#160; &lt;/span&gt;This includes conservation and restoration of stained glass as well as working on new commissions or architectural projects. These projects range from small to large-scale public and private commissions, that can involve the research, design and construction of new and existing stained glass within historical and/or contemporary contexts in public or domestic buildings. The occupation requires skills in dealing with people and working as a member of a team, researching and analysing sometimes historical and technical information, and creativity in designing to include drawing and rendering stained glass cartoons and cutline drawings. In addition to this the occupation requires hand skills in the handling and cutting of glass, glass painting, leading, soldering and cementing. All these skills are considered essential to creating stained glass. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;In their daily work, an employee in this occupation interacts with other members of their team and their supervisor within a workshop setting, and with members of the general public, clients, suppliers and other contractors when discussing projects or working on-site. An employee in this occupation will be required to handle glass artefacts, designs, tools and materials in a responsible and professional manner, and to participate in the maintenance of&lt;span&gt;&#160; &lt;/span&gt;health and safety standards for themselves and their team. They are required to act responsibly, exercise sound judgement and analysis of information and demonstrate good practice in the undertaking of specialist projects which are sometimes of historical significance and value. These standards would apply regardless of the sizes of employer. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Typically, a person in this occupation would be working under supervision from a more senior and experienced team member. Teams are in the main made up of apprentices/trainees&lt;span&gt;&#160; &lt;/span&gt;and a small number of professionals who work under the management of the studio director.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "04922000-9c23-4fe2-810e-a563c827b76d",
+      "detail": "Basic health and safety requirements associated within the workshop and on-site, including COSHH legislation, risk assessment method statements, working at height, use of tools, materials and associated processes."
+    },
+    {
+      "knowledgeId": "f2b4e56d-7b65-4e68-9bcd-48d573cae853",
+      "detail": "The hazards associated with different materials and sustainable waste disposal processes."
+    },
+    {
+      "knowledgeId": "249128e3-9d89-42ee-9bf4-e892e8311e1f",
+      "detail": "The importance and requirements of clear communication to staff team, clients and external colleagues."
+    },
+    {
+      "knowledgeId": "a230112e-d8dd-4e76-9e79-42e38cab1d71",
+      "detail": "The context of each project through research and consider this in your working process. E.g. monetary, historical or cultural value."
+    },
+    {
+      "knowledgeId": "ba368816-98b2-4ace-afac-ff7febd15bf2",
+      "detail": "The developments of artistic styles, processes and materials as well as the wider architectural and historic context of stained glass within a particular building/setting."
+    },
+    {
+      "knowledgeId": "5217c975-504c-45bd-8f7c-65e7e3ba3b66",
+      "detail": "Appropriate research for each project and how to utilise a range of relevant and credible sources."
+    },
+    {
+      "knowledgeId": "0c8407d3-cf3b-4345-88c2-c7ee62cbb7b6",
+      "detail": "The information required to be collected during site visits to enable project work to progress e.g. measurements required and how to use templates."
+    },
+    {
+      "knowledgeId": "175e3937-3e62-431f-a049-c8cb1feb7946",
+      "detail": "The requirements for developing designs and which methods should be used to inform the designs e.g. knowing when to use a rubbing or a cut-line drawing."
+    },
+    {
+      "knowledgeId": "f230f543-3595-4964-a884-2ff4cd1c4d93",
+      "detail": "How to dismantle and assemble glass panels to ensure glass can be removed or replaced without damage."
+    },
+    {
+      "knowledgeId": "25f2157d-7f07-4e7b-8b8d-d16ca4495e3d",
+      "detail": "The importance of accurate documentation e.g. recording of positioning, damage and previous repairs."
+    },
+    {
+      "knowledgeId": "efbae995-876b-48f0-ac9b-671311aecd9f",
+      "detail": "Materials commonly used in architectural glass windows including different types of glass e.g. flash glass, hand blown and machine-made glass."
+    },
+    {
+      "knowledgeId": "9075adac-2f3b-40e4-88b1-26fcfc8a8e32",
+      "detail": "How to safely and correctly cut specialist glass using appropriate hand tools e.g. correct hand positioning when using glass cutter."
+    },
+    {
+      "knowledgeId": "5b11c281-f8bf-42d3-8773-970e1ecb4260",
+      "detail": "Different storage and handling considerations for fragile/large/heavy glass panels."
+    },
+    {
+      "knowledgeId": "31ddf5df-f08f-4407-ad32-3cdf8eeb9677",
+      "detail": "How to select and handle appropriate materials for fabrication. E.g. Lead types."
+    },
+    {
+      "knowledgeId": "f9f2aef8-149d-4301-8d31-4da1106ee2ad",
+      "detail": "How to cut and shape materials when fabricating. E.g. Lead or other materials."
+    },
+    {
+      "knowledgeId": "38e0d778-8a75-4b92-b7ee-9a78a7c9950a",
+      "detail": "How to construct a large-scale architectural glass panel to maximize stability. E.g. lead matrix. "
+    },
+    {
+      "knowledgeId": "004a382a-5e8f-4ccf-bd5b-70feb5af0cde",
+      "detail": "Joining or soldering processes specific to fabrication. E.g. Stained glass fabrication or bonding techniques. "
+    },
+    {
+      "knowledgeId": "8527cbcb-f7a7-4538-aabf-8d928c7e0d66",
+      "detail": "The importance of correct waterproofing procedures and selection of materials. E.g. cementing or sealants."
+    },
+    {
+      "knowledgeId": "b793786d-6585-4879-828c-224344c7e488",
+      "detail": "The importance of building and environmental regulations and security requirements for a window within an architectural context."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "1e50647d-91e7-491e-bde5-ae22abe55b5a",
+      "detail": "Awareness and proactive approach towards the legal health and safety obligations required in the workplace, both individually and towards others."
+    },
+    {
+      "behaviourId": "bf40654e-60b9-4fdf-bcad-9943ba71b841",
+      "detail": "Awareness of effective communication and teamwork within studio and external stakeholder engagements including appreciation of allied trades and how they all contribute to the project."
+    },
+    {
+      "behaviourId": "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+      "detail": "A methodical and organised approach to collecting, clearly presenting and applying research."
+    },
+    {
+      "behaviourId": "e530ce65-7621-410f-861d-665a9ab926cc",
+      "detail": "Maintaining accuracy and an eye for detail when conducting all work."
+    },
+    {
+      "behaviourId": "32cb5ba4-7420-4866-961a-84454597556e",
+      "detail": "Consistently selecting most appropriate methods and ways of working for each project."
+    },
+    {
+      "behaviourId": "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+      "detail": "Maintaining systematic an organised approach to tasks."
+    },
+    {
+      "behaviourId": "31fd165b-3583-4a28-a3db-b6367dc641e0",
+      "detail": "Respect and care of tools and equipment."
+    },
+    {
+      "behaviourId": "8ee83157-c83a-4249-8a37-1e26709d6fad",
+      "detail": "Care and appreciation of the artefact being worked on e.g. sentimental, historic and monetary value."
+    },
+    {
+      "behaviourId": "bac820d7-4168-4422-ba0d-f9f59beb88b7",
+      "detail": "Appreciate own knowledge and skill levels and recognise when the situation may be beyond own capabilities."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e4115ed8-7747-4493-a0c2-f422ebaceb36",
+      "detail": "Apply health and safety precautions associated within the workshop and on-site, including COSHH, safe handling and useage of tools, materials and associated processes, use of PPE, adhering to risk assessment method statements and complying with working at height legislation."
+    },
+    {
+      "skillId": "e0db385a-ff22-4872-9bd5-9e94c5da49dd",
+      "detail": "Clearly communicate information to staff colleagues and external clients/stakeholders."
+    },
+    {
+      "skillId": "dfbdffe5-4ba9-499f-b7c9-41c72d6da1d5",
+      "detail": "Collecting, documenting and applying appropriate research for each project and utilising a range of relevant and credible sources including photography, sketches and note-taking."
+    },
+    {
+      "skillId": "10916b11-0600-4953-9939-5027913614a2",
+      "detail": "Accurately measure widths, heights, bar positions, lead profiles, etc. of openings e.g. using tape measures and fabricating templates of openings."
+    },
+    {
+      "skillId": "381c8196-fea3-4949-96c2-627588ec0320",
+      "detail": "Preparing accurate drawings and cartoons using measurements and templates taken on-site."
+    },
+    {
+      "skillId": "4df84886-d994-4e20-8dc1-0d629322fc2e",
+      "detail": "Create rubbings using paper and wax method to faithfully reproduce original designs."
+    },
+    {
+      "skillId": "eb50b263-9f43-43da-b838-7ab39066644c",
+      "detail": "Accurately and appropriately document existing condition of panel through photography, drawing and note-taking."
+    },
+    {
+      "skillId": "957633e6-1017-4c4e-b1c1-daf0ecb4178f",
+      "detail": "Safely and systematically dismantle or assemble glass panels using the appropriate tools to ensure glass can be removed or re-assembled without damage."
+    },
+    {
+      "skillId": "93eb1f02-0f0f-43ea-93d2-c1034cd49811",
+      "detail": "Safely and correctly cut specialist glass using appropriate hand tools e.g. glass cutter, using appropriate positioning for both hand and type of glass."
+    },
+    {
+      "skillId": "323e7021-38d7-424c-9a2f-ce1a9403a874",
+      "detail": "Ensure correct storage and safe handling is used for fragile/ large/heavy glass panels."
+    },
+    {
+      "skillId": "51329c66-d4ae-4ca6-8451-9b2ff274be98",
+      "detail": "Undertake construction processes appropriate to project including preparation and cleaning. E.g. using a soldering iron for stained-glass or bonding glass elements."
+    },
+    {
+      "skillId": "ad079af3-fd20-4844-95db-74ccd6fef409",
+      "detail": "Application of correct waterproofing procedures, selecting correct materials. E.g. cementing or sealing."
+    },
+    {
+      "skillId": "fec7a970-065a-4e48-81f7-4d9db31f26ad",
+      "detail": "Select and handle correct specialist materials appropriate to the task e.g. flat leads, convex leads."
+    },
+    {
+      "skillId": "11901728-8ab8-45ef-affd-88d5a288943a",
+      "detail": "Safely cut and shape specialist materials using appropriate tools. E.g. lead or glass"
+    },
+    {
+      "skillId": "b5120c46-dad4-47aa-a569-c59f110ab5da",
+      "detail": "Construct using appropriate methods depending on fabricating technique. E.g. lead matrices to maximize stability which ensures longevity."
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "Pete Moss ",
+    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
+    "contactEmail": "EQA@openawards.org.uk",
+    "webLink": ""
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
   "tbReference": "TB0507",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "andy.lane@audit-star.co.uk",
+  "involvedEmployers": "AuditStar, Closed and Redundant Churches, Institute of Science and Arts at UWTSD, Chapel Studio, Holywell Glass, Jonathan and Ruth Cooke Ltd, BSMGP, ICON, UWTSD",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
+  "typicalJobTitles": [
+    "Lead Glazier",
+    "Stained Glass Conservator",
+    "Conservation Glazier",
+    "Stained Glass Artist",
+    "Glass Painter",
+    "Stained Glass Designer",
+    "Stained Glass Fabricator",
+    "Stained Glass Craftsperson"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
   "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-02-19T09:22:47 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
+  "pathway": "Craft and Design",
+  "cluster": "Heritage Specialist",
+  "createdDate": "2021-02-10T11:38:09 +00:00",
+  "lastUpdated": "2021-02-10T11:38:09 +00:00",
   "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/stained-glass-craftsperson#OccupationalStandard",
   "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/stained-glass-craftsperson",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
+  "duties": [
+    {
+      "dutyID": "cea28fb6-b822-4ee0-9941-0c37f9096570",
+      "dutyDetail": "Assess and manage safe use and storage of specialist materials and equipment in line with health & safety policies and support working team in these tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1e50647d-91e7-491e-bde5-ae22abe55b5a"
+      ],
+      "mappedKnowledge": [
+        "04922000-9c23-4fe2-810e-a563c827b76d",
+        "f2b4e56d-7b65-4e68-9bcd-48d573cae853",
+        "31ddf5df-f08f-4407-ad32-3cdf8eeb9677",
+        "f9f2aef8-149d-4301-8d31-4da1106ee2ad"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e4115ed8-7747-4493-a0c2-f422ebaceb36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9267a47-fa75-4328-8890-65380aa156bf",
+      "dutyDetail": "Demonstrate clear and careful communication using good people skills, when giving and receiving instruction both within the project team and with suppliers, customers and clients such as architects and delegates from the Heritage sector.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bf40654e-60b9-4fdf-bcad-9943ba71b841"
+      ],
+      "mappedKnowledge": [
+        "249128e3-9d89-42ee-9bf4-e892e8311e1f"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e0db385a-ff22-4872-9bd5-9e94c5da49dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5bae40e5-ddcf-4895-93ac-32edd89b0d78",
+      "dutyDetail": "Carry out all work within the context of an artefact's value, which may be of sentimental, monetary, historic and / or cultural significance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad"
+      ],
+      "mappedKnowledge": [
+        "a230112e-d8dd-4e76-9e79-42e38cab1d71"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "dfbdffe5-4ba9-499f-b7c9-41c72d6da1d5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f143697e-cb9a-4332-80f8-712f9d12fed2",
+      "dutyDetail": "Demonstrate respect and responsibility for the day to day care of glass and work carefully and responsibly when undertaking the moving, handling, cleaning or protection of artefacts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bf40654e-60b9-4fdf-bcad-9943ba71b841",
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1"
+      ],
+      "mappedKnowledge": [
+        "a230112e-d8dd-4e76-9e79-42e38cab1d71",
+        "ba368816-98b2-4ace-afac-ff7febd15bf2"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "dfbdffe5-4ba9-499f-b7c9-41c72d6da1d5",
+        "323e7021-38d7-424c-9a2f-ce1a9403a874"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8deb5b6f-de7f-4cb1-b3d4-4c3017719c31",
+      "dutyDetail": "Prepare all work, research and documentation required including accurate measurements and/ or templates within studio and on-site.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4"
+      ],
+      "mappedKnowledge": [
+        "5217c975-504c-45bd-8f7c-65e7e3ba3b66",
+        "0c8407d3-cf3b-4345-88c2-c7ee62cbb7b6",
+        "175e3937-3e62-431f-a049-c8cb1feb7946"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "10916b11-0600-4953-9939-5027913614a2",
+        "381c8196-fea3-4949-96c2-627588ec0320",
+        "4df84886-d994-4e20-8dc1-0d629322fc2e",
+        "eb50b263-9f43-43da-b838-7ab39066644c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d619886-d776-4f77-a8b4-5de735e83dc9",
+      "dutyDetail": "Draw up and develop designs, set-out cartoons and take rubbings as required by each project which could include transferring template shape and detail.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4"
+      ],
+      "mappedKnowledge": [
+        "0c8407d3-cf3b-4345-88c2-c7ee62cbb7b6",
+        "175e3937-3e62-431f-a049-c8cb1feb7946"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "10916b11-0600-4953-9939-5027913614a2",
+        "381c8196-fea3-4949-96c2-627588ec0320",
+        "4df84886-d994-4e20-8dc1-0d629322fc2e",
+        "eb50b263-9f43-43da-b838-7ab39066644c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "60482743-7b82-42f0-bcba-9b46d6c642c2",
+      "dutyDetail": "Dismantle or assemble glass panels and document glass condition, location and layout as required for each project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "f230f543-3595-4964-a884-2ff4cd1c4d93",
+        "25f2157d-7f07-4e7b-8b8d-d16ca4495e3d",
+        "31ddf5df-f08f-4407-ad32-3cdf8eeb9677"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "957633e6-1017-4c4e-b1c1-daf0ecb4178f",
+        "323e7021-38d7-424c-9a2f-ce1a9403a874",
+        "51329c66-d4ae-4ca6-8451-9b2ff274be98",
+        "b5120c46-dad4-47aa-a569-c59f110ab5da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f24f01f6-ecfb-4db2-894b-bfae938f9e21",
+      "dutyDetail": "Safely handle sheet glass and leaded panels.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "efbae995-876b-48f0-ac9b-671311aecd9f",
+        "9075adac-2f3b-40e4-88b1-26fcfc8a8e32",
+        "5b11c281-f8bf-42d3-8773-970e1ecb4260",
+        "31ddf5df-f08f-4407-ad32-3cdf8eeb9677",
+        "f9f2aef8-149d-4301-8d31-4da1106ee2ad"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "93eb1f02-0f0f-43ea-93d2-c1034cd49811",
+        "323e7021-38d7-424c-9a2f-ce1a9403a874"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2736024e-ebf6-4509-ad3d-065ad8fcca89",
+      "dutyDetail": "Safely cut a range of specialist glasses and use the correct procedures for specific materials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0"
+      ],
+      "mappedKnowledge": [
+        "efbae995-876b-48f0-ac9b-671311aecd9f",
+        "9075adac-2f3b-40e4-88b1-26fcfc8a8e32",
+        "5b11c281-f8bf-42d3-8773-970e1ecb4260",
+        "f9f2aef8-149d-4301-8d31-4da1106ee2ad"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "93eb1f02-0f0f-43ea-93d2-c1034cd49811",
+        "11901728-8ab8-45ef-affd-88d5a288943a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90e53e11-40e3-46d9-8a53-5661ba55b5af",
+      "dutyDetail": "Handle, cut and assemble specialist materials utilizing appropriate tools and equipment in order to construct architectural glass as required e.g. stained-glass soldering and lead or spacers in double glazed units.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "efbae995-876b-48f0-ac9b-671311aecd9f",
+        "9075adac-2f3b-40e4-88b1-26fcfc8a8e32",
+        "5b11c281-f8bf-42d3-8773-970e1ecb4260",
+        "31ddf5df-f08f-4407-ad32-3cdf8eeb9677",
+        "f9f2aef8-149d-4301-8d31-4da1106ee2ad",
+        "38e0d778-8a75-4b92-b7ee-9a78a7c9950a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "93eb1f02-0f0f-43ea-93d2-c1034cd49811",
+        "323e7021-38d7-424c-9a2f-ce1a9403a874",
+        "11901728-8ab8-45ef-affd-88d5a288943a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1890f8ef-85f5-4d22-8608-74a281be3328",
+      "dutyDetail": "Apply appropriate waterproofing materials to fabricated architectural glass e.g. cement to leaded panels or sealant to double glazed units. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "004a382a-5e8f-4ccf-bd5b-70feb5af0cde",
+        "8527cbcb-f7a7-4538-aabf-8d928c7e0d66",
+        "b793786d-6585-4879-828c-224344c7e488"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "51329c66-d4ae-4ca6-8451-9b2ff274be98",
+        "ad079af3-fd20-4844-95db-74ccd6fef409",
+        "fec7a970-065a-4e48-81f7-4d9db31f26ad",
+        "11901728-8ab8-45ef-affd-88d5a288943a",
+        "b5120c46-dad4-47aa-a569-c59f110ab5da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "91bbeffd-f8d0-48e6-9c73-d8ffbf56edb7",
+      "dutyDetail": "Assist in the tasks required to fit architectural glass within a site and comply with building, environmental and security regulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "38e0d778-8a75-4b92-b7ee-9a78a7c9950a",
+        "b793786d-6585-4879-828c-224344c7e488"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "b5120c46-dad4-47aa-a569-c59f110ab5da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2bc5b7a0-51a0-4723-8a7e-79c2a992f3e6",
+      "dutyDetail": "Ensure a clean working area within the workshop or on-site, maintaining materials and tools in an organised work area.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1e50647d-91e7-491e-bde5-ae22abe55b5a",
+        "529c42d3-8464-44e6-beff-1ef4d67c27e1",
+        "e530ce65-7621-410f-861d-665a9ab926cc",
+        "32cb5ba4-7420-4866-961a-84454597556e",
+        "f7841a7b-6e7b-4213-b9a1-847aec8c84d4",
+        "31fd165b-3583-4a28-a3db-b6367dc641e0",
+        "8ee83157-c83a-4249-8a37-1e26709d6fad",
+        "bac820d7-4168-4422-ba0d-f9f59beb88b7"
+      ],
+      "mappedKnowledge": [
+        "04922000-9c23-4fe2-810e-a563c827b76d",
+        "f2b4e56d-7b65-4e68-9bcd-48d573cae853"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e4115ed8-7747-4493-a0c2-f422ebaceb36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
