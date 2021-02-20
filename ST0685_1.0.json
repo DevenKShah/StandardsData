@@ -1,7 +1,7 @@
 {
   "larsCode": 0,
   "referenceNumber": "ST0685",
-  "title": "Holistic therapist",
+  "title": "Wellbeing and holistic therapist",
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
@@ -10,51 +10,985 @@
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Create, implement and adapt tailored holistic and wellbeing experiences",
   "level": 3,
-  "typicalDuration": 0,
+  "typicalDuration": 20,
   "maxFunding": 0,
   "route": "Hair and beauty",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "beauty",
+    "wellbeing",
+    "holistic",
+    "therapist",
+    "nursing",
+    "medicine",
+    "hair"
+  ],
+  "jobRoles": [
+    "Holistic Therapist",
+    "Wellbeing Therapist",
+    "Spa Therapist"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4904/st0685_wellbeing_holistic_therapist_l3_ap-for-publication_190221.pdf",
   "ssa1": "1 Health, Public Services and Care",
-  "ssa2": "1.1 Medicine and dentistry",
+  "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "",
   "standardInformation": "",
   "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in wellbeing environments; Spa, Leisure, Holistic or Wellness Therapy centres, Medi-spas and Beauty salons, although these environments are expanding due to the continuing demand for lifestyle wellness including para medical, health care environments and businesses implementing wellbeing corporate responsibility. The broad purpose of the occupation is to create, implement and adapt tailored holistic and wellbeing experiences, in a variety of environments, meeting and managing treatment and experience outcomes in private, secure and safe environments. Wellbeing and Holistic therapists complete treatments and wellbeing experiences via holistic therapy principles, theories and applications to calm or stimulate the sensory perceptions of the body and mind in the pursuit of optimal functioning and balance of the physical, emotional and mental aspects of daily life. This results in a dynamic state of equilibrium and wellbeing for the client. Wellbeing therapists deliver specific treatments such as; aromatherapy, acupressure (manual digit pressure massage applied by the hands to specific points on the face or body) and holistic massage (therapeutic hands-on massage therapy that affects the clients physical, emotional and mental wellbeing), Indian head massage, lymphatic drainage and wellness experiences. They provide post treatment aftercare and make future recommendations. They contribute to the commercial viability and effectiveness of the business to enhance the client experience. In their daily work, an employee in this occupation interacts with other health and non-health care practitioners including therapists such as beauty, spa, wellbeing and holistic as part of multi-disciplinary teams and sometimes and clinical specialists. An employee in this occupation will be responsible for the time management of the treatments and wellbeing experiences they deliver, the safety and wellbeing of themselves and the clients. They can work as individuals of as part of diverse teams to provide a wellbeing offering to clients, reporting to a manager or lead practitioner if part of a multi-disciplinary team.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+      "detail": "How to complete an in-depth client lifestyle profile, body and skin analysis including type, condition, Fitzpatrick scale and characteristics, postural analysis and the identification of any postural faults, body shapes and characteristics, lifestyle factors that impact on the calming or stimulation of the sensory perceptions of the body and mind"
+    },
+    {
+      "knowledgeId": "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+      "detail": "Strategies to aid relaxation and manage stress levels and how these are used to improve the client's physical and emotional welfare"
+    },
+    {
+      "knowledgeId": "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+      "detail": "Factors that affect wellbeing therapies including schedules and indicators"
+    },
+    {
+      "knowledgeId": "80108fef-6805-43a9-a84e-19ca744ac49e",
+      "detail": "How to select the most suitable wellbeing and holistic principle to apply, being fully present to maximize the therapy outcome and benefit"
+    },
+    {
+      "knowledgeId": "5ad522c8-0257-449e-99ef-12847e1d256f",
+      "detail": "Factors that contribute to an individual's wellbeing and protective strategies to improve relaxation, stimulate or calm the sensory perception systems of the body to include, sight, touch, sound, smell and taste"
+    },
+    {
+      "knowledgeId": "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+      "detail": "History, principles, theories and applications of holistic, thermal and wellbeing therapies (mind, body and spirit). The origin and purpose of the seven major chakras and meridians and their impact on overall mental, physical and emotional wellbeing in daily life."
+    },
+    {
+      "knowledgeId": "508704d3-d385-4120-9b6d-529ee9fba0c5",
+      "detail": "Benefits and effects of using holistic and wellbeing therapies to maintain wellbeing  compared to the allopathic approach of western cultures"
+    },
+    {
+      "knowledgeId": "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+      "detail": "Awareness of the interdependence of body systems and impact on wellbeing when these systems malfunction and do not operate in harmony."
+    },
+    {
+      "knowledgeId": "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+      "detail": "The importance of the limbic system in the promotion of wellbeing and its impact on an individual"
+    },
+    {
+      "knowledgeId": "872409b4-91e0-40df-81d0-d2c42029b4bf",
+      "detail": "Definition of stress, its symptoms, anatomical pathways, benefits and the long-term harm"
+    },
+    {
+      "knowledgeId": "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+      "detail": "Methods used to reduce and manage the impact of stress and how to recognise an individual's ability to cope with variable levels of stress and anxiety"
+    },
+    {
+      "knowledgeId": "a7511e89-5ea3-4c8d-b416-58968d369165",
+      "detail": "Why it is necessary to complete a client lifestyle profile and how it is used to determine client suitability, indicators and treatment protocols; including environmental and lifestyle factors that impact the human body (integral biology)"
+    },
+    {
+      "knowledgeId": "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+      "detail": "Client treatment considerations, when and how to refer, and how to tailor or adapt treatments and experiences for those clients with a medically diagnosed condition to include; life limiting or threatening conditions such as cancer, diabetes, epilepsy, circulatory disorders,  pregnancy, post-operative care"
+    },
+    {
+      "knowledgeId": "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+      "detail": "Protocol when liaising with or referring a client to other multidisciplinary professionals, following legal requirements for gaining valid client informed consent"
+    },
+    {
+      "knowledgeId": "0c270e25-1391-4deb-8b29-9df695c9f63d",
+      "detail": "How to support, manage and maintain own wellness and wellbeing"
+    },
+    {
+      "knowledgeId": "d4309425-cc6c-4d2e-b024-81d081975e2e",
+      "detail": "Environmental conditions for holistic treatments and wellbeing experiences, including multi-sensory such as heating, ventilation, ambiance, smell, visuals, light, sound and aroma"
+    },
+    {
+      "knowledgeId": "0e80ba8b-365b-47e3-ac28-45b1f3fbd7bf",
+      "detail": "Environmentally sustainable working practices"
+    },
+    {
+      "knowledgeId": "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+      "detail": "The signs and symptoms of a healing crisis, how to manage the impact with clients and the range of aftercare, homecare and future recommendations"
+    },
+    {
+      "knowledgeId": "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+      "detail": "Legal, organisational and health and safety requirements relevant to this occupation including:•\tHealth and Safety at Work Act 1974•\tThe Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR) 1995•\tThe Health and Safety (First Aid) Regulations 1981•\tThe Regulatory Reform (Fire Safety) Order 2005•\tThe Manual Handling Operations Regulations 1992•\tThe Control of Substances Hazardous to Health Regulations (COSHH) 2002•\tThe Electricity at Work Regulations 1989•\tThe Environmental Protection Act 1990•\tThe Management of Health and Safety at Work Regulations 1999•\tThe Health and Safety (Information for Employees) Regulations 1989•\tThe Local Government (Miscellaneous Provisions) Act 1982"
+    },
+    {
+      "knowledgeId": "798666a1-3c6a-4d6a-a11e-1726b6a881b7",
+      "detail": "Types of holistic therapy treatments and wellbeing experiences, including Indian head massage, lymphatic drainage massage, aromatherapy, fundamental energy-based therapies and treatments (touch or touchless therapies and treatments that promote balance and harmony between the physical, mental and emotional aspects of an individual, promoting improved wellbeing for example diaphragmatical breathing, crystal and chakra methodologies), manual acupressure, zone therapy (principles that there are zones mapped throughout the body that can have therapeutic effects on a corresponding reflex area accessed via the feet, face or hands, by stimulation of applying pressure to a point or zone), holistic touch therapies and holistic massage"
+    },
+    {
+      "knowledgeId": "88deb186-e43e-407b-85a6-2a60439fb2fe",
+      "detail": "The types of massage mediums, for example oils or other emollient, their composition, when and how to use them safely"
+    },
+    {
+      "knowledgeId": "8e631963-423c-4654-aaf7-c7b39694c08c",
+      "detail": "How to choose, use and blend aromatherapy essential oils (20 oils) safely and for specific therapeutic benefits"
+    },
+    {
+      "knowledgeId": "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+      "detail": "How to recognise contra-indications that would prevent or restrict a treatment"
+    },
+    {
+      "knowledgeId": "b674b367-3d2d-41eb-b996-d47e86cc71e2",
+      "detail": "Purpose of sensitivity/allergy or tactile tests and how to conduct these"
+    },
+    {
+      "knowledgeId": "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+      "detail": "How to prepare the treatment area and client for holistic and thermal therapy treatments and wellbeing experiences"
+    },
+    {
+      "knowledgeId": "33a2460c-1e9a-4a88-8d43-8f1e9a559efc",
+      "detail": "Areas of the body that may require support and cushioning during treatment, how and when to provide it"
+    },
+    {
+      "knowledgeId": "e17431f9-c76c-42b0-93fa-c1f0a691d5dd",
+      "detail": "Preparation requirements and relevance of temperature management within treatments and experiences"
+    },
+    {
+      "knowledgeId": "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+      "detail": "How to adapt and vary treatment techniques, sequence, rhythm and depth to meet the client's physical and emotional characteristics and treatment"
+    },
+    {
+      "knowledgeId": "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+      "detail": "Benefits and effects (physical and psychological) of holistic and thermal therapy treatments and wellbeing experiences"
+    },
+    {
+      "knowledgeId": "82306127-6697-49f8-b08d-59ec268a1e80",
+      "detail": "How to recognise contra-actions and the remedial action to take if contra-actions, discomfort or healing crisis occur during the treatment or experience and those that occur as a result of poor practice"
+    },
+    {
+      "knowledgeId": "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+      "detail": "The importance of checking and maintaining the client’s wellbeing throughout the treatment including allowing sufficient post-treatment recovery time"
+    },
+    {
+      "knowledgeId": "223e8567-1652-4d96-8947-eca554b23bd7",
+      "detail": "The range of services, products, tools and equipment available for holistic treatments and wellbeing experiences"
+    },
+    {
+      "knowledgeId": "5a46a749-e118-42ca-b358-cd0c5dcafdfa",
+      "detail": "Recommended operating procedures for the use of water in treatments"
+    },
+    {
+      "knowledgeId": "2d2d2582-f530-4695-9546-6aafb52c6d00",
+      "detail": "How to test and interpret results of water and chemical concentrations for water experiences and the protocol for managing water-based treatments"
+    },
+    {
+      "knowledgeId": "1a501f51-bf73-4d10-bbac-8a735b13f35d",
+      "detail": "Precautions of using heat (thermal) treatments"
+    },
+    {
+      "knowledgeId": "0ad15879-677b-4a04-a9e1-df453cf0677b",
+      "detail": "The types of pre-heat treatments, their effects and how to perform them. This includes sauna, steam and infra-red"
+    },
+    {
+      "knowledgeId": "5a74185d-4b2d-45f2-bec3-4ac0cb1efbb1",
+      "detail": "Temperature based treatments, directly or indirectly applied including cold (cryo) and heat (thermal) treatments, the tools that can be used (body wraps, salt, shell, lava, marble, poultice, stone) and the effects on the skin, circulatory and bodily systems"
+    },
+    {
+      "knowledgeId": "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+      "detail": "Physiological and psychological effects of colour therapy, their effect on the mind and overall mood of the individual and how they can be used in wellbeing experiences"
+    },
+    {
+      "knowledgeId": "1668054d-3148-483a-9cbf-b0111f14d832",
+      "detail": "Definition of a Spa, the use and benefits of common treatments and experiences for example Sauna, steam, hydro, hamam traditional spa, thalasso pools, floatation and colour and emerging trends"
+    },
+    {
+      "knowledgeId": "80f463ad-7132-47c2-8564-9f6e19b28b68",
+      "detail": "Suppliers' and manufacturers' instructions for the safe use of equipment, tools, materials and products"
+    },
+    {
+      "knowledgeId": "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff",
+      "detail": "Types of pre and post treatment advice, recommendations and restrictions to include:•\tpre and post treatment, time intervals and follow- up procedures•\taftercare products•\tavoidance of activities that may cause contra-actions or that reduce treatment benefits•\tproducts and homecare routines/ treatments"
+    },
+    {
+      "knowledgeId": "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+      "detail": "How to evaluate the wellbeing impact in order to provide future holistic treatment and lifestyle recommendations"
+    },
+    {
+      "knowledgeId": "87f1c38d-7aed-4e4b-a1c6-a586173df019",
+      "detail": "Principles of improving the client’s wellbeing and self-help strategies to enhance the client experience and overall treatment results"
+    },
+    {
+      "knowledgeId": "e17165e5-06f1-42d0-95fc-7a32d916583b",
+      "detail": "Types of promotional activities that can be used to maximise business profit, including how to promote additional products, services and treatments to new and existing clients"
+    },
+    {
+      "knowledgeId": "2fd21691-6003-4fdd-bfea-c588dfdfb817",
+      "detail": "How to adjust performance to meet targets consistently and within the agreed timescale by reviewing and recording progress"
+    },
+    {
+      "knowledgeId": "2c4ee0c6-d692-4c70-9961-065319effde1",
+      "detail": "Salon business procedures that safely control work operations, the management of systems and processes"
+    },
+    {
+      "knowledgeId": "62684398-39da-4833-9adf-7064b5385695",
+      "detail": "What constitutes continuing professional development (CPD), Why and how to access CPD and the importance of keeping up to date"
+    },
+    {
+      "knowledgeId": "e212b29e-e3be-469d-8668-893ee0081f12",
+      "detail": "The ageing process of the skin, the effects and impact of environmental, genetic and lifestyle choices on the structure, function and interdependence of the human body skin, hair and nails"
+    },
+    {
+      "knowledgeId": "07c1c1d3-f3c5-43fb-be5d-1ef329377e82",
+      "detail": "The interdependence and effects anatomical systems have on the systems independently and combined when completing Holistic therapy treatments and wellbeing experiences"
+    },
+    {
+      "knowledgeId": "1d452689-1ae8-4665-a7ac-ef80b28321ed",
+      "detail": "The organisation of the body, anatomical terminology, regions, related terms and anatomical structure, functions, and pathologies of:•\tcells and cell division and tissue types•\tskin, skin appendages, hair and nails •\tthe skeletal system including classification and structure, location of bones, types of joints and movement •\tthe muscular system including classification, location and action of the primary muscles of the face and body •\tthe cardiovascular system including composition and functions of the blood and primary blood vessels of the body •\tthe lymphatic system including the lymphatic organs, location of lymphatic nodes and ducts •\tthe central and autonomic nervous systems •\trespiratory system •\tolfactory system and limbic system •\tdigestive system including processes of digestion •\tendocrine system •\trenal and reproductive systems including key stages of the human reproductive cycle"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "2531e00a-bb52-4280-8c70-e33f6c570720",
+      "detail": "Owns their work, is proactive and responsible"
+    },
+    {
+      "behaviourId": "60a575d3-5693-4a3c-80d9-40745a08f14b",
+      "detail": "Maintains professional ethics: integrity, respect, empathy, client confidence, confidentiality and discretion"
+    },
+    {
+      "behaviourId": "b2b7894d-1975-4b8e-bd82-5e975268b909",
+      "detail": "Contributes ideas, leads by example and acts as an ambassador for the organisation and industry"
+    },
+    {
+      "behaviourId": "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7",
+      "detail": "Communicates appropriately, is helpful and courteous at all times and adapts behaviour in response to each client and situation"
+    },
+    {
+      "behaviourId": "fdf09d40-f34a-427f-93c0-d96dcef92ab3",
+      "detail": "Proactively manages and maintains own wellbeing"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "986145a9-8043-49e8-873f-d53f4056baaf",
+      "detail": "Complete an in-depth dynamic client profile consultation from which wellbeing therapies and treatment experience schedules are created"
+    },
+    {
+      "skillId": "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+      "detail": "Communicate verbally with clients to build and maintain trust"
+    },
+    {
+      "skillId": "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+      "detail": "Obtain, provide and collate accurate and relevant information"
+    },
+    {
+      "skillId": "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+      "detail": "Conduct allergy, sensitivity and tactile tests to establish suitability for treatment"
+    },
+    {
+      "skillId": "fb2920db-a3d7-4095-821f-e93bc0b75823",
+      "detail": "Comply with organisational operations to meet legal, regulatory, licensing and or local rules, industry requirements, treatment protocols, manufacturers' instructions and guidance"
+    },
+    {
+      "skillId": "bbd01c4c-5534-4728-af45-07b8274dd432",
+      "detail": "Manage manual and electronic client records ensuring that they are completed, signed, maintained and stored accurately in accordance with legal and organisational operations"
+    },
+    {
+      "skillId": "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+      "detail": "Apply safe and effective methods of working by •\tmaintaining personal hygiene, protection and presentation•\tmaintaining client confidentiality and discretion before, during and after the therapy treatments and experiences•\tpositioning the client to meet the needs of the schedule•\tensuring own posture and working methods minimise fatigue and the risk of injury to self and client•\tensuring environmental conditions are suitable for the client and the treatment•\tkeeping work area clean and tidy (products, tools and equipment)•\tusing working methods that minimise the risk of cross-infection•\tpromoting environmental and sustainable working practices•\tdisposal of waste materials to meet legal requirements"
+    },
+    {
+      "skillId": "38604082-89a0-4264-b0c2-ba005899756f",
+      "detail": "Prepare the treatment environment to calm or stimulate the multi-sensory perceptions of the body and mind such as sight, touch, sound, taste and smell"
+    },
+    {
+      "skillId": "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+      "detail": "Implement and complete risk assessment protocols in relation to the environment, therapy or treatment"
+    },
+    {
+      "skillId": "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+      "detail": "Liaise with colleagues and non-health care and health care practitioners"
+    },
+    {
+      "skillId": "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+      "detail": "Prepare the client for holistic treatment or experience, whilst maintaining client's discretion, modesty and privacy"
+    },
+    {
+      "skillId": "42d1cba9-f8eb-4489-90db-e1345566099e",
+      "detail": "Perform and adapt advanced manual therapy techniques (face, scalp and body), to meet client's physical and psychological characteristics, treatment objectives (relaxing, wellbeing, uplifting, detoxifying and stimulating), needs and expectations. This includes effleurage, petrissage, tapotement, vibration and friction; deep tissue, light touch and advanced techniques using the forearm, wrist and elbow"
+    },
+    {
+      "skillId": "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+      "detail": "Choose massage mediums to include the selection, blending and the application of aromatherapy essential oils"
+    },
+    {
+      "skillId": "97ec930a-3691-4fd5-8036-dc554e7db597",
+      "detail": "Maintain client comfort and care by checking the client's wellbeing before, during and after the therapy or treatment and allowing sufficient post-treatment recovery time"
+    },
+    {
+      "skillId": "71056ff8-0526-4075-a03b-481e54447434",
+      "detail": "Perform wellness and holistic therapy treatments, adapting these according to client needs. These include Indian head massage, lymphatic drainage massage, acupressure techniques, holistic massage, aromatherapy"
+    },
+    {
+      "skillId": "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+      "detail": "Perform and adapt thermal therapy treatments for improving the clients physical and emotional welfare and wellbeing to include body treatments, heat experiences and pre-treatments in preparation for further treatments"
+    },
+    {
+      "skillId": "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+      "detail": "Perform and adapt holistic treatments to treat clients with variable needs, including those with specific health issues for example cancer, diabetes, life limiting or life-threatening conditions ensuring consent has been established with other multi-disciplinary professional teams"
+    },
+    {
+      "skillId": "0f0f2fbb-6c98-4fe5-8347-e774344290c6",
+      "detail": "Select, prepare, use and adapt the relevant products, tools and equipment for the wellbeing therapy, and treatment duration to suit the client's sensitivity, tolerance, body condition, lifestyle profile, physical and emotional wellbeing"
+    },
+    {
+      "skillId": "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+      "detail": "Advise on the environmental and lifestyle factors that impact the human body (integral biology) systems and their effects on an individual's ability to cope with the normal and abnormal activities of daily living that give greater physical, mental and emotional resilience"
+    },
+    {
+      "skillId": "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
+      "detail": "Resolve problems that may occur during the treatments and wellbeing experiences recognising and dealing with contractions, and refer when required"
+    },
+    {
+      "skillId": "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+      "detail": "Identify, resolve and report organisational operational problems within the scope of responsibility"
+    },
+    {
+      "skillId": "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3",
+      "detail": "Provide detailed written, post wellbeing treatment and thermal therapy treatment advice, instructions  and recommendations to include: post treatment and follow- up procedures, client self-care principles , aftercare products, avoidance of activities that may cause contra-actions or that reduce treatment benefits, time intervals between treatments, present and future products, homecare routines/treatments"
+    },
+    {
+      "skillId": "467545be-bb91-44a3-a03f-20a14c63c262",
+      "detail": "Evaluate the outcome of the wellbeing treatment or experience in order to improve the condition of the client’s physical and emotional welfare and wellbeing and inform further recommendations"
+    },
+    {
+      "skillId": "77411249-5184-4a57-aa00-5c36bd34d6e3",
+      "detail": "Meet personal and organisational targets within the agreed timescale, and evaluating the findings by reviewing and recording progress"
+    },
+    {
+      "skillId": "a62f62ce-9b64-45a6-97ed-be96ffa0cee9",
+      "detail": "Manage own continuing professional development (CPD) incorporating research, professional practice and progression"
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "Caroline.Larissey@nhf.info",
-  "involvedEmployers": "Hammer Holdings / Urban Retreat, National Hairdressers Federation, Armonia Health and Beauty, SAKS, Dermalogica, Ragdale Hall, Guinot-Mary Cohr UK Ltd, Boots, Sterex, UR Beautiful, Kenneth Green, Clarins, Estetics, Champneys, Aqua Sana, Hoar Cross Hall, National Police Chartered Institute for personnel and development",
+  "tbReference": "TB0045",
+  "tbMainContact": "caroline.larissey@nhbf.co.uk",
+  "involvedEmployers": "Urban Retreat, Armonia Health and Beauty, NHBF, Ragdale Hall, SAKS, Guinot-Mary Cohr UK Ltd, Dermalogica, Aqua Sana (Center parcs), Champneys, UR Beautiful, Clarins, Hoar Cross Hall, Estetics, Boots, National Police Chartered Institute for personnel and development, NHBF, FHT, Habia, City and Guilds, CIBTAC, VTCT",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2018-11-16T14:58:44 +00:00",
-  "lastUpdated": "2018-11-16T14:58:44 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/holistic-therapist#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/holistic-therapist",
+  "typicalJobTitles": [
+    "Holistic Therapist",
+    "Wellbeing Therapist",
+    "Spa Therapist"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Hair, Beauty and Aesthetics",
+  "cluster": "Beauty Therapist",
+  "createdDate": "2021-02-19T11:48:48 +00:00",
+  "lastUpdated": "2021-02-19T11:48:48 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wellbeing-and-holistic-therapist#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wellbeing-and-holistic-therapist",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
+  "duties": [
+    {
+      "dutyID": "0274b1fa-70ca-4101-a44d-0c9637dc8ef2",
+      "dutyDetail": "Develop and create client lifestyle profiles from which holistic therapy treatments and wellbeing experience schedules can be produced, in pursuit of optimal functioning and balance of the physical, emotional and mental aspects of daily life resulting in a dynamic state of equilibrium and wellbeing for the client",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "80108fef-6805-43a9-a84e-19ca744ac49e",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "872409b4-91e0-40df-81d0-d2c42029b4bf",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+        "798666a1-3c6a-4d6a-a11e-1726b6a881b7",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "e17431f9-c76c-42b0-93fa-c1f0a691d5dd",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+        "223e8567-1652-4d96-8947-eca554b23bd7",
+        "0ad15879-677b-4a04-a9e1-df453cf0677b",
+        "5a74185d-4b2d-45f2-bec3-4ac0cb1efbb1",
+        "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "986145a9-8043-49e8-873f-d53f4056baaf",
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "38604082-89a0-4264-b0c2-ba005899756f",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "0f0f2fbb-6c98-4fe5-8347-e774344290c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cae67bcf-2b41-404a-a994-336ed6c3f4db",
+      "dutyDetail": "Plan holistic, thermal treatments (heat applied by direct or indirect means) and wellbeing experience schedules, both singularly or as courses of treatments embedding holistic principles, theories and applications",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "80108fef-6805-43a9-a84e-19ca744ac49e",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "872409b4-91e0-40df-81d0-d2c42029b4bf",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+        "0c270e25-1391-4deb-8b29-9df695c9f63d",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+        "798666a1-3c6a-4d6a-a11e-1726b6a881b7",
+        "88deb186-e43e-407b-85a6-2a60439fb2fe",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11f2c294-7fbe-4147-a08f-2f6b8acf5cb7",
+      "dutyDetail": "Treat clients with variable needs, including those with specific health issues. Ensuring any required consent has been established with other multi-disciplinary professionals",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+        "d4309425-cc6c-4d2e-b024-81d081975e2e",
+        "0e80ba8b-365b-47e3-ac28-45b1f3fbd7bf",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "82306127-6697-49f8-b08d-59ec268a1e80",
+        "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+        "1a501f51-bf73-4d10-bbac-8a735b13f35d",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68",
+        "07c1c1d3-f3c5-43fb-be5d-1ef329377e82"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "986145a9-8043-49e8-873f-d53f4056baaf",
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+        "97ec930a-3691-4fd5-8036-dc554e7db597",
+        "71056ff8-0526-4075-a03b-481e54447434",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "0f0f2fbb-6c98-4fe5-8347-e774344290c6",
+        "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4631aa53-1304-421c-8219-8d06b7f4441e",
+      "dutyDetail": "Provide holistic therapy treatments and wellness experiences for improving the condition of the client's physical and emotional welfare and wellbeing, utilising fundamental relaxation techniques, strategies and stress management to include: Indian head massage, lymphatic drainage massage, aromatherapy (using 20 oils essential oils), manual acupressure massage (digit pressure massage applied by the hands to specific points on the face or body) and holistic massage  (therapeutic hands-on massage therapy that affects the clients physical, emotional and mental wellbeing) to induce, relaxation, improve circulation, promote skin healing and energise",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "80108fef-6805-43a9-a84e-19ca744ac49e",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+        "0c270e25-1391-4deb-8b29-9df695c9f63d",
+        "d4309425-cc6c-4d2e-b024-81d081975e2e",
+        "0e80ba8b-365b-47e3-ac28-45b1f3fbd7bf",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+        "798666a1-3c6a-4d6a-a11e-1726b6a881b7",
+        "88deb186-e43e-407b-85a6-2a60439fb2fe",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "b674b367-3d2d-41eb-b996-d47e86cc71e2",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "e17431f9-c76c-42b0-93fa-c1f0a691d5dd",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+        "82306127-6697-49f8-b08d-59ec268a1e80",
+        "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+        "223e8567-1652-4d96-8947-eca554b23bd7",
+        "0ad15879-677b-4a04-a9e1-df453cf0677b",
+        "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68",
+        "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "87f1c38d-7aed-4e4b-a1c6-a586173df019",
+        "e17165e5-06f1-42d0-95fc-7a32d916583b",
+        "e212b29e-e3be-469d-8668-893ee0081f12",
+        "07c1c1d3-f3c5-43fb-be5d-1ef329377e82",
+        "1d452689-1ae8-4665-a7ac-ef80b28321ed"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "986145a9-8043-49e8-873f-d53f4056baaf",
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "38604082-89a0-4264-b0c2-ba005899756f",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+        "97ec930a-3691-4fd5-8036-dc554e7db597",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "0f0f2fbb-6c98-4fe5-8347-e774344290c6",
+        "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+        "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b194ff99-6b73-4d6d-96c3-d09522505eb5",
+      "dutyDetail": "Provide thermal (heat) treatments and wellness experiences, applied by direct or indirect means, to improve the condition of the client's physical and emotional welfare and wellbeing to include: body treatments, heat experiences and pre-treatments in preparation for further treatments",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "c8bc534b-f5bd-4ee7-87da-0ac7cb2a5fd9",
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "80108fef-6805-43a9-a84e-19ca744ac49e",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "872409b4-91e0-40df-81d0-d2c42029b4bf",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "0c270e25-1391-4deb-8b29-9df695c9f63d",
+        "d4309425-cc6c-4d2e-b024-81d081975e2e",
+        "0e80ba8b-365b-47e3-ac28-45b1f3fbd7bf",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "b674b367-3d2d-41eb-b996-d47e86cc71e2",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "33a2460c-1e9a-4a88-8d43-8f1e9a559efc",
+        "e17431f9-c76c-42b0-93fa-c1f0a691d5dd",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+        "82306127-6697-49f8-b08d-59ec268a1e80",
+        "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+        "223e8567-1652-4d96-8947-eca554b23bd7",
+        "5a46a749-e118-42ca-b358-cd0c5dcafdfa",
+        "2d2d2582-f530-4695-9546-6aafb52c6d00",
+        "1a501f51-bf73-4d10-bbac-8a735b13f35d",
+        "0ad15879-677b-4a04-a9e1-df453cf0677b",
+        "5a74185d-4b2d-45f2-bec3-4ac0cb1efbb1",
+        "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+        "1668054d-3148-483a-9cbf-b0111f14d832",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68",
+        "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "87f1c38d-7aed-4e4b-a1c6-a586173df019",
+        "e17165e5-06f1-42d0-95fc-7a32d916583b",
+        "e212b29e-e3be-469d-8668-893ee0081f12",
+        "07c1c1d3-f3c5-43fb-be5d-1ef329377e82",
+        "1d452689-1ae8-4665-a7ac-ef80b28321ed"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "986145a9-8043-49e8-873f-d53f4056baaf",
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e4c42bd7-2e25-4575-bf8c-1bc6504e7442",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "38604082-89a0-4264-b0c2-ba005899756f",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+        "71056ff8-0526-4075-a03b-481e54447434",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "0f0f2fbb-6c98-4fe5-8347-e774344290c6",
+        "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9e3a7a99-5f6d-4aa6-a997-89286d8c6c67",
+      "dutyDetail": "Use and apply a range of holistic therapy and wellness experiences, products, tools and equipment to provide holistic therapy treatments and wellness experiences",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b"
+      ],
+      "mappedKnowledge": [
+        "798666a1-3c6a-4d6a-a11e-1726b6a881b7",
+        "88deb186-e43e-407b-85a6-2a60439fb2fe",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+        "223e8567-1652-4d96-8947-eca554b23bd7",
+        "0ad15879-677b-4a04-a9e1-df453cf0677b",
+        "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "97ec930a-3691-4fd5-8036-dc554e7db597",
+        "71056ff8-0526-4075-a03b-481e54447434",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79af64c7-9879-42f3-acad-3df8ad788ee0",
+      "dutyDetail": "Use and apply a range of thermal therapy techniques, products, tools and equipment to provide thermal treatments",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b"
+      ],
+      "mappedKnowledge": [
+        "88deb186-e43e-407b-85a6-2a60439fb2fe",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "b674b367-3d2d-41eb-b996-d47e86cc71e2",
+        "c8d11b34-b501-4d4c-8f63-96539b534f5c",
+        "33a2460c-1e9a-4a88-8d43-8f1e9a559efc",
+        "e17431f9-c76c-42b0-93fa-c1f0a691d5dd",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "6f3ea807-d370-48a2-a4b2-982921e9c2aa",
+        "1a501f51-bf73-4d10-bbac-8a735b13f35d",
+        "0ad15879-677b-4a04-a9e1-df453cf0677b",
+        "1668054d-3148-483a-9cbf-b0111f14d832",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68",
+        "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "07c1c1d3-f3c5-43fb-be5d-1ef329377e82"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "71056ff8-0526-4075-a03b-481e54447434",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "356c24ed-c062-4f71-9670-cf6cc3e8e319",
+      "dutyDetail": "Modify and adapt holistic and thermal treatments and wellness experiences based on client feedback and reaction during treatments. maintaining the client's wellbeing",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
+      ],
+      "mappedKnowledge": [
+        "d078b43a-3f2b-4b59-9db7-d86eb732c3c5",
+        "80108fef-6805-43a9-a84e-19ca744ac49e",
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "872409b4-91e0-40df-81d0-d2c42029b4bf",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "a7511e89-5ea3-4c8d-b416-58968d369165",
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e",
+        "0c270e25-1391-4deb-8b29-9df695c9f63d",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "2e8967c8-136f-45ad-b768-fc4b393ceb0d",
+        "33a2460c-1e9a-4a88-8d43-8f1e9a559efc",
+        "1478c60c-97e9-403e-acfc-c5cc89e1ccde",
+        "82306127-6697-49f8-b08d-59ec268a1e80",
+        "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+        "1c9242e4-512d-41df-ad0c-d7dbf6832653",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "87f1c38d-7aed-4e4b-a1c6-a586173df019"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5f7b713a-63b2-4797-812d-20a2bcbe0a8c",
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644",
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+        "b52aec08-3839-4da7-bb3f-9f4efd67fb1c",
+        "42d1cba9-f8eb-4489-90db-e1345566099e",
+        "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+        "97ec930a-3691-4fd5-8036-dc554e7db597",
+        "71056ff8-0526-4075-a03b-481e54447434",
+        "2a08e448-66b0-498e-a20e-dc66b8104f7b",
+        "6c4ee6ca-9ebf-420a-8548-b31854ec23fc",
+        "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+        "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6e13c089-5ebc-4c58-9f13-2c031b3d8a57",
+      "dutyDetail": "Provide advice on immediate post treatment aftercare and future recommendations, including advice regarding healing crisis as a result of holistic or thermal therapy treatments and experiences",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
+      ],
+      "mappedKnowledge": [
+        "5ad522c8-0257-449e-99ef-12847e1d256f",
+        "2c7b25fe-79b0-4ae0-bb23-5027c1aa3ef2",
+        "508704d3-d385-4120-9b6d-529ee9fba0c5",
+        "2dc1b10f-3b74-4133-83c3-8c093764d8d0",
+        "f6857d21-f7e1-4b8e-ad7f-815f58512237",
+        "872409b4-91e0-40df-81d0-d2c42029b4bf",
+        "6e0cdf06-58f5-49a6-af7c-d320b5eb56ae",
+        "62d066e4-e2d8-40a5-9417-b84e1f50b2b3",
+        "82306127-6697-49f8-b08d-59ec268a1e80",
+        "b8ee360c-bff8-49a5-a4c0-36c1fd6fdd2d",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "87f1c38d-7aed-4e4b-a1c6-a586173df019"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de",
+        "cb1aac6c-23d0-4650-85e9-7235e2b4e3fd",
+        "0f0f2fbb-6c98-4fe5-8347-e774344290c6",
+        "d735109d-a2ea-4782-b7cf-4f42fa2bdff2",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c7dcf863-4221-4853-934a-863d8c4fa264",
+      "dutyDetail": "Adhere to health and safety, legal and organisational requirements, treatment protocols and manufacturer instructions relating to holistic, thermal and wellbeing experiences and therapies",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "0488d9ce-fdb0-47ad-b0a4-1db8057c46b7"
+      ],
+      "mappedKnowledge": [
+        "e032ddd3-7be4-4da1-abb8-421f8c72d1b9",
+        "5a46a749-e118-42ca-b358-cd0c5dcafdfa",
+        "2d2d2582-f530-4695-9546-6aafb52c6d00",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "e0157f8b-9a9f-4b3d-9f8f-afb54ee9e1ad",
+        "fb2920db-a3d7-4095-821f-e93bc0b75823",
+        "bbd01c4c-5534-4728-af45-07b8274dd432",
+        "baca1a08-ad23-4e11-8020-4cb5cb7b3256"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b783e5f-260c-4ba5-9902-9835c89001e7",
+      "dutyDetail": "Contribute to promoting the business, its products and services to drive business growth and client satisfaction",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "b2b7894d-1975-4b8e-bd82-5e975268b909"
+      ],
+      "mappedKnowledge": [
+        "223e8567-1652-4d96-8947-eca554b23bd7",
+        "4e7e80c4-8274-4706-a2b4-5ce5a24d0aff",
+        "5a337ea3-bfd0-4546-b891-2eda44a7eaef",
+        "87f1c38d-7aed-4e4b-a1c6-a586173df019",
+        "e17165e5-06f1-42d0-95fc-7a32d916583b",
+        "2fd21691-6003-4fdd-bfea-c588dfdfb817"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3",
+        "467545be-bb91-44a3-a03f-20a14c63c262",
+        "77411249-5184-4a57-aa00-5c36bd34d6e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90b5305d-dd72-4af8-a75b-a41365923281",
+      "dutyDetail": "Perform, implement and complete risk assessment protocols in relation to the client, treatment and environment",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "fd2f1051-c016-47fa-84f3-176a10b6f8e6",
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "0e80ba8b-365b-47e3-ac28-45b1f3fbd7bf",
+        "88deb186-e43e-407b-85a6-2a60439fb2fe",
+        "8e631963-423c-4654-aaf7-c7b39694c08c",
+        "5a46a749-e118-42ca-b358-cd0c5dcafdfa",
+        "2d2d2582-f530-4695-9546-6aafb52c6d00",
+        "1668054d-3148-483a-9cbf-b0111f14d832",
+        "80f463ad-7132-47c2-8564-9f6e19b28b68",
+        "2fd21691-6003-4fdd-bfea-c588dfdfb817"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "d3f21d83-e3c6-4545-9bfa-ea1b87a13644"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bd988766-e52b-47f1-96aa-7f1c1268e208",
+      "dutyDetail": "Liaise with colleagues, non-health care or health care practitioners",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2531e00a-bb52-4280-8c70-e33f6c570720",
+        "60a575d3-5693-4a3c-80d9-40745a08f14b",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "d2d7fa8a-56e4-4135-856c-bea0722311c4",
+        "adbed5b6-f955-4ca9-ae4e-6e3e6681d42e"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "c2d64a84-e5ac-47f4-bc1a-d93c7b5a95de"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "775113d7-6cb7-4e26-aaec-16e9031c71b0",
+      "dutyDetail": "Maintain up to date knowledge and skills of new and emerging techniques, equipment and business practices",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "b2b7894d-1975-4b8e-bd82-5e975268b909",
+        "fdf09d40-f34a-427f-93c0-d96dcef92ab3"
+      ],
+      "mappedKnowledge": [
+        "62684398-39da-4833-9adf-7064b5385695"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "f20b45de-8a5e-4023-99b9-8d5dbbcaed08",
+        "e97f1eac-d2d9-4d67-9cce-7a48195a1187",
+        "fc13b906-51d6-41a2-a6d3-3b80cfcca2e3",
+        "467545be-bb91-44a3-a03f-20a14c63c262",
+        "a62f62ce-9b64-45a6-97ed-be96ffa0cee9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
