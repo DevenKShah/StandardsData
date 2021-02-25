@@ -1,7 +1,7 @@
 {
   "larsCode": 0,
   "referenceNumber": "ST0881",
-  "title": "Geotechnical engineer",
+  "title": "Geotechnical engineer (integrated degree)",
   "status": "In development",
   "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
   "versionNumber": "",
@@ -10,24 +10,195 @@
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Understand, model and analyse the ground.",
   "level": 7,
-  "typicalDuration": 0,
+  "typicalDuration": 30,
   "maxFunding": 0,
   "route": "Engineering and manufacturing",
   "keywords": [],
   "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
+  "entryRequirements": "&lt;p&gt;Typically, an honours degree in a relevant subject for example, engineering, science, geoscience or mathematics. Practical experience will also be taken into account.&#160;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4923/st0881_geotechnical-engineer_l7_epa_for-publication-240221.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
   "version": "",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "standardOccupationalCode": "2121",
+  "occupationalSummary": "&lt;p&gt;Geotechnical engineers operate in the engineering sector and deal with engineering in the ground.&lt;/p&gt;\n&lt;p&gt;They may work for contractors, asset owners and operators, consultants, developers and regulatory bodies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to understand, model and analyse the ground in relation to natural and engineering processes. They specify and manage ground investigations (both desk studies and intrusive investigation) and create detailed ground models to analyse the response of the ground to loading for example, by man-made structures, engineering activities such as railway cuttings and natural processes such as erosion. They are required to manage and interact with a broad range of stakeholders (engineers, clients, asset owners, developers) from conceptual advice through to construction of ground engineering projects. They undertake and manage the specification and detailed design, including optioneering/value engineering of geotechnical structures and ground engineering solutions. They manage resources, budgets, sustainability and risk in relation to ground engineering projects. They manage teams and/or other professionals and aid other’s professional development.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their direct team within the organisation in which they work, as well as other internal teams, managers and senior employees. External to the organisation in which they work, they will interact with representatives from suppliers (material and services), contractors, engineers, asset owners and operators, regulatory bodies, developers, and clients. They will typically report to team leaders and directors within the organisation in which they work. They will have considerable autonomy in their day to day work.&lt;/p&gt;\n&lt;p&gt;They may work within an office, on site or split their time between both of these.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation is responsible for managing ground engineering projects specifically in relation to sustainability, risk, cost, programme, resources, health, safety and environment. They are responsible for understanding the effects of natural and engineering process on the ground and modelling the response of the ground in relation to these activities. They understand and have a working knowledge of the relevant commercial, contractual and legal requirements of the projects that they work on. They work and adhere to their organisation’s internal processes and management systems. They are required to undertake continuing professional development activities and encourage and aid the development of others. They are required to undertake all duties in a professional and ethical manner representing the organisation in which they work and adhering to specific and relevant standards, execution codes and accepted methods of practice.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f3438967-67e0-4a9e-9a02-8ab5c14b293f",
+      "detail": "Ground investigation techniques and solutions to derive soil and rock parameters for subsequent geotechnical engineering activities: intrusive and non-intrusive in situ techniques, laboratory tests, and instrumentation and monitoring techniques."
+    },
+    {
+      "knowledgeId": "f755ac15-8dfa-4578-805e-6ddce61a1369",
+      "detail": "Ground conditions and ground shaping processes: soil and rock forming, hydrology, hydrogeology and geomorphology; naturally occurring and/or from human activities. How they can impact on construction projects and create geohazards for geotechnical assets."
+    },
+    {
+      "knowledgeId": "de46d1ae-1abd-4b29-a424-5a24906d994a",
+      "detail": "Soil and rock behaviour (soil and rock mechanics) when exposed to changes in load and/or environmental conditions and the implications this can have on the short- and long-term performance of geotechnical assets. "
+    },
+    {
+      "knowledgeId": "44da3987-007d-44d0-bf40-50e0be720ec2",
+      "detail": "Numerical, analytical and critical analysis techniques for the analysis of engineering problems and development of solutions. The limitations of these approaches."
+    },
+    {
+      "knowledgeId": "65a5ead2-68fb-452d-9065-ef5318bdc23e",
+      "detail": "Desk based research techniques for developing a specification for a ground investigation. Correlating outcomes from a ground investigation with fundamental engineering parameters relating to the soil/rock."
+    },
+    {
+      "knowledgeId": "3aee1014-ef16-49ed-a890-4d914032ed6f",
+      "detail": "Principles of economic responsibilities, ethical principles, social responsibilities and, environmental protection and sustainability. How they must be applied to geotechnical engineering activities in the short- and long-term."
+    },
+    {
+      "knowledgeId": "142cdf85-0aef-452d-9bb4-79f004bfa47f",
+      "detail": "The implications of contaminated land on geotechnical activities and design solutions in the short- and long-term. Contaminated land remediation approaches."
+    },
+    {
+      "knowledgeId": "98a7db9d-4c77-4e3e-9685-60c522e37e28",
+      "detail": "Design principles and methods for geotechnical engineering and their limitations."
+    },
+    {
+      "knowledgeId": "0884d971-96f9-4dce-8fa2-cf646a686e58",
+      "detail": "Design codes and standards for geotechnical engineering activities."
+    },
+    {
+      "knowledgeId": "20aeafc9-5a9f-41a7-bd14-b48e99c8e253",
+      "detail": "Current and previous industry developments, case studies and forensic analysis for use in design solutions."
+    },
+    {
+      "knowledgeId": "90dff333-c37a-4336-afac-3c6b0c3c76c1",
+      "detail": "The need for 'buildability' and consideration of long-term asset performance during the design stage."
+    },
+    {
+      "knowledgeId": "eae15cf6-e820-4def-b88b-67cb539d5094",
+      "detail": "Geotechnical asset management techniques and approaches through construction and post construction; and the importance of considering these during the design stage."
+    },
+    {
+      "knowledgeId": "74a71e89-9b80-4bf5-b6ed-e477183979c6",
+      "detail": "Construction methods and management approaches used when constructing/managing geotechnical assets."
+    },
+    {
+      "knowledgeId": "bfbb1972-9a82-4323-972b-39982657f9e2",
+      "detail": "Project management techniques for geotechnical engineering activities: estimating, programming, cost and budget control and resource management."
+    },
+    {
+      "knowledgeId": "eb628b11-6b80-430f-8f28-2f1deab42c3b",
+      "detail": "Risk management techniques relating to the uncertainty/ambiguity inherent geotechnical engineering activities. For example, controlling risks to the environment, economy and society, risks arising during construction, risks on the geotechnical assets themselves, and those associated with the project: programme/budget control, commercial and financial issues."
+    },
+    {
+      "knowledgeId": "eadf859c-262d-4e39-84a9-3777c8793b90",
+      "detail": "Legal requirements, including  Health and Safety at Work,  Environmental Protection and sustainability, Construction Design Management (CDM), data protection. "
+    },
+    {
+      "knowledgeId": "153a5f40-83d9-477b-a213-ef8f06006746",
+      "detail": "Commercial and contractual requirements when undertaking geotechnical engineering activities: forms of contract, mechanisms of payment, specifications, and procurement. "
+    },
+    {
+      "knowledgeId": "118842b1-e94c-4988-a2df-039f89599644",
+      "detail": "Time management techniques."
+    },
+    {
+      "knowledgeId": "33717274-0f9e-4cb5-bb00-4fa6185ec96a",
+      "detail": "Teamwork and leadership: negotiation techniques, conflict management, development techniques and, diversity, equality and inclusivity considerations."
+    },
+    {
+      "knowledgeId": "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+      "detail": "Communication techniques: oral, written, drawings and presentations. "
+    },
+    {
+      "knowledgeId": "2e462681-6019-436a-b756-22b19b5a0323",
+      "detail": "Information technology: digital tools for research, analysis, and presentation of data,  Building Information Modelling (BIM), digital communication and collaboration packages. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+      "detail": "Prioritises and promotes ethical, sustainable and socially responsible practices. "
+    },
+    {
+      "behaviourId": "0e5ba693-705f-491b-a03b-70420bab6dbf",
+      "detail": "Adaptable, flexible and resilient in challenging and/or changing environments."
+    },
+    {
+      "behaviourId": "49060cb4-cd25-4113-94e1-de382dd67fdd",
+      "detail": "Takes responsibility for decisions, designs and procedures. "
+    },
+    {
+      "behaviourId": "3a30a47d-e312-475c-9a11-aee625ad9f22",
+      "detail": "Takes a whole life cycle view."
+    },
+    {
+      "behaviourId": "330b8534-b75b-4140-8384-a7fd58e98022",
+      "detail": "Committed to continued professional development and is open to innovation."
+    },
+    {
+      "behaviourId": "dea434c5-d419-4592-b919-c12d34cecd96",
+      "detail": "Collaborates and promotes team work across diverse teams: internal, external and across disciplines."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "5ab69606-1f8f-471e-b5a1-f908bd79dfc0",
+      "detail": "Specify ground investigations to obtain geotechnical data including  in situ techniques, laboratory tests and instrumentation and monitoring techniques."
+    },
+    {
+      "skillId": "275ebd4a-4692-4ab6-96ca-235c14c6b961",
+      "detail": "Interpret the ground investigation data and develop a ground model including the identification of  geohazards, contaminated land and other risks to the project as appropriate."
+    },
+    {
+      "skillId": "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+      "detail": "Collect, analyse, and interpret data using numerical, analytical and critical analysis techniques to develop an engineering understanding of the ground and how this will impact upon future design solutions; short- and long-term responses."
+    },
+    {
+      "skillId": "e429b870-9af8-4588-a8fb-5f60a43317e9",
+      "detail": "Undertake research and employ suitable methods to improve understanding of the engineering response of the ground.  For example, undertake a laboratory study, numerical analysis, interpret previously published data on the ground conditions (or data from laboratory/numerical investigations), learn from previous case studies and/or utilise established correlations between parameters."
+    },
+    {
+      "skillId": "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
+      "detail": "Make geotechnical engineering decisions. "
+    },
+    {
+      "skillId": "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+      "detail": "Use geotechnical design principles, methods, codes and standards when developing geotechincal solutions."
+    },
+    {
+      "skillId": "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
+      "detail": "Develop geotechnical engineering strategies and evaluate the potential impacts of these. For example, economic sustainability, ethical, societal and, environmental and sustainability perspectives and practical considerations such as buildability and long-term asset management."
+    },
+    {
+      "skillId": "09fc7a2f-5d6e-406e-a547-495f75b23d7d",
+      "detail": "Produce geotechnical engineering designs, specification and drawings. For example, for tender and construction stages."
+    },
+    {
+      "skillId": "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
+      "detail": "Use project management techniques. For example, estimating, programming, cost and budget control and resource management."
+    },
+    {
+      "skillId": "23890e8f-7063-4475-8ffb-be51e1413c24",
+      "detail": "Identify and comply with legal and statutory requirements. For example, health and safety,  Environmental protection and sustainability, CDM and data protection. "
+    },
+    {
+      "skillId": "2e81b316-16df-4a01-82de-b37bf0a42e7a",
+      "detail": "Use risk management techniques and manage risks associated with geotechnical engineering activities."
+    },
+    {
+      "skillId": "c16d17de-2e0e-4dad-bfed-95c3aadb71de",
+      "detail": "Plan and manage own time."
+    },
+    {
+      "skillId": "0d8327af-a2da-45e5-8604-82c27d99dddf",
+      "detail": "Work with and lead others including, negotiation, conflict management and developing others; taking account of diversity, equality and inclusivity."
+    },
+    {
+      "skillId": "55d1fb83-75b4-41ca-b176-9615eab33b3b",
+      "detail": "Communicate with colleagues and stakeholders: oral, written, drawings, and presentations."
+    },
+    {
+      "skillId": "b0a3c539-ea83-4e3d-a1fc-0374b7d14924",
+      "detail": "Use information technology: digital tools for research, analysis, and presentation of data,  Building Information Modelling (BIM), digital communication and collaboration packages. "
+    }
+  ],
   "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
@@ -37,24 +208,405 @@
   "eQAProvider": null,
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integratedDegree": "TBC",
+  "integratedDegree": "",
   "tbReference": "TB0174",
-  "tbMainContact": "Zoe.Baldwin@skanska.co.uk  Peter.Gilbert2@jacobs.com ",
-  "involvedEmployers": "",
+  "tbMainContact": "Zoe.Baldwin@skanska.co.uk",
+  "involvedEmployers": "Aecom,\r\nAmey Consulting,\r\nAtkins,\r\nCementation Skanska,\r\nGeo Consulting Engineering Ltd,\r\nGeotechnical consulting group LLP,\r\nGroundwater Engineering Limited,\r\nJacobs,\r\nLEAP Environmental Ltd,\r\nNetwork Rail,\r\nPeter Brett Associates,\r\nRSK Environment Ltd,\r\nSevern Trent Water,\r\nWardell Armstrong LLP\r\n",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
   "pathway": "Engineering, Design and Development",
   "cluster": "Design and Development Engineer",
-  "createdDate": "2019-05-13T14:16:20 +00:00",
-  "lastUpdated": "2019-01-18T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
+  "createdDate": "2021-02-24T13:53:02 +00:00",
+  "lastUpdated": "2021-02-24T13:53:02 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer-(integrated-degree)#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/geotechnical-engineer-(integrated-degree)",
+  "qualifications": [
+    {
+      "qualificationId": "3210997b-0b9e-4fdd-ae88-a506af4f20d2",
+      "title": "Master's in geotechnical engineering",
+      "level": "0",
+      "anyAdditionalInformation": ""
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Institution of Civil Engineers",
+      "level": "0",
+      "isPartial": "partial",
+      "partialFreeText": "*The degree programme must be accredited by the Engineering Council to be considered by the Institution of Civil Engineers as part of the chartership process. This apprenticeship standard is designed to prepare successful apprentices to meet the educational base/further learning requirements for professional recognition. The experience gained and responsibility held by the apprentice on completion of the apprenticeship standard will either wholly or partially satisfy the requirements for registration with the professional body. The awarding of professional status is under the remit of the professional institutions and is subject to their rules and requirements. For more information, please refer directly to the professional institutions’ guidance on chartership routes and requirements. "
+    },
+    {
+      "bodyName": "The Geological Society",
+      "level": "0",
+      "isPartial": "partial",
+      "partialFreeText": "This apprenticeship standard is designed to prepare successful apprentices to meet the educational base/further learning requirements for professional recognition. The experience gained and responsibility held by the apprentice on completion of the apprenticeship standard will either wholly or partially satisfy the requirements for registration with the professional body. The awarding of professional status is under the remit of the professional institutions and is subject to their rules and requirements. For more information, please refer directly to the professional institutions’ guidance on chartership routes and requirements. "
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "9491e797-579e-46fa-b562-cfc243703429",
+      "dutyDetail": "Create ground-models by interpreting geological, geomorphological and hydrogeological data and identify geo-hazards for example, adverse settlements, subsidence and landslides, across both surface and sub-surface to facilitate management of risk and uncertainty in the ground throughout the life of a project.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "49060cb4-cd25-4113-94e1-de382dd67fdd"
+      ],
+      "mappedKnowledge": [
+        "f3438967-67e0-4a9e-9a02-8ab5c14b293f",
+        "f755ac15-8dfa-4578-805e-6ddce61a1369"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "275ebd4a-4692-4ab6-96ca-235c14c6b961"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11f3e503-ce49-4c09-8526-1b8720694123",
+      "dutyDetail": "Analyse, interpret and critically evaluate the data of a ground investigation via desk study research, using for example, historical maps and planning records to plan future engineering investigations and activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "49060cb4-cd25-4113-94e1-de382dd67fdd"
+      ],
+      "mappedKnowledge": [
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "44da3987-007d-44d0-bf40-50e0be720ec2",
+        "65a5ead2-68fb-452d-9065-ef5318bdc23e",
+        "20aeafc9-5a9f-41a7-bd14-b48e99c8e253"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "275ebd4a-4692-4ab6-96ca-235c14c6b961",
+        "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cb2adfed-c21d-4a6a-b7ba-dc7e4bf9c4ab",
+      "dutyDetail": "Design and supervise a ground investigation for example, intrusive investigations such as trial pits and boreholes, non-invasive investigations via geophysical techniques, taking of samples for laboratory testing and testing in the field (to determine ground properties), scheduling laboratory testing, establishing monitoring approaches and setting up appropriate instrumentation to monitor ground responses.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "330b8534-b75b-4140-8384-a7fd58e98022",
+        "dea434c5-d419-4592-b919-c12d34cecd96"
+      ],
+      "mappedKnowledge": [
+        "f3438967-67e0-4a9e-9a02-8ab5c14b293f",
+        "f755ac15-8dfa-4578-805e-6ddce61a1369",
+        "44da3987-007d-44d0-bf40-50e0be720ec2",
+        "65a5ead2-68fb-452d-9065-ef5318bdc23e",
+        "33717274-0f9e-4cb5-bb00-4fa6185ec96a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "5ab69606-1f8f-471e-b5a1-f908bd79dfc0",
+        "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
+        "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
+        "55d1fb83-75b4-41ca-b176-9615eab33b3b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ab29f56c-42c0-4b96-9752-fb337f6189b1",
+      "dutyDetail": "Identify, manage and mitigate risks for example, health and safety, project and financial risks on site (throughout the life of a project, whether during ground investigation or construction process).",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "f755ac15-8dfa-4578-805e-6ddce61a1369",
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "eb628b11-6b80-430f-8f28-2f1deab42c3b",
+        "eadf859c-262d-4e39-84a9-3777c8793b90"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+        "23890e8f-7063-4475-8ffb-be51e1413c24",
+        "2e81b316-16df-4a01-82de-b37bf0a42e7a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b830bbdc-2ae1-41dc-bd74-a70fc4deeefa",
+      "dutyDetail": "Work with contaminated land specialists to identify risks associated with contaminated land and determine engineering measures to manage those risks.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022",
+        "dea434c5-d419-4592-b919-c12d34cecd96"
+      ],
+      "mappedKnowledge": [
+        "f755ac15-8dfa-4578-805e-6ddce61a1369",
+        "44da3987-007d-44d0-bf40-50e0be720ec2",
+        "142cdf85-0aef-452d-9bb4-79f004bfa47f",
+        "33717274-0f9e-4cb5-bb00-4fa6185ec96a"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01ac8073-cba9-4e4a-afc8-fb66d7e5fb27",
+      "dutyDetail": "Undertake detailed assessment and analysis (using appropriate methods for example, analytical,  numerical, critical analysis) of the ground behaviour including properties of rocks and soils, and their response to natural or proposed engineering activities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "f755ac15-8dfa-4578-805e-6ddce61a1369",
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "142cdf85-0aef-452d-9bb4-79f004bfa47f",
+        "20aeafc9-5a9f-41a7-bd14-b48e99c8e253"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+        "e429b870-9af8-4588-a8fb-5f60a43317e9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7b7634f4-9aaf-4a5f-9ad5-70cccf422f0a",
+      "dutyDetail": "Design geotechnical structures for example, slopes, foundations, retaining structures including optioneering and detailed design, allowing for consideration of sustainability, constructability and ground conditions.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "f755ac15-8dfa-4578-805e-6ddce61a1369",
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "3aee1014-ef16-49ed-a890-4d914032ed6f",
+        "98a7db9d-4c77-4e3e-9685-60c522e37e28",
+        "0884d971-96f9-4dce-8fa2-cf646a686e58",
+        "20aeafc9-5a9f-41a7-bd14-b48e99c8e253",
+        "90dff333-c37a-4336-afac-3c6b0c3c76c1",
+        "eae15cf6-e820-4def-b88b-67cb539d5094",
+        "eadf859c-262d-4e39-84a9-3777c8793b90"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+        "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
+        "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+        "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
+        "09fc7a2f-5d6e-406e-a547-495f75b23d7d",
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0334e2c1-0f35-478b-b4f7-31624a2012c9",
+      "dutyDetail": "Produce geotechnical reports throughout the phases of investigation, optioneering, design and construction for stakeholders for example, engineers and clients.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "90dff333-c37a-4336-afac-3c6b0c3c76c1",
+        "eae15cf6-e820-4def-b88b-67cb539d5094",
+        "eadf859c-262d-4e39-84a9-3777c8793b90",
+        "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+        "2e462681-6019-436a-b756-22b19b5a0323"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
+        "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+        "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
+        "09fc7a2f-5d6e-406e-a547-495f75b23d7d",
+        "23890e8f-7063-4475-8ffb-be51e1413c24",
+        "55d1fb83-75b4-41ca-b176-9615eab33b3b",
+        "b0a3c539-ea83-4e3d-a1fc-0374b7d14924"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a2bcbfe-b0a7-4790-895a-b001e58fc334",
+      "dutyDetail": "Provide geotechnical and/or engineering geology support to stakeholders for example, engineers and clients and guidance throughout investigation and construction stages.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22"
+      ],
+      "mappedKnowledge": [
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "eae15cf6-e820-4def-b88b-67cb539d5094",
+        "74a71e89-9b80-4bf5-b6ed-e477183979c6",
+        "eadf859c-262d-4e39-84a9-3777c8793b90",
+        "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+        "2e462681-6019-436a-b756-22b19b5a0323"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+        "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "506aaed9-fa5c-42ec-b2c9-88d57df1bfd9",
+      "dutyDetail": "Develop maintenance strategies and recommend practical interventions for asset management of geotechnical structures for example, earthworks, retaining structures, foundations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "de46d1ae-1abd-4b29-a424-5a24906d994a",
+        "eae15cf6-e820-4def-b88b-67cb539d5094",
+        "74a71e89-9b80-4bf5-b6ed-e477183979c6",
+        "eadf859c-262d-4e39-84a9-3777c8793b90"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "967b72ef-dd58-4ea4-b8e4-c9d152290abd",
+        "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+        "09fc7a2f-5d6e-406e-a547-495f75b23d7d",
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "60b1af30-cadc-4f13-839f-53ed2b89ef48",
+      "dutyDetail": "Manage, supervise and develop (depending on the level of seniority) other engineers/professionals.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "330b8534-b75b-4140-8384-a7fd58e98022",
+        "dea434c5-d419-4592-b919-c12d34cecd96"
+      ],
+      "mappedKnowledge": [
+        "33717274-0f9e-4cb5-bb00-4fa6185ec96a",
+        "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+        "2e462681-6019-436a-b756-22b19b5a0323"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
+        "0d8327af-a2da-45e5-8604-82c27d99dddf",
+        "55d1fb83-75b4-41ca-b176-9615eab33b3b",
+        "b0a3c539-ea83-4e3d-a1fc-0374b7d14924"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "17cd2fe5-ad0b-4fe9-9993-d88b4d157f61",
+      "dutyDetail": "Manage stakeholders for example, communicate and negotiate with other engineers, clients, subcontractors and regulatory bodies .",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "dea434c5-d419-4592-b919-c12d34cecd96"
+      ],
+      "mappedKnowledge": [
+        "153a5f40-83d9-477b-a213-ef8f06006746",
+        "33717274-0f9e-4cb5-bb00-4fa6185ec96a",
+        "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+        "2e462681-6019-436a-b756-22b19b5a0323"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
+        "23890e8f-7063-4475-8ffb-be51e1413c24",
+        "0d8327af-a2da-45e5-8604-82c27d99dddf",
+        "55d1fb83-75b4-41ca-b176-9615eab33b3b",
+        "b0a3c539-ea83-4e3d-a1fc-0374b7d14924"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cfdef466-2d5f-4687-adce-bb5ba520be01",
+      "dutyDetail": "Manage geotechnical projects, including: planning, programming, design, risk, budgets, costs and resources.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "0e5ba693-705f-491b-a03b-70420bab6dbf",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022",
+        "dea434c5-d419-4592-b919-c12d34cecd96"
+      ],
+      "mappedKnowledge": [
+        "74a71e89-9b80-4bf5-b6ed-e477183979c6",
+        "bfbb1972-9a82-4323-972b-39982657f9e2",
+        "eb628b11-6b80-430f-8f28-2f1deab42c3b",
+        "eadf859c-262d-4e39-84a9-3777c8793b90",
+        "153a5f40-83d9-477b-a213-ef8f06006746",
+        "118842b1-e94c-4988-a2df-039f89599644",
+        "33717274-0f9e-4cb5-bb00-4fa6185ec96a",
+        "8490ef1f-a95d-4e38-b721-1262b5a876bc",
+        "2e462681-6019-436a-b756-22b19b5a0323"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "c076f7a0-5d15-418c-8f8a-4bcc92b860b1",
+        "23890e8f-7063-4475-8ffb-be51e1413c24",
+        "2e81b316-16df-4a01-82de-b37bf0a42e7a",
+        "c16d17de-2e0e-4dad-bfed-95c3aadb71de",
+        "0d8327af-a2da-45e5-8604-82c27d99dddf",
+        "55d1fb83-75b4-41ca-b176-9615eab33b3b",
+        "b0a3c539-ea83-4e3d-a1fc-0374b7d14924"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "318e90b4-5d49-44ec-a41d-d942895929dd",
+      "dutyDetail": "Assess and promote sustainable geotechnical solutions considering societal, environmental and economic impacts.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "39161a6b-2a1e-421e-bd6b-888f0ef5b208",
+        "49060cb4-cd25-4113-94e1-de382dd67fdd",
+        "3a30a47d-e312-475c-9a11-aee625ad9f22",
+        "330b8534-b75b-4140-8384-a7fd58e98022"
+      ],
+      "mappedKnowledge": [
+        "0884d971-96f9-4dce-8fa2-cf646a686e58",
+        "20aeafc9-5a9f-41a7-bd14-b48e99c8e253",
+        "90dff333-c37a-4336-afac-3c6b0c3c76c1",
+        "eae15cf6-e820-4def-b88b-67cb539d5094",
+        "74a71e89-9b80-4bf5-b6ed-e477183979c6",
+        "eadf859c-262d-4e39-84a9-3777c8793b90"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "72b865d2-7fdb-4c40-b7cd-8f70757f9976",
+        "adb597f0-8218-4be9-81d9-abc60cb2f0e1",
+        "d1ffcc2a-1d38-4f34-9825-ac9cf9c431d2",
+        "23890e8f-7063-4475-8ffb-be51e1413c24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "regulationDetail": []
 }
