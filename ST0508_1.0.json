@@ -41,11 +41,11 @@
   "epaApprovalDate": "",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
+    "contactEmail": "",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2017-11-20T00:00:00 +00:00",
   "integratedApprenticeship": false,
@@ -53,8 +53,8 @@
   "tbReference": "TB0226",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
   "involvedEmployers": "",
-  "regulated": false,
-  "regulatedBody": "",
+  "regulated": true,
+  "regulatedBody": "Nursing and Midwifery Council",
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "englishAndMathsQualifications": "",
@@ -68,5 +68,14 @@
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "regulationDetail": [
+    {
+      "name": "EPAO",
+      "webLink": ""
+    },
+    {
+      "name": "Training provider",
+      "webLink": ""
+    }
+  ]
 }
