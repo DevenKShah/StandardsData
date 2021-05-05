@@ -1,0 +1,980 @@
+{
+  "larsCode": 0,
+  "referenceNumber": " ST1021",
+  "title": "Cyber security technologist (2021)",
+  "status": "Approved for delivery",
+  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-05-04T00:00:00",
+  "earliestStartDate": "2021-05-04T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Apply an understanding of cyber security to protect from attacks and unauthorised access.",
+  "level": 4,
+  "typicalDuration": 24,
+  "maxFunding": 1800,
+  "route": "Digital",
+  "keywords": [
+    "ICT",
+    "cyber",
+    "security",
+    "technologist",
+    "digital",
+    "technical",
+    "cyber security",
+    "information technology"
+  ],
+  "jobRoles": [
+    "Cyber Operations Manager",
+    "Security Architect",
+    "Security Analyst",
+    "Cyber Risk Analyst",
+    "Intelligence Researcher"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5046/st1021_cyber-security-technologist_l4_ap-for-publication_280421.pdf",
+  "ssa1": "",
+  "ssa2": "",
+  "version": "1.0",
+  "standardInformation": "",
+  "standardOccupationalCode": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors and organisations that employ technology, for example Digital, Telecoms, Technology, Business Services, Defence, Government, Finance, Health, Retail, Critical National Infrastructure, Transport, Automotive sectors; and in all types and sizes of organisation including large corporates, public sector bodies, academic institutions, charities, and small and medium enterprise (SME).&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to apply an understanding of cyber security to protect organisations, systems, information, personal data and people from attacks and unauthorised access.&lt;/p&gt;\n&lt;p&gt;Fighting cyber security threats is a multi-billion-pound industry, and one that continues to grow as threats from the likes of malware, ransomware, phishing, DDoS attacks and hacking increase. Organisations both large and small are turning to cyber security professionals to help them keep their commercial and financial data, websites, infrastructure sites and their customers&#39; details safe.&lt;/p&gt;\n&lt;p&gt;With almost all personal data now stored online, cyber security attacks have the potential to completely ruin businesses - not to mention people&#39;s lives - in the process. There are often&lt;/p&gt;\n&lt;p&gt;news stories about high-profile attacks, such as those on the NHS, Yahoo and LinkedIn, meaning that organisations are becoming increasingly concerned with any potential leaks that could occur. In fact, nearly half of all UK businesses experienced some form of attack in the last 12 months. As a cyber-security technologist, you will be part of the response to those attacks.&lt;/p&gt;\n&lt;p&gt;Cyber Security Technologists all require an understanding of security concepts and technology and how to mitigate risks arising from threats. The specific tasks undertaken vary depending on what needs to be achieved by the team at any particular time. Some tasks may be very technical, others may be more analytical, business or user focused. All roles in this occupation work to achieve required cyber security outcomes in a legal and regulatory context in all parts of the economy. They develop and apply practical knowledge of information security to deliver solutions that fulfil an organisations requirement.&lt;/p&gt;\n&lt;p&gt;The Cyber Security Technologist standard has three distinct options. At the end of the apprenticeship you will be competent in either:&lt;/p&gt;\n&lt;p&gt;1) The Cyber Security Engineer is the most technology focused role in the occupation and will typically design, build and test secure networks or security products or systems with a particular focus on the security aspects of the design.&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Engineer, Cyber Security Consultant, Cyber Security Architect, Cyber Security Analyst, Cyber Security Specialist, IT Security Technician, Embedded Engineer.&lt;/p&gt;\n&lt;p&gt;2) The Cyber Risk Analyst Focuses on risk assessment, analysis and giving advice on risk mitigations. The roles may support formal security governance, regulatory &amp;amp; compliance (GRC).&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Consultant, Cyber Security Analyst, Cyber Risk Analyst, Intelligence Researcher, Cyber Security Specialist, Information Security Analyst, Governance &amp;amp; Compliance Analyst, Information Security Assurance &amp;amp; Threat Analyst, Information Security Auditor.&lt;/p&gt;\n&lt;p&gt;3) The Cyber Defender &amp;amp; Responder is more operationally focused, configuring and operating secure systems to prevent security breaches or monitoring systems to detect and respond to security breaches.&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Analyst, Cyber Security Operator, Forensics &amp;amp; Incident Response Analyst, Cyber Security Administrator, Information Security Officer, Secure Operations Centre (SOC) Analyst, Network Intrusion Analyst, Incident Response Centre (IRC) Analyst, Network Operations Centre (NOC) Security Analyst.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a broad range of people from their own organisation and externally including suppliers and customers, technical specialists, non-specialists, peers and senior representatives. The roles are typically office or computer room/lab based. Some employers will also have security clearance requirements, which may impose residency or nationality restrictions. An employee in this occupation will be responsible for their own work, work as part of a team including different levels of technical and non-technical skills, and may also be required to supervise work, budgets and other staff.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+      "detail": "Principles of networks: OSI and TCP/IP models, data, protocols and how they relate to each other; the main routing protocols; the main factors affecting network performance including typical failure modes in protocols and approaches to error control; virtual networking"
+    },
+    {
+      "knowledgeId": "c91a313c-c723-45e4-b534-26289d764c12",
+      "detail": "the concepts, main functions and features of at least three Operating Systems (OS) and their security functions and associated security features."
+    },
+    {
+      "knowledgeId": "191c2afe-0478-4163-9be5-8252281c9084",
+      "detail": "Cyber security concepts and why cyber security matters to business and society; Security assurance concepts and how assurance may be achieved in practice including penetration testing and extrinsic assurance methods."
+    },
+    {
+      "knowledgeId": "694d865a-9718-44ad-adb0-8796e8a6236d",
+      "detail": "the main types of common attack techniques; also the role of human behaviour, including the significance of the 'insider threat'. Including: how attack techniques combine with motive and opportunity to become a threat. Techniques and strategies to defend against attack techniques and mitigate hazards"
+    },
+    {
+      "knowledgeId": "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+      "detail": "the significance of identified trends in cyber security threats and understand the value and risk of this analysis. How to deal with emerging attack techniques (including 'zero day'), hazards and vulnerabilities relevant to the digital systems and business environment."
+    },
+    {
+      "knowledgeId": "53b5f6f4-621e-4ee0-8a71-d05aa29eb7f2",
+      "detail": "lifecycle and service management practices to an established standard to a foundation level for example Information Technology Infrastructure Library (ITIL) foundation level."
+    },
+    {
+      "knowledgeId": "a3003286-be4e-46d7-9388-7a0b4f34d553",
+      "detail": "cyber incident response processes, incident management processes and evidence collection/preservation requirements to support incident investigation"
+    },
+    {
+      "knowledgeId": "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+      "detail": "Understands the main features, applicability and how to apply the significant law, regulations and standards relevant specifically to cyber security. To include: laws, regulations & standards relating to personal data and privacy (e.g. Data Protection Act 2018 implementing General Data Protection Regulation); use of digital systems (e.g. Computer Misuse Act 1990 ); regulatory standards for cyber security, intelligence collection and law enforcement (e.g. Intelligence Services Act 1994, Regulation of Investigatory Powers Act 2000; standards for good practice in cyber security (e.g. ISO 27001, CyberEssentials, NIST) and any updates or additions"
+    },
+    {
+      "knowledgeId": "078527e2-9a68-4dae-a5db-50488574b5a9",
+      "detail": "ethical principles and codes of good practice of at least one significant cyber security professional body and the ethical responsibilities of a cyber security professional."
+    },
+    {
+      "knowledgeId": "8ce0d63d-0c38-4730-95ba-e0ca2322bd11",
+      "detail": "how to analyse employer or customer requirements to derive security objectives and taking account of the threats and overall context develop a security case which sets out the proposed security measures in the context with reasoned justification"
+    },
+    {
+      "knowledgeId": "1b3bfc48-53fc-4fb3-a7d0-bf33081a62eb",
+      "detail": "horizon scanning including use of recognised sources of threat intelligence and vulnerabilities."
+    },
+    {
+      "knowledgeId": "366d65f2-2eab-48ed-ba60-a419457f22e3",
+      "detail": "common security architectures and methodologies; be aware of reputable security architectures that incorporates hardware and software components, and sources of architecture patterns and guidance. How cyber security technology components are typically deployed in digital systems to provide security functionality including: hardware and software to implement security controls"
+    },
+    {
+      "knowledgeId": "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
+      "detail": "the basic terminology and concepts of cryptography; common cryptography techniques in use; the importance of effective key management and the main techniques used; legal, regulatory and export issues specific to the use of cryptography"
+    },
+    {
+      "knowledgeId": "c4430f4a-19a1-403f-a3f2-1ab71085c5b8",
+      "detail": "risk assessment and audit methodologies and approaches to risk treatment; approaches to identifying  the vulnerabilities in organisations and security management systems; the threat intelligence lifecycle; the role of the risk owner in contrast with other stakeholders"
+    },
+    {
+      "knowledgeId": "4e6a18d3-a223-49ba-b2d5-3fea01489714",
+      "detail": "principles of security management systems, including governance, organisational structure, roles, policies, standards, guidelines and how these all work together to deliver the identified security outcomes."
+    },
+    {
+      "knowledgeId": "738a6738-fa11-4d9b-9236-26046677840f",
+      "detail": "function and features of significant digital system components; typical architectures; common vulnerabilities in digital systems; principles and common practice in digital system security"
+    },
+    {
+      "knowledgeId": "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3",
+      "detail": "programming or scripting languages"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+      "detail": "Logical - Applies logical thinking, for example, uses clear and valid reasoning when making decisions related to undertaking the work instructions"
+    },
+    {
+      "behaviourId": "240a2d0c-625d-4b22-92ca-fd408f670839",
+      "detail": "Analytical - working with data effectively to see patterns, trends and draw meaningful conclusions."
+    },
+    {
+      "behaviourId": "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+      "detail": "Works independently and takes responsibility. For example works diligently regardless of how much they are being supervised, and stays motivated and committed when facing challenges"
+    },
+    {
+      "behaviourId": "c10a09df-b590-40fd-a989-919cc0cd47cf",
+      "detail": "Shows initiative, being resourceful when faced with a problem and taking responsibility for solving problems within their own remit"
+    },
+    {
+      "behaviourId": "f10f0430-beae-49be-8c10-affb26599c3b",
+      "detail": "Thorough & organised. For example uses their time effectively to complete work to schedule and takes responsibility for managing their own work load and time"
+    },
+    {
+      "behaviourId": "d993cbd3-1724-462d-8050-6aa6649a30dc",
+      "detail": "Works effectively with a wide range of people in different roles, internally and externally, with a regard to inclusion & diversity policy"
+    },
+    {
+      "behaviourId": "2eef7733-fd72-487d-86bd-f990009428bc",
+      "detail": "Communicates effectively in a wide variety of situations for example contributing effectively to meetings and presenting complex information to technical and non-technical audiences"
+    },
+    {
+      "behaviourId": "bfc7d888-667c-430c-859e-92417c2ea32d",
+      "detail": "Maintains a productive, professional and secure working environment."
+    },
+    {
+      "behaviourId": "c6f122ef-7550-400b-aa8d-9e06c736c790",
+      "detail": "Creative - taking a variety of perspectives, taking account of unpredictable adversary and threat behaviours and approaches, bring novel and unexpected solutions  to address cyber security challenges"
+    },
+    {
+      "behaviourId": "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1",
+      "detail": "Problem Solving - Identifies issues quickly, solves complex problems and applies appropriate solutions. Dedicated to finding the true root cause of any problem and find solutions that  prevent recurrence."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "a7897997-acaa-42b5-b317-6ffee043117f",
+      "detail": "Discover vulnerabilities in a system by using a mix of research and practical exploration"
+    },
+    {
+      "skillId": "32047ed6-0535-49fc-b94e-04095a65ed04",
+      "detail": "Analyse and evaluate security threats and hazards to a system or service or processes. Use relevant external source of threat intelligence or advice (e.g. National Cyber Security Centre) Combine different sources to create an enriched view of cyber threats and hazards"
+    },
+    {
+      "skillId": "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
+      "detail": "Research and investigate common attack techniques and relate these to normal and observed digital system behaviour and recommend how to defend against them. Interpret and demonstrate use of external source of vulnerabilities (e.g. OWASP, intelligence sharing initiatives, open source)"
+    },
+    {
+      "skillId": "0ba466b8-c907-4cc7-b2bb-045d7bd6545a",
+      "detail": "Undertake security risk assessments for simple systems without direct supervision and propose basic remediation advice in the context of the employer."
+    },
+    {
+      "skillId": "3e667f09-e4d0-43f2-97a1-1778a31308d3",
+      "detail": "Source and analyse security cases and describe what threats, vulnerability or risks are mitigated and identify any residual areas of concern."
+    },
+    {
+      "skillId": "f26bd634-3554-48b3-8c35-4008eb030206",
+      "detail": "Analyse employer or customer requirements to derive security objectives and taking account of the threats and overall context develop a security case which sets out the proposed security measures in the context with reasoned justification"
+    },
+    {
+      "skillId": "6a7b3fe8-d74d-4501-af29-7d976b4b19e3",
+      "detail": "Identify and follow organisational policies and standards for information and cyber security and operate according to service level agreements or other defined performance targets."
+    },
+    {
+      "skillId": "aab36ada-4b68-468a-90f6-6b07da5acb7c",
+      "detail": "Configure, deploy and use computer, digital network and cyber security technology."
+    },
+    {
+      "skillId": "bf3b138c-97f2-457b-bb5a-c3635a9e41b6",
+      "detail": "Recommend improvements to the cyber security posture of an employer or customer based on research into future potential cyber threats and considering threat trends."
+    },
+    {
+      "skillId": "4d048d24-018d-4ea5-add4-66ae144982a2",
+      "detail": "Design, build, test and troubleshoot a network incorporating more than one subnet with static and dynamic routes, to a given design requirement without supervision. Provide evidence that the system meets the design requirement."
+    },
+    {
+      "skillId": "896060d0-dbff-409f-b75c-f657a0851d6e",
+      "detail": "Analyse security requirements given (functional and non-functional security requirements that may be presented in a security case) against other design requirements (e.g. usability, cost, size, weight, power, heat, supportability etc.) for a given system or product. Identify conflicting requirements and propose, with reasoning, resolution through appropriate trade-offs."
+    },
+    {
+      "skillId": "c807e7bc-427b-4ab5-ac36-e2aca2dac475",
+      "detail": "Design and build, systems in accordance with a security case within broad but generally well-defined parameters. This should include selection and configuration of typical security hardware and software components. Provide evidence that the system has properly implemented the security controls required by the security case"
+    },
+    {
+      "skillId": "08f9a582-a2cc-408e-9dc2-278ccd3f3e8f",
+      "detail": "Write program code or scripts to meet a given design requirement in accordance with employers' coding standards"
+    },
+    {
+      "skillId": "0ffd4b87-5186-4528-95a7-bfdba5b7b3da",
+      "detail": "Design systems employing encryption to meet defined security objectives. Develop and implement a plan for managing the associated encryption keys for the given scenario or system."
+    },
+    {
+      "skillId": "24e24aa5-7a0d-4452-8d5c-ac0dc18ca770",
+      "detail": "Use tools, techniques and processes to actively prevent breaches to digital system security."
+    },
+    {
+      "skillId": "196ffcf1-ca80-4b81-b78c-49890551c006",
+      "detail": "Conduct cyber-risk assessments against an externally (market) recognised cyber security standard using a recognised risk assessment methodology."
+    },
+    {
+      "skillId": "15e28ad8-26b6-4fdb-8fdd-8a86371af8c2",
+      "detail": "Identify cyber security threats relevant to a defined context"
+    },
+    {
+      "skillId": "fcca3e07-3095-42d3-924d-079d4d383274",
+      "detail": "Develop information security policies or processes to address a set of identified risks, for example from security audit recommendations."
+    },
+    {
+      "skillId": "04666f35-a1ad-4c2f-a57e-7b8c075f08e1",
+      "detail": "Develop information security policies within a defined scope to take account of legislation and regulation relevant to cyber security."
+    },
+    {
+      "skillId": "7b0e6c2c-c52e-40c7-8710-90ff29e2effd",
+      "detail": "Take an active part in a security audits against recognised cyber security standards, undertake gap analysis and make recommendations for remediation.."
+    },
+    {
+      "skillId": "af6d87a8-9c3f-466f-9083-7779553b3cf6",
+      "detail": "Develop plans for incident response for approval within defined governance arrangements for incident response."
+    },
+    {
+      "skillId": "49124740-8d16-4ff8-a7c7-d1342787e99b",
+      "detail": "Develop plans for local business continuity for approval within defined governance arrangements for business continuity."
+    },
+    {
+      "skillId": "b8c9549c-07ae-4a05-9494-572575d2463b",
+      "detail": "Assess security culture using a recognised approach."
+    },
+    {
+      "skillId": "0dea457a-a2bb-4101-9082-f25308170dc3",
+      "detail": "Design and implement a simple ‘security awareness’ campaign to address a specific aspect of a security culture."
+    },
+    {
+      "skillId": "8bb38da2-0b5b-4902-9530-778c20e876f8",
+      "detail": "Integrate and correlate information from various sources (including log files from different sources, digital system monitoring tools, Secure Information and Event Management (SIEM) tools, access control systems, physical security systems) and compare to known threat and vulnerability data to form a judgement based on evidence with reasoning that the anomaly represents a digital system security breach"
+    },
+    {
+      "skillId": "37ee5b12-fe6c-4dc8-bdcb-ff0f9641c679",
+      "detail": "Recognise anomalies in observed digital system data structures (including by inspection of network packet data structures) and digital system behaviours (including by inspection of protocol behaviours) and by inspection of log files and by investigation of alerts raised by automated tools including SIEM tools."
+    },
+    {
+      "skillId": "19a1d525-c77b-4f73-a79f-abcd0fd3bee6",
+      "detail": "Accurately, objectively and concisely record and report the appropriate cyber security information, including in written reports within a structure or template provided."
+    },
+    {
+      "skillId": "bb3dcfae-b32d-4853-b580-5e0f6f776dda",
+      "detail": "Configure digital system monitoring and analysis tools (e.g. SIEM tools), taking account of threat & vulnerability intelligence, indicators of compromise."
+    },
+    {
+      "skillId": "9a515987-8519-4dea-a7ac-5b524b3d957d",
+      "detail": "Undertake root cause analysis of events and make recommendations to reduce false positives and false negatives."
+    },
+    {
+      "skillId": "99d12df7-ba0e-4e93-a934-ffa54ea7a65e",
+      "detail": "Manage local response to non-major incidents in accordance with a defined procedure."
+    }
+  ],
+  "options": [
+    {
+      "optionId": "cea8705b-2d2b-449f-8938-6ca3fef4106a",
+      "title": "Cyber Security Engineer"
+    },
+    {
+      "optionId": "cf055020-be9d-4c4d-bc60-004bf9fa6499",
+      "title": "Cyber Risk Analyst"
+    },
+    {
+      "optionId": "5f4fe9bc-6da9-412a-b62b-86d07d5958ff",
+      "title": "Cyber Defend & Respond"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "epaApprovalDate": "",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "Claire Gill / Steve Walker",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "public.enquiries@ofqual.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+  },
+  "approvedForDelivery": "2021-05-04T00:00:00 +00:00",
+  "integratedApprenticeship": false,
+  "integratedDegree": "",
+  "tbReference": "TB0553",
+  "tbMainContact": "jpthorlby@qinetiq.com",
+  "involvedEmployers": "QinetiQ\nCGI\nIASME\nSky\nSiemens\nDark Trace\nBT\nFujitsu\nDCMS\nCabinet Office\nJBC\nFoxRedRisk",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Cyber Operations Manager",
+    "Security Architect",
+    "Security Analyst",
+    "Cyber Risk Analyst",
+    "Intelligence Researcher"
+  ],
+  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
+  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "pathway": "Digital Support and Services",
+  "cluster": null,
+  "createdDate": "2021-05-04T10:23:04 +00:00",
+  "lastUpdated": "2021-05-04T10:23:04 +00:00",
+  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-(2021)-v1-0#OccupationalStandard",
+  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-(2021)-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "RITTech",
+      "level": "0",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "3713517e-6600-49a4-84cc-6deb12355f8a",
+      "dutyDetail": "Identify cyber vulnerabilities in a system to ensure security is maintained.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "1b3bfc48-53fc-4fb3-a7d0-bf33081a62eb",
+        "366d65f2-2eab-48ed-ba60-a419457f22e3",
+        "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a7897997-acaa-42b5-b317-6ffee043117f",
+        "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cefdd3d1-f443-45ea-b3d1-16af2de306f2",
+      "dutyDetail": "Identify security threats and hazards to a system, service or processes to inform risk assessments and design of security features",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "1b3bfc48-53fc-4fb3-a7d0-bf33081a62eb"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "32047ed6-0535-49fc-b94e-04095a65ed04",
+        "bf3b138c-97f2-457b-bb5a-c3635a9e41b6",
+        "15e28ad8-26b6-4fdb-8fdd-8a86371af8c2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "851cdc57-3943-431a-b9c8-8a9325f8cf1b",
+      "dutyDetail": "Research and investigate attack techniques and recommend ways to defend against them",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
+        "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06049a58-4cbd-4005-8d12-da53fe6e3e80",
+      "dutyDetail": "Support cyber security risk assessments, cyber security audits and cyber security incident management",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "a3003286-be4e-46d7-9388-7a0b4f34d553",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "c4430f4a-19a1-403f-a3f2-1ab71085c5b8"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "0ba466b8-c907-4cc7-b2bb-045d7bd6545a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "22275f78-ce42-4b28-8142-5c02d9b41386",
+      "dutyDetail": "Develop security designs with design justification to meet the defined cyber security parameters.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "8ce0d63d-0c38-4730-95ba-e0ca2322bd11"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "3e667f09-e4d0-43f2-97a1-1778a31308d3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "465087b1-6087-4bc5-b080-d5e34b83adb5",
+      "dutyDetail": "Configure, deploy and use computer, digital network and cyber security technology.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "aab36ada-4b68-468a-90f6-6b07da5acb7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bbf8f6a0-ed25-4ecb-b6ba-17700e5254cf",
+      "dutyDetail": "Develop program code or scripts for a computer or other digital technology for example an industrial control system",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "08f9a582-a2cc-408e-9dc2-278ccd3f3e8f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68201c51-cba9-4f35-873c-e05c6d4bdbde",
+      "dutyDetail": "Write reports, give verbal reports and presentations in the context of the cyber security role",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790"
+      ],
+      "mappedKnowledge": null,
+      "mappedOptions": null,
+      "mappedSkills": [
+        "19a1d525-c77b-4f73-a79f-abcd0fd3bee6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bf6afdf8-6308-4256-a52a-fbb535f5a247",
+      "dutyDetail": "Manage cyber security operations processes in accordance with organisational policies and standards and business requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "53b5f6f4-621e-4ee0-8a71-d05aa29eb7f2",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "6a7b3fe8-d74d-4501-af29-7d976b4b19e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "360a85d7-bfd5-40a4-939e-b2f2925c918b",
+      "dutyDetail": "Participate in cyber war gaming and simulations (technical & non-technical).for example to better understand cyber-attack and defence, rehearse responses, test and evaluate cyber security techniques",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": [
+        "a7897997-acaa-42b5-b317-6ffee043117f",
+        "32047ed6-0535-49fc-b94e-04095a65ed04",
+        "0ba466b8-c907-4cc7-b2bb-045d7bd6545a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "83844b87-d56c-4701-af92-8476a1dba742",
+      "dutyDetail": "Keep up to date with industry trends and developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744"
+      ],
+      "mappedKnowledge": [
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9"
+      ],
+      "mappedOptions": null,
+      "mappedSkills": null,
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76c4cdb6-ec9a-4d90-9743-e440759c8a51",
+      "dutyDetail": "Work from a given design requirement to design, build and test digital networks",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": [
+        "cea8705b-2d2b-449f-8938-6ca3fef4106a"
+      ],
+      "mappedSkills": [
+        "4d048d24-018d-4ea5-add4-66ae144982a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84439ffa-1de8-465f-9259-044f1c85c2a0",
+      "dutyDetail": "Analyse security requirements and develop a security case taking account of all applicable laws and regulations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "8ce0d63d-0c38-4730-95ba-e0ca2322bd11"
+      ],
+      "mappedOptions": [
+        "cea8705b-2d2b-449f-8938-6ca3fef4106a",
+        "cf055020-be9d-4c4d-bc60-004bf9fa6499"
+      ],
+      "mappedSkills": [
+        "3e667f09-e4d0-43f2-97a1-1778a31308d3",
+        "f26bd634-3554-48b3-8c35-4008eb030206"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6cf61587-292b-42a7-9cc8-51902fa6b49b",
+      "dutyDetail": "Implement structured and reasoned security controls in a digital system in accordance with a security case",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "366d65f2-2eab-48ed-ba60-a419457f22e3",
+        "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": [
+        "cea8705b-2d2b-449f-8938-6ca3fef4106a"
+      ],
+      "mappedSkills": [
+        "896060d0-dbff-409f-b75c-f657a0851d6e",
+        "c807e7bc-427b-4ab5-ac36-e2aca2dac475",
+        "0ffd4b87-5186-4528-95a7-bfdba5b7b3da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d4515db2-fd9b-4512-935e-0f6bc3e3e553",
+      "dutyDetail": "Conduct cyber security risk assessments",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "c4430f4a-19a1-403f-a3f2-1ab71085c5b8",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": [
+        "cf055020-be9d-4c4d-bc60-004bf9fa6499"
+      ],
+      "mappedSkills": [
+        "a7897997-acaa-42b5-b317-6ffee043117f",
+        "32047ed6-0535-49fc-b94e-04095a65ed04",
+        "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
+        "0ba466b8-c907-4cc7-b2bb-045d7bd6545a",
+        "196ffcf1-ca80-4b81-b78c-49890551c006",
+        "15e28ad8-26b6-4fdb-8fdd-8a86371af8c2",
+        "49124740-8d16-4ff8-a7c7-d1342787e99b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d6698720-8a2e-4aec-9ef1-99270968a029",
+      "dutyDetail": "Conduct cyber security audits",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d"
+      ],
+      "mappedKnowledge": [
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "c4430f4a-19a1-403f-a3f2-1ab71085c5b8"
+      ],
+      "mappedOptions": [
+        "cf055020-be9d-4c4d-bc60-004bf9fa6499"
+      ],
+      "mappedSkills": [
+        "7b0e6c2c-c52e-40c7-8710-90ff29e2effd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "39cd18c1-625f-4099-957e-df1ae86e5f52",
+      "dutyDetail": "Manage local response to non-major cyber security incidents",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "53b5f6f4-621e-4ee0-8a71-d05aa29eb7f2",
+        "a3003286-be4e-46d7-9388-7a0b4f34d553",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": [
+        "5f4fe9bc-6da9-412a-b62b-86d07d5958ff"
+      ],
+      "mappedSkills": [
+        "af6d87a8-9c3f-466f-9083-7779553b3cf6",
+        "99d12df7-ba0e-4e93-a934-ffa54ea7a65e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d8f5722e-8060-43bf-a29e-6386fc527e69",
+      "dutyDetail": "Monitor technology systems (for example computer networks and computer systems) in real time to detect cyber security incidents, breaches and intrusions",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d"
+      ],
+      "mappedKnowledge": [
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "53b5f6f4-621e-4ee0-8a71-d05aa29eb7f2",
+        "a3003286-be4e-46d7-9388-7a0b4f34d553",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd"
+      ],
+      "mappedOptions": [
+        "5f4fe9bc-6da9-412a-b62b-86d07d5958ff"
+      ],
+      "mappedSkills": [
+        "32047ed6-0535-49fc-b94e-04095a65ed04",
+        "6a7b3fe8-d74d-4501-af29-7d976b4b19e3",
+        "8bb38da2-0b5b-4902-9530-778c20e876f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "58b35ec0-6c8a-4173-9fda-ad0c3f56985f",
+      "dutyDetail": "Integrate and correlate information from a variety of sources and form an informed judgement on whether an indicator constitutes a likely security incident, breach or intrusion.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f"
+      ],
+      "mappedOptions": [
+        "5f4fe9bc-6da9-412a-b62b-86d07d5958ff"
+      ],
+      "mappedSkills": [
+        "37ee5b12-fe6c-4dc8-bdcb-ff0f9641c679",
+        "19a1d525-c77b-4f73-a79f-abcd0fd3bee6",
+        "9a515987-8519-4dea-a7ac-5b524b3d957d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4da0a5de-8b90-4940-99f4-42655cd6d432",
+      "dutyDetail": "Respond to a suspected security incident, breach or intrusion in accordance with organisation procedures any defined service level agreements or performance targets.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d"
+      ],
+      "mappedKnowledge": [
+        "53b5f6f4-621e-4ee0-8a71-d05aa29eb7f2",
+        "a3003286-be4e-46d7-9388-7a0b4f34d553",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": [
+        "5f4fe9bc-6da9-412a-b62b-86d07d5958ff"
+      ],
+      "mappedSkills": [
+        "6a7b3fe8-d74d-4501-af29-7d976b4b19e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e9375e93-904f-4d46-b450-8d73d77ebeaa",
+      "dutyDetail": "Develop information security policies to achieve security outcomes within a defined scope",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714"
+      ],
+      "mappedOptions": [
+        "cf055020-be9d-4c4d-bc60-004bf9fa6499"
+      ],
+      "mappedSkills": [
+        "fcca3e07-3095-42d3-924d-079d4d383274",
+        "04666f35-a1ad-4c2f-a57e-7b8c075f08e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "821be13f-681a-4a9e-8f4f-3ea8fbc77cfe",
+      "dutyDetail": "Prevent security breaches using a variety of tools techniques and processes.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f92d45db-9f95-4f6f-9e84-38bb9772e7c7",
+        "240a2d0c-625d-4b22-92ca-fd408f670839",
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "bfc7d888-667c-430c-859e-92417c2ea32d",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790",
+        "7a7a2262-a8e7-46d8-9f31-e3b7261c90e1"
+      ],
+      "mappedKnowledge": [
+        "7509d62d-38b7-4a5d-9823-b823dc24e3b6",
+        "c91a313c-c723-45e4-b534-26289d764c12",
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd",
+        "078527e2-9a68-4dae-a5db-50488574b5a9",
+        "4e6a18d3-a223-49ba-b2d5-3fea01489714",
+        "738a6738-fa11-4d9b-9236-26046677840f",
+        "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
+      ],
+      "mappedOptions": [
+        "cea8705b-2d2b-449f-8938-6ca3fef4106a",
+        "5f4fe9bc-6da9-412a-b62b-86d07d5958ff"
+      ],
+      "mappedSkills": [
+        "a7897997-acaa-42b5-b317-6ffee043117f",
+        "32047ed6-0535-49fc-b94e-04095a65ed04",
+        "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
+        "24e24aa5-7a0d-4452-8d5c-ac0dc18ca770",
+        "bb3dcfae-b32d-4853-b580-5e0f6f776dda"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "73578e9e-c50d-475d-8b33-b74ab68a6b2f",
+      "dutyDetail": "Design and implement security awareness campaigns",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "cbb09b46-1b3a-40d0-91ed-a2e6b4060744",
+        "c10a09df-b590-40fd-a989-919cc0cd47cf",
+        "f10f0430-beae-49be-8c10-affb26599c3b",
+        "d993cbd3-1724-462d-8050-6aa6649a30dc",
+        "2eef7733-fd72-487d-86bd-f990009428bc",
+        "c6f122ef-7550-400b-aa8d-9e06c736c790"
+      ],
+      "mappedKnowledge": [
+        "191c2afe-0478-4163-9be5-8252281c9084",
+        "694d865a-9718-44ad-adb0-8796e8a6236d",
+        "bd2159cd-c952-41e8-bffa-13740a3be7cd"
+      ],
+      "mappedOptions": [
+        "cf055020-be9d-4c4d-bc60-004bf9fa6499"
+      ],
+      "mappedSkills": [
+        "15e28ad8-26b6-4fdb-8fdd-8a86371af8c2",
+        "b8c9549c-07ae-4a05-9494-572575d2463b",
+        "0dea457a-a2bb-4101-9082-f25308170dc3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "regulationDetail": []
+}
