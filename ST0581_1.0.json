@@ -1,21 +1,33 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 519,
   "referenceNumber": "ST0581",
+  "learningAimClassCode": "",
   "title": "Textile technical specialist",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/519",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0581",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2025-03-21T00:00:00",
   "earliestStartDate": "2019-11-07T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-03-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using specialist textile machinery and equipment to weave or to finish textiles.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "textile machinery",
+    "manufacturing",
+    "production",
+    "fashion",
+    "textiles"
+  ],
   "jobRoles": [
     "Weaving Overlooker",
     "Weaving Technician",
@@ -29,13 +41,12 @@
     "Textile Technologist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3663/st0581_textile-technical-specialist_l4_ap_for_publication_01112019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3663/st0581_textile-technical-specialist_l4_ap_for_publication_01112019.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is a technical role within textile and fashion advanced manufacturing companies. The occupation is a production/manufacturing role that involves the production of textiles for woven or finished fabrics. The broad purpose of the occupation is to ensure that the technical capabilities of the plant, the product and the machinery are appropriately and innovatively fined-tuned to meet customer expectations. This involves the use of specialist textile machinery and equipment, either to WEAVE or to FINISH textiles which service the world’s textile supply chain. &lt;br /&gt;&lt;br /&gt;The Textile Technical Specialist is a core and options apprenticeship standard. The options are as follows:-&lt;br /&gt;&lt;br /&gt;1) Technical Weaving - this occupation covers the whole of the weaving production operation in an advanced textile manufacturing company&lt;br /&gt;2) Technical Finishing - this occupation covers the whole of the textile finishing operation in an advanced textile manufacturing company&lt;br /&gt;&lt;br /&gt;A Textile Technical Specialist is highly skilled and can utilise, operate and maintain all equipment within either the WEAVING department or the FINISHING department.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in either of these occupational roles works in a sophisticated production environment using computer systems to plan and programme production machinery, interchanging between manufacturing facilities and laboratories. Almost all their work is indoors in controlled environments and they would usually deal with customers by telephone or email over technical matters that affect production performance.&lt;br /&gt;&lt;br /&gt;An employee in this occupation is responsible for the exact machinery programming, scientific analysis, accurate measurements, trials, whole production and efficiency as well as quality of fabric production for either the textile weaving or finishing applications. The role is heavily mechanised with the use of bespoke computer systems. It directly involves the production/output of fabrics to meet a high value market. &lt;br /&gt;&lt;br /&gt;They work in a senior role as a business’s technical expert and lead a team of operatives. They report directly to senior management and directors and have overall scrutiny and responsibility for the accuracy of manufactured products. Textile Specialist have overall autonomy for the use of production machinery, ensuring that appropriate personnel are appointed to production roles to meet demand. They are employed across micro businesses, SMEs and large businesses, ranging from small weaving and finishing businesses to large clothing businesses to meet requirements of a global fashion market.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is a technical role within textile and fashion advanced manufacturing companies. The occupation is a production/manufacturing role that involves the production of textiles for woven or finished fabrics. The broad purpose of the occupation is to ensure that the technical capabilities of the plant, the product and the machinery are appropriately and innovatively fined-tuned to meet customer expectations. This involves the use of specialist textile machinery and equipment, either to WEAVE or to FINISH textiles which service the world’s textile supply chain. &lt;br&gt;&lt;br&gt;The Textile Technical Specialist is a core and options apprenticeship standard. The options are as follows:-&lt;br&gt;&lt;br&gt;1) Technical Weaving - this occupation covers the whole of the weaving production operation in an advanced textile manufacturing company&lt;br&gt;2) Technical Finishing - this occupation covers the whole of the textile finishing operation in an advanced textile manufacturing company&lt;br&gt;&lt;br&gt;A Textile Technical Specialist is highly skilled and can utilise, operate and maintain all equipment within either the WEAVING department or the FINISHING department.&lt;br&gt;&lt;br&gt;In their daily work, an employee in either of these occupational roles works in a sophisticated production environment using computer systems to plan and programme production machinery, interchanging between manufacturing facilities and laboratories. Almost all their work is indoors in controlled environments and they would usually deal with customers by telephone or email over technical matters that affect production performance.&lt;br&gt;&lt;br&gt;An employee in this occupation is responsible for the exact machinery programming, scientific analysis, accurate measurements, trials, whole production and efficiency as well as quality of fabric production for either the textile weaving or finishing applications. The role is heavily mechanised with the use of bespoke computer systems. It directly involves the production/output of fabrics to meet a high value market. &lt;br&gt;&lt;br&gt;They work in a senior role as a business’s technical expert and lead a team of operatives. They report directly to senior management and directors and have overall scrutiny and responsibility for the accuracy of manufactured products. Textile Specialist have overall autonomy for the use of production machinery, ensuring that appropriate personnel are appointed to production roles to meet demand. They are employed across micro businesses, SMEs and large businesses, ranging from small weaving and finishing businesses to large clothing businesses to meet requirements of a global fashion market.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "ad3b0f57-e122-4b80-bd1f-076f3f9a4914",
@@ -170,34 +181,28 @@
       "detail": "Manage raw materials (fabric) to ensure PH, water and chemical levels are exact and fit for customer requirement. Manage the input and output of fabrics to ensure services are maintained and monitored including environmental impact assessments."
     }
   ],
-  "options": [
-    {
-      "optionId": "8e37c746-e425-49fb-bbf0-e1f71a9cb072",
-      "title": "Technical Weaving Technician"
-    },
-    {
-      "optionId": "c2c14232-9a83-4a3c-9036-b78c70aa12d1",
-      "title": "Technical Finishing Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "UK Fashion & Textile Association (UKFT)",
-    "contactName": "John West",
-    "contactAddress": "3 Queen Square<br>LONDON<br>WC1N 3AR",
-    "contactEmail": "john.west@ukft.org",
-    "webLink": "https://www.ukft.org/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-11-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0347",
   "tbMainContact": "martinjenkins@textile-training.com",
   "involvedEmployers": "Bower Roebuck & Co Ltd, Cosmotec, English Fine Cottons, Autoliv, Holmfirth Dyers, H & C Whitehead, Mallalieus of Delph, Schlegel Products, Samuel Weller & Sons, William Reed Weaving, Wyedean Weaving, OJAM Jacquard Weavers, SIL Holdings, Marton Mills Co Ltd, Townend Weaving, Shirley Dyeing & Finishing, Carrington Workwear, Pincroft Dyeing & Printing, Antich & Sons (Huddersfield), Burberry, Camira Fabrics, Heathcoat Fabrics, WooltexUK, Bulmer & Lumb, J Bradbury Fabrics",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -213,19 +218,25 @@
     "Production Managers",
     "Textile Technologist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Manufacturing, Plant and Process Technologist",
+  "clusterId": "265",
+  "clusterDescription": "Develop and improve technology of the manufacturing plant and equipment for a whole process",
   "createdDate": "2019-05-31T11:06:44 +00:00",
-  "lastUpdated": "2019-11-07T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/textile-technical-specialist-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/textile-technical-specialist-v1-0",
+  "lastUpdated": "2025-03-21T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-11-07T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0581",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0581-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0581-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Textile Institute / LICENTIATESHIP MEMBERSHIP",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -248,7 +259,7 @@
         "3ece67e0-a867-40ef-b54f-ade723de0a2a",
         "6c873493-4377-4bf5-ba85-cfbc70366af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ad3241b-f572-4c6f-829f-9e9c6b4232d5",
         "b5070ffa-9cf0-43c2-a205-808410bd5606",
@@ -277,7 +288,7 @@
         "2d451b32-8a4f-4831-8206-2b2c45dfc226",
         "3ece67e0-a867-40ef-b54f-ade723de0a2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5070ffa-9cf0-43c2-a205-808410bd5606",
         "7f0f92fd-2869-4d39-961a-0822343d9e95"
@@ -299,7 +310,7 @@
         "2d451b32-8a4f-4831-8206-2b2c45dfc226",
         "3ece67e0-a867-40ef-b54f-ade723de0a2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3fc4c5d9-674d-461e-a29d-1f8ed83f9499",
         "7f0f92fd-2869-4d39-961a-0822343d9e95"
@@ -322,7 +333,7 @@
         "3ece67e0-a867-40ef-b54f-ade723de0a2a",
         "6c873493-4377-4bf5-ba85-cfbc70366af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d44f94d6-c160-44f4-9965-9dbe5b672602",
         "8684ab42-5566-41dc-9db5-bf01b7fb2a86",
@@ -346,7 +357,7 @@
         "ad3b0f57-e122-4b80-bd1f-076f3f9a4914",
         "2d451b32-8a4f-4831-8206-2b2c45dfc226"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ad3241b-f572-4c6f-829f-9e9c6b4232d5",
         "b5070ffa-9cf0-43c2-a205-808410bd5606"
@@ -369,7 +380,7 @@
         "2d451b32-8a4f-4831-8206-2b2c45dfc226",
         "3ece67e0-a867-40ef-b54f-ade723de0a2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5070ffa-9cf0-43c2-a205-808410bd5606",
         "3fc4c5d9-674d-461e-a29d-1f8ed83f9499",
@@ -392,7 +403,7 @@
         "2d451b32-8a4f-4831-8206-2b2c45dfc226",
         "6c873493-4377-4bf5-ba85-cfbc70366af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d44f94d6-c160-44f4-9965-9dbe5b672602",
         "8684ab42-5566-41dc-9db5-bf01b7fb2a86",
@@ -418,7 +429,7 @@
         "2d451b32-8a4f-4831-8206-2b2c45dfc226",
         "3ece67e0-a867-40ef-b54f-ade723de0a2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d44f94d6-c160-44f4-9965-9dbe5b672602",
         "472e4c3f-3695-42f2-ad15-e0fe1a049001"
@@ -440,7 +451,7 @@
         "3ece67e0-a867-40ef-b54f-ade723de0a2a",
         "6c873493-4377-4bf5-ba85-cfbc70366af6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3fc4c5d9-674d-461e-a29d-1f8ed83f9499"
       ],
@@ -794,5 +805,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "8e37c746-e425-49fb-bbf0-e1f71a9cb072",
+      "title": "Technical Weaving Technician",
+      "occupationCode": "OCC0581B"
+    },
+    {
+      "optionId": "c2c14232-9a83-4a3c-9036-b78c70aa12d1",
+      "title": "Technical Finishing Technician",
+      "occupationCode": "OCC0581A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-21T00:00:00"
 }
