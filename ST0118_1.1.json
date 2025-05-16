@@ -1,0 +1,697 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 80,
+  "referenceNumber": "ST0118",
+  "learningAimClassCode": "",
+  "title": "Data analyst",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0118",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Standard, funding band and end-point assessment plan revised.",
+  "changedDate": "2021-06-01T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Collect, organise and study data to provide business insight.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "Maths",
+    "statistics",
+    "data",
+    "analyst",
+    "business",
+    "digital"
+  ],
+  "jobRoles": [
+    "Data Analyst",
+    "Departmental Data Analyst",
+    "Problem Analyst",
+    "Junior Analyst",
+    "Marketing Data Analyst",
+    "Energy Data Analyst"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5154/st0118_data-analyst-_l4_ap-for-publication_20210602.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in any employer in any sector that uses data to make business decisions. Data analysts may work in various departments within a single employer, (for example finance, sales, HR, manufacturing, or marketing), and in any employment sector, public or private, including retail, distribution, defence, banking, logistics, media, local government etc.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to ascertain how data can be used in order to answer questions and solve problems. Data analysis is a process of requirement-gathering, inspecting, cleansing, transforming and modelling data with the goal of discovering useful information, informing conclusions and supporting decision-making. Data analysis has multiple facets and approaches, encompassing diverse techniques under a variety of names. In today&#39;s world, data analysis plays a crucial role in making decisions more evidence-based and helping organisations operate more effectively.&lt;/p&gt;\n&lt;p&gt;For example: a data analyst may investigate social media trends and their impact on the organisation. In retail, a data analyst may break down sales figures to make recommendations on product placement and development. In HR a data analyst may investigate staff retention rates, in order to decide on recruitment strategy. In a hospital, a data analyst may investigate wait times for different departments, in order to provide a better service to its patients.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal or external clients. Internally, the data analyst may work with many people within their organisation, at different levels. Externally a data analyst may provide data analysis services to other organisations on behalf of their employer. Data analysts would normally be office based and work normal business hours.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the creation and delivery of their own work, to meet business objectives. The data analyst will be responsible for working within the data architecture of the company and ensuring that the data is handled in a compliant, safe and appropriately secure manner, understanding and adhering to company data policy and legislation. Data analysis is a fast-moving and changing environment, and data analysts need to continue to stay abreast of, and engaged with, changes and trends in the wider industry; including data languages, tools and software, and lessons learnt elsewhere.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+      "detail": "current relevant legislation and its application to the safe use of data"
+    },
+    {
+      "knowledgeId": "730060fd-857e-4375-b061-79eb315ee093",
+      "detail": "organisational data and information security standards, policies and procedures relevant to data management activities"
+    },
+    {
+      "knowledgeId": "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+      "detail": "principles of the data life cycle and the steps involved in carrying out routine data analysis tasks"
+    },
+    {
+      "knowledgeId": "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+      "detail": "principles of data, including open and public data, administrative data, and research data"
+    },
+    {
+      "knowledgeId": "32756017-edd9-41ec-9a63-b43675137670",
+      "detail": "the differences between structured and unstructured data"
+    },
+    {
+      "knowledgeId": "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+      "detail": "the fundamentals of data structures, database system design, implementation and maintenance"
+    },
+    {
+      "knowledgeId": "7a032700-df21-4eff-b9dc-514f199e9ba8",
+      "detail": "principles of user experience and domain context for data analytics"
+    },
+    {
+      "knowledgeId": "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+      "detail": "quality risks inherent in data and how to mitigate or resolve these"
+    },
+    {
+      "knowledgeId": "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+      "detail": "principal approaches to defining customer requirements for data analysis"
+    },
+    {
+      "knowledgeId": "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+      "detail": "approaches to combining data from different sources"
+    },
+    {
+      "knowledgeId": "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+      "detail": "approaches to organisational tools and methods for data analysis"
+    },
+    {
+      "knowledgeId": "c8a26d48-b186-42f7-b6be-185640030dd3",
+      "detail": "organisational data architecture"
+    },
+    {
+      "knowledgeId": "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+      "detail": "principles of statistics for analysing datasets"
+    },
+    {
+      "knowledgeId": "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197",
+      "detail": "the principles of descriptive, predictive and prescriptive analytics"
+    },
+    {
+      "knowledgeId": "70265583-45a4-4885-9cbc-ae27527f7232",
+      "detail": "the ethical aspects associated with the use and collation of data"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+      "detail": "maintain a productive, professional and secure working environment"
+    },
+    {
+      "behaviourId": "105b45ea-4b76-4da8-9106-57041eed8889",
+      "detail": "show initiative, being resourceful when faced with a problem and taking responsibility for solving problems within their own remit"
+    },
+    {
+      "behaviourId": "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+      "detail": "work independently and collaboratively"
+    },
+    {
+      "behaviourId": "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+      "detail": "logical and analytical"
+    },
+    {
+      "behaviourId": "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+      "detail": "identify issues quickly,  investigating and solving complex problems and applying appropriate solutions. Ensures the true root cause of any problem is found and a solution is identified which prevents recurrence."
+    },
+    {
+      "behaviourId": "e38da79e-8579-426b-8cab-c654700a6793",
+      "detail": "resilient - viewing obstacles as challenges and learning from failure."
+    },
+    {
+      "behaviourId": "2f3fca90-2663-4a01-971f-5fec110425e4",
+      "detail": "adaptable to changing contexts within the scope of a project, direction of the organisation or Data Analyst role."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0f653e42-8d6a-47aa-aebf-c528b7360744",
+      "detail": "Use data systems securely to meet requirements and in line with organisational procedures and legislation including principles of Privacy by Design"
+    },
+    {
+      "skillId": "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+      "detail": "implement the stages of the data analysis lifecycle"
+    },
+    {
+      "skillId": "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+      "detail": "apply principles of data classification within data analysis activity"
+    },
+    {
+      "skillId": "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+      "detail": "analyse data sets taking account of different data structures and database designs"
+    },
+    {
+      "skillId": "536ff146-4677-4ab3-badf-36d396fddb51",
+      "detail": "assess the impact on user experience and domain context on data analysis activity"
+    },
+    {
+      "skillId": "1793bf1f-6dc2-49dc-a2c3-f401c796f64e",
+      "detail": "identify and escalate quality risks in data analysis with suggested mitigation or resolutions as appropriate"
+    },
+    {
+      "skillId": "1c370e79-8d03-4656-8ba5-760c7ea09505",
+      "detail": "undertake customer requirements analysis and implement findings in data analytics planning and outputs"
+    },
+    {
+      "skillId": "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+      "detail": "identify data sources and the risks and challenges to combination within data analysis activity "
+    },
+    {
+      "skillId": "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+      "detail": "apply organizational architecture requirements to data analysis activities"
+    },
+    {
+      "skillId": "ebadc4be-71a9-4b16-b88b-95842eca8084",
+      "detail": "apply statistical methodologies to data analysis tasks"
+    },
+    {
+      "skillId": "dcfaad07-8761-4b86-a91e-3517b3b83571",
+      "detail": "apply predictive analytics in the collation and use of data"
+    },
+    {
+      "skillId": "7ecc7836-6d86-488f-a2f9-5332d3989c2e",
+      "detail": "collaborate and communicate with a range of internal and external stakeholders using appropriate styles and behaviours to suit the audience"
+    },
+    {
+      "skillId": "4dff5a4f-ecfd-4517-a999-6aee447fddef",
+      "detail": "use a range of analytical techniques such as data mining, time series forecasting and modelling techniques to identify and predict trends and patterns in data"
+    },
+    {
+      "skillId": "cf154ceb-3596-417a-851e-fc28a887aa36",
+      "detail": "collate and interpret qualitative and quantitative data and convert into infographics, reports, tables, dashboards and graphs"
+    },
+    {
+      "skillId": "189f7375-5bd9-4b77-8a17-1dc6e43cd64e",
+      "detail": "select and apply the most appropriate data tools to achieve the optimum outcome"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-03-23T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0551",
+  "tbMainContact": "Rebecca.Plant@microsoft.com",
+  "involvedEmployers": "Estee Lauder, UBS, Risual Ltd, Network Rail, DMG Media, University of West London",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Data Analyst",
+    "Departmental Data Analyst",
+    "Problem Analyst",
+    "Junior Analyst",
+    "Marketing Data Analyst",
+    "Energy Data Analyst"
+  ],
+  "greenJobTitles": [
+    "Energy Data Analyst"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Data analyst advanced technician",
+  "clusterId": "189",
+  "clusterDescription": null,
+  "createdDate": "2021-06-01T08:27:15 +00:00",
+  "lastUpdated": "2021-06-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-03-23T00:00:00 +00:00",
+  "banners": "A temporary dispensation has been applied to the ST0118 V1.1 end point assessment plan for this apprenticeship. The dispensation will remain live until redundant apprentices identified in the dispensation request have completed their EPA, including any resits and retakes, when it will then be withdrawn. The end-point assessment organisation (EPAO) delivering the EPA for the apprenticeship will implement the dispensation as required and agreed by IfATE, supported and monitored by the relevant EQA provider (EQAP).\nThe key changes are:\nThe Training Provider will step in as the employer for the duration of the EPA period in order to ensure that apprentices that have been made redundant can conduct their work based project and complete their apprenticeship.\nThe dispensation applies to the agreed apprentices only. EPAOs must contact IfATE for each individual case. If your organisation is planning delivery of this EPA, you should follow the requirements as detailed in the plan as the dispensation is intended to support specific apprentices only.\nPlease contact the Institute for Apprenticeships and Technical Education via enquiries.ifa@education.gov.uk should you require any further clarity.; This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised are available in the revisions status report.",
+  "occupationCode": "OCC0118",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0118-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0118-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "a52734e7-832e-4532-9390-1a6bd0544128",
+      "dutyDetail": "Identify data sources to meet the organisation's requirement, using evidence-based decision making to establish a rationale for inclusion and exclusion of various data sets and models",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "189f7375-5bd9-4b77-8a17-1dc6e43cd64e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b63ebc70-65b6-4314-92c0-0923ec5c7d57",
+      "dutyDetail": "Liaise with the client and colleagues from other areas of the organisation to establish reporting needs and deliver insightful and accurate information",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "e38da79e-8579-426b-8cab-c654700a6793",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2dc1ade0-9aa8-413d-8d73-5c7d004c46cb",
+      "dutyDetail": "Collect, compile and, if needed, cleanse data, such as sales figures, Digital Twins etc. solving any problems that arise, to or from a range of internal and external systems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "e38da79e-8579-426b-8cab-c654700a6793",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "1793bf1f-6dc2-49dc-a2c3-f401c796f64e",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "4dff5a4f-ecfd-4517-a999-6aee447fddef"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fb88743-d798-45c6-a53d-00b35a5d4c55",
+      "dutyDetail": "Produce performance dashboards and reports in the Visualisation and Model Building Phase",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "dcfaad07-8761-4b86-a91e-3517b3b83571",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e",
+        "4dff5a4f-ecfd-4517-a999-6aee447fddef",
+        "cf154ceb-3596-417a-851e-fc28a887aa36",
+        "189f7375-5bd9-4b77-8a17-1dc6e43cd64e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "726cbc3c-6311-4eb7-a0c1-e673af0ed487",
+      "dutyDetail": "Support the organisation by maintaining and developing reports for analysis to aid with decisions, and adhering to organisational policy/legislation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "cf154ceb-3596-417a-851e-fc28a887aa36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e38de336-835d-46c4-9915-0fd42976f56c",
+      "dutyDetail": "Produce a range of standard and non standard statistical and data analysis reports in the Model Building phase",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "e38da79e-8579-426b-8cab-c654700a6793",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "0e646441-f9f9-4b1b-ad16-1827b4a2ae0a",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "dcfaad07-8761-4b86-a91e-3517b3b83571",
+        "4dff5a4f-ecfd-4517-a999-6aee447fddef",
+        "cf154ceb-3596-417a-851e-fc28a887aa36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4dcfd214-a210-4007-8eb5-c646714acd3f",
+      "dutyDetail": "Identify, analyse, and interpret trends or patterns in data sets",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1793bf1f-6dc2-49dc-a2c3-f401c796f64e",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "dcfaad07-8761-4b86-a91e-3517b3b83571",
+        "4dff5a4f-ecfd-4517-a999-6aee447fddef",
+        "cf154ceb-3596-417a-851e-fc28a887aa36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e5ee39c9-c65e-43f1-a9bc-ac362fe1f3e5",
+      "dutyDetail": "Draw conclusions and recommend an appropriate response, offer guidance or interpretation to aid understanding of the data ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "dcfaad07-8761-4b86-a91e-3517b3b83571",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e",
+        "4dff5a4f-ecfd-4517-a999-6aee447fddef",
+        "cf154ceb-3596-417a-851e-fc28a887aa36"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a2a4955-d91b-4b07-8939-a29f2ca649fa",
+      "dutyDetail": "Summarise and present the results of data analysis to a range of stakeholders, making recommendations",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e",
+        "cf154ceb-3596-417a-851e-fc28a887aa36",
+        "189f7375-5bd9-4b77-8a17-1dc6e43cd64e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42cfe633-337c-4cfd-accd-23934f207f60",
+      "dutyDetail": "Provide regular reports and analysis to different management or leadership teams, ensuring data is used and represented ethically in line with relevant legislation (e.g. GDPR which incorporates Privacy by Design).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "d6cc43cb-4b9e-49bf-9e93-effdce1d2538",
+        "32756017-edd9-41ec-9a63-b43675137670",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "20c2922f-1b3e-449d-85e1-5109ceec4b0a",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "536ff146-4677-4ab3-badf-36d396fddb51",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "ebadc4be-71a9-4b16-b88b-95842eca8084",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e",
+        "cf154ceb-3596-417a-851e-fc28a887aa36",
+        "189f7375-5bd9-4b77-8a17-1dc6e43cd64e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "58319d6b-f820-4f50-8147-e1b3a87848c7",
+      "dutyDetail": "Ensure data is appropriately stored and archived, in line with relevant legislation e.g. GDPR",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844"
+      ],
+      "mappedKnowledge": [
+        "30fcfea5-b6e7-45fb-9a94-a844ce7b8d4e",
+        "730060fd-857e-4375-b061-79eb315ee093",
+        "1cbbe2e3-989d-4e5f-ae94-75815548d011",
+        "fa55cfbf-e12e-4be6-ac11-1c81c6e82865",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "c8a26d48-b186-42f7-b6be-185640030dd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "02a9c5f9-e5e3-4369-ac4e-3b968e568e75",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "cb3bd8d8-f338-4e27-8da8-66b4215ee62d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f3794fd-3c26-499c-80fd-d0833d4ce7a5",
+      "dutyDetail": "Practice continuous self learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "73baabb8-3d0e-43b3-9027-57f929cc37b4",
+        "105b45ea-4b76-4da8-9106-57041eed8889",
+        "d9a719e2-ae60-4dbf-9ccb-ee5b25b1666c",
+        "98a77de1-e7b5-4b37-8b7d-a74b35983844",
+        "58065f03-ece9-4d40-b6c4-e647c23a0eb6",
+        "e38da79e-8579-426b-8cab-c654700a6793",
+        "2f3fca90-2663-4a01-971f-5fec110425e4"
+      ],
+      "mappedKnowledge": [
+        "7a032700-df21-4eff-b9dc-514f199e9ba8",
+        "72c1e6d1-ad07-48ac-bdf1-d12af9060313",
+        "7031535b-a3b4-4636-861d-42e9f9f7b29a",
+        "6baf3f1f-6dce-441f-9683-a1c1bb0298b3",
+        "49dcd81a-3d4f-4f64-aa04-60cb65b46643",
+        "877b2c1c-7e7f-4094-86f4-b2c1d5c7b197",
+        "70265583-45a4-4885-9cbc-ae27527f7232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0f653e42-8d6a-47aa-aebf-c528b7360744",
+        "d7636bb4-7fbd-4c93-8a14-bd6359d251d2",
+        "ab0b2ed2-76a6-4c2c-bede-3346f781d415",
+        "1793bf1f-6dc2-49dc-a2c3-f401c796f64e",
+        "1c370e79-8d03-4656-8ba5-760c7ea09505",
+        "7ecc7836-6d86-488f-a2f9-5332d3989c2e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-06-01T00:00:00"
+}
