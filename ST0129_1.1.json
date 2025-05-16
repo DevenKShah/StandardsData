@@ -1,0 +1,935 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 91,
+  "referenceNumber": "ST0129",
+  "learningAimClassCode": "",
+  "title": "Software tester",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0129",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Standard, end-point assessment plan and funding revised.",
+  "changedDate": "2022-07-28T00:00:00",
+  "earliestStartDate": "2022-05-16T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Carrying out tests to make sure computer software works as intended and is fit for purpose.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "quality assurance",
+    "analysis",
+    "software",
+    "programming",
+    "coding",
+    "assessing code",
+    "project support",
+    "applications"
+  ],
+  "jobRoles": [
+    "Automation tester",
+    "Integration tester",
+    "Penetration tester",
+    "Software qa tester",
+    "Software test analyst.",
+    "Software tester"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6104/20200729_st0129_software-tester_l4_annotated-assessment-plan_clean-version.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;A software tester is found in any organisation that develops and applies software. This ranges from large multi-national organisations with dedicated teams of software testers to small consulting firms that work on a contract basis to deliver software testing services to a varied client base. For example, within financial services a software tester could be integral to testing software for delivering bespoke payroll or HR services whereas in a large corporate they could be providing consultancy services for global multi-national clients across a range of software products. Software Testers are responsible for ensuring that the software developed meets the business&#39;s functional, security, performance, and usability requirements by participating in development activity at all stages of the software development life cycle..&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to ensure that software operates as intended for Software development practices so that they understand the context in which they are operating. Software Testers are responsible for the quality of software development and&#160;deployment with a view to the commercial requirements of the client and their organisational parameters. Some of the duties include analysis of software and systems to mitigate the risk of software problems arising and making informed recommendations to internal and external clients. Software testers are involved particularly in the quality assurance stage of software development and deployment. They conduct manual and automated tests to ensure the software created by developers is fit for purpose and any bugs or issues are removed within a product before it gets deployed to everyday users. The Software Tester role is integral to the creation of software systems and technical&#160;products. A Software Tester might work on bespoke, individual projects creating enterprise solutions for email compliance and marketing. or multinational projects spanning the globe&#160;and costing billions of pounds. In a defence and security context they may interact with cyber security teams to ensure that software developed is secure from inception.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of software testing teams, other areas within the organisation&#39;s software development function and business areas commissioning software testing services, as well as external clients and other associated stakeholders. This is an office based or remote working role with some visits to client’s premises.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively within a team&#160;and with stakeholders with a minimum of direct supervision within broad but generally well defined parameters, A Software Tester will be required to apply their knowledge and skills in a broad range of&#160;complex or technical work activities, performed in a variety of contexts. They will address&#160;problems which are both routine and non-routine while normally fairly well defined. They&#160;will take responsibility for courses of action, including, where relevant, responsibility for the work of others and allocation of resources. They will typically pair with other technical roles such as software developers, or work alone at times, and provide input to the planning of work and advise on risks and improvements within software products.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "869b2949-290e-4f5a-b6a9-4336fb071419",
+      "detail": "the relationship between testing and quality assurance and how testing contributes to higher quality"
+    },
+    {
+      "knowledgeId": "1f12255d-9665-457d-a540-61b92eeca21a",
+      "detail": "the difference between error, defect, and failure including the distinction between the root cause of a defect and its effects"
+    },
+    {
+      "knowledgeId": "58dc03e7-16aa-4939-b252-05f56d8be220",
+      "detail": "the impact of context on the test process including the activities, tasks and work products that support the test process"
+    },
+    {
+      "knowledgeId": "0576db4d-3e0f-423c-aeb9-18220799daca",
+      "detail": "the need for traceability between the requirements/test basis and the test work products"
+    },
+    {
+      "knowledgeId": "e4362063-6faf-478b-baee-ff0294be26d7",
+      "detail": "the principles underpinning the psychology of testing including how the required mindset differsfrom the development mindset, and how this can influence success of software testing activities."
+    },
+    {
+      "knowledgeId": "a4886d4c-6831-49b6-b506-1e600ddcf346",
+      "detail": "the importance of accuracy and clear documentation of software tests and defects. "
+    },
+    {
+      "knowledgeId": "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+      "detail": "The relationship between test activities and software development activities in the SoftwareDevelopment Lifecycle"
+    },
+    {
+      "knowledgeId": "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+      "detail": "the application of testing across different recognised software development methodologies (sequential and iterative)"
+    },
+    {
+      "knowledgeId": "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+      "detail": "the range and features of software test types within the broad categories of Functional, Non-Functional, White Box/Structural and Change-related Testing"
+    },
+    {
+      "knowledgeId": "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+      "detail": "the objectives and approaches for testing at different Test Levels (such as Unit Testing, Component Integration Testing, System Testing, System Integration Testing and User AcceptanceTesting)."
+    },
+    {
+      "knowledgeId": "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+      "detail": "the role of static testing techniques and the review process in early defect detection"
+    },
+    {
+      "knowledgeId": "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+      "detail": "the characteristics of Black Box, White Box and Experience-based Test Techniques"
+    },
+    {
+      "knowledgeId": "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+      "detail": "the application of common Black Box Techniques to derive test conditions and test cases (Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing and State TransitionTesting)"
+    },
+    {
+      "knowledgeId": "94649ec8-1e0e-4498-9c29-13860a156fef",
+      "detail": "the role of software testing within the context of project and product risk reduction in the systems development life cycle."
+    },
+    {
+      "knowledgeId": "d7fd3e5e-f288-476a-8e39-65976288a128",
+      "detail": "the defect management process"
+    },
+    {
+      "knowledgeId": "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+      "detail": "the typical metrics used to support the monitoring and control of testing"
+    },
+    {
+      "knowledgeId": "c4e1e2d0-17bf-4211-ad75-895644358842",
+      "detail": "the classification of tools to support testing"
+    },
+    {
+      "knowledgeId": "d25a7668-b766-4480-835c-babad4069b7f",
+      "detail": "the role of test automation in the context of the software development lifecycle"
+    },
+    {
+      "knowledgeId": "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+      "detail": "the need for conformance to specific industry standards where appropriate (such as GDPR, health informatics, safety critical, etc.) related to software testing"
+    },
+    {
+      "knowledgeId": "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+      "detail": "where Software Testers fit within the wider team and the roles and responsibilities that others play"
+    },
+    {
+      "knowledgeId": "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+      "detail": "the characteristics of software architecture that impact on software testing in the development lifecycle"
+    },
+    {
+      "knowledgeId": "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+      "detail": "the core testing behaviours, skills and tools that are common to developers, testers, and multi-skilled roles in development lifecycles"
+    },
+    {
+      "knowledgeId": "c482951b-c309-4282-b8e9-cc8e414e9793",
+      "detail": "the typical security vulnerabilities that should be addressed by testing in general and specifically by penetration testing"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+      "detail": "maintains a productive, professional, and secure working environment"
+    },
+    {
+      "behaviourId": "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+      "detail": "Works independently and takes responsibility. For example, disciplined and responsible approach to risk, works diligently regardless of how much they are being supervised,accepts responsibility for managing their own time and workload and stays motivated and committed when facing challenges"
+    },
+    {
+      "behaviourId": "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+      "detail": "A problem solving mindset within their own remit, being inquisitive and resourceful when faced with a problem to solve. Applies appropriate solutions. ensuring the true root cause of anyproblem is found and a solution is identified which prevents recurrence"
+    },
+    {
+      "behaviourId": "f0a93060-2762-4af4-b6d6-3d159dc075df",
+      "detail": "Applies logical thinking, for example, uses clear and valid reasoning when making decisions related to undertaking the work instructions"
+    },
+    {
+      "behaviourId": "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+      "detail": "analytical - uses informal and formal techniques to deconstruct a scenario or test basis to identify tests that will demonstrate software and systems are fit for purpose"
+    },
+    {
+      "behaviourId": "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+      "detail": "Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity"
+    },
+    {
+      "behaviourId": "e5c8228d-32c4-45b0-866b-b062bf4c0e94",
+      "detail": "Communicates effectively in a wide variety of situations; for example, contributing effectively to meetings and presenting complex information to technical and non-technical audience."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+      "detail": "apply static test techniques"
+    },
+    {
+      "skillId": "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+      "detail": "apply Black Box test techniques such as Equivalence Partitioning, Boundary Value Analysis, Decision Table Testing and State Transition Testing"
+    },
+    {
+      "skillId": "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+      "detail": "analyse test objectives and requirements/test basis to define test scope and coverage criteria"
+    },
+    {
+      "skillId": "38769488-3e2d-4327-b64b-8cb85cd46f56",
+      "detail": "use tools to automate, manage or support any test activity"
+    },
+    {
+      "skillId": "c2a06770-471b-4918-b434-d0c43313b5a2",
+      "detail": "Apply a regression strategy including selection of tests, maintenance of regression suites and identifying tests suitable for automation"
+    },
+    {
+      "skillId": "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+      "detail": "use defect tracking tools"
+    },
+    {
+      "skillId": "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+      "detail": "adapt and apply testing activities according to industry standard development methodologies (sequential and iterative)"
+    },
+    {
+      "skillId": "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+      "detail": "apply the range of different software test types within the broad categories of Functional, Non-Functional (Security, Performance & Usability), and White Box/Structural Testing"
+    },
+    {
+      "skillId": "8f2cbb08-af43-4353-9fbe-3ef955889516",
+      "detail": "apply and support testing at different Test Levels appropriate to the Software Development Lifecycle (such as Unit Testing, Component Integration Testing, System Testing, System Integration Testing and User Acceptance Testing), taking into account the fundamentals of testing"
+    },
+    {
+      "skillId": "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+      "detail": "conform to specific industry standards where appropriate (such as GDPR, health informatics, safety critical, etc.) related to software testing"
+    },
+    {
+      "skillId": "9699f20a-a3ee-40a6-928a-5051824e66bb",
+      "detail": "maintain up to date knowledge of technological developments in the field of Software Testing"
+    },
+    {
+      "skillId": "e7043c7f-f560-4b29-be2e-10718bcd731c",
+      "detail": "record and interpret test progress and results, communicating test status to the relevant stakeholders"
+    },
+    {
+      "skillId": "6a6a6e47-4833-4037-a59f-1c72d36857a9",
+      "detail": "Design and follow tests to achieve coverage criteria"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-04-21T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0546",
+  "tbMainContact": "Ian.howles@ibm.com ",
+  "involvedEmployers": "IBM, Capgemini, Microsoft, Cisco, BT, HP, The Royal Signals, Lowe and Partners, Qinetiq, Weboo, 4Ps Marketing, Fujitsu, Accenture, Atos, CGI, Visa, Contentive, Thales, Ticket Master, NCA, Virgin Media",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Automation tester",
+    "Integration tester",
+    "Penetration tester",
+    "Software qa tester",
+    "Software test analyst.",
+    "Software tester"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": null,
+  "createdDate": "2022-05-20T08:29:30 +00:00",
+  "lastUpdated": "2022-07-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-04-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0129",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0129-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0129-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "dd59c19a-a579-49b3-a665-7abecaff8682",
+      "dutyDetail": "Analyse test objectives to design and prepare a test plan that aligns with the test strategy",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ee2a5c4-5d82-4341-960c-272dc068294f",
+      "dutyDetail": "Review requirements with relevant stakeholders to identify defects early and to define a comprehensive test scope coverage based on product risk with due consideration to accessibility and usability requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "e4362063-6faf-478b-baee-ff0294be26d7",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f93a52c6-ee5e-4d27-a4ae-2678c1966f1a",
+      "dutyDetail": "Design and build test cases, test scripts/procedures, and defineexpected results to meet the test scope coverage criteria.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643"
+      ],
+      "mappedKnowledge": [
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8bbd7c4a-7cc7-414c-b03f-61861606e57a",
+      "dutyDetail": "Collect, interpret and develop representative and realistic test data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643"
+      ],
+      "mappedKnowledge": [
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ef481ee1-f478-420c-8270-92fe78e7af68",
+      "dutyDetail": "Specify test environment requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643"
+      ],
+      "mappedKnowledge": [
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7bb3711c-ec01-4516-bcbf-85435ecc8094",
+      "dutyDetail": "Conduct a range of different software test types within the broadcategories of functional, non-functional, white box/structural and change-related testing interpreting and executing test scripts usingorganisationally agreed methods and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7f853850-9ab1-4b56-9cb4-fba1b584198e",
+      "dutyDetail": "Conduct and support testing at different test levels (such as unittesting, component integration testing, system testing, system integrationtesting and user acceptance testing)",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "e4362063-6faf-478b-baee-ff0294be26d7",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0a363c1f-41b8-4cd8-8468-bfb68cec160e",
+      "dutyDetail": "Conduct testing activities on software applications such asdesktop, web, mobile, embedded, mainframe, internet of things (IoT)and AI to detect defects and demonstrate the software is fit forpurpose.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "e4362063-6faf-478b-baee-ff0294be26d7",
+        "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ff246483-30ef-48cb-b3a9-189b22b0e3c4",
+      "dutyDetail": "Operate the organisation's software testing tools.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "77a7f46c-f48b-456e-a113-73fe3a62c301",
+      "dutyDetail": "Raise defects in line with organisational policy at any point in the testprocess and progress them through to successful completion.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cc51525f-2228-4153-ab6a-922e364cdf32",
+      "dutyDetail": "Document and report test results against the acceptance criteria,record accurate data to support defect management and maintaininformation traceability between requirements, tests and defects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ccb9fec5-8b7a-490a-8e03-170350abab2c",
+      "dutyDetail": "Communicate status and metrics against test activities, test resultsand defects using appropriate communication styles and media",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f63f5e3-9e2e-4d44-9cd5-3cd00ab5a236",
+      "dutyDetail": "Advise and support others on testing activities including providingfeedback, for example on challenges arising within testing or withinmulti-disciplinary teams.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "1f12255d-9665-457d-a540-61b92eeca21a",
+        "e4362063-6faf-478b-baee-ff0294be26d7",
+        "a4886d4c-6831-49b6-b506-1e600ddcf346",
+        "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "b28b94e7-9924-4eb7-a1f0-0c665c0ee0dd",
+        "c4e1e2d0-17bf-4211-ad75-895644358842",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b40df5cc-4c82-4c77-94c0-482b77ee0de1",
+      "dutyDetail": "Store, manage and share all test and related data securely in acompliant manner",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107"
+      ],
+      "mappedKnowledge": [
+        "869b2949-290e-4f5a-b6a9-4336fb071419",
+        "58dc03e7-16aa-4939-b252-05f56d8be220",
+        "0576db4d-3e0f-423c-aeb9-18220799daca",
+        "ff7cc4de-0efb-4954-a3d4-be2ea865816d",
+        "94649ec8-1e0e-4498-9c29-13860a156fef",
+        "d7fd3e5e-f288-476a-8e39-65976288a128",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "baf27327-6d15-425d-8b4d-d814493217c7",
+      "dutyDetail": "Practice continuous self-learning to keep up to date withtechnological developments to enhance relevant skills and takeresponsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+        "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+        "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+        "f0a93060-2762-4af4-b6d6-3d159dc075df",
+        "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+        "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+        "e5c8228d-32c4-45b0-866b-b062bf4c0e94"
+      ],
+      "mappedKnowledge": [
+        "e4362063-6faf-478b-baee-ff0294be26d7",
+        "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+        "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+        "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+        "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+        "aee2cca3-8274-4e4a-b1c3-929e41b2d8e4",
+        "d25a7668-b766-4480-835c-babad4069b7f",
+        "4f9be0d4-9e87-4ac1-87c9-4f15792e102e",
+        "1d2a8952-1914-45b7-b3b6-406afd5eb278",
+        "da38d8bd-8ba0-4c20-b1e6-8e3bd385354a",
+        "b061ee9d-0f79-4d60-9fd7-bbdedcb3100a",
+        "c482951b-c309-4282-b8e9-cc8e414e9793"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+        "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+        "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+        "38769488-3e2d-4327-b64b-8cb85cd46f56",
+        "c2a06770-471b-4918-b434-d0c43313b5a2",
+        "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+        "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+        "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+        "8f2cbb08-af43-4353-9fbe-3ef955889516",
+        "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+        "9699f20a-a3ee-40a6-928a-5051824e66bb",
+        "e7043c7f-f560-4b29-be2e-10718bcd731c",
+        "6a6a6e47-4833-4037-a59f-1c72d36857a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-07-28T00:00:00"
+}
