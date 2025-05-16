@@ -1,0 +1,932 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 157,
+  "referenceNumber": "ST0213",
+  "learningAimClassCode": "",
+  "title": "Hairdressing professional",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0213",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "Standard, end-point assessment plan and funding revised",
+  "changedDate": "2023-05-23T00:00:00",
+  "earliestStartDate": "2023-05-23T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "The practical application of Hairdressing skills and knowledge, personalised to client requirements, whilst providing an outstanding service.",
+  "level": 2,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Hair and beauty",
+  "keywords": [
+    "barbering",
+    "hairdressing",
+    "hair grooming",
+    "cutting and styling",
+    "barber shop",
+    "hairdressers"
+  ],
+  "jobRoles": [
+    "Hair professional",
+    "Hair stylist",
+    "Hairdresser",
+    "Stylist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2?view=epa",
+  "ssa1": "7 Retail and Commercial Enterprise",
+  "ssa2": "7.3 Service enterprises",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the hair and beauty sector. The work environment is always customer facing, can be varied in size, style and ambiance, from a small micro salon, to a large high street premises. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to provide a range of hairdressing services that meet client requirements, that are based on a comprehensive consultation, applicable industry tests, whilst maintaining exceptional client care skills, safe working practices, meeting legal, industry and organisation standards, procedures and protocols. Hairdressing Professionals are creative, passionate, and driven professionals who work without supervision. They provide a quality service, whilst working to the highest standards and continuously developing their personal and professional skills. A Hairdressing Professional works in the hairdressing industry, which is one of the largest, most trusted and fashion forward professions. They take ownership of their work and client lists, accept responsibility, are proactive, flexible and adaptable, plan their work and time, they aim for excellence by taking exceptional pride in their work and industry. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a wide and diverse range of clients, the salon team, other associated hair and beauty professionals. They should also be able to promote themselves, their organisation, products and services using a variety of channels. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for demonstrating industry standards of professionalism, values, behaviours, communication skills, team work, retail and selling skills for clients. Completing a range of hairdressing services to create a variety of looks.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "524b3554-659a-494e-8ebc-f06408ae0777",
+      "detail": "Legal, organisational and health and safety regulations relevant to hairdressing businesses."
+    },
+    {
+      "knowledgeId": "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+      "detail": "How to maintain effective and safe methods of working and infection control when completing hairdressing services."
+    },
+    {
+      "knowledgeId": "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+      "detail": "Incidents, problems and accidents that can occur in the workplace and the actions to take, responsibilities for reporting incidents or concerns to a responsible person."
+    },
+    {
+      "knowledgeId": "b330d612-e21e-43ae-bef5-93d3ae48671c",
+      "detail": "The types of risk, work related injury and ill health associated with hairdressing (e.g. physical injuries, posture, disorders, disease, viruses, blood, contact, or air borne, dermatitis). "
+    },
+    {
+      "knowledgeId": "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+      "detail": "How to mitigate, conduct and implement a health and safety risk assessment of self and others in the workplace. "
+    },
+    {
+      "knowledgeId": "de256401-9b14-460b-b756-6d11910bb842",
+      "detail": "Hairdressing culture and career routes."
+    },
+    {
+      "knowledgeId": "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+      "detail": "Hairdressing professionalism, values, industry codes of conduct and ethics. "
+    },
+    {
+      "knowledgeId": "94a20415-bd8b-4230-8e88-667da4cc3084",
+      "detail": "Employment rights and responsibilities (e.g. contracts of employment, working hours; disciplinary and grievance processes, holiday and sickness absence and pay)."
+    },
+    {
+      "knowledgeId": "1a252285-ab39-47b2-87da-2c73dee59e78",
+      "detail": "Client care principles and practices and how to actively promote and respect equality, diversity, and inclusion. (e.g. communication, confidentiality, discretion, comfort, modesty, privacy welfare, limitations required). "
+    },
+    {
+      "knowledgeId": "02c7cfde-557c-4aca-8df6-0e257b8f526a",
+      "detail": "Ways of supporting the mental health and wellbeing of self and client. "
+    },
+    {
+      "knowledgeId": "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+      "detail": "The types of advice and guidance that should be provided prior, during and post service on the maintenance of the look, complementary services and retail products available in the salon."
+    },
+    {
+      "knowledgeId": "a983e467-2ab0-4c15-9c15-2196497de754",
+      "detail": "The benefits and drawbacks of using variety of social channels and how social media can be used to promote the business. "
+    },
+    {
+      "knowledgeId": "bd673d99-a495-4836-a3b5-36e24b9f054b",
+      "detail": "The role and function of the front of house or reception area in a hairdressing business (e.g., services, bookings, payments, retail, upselling and sales). "
+    },
+    {
+      "knowledgeId": "d424487f-ac22-437b-9d29-4b24f8d7491d",
+      "detail": "The range and use of products, tools, equipment used in hairdressing services, legal organisational requirements for the safe use and storage. "
+    },
+    {
+      "knowledgeId": "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+      "detail": "How to complete and maintain client records in accordance with legal and organisational requirements. "
+    },
+    {
+      "knowledgeId": "530a8a4d-b6d5-431d-b077-4013cfaf33d2",
+      "detail": "Teamwork principles, how and when and who to report problems to."
+    },
+    {
+      "knowledgeId": "bf383601-9947-4cac-9c94-f9edbdac552c",
+      "detail": "Methods that promote environmental and sustainable working practices (e.g. recycling, limiting use of single-use plastics, mindful use of energy and water consumption, choosing environmentally friendly products)."
+    },
+    {
+      "knowledgeId": "193115a5-09f6-419e-857d-3d7c2c70618e",
+      "detail": "The hair and skin science behind hairdressing services. "
+    },
+    {
+      "knowledgeId": "135a041d-1688-4af9-95d5-fffc144cd5de",
+      "detail": "How to complete consultation, examine and analyse the hair, skin and scalp for hairdressing services (e.g. hair classification type and characteristics tests). "
+    },
+    {
+      "knowledgeId": "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+      "detail": "How to identify the four hair classification types, the limitations in relation to the type of service, products, tools and equipment that can be used (e.g. 1-Straight hair, 2-Wavy hair, 3-Curly hair, 4-Very curly hair)."
+    },
+    {
+      "knowledgeId": "908b135b-e23d-454c-8947-70c377b741af",
+      "detail": "The legal requirements, how and when you should complete hairdressing industry tests (e.g., allergy alert, hair characteristics, test cutting /strand, incompatibility, curl/relaxing development). "
+    },
+    {
+      "knowledgeId": "cada5429-dd46-4815-82a6-56fe2d6a6708",
+      "detail": "How to recognise contra-indications that would prevent the service and a limiting factor that would restrict a service and when to refer to a general practitioner and or trichologist."
+    },
+    {
+      "knowledgeId": "0f390df9-3472-4c74-b325-2d6feeeb091d",
+      "detail": "The science behind shampooing, treating, and conditioning the hair and scalp. "
+    },
+    {
+      "knowledgeId": "df87ae64-36a2-415c-87e0-12f11f76af4a",
+      "detail": "The techniques and methodology behind shampooing, treating and conditioning the hair and scalp safety."
+    },
+    {
+      "knowledgeId": "952079d0-2cc6-4af4-8728-98f9ecfb54a1",
+      "detail": "The science behind drying and finishing hair (e.g. hair classification types, hair characteristics, alpha to beta keratin, hair hygroscopicity, humidity)."
+    },
+    {
+      "knowledgeId": "13fda7bb-fae7-4e1a-9576-e0765699e775",
+      "detail": "The techniques and methodology behind drying, styling and finishing the hair safely."
+    },
+    {
+      "knowledgeId": "92c9ae73-45c5-44ff-8ebf-ceee56d6abdc",
+      "detail": "The techniques and methodology behind setting and dressing hair safely  (e.g. sectioning, winding, setting, styling, dressing hair-up styles, plaiting/braiding, knots, twisting, curls, waves, using additional hair and accessories)."
+    },
+    {
+      "knowledgeId": "8af4c9be-6e3f-4517-a63a-80e3f59e2d0e",
+      "detail": "The cutting methodology, techniques, tools and equipment required to create different effects, distribution of weight, balance and shape to create precision and personalised looks (e.g. graduating, layering, thinning, tapering, club cutting, freehand, razoring, sectioning patterns, guidelines, creating texture, scissor over comb, clipper over comb, removing bulk, creating round, square, triangular shape)."
+    },
+    {
+      "knowledgeId": "dc41ee1e-b27c-4002-adc8-154409546194",
+      "detail": "Appropriate storage, disposal of products and adequate ventilation for chemical services. "
+    },
+    {
+      "knowledgeId": "fe9a5462-80a5-4709-b3ac-6e5fdf85fbf5",
+      "detail": "The principles of colour selection and the use of the International Colour Chart (ICC). "
+    },
+    {
+      "knowledgeId": "d691358a-05ef-4143-8bce-ceadd5585fdc",
+      "detail": "The science behind changing the depth and tone of hair. "
+    },
+    {
+      "knowledgeId": "b1f53c49-03f0-459a-9df5-97ca549e3024",
+      "detail": "The science behind changing the hair classification type using chemical services to add wave or curl. "
+    },
+    {
+      "knowledgeId": "cb9c39dc-6755-4786-86fb-df073d9f4fac",
+      "detail": "The science behind changing the hair classification type using semi-and permanent rearranging chemical services to remove curl or wave. "
+    },
+    {
+      "knowledgeId": "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+      "detail": "The types, uses, precautions, benefits and consequences of chemical services used in Hairdressing salons to change the degree of curl or straightness of the hair and the depth and tone of colour. "
+    },
+    {
+      "knowledgeId": "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+      "detail": "The techniques and methodology behind changing the hair structure using chemical services to add wave or curl"
+    },
+    {
+      "knowledgeId": "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+      "detail": "The techniques and methodology behind changing the hair structure  using semi-permanent rearranging chemical services to remove curl or wave."
+    },
+    {
+      "knowledgeId": "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+      "detail": "The techniques and methodology behind permanent rearranging and relaxing of type 3 and type 4 hair classifications. "
+    },
+    {
+      "knowledgeId": "62ed2898-6711-4285-8e16-c444ce9f12c9",
+      "detail": "The techniques and methodology behind changing  the depth and tone of hair, using a variety of techniques (e.g. root regrowth, full head application, partial head application, woven highlights, freehand). "
+    },
+    {
+      "knowledgeId": "49f9f58d-05ba-4da8-9ff0-389c4102636f",
+      "detail": "Evaluation techniques."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+      "detail": "Facilitates safe working practices, ensures safety of self and others, challenges safety issues."
+    },
+    {
+      "behaviourId": "8ad0f005-2409-449f-9956-886ceb64c90e",
+      "detail": "Flexible and adaptable to changing working environments and demands, demonstrates forward thinking to adopting new ways of thinking and working."
+    },
+    {
+      "behaviourId": "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+      "detail": "Communicates and behaves appropriately, is always helpful and courteous and adapts behaviour in response to each client and situation."
+    },
+    {
+      "behaviourId": "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+      "detail": "Demonstrates professionalism and a passion for the industry with a commitment to quality whilst working to complete services in a commercially viable time and to a high standard in a time pressured situation."
+    },
+    {
+      "behaviourId": "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+      "detail": "Meets organisational and industry standards of appearance and maintains a positive attitude, observes professional ethics and works as part of a team."
+    },
+    {
+      "behaviourId": "a581ad27-1a66-4075-abe7-31c791f564db",
+      "detail": "Maintains professional ethics, time management, self-management, integrity, respect, empathy, client confidence and confidentiality and discretion."
+    },
+    {
+      "behaviourId": "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5",
+      "detail": "Shows a willingness to learn."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+      "detail": "Adhere to legal and organisational requirements for the safe use of products, tools, materials and equipment."
+    },
+    {
+      "skillId": "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+      "detail": "Apply safe, hygienic, and effective methods of working and infection control, while completing hairdressing services."
+    },
+    {
+      "skillId": "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+      "detail": "Use communication and etiquette that meets industry requirements, suits and is appropriate to the organisation. "
+    },
+    {
+      "skillId": "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+      "detail": "Maintain the client’s confidentiality and comfort (modesty, privacy) at the start and during the service."
+    },
+    {
+      "skillId": "89f64681-4355-44f7-b257-b2a4dc678550",
+      "detail": "Advise clients (new and regular) pre, during and after service on the maintenance of the look, complementary services and retail products available in the salon."
+    },
+    {
+      "skillId": "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+      "detail": "Promote yourself, your organisation, products and services via a variety of social channels.   "
+    },
+    {
+      "skillId": "1dfa5207-6d9c-4fa6-b5f3-e685e0638486",
+      "detail": "Carry out wider salon duties to support the salon business (e.g. services, bookings, payments, retail, upselling and sales). "
+    },
+    {
+      "skillId": "ae87c084-62b6-4b03-9132-e50a9333caaf",
+      "detail": "Use a range of products, tools, equipment used in Hairdressing services in accordance with  legal organisational requirements."
+    },
+    {
+      "skillId": "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+      "detail": "Complete and maintain client records in accordance with legal and organisational requirements."
+    },
+    {
+      "skillId": "3981f594-d03a-40b6-8252-9d8f1cf57661",
+      "detail": "Work as part of a team to support the salon businesses."
+    },
+    {
+      "skillId": "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+      "detail": "Use working methods that promote environmental and sustainable working practices. "
+    },
+    {
+      "skillId": "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+      "detail": "Carry out a consultation, examine and analyse the hair, skin and scalp and complete relevant industry tests (e.g. hair classification type and characteristics tests). "
+    },
+    {
+      "skillId": "748e0795-1639-48d8-9196-86c8116b1c40",
+      "detail": "Identify (question/observation) any contraindications or limiting factors that are likely to affect or influence the service."
+    },
+    {
+      "skillId": "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+      "detail": "Shampoo, condition and treat the hair and scalp."
+    },
+    {
+      "skillId": "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+      "detail": "Dry and finish hair using a range of techniques to create a range of looks, that meets the intended shape, direction, balance and volume agreed with the client."
+    },
+    {
+      "skillId": "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+      "detail": "Use current setting and dressing techniques to create a range of looks that meets the intended shape, direction, balance, and volume agreed with the client."
+    },
+    {
+      "skillId": "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+      "detail": "Cut hair using a range of technical skills and cutting techniques to create a range of looks, considering weight distribution, cutting angles, balance and degree of graduation, and the natural growth patterns of the hair, length of the hair ( club cutting, scissor over comb, clipper over comb, texturising, freehand, thinning, layering and razor cutting)."
+    },
+    {
+      "skillId": "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+      "detail": "Restyle hair to create a personalised short or medium (above the shoulder) length hair cut, changing the shape, length and style hair using a range of cutting techniques."
+    },
+    {
+      "skillId": "4d1306ab-8b51-45cf-b184-8ae63b0dc07b",
+      "detail": "Complete a range of hair colouring and lightening services to change the depth and tone using current colouring techniques (e.g. freehand techniques, woven highlights or lowlights, root re-touch, half head and full head application, temporary, semi-permanent, demi- permanent, quasi-permanent, permanent colour and lighteners). "
+    },
+    {
+      "skillId": "29e00481-e4a2-45d2-ad89-1e764e65eeb0",
+      "detail": "Evaluate the results of the service. "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-12-21T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0044",
+  "tbMainContact": "wendycummins3@gmail.com",
+  "involvedEmployers": "Quiffys, Collinge & Co, Francesco Group, Mark Blake Hair, Rogers Barber Shops, SG Hair , Sir & Co Barbers, Smith England, The Link Hair Studio, Alan D Hairdressing , MFED, Tony & Guy Hairdressing , MJ Training, Six Salon Services",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Hair professional",
+    "Hair stylist",
+    "Hairdresser",
+    "Stylist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Hair, Beauty and Aesthetics",
+  "cluster": "Hair specialist",
+  "clusterId": "113",
+  "clusterDescription": null,
+  "createdDate": "2024-12-24T10:31:28 +00:00",
+  "lastUpdated": "2023-05-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-12-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0213",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "3c19a9e5-b5d8-4d9d-8a3d-7818cce8126a",
+      "title": "City & Guilds Level 2 Diploma for Hair Professionals - Hairdressing 603/1379/1",
+      "level": "2",
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "d795fee5-1f2a-4d8f-9ed6-0587d6883cbe",
+      "title": "TQUK Level 2 Diploma for Hair Professionals (Hairdressing) (RQF) 603/3101/X",
+      "level": "2",
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "3028c1f3-3a98-4712-9091-9ebe2ec5f44c",
+      "title": "VTCT Skills Level 2 Diploma for Hair Professionals (Hairdressing) 603/1323/7",
+      "level": "2",
+      "anyAdditionalInformation": "This is an existing qualification that is required for insurance purposes, as there are no statutory or regulatory requirements.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "2c9f3091-6acf-4951-8141-c20ca24d7b9b",
+      "dutyDetail": "Provide a positive impression of yourself, organisation and the hairdressing industry.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "de256401-9b14-460b-b756-6d11910bb842",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "94a20415-bd8b-4230-8e88-667da4cc3084",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "02c7cfde-557c-4aca-8df6-0e257b8f526a",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "a983e467-2ab0-4c15-9c15-2196497de754",
+        "bd673d99-a495-4836-a3b5-36e24b9f054b",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "530a8a4d-b6d5-431d-b077-4013cfaf33d2",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "1dfa5207-6d9c-4fa6-b5f3-e685e0638486",
+        "3981f594-d03a-40b6-8252-9d8f1cf57661",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+        "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+        "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "99e12ab3-1439-46d3-8141-43fa6f3a8fff",
+      "dutyDetail": "Adhere to health and safety, infection control, legal, industry and organisational requirements, industry protocols and manufacturer instructions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "94a20415-bd8b-4230-8e88-667da4cc3084",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "02c7cfde-557c-4aca-8df6-0e257b8f526a",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "bd673d99-a495-4836-a3b5-36e24b9f054b",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "530a8a4d-b6d5-431d-b077-4013cfaf33d2",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "df87ae64-36a2-415c-87e0-12f11f76af4a",
+        "13fda7bb-fae7-4e1a-9576-e0765699e775",
+        "92c9ae73-45c5-44ff-8ebf-ceee56d6abdc",
+        "8af4c9be-6e3f-4517-a63a-80e3f59e2d0e",
+        "dc41ee1e-b27c-4002-adc8-154409546194",
+        "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "1dfa5207-6d9c-4fa6-b5f3-e685e0638486",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+        "3981f594-d03a-40b6-8252-9d8f1cf57661",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+        "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+        "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "737e95a9-7a82-451e-89d6-23f7eda63d24",
+      "dutyDetail": "Advise, consult, examine and analyse the hair, skin and scalp.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "bd673d99-a495-4836-a3b5-36e24b9f054b",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "1dfa5207-6d9c-4fa6-b5f3-e685e0638486",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7095842a-7d67-4498-83d8-383269fc09d1",
+      "dutyDetail": "Shampoo, condition and treat hair and scalp.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "0f390df9-3472-4c74-b325-2d6feeeb091d",
+        "df87ae64-36a2-415c-87e0-12f11f76af4a",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62e202c4-cc34-46f5-bf76-ffe293a62d0f",
+      "dutyDetail": "Cut hair using a range of techniques to create a variety of looks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "8af4c9be-6e3f-4517-a63a-80e3f59e2d0e",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+        "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a9c7978-2698-44cf-b8a4-162015e12c36",
+      "dutyDetail": "Style, set, dress and finish hair using a variety of techniques to create a variety of looks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "952079d0-2cc6-4af4-8728-98f9ecfb54a1",
+        "13fda7bb-fae7-4e1a-9576-e0765699e775",
+        "92c9ae73-45c5-44ff-8ebf-ceee56d6abdc",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "66c33d04-73c5-4520-ac7e-b7cd22696b86",
+      "dutyDetail": "Change the hair classification type by one classification using chemical services ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "dc41ee1e-b27c-4002-adc8-154409546194",
+        "b1f53c49-03f0-459a-9df5-97ca549e3024",
+        "cb9c39dc-6755-4786-86fb-df073d9f4fac",
+        "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "44048d17-4ee3-4c91-b9ce-a90a4166d13e",
+      "dutyDetail": "Perform a range of chemical services to change the colour depth and tone.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "bff3affc-8bd3-472a-a7de-fab7d0cbd5b0",
+        "b330d612-e21e-43ae-bef5-93d3ae48671c",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "193115a5-09f6-419e-857d-3d7c2c70618e",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "908b135b-e23d-454c-8947-70c377b741af",
+        "cada5429-dd46-4815-82a6-56fe2d6a6708",
+        "dc41ee1e-b27c-4002-adc8-154409546194",
+        "fe9a5462-80a5-4709-b3ac-6e5fdf85fbf5",
+        "d691358a-05ef-4143-8bce-ceadd5585fdc",
+        "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "748e0795-1639-48d8-9196-86c8116b1c40",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b",
+        "29e00481-e4a2-45d2-ad89-1e764e65eeb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d6bd89f1-100d-46e3-bf6e-042d8ee2e92e",
+      "dutyDetail": "Use, apply and recommend a range of products, tools and equipment for a range of services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbd28024-f951-44ad-8f4f-541bfabeb24a",
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "ddf45815-defd-4ba9-8b11-318ee0b9ba4c",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "be8eb9e2-5f79-4cc6-a434-f7313560701b",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "524b3554-659a-494e-8ebc-f06408ae0777",
+        "a2ac5300-7451-4fb0-842e-9a91ca16d9c1",
+        "a053a7f3-5a84-497e-83e9-a8039a364d9e",
+        "6f1bbca2-88ac-48dc-bc3a-12bb7ea39c1e",
+        "1a252285-ab39-47b2-87da-2c73dee59e78",
+        "667f6245-1fd8-4540-b947-bae9fd1c48ac",
+        "bd673d99-a495-4836-a3b5-36e24b9f054b",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "0627e63b-af80-42fc-ae94-c6bfe69c961c",
+        "bf383601-9947-4cac-9c94-f9edbdac552c",
+        "135a041d-1688-4af9-95d5-fffc144cd5de",
+        "4ce88879-61b4-4ad2-aaf5-11e31e60824c",
+        "dc41ee1e-b27c-4002-adc8-154409546194",
+        "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9",
+        "49f9f58d-05ba-4da8-9ff0-389c4102636f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a78b8c4e-a944-4401-8a18-e3a8da8bb519",
+        "177b2d0f-0c7c-4b43-8075-946fc9a50352",
+        "442a3b58-9b46-477a-bde5-82cf16ba34b2",
+        "917b80f9-6ec5-49dd-848b-27f0dc81b3f4",
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "1dfa5207-6d9c-4fa6-b5f3-e685e0638486",
+        "ae87c084-62b6-4b03-9132-e50a9333caaf",
+        "f21fedfe-7cfc-43ea-9364-394e7a16b758",
+        "ce89517c-e5ca-44f0-bf2a-36d19b57a2af",
+        "e2a4f110-e387-4ebc-b5da-3ddfe0f0a272",
+        "559aa155-24f9-4d7f-97bd-d481b7e41b18",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+        "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+        "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "54f84738-4d09-460a-9a45-40720d51827c",
+      "dutyDetail": "Maintain up to date knowledge and skills of new and emerging hairstyles, trends, techniques, products, tools and equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8ad0f005-2409-449f-9956-886ceb64c90e",
+        "5da96d1e-c6e6-4dcc-bf02-7b3eae5eaa2e",
+        "a581ad27-1a66-4075-abe7-31c791f564db",
+        "cf1e4a54-6efb-4ded-baeb-8b03c3a969b5"
+      ],
+      "mappedKnowledge": [
+        "de256401-9b14-460b-b756-6d11910bb842",
+        "d424487f-ac22-437b-9d29-4b24f8d7491d",
+        "13fda7bb-fae7-4e1a-9576-e0765699e775",
+        "92c9ae73-45c5-44ff-8ebf-ceee56d6abdc",
+        "8af4c9be-6e3f-4517-a63a-80e3f59e2d0e",
+        "cc5bd341-1172-4ac6-890e-78fa1fdc6d5a",
+        "8c5f6a99-6019-4afb-864e-d31d4eef6800",
+        "819e8416-569c-4e6a-bdf1-163fc4f45e7b",
+        "9d0a47cb-3c04-4cd2-b2e4-f8e717606be1",
+        "62ed2898-6711-4285-8e16-c444ce9f12c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89f64681-4355-44f7-b257-b2a4dc678550",
+        "59a7b213-a9df-4b8b-b79a-e792653a24ad",
+        "da5fd7fc-c9cb-4960-b5cb-8eb1582e7a91",
+        "4442a774-e90a-4274-8f4e-b7b0d02778a3",
+        "d5ec58d7-9e2e-41c1-9bac-9554438d2788",
+        "4625c6d4-5e7e-48a3-a830-0d22a035c193",
+        "4d1306ab-8b51-45cf-b184-8ae63b0dc07b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-05-23T00:00:00"
+}
