@@ -1,0 +1,825 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST1476",
+  "learningAimClassCode": "",
+  "title": "Advanced paralegal",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1476",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "0001-01-01T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "give legal advice on non-routine legal matters and support other legal professionals including on reserved matters and aspects of law.",
+  "level": 5,
+  "ePALength": 4,
+  "typicalDuration": 24,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "advanced paralegal",
+    "law",
+    "legal professionals",
+    "legal services",
+    "legal matters"
+  ],
+  "jobRoles": [
+    "Fee earning paralegal",
+    "Lead paralegal",
+    "Senior paralegal"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1476?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.5 Law and legal services",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in many contexts, from small legal firms on the high street to large multi-nationals. They can work in the private or public sector. They can work within in-house legal departments, legal services firms, not-for-profit sector and charities. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to give legal advice on non-routine legal matters. They also support other legal professionals including on reserved matters and aspects of law. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders from private or corporate clients to banks, lawyers, court officials or government bodies. They work with internal stakeholders such as senior leaders and managers or financial teams. Advanced paralegals mainly provide legal support independently but may also work under supervision on reserved legal matters. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for completing or delegating work and requests from many people at once, as well as having their own duties. They may prioritise and delegate key tasks, guiding others in completing legal and administrative tasks. The ability to work under pressure and to meet deadlines is essential. People will be relying upon the advanced paralegal to not only complete their tasks but also collaborate with others. An advanced paralegal will make judgements within specified limits on legal or working matters. Paralegals at all levels interact with clients, lawyers and other stakeholders such as the police, courts, government or regulatory bodies. An advanced paralegal will carry out their interactions with more autonomy and reliance on their personal judgement than more junior paralegals. Advanced paralegals convey complex messages and data clearly, sometimes in emotionally charged or difficult circumstances. They will support and sometimes lead internal teams. They use problem-solving skills to help get the best outcomes for the client and their organisation. Some advanced paralegals may be doing their work on behalf of their own clients. They may be &quot;fee-earning&quot; and take responsibility for the commercial impact of their work whether in terms of profitability or value for money. Advanced paralegals work in a regulated context and so high professional and ethical standards are vital. Advanced paralegals are self-directing. They identify the scope of their legal research, synthesize ideas and analyse complex data, keeping a high level of precision and attention to detail. Advanced paralegal work can include tasks such as drafting legal documents from template and bespoke formats, contacting clients and assisting with meetings and governance. Advanced paralegals are usually office based, although they may assist at court or attend meetings with clients at off-site locations. The role can vary widely depending on the practice area. For example, if working in conveyancing then an advanced paralegal is less likely to have much face-to-face contact with clients. However, if assisting on criminal work, they may need to assist lawyers attending court and police stations and talk to suspects. Advanced paralegals qualified to work in criminal law may also be Police Station Representatives. Advanced paralegals will administer data and records. They will review documents and produce legal documents using digital tools. They will handle confidential and sensitive data daily and so recognising data protection requirements is critical to the role. This extends to recognising the risks to data from cybercrime and the need to be vigilant. Advanced paralegals interpret and use financial data when assisting clients and other stakeholders. They ensure that any tasks involving monies are carried out in compliance with anti-money laundering regulations. Advanced paralegals can go on to be partners in law firms, heads of legal departments in the private or public sector. They may decide to form their own legal services company providing legal services direct to litigants in person. In some instances, in the lower courts, for example, some tribunals and small claims courts, advanced paralegals may be granted the rights of audience. This means that they can advocate for their own clients directly.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "e25418de-27df-44a2-9489-595a5950111d",
+      "detail": "legal and regulatory liabilities with regards to stakeholders and organisation to ensure compliance with all professional obligations."
+    },
+    {
+      "knowledgeId": "273075e6-a454-4f84-9983-45496cd0f7e6",
+      "detail": "the law and practice relevant to the work undertaken by the team such as advocacy and mediation; commercial, corporate and business; patents and intellectual property, contracts and dispute resolution; conveyancing and property; crime; employment law; criminal and civil litigation; matrimonial and family law; will drafting, probate and administration of estates."
+    },
+    {
+      "knowledgeId": "0303034a-cc22-4207-8739-eaaf2a8674ef",
+      "detail": "principles of digital tools and software such as case management systems, databases and online drafting software."
+    },
+    {
+      "knowledgeId": "ea232162-e2e4-4c20-bedf-facf32bba81b",
+      "detail": "the wider legal landscape including procedures and developments that impact or may impact legal activities."
+    },
+    {
+      "knowledgeId": "e2b0a119-0836-4cc3-a830-4fa0ba348283",
+      "detail": "strategic approaches to legal research including selection and testing of sources, knowledge management and recording of research outputs, legislative boundaries and the use of digital resources and research tools."
+    },
+    {
+      "knowledgeId": "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+      "detail": "principles of ethical and professional frameworks and their relevance for service delivery."
+    },
+    {
+      "knowledgeId": "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+      "detail": "approaches to data analysis and digital tools, such as e-discovery platforms, legal research databases, document automation systems, data analytics software and other technological tools."
+    },
+    {
+      "knowledgeId": "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+      "detail": "approaches to drafting standard and non-standard legal documents including accuracy, attention to detail, clarity of expression and precision of language."
+    },
+    {
+      "knowledgeId": "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+      "detail": "principles of personal workload management. "
+    },
+    {
+      "knowledgeId": "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+      "detail": "the commercial or economic drivers, value for money and proportionality, opportunities and risks for organisations."
+    },
+    {
+      "knowledgeId": "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+      "detail": "cybersecurity vulnerabilities in legal transactions and within organisations and steps that can be taken to mitigate those risks."
+    },
+    {
+      "knowledgeId": "26ecfe02-e89b-4071-a809-768b8a043cf8",
+      "detail": "organisational data and information security standards, policies and procedures relevant to data management activities including legal requirements relating to the use of data, risks to confidentiality of data posed by and to stakeholder's actions."
+    },
+    {
+      "knowledgeId": "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+      "detail": "principles of diversity and inclusion and their impacts on service delivery strategies, teamwork, stakeholder relationships and organisational commercial strategies."
+    },
+    {
+      "knowledgeId": "725bed25-4524-424a-ae53-14b10a07b36e",
+      "detail": "the activities of their occupation which contribute to their ‘professional carbon footprint’ and steps that can be taken to reduce it."
+    },
+    {
+      "knowledgeId": "4b6ff292-657a-4dfc-808c-a394cb1f9e6b",
+      "detail": "legal and ethical principles of client accounts including their wider impact for compliance and delivery including ensuring funds are accurately recorded."
+    },
+    {
+      "knowledgeId": "5944339b-5aa8-4afc-b58f-6cda67d79bf0",
+      "detail": "acting in the best interest of the client to protect clients and limit liability for negligence such as identifying and acting for vulnerable clients."
+    },
+    {
+      "knowledgeId": "e4a681be-dc37-4ca7-8fdf-5e7c852c697d",
+      "detail": "anti-money laundering regulations in relation to legal transactions including personal and professional liability."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+      "detail": "adhere to professional codes of conduct in legal activities and relationships with others."
+    },
+    {
+      "behaviourId": "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+      "detail": "generate solutions to legal problems, considering different options and identifying when to escalate when problems are outside their remit."
+    },
+    {
+      "behaviourId": "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+      "detail": "customer focussed, provides a bespoke, productive and positive customer experience to stakeholders."
+    },
+    {
+      "behaviourId": "9ee75814-f113-43f9-b78e-1cbc14575211",
+      "detail": "accountable for legal decision making and legal strategies."
+    },
+    {
+      "behaviourId": "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+      "detail": "collaborative and inclusive, respects diversity of thought and experience to work with stakeholders and team members."
+    },
+    {
+      "behaviourId": "ceee0560-357d-48e2-b96a-43cd2dfe01f6",
+      "detail": "keep up to date with developments in their specialism and share that legal expertise with peers to drive up capability within the organisation through active Continuous Professional Development activities."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "44253caf-cacc-406f-8204-903f043a907f",
+      "detail": "lead and administer legal matters, processes and procedures using the most effective channels to progress caseloads."
+    },
+    {
+      "skillId": "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+      "detail": "scope, design, undertake and apply legal research using self-selected sources such as legal databases to legal matters and develop decision making, such as case strategies and options for resolution and settlements."
+    },
+    {
+      "skillId": "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+      "detail": "resolve legal technical problems within their remit and escalate as needed. "
+    },
+    {
+      "skillId": "69a823e4-cf80-4030-b15d-b68f9df11e0e",
+      "detail": "analyse and present legal matters, make decisions or recommend sustainable evidence based decisions or options for resolution with clear explanations as necessary."
+    },
+    {
+      "skillId": "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+      "detail": "apply the principles of Law to stakeholder cases relevant to legal specialism."
+    },
+    {
+      "skillId": "a332a887-d784-4e8d-b07e-0c6b62b86246",
+      "detail": "manage the delivery of legal matters and transactions within the organisation such as within personal caseload or as part of a team in line with agreed service levels or key performance metrics."
+    },
+    {
+      "skillId": "b3976c10-66f4-49d8-86e7-a323a5b510da",
+      "detail": "communicate using plain English to clarify and explain legal processes and standard legal terms tailored to stakeholders needs."
+    },
+    {
+      "skillId": "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+      "detail": "organise and administer workflow such as legal files, case management and accounting systems to progress work within service level expectations."
+    },
+    {
+      "skillId": "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+      "detail": "carry out file management activities such as prepare and collate bundles, take and file accurate notes, close and review files, maintain databases and version control."
+    },
+    {
+      "skillId": "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+      "detail": "use digital tools and technologies, for example to draft legal documents, conduct legal research, carry out data analysis and collaborate with others."
+    },
+    {
+      "skillId": "a8cafc25-2f1b-469a-8da1-2df43614f044",
+      "detail": "ensure that fraud protection measures and cyber security procedures in relation to transactions are applied in own work, keep up to date with emerging risks and new approaches for counteraction."
+    },
+    {
+      "skillId": "34755452-534f-4275-b4c6-e66e4131eba7",
+      "detail": "establish a clear picture of a stakeholder’s needs and risks throughout legal transactions."
+    },
+    {
+      "skillId": "167d695e-7915-4149-9157-6fa2df3d017c",
+      "detail": "assess risks and benefits to the stakeholder of different options and make recommendations to senior team members to ensure that they work in the stakeholders’ best interests, such as risk management and compliance with regulations, internal and external procedures."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2025-03-06T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0707",
+  "tbMainContact": "sarah.donoghue@fieldfisher.com",
+  "involvedEmployers": "Addleshaw Goddard LLP, Astranti, Birkbeck, University of London, BPP, Bryan Cave Leighton Paisner LLP, Chartered Institute of Legal Executives Training, Chartered Institute of Patent Attorneys, CMS Cameron McKenna Nabarro Olswang LLP, trading as CMS, Cripps, DAC Beachcroft, Damar Training, Data Law, Exeter University, Field Fisher, Forbes Solicitors, FS, Government Legal, Government Legal Department, Institute of Recruiters, Irwin Mitchell Solicitors, Lenkowski Consulting, Ministry of Justice, Murgitroyd, National Association of Licensed Paralegals, Norton Rose Fulbright, NQA Training, Pinsent Masons, Private Client Solicitors, Professional Paralegal Register, Singletons Austin Ryder, Switalskis, The University of Law, TLT LLP, Trowers and Hamlins Solictors",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Fee earning paralegal",
+    "Lead paralegal",
+    "Senior paralegal"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Legal",
+  "cluster": "Legal technician",
+  "clusterId": "250",
+  "clusterDescription": "Deliver Family Law, Civil Litigation, Criminal Law, Company, Business Law  and conveyancing transactions (land and property), estate administration and manage small, non-complex cases under supervision",
+  "createdDate": "2025-03-18T09:02:38 +00:00",
+  "lastUpdated": "",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC1476",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1476?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1476",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "National Association for Licensed Paralegals",
+      "level": "member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Chartered Institute of Legal Executives",
+      "level": "member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "dc80527f-00dc-42bb-a2ac-19c028a47ef4",
+      "dutyDetail": "Liaise with and take instructions from stakeholders such as clients or senior colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "34755452-534f-4275-b4c6-e66e4131eba7",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f861426-c05a-4e30-a5a5-a71e80a38397",
+      "dutyDetail": "Initiate legal research activities, independently setting parameters and scope to set out an appropriate basis for legal decisions to meet stakeholder needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "e2b0a119-0836-4cc3-a830-4fa0ba348283",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "14c05ee5-1460-4d44-a9de-30278e3dd493",
+      "dutyDetail": "Provide expert legal advice and support in area of legal specialism to stakeholders such as clients, Litigants In Person, legal representatives, courts or colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "69a823e4-cf80-4030-b15d-b68f9df11e0e",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "571e414b-a80b-4cb2-841f-b217e8c83fd2",
+      "dutyDetail": "Deal with technical legal matters under the supervision of senior colleagues as necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "69a823e4-cf80-4030-b15d-b68f9df11e0e",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9629a50c-70dd-47f6-a9bb-d8c0b9310663",
+      "dutyDetail": "Advise stakeholders on options for resolution of legal matters such as mediation, litigation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "69a823e4-cf80-4030-b15d-b68f9df11e0e",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "34755452-534f-4275-b4c6-e66e4131eba7",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f4183b3c-bc5d-4d6f-8f89-163c8fd62f67",
+      "dutyDetail": "Handle and co-ordinate legal matters such as drafting legal documents, negotiating settlements, making court applications, and preparing for hearings or trials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "69a823e4-cf80-4030-b15d-b68f9df11e0e",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2568ecc7-5c2b-4e22-bb16-236d247578d7",
+      "dutyDetail": "Review and execute legal documents using standard and non-standard templates.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "153ffbc9-7990-470d-aac9-b35aa440271c",
+      "dutyDetail": "Collaborate with legal professionals such as solicitors, chartered legal executives, specialist lawyers for example patent attorneys and barristers. Depending on the role they may also collaborate with regulators, government departments and other firms or organisations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "567bbbc0-6aac-40be-9d48-2e488adfae7a",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "b3976c10-66f4-49d8-86e7-a323a5b510da",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6ae642b3-13f8-4697-9226-5613825231c0",
+      "dutyDetail": "Progress cases proactively to a satisfactory, timely settlement in accordance with stakeholder requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d2b7e650-c08a-462f-bdce-f34f36840d6c",
+      "dutyDetail": "Deliver high quality stakeholder care, act as escalation route for colleagues on areas of legal specialism and support the resolution of stakeholder complaints and disputes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044",
+        "34755452-534f-4275-b4c6-e66e4131eba7",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d0a1c4f9-c9dd-4af5-8d4f-c8c72171d4fd",
+      "dutyDetail": "Treat all stakeholders fairly, professionally and act within legislation, compliance and codes of practice, working within limits of professional competence.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "b3976c10-66f4-49d8-86e7-a323a5b510da",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "34755452-534f-4275-b4c6-e66e4131eba7",
+        "167d695e-7915-4149-9157-6fa2df3d017c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ccf8952f-da1a-400d-a76b-aa5509aff5e3",
+      "dutyDetail": "Support stakeholders with ad hoc queries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "b3976c10-66f4-49d8-86e7-a323a5b510da",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "34755452-534f-4275-b4c6-e66e4131eba7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4f1e09c8-2408-4840-86d4-3e0532a334ae",
+      "dutyDetail": "Ensure that legal matters are progressed in line with commercial concerns such as profitability, use of resources and value for money.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "9ee75814-f113-43f9-b78e-1cbc14575211"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "725bed25-4524-424a-ae53-14b10a07b36e",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba16874e-cb97-43d9-a907-c7e1b613e62d",
+      "dutyDetail": "Manage a diverse caseload of routine and non-routine legal matters within organisational service levels and expectations. Review legal matters at the point of receipt and delegate specific tasks as necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed0c1945-4806-4fef-8308-ee0996f1a272",
+      "dutyDetail": "Assist and support colleagues with their caseload of legal matters to ensure continuity and a high-quality stakeholder experience.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "d3ce7164-91ff-4262-9bb2-5eaa24b8c204",
+        "1b1d1674-5cf8-410c-86b0-119ece5ee782",
+        "9ee75814-f113-43f9-b78e-1cbc14575211",
+        "9020c83d-8f24-44a6-97d2-4c21cd4709e2",
+        "ceee0560-357d-48e2-b96a-43cd2dfe01f6"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "9a9a5747-7527-45a9-8f24-fba5e34b9914"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "41757953-ee93-4c3b-8e39-b8be02c9a94c",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "b3976c10-66f4-49d8-86e7-a323a5b510da",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "127a5664-90a3-4d5e-8a07-0bf6d29a5d84",
+      "dutyDetail": "Use digital systems safely and securely with data security, privacy related audits and risk management and cyber security in mind.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "9ee75814-f113-43f9-b78e-1cbc14575211"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "e2b0a119-0836-4cc3-a830-4fa0ba348283",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "8c21ab02-6e66-40fe-8113-30e3d932bd0b",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "725bed25-4524-424a-ae53-14b10a07b36e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "497901d4-d6a4-41ab-9e46-d06f9067abb3",
+        "a332a887-d784-4e8d-b07e-0c6b62b86246",
+        "b3976c10-66f4-49d8-86e7-a323a5b510da",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "fc8ebbcf-bece-44e6-be33-ed0d2f8ccd2d",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9fb8ef40-ac8e-401e-8f40-61ff8df86e1a",
+      "dutyDetail": "ensure that all transactions and activities are carried out safely and securely to protect the organisation from threats such as money laundering, fraud and cybercrime",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f32673cc-aa76-4d54-8716-3f84866dc7a9",
+        "9ee75814-f113-43f9-b78e-1cbc14575211"
+      ],
+      "mappedKnowledge": [
+        "e25418de-27df-44a2-9489-595a5950111d",
+        "273075e6-a454-4f84-9983-45496cd0f7e6",
+        "0303034a-cc22-4207-8739-eaaf2a8674ef",
+        "ea232162-e2e4-4c20-bedf-facf32bba81b",
+        "ee1ab633-63c5-4ae8-8402-21d2e016e7c3",
+        "3fe64d12-84ea-4ccd-8bae-dd9270df3312",
+        "cfb200ce-4e00-4c0b-a292-0b57464b5812",
+        "af93b21b-dfd3-4bb2-8373-9d9bcc508123",
+        "78ce651f-7f69-4e03-b82c-17d19a5f0595",
+        "26ecfe02-e89b-4071-a809-768b8a043cf8",
+        "4b6ff292-657a-4dfc-808c-a394cb1f9e6b",
+        "5944339b-5aa8-4afc-b58f-6cda67d79bf0",
+        "e4a681be-dc37-4ca7-8fdf-5e7c852c697d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "44253caf-cacc-406f-8204-903f043a907f",
+        "d1a44795-3d2d-4b66-b8e2-7e6ebbc31cad",
+        "7b0b93b7-874d-4a57-a539-ecd52bb03c1f",
+        "a8cafc25-2f1b-469a-8da1-2df43614f044"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-18T09:02:38.157"
+}
