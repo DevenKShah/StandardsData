@@ -1,60 +1,602 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 644,
   "referenceNumber": "ST0878",
+  "learningAimClassCode": "",
   "title": "Youth justice practitioner",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0878",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-07-01T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Work with children who have offended or are at risk of offending.",
   "level": 5,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 25,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "keywords": [
+    "youth",
+    "justice",
+    "public service",
+    "crime",
+    "offending",
+    "children",
+    "protective service",
+    "police"
+  ],
+  "jobRoles": [
+    "Youth Offending Team Officer",
+    "Youth Offending Service Officer",
+    "Intervention Worker",
+    "Intensive Supervision and Surveillance Practitioner",
+    "Youth Offending Service Case Manager",
+    "Reparation Officer"
+  ],
+  "entryRequirements": "&lt;p&gt;The most common requirement would be experience of working with young people and sometimes adults in challenging situations which could include hostels, special schools, family support teams, residential childcare, youth services, learning care assistants. Having been a volunteer in local order referral panels, or acting as an appropriate adult at police stations would also be valuable experience. Candidates will be expected to have a strong strong commitment to equal opportunities and diversity.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/zzdlgyxv/st0878_youth-justice-practitioner_level-5_ap-for-publication_24-06-21-correction-publication-14062023.pdf",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.4 Public services",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in Youth Offending Services within Local Authorities. It is also relevant to practitioners working in voluntary sector organisations providing youth justice interventions.&lt;br /&gt;The broad purpose of the occupation is to work with children who have offended or are at risk of offending, and by using evidence-based interventions promote their desistance from offending or divert them from the youth justice system. (Desistance is the professional term for the process of how someone with a previous pattern of offending comes to abstain from crime. The role is undertaken within a statutory framework specific to children aged 10 – 17 (and occasionally those aged 18) and subject to Standards for Children in the Youth Justice System, set by the Secretary of State for Justice on the advice of the Youth Justice Board (YJB) for England and Wales.&lt;br /&gt;In their daily work, an employee in this occupation interacts with children up to the age of 17/18 involved in offending or anti-social behaviour. They work with some of the most disadvantaged children in our society who often have multiple and complex needs. They will also interact regularly with families. All youth justice practitioners work within a complex multi-agency and multi-disciplinary context. They will work alongside social workers, probation officers, police officers, youth workers, educational and health staff and with child and adolescent mental health staff in their immediate teams. Youth justice practitioners also work closely with court staff and need to understand how the courts (in particular the Youth Court) operate and specific legislation relevant to children. Youth justice practitioners will need to interact with staff from the secure estate. The secure estate comprises Young Offender Institutions, Secure Training Centres, Secure Children’s Homes and Secure Schools. These are all subject to different legislation and referral criteria, and the roles of care staff working in them will vary. They will also need to interact with staff from other services specific to children – schools and Child and Adolescent Mental Health Services, for example. Youth justice practitioners in both the community and secure establishments will need to collaborate in order to facilitate children’s resettlement when they are released.&lt;br /&gt;An employee in this occupation will be responsible for the effective supervision of children in contact with the youth justice system. Practitioners will function largely autonomously to engage with children, their families and other professionals in order to assess their needs using mandatory YJB tools; develop youth justice intervention plans; and review and monitor progress. The cases they manage are often complex, involving children experiencing mental health difficulties, substance misuse problems and/or special educational needs and disabilities (SEND). Many of these children will also be experiencing difficult family situations and face safeguarding issues pertinent to youth justice, e.g. abuse, radicalisation, child sexual exploitation (CSE), Child Criminal Exploitation (CCE) and involvement in gangs. Youth justice practitioners are responsible for making decisions which affect the lives of children that are evidence-based, ethical and defensible. They will also be responsible for promoting the safety and wellbeing of the children they work with; protecting the public and victims of crime; and making rapid risk assessments about their own safety. They will report to an Operational Manager and have formal supervisions to discuss their decision-making and reflect on the outcomes of their work. The amount and regularity of supervision will vary between organisations. Many practitioners will have responsibilities for specific areas of youth justice work – education, intensive supervision and surveillance or substance misuse, for example. They will advise other staff in these areas, carry out additional specialist assessments and lead on new initiatives.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "a757956c-80a3-4048-8b16-27e91be6277c",
+      "detail": "Legislation and corresponding guidance relevant to all aspects of work in youth justice, including sentencing, risk of harm, safeguarding, children’s rights and equality and diversity."
+    },
+    {
+      "knowledgeId": "1bcc5848-dd26-4251-b56e-490856a4b03c",
+      "detail": "Child and adolescent development and the full range of complex needs that can be detrimental to children’s physical, emotional and mental health and wellbeing."
+    },
+    {
+      "knowledgeId": "7cb3ab16-23b6-4bda-ae10-811c84a63b4b",
+      "detail": "The range of factors (e.g. substance misuse and adverse childhood experiences) that may lead to offending and anti-social behaviour and the methods for promoting desistance from these."
+    },
+    {
+      "knowledgeId": "89e01b5b-86ad-48c8-835c-e2960ff4f403",
+      "detail": "The principles of professional judgement, including defensible decision making, how to guard against conscious or unconscious bias and how to maintain professional boundaries."
+    },
+    {
+      "knowledgeId": "2a5ece2b-5beb-47fa-a113-415b1c20e83b",
+      "detail": "The key components of relationship-based practice and the evidence-base for them."
+    },
+    {
+      "knowledgeId": "db1eca98-d2f1-4cf0-8857-ca8477df9b66",
+      "detail": "The range and purpose of assessment and planning tools relevant to working with children in the youth justice system."
+    },
+    {
+      "knowledgeId": "06a1eab7-f97a-49c2-9c5e-fb06efee3f75",
+      "detail": "The range and type of services available for children in the youth justice age group, including adult service providers and how these work in relation to young people who are in transition to them."
+    },
+    {
+      "knowledgeId": "8eec29f7-0599-4543-89ca-5f30fbf99f06",
+      "detail": "Protocol and process arrangements in working with multi-agencies, including the sharing and safeguarding of information in line with data protection law."
+    },
+    {
+      "knowledgeId": "ce264992-2512-4f3d-8d01-cf160c53b768",
+      "detail": "The emotional and practical needs of specialist groups of young people, e.g. Looked After Children, girls, LGBTQ+, BAME"
+    },
+    {
+      "knowledgeId": "07d9969f-afbf-4372-9eaa-ab117d864f16",
+      "detail": "The practical, emotional and psychological impact of key types of life changes and transitions between services affecting children up to the age of 18."
+    },
+    {
+      "knowledgeId": "5239e4b9-d772-4f50-adc6-7d7c53a1d8c9",
+      "detail": "Barriers to children’s effective engagement with youth justice interventions. "
+    },
+    {
+      "knowledgeId": "5dd22508-5662-41b8-98b9-58335eb463fe",
+      "detail": "The contextual aspects of risk (risk of what, to whom and circumstances in which risk is likely to be higher or lower)."
+    },
+    {
+      "knowledgeId": "c86f1199-9b8b-4b37-8a05-87ba85729a2f",
+      "detail": "Their own safeguarding responsibilities and those of others within and outside of their organisation."
+    },
+    {
+      "knowledgeId": "01369443-fb27-4d05-832c-04217b4e6a93",
+      "detail": "The principles of effective programme design and implementation for reducing offending and reoffending"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+      "detail": "Show consistency and fairness and be evidence-informed in making decisions."
+    },
+    {
+      "behaviourId": "7d7227aa-dcbf-408f-82a9-47d8a0426319",
+      "detail": "Model and reward pro-social behaviours, including respect for diversity and being inclusive, and discourage inappropriate language and behaviours"
+    },
+    {
+      "behaviourId": "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+      "detail": "Be optimistic and hopeful; non-blaming; open and honest; empathetic; and patient and calm in all interactions, including situations that are stressful"
+    },
+    {
+      "behaviourId": "1ba92c5f-4f7c-444f-b695-446166c559ca",
+      "detail": "Operate in accordance with the legal, ethical and contractual requirements of youth justice work and maintain professional boundaries."
+    },
+    {
+      "behaviourId": "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba",
+      "detail": "Commit to team working and engage proactively with partner organisations and agencies to maximise the engagement of children in mainstream services and other positive activities."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "cc8fb95d-4600-482c-b147-25859fd520e1",
+      "detail": "Communicate effectively face to face and in writing (including digitally) with children who encounter the youth justice system"
+    },
+    {
+      "skillId": "14749417-25d1-454d-9408-fe8ad661b538",
+      "detail": "Identify the factors that may lead to offending and anti-social behaviour and the methods for  promoting desistance, and use these to plan individually tailored interventions."
+    },
+    {
+      "skillId": "0e7995df-75c9-4720-aa99-924bcbb2ebf7",
+      "detail": "Promote the physical, emotional and mental health and wellbeing of children in the youth justice system by recognising and building on strengths, identifying need and taking action to protect children where necessary."
+    },
+    {
+      "skillId": "857a80db-9101-4fcf-9871-0084628a7062",
+      "detail": "Use a range of engagement skills to promote trust, including clarification of role, purpose of intervention and boundaries of authority."
+    },
+    {
+      "skillId": "89ddc03e-6985-4b0e-b2f0-5d538ff8dbcd",
+      "detail": "Develop relationships that are collaborative, motivating and child-centred using a range of strategies to engage young people and families (e.g. motivational interviewing, solution focussed methods, participatory practice, pro-social modelling and problem solving)."
+    },
+    {
+      "skillId": "f6d4576a-86ce-4942-a827-a42ef15a5d22",
+      "detail": "Make effective use of assessment and planning tools designed for use in youth justice settings to inform decision making."
+    },
+    {
+      "skillId": "3a5c0159-fe92-421f-8b77-56934365e758",
+      "detail": "Develop, implement and monitor plans which reflect risks and needs, and build on positive human and social capital to promote desistance."
+    },
+    {
+      "skillId": "91226a51-5e4a-4aee-806c-f6e81a396759",
+      "detail": "Select interventions and approaches to working with young people based on the best available evidence about their effectiveness in promoting desistance from offending."
+    },
+    {
+      "skillId": "e0c037e5-1898-4662-a188-279d1ca499be",
+      "detail": "Broker access to sources of human and social capital appropriate to the needs of children in the youth justice system."
+    },
+    {
+      "skillId": "1ba2233e-fe93-430d-9869-524f5b36ec51",
+      "detail": "Be an effective social advocate for children and their families"
+    },
+    {
+      "skillId": "24be9b42-b731-4fee-8cbe-0907801687fd",
+      "detail": "Share and safeguard information about children and their families in line with data protection law"
+    },
+    {
+      "skillId": "69214624-3d38-48a9-8392-dc4bfc6cd88f",
+      "detail": "identify, assess and meet the needs of children and young people where there are safeguarding concerns"
+    },
+    {
+      "skillId": "9b8ad17d-9bbe-4438-8bd9-fa92bda6d553",
+      "detail": "Reflect on practice within evidence-based frameworks in order to continuously improve outcomes for children in the youth justice system."
+    },
+    {
+      "skillId": "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+      "detail": "Identify any barriers to children’s effective engagement with youth justice interventions and take steps to remove or mitigate these."
+    },
+    {
+      "skillId": "b7c85f7f-407d-4d03-ab6a-9da68de2ddb7",
+      "detail": "Actively protect the rights of children, challenge disproportionality and promote equality of opportunity"
+    },
+    {
+      "skillId": "7c4e0b55-18e7-431b-b42f-631bbefbfa02",
+      "detail": "Keep accurate and timely records of all interactions relevant to the assessment, planning, implementation and review cycle."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0471",
-  "tbMainContact": "paulw@moorenetworking.net ",
-  "involvedEmployers": "",
+  "tbMainContact": "lindsay.leech@stoke.gov.uk",
+  "involvedEmployers": "Bournemouth LAA\nCamden LAA\nEaling Council\nGreenwich LAA\nHackney LAA\nLeeds LAA\nMedway LAA\nNorfolk County Council\nNorthamptonshire Council\nSouthampton LAA\nSuffolk Council\nWirral Council",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-02-19T10:40:33 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/youth-justice-practitioner#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/youth-justice-practitioner",
+  "typicalJobTitles": [
+    "Youth Offending Team Officer",
+    "Youth Offending Service Officer",
+    "Intervention Worker",
+    "Intensive Supervision and Surveillance Practitioner",
+    "Youth Offending Service Case Manager",
+    "Reparation Officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Protective Services",
+  "cluster": "Protective service manager",
+  "clusterId": "50",
+  "clusterDescription": null,
+  "createdDate": "2021-06-24T15:25:04 +00:00",
+  "lastUpdated": "2021-07-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-07-01T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0878",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0878-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0878-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "59b73e0b-4eef-430f-9063-f3fc11c4341f",
+      "dutyDetail": "Work with children between the ages of 10 and 17/18 who offend or who are at risk of offending using knowledge of youth justice legislation and corresponding guidance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "1ba92c5f-4f7c-444f-b695-446166c559ca"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cc8fb95d-4600-482c-b147-25859fd520e1",
+        "b7c85f7f-407d-4d03-ab6a-9da68de2ddb7",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "927705b8-7a9d-468b-8573-51becb642772",
+      "dutyDetail": "Promote resilience and support the positive development of children using in depth knowledge of child and adolescent development, emotional and mental health, and adverse childhood experiences.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "1bcc5848-dd26-4251-b56e-490856a4b03c",
+        "ce264992-2512-4f3d-8d01-cf160c53b768",
+        "07d9969f-afbf-4372-9eaa-ab117d864f16"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14749417-25d1-454d-9408-fe8ad661b538",
+        "0e7995df-75c9-4720-aa99-924bcbb2ebf7",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc23a827-ae27-4693-86fb-4c0fb169d4f2",
+      "dutyDetail": "Engage positively with children and their families in a manner that balances the dual roles of control and care, sanction and treatment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "7d7227aa-dcbf-408f-82a9-47d8a0426319",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "89e01b5b-86ad-48c8-835c-e2960ff4f403",
+        "2a5ece2b-5beb-47fa-a113-415b1c20e83b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cc8fb95d-4600-482c-b147-25859fd520e1",
+        "857a80db-9101-4fcf-9871-0084628a7062",
+        "1ba2233e-fe93-430d-9869-524f5b36ec51",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b2c9cd5e-39b8-4a39-8696-3f3a5fb92013",
+      "dutyDetail": "Promote desistance from offending using a range of practice skills and strategies (e.g. promoting trust, pro-social modelling and problem solving)",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7d7227aa-dcbf-408f-82a9-47d8a0426319",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "7cb3ab16-23b6-4bda-ae10-811c84a63b4b",
+        "2a5ece2b-5beb-47fa-a113-415b1c20e83b",
+        "5239e4b9-d772-4f50-adc6-7d7c53a1d8c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89ddc03e-6985-4b0e-b2f0-5d538ff8dbcd",
+        "1ba2233e-fe93-430d-9869-524f5b36ec51",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fb9af53-9095-402c-bbdd-adbd1f40fc8c",
+      "dutyDetail": "Assess children's needs using tools standardised for and specific to youth justice",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "db1eca98-d2f1-4cf0-8857-ca8477df9b66",
+        "5239e4b9-d772-4f50-adc6-7d7c53a1d8c9",
+        "5dd22508-5662-41b8-98b9-58335eb463fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f6d4576a-86ce-4942-a827-a42ef15a5d22",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3892e5aa-8062-418e-89df-379cc7f695b2",
+      "dutyDetail": "Develop, implement and monitor youth justice intervention plans that are linked to outcomes from assessment, evidence based, appropriate to the child’s developmental stage and easily understood by them.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "1bcc5848-dd26-4251-b56e-490856a4b03c",
+        "7cb3ab16-23b6-4bda-ae10-811c84a63b4b",
+        "db1eca98-d2f1-4cf0-8857-ca8477df9b66",
+        "5239e4b9-d772-4f50-adc6-7d7c53a1d8c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f6d4576a-86ce-4942-a827-a42ef15a5d22",
+        "3a5c0159-fe92-421f-8b77-56934365e758",
+        "91226a51-5e4a-4aee-806c-f6e81a396759",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ee7270c-6cb4-4216-9fce-bb95756ea2bf",
+      "dutyDetail": "Design and deliver interventions that are informed by the best available evidence of effective programme design and implementation as validated by the Youth Justice Board in their resource and evidence repository",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "2a5ece2b-5beb-47fa-a113-415b1c20e83b",
+        "01369443-fb27-4d05-832c-04217b4e6a93"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "91226a51-5e4a-4aee-806c-f6e81a396759",
+        "9b8ad17d-9bbe-4438-8bd9-fa92bda6d553",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d36f11b2-408e-45e6-91b9-30883c0b98b4",
+      "dutyDetail": "Monitor and review the impact of approaches and interventions and adapt practice accordingly.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "db1eca98-d2f1-4cf0-8857-ca8477df9b66",
+        "01369443-fb27-4d05-832c-04217b4e6a93"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "91226a51-5e4a-4aee-806c-f6e81a396759",
+        "9b8ad17d-9bbe-4438-8bd9-fa92bda6d553",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5f53bd0f-5070-4697-bdc2-52bc40cf1fd9",
+      "dutyDetail": "Broker access to constructive support and services for children provided by other agencies though the use of social advocacy.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "06a1eab7-f97a-49c2-9c5e-fb06efee3f75",
+        "8eec29f7-0599-4543-89ca-5f30fbf99f06"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a5c0159-fe92-421f-8b77-56934365e758",
+        "e0c037e5-1898-4662-a188-279d1ca499be",
+        "1ba2233e-fe93-430d-9869-524f5b36ec51",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "55b02432-ce34-4dac-a4b9-3913c3fe7c06",
+      "dutyDetail": "Collaborate and share information with other agencies in order to develop plans that meet a child’s needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "06a1eab7-f97a-49c2-9c5e-fb06efee3f75",
+        "8eec29f7-0599-4543-89ca-5f30fbf99f06"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a5c0159-fe92-421f-8b77-56934365e758",
+        "24be9b42-b731-4fee-8cbe-0907801687fd",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df7ce319-4eec-4e43-b6b6-803098df17fb",
+      "dutyDetail": "Undertake specialist, mandatory youth justice assessments that demonstrate the contextual aspects of risk, i.e. risk of what, to whom and circumstances in which risk is likely to be higher/lower.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "1ba92c5f-4f7c-444f-b695-446166c559ca",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "db1eca98-d2f1-4cf0-8857-ca8477df9b66",
+        "5dd22508-5662-41b8-98b9-58335eb463fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14749417-25d1-454d-9408-fe8ad661b538",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dfebd59d-0502-44d8-9748-641c6ce40850",
+      "dutyDetail": "Manage the risk presented by children in order to reduce future offending, protect the public and the rights of victims.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "1ba92c5f-4f7c-444f-b695-446166c559ca",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "5dd22508-5662-41b8-98b9-58335eb463fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14749417-25d1-454d-9408-fe8ad661b538",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cab61f40-4cc0-40f2-8fcf-0ff94d55de2a",
+      "dutyDetail": "Minimise the impact of life changes and transitions between services that are specific to children.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "ce264992-2512-4f3d-8d01-cf160c53b768",
+        "07d9969f-afbf-4372-9eaa-ab117d864f16"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e0c037e5-1898-4662-a188-279d1ca499be",
+        "1ba2233e-fe93-430d-9869-524f5b36ec51",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c5de3211-40c0-4288-b3ba-0ce7b655f11b",
+      "dutyDetail": "Support  the resettlement of children when they leave custody and the transition from youth justice services to adult probation providers/adult secure establishments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1ba92c5f-4f7c-444f-b695-446166c559ca",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "06a1eab7-f97a-49c2-9c5e-fb06efee3f75",
+        "8eec29f7-0599-4543-89ca-5f30fbf99f06",
+        "07d9969f-afbf-4372-9eaa-ab117d864f16"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e0c037e5-1898-4662-a188-279d1ca499be",
+        "1ba2233e-fe93-430d-9869-524f5b36ec51",
+        "3ac50a43-0f01-4e85-b438-33efdbff8a02",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ca4f3209-67b8-4dfa-a379-ec37c2ac5929",
+      "dutyDetail": "Protect the rights of children, reduce disproportionality and promote equality of opportunity within the youth justice system in line with the policy and legislation relevant to the age group.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "7bc46aeb-b4c0-4f0e-b5dd-3581962feb27",
+        "1ba92c5f-4f7c-444f-b695-446166c559ca"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "7cb3ab16-23b6-4bda-ae10-811c84a63b4b",
+        "ce264992-2512-4f3d-8d01-cf160c53b768"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b7c85f7f-407d-4d03-ab6a-9da68de2ddb7",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db98e159-44f0-4d46-bb17-f68952822b58",
+      "dutyDetail": "Promote the safety and wellbeing of children in line with national and local guidance and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7abc0f22-e566-4a99-b536-2ca872f0a62b",
+        "1ba92c5f-4f7c-444f-b695-446166c559ca",
+        "0a8f7499-96fa-4c37-b4f8-8fcd6a3a7eba"
+      ],
+      "mappedKnowledge": [
+        "a757956c-80a3-4048-8b16-27e91be6277c",
+        "8eec29f7-0599-4543-89ca-5f30fbf99f06",
+        "c86f1199-9b8b-4b37-8a05-87ba85729a2f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0e7995df-75c9-4720-aa99-924bcbb2ebf7",
+        "69214624-3d38-48a9-8392-dc4bfc6cd88f",
+        "7c4e0b55-18e7-431b-b42f-631bbefbfa02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-07-01T00:00:00"
 }
