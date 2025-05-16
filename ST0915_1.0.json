@@ -1,60 +1,584 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 761,
   "referenceNumber": "ST0915",
+  "learningAimClassCode": "",
   "title": "Scenic automation technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0915",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-05-17T00:00:00",
+  "earliestStartDate": "2024-05-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Assemble and repair automated equipment.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "crafts",
+    "creative",
+    "arts",
+    "technician",
+    "equipment",
+    "scenic automation"
+  ],
+  "jobRoles": [
+    "Automation operator",
+    "Automation technician",
+    "Flys technician",
+    "Physical special effects technician",
+    "Stage engineer",
+    "Theatre maintenance technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0915-v1-0?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;c&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in theatres, live entertainment venues, TV and film studios. The broad purpose of the occupation is to programme, operate and maintain automation systems to ensure they meet the requirements of a production by consistently fulfilling the artistic vision for it. The highest standards of safety, efficiency and technical standards must be achieved. &lt;br&gt;&lt;br&gt;Scenic automation technicians consult and collaborate with other departments to carry out planning and work activities to meet performance requirements including timing and order of all mechanised set movements during a theatrical production or other live performance. They control scenery and other equipment on the stage or set and in the air.&lt;br&gt;&lt;br&gt;They support the running of shows including fit-ups, rehearsals, set changes, rotations and get-outs in all aspects of a show or production related automation. They work within the parameters which various environments dictate for example working at height or within confined spaces.&lt;br&gt;&lt;br&gt;They undertake the safe set-up operation, inspection and first line performance maintenance of specialist automation equipment for example electrical and hydraulic drives, winches, hoists, stage elevators, traps, revolves and associated controls ensuring technical staff and where they are present public safety at all times. They ensure that equipment is compliant with industry standards such as Lifting Operations and Lifting Equipment Regulations (LOLER) and Provision and Use of Work Equipment and Regulations (PUWER). They may undertake stage or set rigging requirements.&lt;br&gt;&lt;br&gt;They have excellent communication skills and a practical approach to problem solving. They are self-motivated as well as being a good team player. In their daily work, an employee in this occupation interacts with the performance artists to make sure they understand their role and the impact of automation on their performance. They work with designers to understand the artistic vision. They work with other departments involved in the technical aspects of a production or performance for example lighting, projection, sound, engineering departments, scenic construction, technical and production managers, stage crew, stage managers, digital design team and the health and safety team. They may work in a team with other scenic automation technicians and may come in to contact with scenic automation suppliers. An employee in this occupation will be responsible for programming and safely operating automation control systems to achieve the artistic vision for the production or performance through automation. &lt;br&gt;&lt;br&gt;Scenic automation technicians assemble and repair automated equipment for moving scenery or set elements as well as delivering planned maintenance of all stage or set machinery ensuring it is compliant to current regulations. Some scenic automation technicians may undertake emergency repairs and fixes during live performances&lt;br&gt;&lt;br&gt;They are responsible for performer safety including those who may be flown or who are on a moving scenic item. They must ensure health and safety compliance including keeping up to date with regulations and industry developments&lt;br&gt;&lt;br&gt;They will adapt their approach as the situation, circumstances or people change whilst achieving personal objectives set by their manager They are trusted to work unsupervised under the brief of their supervisor. They will be required to work during evenings and weekends during fit up and production periods.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+      "detail": "The principles of electromechanical engineering and its application within the design of the scenic automation system."
+    },
+    {
+      "knowledgeId": "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+      "detail": "Read and interpret technical drawings to assist the repair, manufacturing or installation of the automation system."
+    },
+    {
+      "knowledgeId": "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+      "detail": "Relevant health and safety legislation for example Health and Safety at Work Act, Working at Height Regulations and company policies including purpose and requirements of risk assessment and method statement to ensure a safe working environment for themselves, colleagues and others who may include the public. "
+    },
+    {
+      "knowledgeId": "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+      "detail": "Electrical theory and its application to the systems used."
+    },
+    {
+      "knowledgeId": "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9",
+      "detail": "Mechanical theory and its application to the systems used."
+    },
+    {
+      "knowledgeId": "9683246f-fd20-4748-920f-10613a3ac0a2",
+      "detail": "The automation system used by the company and how to programme it or them. "
+    },
+    {
+      "knowledgeId": "fba1974c-8f3f-4b78-9191-3ec63c4af91b",
+      "detail": "The company’s safety and communications protocol for automation operation. "
+    },
+    {
+      "knowledgeId": "80828194-808d-4839-b252-267e8362d439",
+      "detail": "The company’s management structure and the differences between fit up and rehearsal or show or production conditions. "
+    },
+    {
+      "knowledgeId": "dbaddd3a-c98f-4aa4-8244-bd6f27638721",
+      "detail": "Communication processes and procedures during a live performance or production."
+    },
+    {
+      "knowledgeId": "2fb8f2ad-d617-4479-9215-215ff5901871",
+      "detail": "The automation, rigging equipment or components selection process for a task, based on technical requirements."
+    },
+    {
+      "knowledgeId": "71f97688-d755-4fe8-9e57-8d45664b2838",
+      "detail": "The production process and your role and responsibilities within it."
+    },
+    {
+      "knowledgeId": "0c41b35e-0123-42ef-a61d-7636efcd1931",
+      "detail": "The operation of machinery in the context in which it is to be used during performance or production. "
+    },
+    {
+      "knowledgeId": "8cd630ca-613e-463e-9633-af427ca6492a",
+      "detail": "Fault finding process and procedures."
+    },
+    {
+      "knowledgeId": "174d8724-e81a-4ae2-aa48-9061fea84bdb",
+      "detail": "Procedures for, and processes of record keeping for maintenance and repair. "
+    },
+    {
+      "knowledgeId": "40fc0e76-68eb-41bf-b931-81d200924022",
+      "detail": "Processes of record keeping for equipment that is to be stored."
+    },
+    {
+      "knowledgeId": "2e65db2c-53ff-41ca-889f-d56a12c51d09",
+      "detail": "The benefits and requirements of personal continued professional development."
+    },
+    {
+      "knowledgeId": "723e149b-d871-44cc-9a76-7ee6ee99ed10",
+      "detail": "Industry standards including CWA 15902 PL1, BSEN 17206:2020, DIN56950, BGC-C1."
+    },
+    {
+      "knowledgeId": "39b6dd02-7133-42b6-b50b-743bcbbd1e2c",
+      "detail": "The choice of equipment or components and process or materials in relation to recycling and sustainability. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "1833ff10-8aab-4f4d-a347-a5105780fd89",
+      "detail": "Work to required standards to ensure a safe working environment for themselves, colleagues, performers and the public."
+    },
+    {
+      "behaviourId": "03732d19-381b-4665-b158-ceba221fcaf8",
+      "detail": "Proactively keep up to date with latest industry developments. "
+    },
+    {
+      "behaviourId": "807077bd-047e-4ff0-8a98-1e7d80a4756f",
+      "detail": "Embrace equality, diversity and inclusion in the workplace and with the public."
+    },
+    {
+      "behaviourId": "b5c0617d-f240-497a-96b5-98de6a0b5630",
+      "detail": "Work with drive and determination to meet deadlines and complete a job on time and to the required standard. "
+    },
+    {
+      "behaviourId": "001d0f71-db9a-494d-8510-288da901ff2b",
+      "detail": "Be clear, precise and timely in all communications. "
+    },
+    {
+      "behaviourId": "46b51639-34bc-4fdc-b69f-71a3790e6150",
+      "detail": "React to and operate within varied and changing working environments. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+      "detail": "Use a range of tools. For example, power tools, measuring tools and instrumentation to affect repairs to the automation system."
+    },
+    {
+      "skillId": "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+      "detail": "Read, interpret and amend technical drawings."
+    },
+    {
+      "skillId": "7814c7b8-7e25-4b32-bfb7-4a2c76e6dc04",
+      "detail": "Visually inspect equipment to ensure compliance. "
+    },
+    {
+      "skillId": "80cb5ee1-1a76-4af7-9e74-fd8c368fd77b",
+      "detail": "Operate machinery to the manufacturer’s instructions. "
+    },
+    {
+      "skillId": "eb781228-a01b-4c00-9383-4b7d07035232",
+      "detail": "Operate automation controls safely. "
+    },
+    {
+      "skillId": "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+      "detail": "Isolate equipment when required."
+    },
+    {
+      "skillId": "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+      "detail": "Prioritise work to meet objectives"
+    },
+    {
+      "skillId": "b3ea7b9b-c492-447a-a1ab-2e5c276ab2d9",
+      "detail": "Keep a record of projected and actual expenditure related to installation or maintenance."
+    },
+    {
+      "skillId": "acc8576a-f9bd-45f9-ac8e-5fd612f3350d",
+      "detail": "Schedule workload and write a plan of works as required. "
+    },
+    {
+      "skillId": "bf39251b-af03-4515-9c07-8b2171844448",
+      "detail": "Follow a method statement or instructions of a system set up."
+    },
+    {
+      "skillId": "01b7778b-1b41-4fa1-8d29-922aff499e5f",
+      "detail": "Clearly log repairs identified and undertaken as required."
+    },
+    {
+      "skillId": "01e5b7b2-90db-4ab1-b1b2-cd1e3e90319f",
+      "detail": "Use safe methods of system rigging and de-rigging, following verbal and written instructions. "
+    },
+    {
+      "skillId": "564a9284-ecda-4b9e-908a-bf7d640e3045",
+      "detail": "Undertake fault finding in components and systems. "
+    },
+    {
+      "skillId": "75c13447-d1f4-4966-b1fe-fde790fcbef1",
+      "detail": "Undertake dynamic risk assessments and sign-on to and follow those risk assessments already established by others. "
+    },
+    {
+      "skillId": "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04",
+      "detail": "Choose or use equipment or components and process and materials with regard to their recycling and sustainability impact. "
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-05-14T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0497",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "Lynne.LADA@gmail.com",
+  "involvedEmployers": "Royal Opera House, Royal Shakespeare Company, National Theatre, Young Vic, Royal Exchange, Stage Technologies, The Really Useful Group, Kinesys, Scott Fleary, AVW, CCSkills\r\n",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-12-03T09:09:29 +00:00",
-  "lastUpdated": "2020-12-03T09:09:29 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-automation-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-automation-technician",
+  "typicalJobTitles": [
+    "Automation operator",
+    "Automation technician",
+    "Flys technician",
+    "Physical special effects technician",
+    "Stage engineer",
+    "Theatre maintenance technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Media, Broadcast and Production",
+  "cluster": "Production arts assistant",
+  "clusterId": "60",
+  "clusterDescription": null,
+  "createdDate": "2024-05-17T10:20:10 +00:00",
+  "lastUpdated": "2024-05-17T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-05-14T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0915",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0915-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0915-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "8503a5b2-ab22-49af-8b69-f187a25d8940",
+      "dutyDetail": "Work with artistic, production and technical teams to provide the technical interpretation and deliver the creative vision for the performance or production within budget and other constraints. This may include building, hiring or modifying existing automation components.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "807077bd-047e-4ff0-8a98-1e7d80a4756f",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+        "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9",
+        "2fb8f2ad-d617-4479-9215-215ff5901871",
+        "71f97688-d755-4fe8-9e57-8d45664b2838"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+        "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+        "bf39251b-af03-4515-9c07-8b2171844448",
+        "01e5b7b2-90db-4ab1-b1b2-cd1e3e90319f",
+        "564a9284-ecda-4b9e-908a-bf7d640e3045"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a1083661-dc22-48e6-a240-97b9fa632abc",
+      "dutyDetail": "Define the parameters of safe operation of required stage or set machinery or equipment. For example,  speed, height, limits of travel, weight as part of the creative design process, prior to rehearsal and communicate that information to the artistic team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "03732d19-381b-4665-b158-ceba221fcaf8"
+      ],
+      "mappedKnowledge": [
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "723e149b-d871-44cc-9a76-7ee6ee99ed10"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7814c7b8-7e25-4b32-bfb7-4a2c76e6dc04",
+        "80cb5ee1-1a76-4af7-9e74-fd8c368fd77b",
+        "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+        "01b7778b-1b41-4fa1-8d29-922aff499e5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df6a6db0-0c07-4d34-bd7d-0d9e2bec2436",
+      "dutyDetail": "Manage personal workload to meet deadlines using the production schedules.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "9683246f-fd20-4748-920f-10613a3ac0a2",
+        "fba1974c-8f3f-4b78-9191-3ec63c4af91b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "80cb5ee1-1a76-4af7-9e74-fd8c368fd77b",
+        "eb781228-a01b-4c00-9383-4b7d07035232"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "98a0d48a-1f09-45f5-a5f7-c26b4faaaf4e",
+      "dutyDetail": "Interpret technical drawings for example stage or set ground plans, cabling schedules as part of a fit-up or maintenance planning activities. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b",
+        "46b51639-34bc-4fdc-b69f-71a3790e6150"
+      ],
+      "mappedKnowledge": [
+        "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+        "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9",
+        "80828194-808d-4839-b252-267e8362d439",
+        "dbaddd3a-c98f-4aa4-8244-bd6f27638721",
+        "2fb8f2ad-d617-4479-9215-215ff5901871",
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "0c41b35e-0123-42ef-a61d-7636efcd1931"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "80cb5ee1-1a76-4af7-9e74-fd8c368fd77b",
+        "eb781228-a01b-4c00-9383-4b7d07035232",
+        "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+        "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+        "75c13447-d1f4-4966-b1fe-fde790fcbef1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d01e8bc3-a7f5-4a65-8bb1-a5a3ab67571a",
+      "dutyDetail": "Assemble, test and commission automated equipment for moving scenery, sets or performers. For example hoists, elevators and revolves in accordance with industry standards such as  CWA15902 Pt1, BS7905, BS7906. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+        "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9",
+        "2fb8f2ad-d617-4479-9215-215ff5901871",
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "0c41b35e-0123-42ef-a61d-7636efcd1931",
+        "39b6dd02-7133-42b6-b50b-743bcbbd1e2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+        "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+        "bf39251b-af03-4515-9c07-8b2171844448",
+        "01b7778b-1b41-4fa1-8d29-922aff499e5f",
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d217b7e2-7b0c-4d90-92db-4e22d273c191",
+      "dutyDetail": "Ensure that all stage or set machinery which may be bespoke is safe and compliant with LOLER and PUWER whilst meeting the artistic vision of the production or performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "807077bd-047e-4ff0-8a98-1e7d80a4756f",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "2fb8f2ad-d617-4479-9215-215ff5901871",
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "723e149b-d871-44cc-9a76-7ee6ee99ed10"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+        "b3ea7b9b-c492-447a-a1ab-2e5c276ab2d9",
+        "acc8576a-f9bd-45f9-ac8e-5fd612f3350d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1f2fa54e-7b27-45df-81d0-14b577226cb9",
+      "dutyDetail": "Interpret creative direction or production requirements by programming automation control software or using mechanical special effects to create production effects, physical special effects props and stunts. Achieve the desired movements and performance or production sequences in-line with budget constraints.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "46b51639-34bc-4fdc-b69f-71a3790e6150"
+      ],
+      "mappedKnowledge": [
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "2e65db2c-53ff-41ca-889f-d56a12c51d09"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "875fed15-11aa-441c-9b8b-f48d9cef6ddf",
+        "acc8576a-f9bd-45f9-ac8e-5fd612f3350d",
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d01cc623-93b1-4225-a5b2-499a3629f62e",
+      "dutyDetail": "Carry out the safe operation of automation systems and machinery for example computerised control desks using clear communication protocol during all phases of the production process  including preparation, rehearsal and live performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "80828194-808d-4839-b252-267e8362d439",
+        "dbaddd3a-c98f-4aa4-8244-bd6f27638721",
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "723e149b-d871-44cc-9a76-7ee6ee99ed10",
+        "39b6dd02-7133-42b6-b50b-743bcbbd1e2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "bf39251b-af03-4515-9c07-8b2171844448",
+        "01e5b7b2-90db-4ab1-b1b2-cd1e3e90319f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8f6d8fbc-8e41-4f5d-96de-107949c891a8",
+      "dutyDetail": "Carry out emergency repairs of machinery during the live performance or production whilst ensuring the safety of those on stage or set. For example artists, technical staff and the public and where possible, without interrupting the performance or production. Know when to stop the performance or production and the impact of that decision. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b",
+        "46b51639-34bc-4fdc-b69f-71a3790e6150"
+      ],
+      "mappedKnowledge": [
+        "cd57979e-20e2-47af-bd5c-5b5a3e35f128",
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "b48c47c4-7ffb-48c6-84f5-2995cc740815",
+        "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+        "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9",
+        "2fb8f2ad-d617-4479-9215-215ff5901871",
+        "71f97688-d755-4fe8-9e57-8d45664b2838",
+        "0c41b35e-0123-42ef-a61d-7636efcd1931",
+        "8cd630ca-613e-463e-9633-af427ca6492a",
+        "174d8724-e81a-4ae2-aa48-9061fea84bdb",
+        "39b6dd02-7133-42b6-b50b-743bcbbd1e2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a114934a-7aa5-4512-b7fe-d73fadfb5714",
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "4500e72b-82c3-453e-9c01-32bc9c9b1cfa",
+        "bf39251b-af03-4515-9c07-8b2171844448",
+        "01b7778b-1b41-4fa1-8d29-922aff499e5f",
+        "564a9284-ecda-4b9e-908a-bf7d640e3045",
+        "75c13447-d1f4-4966-b1fe-fde790fcbef1",
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e4060ea-9f2d-4c5c-9e7d-b056c9e66e9b",
+      "dutyDetail": "Carry out planned and reactive maintenance of stage or set machinery such as pre-show or production checks, which may include 6-monthly insurance inspections, taking into account performance or production and rehearsal schedules.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "8cd630ca-613e-463e-9633-af427ca6492a",
+        "174d8724-e81a-4ae2-aa48-9061fea84bdb",
+        "40fc0e76-68eb-41bf-b931-81d200924022",
+        "39b6dd02-7133-42b6-b50b-743bcbbd1e2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "01b7778b-1b41-4fa1-8d29-922aff499e5f",
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25b87968-f03d-4c1b-9470-578a597e3d3e",
+      "dutyDetail": "Complete relevant documentation regarding inspection, repair and maintenance issues in accordance with reporting protocols. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1833ff10-8aab-4f4d-a347-a5105780fd89",
+        "b5c0617d-f240-497a-96b5-98de6a0b5630",
+        "001d0f71-db9a-494d-8510-288da901ff2b"
+      ],
+      "mappedKnowledge": [
+        "174d8724-e81a-4ae2-aa48-9061fea84bdb",
+        "40fc0e76-68eb-41bf-b931-81d200924022"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "01e5b7b2-90db-4ab1-b1b2-cd1e3e90319f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d81103f2-e1f0-41f7-809f-378b0ee60036",
+      "dutyDetail": "De-rig, pack-up and safely store or dispose of stage or set machinery at the end of runs of performances or productions in accordance with requirements such as time constraints and environmental regulations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "03732d19-381b-4665-b158-ceba221fcaf8"
+      ],
+      "mappedKnowledge": [
+        "c8d4fb6a-c528-4328-806a-b5a70ffa2c3a",
+        "7d5d1d42-61d3-4603-bd26-8c4440143d6a",
+        "8746e1b6-3cc4-45d8-b9e7-bc97a7a252b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4aacfb35-9179-4a79-bec1-8afa1fc66404",
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b10942ae-f25e-4e8d-ab52-7d05ddfc981f",
+      "dutyDetail": "Identify best practice by keeping up to date with new technologies and working practices",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "03732d19-381b-4665-b158-ceba221fcaf8"
+      ],
+      "mappedKnowledge": [
+        "2e65db2c-53ff-41ca-889f-d56a12c51d09",
+        "39b6dd02-7133-42b6-b50b-743bcbbd1e2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4bfa0972-61b3-4aa0-9e40-04fd5abcdf04"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-05-17T00:00:00"
 }
