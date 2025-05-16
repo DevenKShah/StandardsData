@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 568,
   "referenceNumber": "ST0898",
+  "learningAimClassCode": "",
   "title": "Water network operative",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/568",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0898",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2022-10-31T00:00:00",
   "earliestStartDate": "2020-06-17T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-11-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "water",
+    "network",
+    "infratsurcture",
+    "water network operative",
+    "engineering",
+    "manufacturing"
+  ],
   "jobRoles": [
     "Mains layer",
     "Repair and maintenance operative",
@@ -24,12 +37,11 @@
     "Water operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4326/st0898_water_network_operative_l2_epa-plan_for-publication_050620.pdf",
+  "assessmentPlanUrl": "",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "8119 - Process operatives n.e.c.",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the utilities sector, in clean water and waste water industries. Water network operatives typically work in only one of the water industries, although some multi-utility workers may work across both. They work for utility owners, operators or contractors, ranging in size from small to large companies.&lt;br /&gt;&lt;br /&gt;This is a core and options apprenticeship standard. Apprentices will need to complete the core and one option:&lt;br /&gt;1. Clean water network operative. &lt;br /&gt;2. Waste water network operative. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to construct, maintain and repair water network infrastructure, to provide a reliable supply/service to domestic, commercial and industrial users. Clean water infrastructure includes mains pipes, water supply pipes, stop taps, fire hydrants and sluice valves for clean water operations; and in waste water operations: drains and sewers, chambers, interceptors, flow control devices and storage tanks. In both occupations the work is both planned - construction and maintenance, and reactive - repairs and emergencies. They ensure the site is safe for work, which may include traffic management and control, complete site excavation and restore the site to a safe condition. They use a range of powered equipment and hand tools, for example diggers.&lt;br /&gt;&lt;br /&gt;Depending on the work required, they may spend the day at one site or work across a number of sites. Work locations may include new build sites, public highways or domestic properties. They are required to work in all weather conditions. They may need to work shifts, standby and unsociable hours. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues, such as managers, network technicians and engineers, delivery drivers, reinstatement teams and administration staff. They usually work in a small team - typically with one or two other operatives, responsible for their own work, reporting to managers but not under direct supervision. On a site they may also interact with site agents and other trades. They will communicate with clients/customers regarding work that is being undertaken and in some situations the general public. They may also liaise with personnel from statutory authorities, such as the Highways Authority, local authorities and the Environment Agency. When working in emergency situations, they may liaise with emergency services personnel. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring Health &amp;amp; Safety and regulatory compliance, for example with the Drinking Water Inspectorate, The Water Services Regulation Authority (OFWAT) and Environment Agency etc; failure to do so could have serious consequences for self, public health and the environment. Recording and reporting on work completed is an important part of the job, which may include completion of paperwork or computerised records, drawings and providing site photographs. They are expected to present a professional image of the company. They are responsible for ensuring their tools and equipment are fit for use, correctly stored and maintained. Depending on their level of experience, they may be responsible for leading the team.&lt;br /&gt;&lt;br /&gt;Water network operatives need to be qualified and on the Street Works Register. Typically, a driving license will be required as they may be expected to drive to their place of work, using a company vehicle. In addition, clean water network operatives must hold a Water Hygiene Card. Some water network operatives may require a CSCS (Construction Skills Certification Scheme) Card and/or SHEA (Safety, Health and Environmental Awareness) Gas Passport Card.&lt;/p&gt;",
   "knowledges": [
     {
@@ -317,34 +329,28 @@
       "detail": "Decontaminate equipment, tooling and PPE."
     }
   ],
-  "options": [
-    {
-      "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
-      "title": "Clean water network operative"
-    },
-    {
-      "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
-      "title": "Waste water network operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "false",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-06-17T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0484",
   "tbMainContact": "Chris.Jenkins@theclancygroup.co.uk",
   "involvedEmployers": "Anglian Water, Balfour Beatty, Clancy Group, Highways utilities, Kier, Morrison Utility Services, Northumbrian Water, SES Water, Severn Trent, Southern Water, Thames Water, United Utilities, Wessex Water",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -355,14 +361,20 @@
     "Utility operative",
     "Water operative"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
   "cluster": "Manufacturing/Process Maintenance Operative/Technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
   "createdDate": "2020-07-06T09:41:45 +00:00",
-  "lastUpdated": "2020-06-17T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-network-operative-v1-0",
+  "lastUpdated": "2022-10-31T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-06-17T00:00:00 +00:00",
+  "banners": "This apprenticeship is being revised. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships in revision are available in the revisions status report.\n\u00A0",
+  "occupationCode": "OCC0898",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0898-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0898-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -385,7 +397,7 @@
         "b5f3f4fc-a0e4-428c-9eff-667fbaadf643",
         "6ead6974-d6dd-4da9-893a-1967e6acd607"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "809f894b-603a-4123-94b4-ef92cd6ea9f1",
@@ -409,7 +421,7 @@
         "decede38-eb4d-43a7-83f5-bfc382c5b9a4",
         "6ead6974-d6dd-4da9-893a-1967e6acd607"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75069bbf-7bbd-4c91-a457-a4891b1ab969",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d"
@@ -433,7 +445,7 @@
         "1d23017f-de4e-416d-899b-7759449dc5a1",
         "0eb20535-9855-4372-ac40-eb2d2fa42e54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "89e3ef21-74f1-4652-b0d9-0ea2d83185d5",
         "0a2c43c4-14dc-40e3-95da-51a0f88f9c8f",
@@ -459,7 +471,7 @@
         "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
         "bab3543d-abbe-4880-8a40-ae15d80b70c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
@@ -486,7 +498,7 @@
         "f0fa779b-b289-4ca0-a40f-5eb21ab1889a",
         "decede38-eb4d-43a7-83f5-bfc382c5b9a4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8dfcc0a4-9759-4e57-8de7-fbac40488529",
         "e2a6c887-8b13-4a5b-8e76-95bfbf62b54d",
@@ -511,7 +523,7 @@
         "8418ab48-19ed-4bd6-9bf2-ffb27be1182a",
         "9037f641-2ef0-4e3e-95a5-e6539f34d1bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "63c4c2ea-30e6-45fa-bb13-3ed6305badcc"
       ],
@@ -529,7 +541,7 @@
         "6ead6974-d6dd-4da9-893a-1967e6acd607",
         "8418ab48-19ed-4bd6-9bf2-ffb27be1182a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e4ccaa26-4607-47d5-a6e8-f92c7fa3fbda"
       ],
@@ -551,7 +563,7 @@
         "fc5f84c9-2231-47ab-b9e4-b477012f9c12",
         "b5f3f4fc-a0e4-428c-9eff-667fbaadf643"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cd702524-7555-4200-a1a6-ffe0340685b7",
         "5aae3d0a-1b09-438e-a6da-05b27375b1fa"
@@ -916,5 +928,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "21060680-89ad-49bf-8d77-40a4a63cd4d8",
+      "title": "Clean water network operative",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "36f32460-9e39-47dc-b04b-9416e928f7bb",
+      "title": "Waste water network operative",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-11-10T00:00:00"
 }
