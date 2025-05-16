@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 608,
   "referenceNumber": "ST0701",
+  "learningAimClassCode": "",
   "title": "Orthodontic therapist (integrated)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/608",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0701",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-11-18T00:00:00",
+  "changedDate": "2022-07-01T00:00:00",
   "earliestStartDate": "2020-11-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-06-30T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "A registered professional who fits, adjusts and removes braces to patient’s teeth.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 13,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "nursing",
@@ -28,12 +34,11 @@
     "Orthodontic therapist"
   ],
   "entryRequirements": "&lt;p&gt;Must be registered on the General Dental Council Register as a registered dental nurse, dental hygienist, dental therapist or dental technician. Employers usually require applicants to have a period of clinical post-qualification experience (usually at least 2 years).&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4417/st0701_orthodontic-therapist_l4.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4417/st0701_orthodontic-therapist_l4.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in Dentistry.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to become a registered professional who fits, adjusts and removes braces to patient’s teeth, working to the prescription of an orthodontist or dentist competent in orthodontics. They provide holistic advice on maintaining oral and general health for patients who are undergoing orthodontic treatment. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with patients of all ages who present with dental malocclusions (problems with the development, alignment and the way teeth fit together), the wider orthodontic and dental team, parents, guardians and carers. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for undertaking reversible orthodontic procedures, which include bonding brackets on the teeth, fitting and changing wires and accessories that connect to the brackets, fitting removable appliances and retainers, following an appropriate prescription. They will respond appropriately to a treatment plan from the orthodontist, gaining valid consent from the patient and guardian, and giving appropriate advice. They will be able to make appliances safe in the absence of the dentist and respond appropriately to emergencies. &lt;br /&gt;&lt;br /&gt;The scope of practice for orthodontic therapists is set out by the General Dental Council who regulate this occupation. Further details of the regulatory requirements can be found in the following General Dental Councils documents: ‘Preparing for Practice,’ ‘Standards for Education’ and ‘Standards for the Dental Team’. &lt;br /&gt;&lt;br /&gt;Orthodontic Therapists work as part of wider dental team that includes dentists or orthodontists, dental nurses, dental hygienists, dental therapists, dental technicians, clinical dental technicians, practice managers, administrators and laboratory staff. Depending on the practice they work in, Orthodontic Therapists may supervise colleagues, trainees or students. The dentist or orthodontist prescribes the treatments that an Orthodontic Therapist will carry out, including taking impressions, placing fixed brackets and arch wires on teeth, fitting tooth separators, undertaking radiographs and occlusal bite registration.&lt;br /&gt;&lt;br /&gt;During the apprenticeship apprentices must be supervised by a suitably trained orthodontist on the specialist list maintained by the General Dental Council.&lt;br /&gt;&lt;br /&gt;They must be a Registered General Dental Council dental nurse, dental hygienist, dental therapist or dental technician prior to commencing this apprenticeship&lt;/p&gt;",
   "knowledges": [
     {
@@ -373,51 +378,62 @@
       "detail": "Reflect on own practice, recognising how reflection can be used to continually improve the quality of patient care and professional development"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "contactName": "",
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "Enquiries.IFA@education.gov.uk",
+    "webLink": ""
   },
   "approvedForDelivery": "2020-11-09T00:00:00 +00:00",
   "integratedApprenticeship": true,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "TB0053",
+  "tbReference": "TB0600",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Genix Healthcare, Bradford Teaching Hospitals NHS Foundation Trust, BUPA Dental Care, Central Manchester University Hospitals NHS Trust, Crystal Peaks Orthodontics, Sheffield, Junction Dental, Heckmondwike, Kings College Hospital NHS Foundation Trust, Leamington Spa Orthodontics, Leeds Teaching Hospitals NHS Foundation Trust, Manchester University NHS Foundation Trust, Ortho Studio, Rotherham, Orthodontics by Eva, Winchester, Saltaire Orthodontics, Bradford, Smile Orthodontics, Norwich, United Lincoln Hospitals Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "General Dental Council (GDC)",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Orthodontic therapist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This apprenticeship standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health Practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2019-05-22T09:09:48 +00:00",
-  "lastUpdated": "2020-08-03T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/orthodontic-therapist-(integrated)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/orthodontic-therapist-(integrated)-v1-0",
+  "lastUpdated": "2022-07-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-11-09T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0701",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0701-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0701-v1-0",
   "qualifications": [
     {
       "qualificationId": "5f0a96c9-ac22-45c1-98e7-32deacc4915a",
       "title": "Diploma in Orthodontic Therapy accredited by the General Dental Council ",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "General Dental Council ",
-      "level": "0",
+      "level": "4",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -440,7 +456,7 @@
         "2c11670c-86eb-46cd-801d-413f0f2c541a",
         "946ba8ce-9be2-4e0e-8c5b-f2601ae3b3ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "087e78ad-c46e-40f2-89d7-e0af82e0ed9c"
       ],
@@ -461,7 +477,7 @@
         "e1214692-9435-4173-ab86-edc2b1baba9d",
         "b57401ae-9fb2-4821-9bba-5c41358627e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f90b9b23-5eac-4bd3-9a6e-3db63cf95a55",
         "807209e0-3922-4f51-9781-2362af4de7f9",
@@ -490,7 +506,7 @@
         "5bc15f72-64ab-411a-93ba-5fa7c7eca48d",
         "05dadfda-f617-4d1d-a34e-abab9da3d5ee"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "119253b5-6f6b-46a4-be2d-026a3278de59",
         "99fdda8d-7027-45cc-8146-b9af2ca1ba90",
@@ -511,7 +527,7 @@
         "ef4615ff-a6dc-46d9-96ec-9f288fb01aa8",
         "bb080ad0-7348-4ac5-b5fc-7b99caab84dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eaa45c11-6433-450d-a38d-b21b9e590553",
         "1f594331-7654-4a0f-b17f-a9a090f08830",
@@ -530,7 +546,7 @@
       "mappedKnowledge": [
         "8b7baba4-1ac2-4bd3-a04d-b881b18f4301"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32e96788-5753-4cd4-a0b5-81e01866ff52",
         "f8cf7443-6913-4db9-85e2-fe632f768950"
@@ -548,7 +564,7 @@
       "mappedKnowledge": [
         "1a424c35-cc1c-4149-9b3e-4b532f9fd887"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fcd865e9-df2c-4499-9110-2d0a31478103",
         "a445b4a9-bab6-4bc0-905b-416a8c00c0f4"
@@ -568,7 +584,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "fb92610f-f841-4401-ae8d-9d6cc626f688"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36ad3ba4-3e21-480f-8527-58c1fa345adb"
       ],
@@ -586,7 +602,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "1b7536ab-5b17-4c47-b767-55837a089788"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32e96788-5753-4cd4-a0b5-81e01866ff52",
         "62b78ae1-6988-42f8-92f6-1e58b5c65204",
@@ -605,7 +621,7 @@
       "mappedKnowledge": [
         "b01cfc44-4f18-4dc0-aef7-1a504ce774c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2ced219a-1342-4c73-a0ad-4a93249bdfea",
         "3dd01fb8-099f-4f19-8f46-b0842195e797"
@@ -623,7 +639,7 @@
       "mappedKnowledge": [
         "3fba304c-1b62-4dc6-94ab-76ed408cadef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ce4eb489-346f-479a-905c-4ae5c31767ed"
       ],
@@ -641,7 +657,7 @@
         "edfecef0-1f56-49c3-a017-1ad3d5b832d6",
         "1cdab0ef-6907-4c71-a41e-c8fdec43c6b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "012abb3f-bdcc-425e-ab2d-427ded0461a4"
       ],
@@ -663,7 +679,7 @@
         "becaa3fb-12a6-4d56-bde2-3e080169e20e",
         "9f90f62d-ca8a-4595-96e3-c3c4b225a56c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42c80b1d-0c50-4860-a399-64494709950a",
         "943ef792-e388-44b6-8420-49cd2177b713",
@@ -684,7 +700,7 @@
         "b5e881c2-6ca3-410a-9bc6-73df8b4629f3",
         "044f33aa-d2e1-42d5-93ea-c2f912a24693"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0fa45934-c402-425c-a68d-28badfe61c23",
         "b6b38aa8-3781-4365-b9e0-b20ac7b6ed8b",
@@ -704,7 +720,7 @@
         "3b8e1714-417f-4247-af88-679065aa9d39",
         "22704e01-4231-44ee-ad12-93e96ee30c16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c8d3c1a3-bd3f-41f9-8350-ce8ce6fe9696"
       ],
@@ -728,7 +744,7 @@
         "ec78432b-a9cd-4ea5-8da9-d02d0b6079d6",
         "fef805ac-7a0b-4529-bfcd-7a6ac9fc6f3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7d34b5b-cf63-43f1-9431-4aaf1d4a9f51",
         "0b0224f5-8da0-4741-b37b-509ad7513d63",
@@ -738,10 +754,16 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-07-01T00:00:00"
 }
