@@ -1,43 +1,55 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 541,
   "referenceNumber": "ST0470",
+  "learningAimClassCode": "",
   "title": "Digital user experience (UX) professional (integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/541",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0470",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2022-02-16T00:00:00",
   "earliestStartDate": "2020-02-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Investigate, analyse and design the experience that people have with digital products and services.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [],
+  "keywords": [
+    "ICT",
+    "ux",
+    "user experience",
+    "digital products",
+    "digital",
+    "Software Developer"
+  ],
   "jobRoles": [
-    "UX Lead",
-    "UX Specialist",
-    "UX Designer/Engineer",
-    "UX Information Architect",
-    "UX Consultant",
-    "UX Researcher",
-    "User Researcher",
-    "UI (User Interface) Designer",
-    "Interaction Designer",
-    "Experience Designer",
-    "UX Product Manager",
-    "UX Analyst"
+    "Experience designer",
+    "Interaction designer",
+    "Ui (user interface) designer",
+    "User researcher",
+    "Ux analyst",
+    "Ux consultant",
+    "Ux designer/engineer",
+    "Ux information architect",
+    "Ux lead",
+    "Ux product manager",
+    "Ux researcher",
+    "Ux specialist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3698/st0470-digital-user-experience-ux-professional_l6_ap-f.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/q25bznxj/st0470-digital-user-experience-ux-professional_l6_ap-for-publication_061219_qm.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;The occupation is found in the fields of design and technology across every sector, including digital and creative; retail and sales; public service; health innovation; manufacturing; and finance and professional services.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to investigate, analyse and design the experience that people have with digital products and services, both current and emerging, in order to find ways that these interactions can be implemented, improved and optimised over time. Digital User Experience (UX) Professionals are responsible for the continuous improvement of the experiences that digital products and services offer to their users, and for leading and advocating the use of user-centred design practices within multidisciplinary teams.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, a Digital UX Professional interacts with internal and external parties including stakeholders (to capture organisational requirements and present solutions to UX challenges), users/customers (to understand their needs and validate UX solutions through user testing) and team members from a range of specialist fields including designers, developers, engineers, analysts and project/delivery managers (to ensure the effective implementation of UX solutions). Their work is typically office-based however field-based research and testing may require Digital UX Professionals to spend periods of time working in the environments of the users whose needs they are seeking to meet.&#160;&#160;&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for leading the application of user-centred design methodologies, tools and techniques across the full lifecycle of digital product/service design and delivery, from research and development, through continuous improvement, to product/service retirement. They work both autonomously and as part of wider multidisciplinary teams, typically reporting to Product Owner/Creative Director/Head of User Experience roles.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The occupation is found in the fields of design and technology across every sector, including digital and creative; retail and sales; public service; health innovation; manufacturing; and finance and professional services.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to investigate, analyse and design the experience that people have with digital products and services, both current and emerging, in order to find ways that these interactions can be implemented, improved and optimised over time. Digital User Experience (UX) Professionals are responsible for the continuous improvement of the experiences that digital products and services offer to their users, and for leading and advocating the use of user-centred design practices within multidisciplinary teams.&lt;/p&gt;\n&lt;p&gt;In their daily work, a Digital UX Professional interacts with internal and external parties including stakeholders (to capture organisational requirements and present solutions to UX challenges), users/customers (to understand their needs and validate UX solutions through user testing) and team members from a range of specialist fields including designers, developers, engineers, analysts and project/delivery managers (to ensure the effective implementation of UX solutions). Their work is typically office-based however field-based research and testing may require Digital UX Professionals to spend periods of time working in the environments of the users whose needs they are seeking to meet.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for leading the application of user-centred design methodologies, tools and techniques across the full lifecycle of digital product/service design and delivery, from research and development, through continuous improvement, to product/service retirement. They work both autonomously and as part of wider multidisciplinary teams, typically reporting to Product Owner/Creative Director/Head of User Experience roles.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "aa0aac61-d255-4b6c-87d7-8a811436b49b",
@@ -220,63 +232,74 @@
       "detail": "Balance and trade-off competing quality, time and budget criteria, demonstrating understanding of business need, managing time effectively and being able to plan and complete UX activities to schedule."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0149",
-  "tbMainContact": "bob.clift@tpdegrees.com ",
-  "involvedEmployers": "Magnetic North, Accenture, BBC, CGI, Hedgehog Lab, NHS Digital, Quantum Law LLP, Red River Software, Sage (UK), Shop Direct",
+  "tbMainContact": "oscar.de-bruijn@techskills.org",
+  "involvedEmployers": "Magnetic North, Accenture, BBC, CGI, Hedgehog Lab, NHS Digital, Quantum Law LLP, Red River Software, Sage (UK), Shop Direct, LV= General Insurance",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "UX Lead",
-    "UX Specialist",
-    "UX Designer/Engineer",
-    "UX Information Architect",
-    "UX Consultant",
-    "UX Researcher",
-    "User Researcher",
-    "UI (User Interface) Designer",
-    "Interaction Designer",
-    "Experience Designer",
-    "UX Product Manager",
-    "UX Analyst"
+    "Experience designer",
+    "Interaction designer",
+    "Ui (user interface) designer",
+    "User researcher",
+    "Ux analyst",
+    "Ux consultant",
+    "Ux designer/engineer",
+    "Ux information architect",
+    "Ux lead",
+    "Ux product manager",
+    "Ux researcher",
+    "Ux specialist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
-  "cluster": "Software Development Professional",
-  "createdDate": "2020-04-16T08:23:11 +00:00",
-  "lastUpdated": "2020-04-15T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-user-experience-(ux)-professional-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-user-experience-(ux)-professional-(integrated-degree)-v1-0",
+  "cluster": "Software development professional",
+  "clusterId": "198",
+  "clusterDescription": null,
+  "createdDate": "2021-07-01T14:54:43 +00:00",
+  "lastUpdated": "2022-02-16T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0470",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0470-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0470-v1-0",
   "qualifications": [
     {
-      "qualificationId": "43c7c49b-8ba0-441e-af55-4b977e6af4ed",
+      "qualificationId": "5ca61a54-37c6-4fc0-b590-ca20ac092011",
       "title": "BA or BSc Digital User Experience (UX) degree",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
   "duties": [
     {
       "dutyID": "e067409a-95e5-488a-8467-504b565d8b75",
-      "dutyDetail": "Capture, interpret and articulate digital product or service requirements including business, technical and potential user sources and define appropriate measures of success, including goals, objectives and key performance indicators (KPIs)",
+      "dutyDetail": "Capture, interpret and articulate digital product or service requirements including business, technical and potential user sources and define appropriate measures of success, including goals, objectives and key performance indicators (KPIs).",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9ec390f0-b7ef-46f2-8482-c95217dccf75"
@@ -288,17 +311,17 @@
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa",
         "b0adfb2b-a2c6-4201-847f-143c18a32d96"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e7d2f29-99ae-423b-98dc-ad58dd29ce7f",
         "45c34c1c-11c7-4fc0-9164-167f4e5e388b",
         "e3029806-45ff-4fe6-8cb9-6d8d9898cfc5"
       ],
-      "criteriaForMeasuringPerformance": "A design brief that accurately describes business, technical and user requirements"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "b49bd702-6e8b-4136-b233-731160c61395",
-      "dutyDetail": "Conduct evaluative research activities to assess the usability and effectiveness of existing digital products and services and to identify areas for improvement",
+      "dutyDetail": "Conduct evaluative research activities to assess the usability and effectiveness of existing digital products and services and to identify areas for improvement.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "42da8c25-62d2-469c-b018-fa4943be67b5"
@@ -312,17 +335,17 @@
         "196ee4b0-c247-4dd7-9250-fd3d180bcefc",
         "f3acf4e9-9828-49ad-906a-1551a6d634cf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "741aebae-5ae3-4af8-8818-4613ae4a7b45",
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "f2108e3d-77d0-4f2f-951c-f190d94e0120"
       ],
-      "criteriaForMeasuringPerformance": "Research is defined, managed, executed and reported to industry best practice"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "0ee0bc9a-8fdc-4cf5-91dc-90e2e24646ac",
-      "dutyDetail": "Take responsibility for selecting and delivering UX activities within given timeframes and budgets, in order to meet business needs and with consideration for dependencies between different disciplines",
+      "dutyDetail": "Take responsibility for selecting and delivering UX activities within given timeframes and budgets, in order to meet business needs and with consideration for dependencies between different disciplines.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "825674e1-ed4e-41a8-8c7c-faaa5d058571"
@@ -333,17 +356,17 @@
         "61ef3daf-8eca-451a-a4dd-39db9f83cb4b",
         "b0adfb2b-a2c6-4201-847f-143c18a32d96"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "f2108e3d-77d0-4f2f-951c-f190d94e0120",
         "ce89a9dc-4260-46cc-9f88-f49039d0810b"
       ],
-      "criteriaForMeasuringPerformance": "A rationale for the process or activities selected\n\nA successfully executed UX project delivered within time and budget"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "61f967f7-98bd-4b05-a036-ff2968386b8c",
-      "dutyDetail": "Conduct generative research using a range of methodologies and techniques to understand users, identify opportunities, and inform concepts for new digital products and services",
+      "dutyDetail": "Conduct generative research using a range of methodologies and techniques to understand users, identify opportunities, and inform concepts for new digital products and services.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f69dbba1-0102-4547-be2c-0d47faf42b11",
@@ -354,17 +377,17 @@
         "ea8fa6f2-d583-4ccf-ba04-bff98d36524f",
         "4f489f1e-a60b-428f-b893-5bac5d2796f1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "f2108e3d-77d0-4f2f-951c-f190d94e0120",
         "f7e09cb7-3b3d-4d91-a3cc-54414007292e"
       ],
-      "criteriaForMeasuringPerformance": "Research is defined, managed, executed and reported to industry best practice"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "eb833980-83b0-4a13-9132-77425310c7f6",
-      "dutyDetail": "Lead on analysis, synthesis and interpretation of research findings to create insights and strategies to share with product teams for digital product / service development",
+      "dutyDetail": "Lead on analysis, synthesis and interpretation of research findings to create insights and strategies to share with product teams for digital product / service development.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f69dbba1-0102-4547-be2c-0d47faf42b11"
@@ -374,7 +397,7 @@
         "bd3e5d37-ee15-43ae-9ce3-71c2f3d8ac62",
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "741aebae-5ae3-4af8-8818-4613ae4a7b45",
         "4e7d2f29-99ae-423b-98dc-ad58dd29ce7f",
@@ -382,11 +405,11 @@
         "c78d0fdf-41a6-427d-aa76-be0fd62252a2",
         "879a1818-6ae3-4deb-bcba-869cae8d4e98"
       ],
-      "criteriaForMeasuringPerformance": "Clear and concise insights and strategies identified appropriate to the organisation"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "589cb4c2-be09-44ab-b0e0-c22fdfdec5d3",
-      "dutyDetail": "Model and articulate user types and their goals, behaviours and pain points using appropriate design artefacts to inform the design process",
+      "dutyDetail": "Model and articulate user types and their goals, behaviours and pain points using appropriate design artefacts to inform the design process.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "42da8c25-62d2-469c-b018-fa4943be67b5",
@@ -401,18 +424,18 @@
         "d4d57232-1b73-4dcf-b5d2-a1f2113dc528",
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "4e7d2f29-99ae-423b-98dc-ad58dd29ce7f",
         "c78d0fdf-41a6-427d-aa76-be0fd62252a2",
         "c68108a8-a4c1-41da-bb28-67b36168b059"
       ],
-      "criteriaForMeasuringPerformance": "Production of meaningful design artefacts representing the research findings"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9ecef787-4e37-4528-83d9-0c57bd865d46",
-      "dutyDetail": "Lead the ideation, production and iterative development and improvement of UX design solutions, working with team members from other disciplines to assess their impact",
+      "dutyDetail": "Lead the ideation, production and iterative development and improvement of UX design solutions, working with team members from other disciplines to assess their impact.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "42da8c25-62d2-469c-b018-fa4943be67b5",
@@ -424,7 +447,7 @@
         "196ee4b0-c247-4dd7-9250-fd3d180bcefc",
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "c68108a8-a4c1-41da-bb28-67b36168b059",
@@ -432,11 +455,11 @@
         "6b6daa59-043c-4840-9850-0153a57a3978",
         "3259c88a-c018-4963-89cc-c85248f8a4ba"
       ],
-      "criteriaForMeasuringPerformance": "UX design ideas generated and solutions iteratively developed"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "fce92594-c87c-458a-ae04-05c970a96ad3",
-      "dutyDetail": "Design and lead user testing to validate and verify proposed UX design solutions using a range of methodologies and techniques against goals, objectives and key performance indicators (KPIs)",
+      "dutyDetail": "Design and lead user testing to validate and verify proposed UX design solutions using a range of methodologies and techniques against goals, objectives and key performance indicators (KPIs).",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f69dbba1-0102-4547-be2c-0d47faf42b11",
@@ -447,18 +470,18 @@
         "ea8fa6f2-d583-4ccf-ba04-bff98d36524f",
         "bd3e5d37-ee15-43ae-9ce3-71c2f3d8ac62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2108e3d-77d0-4f2f-951c-f190d94e0120",
         "7d1de3d8-ce14-4d24-8ce5-8932c7ea4e00",
         "a7ed0d9e-0cb4-4bc9-a2d1-2cd847b94a29",
         "3259c88a-c018-4963-89cc-c85248f8a4ba"
       ],
-      "criteriaForMeasuringPerformance": "Testing is designed, managed, executed and reported to industry best practice"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "766f8f16-566a-43fb-b02b-295fec54746c",
-      "dutyDetail": "Act as the user voice champion throughout the build process of the digital product or service, liaising with relevant technical teams to ensure the effective application of design recommendations",
+      "dutyDetail": "Act as the user voice champion throughout the build process of the digital product or service, liaising with relevant technical teams to ensure the effective application of design recommendations.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "bea40f58-ad23-4d45-82a7-b68f797e303e",
@@ -470,16 +493,16 @@
         "61ef3daf-8eca-451a-a4dd-39db9f83cb4b",
         "94e06f21-fd78-4b8b-b264-8316ea5e2b7a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "a7ed0d9e-0cb4-4bc9-a2d1-2cd847b94a29"
       ],
-      "criteriaForMeasuringPerformance": "The user voice is meaningfully represented"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "362c7fb9-50be-4480-ad26-296f61b21f17",
-      "dutyDetail": "Post deployment, use collected data to critically evaluate and validate solutions against goals, objectives and key performance indicators (KPIs) with a view to continuous improvement of the digital product or service",
+      "dutyDetail": "Post deployment, use collected data to critically evaluate and validate solutions against goals, objectives and key performance indicators (KPIs) with a view to continuous improvement of the digital product or service.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "5ac8660b-f126-47cb-be50-06129251d0b3"
@@ -488,7 +511,7 @@
         "bd3e5d37-ee15-43ae-9ce3-71c2f3d8ac62",
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "741aebae-5ae3-4af8-8818-4613ae4a7b45",
         "4e7d2f29-99ae-423b-98dc-ad58dd29ce7f",
@@ -497,7 +520,7 @@
         "6b6daa59-043c-4840-9850-0153a57a3978",
         "879a1818-6ae3-4deb-bcba-869cae8d4e98"
       ],
-      "criteriaForMeasuringPerformance": "The digital product or service is reviewed and any potential improvements or issues are identified and solutions proposed"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "363d302e-c9ff-460b-a5bc-c1cdcd5ee256",
@@ -519,12 +542,12 @@
         "4f489f1e-a60b-428f-b893-5bac5d2796f1",
         "f3acf4e9-9828-49ad-906a-1551a6d634cf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "879a1818-6ae3-4deb-bcba-869cae8d4e98",
         "e9dd7a8f-36a3-4543-ba1a-2561bf2361ee"
       ],
-      "criteriaForMeasuringPerformance": "Up-to-date knowledge and skillset"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "d100eb2b-7379-4e8f-9a30-3fa7dd6de3ff",
@@ -534,8 +557,8 @@
         "f69dbba1-0102-4547-be2c-0d47faf42b11",
         "9ec390f0-b7ef-46f2-8482-c95217dccf75"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "45c34c1c-11c7-4fc0-9164-167f4e5e388b",
         "f7e09cb7-3b3d-4d91-a3cc-54414007292e",
@@ -545,7 +568,7 @@
         "1c8bf401-a8bd-4215-967f-1b32119f9410",
         "dc1be4e5-c130-4adc-94ee-bb2352d73509"
       ],
-      "criteriaForMeasuringPerformance": "Effective professional relationships established and team dynamics are productive"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "b3bed83f-b799-4df8-86b4-8fb9306815a4",
@@ -573,14 +596,14 @@
         "94e06f21-fd78-4b8b-b264-8316ea5e2b7a",
         "a1cddc72-439f-47cd-86dc-dc38ee8476aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "652f7a6e-7a9b-448d-8cd8-11eb861468bb",
         "3259c88a-c018-4963-89cc-c85248f8a4ba",
         "1c8bf401-a8bd-4215-967f-1b32119f9410",
         "dc1be4e5-c130-4adc-94ee-bb2352d73509"
       ],
-      "criteriaForMeasuringPerformance": "Effective mentoring relationships established and team effectiveness and knowledge continuously improved"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "64f665b4-7ba6-4f0d-bdf4-e872da600f88",
@@ -597,14 +620,14 @@
         "bd3e5d37-ee15-43ae-9ce3-71c2f3d8ac62",
         "b0adfb2b-a2c6-4201-847f-143c18a32d96"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "741aebae-5ae3-4af8-8818-4613ae4a7b45",
         "92c0fa63-91f4-43ca-b90a-58fe00633016",
         "54c4beb3-8513-4b8b-b486-a283c7d7b8c5",
         "c68108a8-a4c1-41da-bb28-67b36168b059"
       ],
-      "criteriaForMeasuringPerformance": "Up-to-date knowledge and insightful thinking"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "2780db78-7176-47a6-b28e-8dd5c8a461a0",
@@ -618,7 +641,7 @@
         "4f489f1e-a60b-428f-b893-5bac5d2796f1",
         "d4d57232-1b73-4dcf-b5d2-a1f2113dc528"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "45c34c1c-11c7-4fc0-9164-167f4e5e388b",
         "e9dd7a8f-36a3-4543-ba1a-2561bf2361ee",
@@ -629,8 +652,13 @@
         "1c8bf401-a8bd-4215-967f-1b32119f9410",
         "dc1be4e5-c130-4adc-94ee-bb2352d73509"
       ],
-      "criteriaForMeasuringPerformance": "A growing appreciation of the importance of UX within others"
+      "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-02-16T00:00:00"
 }
