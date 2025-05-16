@@ -1,60 +1,1051 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 654,
   "referenceNumber": "ST0647",
-  "title": "Transport and warehousing operations supervisor",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Transport and warehouse operations supervisor",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0647",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-08-12T00:00:00",
+  "earliestStartDate": "2021-08-03T00:00:00",
+  "latestStartDate": "2022-11-17T00:00:00",
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Manage the day to day operations involved in supply chain.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Transport",
+    "operations",
+    "logistics",
+    "supply chain",
+    "traffic",
+    "warehouse"
+  ],
+  "jobRoles": [
+    "Transport Manager",
+    "Transport Supervisor",
+    "Warehouse Manager",
+    "Warehouse Supervisor",
+    "Depot supervisor",
+    "Transport Coordinator",
+    "Traffic Planners",
+    "Hub Supervisor",
+    "Senior Warehouse Operative"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5317/st0647_transport-and-warehouse-operations-supervisor_l3_ap-for-publication_20210812.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.2 Warehousing and distribution",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the Transport and Warehousing sector. It is found across a range of different types of organisations and employers such as hauliers, storage and warehouse operators, couriers, retailers and utilities.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to manage the day to day operations involved in supply chain, ensuring activity, personnel and/or vehicles meet customer expectations along with regulatory and legal requirements. The standard allows you to specialise in one of two areas; the transport supervisor ensures the safe and compliant utilisation of all drivers and equipment whilst the warehouse supervisor ensures the provision of a professional incoming goods, storage and dispatch service to customers.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a range of stakeholders across a number of organisations and professions. Both Transport and Warehousing Supervisors would lead a team which would vary in size depending on the organisation and have regular engagement with external customers and third party agents. In larger organisations the roles would have regular communication with internal functions such as Accounts and HR. In smaller organisations both Transport and Warehousing Supervisors may carry out some of the everyday tasks accounting and human resource activities.&#160; A Transport Supervisor would also have contact with various regulators and enforcement organisations.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;At this level Transport and Warehouse Supervisors are integral to successful daily operations in a fast paced and varied environment.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for applying their knowledge and expertise to managing their own work with a high level of autonomy and leading a team to effectively and efficiently deliver departmental and organisational objectives. Transport and Warehouse supervisors have to keep up to date with recent transport regulations and legislation as well as having an awareness of best practice transport and warehousing operations to ensure compliant, secure and safe working within the organisations policy and procedures.&#160;&#160;&lt;/p&gt;\n&lt;p&gt;Transport and Warehouse Supervisors specialise in either transport operations or warehouse operations however there are many shared skills across both of these specialities. This Apprenticeship Occupational Standard takes a core and options approach.&#160; All apprentices will complete the core and must select the one most appropriate option to their role from the transport or warehouse supervisor route.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "94985e6a-8f21-4190-b2d0-ccb71834c6c6",
+      "detail": "Recruitment and selection process and practice including working with inhouse and external resourcing teams. "
+    },
+    {
+      "knowledgeId": "d2532102-cdf5-4d87-86cf-ea6c693b89be",
+      "detail": "How to review staff performance including appraisals, performance development reviews (PDR), work allocation, skill gaps and training for transport/ warehouse team members"
+    },
+    {
+      "knowledgeId": "d66dc5b2-2ce4-4814-8fdb-9d52b2fc634e",
+      "detail": "Factors that affect workplace efficiency and how these can be managed"
+    },
+    {
+      "knowledgeId": "531df6f3-173e-4de2-81c7-f769cc559a06",
+      "detail": "Organisational and individual KPIs and strategies for meeting these."
+    },
+    {
+      "knowledgeId": "b6dee806-791a-47f1-873c-430060fe774c",
+      "detail": "People management policies complaint with ACAS. For example disciplinary and grievance processes"
+    },
+    {
+      "knowledgeId": "6d8d2baa-fe16-409e-85c6-843f74145b28",
+      "detail": "Organisational procedures for delivering customer service, managing customer accounts, information and quotations"
+    },
+    {
+      "knowledgeId": "7f1a2497-d99c-423c-842a-377892e09759",
+      "detail": "Legislation governing operating licensing and understand the Operator Compliance Risk Score system works and how Driver and Vehicle Standards Agency (DVSA) applies it to operators."
+    },
+    {
+      "knowledgeId": "71c23d2a-73f0-4dc0-8bd8-b2988b21b84c",
+      "detail": "Rules and best practice guidance for sector specific operations e.g. International carriage of dangerous goods by road (ADR), Dangerous Goods Safety Advisor (DGSA), Livestock, Perishable items, Ministry of Defence (MOD)."
+    },
+    {
+      "knowledgeId": "9ad41194-e74b-4982-9d6c-070f3673a2de",
+      "detail": "The application of Health and Safety regulations in transport and warehousing operations."
+    },
+    {
+      "knowledgeId": "40b920d6-fcc8-4090-856b-be3800fdcff8",
+      "detail": "Road traffic incident procedures and offences both UK and International including documentation, information at the scene and duty to provide insurance details"
+    },
+    {
+      "knowledgeId": "413bebb3-8551-4309-97e5-0e533927f4c1",
+      "detail": "Environmental impact of transport and warehousing operations i.e. telematics, Clear Air Zones compliance, recycling"
+    },
+    {
+      "knowledgeId": "bc41e313-ee3c-4589-b7aa-56dc9c2666ea",
+      "detail": "IT systems and tools used to manage transport and warehouse operations"
+    },
+    {
+      "knowledgeId": "6755a002-d264-420d-9fd5-bb24b763203f",
+      "detail": "Load security as per DfT code of practice, ‘Safety of Loads on Vehicles’ "
+    },
+    {
+      "knowledgeId": "400fadfc-953c-45a6-8224-dbed852ac1d0",
+      "detail": "The role of the health and safety executive and the driver and vehicle licensing agency within your organisation including anti-smuggling and security controls"
+    },
+    {
+      "knowledgeId": "f13bb701-2547-4c6a-89ed-46dc9922bec2",
+      "detail": "Road traffic rules, speed limits, weight limits and height restrictions "
+    },
+    {
+      "knowledgeId": "4c2b087d-4c4b-49b9-a614-81021d0f257f",
+      "detail": "Anti-smuggling, immigration and security controls"
+    },
+    {
+      "knowledgeId": "6bf24b1a-7709-4aad-bef0-6ba0d6cc08ab",
+      "detail": "Transport compliance eg International legislation, transportation services and business entities"
+    },
+    {
+      "knowledgeId": "3e239eb2-da77-4209-aac0-4271efc31481",
+      "detail": "Driver testing and licensing in relation to categories of driving entitlement, vocational training requirements including Driver Certificate of Professional Competence "
+    },
+    {
+      "knowledgeId": "dd98d9c4-2919-486f-acda-145014115de0",
+      "detail": "EU and domestic driver’s hours and working time legislation, the EuropeanAgreement Concerning the Work of Crews of Vehicles Engaged in International Road Transport (AETR), digital and analogue tachographs and domestic record books"
+    },
+    {
+      "knowledgeId": "01e5951f-e47b-4057-b15d-791d3333a259",
+      "detail": "Insurance requirements for fleet operators including level of cover, causes of invalidation"
+    },
+    {
+      "knowledgeId": "fcd3c2b1-1ddd-4dfd-92ca-57b26f0e9e62",
+      "detail": "Vehicle maintenance requirements including scheduling and record keeping"
+    },
+    {
+      "knowledgeId": "59678b00-9fbe-4143-81da-749135e42d52",
+      "detail": "Principles of vehicle choice; taking into account safety, environmental"
+    },
+    {
+      "knowledgeId": "7483420e-2ce3-4e27-9a7f-94983b3e529b",
+      "detail": "The goods in process; receipt of goods to organisational standards, returned goods, disposal of goods and resale of goods"
+    },
+    {
+      "knowledgeId": "557f520b-b8f3-45ef-82a1-4d9d16951cd4",
+      "detail": "Stowing procedures to nominated warehouse locations"
+    },
+    {
+      "knowledgeId": "3ffa7731-4c17-433d-b93c-e76d0d26b79b",
+      "detail": "Procedures to dispose of and resell goods through secondary markets"
+    },
+    {
+      "knowledgeId": "b6bfddab-0498-48a0-bd0f-aecddbd2ff28",
+      "detail": "Picking schedules and dispatch times"
+    },
+    {
+      "knowledgeId": "a51d4765-391b-479c-ae05-6580a4ffe982",
+      "detail": "Warehouse dispatch processes"
+    },
+    {
+      "knowledgeId": "db018b82-b5df-4f50-8ebe-b404269c3253",
+      "detail": "Stock management processes and procedures"
+    },
+    {
+      "knowledgeId": "83b98180-06f5-461c-a7a5-f21a57343ad6",
+      "detail": " Correct loading procedures for goods and safe transport weight limits"
+    },
+    {
+      "knowledgeId": "34fe6ed6-3e5b-4990-b658-ea781d20b0f7",
+      "detail": "Legislation and ways to keep the premises within the current Health and Safety Executive guidelines"
+    },
+    {
+      "knowledgeId": "67409083-f2fa-41f7-8d87-98de6d6b5d8b",
+      "detail": "Service and maintenance requirements for Mechanical Handling Equipment (MHE) and  Lifting Operations and Lifting Equipment Regulations (LOLER) "
+    },
+    {
+      "knowledgeId": "76baaeeb-d9fd-4289-ba6a-a8a4b9c58423",
+      "detail": "Procedures for direct orders or special orders that are not part of standard stock lines"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+      "detail": "Demonstrate the organisations values to promote and enhance brand reputation. "
+    },
+    {
+      "behaviourId": "76413b6b-ae7b-494b-bf39-c22197f6498f",
+      "detail": "demonstrate ownership and responsibility for their own safety and that of others "
+    },
+    {
+      "behaviourId": "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+      "detail": "Take ownership for your own performance and training committing to self-improvement. Keeping up to date with industry developments."
+    },
+    {
+      "behaviourId": "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+      "detail": "positive attitude and approach to their work even when priorities and working patterns change"
+    },
+    {
+      "behaviourId": "bee4726e-075a-494b-b301-0c045c59d206",
+      "detail": "use own initiative when needed to ensure that employer needs and expectations are met"
+    },
+    {
+      "behaviourId": "5455693b-563d-4f2d-9fca-bcb7999db6a1",
+      "detail": "treat team, customers and other stakeholders with respect"
+    },
+    {
+      "behaviourId": "b29ef482-405d-4cd1-88c4-e9499c74d236",
+      "detail": "approachable and open to change"
+    },
+    {
+      "behaviourId": "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed",
+      "detail": "professional approach -  constructively manage difficult situations with colleagues, always striving to achieve the best outcome for the organisation and wider team"
+    },
+    {
+      "behaviourId": "1427800d-b2b4-4027-a128-6cf944cb1797",
+      "detail": "Treat equipment and technology responsibly and with respect"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "67c02367-8fde-4daf-97b0-6a38760b099d",
+      "detail": "Allocate and monitor work and set objectives including continual professional development (CPD), for transport/ warehouse team members. "
+    },
+    {
+      "skillId": "3fa7e425-51cd-46ce-897a-309d81e9dd4f",
+      "detail": "Identify skill and knowledge gaps in own performance and team performance in relation to transport/ warehouse operations"
+    },
+    {
+      "skillId": "3c0b6161-4605-469e-a668-1cfa97d0bc00",
+      "detail": "Complete performance development reviews (PDR)/ staff appraisals for transport/ warehouse team members"
+    },
+    {
+      "skillId": "8811b0b4-7b46-4eea-9d0e-f18b9450abb3",
+      "detail": "Plan training to meet the requirements of the business and the team members including where required, Driver Certificate of Professional Competence and Material/Mechanical Handling Equipment requirements"
+    },
+    {
+      "skillId": "861affdd-3c5f-466b-89e4-487a49fd4f16",
+      "detail": "Achieve KPI’s and targets set for the transport/ warehouse team and individuals within the transport/ warehouse team"
+    },
+    {
+      "skillId": "910cae59-9270-404e-b8c8-227727f9e312",
+      "detail": "Carry out disciplinary and manage grievances as per organisational guidelines "
+    },
+    {
+      "skillId": "d9515b89-294c-4d3d-8f3c-0511f3984183",
+      "detail": "Lead team and departmental communications and meetings"
+    },
+    {
+      "skillId": "7ef36641-09e1-49b4-90ac-5019b4adc355",
+      "detail": "schedule journeys: planning route, timings, costs and resources. Calculating driver hours/ use of tacho graphs and selecting the appropriate vehicle and ancillary equipment for the load being moved"
+    },
+    {
+      "skillId": "aa97c4eb-8aee-4977-9059-8495bfed5bc9",
+      "detail": "Oversee and review fuel costs and deal with issues when they occur "
+    },
+    {
+      "skillId": "e4e1f47f-e351-48ef-8fa2-a0cd5da58a38",
+      "detail": "Ensure the vehicle is safe and legally loaded and vehicle is marked and labelled compliantly in line with regulations regarding the carriage of dangerous goods"
+    },
+    {
+      "skillId": "6c0e4fd9-dfae-4299-9773-33bb730e1a22",
+      "detail": "Ensure vehicle, driver and load documentation is available for the journey and meets legal requirements "
+    },
+    {
+      "skillId": "d512baa7-81d1-4cf5-8731-71a64ed1698a",
+      "detail": "Carry out risk assessments appropriate to work environment in accordance with the Health and Safety Executive"
+    },
+    {
+      "skillId": "3a33d92d-9aa0-4ccb-820b-afea2ee32b8e",
+      "detail": "Plan, organise and evaluate vehicle and warehouse maintenance schedules for compliance with the DVSA ‘Guide to Maintaining Roadworthiness’ or other Approved Codes of Practice (ACOP)"
+    },
+    {
+      "skillId": "d5934929-6144-46fa-a3c8-72613ed896a6",
+      "detail": "use IT equipment and systems for the role such as telematics or warehouse management systems"
+    },
+    {
+      "skillId": "b8afb111-a332-462d-b629-77207508a48f",
+      "detail": "plan and review warehouse compliance and efficiencies; labour, placement, schedules, resources to inform improvements, including inbound and outbound goods"
+    },
+    {
+      "skillId": "8991a012-1e7e-4a1d-b97c-d258becacb97",
+      "detail": "ensure the security of the transport, warehouse and goods in line with organisational policies"
+    },
+    {
+      "skillId": "0818bd6d-19ca-4a96-8607-7d3ee7b9991c",
+      "detail": "Review and measure the performance of warehouse operations to inform improvements to safe operating processes and systems; i.e. picking, stowing, dispatch"
+    },
+    {
+      "skillId": "cb150204-ee42-44c9-b67d-dfdc9f961ad5",
+      "detail": "lead and review the process for returned, damaged goods, customer bespoke and direct orders"
+    },
+    {
+      "skillId": "227fbac3-b627-46a5-adfa-494bef182430",
+      "detail": "Supervise loading to ensure correct procedures are used"
+    },
+    {
+      "skillId": "87fb6a90-f786-4b23-b471-1c184e34ef6a",
+      "detail": "communicate with internal and external customers using various communication methods "
+    },
+    {
+      "skillId": "7bf891bf-a607-4c2e-8abd-071af257ec46",
+      "detail": "identify and propose innovative business improvements"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0355",
   "tbMainContact": "jim516@btinternet.com g.austin@maritimetransport.com",
-  "involvedEmployers": "",
-  "regulated": false,
-  "regulatedBody": "",
-  "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "involvedEmployers": "Maritime Transport, Knights of old, Maxim Logistics, Langdons, Logistics Learning Alliance, TT Academy, Eddie Stobart, RACPD, RTITB, WTTL, Mantra Learning, Ministry of Defence, Gregory’s Distribution Ltd, John Lewis, SP Training",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Department for Transport",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Transport Manager",
+    "Transport Supervisor",
+    "Warehouse Manager",
+    "Warehouse Supervisor",
+    "Depot supervisor",
+    "Transport Coordinator",
+    "Traffic Planners",
+    "Hub Supervisor",
+    "Senior Warehouse Operative"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Logistics",
   "cluster": "Supply Chain Operative/Technician",
-  "createdDate": "2018-09-06T12:20:30 +00:00",
-  "lastUpdated": "2018-09-06T12:20:30 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/transport-and-warehousing-operations-supervisor#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/transport-and-warehousing-operations-supervisor",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "clusterId": "37",
+  "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
+  "createdDate": "2021-07-08T09:33:06 +00:00",
+  "lastUpdated": "2021-08-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0647",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0647-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0647-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "1a1f5b7f-75f8-4276-8e1a-ebf9e26b3366",
+      "title": "Transport Manager Certificate of Professional Competence",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "79e7a982-11fb-4b00-aba3-764e86e4f512",
+      "title": "Ministry of Defence: Junior Transport Operator L3",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "CILT Transport Manager Certificate of Professional Competence",
+      "level": "3",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "722fa2d1-1936-4019-9b8d-54fd53fbb5f1",
+      "dutyDetail": "Deliver good customer service to internal and external customers as per agreed contracts and organisation's process",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "5455693b-563d-4f2d-9fca-bcb7999db6a1",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "6d8d2baa-fe16-409e-85c6-843f74145b28"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d9515b89-294c-4d3d-8f3c-0511f3984183",
+        "87fb6a90-f786-4b23-b471-1c184e34ef6a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f0cb57a-0c54-4a42-9d1e-ae192111bf73",
+      "dutyDetail": "Monitor and record staff performance and behaviour including recruitment, allocation and right to work entitlement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "5455693b-563d-4f2d-9fca-bcb7999db6a1",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "94985e6a-8f21-4190-b2d0-ccb71834c6c6",
+        "d2532102-cdf5-4d87-86cf-ea6c693b89be",
+        "531df6f3-173e-4de2-81c7-f769cc559a06",
+        "b6dee806-791a-47f1-873c-430060fe774c",
+        "4c2b087d-4c4b-49b9-a614-81021d0f257f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "67c02367-8fde-4daf-97b0-6a38760b099d",
+        "3fa7e425-51cd-46ce-897a-309d81e9dd4f",
+        "3c0b6161-4605-469e-a668-1cfa97d0bc00",
+        "861affdd-3c5f-466b-89e4-487a49fd4f16",
+        "910cae59-9270-404e-b8c8-227727f9e312"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8a8b784a-fe5d-43cf-ab72-d3807153be1d",
+      "dutyDetail": "Ensure that the transport operation centre or warehouse is working efficiently, using IT systems and promote productivity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "d66dc5b2-2ce4-4814-8fdb-9d52b2fc634e",
+        "531df6f3-173e-4de2-81c7-f769cc559a06",
+        "bc41e313-ee3c-4589-b7aa-56dc9c2666ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "861affdd-3c5f-466b-89e4-487a49fd4f16",
+        "d5934929-6144-46fa-a3c8-72613ed896a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eda5fd9a-b69e-4d19-89fe-1ef9418fac8d",
+      "dutyDetail": "Brief and debrief team members on a daily basis to provide information, advice and guidance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "5455693b-563d-4f2d-9fca-bcb7999db6a1",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "531df6f3-173e-4de2-81c7-f769cc559a06"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "67c02367-8fde-4daf-97b0-6a38760b099d",
+        "d9515b89-294c-4d3d-8f3c-0511f3984183"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fc079f68-932a-415b-a145-f8a3d33ef610",
+      "dutyDetail": "Plan the training needs of transport/ warehouse operatives to ensure regulatory compliance and continued professional development are met in line with organisation’s requirement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "d2532102-cdf5-4d87-86cf-ea6c693b89be",
+        "71c23d2a-73f0-4dc0-8bd8-b2988b21b84c",
+        "9ad41194-e74b-4982-9d6c-070f3673a2de",
+        "3e239eb2-da77-4209-aac0-4271efc31481"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "67c02367-8fde-4daf-97b0-6a38760b099d",
+        "3fa7e425-51cd-46ce-897a-309d81e9dd4f",
+        "3c0b6161-4605-469e-a668-1cfa97d0bc00",
+        "8811b0b4-7b46-4eea-9d0e-f18b9450abb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "535797e8-320b-4ad9-8eef-bd03756cfa5a",
+      "dutyDetail": "Follow internal and external audit procedures for transport and warehouse operations that relate to environmental impact, health, safety, wellbeing and regulatory compliance",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "6d8d2baa-fe16-409e-85c6-843f74145b28",
+        "9ad41194-e74b-4982-9d6c-070f3673a2de",
+        "413bebb3-8551-4309-97e5-0e533927f4c1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d512baa7-81d1-4cf5-8731-71a64ed1698a",
+        "8991a012-1e7e-4a1d-b97c-d258becacb97"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "40479b59-88b7-4184-9c95-0cde57da749f",
+      "dutyDetail": "Monitor and report on the day to day operational performance of the supply chain",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "531df6f3-173e-4de2-81c7-f769cc559a06"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "861affdd-3c5f-466b-89e4-487a49fd4f16"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a3b19feb-03dc-4c66-9c4d-ca362b3c0e94",
+      "dutyDetail": "Organise and plan the use of resources eg staff, vehicles and warehousing equipment, schedule maintenance and repairs, ensuring spend is within budget",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "531df6f3-173e-4de2-81c7-f769cc559a06",
+        "fcd3c2b1-1ddd-4dfd-92ca-57b26f0e9e62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8811b0b4-7b46-4eea-9d0e-f18b9450abb3",
+        "861affdd-3c5f-466b-89e4-487a49fd4f16"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2ab35069-b499-4aec-968e-39a61a5850eb",
+      "dutyDetail": "Ensure correct personal protective equipment is issued and maintained for the team and provided to visitors to transport or warehouse operational areas",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed",
+        "1427800d-b2b4-4027-a128-6cf944cb1797"
+      ],
+      "mappedKnowledge": [
+        "6d8d2baa-fe16-409e-85c6-843f74145b28",
+        "9ad41194-e74b-4982-9d6c-070f3673a2de"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d512baa7-81d1-4cf5-8731-71a64ed1698a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06a1b62b-54a1-4abe-a207-63216831c0ae",
+      "dutyDetail": "Identify opportunities to improve organisations processes and practices",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "d66dc5b2-2ce4-4814-8fdb-9d52b2fc634e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "67c02367-8fde-4daf-97b0-6a38760b099d",
+        "b8afb111-a332-462d-b629-77207508a48f",
+        "7bf891bf-a607-4c2e-8abd-071af257ec46"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5dea5cbf-f6d4-461b-9867-cb204a7f16bd",
+      "dutyDetail": "Ensure regulatory compliance of drivers in line with EU and domestic drivers hours rules, working time directive, driver licensing and driver certificate of professional competence training as applicable to the organisation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff"
+      ],
+      "mappedKnowledge": [
+        "6bf24b1a-7709-4aad-bef0-6ba0d6cc08ab",
+        "3e239eb2-da77-4209-aac0-4271efc31481",
+        "dd98d9c4-2919-486f-acda-145014115de0"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "8811b0b4-7b46-4eea-9d0e-f18b9450abb3",
+        "7ef36641-09e1-49b4-90ac-5019b4adc355",
+        "d5934929-6144-46fa-a3c8-72613ed896a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1745abec-937e-4c86-a7f6-c5492ecefadc",
+      "dutyDetail": "Supervise regulatory compliance of vehicles in accordance with the DVSA ‘Guide to Maintaining Roadworthiness’.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed"
+      ],
+      "mappedKnowledge": [
+        "7f1a2497-d99c-423c-842a-377892e09759",
+        "fcd3c2b1-1ddd-4dfd-92ca-57b26f0e9e62"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "3a33d92d-9aa0-4ccb-820b-afea2ee32b8e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "21f1164e-1b55-45ef-9546-ce6b8ccca533",
+      "dutyDetail": "Prepare the carriage of goods within legislation, for example carriage of livestock, perishable goods and hazardous or non-hazardous waste.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3"
+      ],
+      "mappedKnowledge": [
+        "71c23d2a-73f0-4dc0-8bd8-b2988b21b84c"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "7ef36641-09e1-49b4-90ac-5019b4adc355",
+        "e4e1f47f-e351-48ef-8fa2-a0cd5da58a38",
+        "6c0e4fd9-dfae-4299-9773-33bb730e1a22"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26e636ee-0013-4901-8ad0-7c48fa1041d4",
+      "dutyDetail": "Supervise and report on asset protection and the security and safety of vehicles and loads.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236",
+        "8ccda1e2-48c2-4786-b5f2-28e7d11bbaed",
+        "1427800d-b2b4-4027-a128-6cf944cb1797"
+      ],
+      "mappedKnowledge": [
+        "6755a002-d264-420d-9fd5-bb24b763203f",
+        "400fadfc-953c-45a6-8224-dbed852ac1d0",
+        "4c2b087d-4c4b-49b9-a614-81021d0f257f",
+        "fcd3c2b1-1ddd-4dfd-92ca-57b26f0e9e62",
+        "83b98180-06f5-461c-a7a5-f21a57343ad6"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "e4e1f47f-e351-48ef-8fa2-a0cd5da58a38",
+        "8991a012-1e7e-4a1d-b97c-d258becacb97",
+        "227fbac3-b627-46a5-adfa-494bef182430"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1644d84a-559f-4917-a804-e0dbe5f3f10d",
+      "dutyDetail": "Monitor and comply with goods vehicle operators licence requirements ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3"
+      ],
+      "mappedKnowledge": [
+        "7f1a2497-d99c-423c-842a-377892e09759"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "3a33d92d-9aa0-4ccb-820b-afea2ee32b8e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "be8b8015-7cc2-4c31-871e-dac4dd34671c",
+      "dutyDetail": "Plan routes to ensure compliance with low and ultra-low emission zones, direct vision standards and lorry control schemes",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "413bebb3-8551-4309-97e5-0e533927f4c1",
+        "f13bb701-2547-4c6a-89ed-46dc9922bec2",
+        "59678b00-9fbe-4143-81da-749135e42d52"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "7ef36641-09e1-49b4-90ac-5019b4adc355"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "98b85abf-1a7d-4096-8db2-70b67f01bf8a",
+      "dutyDetail": "Ensure correct insurances are in place, relevant to fleet transport operations.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "01e5951f-e47b-4057-b15d-791d3333a259"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "6c0e4fd9-dfae-4299-9773-33bb730e1a22"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "891eafd7-a887-4f8a-886f-b6bc14a67525",
+      "dutyDetail": "Monitor vehicle running and depreciation costs",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "bee4726e-075a-494b-b301-0c045c59d206",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "d66dc5b2-2ce4-4814-8fdb-9d52b2fc634e"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "aa97c4eb-8aee-4977-9059-8495bfed5bc9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "400888e1-5758-45eb-bd21-8f3ac80aac99",
+      "dutyDetail": "Schedule the transportation of goods in line with driver’s hours regulations, journey times and available resources ie drivers",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3"
+      ],
+      "mappedKnowledge": [
+        "f13bb701-2547-4c6a-89ed-46dc9922bec2",
+        "dd98d9c4-2919-486f-acda-145014115de0",
+        "59678b00-9fbe-4143-81da-749135e42d52"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "7ef36641-09e1-49b4-90ac-5019b4adc355"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "51bc4415-d288-4b61-8b4e-9f569510f5d0",
+      "dutyDetail": "Report road traffic incidents, police and dvsa roadside checks and prohibitions within the organisation and to the necessary authorities.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff"
+      ],
+      "mappedKnowledge": [
+        "7f1a2497-d99c-423c-842a-377892e09759",
+        "40b920d6-fcc8-4090-856b-be3800fdcff8"
+      ],
+      "mappedOptions": [
+        "634e7e33-6cd9-4f96-90a4-e19b29af06aa"
+      ],
+      "mappedSkills": [
+        "e4e1f47f-e351-48ef-8fa2-a0cd5da58a38"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9b67cb28-adaf-4579-9b30-15be65cf07bb",
+      "dutyDetail": "Supervise receipt of goods, ensuring the correct goods are received, handled safely, ensuring any risks are identified ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3",
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff"
+      ],
+      "mappedKnowledge": [
+        "7483420e-2ce3-4e27-9a7f-94983b3e529b"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "3a33d92d-9aa0-4ccb-820b-afea2ee32b8e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62a1dd18-bd55-4764-9e9e-a661781943d5",
+      "dutyDetail": "Supervise stowing of goods into storage in order to optimise space, improve distribution and preserve condition in line with health and safety and reduce risks.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f"
+      ],
+      "mappedKnowledge": [
+        "557f520b-b8f3-45ef-82a1-4d9d16951cd4",
+        "a51d4765-391b-479c-ae05-6580a4ffe982"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "0818bd6d-19ca-4a96-8607-7d3ee7b9991c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "104617a0-872e-4116-95a7-58a8860ea304",
+      "dutyDetail": "Supervise reverse logistics operations in line with environmental and company policy.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "547d00f0-930e-40a2-82a5-46bb7c3b16ff",
+        "b29ef482-405d-4cd1-88c4-e9499c74d236"
+      ],
+      "mappedKnowledge": [
+        "413bebb3-8551-4309-97e5-0e533927f4c1",
+        "3ffa7731-4c17-433d-b93c-e76d0d26b79b"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "cb150204-ee42-44c9-b67d-dfdc9f961ad5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e30fa879-78ba-427a-b3b5-9f0c3552e680",
+      "dutyDetail": "Supervise the replenishment, picking, packing and decanting of goods.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7"
+      ],
+      "mappedKnowledge": [
+        "3ffa7731-4c17-433d-b93c-e76d0d26b79b",
+        "b6bfddab-0498-48a0-bd0f-aecddbd2ff28"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "b8afb111-a332-462d-b629-77207508a48f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e92dd259-02ab-4858-b692-10f12f9726cb",
+      "dutyDetail": "Oversee the dispatching of goods; identifying any problems with goods or special instructions affecting delivery, confirming the correct method and materials for wrapping or packing in line with environmental legislation and organisational policies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7"
+      ],
+      "mappedKnowledge": [
+        "a51d4765-391b-479c-ae05-6580a4ffe982"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "b8afb111-a332-462d-b629-77207508a48f",
+        "0818bd6d-19ca-4a96-8607-7d3ee7b9991c",
+        "227fbac3-b627-46a5-adfa-494bef182430"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "af71d3f7-c7cd-4546-beaf-a1ccb5f01beb",
+      "dutyDetail": "Carry out stock control and stock checks to ensure that appropriate stock levels are maintained.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "db018b82-b5df-4f50-8ebe-b404269c3253"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "d5934929-6144-46fa-a3c8-72613ed896a6",
+        "b8afb111-a332-462d-b629-77207508a48f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7f3d15ec-b800-4999-9ac7-bf7abc048e24",
+      "dutyDetail": "Ensure the workplace is clean and tidy, meet the required hygiene and fire safety standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3"
+      ],
+      "mappedKnowledge": [
+        "9ad41194-e74b-4982-9d6c-070f3673a2de",
+        "400fadfc-953c-45a6-8224-dbed852ac1d0",
+        "34fe6ed6-3e5b-4990-b658-ea781d20b0f7"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "d512baa7-81d1-4cf5-8731-71a64ed1698a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "400967c4-2e99-4f64-aecc-3fe656dc1fc4",
+      "dutyDetail": "Monitor and record checks of racking and mechanical handling equipment, in line with manufacturers recommendations and organisations procedures.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "a32ad2a5-6ee6-4d78-b48f-69bb7fcb47f3"
+      ],
+      "mappedKnowledge": [
+        "67409083-f2fa-41f7-8d87-98de6d6b5d8b"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "d512baa7-81d1-4cf5-8731-71a64ed1698a",
+        "3a33d92d-9aa0-4ccb-820b-afea2ee32b8e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6705819a-25f3-4a58-aaad-ea206db3b74d",
+      "dutyDetail": "Supervise the process of bespoke/ direct orders and deal with any problems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "76baaeeb-d9fd-4289-ba6a-a8a4b9c58423"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7c3cee05-096d-4b05-8dbc-d900c236c79f",
+      "dutyDetail": "Ensure the security of the warehouse and goods are maintained, and risks are identified, reported and that records are kept up to date",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "93b6d9fa-1ea5-4a74-87e8-47c78300a8a7",
+        "76413b6b-ae7b-494b-bf39-c22197f6498f",
+        "1427800d-b2b4-4027-a128-6cf944cb1797"
+      ],
+      "mappedKnowledge": [
+        "9ad41194-e74b-4982-9d6c-070f3673a2de",
+        "83b98180-06f5-461c-a7a5-f21a57343ad6"
+      ],
+      "mappedOptions": [
+        "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48"
+      ],
+      "mappedSkills": [
+        "8991a012-1e7e-4a1d-b97c-d258becacb97",
+        "227fbac3-b627-46a5-adfa-494bef182430"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "634e7e33-6cd9-4f96-90a4-e19b29af06aa",
+      "title": "Transport Operations Supervisor",
+      "occupationCode": "OCC0647A"
+    },
+    {
+      "optionId": "7df34aa3-5d1f-48b1-8f01-bc0e0be4ac48",
+      "title": "Warehouse Operations Supervisor",
+      "occupationCode": "OCC0647B"
+    }
+  ],
+  "regulationDetail": [
+    {
+      "name": "Training Provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-11-17T00:00:00"
 }
