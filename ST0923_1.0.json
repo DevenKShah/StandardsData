@@ -1,60 +1,674 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 647,
   "referenceNumber": "ST0923",
-  "title": "Professional forester",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Professional forester (degree)",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0923",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-08-18T00:00:00",
+  "earliestStartDate": "2021-08-03T00:00:00",
+  "latestStartDate": "2022-08-23T00:00:00",
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide expert advice on the woodlands and forests.",
   "level": 6,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "woodlands",
+    "forestry",
+    "land",
+    "agricultural",
+    "trees",
+    "environment"
+  ],
+  "jobRoles": [
+    "forester",
+    "forestry consultant",
+    "forest and woodland advisor",
+    "woodland officer",
+    "beat forester",
+    "planning forester",
+    "head forester",
+    "forest officer",
+    "forest manager",
+    "district forester"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5123/st0923_professional-forester_l6_-ap-for-publication_01062021.pdf",
+  "ssa1": "3 Agriculture, Horticulture and Animal Care",
+  "ssa2": "3.2 Horticulture and forestry",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in governmental, non-governmental, private, public, charitable and local authority organisations in England, Scotland, Wales and Northern Ireland that have an interest in forestry and woodland creation and management. Landowning organisations, e.g. Local Authorities or private estates, may employ their own Professional Foresters, whereas private landowners, e.g. farmers, may bring one in as a consultant.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide expert technical advice on the planning, creation, management, harvesting and utilisation of woodlands and forests (known as silviculture). Professional Foresters form the link between landowners, contractors and timber-buyers, providing technical expertise to inform and manage delivery of sustainable multi-purpose forest management outcomes in relation to the UK Government’s Forestry Act. Expertise in forest and woodland carbon accounting and land use change are becoming increasingly important for Professional Foresters who will be responsible for writing Woodland Management Plans (WMPs), Forest Design Plans (FDPs) and Woodland Creation Design Plans (WCDPs), using expert knowledge of legislation, regulation and silvicultural good practice, and will be responsible for overseeing the implementation of those plans.&lt;/p&gt;\n&lt;p&gt;Professional Foresters will be integral to the achievement of Government targets for delivery of public goods under the 25-Year Plan for the Environment, and Net Zero 2050 targets for carbon reduction. In their daily work, an employee in this occupation interacts with landowners and agents, statutory bodies, local authorities, local &amp;amp; national interest groups, ecologists, engineers and other professional experts, timber buyers, contractors, suppliers, colleagues, volunteers and the public. In many cases Professional Foresters will be required to understand how forestry fits into the wider land-management planning of a given client or organisation and will liaise with other stakeholders to manage conflicting pressures and achieve complementary outcomes. The uniquely long-term nature of forest planning cycles means that many Professional Foresters will have long-term professional relationships with their clients, sometimes spanning decades. In some cases, especially hardwood silviculture, management decisions made by a Professional Forester now may not even come to fruition in their or their clients’ lifetime.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomous decision making relating to land use change pertaining to woodland operations&lt;/li&gt;\n&lt;li&gt;Appropriate decision making within organisational structures (e.g. Woodland Officer reporting to Field Manager)&lt;/li&gt;\n&lt;li&gt;Budget management, including applying for and/or administering grant funding&lt;/li&gt;\n&lt;li&gt;Awarding and managing contracts to contractors&lt;/li&gt;\n&lt;li&gt;Procurement and sales&lt;/li&gt;\n&lt;li&gt;Gathering, analysing, interpreting, implementing and communicating information&lt;/li&gt;\n&lt;li&gt;Regulatory compliance.&lt;/li&gt;\n&lt;/ul&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "69317c20-8445-4558-9d91-10092cbe9611",
+      "detail": "Terminology used in forestry and silviculture."
+    },
+    {
+      "knowledgeId": "c3a3133a-401e-43f1-9793-ab58279033e3",
+      "detail": "Survey and assessment techniques for information gathering e.g. techniques for constraints and opportunity mapping, use of LIDAR, remote sensing, satellite imagery."
+    },
+    {
+      "knowledgeId": "19d036b3-d027-477e-aa76-d977ece8fc57",
+      "detail": "Legislation, industry guidelines and best practice in Health and Safety for Forestry including Health and Safety at Work Act (1974), FISA guidance e.g. Managing Health and Safety in Forestry."
+    },
+    {
+      "knowledgeId": "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
+      "detail": "Forestry legislation and governance including principles of the Forestry Act (1967) and relevant amendments, UK Forestry Standard and UK Woodland Assurance standard."
+    },
+    {
+      "knowledgeId": "a896d7aa-4ead-4726-aac3-580eaba00551",
+      "detail": "Sources and use of Woodland Management Plan templates and tools."
+    },
+    {
+      "knowledgeId": "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+      "detail": "The factors affecting tree growth and woodland condition including species selection."
+    },
+    {
+      "knowledgeId": "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+      "detail": "Interpretation of silvicultural data to include analysis and predictive models for example, natural capital assessment, climate change impacts."
+    },
+    {
+      "knowledgeId": "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+      "detail": "Silvicultural techniques for woodland management, for example selective thinning, clearfell."
+    },
+    {
+      "knowledgeId": "158b8c07-211b-40d3-bd1b-d80a40b111e5",
+      "detail": "Manual, digital and remote silvicultural mensuration and survey techniques, for example Blue Book, digital reloscope, satellite imagery."
+    },
+    {
+      "knowledgeId": "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+      "detail": "The forest industry business and market requirements and sector intelligence including timber and land markets & values, grant and incentive regimes, investment forestry, production forecasts."
+    },
+    {
+      "knowledgeId": "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
+      "detail": "Woodland creation and forest design principles, including regulatory requirements, effects of land use change, forest resilience, species selection, ecology and use of appropriate decision support tools."
+    },
+    {
+      "knowledgeId": "208a403c-6910-435d-afd4-81d3164af5f3",
+      "detail": "Strategies and techniques for stakeholder engagement for example consultations, public relations, use of media."
+    },
+    {
+      "knowledgeId": "edf907fc-6fed-424b-9c5d-a2a1ffea60f0",
+      "detail": "Silvicultural systems in relation to carbon modelling and accounting, sequestration and climate change mitigation."
+    },
+    {
+      "knowledgeId": "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
+      "detail": "Carbon markets, the Woodland Guarantee, the Woodland Carbon Code and incentives such as the Woodland Carbon Planning Grant."
+    },
+    {
+      "knowledgeId": "22d140f2-c1d3-41f0-b95b-5c416592f51e",
+      "detail": "Techniques for management of own performance.  "
+    },
+    {
+      "knowledgeId": "301396d5-c8e6-4e5b-909c-ded76a411405",
+      "detail": "Principles of relationship management e.g. volunteers, contractors or staff."
+    },
+    {
+      "knowledgeId": "99ef73e9-27c2-4d6e-9c3f-2d97c43beee2",
+      "detail": "Legislation and regulation relating to wider land use for example Public Rights of Way, Countryside Rights of Way, Town and Country Planning Act, use of UAV’s, Countryside and Wildlife Act, European Protected Species, Statutory Plant Health Notices."
+    },
+    {
+      "knowledgeId": "c60ee216-6fc1-464f-9453-9d970fb788f6",
+      "detail": "Financial management including grant applications, budgeting, contract management, timber tenders and sales.  "
+    },
+    {
+      "knowledgeId": "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+      "detail": "Planning, resourcing and procurement of forest works, including seasonal and operational implications for working and impact on the environment, in line with UKFS requirements and guidance."
+    },
+    {
+      "knowledgeId": "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+      "detail": "Responsibilities in relation to risk to people including dynamic site / operation risk assessment, lone working, safety software (for example what3words), promoting safety culture, public safety."
+    },
+    {
+      "knowledgeId": "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+      "detail": "Factors affecting the planning, management and mitigation of risk on a forest works site (Forest Works Supervisor role), for example biosecurity, pollution control, environmental factors."
+    },
+    {
+      "knowledgeId": "e51027be-4a3c-4004-b096-b012e19b5d91",
+      "detail": "Operational management of establishment, maintenance, harvesting and restock sites, including roles and responsibilities of landowner, works supervisor, contractors and sub-contractors (in line with FISA guidance and industry best practice). "
+    },
+    {
+      "knowledgeId": "4a86aec0-a163-4d57-8f9d-13b1936eeac0",
+      "detail": "Safe and effective methods for timber handling, storage, haulage and roading."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+      "detail": "Act with integrity, for example being open and transparent in dealing with clients and respecting their confidentiality. Take full responsibility for your actions.  "
+    },
+    {
+      "behaviourId": "ad92e878-bab6-4134-bdad-3bd7844d3952",
+      "detail": "Communicates effectively and respectfully towards clients and colleagues and takes into account cultural sensitivities and business practices"
+    },
+    {
+      "behaviourId": "71afc35b-d4fb-4281-862b-97368eec1456",
+      "detail": "Act professionally, providing a high standard of service based on sound business evidence."
+    },
+    {
+      "behaviourId": "36ebd56e-a179-4586-ab2a-cbaecae29d2c",
+      "detail": "Adopt and promote a safety culture within the organisation and acts with regard to health, safety and wellbeing for self and others.   "
+    },
+    {
+      "behaviourId": "e1d18656-acaa-48b3-b482-6fb573453711",
+      "detail": "Embed sustainable working practices."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "96dbb129-d031-49d9-897c-dc6984ee5a19",
+      "detail": "Navigate to work sites using tools (e.g. maps, compasses, location apps, GPS)"
+    },
+    {
+      "skillId": "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
+      "detail": "Create maps to represent forestry / woodland sites using both paper and digital formats."
+    },
+    {
+      "skillId": "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+      "detail": "Identify, classify and prioritise different sources of silvicultural information and data"
+    },
+    {
+      "skillId": "794db889-b815-40cf-b1cf-e50f2401980e",
+      "detail": "Use digital technology to conduct desk-based surveys."
+    },
+    {
+      "skillId": "8d419e9f-37e9-4209-8f6b-11cdf2793201",
+      "detail": "Apply accurate mensuration and survey techniques."
+    },
+    {
+      "skillId": "257482fb-c32e-4c5f-b543-76965256a27b",
+      "detail": "Create Woodland Management / Creation Design Plan"
+    },
+    {
+      "skillId": "7cab5699-1c4e-45a0-90f4-32a0bd84cdc9",
+      "detail": "Produce and manage silvicultural operational assessments / schemes of work / operational and harvesting plans."
+    },
+    {
+      "skillId": "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
+      "detail": "Develop complex silviculture modelling scenarios including carbon balance, land use, landowner objectives, timber and/or other income."
+    },
+    {
+      "skillId": "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+      "detail": "Communicate with others using different methods, for example digital, written, verbal, presentational (maps & sketches)."
+    },
+    {
+      "skillId": "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
+      "detail": "Establish and manage internal and external relationships, for example contractors, media, stakeholders."
+    },
+    {
+      "skillId": "6cac992c-bf5f-4bb9-8a40-517fd7bba671",
+      "detail": "Select and apply appropriate online silvicultural tool or application for task, for example MyForest, Felling Licence Online, Ecological Site Classification Tool, ForestGales"
+    },
+    {
+      "skillId": "bd6ae673-e52a-484d-81f0-7ba312cc5564",
+      "detail": "Select and apply appropriate silvicultural systems to achieve management objectives."
+    },
+    {
+      "skillId": "bec5084f-8e95-4de0-9cc0-fa07e2af7854",
+      "detail": "Manage risks to the environment including pollution, biosecurity, habitat degradation."
+    },
+    {
+      "skillId": "823456ef-8c74-4769-950f-c44f47a3c32d",
+      "detail": "Identify and manage risks to self, employees, public and others using dynamic site and operational risk assessment according to FISA Guidance."
+    },
+    {
+      "skillId": "d0faaa35-968b-4b01-8788-b138c1cb8782",
+      "detail": "Collate, analyse and interpret silvicultural data and make recommendations."
+    },
+    {
+      "skillId": "04b5b6b9-70f1-4215-8d4e-64ee47dfe1b9",
+      "detail": "Develop and maintain effective information networks."
+    },
+    {
+      "skillId": "14a65d6f-a587-4e7b-9f2f-165522ec9b77",
+      "detail": "Create and manage financial models and budgets."
+    },
+    {
+      "skillId": "df8ccab8-ca4e-4683-a659-ae4ea3442d4e",
+      "detail": "Prepare and manage financial and contractual documents (e.g. tenders, sales contracts, grant agreements).  "
+    },
+    {
+      "skillId": "d5ce9b45-fb61-4f3d-aba1-393e0005cd6a",
+      "detail": "Manage, maintain and record own performance, professional development and currency of silvicultural knowledge."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "",
+  "integration": null,
+  "integratedDegree": "non-integrated degree",
   "tbReference": "TB0223",
   "tbMainContact": "steve.fowkes@forestrycommission.gov.uk",
-  "involvedEmployers": "Ground Control, Barcham - The Tree Specialists, Bartlett Tree Experts, Beachwood Trees and Landscape Ltd, Camps Environmental Services Ltd, Cormac Solutions Ltd, Goetre Villa, Jenks Oxford Ltd, Lockhart Garratt, London Borough of Barnet, London Borough of Bexley, London Borough of Lambeth, Oxfordshire County Council, Quaife Woodlands, Royal Borough of Greenwich, Royal Botanic Gardens, Kew, Savills, Scottish and Southern Electricity Networks, Sedgemoor Tree Services, Sharon Hosegood Associates, The Tree Company, Tim Moya Associates, Tree Maintenance Ltd, Treetech Arboricultural Services Ltd, Wilson Tree Surveys, Woodland Trust, Brighton and Hove City Council, Chatsworth House Trust, CRC Ecology, English Heritage, Euroforest, Forest Services, Forestry England, London Borough of Waltham Forest, M&S; Woodland Services, Martin Glynn FICFOR, National Trust, Nurture Landscapes, Royal Horticultural Society, Say it with wood, Wildways, ICF, Skills & Education Group, Confor, Herefordshire & Ludlow College, Horticulture Trades Association, Reaseheath College, Royal Forestry Society, The Association of Professional Landscapers, Arboricultural Association, BALI",
+  "involvedEmployers": "Say it with wood\r\nHeart of England Forest\r\nCartwright Forestry\r\nNational Trust\r\nCumbria Woodlands\r\nForestry Commission\r\nNational Forest Company\r\nThe Environment Partnership\r\nConfor\r\nInstitute of Chartered Foresters\r\nForest Industry Safety Accord\r\nSkills & Education Group\r\nRoyal Forestry Society\r\nTir Coed\r\nForestry England\r\nLockhart Garratt\r\nDuchy of Cornwall\r\nTotal Trees\r\nPryor & Rickett\r\nSylva\r\nLGLuk\r\nPryor& Rickett Silviculture",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "forester",
+    "forestry consultant",
+    "forest and woodland advisor",
+    "woodland officer",
+    "beat forester",
+    "planning forester",
+    "head forester",
+    "forest officer",
+    "forest manager",
+    "district forester"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
   "cluster": "Arboriculture and Forestry Professional",
-  "createdDate": "2020-04-17T09:12:08 +00:00",
-  "lastUpdated": "2020-04-17T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/professional-forester#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/professional-forester",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "clusterId": "157",
+  "clusterDescription": "Overall management of a tree collection, tree teams (including volunteers), operations, planting and the wider use of woodlands by the community",
+  "createdDate": "2021-06-02T15:15:05 +00:00",
+  "lastUpdated": "2022-08-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0923",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0923-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0923-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "78f283c5-35d4-4f4a-80f8-97c4df4b1566",
+      "title": "BSc Forest Management Hons",
+      "level": "6 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute for Chartered Foresters",
+      "level": "Professional (MICfor)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "34134767-800c-4679-b395-23d63a4b5a17",
+      "dutyDetail": "Provide technical expertise in relation to all aspects of sustainable forest management from woodland creation to timber harvesting. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+        "ad92e878-bab6-4134-bdad-3bd7844d3952",
+        "71afc35b-d4fb-4281-862b-97368eec1456",
+        "36ebd56e-a179-4586-ab2a-cbaecae29d2c",
+        "e1d18656-acaa-48b3-b482-6fb573453711"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "257482fb-c32e-4c5f-b543-76965256a27b",
+        "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+        "14a65d6f-a587-4e7b-9f2f-165522ec9b77",
+        "d5ce9b45-fb61-4f3d-aba1-393e0005cd6a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3873ff2-8d1e-496b-a5c3-7d39e5594b11",
+      "dutyDetail": "Research survey and collect data on established woodlands and forests, and measure, map and record established forest management units (FMUs) using, for example, on-the-ground mapping, geospatial and UAV technology.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "19d036b3-d027-477e-aa76-d977ece8fc57",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96dbb129-d031-49d9-897c-dc6984ee5a19",
+        "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
+        "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+        "d0faaa35-968b-4b01-8788-b138c1cb8782"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c8f1a81-1061-44c4-8a5f-c2bb1f2211f0",
+      "dutyDetail": "Survey, collate and interpret silvicultural data on established woodlands and forests for safety, resilience, pests & diseases, tree health, and woodland condition.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "19d036b3-d027-477e-aa76-d977ece8fc57",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "158b8c07-211b-40d3-bd1b-d80a40b111e5",
+        "edf907fc-6fed-424b-9c5d-a2a1ffea60f0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96dbb129-d031-49d9-897c-dc6984ee5a19",
+        "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
+        "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+        "794db889-b815-40cf-b1cf-e50f2401980e",
+        "6cac992c-bf5f-4bb9-8a40-517fd7bba671",
+        "d0faaa35-968b-4b01-8788-b138c1cb8782"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "02d09bdf-f045-4983-b163-93967338b18c",
+      "dutyDetail": "Survey, evaluate and inventory woodland potential for timber production and communicate results to clients, colleagues and others to inform, for example, commercial timber sales contracts and production forecasts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "19d036b3-d027-477e-aa76-d977ece8fc57",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "158b8c07-211b-40d3-bd1b-d80a40b111e5",
+        "208a403c-6910-435d-afd4-81d3164af5f3",
+        "edf907fc-6fed-424b-9c5d-a2a1ffea60f0",
+        "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
+        "c60ee216-6fc1-464f-9453-9d970fb788f6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96dbb129-d031-49d9-897c-dc6984ee5a19",
+        "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
+        "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+        "794db889-b815-40cf-b1cf-e50f2401980e",
+        "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
+        "6cac992c-bf5f-4bb9-8a40-517fd7bba671",
+        "d0faaa35-968b-4b01-8788-b138c1cb8782"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a051b990-f5f2-40ea-b235-5cfdc0811edb",
+      "dutyDetail": "Collect, analyse and evaluate landscape and environmental information to write Woodland Creation Design Plans for new woodland planting and afforestation schemes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "19d036b3-d027-477e-aa76-d977ece8fc57",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
+        "36ab7a72-775e-4fa3-9a62-4d1c9b58e029"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96dbb129-d031-49d9-897c-dc6984ee5a19",
+        "ff21ef1a-951b-4c8a-bb30-73f0c2de4b9f",
+        "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+        "794db889-b815-40cf-b1cf-e50f2401980e",
+        "257482fb-c32e-4c5f-b543-76965256a27b",
+        "d0faaa35-968b-4b01-8788-b138c1cb8782"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de3aaf37-3fd6-4d7c-a0b5-685bbac319ae",
+      "dutyDetail": "Advise clients / landowners / others on the commercial potential for woodland carbon, for example the Woodland Carbon Guarantee.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+        "ad92e878-bab6-4134-bdad-3bd7844d3952",
+        "71afc35b-d4fb-4281-862b-97368eec1456",
+        "36ebd56e-a179-4586-ab2a-cbaecae29d2c",
+        "e1d18656-acaa-48b3-b482-6fb573453711"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "158b8c07-211b-40d3-bd1b-d80a40b111e5",
+        "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+        "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
+        "208a403c-6910-435d-afd4-81d3164af5f3",
+        "edf907fc-6fed-424b-9c5d-a2a1ffea60f0",
+        "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
+        "c60ee216-6fc1-464f-9453-9d970fb788f6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
+        "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+        "df8ccab8-ca4e-4683-a659-ae4ea3442d4e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7983dfe-84ed-48f1-bd6a-6bfe2343c2a9",
+      "dutyDetail": "Analyse and evaluate silvicultural and other information, for example archaeological or ecological to develop UKFS-compliant forest / Woodland Management Plans for established woodlands and forests.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "c3a3133a-401e-43f1-9793-ab58279033e3",
+        "a896d7aa-4ead-4726-aac3-580eaba00551",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+        "158b8c07-211b-40d3-bd1b-d80a40b111e5",
+        "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+        "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "257482fb-c32e-4c5f-b543-76965256a27b",
+        "b2390dfd-6d60-4647-9ace-7db1b4daeb26",
+        "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+        "bd6ae673-e52a-484d-81f0-7ba312cc5564"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c53151af-b579-4430-8b64-18374d7a9464",
+      "dutyDetail": "Interpret and implement forest / Woodland Management Plans for the management of established woodlands and forests for timber production.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
+        "a896d7aa-4ead-4726-aac3-580eaba00551",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+        "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+        "301396d5-c8e6-4e5b-909c-ded76a411405",
+        "99ef73e9-27c2-4d6e-9c3f-2d97c43beee2",
+        "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+        "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+        "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+        "e51027be-4a3c-4004-b096-b012e19b5d91",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96dbb129-d031-49d9-897c-dc6984ee5a19",
+        "85bb8e4f-a4d9-45b4-8fbc-8d8062f8b969",
+        "794db889-b815-40cf-b1cf-e50f2401980e",
+        "8d419e9f-37e9-4209-8f6b-11cdf2793201"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4952de4e-f0ff-4426-beeb-4739b967b083",
+      "dutyDetail": "Provide expert technical advice to others on the development, interpretation and implementation of forest / woodland design creation and management plans.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+        "ad92e878-bab6-4134-bdad-3bd7844d3952",
+        "71afc35b-d4fb-4281-862b-97368eec1456",
+        "36ebd56e-a179-4586-ab2a-cbaecae29d2c",
+        "e1d18656-acaa-48b3-b482-6fb573453711"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "a896d7aa-4ead-4726-aac3-580eaba00551",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+        "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+        "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
+        "208a403c-6910-435d-afd4-81d3164af5f3",
+        "edf907fc-6fed-424b-9c5d-a2a1ffea60f0",
+        "36ab7a72-775e-4fa3-9a62-4d1c9b58e029",
+        "301396d5-c8e6-4e5b-909c-ded76a411405",
+        "99ef73e9-27c2-4d6e-9c3f-2d97c43beee2",
+        "c60ee216-6fc1-464f-9453-9d970fb788f6",
+        "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+        "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+        "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+        "e51027be-4a3c-4004-b096-b012e19b5d91",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+        "78ae3a16-fafd-44a7-a004-7fa10d5f06ef"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f36812c7-8ad7-4d8e-9b5a-dfbdbeb1cf56",
+      "dutyDetail": "Interpret and implement forest / woodland establishment, maintenance and harvesting operations in accordance with forest / woodland design creation and management plans, and production forecasts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
+        "a896d7aa-4ead-4726-aac3-580eaba00551",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1479e43b-203c-4bac-8b75-2657bd4bafc8",
+        "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+        "a622227a-b8a6-4662-a75b-c6d6162d8bf2",
+        "301396d5-c8e6-4e5b-909c-ded76a411405",
+        "99ef73e9-27c2-4d6e-9c3f-2d97c43beee2",
+        "c60ee216-6fc1-464f-9453-9d970fb788f6",
+        "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+        "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+        "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+        "e51027be-4a3c-4004-b096-b012e19b5d91",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cab5699-1c4e-45a0-90f4-32a0bd84cdc9",
+        "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
+        "bec5084f-8e95-4de0-9cc0-fa07e2af7854",
+        "823456ef-8c74-4769-950f-c44f47a3c32d",
+        "14a65d6f-a587-4e7b-9f2f-165522ec9b77",
+        "df8ccab8-ca4e-4683-a659-ae4ea3442d4e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eea3a29c-8388-44cd-bf2d-e70e368d8436",
+      "dutyDetail": "Plan, manage and be responsible for onsite operations, including health, safety & welfare, legal and regulatory compliance, silvicultural & environmental good practice, compliance with the UKFS, access and haulage.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+        "ad92e878-bab6-4134-bdad-3bd7844d3952"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
+        "a896d7aa-4ead-4726-aac3-580eaba00551",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "1d4b311f-109c-4330-b033-ed5376a4a1a6",
+        "56e65e22-d4fc-4c24-8a04-eb5eb1e83b69",
+        "22d140f2-c1d3-41f0-b95b-5c416592f51e",
+        "301396d5-c8e6-4e5b-909c-ded76a411405",
+        "99ef73e9-27c2-4d6e-9c3f-2d97c43beee2",
+        "c60ee216-6fc1-464f-9453-9d970fb788f6",
+        "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+        "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+        "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+        "e51027be-4a3c-4004-b096-b012e19b5d91",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cab5699-1c4e-45a0-90f4-32a0bd84cdc9",
+        "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
+        "bec5084f-8e95-4de0-9cc0-fa07e2af7854",
+        "823456ef-8c74-4769-950f-c44f47a3c32d",
+        "14a65d6f-a587-4e7b-9f2f-165522ec9b77"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7500d658-6351-45b0-ab1f-3bf8876570cf",
+      "dutyDetail": "Develop, maintain and manage relationships with clients, timber buyers, colleagues, contractors and volunteers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e916b80f-7963-4cc5-8f1d-a8cc52418448",
+        "ad92e878-bab6-4134-bdad-3bd7844d3952",
+        "71afc35b-d4fb-4281-862b-97368eec1456",
+        "36ebd56e-a179-4586-ab2a-cbaecae29d2c",
+        "e1d18656-acaa-48b3-b482-6fb573453711"
+      ],
+      "mappedKnowledge": [
+        "69317c20-8445-4558-9d91-10092cbe9611",
+        "5f13fee5-ea3a-4351-978e-eeaeb2af4168",
+        "d5bef254-6cf5-45ad-991a-7f6a549a7e58",
+        "208a403c-6910-435d-afd4-81d3164af5f3",
+        "22d140f2-c1d3-41f0-b95b-5c416592f51e",
+        "9639434a-04e9-4c3a-bf03-7d9d161f61c3",
+        "f8964519-b0ad-48d9-a35b-ef2899c688b6",
+        "7e80a76f-b8b5-4681-bafc-ebd39a5e45b5",
+        "e51027be-4a3c-4004-b096-b012e19b5d91",
+        "4a86aec0-a163-4d57-8f9d-13b1936eeac0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6509bbbe-49c5-4b63-acd8-f8365d4780d9",
+        "78ae3a16-fafd-44a7-a004-7fa10d5f06ef",
+        "04b5b6b9-70f1-4215-8d4e-64ee47dfe1b9",
+        "df8ccab8-ca4e-4683-a659-ae4ea3442d4e",
+        "d5ce9b45-fb61-4f3d-aba1-393e0005cd6a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-08-23T00:00:00"
 }
