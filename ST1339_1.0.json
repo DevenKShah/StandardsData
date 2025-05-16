@@ -1,0 +1,929 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 787,
+  "referenceNumber": "ST1339",
+  "learningAimClassCode": "",
+  "title": "Bulk storage terminal technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1339",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery.",
+  "changedDate": "2024-10-17T00:00:00",
+  "earliestStartDate": "2024-10-17T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Bulk storage technicians operate the storage of bulk products.\n",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 30,
+  "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Bulk storage technician",
+    "logistics",
+    "transport",
+    "supply chain",
+    "infrastructure"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "&lt;p&gt;Employers will set their own entry requirements, which may include GCSEs. Some employers may require candidates to have a health screening to confirm they are medically fit to undergo breathing apparatus and confined spaces training to support emergency response.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1339-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Bulk storage terminal technicians work in bulk storage terminals.&lt;/p&gt;\n&lt;p&gt;Bulk storage terminals provide storage and logistics infrastructure services. They provide an essential link in the supply chain for a large variety of products including transport and heating fuels, gasses, chemicals, and food-grade products such as animal feeds and fats, oils, and molasses. Bulk storage terminals provide and support an essential interface between sea, road, rail, waterway, and pipeline logistics and are strategically located in ports and airports, logistic platforms, along rivers, canals, and pipelines.&amp;nbsp;Bulk storage ensures that products are supplied when they are needed and in the quantities required.&amp;nbsp;Many terminals are designated as critical national infrastructure by the UK Government - necessary for a country to function and upon which daily life depends.&lt;/p&gt;\n&lt;p&gt;As national and international efforts to tackle climate change by reducing carbon emissions become ever more important, the bulk storage sector will continue to grow in the coming years. From helping to unlock the potential of hydrogen, to the scale up of sustainable biofuels, the industry will have a key role to play in energy transition.&lt;/p&gt;\n&lt;p&gt;A terminal may provide third party storage or store their own products. They could store a single product or multiple products. They may provide supplementary services such as blending, packaging, canning, drum filling, water treatment and analysis, warehousing, and bonded alcohol storage.&lt;/p&gt;\n&lt;p&gt;Safety is a top concern for bulk storage companies. The Health and Safety Executive, Environmental Agencies, and other industry regulators inspect employers. The Control of Major Accident Hazards (COMAH) Regulations applies to some terminals.&lt;/p&gt;\n&lt;p&gt;Bulk storage terminal technicians operate the import and export of bulk products and conduct monitoring, treatment, and quality assurance during its storage. The transfer of products can be to or from ship, via pipelines, to or from road or rail tankers, or from tank to tank. Maintaining workplace health, safety, and environmental compliance is a vital part of the role. They will also conduct preventative maintenance, prepare equipment for shut-down, and reinstate it. They are often required to work outdoors. They need to wear specialist personal protective equipment (PPE) and may work at height or in confined spaces. They may be required to work shifts. &lt;br&gt;&lt;br&gt;On a daily basis, they work with other members of the operations team, suppliers, and customers. They also have contact with other departments within the company for example, maintenance engineers and laboratory staff. They may work alone and as part of a team. &lt;br&gt;&lt;br&gt;They are responsible for ensuring that the service meets regulatory and customer requirements. They must follow industry health, safety, environmental, and sustainability working practices. Quality, security, contract conditions and product requirements must also be met. They work with minimal supervision, taking responsibility for the quality and accuracy of the work they undertake.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4a932fd9-5dac-4be2-b35d-b50f6ad623c5",
+      "detail": "Bulk storage operations – role, critical national infrastructure designation, and importance. Types of employers: product owners, third party storage. Supply chain and types of customers and stakeholders. Business environment and location factors. Range of products and services."
+    },
+    {
+      "knowledgeId": "01dfc38f-5f2e-463c-9084-f188e042ba47",
+      "detail": "Bulk storage technician’s role. Limits of responsibility. Escalation procedures."
+    },
+    {
+      "knowledgeId": "58dd5933-e808-432b-972f-b6a7397f394b",
+      "detail": "Health and safety, regulations, standards and guidance - requirements and impact on role: Control of Major Accident Hazards (COMAH) Regulations, Control of Substances Hazardous to Health (COSHH) Regulations, Dangerous Substances and Explosive Atmospheres Regulations (DSEAR), Display Screen Equipment Regulations, Electrical safety and compliance, Fire safety, Human factors, Lifting Operations and Lifting Equipment Regulations (LOLER), Lone working, Manual handling regulations, Health and Safety at Work Act, Provision and Use of Work Equipment Regulations (PUWER), The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR), working at height, and working in confined spaces."
+    },
+    {
+      "knowledgeId": "fee629be-afa1-47ef-aed2-f73d10555710",
+      "detail": "Health and safety management systems. Process safety management. Process safety performance indicators. Learning from incidents and principles of incident investigation."
+    },
+    {
+      "knowledgeId": "e63a476d-ae6f-49af-9360-be19622e402f",
+      "detail": "Control of Work (CoW) requirements."
+    },
+    {
+      "knowledgeId": "cdf90952-9e2e-4ea2-b23a-20cba359c204",
+      "detail": "Principles of safety instrumented systems (SIS) and functional safety. Role of emergency shut down systems (ESD)."
+    },
+    {
+      "knowledgeId": "4b64e7f6-d6b9-41c8-914c-3fa2d86703f1",
+      "detail": "Bulk storage potential hazards and risks and mitigation methods."
+    },
+    {
+      "knowledgeId": "df00b81c-6b3c-4793-b504-5b289548a012",
+      "detail": "Different types of risk assessments."
+    },
+    {
+      "knowledgeId": "9dd16667-c2f7-4ad1-b6fb-99e4b41a9af2",
+      "detail": "Safe systems of work and their role in mitigating incidents. Safety critical tasks and safety critical equipment. "
+    },
+    {
+      "knowledgeId": "e602f56f-8c32-4a81-a488-c68fd4b9ee45",
+      "detail": "Personal protective equipment (PPE): selection, use and care. "
+    },
+    {
+      "knowledgeId": "272ad83c-59e4-4d12-8ca1-4dc5013d2b9a",
+      "detail": "Emergency procedures."
+    },
+    {
+      "knowledgeId": "14280991-fffa-4a30-b2d2-38296571fd18",
+      "detail": "Personal wellbeing, physical, and mental health awareness. "
+    },
+    {
+      "knowledgeId": "d12b7159-d12b-421b-b3ac-eb260271a29e",
+      "detail": "Security requirements."
+    },
+    {
+      "knowledgeId": "5c0b6351-06d8-4a68-8845-8421f794621b",
+      "detail": "Environmental regulations and standards – impact on role: Environment Permitting Regulations, Environmental Management Systems standard, Environmental Protection Act, and Hazardous Waste Regulations."
+    },
+    {
+      "knowledgeId": "bc654c57-2868-40ce-90d7-3c80522254a8",
+      "detail": "The UK's net zero commitment. Principles of sustainability: resource (energy, water, and waste) efficiency, reuse of materials, and recycling. "
+    },
+    {
+      "knowledgeId": "1d8ec67a-a9ea-44d2-8e1e-91722e4b63f6",
+      "detail": "Waste management procedures."
+    },
+    {
+      "knowledgeId": "a268fb71-3a17-4375-8b7c-3d820cf44827",
+      "detail": "Business operation considerations: quality, cost, and delivery. "
+    },
+    {
+      "knowledgeId": "38154f3d-4230-4180-b27b-efd0c6c54948",
+      "detail": "Planning, prioritising, and time management techniques. "
+    },
+    {
+      "knowledgeId": "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+      "detail": "Numerical approximations and unit conversion tables. Volumes, pressure, ullage, density, and flow rates calculations."
+    },
+    {
+      "knowledgeId": "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+      "detail": "Conventions for drawings and graphical information."
+    },
+    {
+      "knowledgeId": "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+      "detail": "Sources of work information."
+    },
+    {
+      "knowledgeId": "b08f1b70-ef33-4cda-9d32-f600b8132244",
+      "detail": "Standard operating procedures - what they are and how to use them; change control requirement. "
+    },
+    {
+      "knowledgeId": "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+      "detail": "Chemical and physical properties of substances. Purpose of safety data sheets."
+    },
+    {
+      "knowledgeId": "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+      "detail": "Principles of material compatibility in bulk storage operations."
+    },
+    {
+      "knowledgeId": "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+      "detail": "Bulk storage plant and equipment: application and operation."
+    },
+    {
+      "knowledgeId": "20004d49-9f53-469b-9879-b90d5ab26041",
+      "detail": "Methods of bulk transfer: to and from ship, via internal and external pipeline, to and from road tanker, to and from rail tanker, tank to tank, and via airport. Principles of bulk transfer operations: route, ullage, product, and transfer rates. Principles of jetty operations."
+    },
+    {
+      "knowledgeId": "e95c1905-c38b-40db-89d0-6fd58b19d259",
+      "detail": "Stock management principles, practice, and documentation: product movement sheets, labelling, and Bill of Lading (BoL)."
+    },
+    {
+      "knowledgeId": "15b9c498-4753-4b26-bce5-bebe308d58bf",
+      "detail": "Principles for maintaining product parameters and safe storage. "
+    },
+    {
+      "knowledgeId": "2c28cebd-b380-4dfd-8777-275c0d65a3e5",
+      "detail": "Principles that underpin the treatment and blending of bulk products."
+    },
+    {
+      "knowledgeId": "24ec6e4c-03f5-4bad-badf-31eb87f8dfe8",
+      "detail": "Contamination control requirements."
+    },
+    {
+      "knowledgeId": "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+      "detail": "Cleaning equipment methods. "
+    },
+    {
+      "knowledgeId": "35a97eaa-e6ad-4a11-b107-926699208a86",
+      "detail": "Clearing equipment methods. "
+    },
+    {
+      "knowledgeId": "c414d88d-e477-4e38-88a9-1a2962e54da9",
+      "detail": "Quality assurance management systems. "
+    },
+    {
+      "knowledgeId": "fe8f1305-e8b5-4952-b419-e78270d41bef",
+      "detail": "Quality control sampling and testing requirements. Sampling and dipping techniques. "
+    },
+    {
+      "knowledgeId": "5230fc04-fa19-424e-9d44-a22b9c502b89",
+      "detail": "Documentation requirements: documentation control and auditable records."
+    },
+    {
+      "knowledgeId": "9b89c96c-e28a-40d9-a71b-7ffef7a7801a",
+      "detail": "Planned preventative maintenance strategy, schedules, and practice."
+    },
+    {
+      "knowledgeId": "10ccefd8-a27d-4838-98f6-d9177e4d4f87",
+      "detail": "Requirements for shutting down bulk storage plant and equipment."
+    },
+    {
+      "knowledgeId": "eaa948d9-339c-4cf8-a3d7-d94292c9dc51",
+      "detail": "Requirements for reinstating bulk storage plant and equipment. "
+    },
+    {
+      "knowledgeId": "ab076705-61d0-4d5a-8168-75d14f9582f7",
+      "detail": "Common tank storage and process faults and causes."
+    },
+    {
+      "knowledgeId": "95c85cc0-e621-434e-a570-3ca8da85eaa2",
+      "detail": "Problem solving and fault-finding techniques."
+    },
+    {
+      "knowledgeId": "3b073d29-6156-42a3-a4a6-e40471c46169",
+      "detail": "Continuous improvement techniques. "
+    },
+    {
+      "knowledgeId": "b769bdd8-3b58-47f8-b79f-6b36c681a044",
+      "detail": "Teamwork principles."
+    },
+    {
+      "knowledgeId": "e0e3bb98-b357-4aca-b029-fc177d02112f",
+      "detail": "Principles of equity, diversity and inclusion in the workplace."
+    },
+    {
+      "knowledgeId": "85accc99-5b25-4d1c-84bb-6e72da723759",
+      "detail": "Non-written communication techniques. "
+    },
+    {
+      "knowledgeId": "81895901-0f15-4e63-9323-5c291852d234",
+      "detail": "Written communication techniques."
+    },
+    {
+      "knowledgeId": "82d94ce1-0ca4-4bcc-b366-0655547cde73",
+      "detail": "Information technology software packages. Management information systems. General data protection regulation (GDPR). Cyber security. "
+    },
+    {
+      "knowledgeId": "b454efb6-d365-4d04-b032-46848cae5f74",
+      "detail": "Application of automation of control systems in the bulk storage industry."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "4672e1a7-8b7c-4738-bdcc-7bdfe9cb0663",
+      "detail": "Prioritise safe working practices."
+    },
+    {
+      "behaviourId": "2ed87318-38d9-419f-ad97-f442141c2742",
+      "detail": "Consider sustainability in their work."
+    },
+    {
+      "behaviourId": "0efdedac-81e9-4a69-94f3-c5383b9488cf",
+      "detail": "Take responsibility for the quality of their own work."
+    },
+    {
+      "behaviourId": "ec6c9660-ec26-45df-a243-02ae7331b550",
+      "detail": "Respond and adapt to work demands."
+    },
+    {
+      "behaviourId": "86156658-9a1b-42ba-99a9-87fbe308d0bf",
+      "detail": "Team-focus to meet work goals including support for equity, diversity and inclusion."
+    },
+    {
+      "behaviourId": "d7fbc482-0c3f-40ec-b043-bd0d565b95c6",
+      "detail": "Committed to continued professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "682391a1-248c-4c04-b9f5-3e2ba64a4b06",
+      "detail": "Identify hazards and risks in the workplace and mitigation measures."
+    },
+    {
+      "skillId": "709339a7-d64a-4850-8079-8aa1922d6a73",
+      "detail": "Apply health, safety, and environmental procedures. For example, safe systems of work and PPE."
+    },
+    {
+      "skillId": "8cec8a6d-78b8-4f9c-9af7-cf93ed048fcc",
+      "detail": "Apply signage and access restriction measures."
+    },
+    {
+      "skillId": "0066bfed-ad54-42df-82a0-c0bacf31ddda",
+      "detail": "Conduct task health and safety checks. For example, check PPE, review safety data sheets, check gas monitors, check weather conditions, and review control spillage procedures."
+    },
+    {
+      "skillId": "d5233ad7-ff09-4966-bf65-512bba731a0b",
+      "detail": "Conduct emergency equipment and system checks. For example, check safety shower, first aid kits, fire alarms, safety instrumented system, and emergency response equipment. "
+    },
+    {
+      "skillId": "5b14842c-fe3d-4809-900d-72eb7ee2021f",
+      "detail": "Follow security procedures."
+    },
+    {
+      "skillId": "3d751279-3479-42bd-bce2-7b322e32d37a",
+      "detail": "Follow emergency response procedures. For example, make area safe, and evacuate."
+    },
+    {
+      "skillId": "5df44da5-da42-4207-965c-7e931783b1ba",
+      "detail": "Conduct task environmental checks. For example, bunds, inceptors, spill kits, sump alarms, and kits. "
+    },
+    {
+      "skillId": "d6b47af3-3e5d-4a11-ba7c-ba206a6df627",
+      "detail": "Apply sustainability principles. For example, minimising waste and recycling."
+    },
+    {
+      "skillId": "ae83515a-e988-4f89-95d0-db8c259e43d4",
+      "detail": "Manage waste streams."
+    },
+    {
+      "skillId": "c4a8209f-0edc-4423-9810-5c90a53bef1f",
+      "detail": "Review information. For example, work instructions and handover notes."
+    },
+    {
+      "skillId": "f34f5717-3e2a-4db5-9c1a-4b96efd01dc1",
+      "detail": "Uses planning, prioritising, and time management techniques to plan tasks. "
+    },
+    {
+      "skillId": "8797a70c-f4d1-497c-8933-2c5422152e29",
+      "detail": "Identify and organise resources with consideration for safety, environmental impact, quality, cost, and delivery."
+    },
+    {
+      "skillId": "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+      "detail": "Conduct process parameter calculations."
+    },
+    {
+      "skillId": "39108d0a-e76d-4502-b303-d8e39b5e42ac",
+      "detail": "Interpret drawings and graphs. For example, pipeline and instrumentation diagrams."
+    },
+    {
+      "skillId": "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+      "detail": "Follow standard operating procedures (SOPs)."
+    },
+    {
+      "skillId": "1ac8beda-37f5-435a-af77-c749c97b3e96",
+      "detail": "Select, check, and prepare materials. For example, weigh, measure, blend, and transfer."
+    },
+    {
+      "skillId": "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+      "detail": "Select tools and equipment; conduct visual and physical checks. For example, corrosion and damage checks."
+    },
+    {
+      "skillId": "f051a528-f4bf-4720-b6dc-998226becdcb",
+      "detail": "Connect and align equipment. For example, connect pipelines, add hoses, and open or close values."
+    },
+    {
+      "skillId": "46d40303-dd93-42bc-b0b2-2276f1e75dcd",
+      "detail": "Disconnect equipment."
+    },
+    {
+      "skillId": "801bc3bd-ffef-45f7-a535-164e8e1df7f0",
+      "detail": "Store tools and equipment."
+    },
+    {
+      "skillId": "1dc9924e-8941-4f00-8a16-3a7a3adf030e",
+      "detail": "Conduct final process pre-start safety checks."
+    },
+    {
+      "skillId": "71db7f60-647c-48ca-aa5d-ec00c2edf104",
+      "detail": "Start up process operation on agreed parameters."
+    },
+    {
+      "skillId": "60ff04a7-2b31-4c75-b808-45d10eafcfc1",
+      "detail": "Monitor process operation. For example, take readings and conduct line walks. "
+    },
+    {
+      "skillId": "ef8cd139-eeef-4e5c-877a-9992829ab770",
+      "detail": "Adjust process parameters."
+    },
+    {
+      "skillId": "fe4e4ed6-9b2a-4dbc-984b-04df782a3814",
+      "detail": "Shut down and conduct post process procedures. For example, volume and quantity checks, visual inspection, and storage."
+    },
+    {
+      "skillId": "f60e63b6-9eb7-43ee-9ae5-c47d311546b6",
+      "detail": "Clean equipment. For example, washing, inerting, purging, and gas scrubbing. "
+    },
+    {
+      "skillId": "711d076a-9831-46b0-a996-4e59f2a35cb3",
+      "detail": "Clear equipment. For example, pigging and line clearing. "
+    },
+    {
+      "skillId": "917117ee-c523-4446-b29e-1c9e19e7e1aa",
+      "detail": "Take samples for testing. For example, density, water levels, Ph levels, and conductivity checks."
+    },
+    {
+      "skillId": "10ce12bd-a08b-4149-b29d-6eb6347085db",
+      "detail": "Apply planned preventative maintenance practices. For example, filter changes, lubrication, oil checks, functional testing, leak repairs, and pipeline inspections."
+    },
+    {
+      "skillId": "24838062-c2be-4def-a29c-9ce4bc31a561",
+      "detail": "Identify equipment for handover."
+    },
+    {
+      "skillId": "bf66d5bb-4b88-4f7d-ade3-44093070ea34",
+      "detail": "Shut down and isolate process, systems, and equipment. Complete isolation checks."
+    },
+    {
+      "skillId": "af9814bf-2753-4926-b801-59bc5a2c066a",
+      "detail": "Empty equipment. For example, drain, purge, vent, and de-pressure."
+    },
+    {
+      "skillId": "853ec454-2bc6-4d80-be9a-0b525f71e0ef",
+      "detail": "Complete equipment reinstatement checks. For example, fill, pressurise, and leak test."
+    },
+    {
+      "skillId": "a5dc26eb-0fd9-4577-80db-c0dbf77fc23b",
+      "detail": "Connect service utilities. For example, water, air, nitrogen, and steam."
+    },
+    {
+      "skillId": "2df77922-061e-4703-9fde-7924b9e9c515",
+      "detail": "De-isolate the process and systems."
+    },
+    {
+      "skillId": "6402f33d-a64f-4956-8c89-9ffbf1f6f58b",
+      "detail": "Identify issues. For example, defects, deviations, process variance, and maintenance requirements."
+    },
+    {
+      "skillId": "f23ceae0-cd51-4211-8fba-25dc04293d8e",
+      "detail": "Apply problem-solving and fault-finding techniques to identify root cause."
+    },
+    {
+      "skillId": "68934ab6-db25-460b-b4e4-caaf67161a0d",
+      "detail": "Escalate issues outside limits of responsibility. For example, defects."
+    },
+    {
+      "skillId": "1dc45f51-9c10-4c11-bc86-7942224f5427",
+      "detail": "Apply continuous improvement techniques to identify improvement suggestions."
+    },
+    {
+      "skillId": "84626cff-bdc7-4aaf-a102-da9b443cd366",
+      "detail": "Plan how to meet personal development needs. Carry out and record planned and unplanned learning and development activities."
+    },
+    {
+      "skillId": "2f23912b-e6c6-4294-8ede-5766aad14809",
+      "detail": "Apply team working principles."
+    },
+    {
+      "skillId": "683686d1-91ee-4c4e-93a7-96fe4da68aa9",
+      "detail": "Communicate with others. For example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "8447d996-c257-40e2-bdb2-9fa2bc6c1237",
+      "detail": "Record or enter information - paper based or electronic."
+    },
+    {
+      "skillId": "6391ba7a-3525-42ce-85e1-83a239f358b3",
+      "detail": "Produce documents. For example, handover notes or emails, management of change requests, and near miss incident reports."
+    },
+    {
+      "skillId": "d975f897-6261-4e2b-9dd4-e11c525fdab4",
+      "detail": "Use information technology. For example, word processing, databases, spreadsheet, email, virtual learning platforms, and document sharing platforms. Comply with GDPR and cyber security requirements."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-10-17T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0721",
+  "tbMainContact": "Engineering.MANUFACTURING@education.gov.uk",
+  "involvedEmployers": "Briggs Amasco Ltd, BPA, British Pipeline Agency Ltd, EDF Man Liquid Products UK Ltd, Green Energy, Ministry of Defence (MOD), National Grid, Navigator Terminals, Oikos Storage Ltd, Prax Refinery and Terminals, Stanlow Terminals Ltd",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Plant operative or technician",
+  "clusterId": "267",
+  "clusterDescription": null,
+  "createdDate": "2024-12-13T12:53:36 +00:00",
+  "lastUpdated": "2024-10-17T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-10-17T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1339",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1339-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1339-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Chemical Engineers (IChemE)",
+      "level": "Engineering Technician (EngTech). Upon successful completion of an IChemE approved apprenticeship and upon receipt of the apprenticeship certificate, individuals are eligible to apply through a shortened application route for registration as EngTech. The shortened application route will need to confirm that the threshold for underpinning knowledge and understanding has been met. Individuals also need to be a member of a professional body, such as IChemE, that is licensed by the Engineering Council to be awarded this status. Further information is on the Institution of Chemical Engineers website.",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "37e1dbf7-8d39-4af1-a39e-e57221e417ab",
+      "dutyDetail": "Maintain and promote site health, safety, security, and environmental compliance. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4672e1a7-8b7c-4738-bdcc-7bdfe9cb0663",
+        "2ed87318-38d9-419f-ad97-f442141c2742",
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "58dd5933-e808-432b-972f-b6a7397f394b",
+        "fee629be-afa1-47ef-aed2-f73d10555710",
+        "e63a476d-ae6f-49af-9360-be19622e402f",
+        "cdf90952-9e2e-4ea2-b23a-20cba359c204",
+        "4b64e7f6-d6b9-41c8-914c-3fa2d86703f1",
+        "df00b81c-6b3c-4793-b504-5b289548a012",
+        "9dd16667-c2f7-4ad1-b6fb-99e4b41a9af2",
+        "e602f56f-8c32-4a81-a488-c68fd4b9ee45",
+        "272ad83c-59e4-4d12-8ca1-4dc5013d2b9a",
+        "14280991-fffa-4a30-b2d2-38296571fd18",
+        "d12b7159-d12b-421b-b3ac-eb260271a29e",
+        "5c0b6351-06d8-4a68-8845-8421f794621b",
+        "bc654c57-2868-40ce-90d7-3c80522254a8",
+        "1d8ec67a-a9ea-44d2-8e1e-91722e4b63f6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "682391a1-248c-4c04-b9f5-3e2ba64a4b06",
+        "709339a7-d64a-4850-8079-8aa1922d6a73",
+        "8cec8a6d-78b8-4f9c-9af7-cf93ed048fcc",
+        "0066bfed-ad54-42df-82a0-c0bacf31ddda",
+        "d5233ad7-ff09-4966-bf65-512bba731a0b",
+        "5b14842c-fe3d-4809-900d-72eb7ee2021f",
+        "3d751279-3479-42bd-bce2-7b322e32d37a",
+        "5df44da5-da42-4207-965c-7e931783b1ba",
+        "d6b47af3-3e5d-4a11-ba7c-ba206a6df627",
+        "ae83515a-e988-4f89-95d0-db8c259e43d4",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "801bc3bd-ffef-45f7-a535-164e8e1df7f0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2abf9032-97b1-4fb3-8d9c-bbce7beb8379",
+      "dutyDetail": "Organise own work to meet operational priorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf",
+        "ec6c9660-ec26-45df-a243-02ae7331b550"
+      ],
+      "mappedKnowledge": [
+        "4a932fd9-5dac-4be2-b35d-b50f6ad623c5",
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a268fb71-3a17-4375-8b7c-3d820cf44827",
+        "38154f3d-4230-4180-b27b-efd0c6c54948",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c4a8209f-0edc-4423-9810-5c90a53bef1f",
+        "f34f5717-3e2a-4db5-9c1a-4b96efd01dc1",
+        "8797a70c-f4d1-497c-8933-2c5422152e29",
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "39108d0a-e76d-4502-b303-d8e39b5e42ac",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "d975f897-6261-4e2b-9dd4-e11c525fdab4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "390a8b4c-f7d3-461a-80d0-13ba221d4388",
+      "dutyDetail": "Import bulk product following procedures to meet operational priorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "b08f1b70-ef33-4cda-9d32-f600b8132244",
+        "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "20004d49-9f53-469b-9879-b90d5ab26041",
+        "e95c1905-c38b-40db-89d0-6fd58b19d259",
+        "24ec6e4c-03f5-4bad-badf-31eb87f8dfe8",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "f051a528-f4bf-4720-b6dc-998226becdcb",
+        "1dc9924e-8941-4f00-8a16-3a7a3adf030e",
+        "71db7f60-647c-48ca-aa5d-ec00c2edf104",
+        "60ff04a7-2b31-4c75-b808-45d10eafcfc1",
+        "ef8cd139-eeef-4e5c-877a-9992829ab770",
+        "fe4e4ed6-9b2a-4dbc-984b-04df782a3814",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e13fb75-8cf6-4912-b7f3-0fd9b98b9fd9",
+      "dutyDetail": "Monitor the storage of bulk product in line with procedures and operational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "b08f1b70-ef33-4cda-9d32-f600b8132244",
+        "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "e95c1905-c38b-40db-89d0-6fd58b19d259",
+        "15b9c498-4753-4b26-bce5-bebe308d58bf",
+        "24ec6e4c-03f5-4bad-badf-31eb87f8dfe8",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "60ff04a7-2b31-4c75-b808-45d10eafcfc1",
+        "ef8cd139-eeef-4e5c-877a-9992829ab770",
+        "fe4e4ed6-9b2a-4dbc-984b-04df782a3814",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "85430cc6-83de-41b7-9a90-b758558482c6",
+      "dutyDetail": "Treat or blend bulk product in line with procedures and operational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "b08f1b70-ef33-4cda-9d32-f600b8132244",
+        "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "e95c1905-c38b-40db-89d0-6fd58b19d259",
+        "2c28cebd-b380-4dfd-8777-275c0d65a3e5",
+        "24ec6e4c-03f5-4bad-badf-31eb87f8dfe8",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "1ac8beda-37f5-435a-af77-c749c97b3e96",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "f051a528-f4bf-4720-b6dc-998226becdcb",
+        "46d40303-dd93-42bc-b0b2-2276f1e75dcd",
+        "1dc9924e-8941-4f00-8a16-3a7a3adf030e",
+        "71db7f60-647c-48ca-aa5d-ec00c2edf104",
+        "60ff04a7-2b31-4c75-b808-45d10eafcfc1",
+        "ef8cd139-eeef-4e5c-877a-9992829ab770",
+        "fe4e4ed6-9b2a-4dbc-984b-04df782a3814",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "55a6d8cf-d2f8-47af-b139-d93c8da1a8d4",
+      "dutyDetail": "Export bulk product following procedures to meet operational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "b08f1b70-ef33-4cda-9d32-f600b8132244",
+        "00e3b1a1-baa8-467c-8997-bbea1aa86dfe",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "20004d49-9f53-469b-9879-b90d5ab26041",
+        "e95c1905-c38b-40db-89d0-6fd58b19d259",
+        "24ec6e4c-03f5-4bad-badf-31eb87f8dfe8",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "f051a528-f4bf-4720-b6dc-998226becdcb",
+        "46d40303-dd93-42bc-b0b2-2276f1e75dcd",
+        "1dc9924e-8941-4f00-8a16-3a7a3adf030e",
+        "71db7f60-647c-48ca-aa5d-ec00c2edf104",
+        "60ff04a7-2b31-4c75-b808-45d10eafcfc1",
+        "ef8cd139-eeef-4e5c-877a-9992829ab770",
+        "fe4e4ed6-9b2a-4dbc-984b-04df782a3814",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6b3e298e-5a99-4831-9193-efe94388fd50",
+      "dutyDetail": "Conduct quality assurance processes in line with procedures and operational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "c414d88d-e477-4e38-88a9-1a2962e54da9",
+        "fe8f1305-e8b5-4952-b419-e78270d41bef",
+        "9b89c96c-e28a-40d9-a71b-7ffef7a7801a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "917117ee-c523-4446-b29e-1c9e19e7e1aa"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "82a105e2-957f-43e8-8bf7-7c7725efc113",
+      "dutyDetail": "Complete work records - digital or paper based - in line with policy and procedures. For example, process records, traceability records, and quality assurance records.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "a50669d8-a26b-4379-8d85-11cf46fc64c9",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "5230fc04-fa19-424e-9d44-a22b9c502b89",
+        "81895901-0f15-4e63-9323-5c291852d234",
+        "82d94ce1-0ca4-4bcc-b366-0655547cde73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "8447d996-c257-40e2-bdb2-9fa2bc6c1237",
+        "6391ba7a-3525-42ce-85e1-83a239f358b3",
+        "d975f897-6261-4e2b-9dd4-e11c525fdab4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e034493d-dcc2-494d-897c-6bfa201e36d0",
+      "dutyDetail": "Conduct first line routine maintenance and testing of bulk storage plant and equipment. For example, maintaining oil and lubrication levels, changing of filters, gas bottle replacement, and alarm and cut off switch testing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "f051a528-f4bf-4720-b6dc-998226becdcb",
+        "46d40303-dd93-42bc-b0b2-2276f1e75dcd",
+        "f60e63b6-9eb7-43ee-9ae5-c47d311546b6",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3",
+        "10ce12bd-a08b-4149-b29d-6eb6347085db"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c29f1d68-c03e-4bdd-aed5-a9f5bd30c0f4",
+      "dutyDetail": "Prepare bulk storage plant and equipment for shut down for maintenance, overhaul, or decommissioning. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86",
+        "10ccefd8-a27d-4838-98f6-d9177e4d4f87"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "46d40303-dd93-42bc-b0b2-2276f1e75dcd",
+        "f60e63b6-9eb7-43ee-9ae5-c47d311546b6",
+        "711d076a-9831-46b0-a996-4e59f2a35cb3",
+        "24838062-c2be-4def-a29c-9ce4bc31a561",
+        "bf66d5bb-4b88-4f7d-ade3-44093070ea34",
+        "af9814bf-2753-4926-b801-59bc5a2c066a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d949f7ce-bb91-4af8-bf87-71d306a1912e",
+      "dutyDetail": "Reinstate bulk storage plant and equipment. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "30fdff30-2242-45c4-a91f-4ec21c95fd3e",
+        "ecab1727-54bf-4376-bbc7-7108ea5f9c74",
+        "7ac10ff5-f3cf-40bf-a683-94043bec1595",
+        "8efff59f-a8fe-4dbe-bdd9-f3362825c4a3",
+        "35a97eaa-e6ad-4a11-b107-926699208a86",
+        "eaa948d9-339c-4cf8-a3d7-d94292c9dc51"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "0c80a84a-51fb-4d82-befc-c5b5b770dddd",
+        "f051a528-f4bf-4720-b6dc-998226becdcb",
+        "1dc9924e-8941-4f00-8a16-3a7a3adf030e",
+        "853ec454-2bc6-4d80-be9a-0b525f71e0ef",
+        "a5dc26eb-0fd9-4577-80db-c0dbf77fc23b",
+        "2df77922-061e-4703-9fde-7924b9e9c515"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3825f4e6-46eb-4716-b33e-377699d00998",
+      "dutyDetail": "Resolve issues. For example, change in demand or breakdown problems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf",
+        "ec6c9660-ec26-45df-a243-02ae7331b550"
+      ],
+      "mappedKnowledge": [
+        "4a932fd9-5dac-4be2-b35d-b50f6ad623c5",
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "ab076705-61d0-4d5a-8168-75d14f9582f7",
+        "95c85cc0-e621-434e-a570-3ca8da85eaa2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fed0f0c5-e1be-4eb0-96ac-15b674d15fbd",
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "6402f33d-a64f-4956-8c89-9ffbf1f6f58b",
+        "f23ceae0-cd51-4211-8fba-25dc04293d8e",
+        "68934ab6-db25-460b-b4e4-caaf67161a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b807f6db-380c-4fd5-a716-adc6ffd98845",
+      "dutyDetail": "Participate in continuous improvement activities including continued professional development. For example, to improve sustainable working practices or to increase the use of artificial intelligence.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf",
+        "d7fbc482-0c3f-40ec-b043-bd0d565b95c6"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "fa1052df-7f05-4afe-b362-5d4105b37e1b",
+        "3b073d29-6156-42a3-a4a6-e40471c46169",
+        "b454efb6-d365-4d04-b032-46848cae5f74"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1dc45f51-9c10-4c11-bc86-7942224f5427",
+        "84626cff-bdc7-4aaf-a102-da9b443cd366",
+        "d975f897-6261-4e2b-9dd4-e11c525fdab4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01c01e9a-b5d1-4924-8cf4-8a317a2c0d0d",
+      "dutyDetail": "Liaise with other teams. For example, provide information to or receive information from other shifts or maintenance teams. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0efdedac-81e9-4a69-94f3-c5383b9488cf",
+        "86156658-9a1b-42ba-99a9-87fbe308d0bf"
+      ],
+      "mappedKnowledge": [
+        "01dfc38f-5f2e-463c-9084-f188e042ba47",
+        "b769bdd8-3b58-47f8-b79f-6b36c681a044",
+        "e0e3bb98-b357-4aca-b029-fc177d02112f",
+        "85accc99-5b25-4d1c-84bb-6e72da723759",
+        "82d94ce1-0ca4-4bcc-b366-0655547cde73"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a3c5ff0-c84a-4e6a-9455-7d234368f882",
+        "2f23912b-e6c6-4294-8ede-5766aad14809",
+        "683686d1-91ee-4c4e-93a7-96fe4da68aa9",
+        "6391ba7a-3525-42ce-85e1-83a239f358b3",
+        "d975f897-6261-4e2b-9dd4-e11c525fdab4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-10-17T00:00:00"
+}
