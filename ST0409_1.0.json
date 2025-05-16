@@ -1,70 +1,272 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 355,
   "referenceNumber": "ST0409",
+  "learningAimClassCode": "",
   "title": "Cyber security technical professional (integrated degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/355",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0409",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2021-11-22T00:00:00",
   "earliestStartDate": "2018-09-24T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-08-25T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Leading teams which manage cyber security risks.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "Cyber Security Technical Professional",
     "Cyber Security",
-    "Technical Professional"
+    "Technical Professional",
+    "software",
+    "databases"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Cyber Risk Manager",
+    "Cyber Risk Analyst",
+    "Cyber Research Analyst",
+    "Cyber Incident Manager",
+    "Cyber Security Engineer",
+    "Cyber Security Design Engineer"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4343/st0409-cyber-security-technical-prof-l6-proposed-v3.pdf",
-  "ssa1": "",
-  "ssa2": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4343/st0409-cyber-security-technical-prof-l6-proposed-v3.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;&lt;strong&gt;Role Profile: &lt;/strong&gt;A cyber security technical professional operates in business or technology / engineering functions across a range of sectors of the economy including critical national infrastructure (such as energy, transport, water, finance), public and private, large and small. They will normally operate with a considerable degree of autonomy and will lead teams which research, analyse, model, assess and manage cyber security risks; design, develop, justify, manage and operate secure solutions; and detect and respond to incidents. They work in accordance with applicable laws, regulations, standards and ethics.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Typical Job Roles: &lt;/strong&gt;Cyber Risk Manager; Cyber Risk Analyst; Cyber Research Analyst; Cyber Incident Manager; Cyber Security Engineer; Cyber Security Design Engineer.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Entry Requirements: &lt;/strong&gt;individual employers will set the selection criteria, but this is likely to include three ‘A’ levels, including maths, or other relevant qualifications or experience.&lt;/p&gt;\r\n&lt;p&gt;A cyber security technical professional has the competencies, knowledge and underpinning skills attitudes and behaviours below.&lt;/p&gt;\r\n&lt;table&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 278px;&quot; width=&quot;278&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Technical Competencies&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 282px;&quot; width=&quot;282&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Technical Knowledge and Understanding&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;1: N/A&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Foundations of cyber security, its significance, concepts, threats, vulnerabilities and assurance.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;2: Design, build, configure, optimise, test and troubleshoot simple and complex networks.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Network foundations, connections, internetworking, protocols, standards, performance, security and server virtualisation.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;3: Apply statistical techniques to large data sets. Identify vulnerabilities in big data architectures and deployment.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Information management, big data concepts, statistical techniques, database concepts and data quality.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;4: Build test and debug a digital system to a specification.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Computer architecture, digital logic, machine level representation of data.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;5: Configure an Operating System in accordance with security policy. Identify threats and features.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Operating System principles, architectures, features, mechanisms, security features and exploits.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;6: Write, test, debug programs in high and low level languages and scripts.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Algorithm and program design, concepts, compilers and logic. Programming languages.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;7: Design, implement and analyse algorithms.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Algorithms, complexity and discrete maths.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;8: Construct software to interact with the real world and analyse for security exploits.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;How software interacts with the hardware and real world environment and security issues.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;9: Analyse malware &amp;amp; identify its mechanisms.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Malware, reverse engineering, obfuscation.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;10: Apply secure programming principles and design patterns to address security issues.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Defensive programming, malware resistance, code analysis, formal methods, good practice.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;11: Apply system engineering and software development methodologies and models.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;System development principles, tools, approaches, complexity, software engineering.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;12: Discover, identify and analyse threats, attack techniques, vulnerabilities and mitigations.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Threats, vulnerabilities, impacts and mitigations in ICT systems and the enterprise environment.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;13: Assess culture &amp;amp; individual responsibilities.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Human dimensions of cyber security.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;14: Undertake ethical system reconnaissance and intelligence analysis.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Structured and ethical intelligence analysis, methods, techniques.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;15: Undertake risk modelling, analysis and trades.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Management of cyber security risk, tools and techniques.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;16: Undertake risk assessment to an external standard.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Quantitative &amp;amp; qualitative risk management theory &amp;amp; practice, role of risk stakeholders.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;17: Apply a management system and develop an information security management plan.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Concepts &amp;amp; benefits of security management systems, governance &amp;amp; international standards.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;18: Configure and use security technology components and key management.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Security components: how they are used for security / business benefit. Crypto &amp;amp; key management.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;19: Design &amp;amp; evaluate a system to a security case.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;How to compose a justified security case.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;20: Architect, analyse &amp;amp; justify a secure system.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Understand security assurance, how to achieve it and how to apply security principles&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;21: Develop an assurance strategy.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Assurance concepts &amp;amp; approaches.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;22: Security monitoring, analysis and intrusion detection. Recognise anomalies &amp;amp; behaviours.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;How to diagnose cause from observables. Application of SIEM (Security Information and Event Management) tools &amp;amp; techniques.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;23: Manage intrusion response, including with 3rd parties.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Cyber incident response, management, escalation, investigation &amp;amp; 3rd party involvement.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;24: N/A&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Legal, regulatory, compliance &amp;amp; standards environment.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;25: Organise testing &amp;amp; investigation work in accordance with legal &amp;amp; ethical requirements.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Applicability of laws regulations &amp;amp; ethical standards.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;278&quot;&gt;\r\n&lt;p&gt;26: Develop &amp;amp; apply information security policy to implement legal or regulatory requirements.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;282&quot;&gt;\r\n&lt;p&gt;Legal responsibilities of system owners, users, employers, employees.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td colspan=&quot;2&quot; width=&quot;560&quot;&gt;\r\n&lt;h3&gt;&lt;strong&gt;Underpinning professional, interpersonal and business skills&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Fluent in written communications and able to articulate complex issues.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Makes concise, engaging and well-structured verbal presentations, arguments and explanations.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to deal with different, competing interests within and outside the organisation with excellent negotiation skills.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to identify the preferences, motivations, strengths and limitations of other people and apply these insights to work more effectively with and to motivate others.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to work effectively with others to achieve a common goal.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Competent in active listening and in leading, influencing and persuading others.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to give and receive feedback constructively and incorporate it into his/her own development and life-long learning.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Analytical and critical thinking skills for Technology Solutions development and can systematically analyse and apply structured problem solving techniques to complex systems and situations.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to put forward, demonstrate value and gain commitment to a moderately complex technology-oriented solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Can conduct effective research, using literature and other media.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Logical thinking and creative approach to problem solving.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Able to demonstrate a ‘security mind-set’ (how to break as well as make).&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Demonstrates business disciplines, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Flexible attitude and ability to perform under pressure.&#160;&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;A thorough approach to work in the cyber security role.&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Qualifications: &lt;/strong&gt;BSC (Hons) Cyber Security Technical Professional Degree. Apprentices without Level 2 English and maths must achieve this prior to taking the end-point assessment.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Professional Recognition: &lt;/strong&gt;recognised for entry to Institute of Information Security Professionals membership at Associate level.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Duration: &lt;/strong&gt;the duration of this apprenticeship is typically 48 months.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: this is a Level 6 apprenticeship.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Review Date: &lt;/strong&gt;this standard will be reviewed three years from the publication date.&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;&lt;strong&gt;Role Profile: &lt;/strong&gt;A cyber security technical professional operates in business or technology / engineering functions across a range of sectors of the economy including critical national infrastructure (such as energy, transport, water, finance), public and private, large and small. They will normally operate with a considerable degree of autonomy and will lead teams which research, analyse, model, assess and manage cyber security risks; design, develop, justify, manage and operate secure solutions; and detect and respond to incidents. They work in accordance with applicable laws, regulations, standards and ethics.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Typical Job Roles: &lt;/strong&gt;Cyber Risk Manager; Cyber Risk Analyst; Cyber Research Analyst; Cyber Incident Manager; Cyber Security Engineer; Cyber Security Design Engineer.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Entry Requirements: &lt;/strong&gt;individual employers will set the selection criteria, but this is likely to include three ‘A’ levels, including maths, or other relevant qualifications or experience.&lt;/p&gt;\n&lt;p&gt;A cyber security technical professional has the competencies, knowledge and underpinning skills attitudes and behaviours below.&lt;/p&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;278&quot; style=&quot;width: 278px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Technical Competencies&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;282&quot; style=&quot;width: 282px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Technical Knowledge and Understanding&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;1: N/A&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Foundations of cyber security, its significance, concepts, threats, vulnerabilities and assurance.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;2: Design, build, configure, optimise, test and troubleshoot simple and complex networks.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Network foundations, connections, internetworking, protocols, standards, performance, security and server virtualisation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;3: Apply statistical techniques to large data sets. Identify vulnerabilities in big data architectures and deployment.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Information management, big data concepts, statistical techniques, database concepts and data quality.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;4: Build test and debug a digital system to a specification.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Computer architecture, digital logic, machine level representation of data.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;5: Configure an Operating System in accordance with security policy. Identify threats and features.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Operating System principles, architectures, features, mechanisms, security features and exploits.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;6: Write, test, debug programs in high and low level languages and scripts.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Algorithm and program design, concepts, compilers and logic. Programming languages.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;7: Design, implement and analyse algorithms.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Algorithms, complexity and discrete maths.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;8: Construct software to interact with the real world and analyse for security exploits.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;How software interacts with the hardware and real world environment and security issues.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;9: Analyse malware &amp;amp; identify its mechanisms.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Malware, reverse engineering, obfuscation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;10: Apply secure programming principles and design patterns to address security issues.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Defensive programming, malware resistance, code analysis, formal methods, good practice.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;11: Apply system engineering and software development methodologies and models.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;System development principles, tools, approaches, complexity, software engineering.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;12: Discover, identify and analyse threats, attack techniques, vulnerabilities and mitigations.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Threats, vulnerabilities, impacts and mitigations in ICT systems and the enterprise environment.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;13: Assess culture &amp;amp; individual responsibilities.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Human dimensions of cyber security.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;14: Undertake ethical system reconnaissance and intelligence analysis.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Structured and ethical intelligence analysis, methods, techniques.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;15: Undertake risk modelling, analysis and trades.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Management of cyber security risk, tools and techniques.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;16: Undertake risk assessment to an external standard.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Quantitative &amp;amp; qualitative risk management theory &amp;amp; practice, role of risk stakeholders.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;17: Apply a management system and develop an information security management plan.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Concepts &amp;amp; benefits of security management systems, governance &amp;amp; international standards.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;18: Configure and use security technology components and key management.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Security components: how they are used for security / business benefit. Crypto &amp;amp; key management.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;19: Design &amp;amp; evaluate a system to a security case.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;How to compose a justified security case.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;20: Architect, analyse &amp;amp; justify a secure system.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Understand security assurance, how to achieve it and how to apply security principles&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;21: Develop an assurance strategy.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Assurance concepts &amp;amp; approaches.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;22: Security monitoring, analysis and intrusion detection. Recognise anomalies &amp;amp; behaviours.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;How to diagnose cause from observables. Application of SIEM (Security Information and Event Management) tools &amp;amp; techniques.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;23: Manage intrusion response, including with 3rd parties.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Cyber incident response, management, escalation, investigation &amp;amp; 3rd party involvement.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;24: N/A&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Legal, regulatory, compliance &amp;amp; standards environment.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;25: Organise testing &amp;amp; investigation work in accordance with legal &amp;amp; ethical requirements.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Applicability of laws regulations &amp;amp; ethical standards.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;278&quot;&gt;\n&lt;p&gt;26: Develop &amp;amp; apply information security policy to implement legal or regulatory requirements.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;282&quot;&gt;\n&lt;p&gt;Legal responsibilities of system owners, users, employers, employees.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;560&quot;&gt;\n&lt;h3&gt;&lt;strong&gt;Underpinning professional, interpersonal and business skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Fluent in written communications and able to articulate complex issues.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Makes concise, engaging and well-structured verbal presentations, arguments and explanations.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to deal with different, competing interests within and outside the organisation with excellent negotiation skills.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to identify the preferences, motivations, strengths and limitations of other people and apply these insights to work more effectively with and to motivate others.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to work effectively with others to achieve a common goal.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Competent in active listening and in leading, influencing and persuading others.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to give and receive feedback constructively and incorporate it into his/her own development and life-long learning.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Analytical and critical thinking skills for Technology Solutions development and can systematically analyse and apply structured problem solving techniques to complex systems and situations.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to put forward, demonstrate value and gain commitment to a moderately complex technology-oriented solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Can conduct effective research, using literature and other media.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Logical thinking and creative approach to problem solving.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Able to demonstrate a ‘security mind-set’ (how to break as well as make).&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;\n&lt;p&gt;Demonstrates business disciplines, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;Flexible attitude and ability to perform under pressure.&#160;&lt;/p&gt;\n&lt;/li&gt;\n&lt;li&gt;\n&lt;p&gt;A thorough approach to work in the cyber security role.&lt;/p&gt;\n&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;strong&gt;&lt;br /&gt;Qualifications: &lt;/strong&gt;BSC (Hons) Cyber Security Technical Professional Degree. Apprentices without Level 2 English and maths must achieve this prior to taking the end-point assessment.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Professional Recognition: &lt;/strong&gt;recognised for entry to Institute of Information Security Professionals membership at Associate level.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Duration: &lt;/strong&gt;the duration of this apprenticeship is typically 48 months.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Level&lt;/strong&gt;: this is a Level 6 apprenticeship.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Review Date: &lt;/strong&gt;this standard will be reviewed three years from the publication date.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;A cyber security technical professional operates in business or technology / engineering functions across a range of sectors of the economy including critical national infrastructure (such as energy, transport, water, finance), public and private, large and small. They will normally operate with a considerable degree of autonomy and will lead teams which research, analyse, model, assess and manage cyber security risks; design, develop, justify, manage and operate secure solutions; and detect and respond to incidents. They work in accordance with applicable laws, regulations, standards and ethics.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f5a89770-c38b-48a8-86c5-30e91348d112",
+      "detail": "1: N/A\n\nFoundations of cyber security, its significance, concepts, threats, vulnerabilities and assurance."
+    },
+    {
+      "knowledgeId": "28cecc29-84f3-40a3-8c37-a269b2cd1226",
+      "detail": "2: Design, build, configure, optimise, test and troubleshoot simple and complex networks.\n\nNetwork foundations, connections, internetworking, protocols, standards, performance, security and server virtualisation."
+    },
+    {
+      "knowledgeId": "79d91a5d-d23d-4f67-b8ec-98691a9b7ae7",
+      "detail": "3: Apply statistical techniques to large data sets. Identify vulnerabilities in big data architectures and deployment.\n\nInformation management, big data concepts, statistical techniques, database concepts and data quality."
+    },
+    {
+      "knowledgeId": "a4275bc3-afb4-4dd4-b140-89cf9b99fa54",
+      "detail": "4: Build test and debug a digital system to a specification.\n\nComputer architecture, digital logic, machine level representation of data."
+    },
+    {
+      "knowledgeId": "fdac4ccf-cb69-48cf-ab70-727dc1de42a6",
+      "detail": "5: Configure an Operating System in accordance with security policy. Identify threats and features.\n\nOperating System principles, architectures, features, mechanisms, security features and exploits."
+    },
+    {
+      "knowledgeId": "0ac33738-1ae0-4dd2-b1da-fa9af3ded220",
+      "detail": "6: Write, test, debug programs in high and low level languages and scripts.\n\nAlgorithm and program design, concepts, compilers and logic. Programming languages."
+    },
+    {
+      "knowledgeId": "76c86458-e060-4dda-9c03-af19d056b907",
+      "detail": "7: Design, implement and analyse algorithms.\n\nAlgorithms, complexity and discrete maths."
+    },
+    {
+      "knowledgeId": "f94cf569-87bc-482d-9af4-7c79cdd607ce",
+      "detail": "8: Construct software to interact with the real world and analyse for security exploits.\n\nHow software interacts with the hardware and real world environment and security issues."
+    },
+    {
+      "knowledgeId": "2edb204f-1a8d-49f3-9a3d-65e5de9a47dd",
+      "detail": "9: Analyse malware & identify its mechanisms.\n\nMalware, reverse engineering, obfuscation."
+    },
+    {
+      "knowledgeId": "1ec39a43-ef05-4dbc-96a5-242087a55187",
+      "detail": "10: Apply secure programming principles and design patterns to address security issues.\n\nDefensive programming, malware resistance, code analysis, formal methods, good practice."
+    },
+    {
+      "knowledgeId": "6b6c2460-d84c-4285-a9d7-b4505e6e38da",
+      "detail": "11: Apply system engineering and software development methodologies and models.\n\nSystem development principles, tools, approaches, complexity, software engineering."
+    },
+    {
+      "knowledgeId": "59bc2477-a9fc-443b-a602-72182a1e9c18",
+      "detail": "12: Discover, identify and analyse threats, attack techniques, vulnerabilities and mitigations.\n\nThreats, vulnerabilities, impacts and mitigations in ICT systems and the enterprise environment."
+    },
+    {
+      "knowledgeId": "8694bf36-e747-4b78-8a3f-ed2cd6e4c74c",
+      "detail": "13: Assess culture & individual responsibilities.\n\nHuman dimensions of cyber security."
+    },
+    {
+      "knowledgeId": "d3bc7e2b-9bf2-4794-a4a3-12e5f266c421",
+      "detail": "14: Undertake ethical system reconnaissance and intelligence analysis.\n\nStructured and ethical intelligence analysis, methods, techniques."
+    },
+    {
+      "knowledgeId": "59daca19-6533-4cf9-b6fa-85260a64213e",
+      "detail": "15: Undertake risk modelling, analysis and trades.\n\nManagement of cyber security risk, tools and techniques."
+    },
+    {
+      "knowledgeId": "d5c3e245-f3ae-4b7e-928f-046d1a86bad6",
+      "detail": "16: Undertake risk assessment to an external standard.\n\nQuantitative & qualitative risk management theory & practice, role of risk stakeholders."
+    },
+    {
+      "knowledgeId": "09e154dd-4489-4d69-9eb9-6341aa557c4b",
+      "detail": "17: Apply a management system and develop an information security management plan.\n\nConcepts & benefits of security management systems, governance & international standards."
+    },
+    {
+      "knowledgeId": "92389d37-1a60-42f5-9b1a-bb962516d5af",
+      "detail": "18: Configure and use security technology components and key management.\n\nSecurity components: how they are used for security / business benefit. Crypto & key management."
+    },
+    {
+      "knowledgeId": "a72bd2b4-9013-418a-b699-fb2c4c6c9417",
+      "detail": "19: Design & evaluate a system to a security case.\n\nHow to compose a justified security case."
+    },
+    {
+      "knowledgeId": "43696d6a-903d-484f-864d-be372c29afa5",
+      "detail": "20: Architect, analyse & justify a secure system.\n\nUnderstand security assurance, how to achieve it and how to apply security principles"
+    },
+    {
+      "knowledgeId": "a8010b04-6b68-4c97-818e-418527b84a5c",
+      "detail": "21: Develop an assurance strategy.\n\nAssurance concepts & approaches."
+    },
+    {
+      "knowledgeId": "d237e483-1c73-49b7-87d3-e07c91845c54",
+      "detail": "22: Security monitoring, analysis and intrusion detection. Recognise anomalies & behaviours.\n\nHow to diagnose cause from observables. Application of SIEM (Security Information and Event Management) tools & techniques."
+    },
+    {
+      "knowledgeId": "da580074-ce67-4b5c-994a-a7cdb08997d4",
+      "detail": "23: Manage intrusion response, including with 3rd parties.\n\nCyber incident response, management, escalation, investigation & 3rd party involvement."
+    },
+    {
+      "knowledgeId": "feefc3a7-da35-44fe-b5e7-18e39d370b88",
+      "detail": "24: N/A\n\nLegal, regulatory, compliance & standards environment."
+    },
+    {
+      "knowledgeId": "0cfe3857-e2e2-4e71-85af-791a42efccb4",
+      "detail": "25: Organise testing & investigation work in accordance with legal & ethical requirements.\n\nApplicability of laws regulations & ethical standards."
+    },
+    {
+      "knowledgeId": "91488935-0d1a-4055-b37c-20f4e8ef3754",
+      "detail": "26: Develop & apply information security policy to implement legal or regulatory requirements.\n\nLegal responsibilities of system owners, users, employers, employees."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "9be3dd2f-c5d5-4f8b-a87c-d1dfdb24188b",
+      "detail": "Demonstrates business disciplines, ethics and courtesies, demonstrating timeliness and focus when faced with distractions and the ability to complete tasks to a deadline with high quality. \n"
+    },
+    {
+      "behaviourId": "d5053705-2ea8-47cc-be5d-4b398ffdb35e",
+      "detail": "Flexible attitude and ability to perform under pressure. \n"
+    },
+    {
+      "behaviourId": "c93dc8e9-dc62-43fe-bf11-5b5228e2ecf8",
+      "detail": "A thorough approach to work in the cyber security role.\n"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "98ccda07-ad81-40b3-8f11-e2fa9e89481d",
+      "detail": "Fluent in written communications and able to articulate complex issues.\u00A0"
+    },
+    {
+      "skillId": "eba187a7-e50c-421e-b693-032b4deb99f6",
+      "detail": "Makes concise, engaging and well-structured verbal presentations, arguments and explanations. \n"
+    },
+    {
+      "skillId": "933cf0f1-857f-49cd-8b3c-5dc2a56dcd3b",
+      "detail": "Able to deal with different, competing interests within and outside the organisation with excellent negotiation skills. \n"
+    },
+    {
+      "skillId": "8c31af46-2672-41b0-8d9e-deae86223227",
+      "detail": "Able to identify the preferences, motivations, strengths and limitations of other people and apply these insights to work more effectively with and to motivate others. \n"
+    },
+    {
+      "skillId": "4d9ef060-02ee-4f1c-b213-f27260b34859",
+      "detail": "Able to work effectively with others to achieve a common goal. \n"
+    },
+    {
+      "skillId": "f582c701-b47f-4567-97c5-d2f588fef48b",
+      "detail": "Competent in active listening and in leading, influencing and persuading others. \n"
+    },
+    {
+      "skillId": "b5f871af-68c0-401c-90cf-b62db441fa99",
+      "detail": "Able to give and receive feedback constructively and incorporate it into his/her own development and life-long learning. \n"
+    },
+    {
+      "skillId": "6f3e00a8-e745-4090-ab32-6caf61a17e49",
+      "detail": "Analytical and critical thinking skills for Technology Solutions development and can systematically analyse and apply structured problem solving techniques to complex systems and situations. \n"
+    },
+    {
+      "skillId": "0e05ab78-82ce-43de-9983-3e050b686354",
+      "detail": "Able to put forward, demonstrate value and gain commitment to a moderately complex technology-oriented solution, demonstrating understanding of business need, using open questions and summarising skills and basic negotiating skills. \n"
+    },
+    {
+      "skillId": "a0efda46-5fcc-4bd7-bdb9-9fe34a68107d",
+      "detail": "Can conduct effective research, using literature and other media. \n"
+    },
+    {
+      "skillId": "8380fc38-7db5-433d-9ba3-38e3d1ee7d12",
+      "detail": "Logical thinking and creative approach to problem solving. \n"
+    },
+    {
+      "skillId": "6aad22a6-6e2d-4be6-ae3d-854dcd8cf208",
+      "detail": "Able to demonstrate a ‘security mind-set’ (how to break as well as make).\n"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2018-09-24T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0146",
-  "tbMainContact": "bob.clift@tpdegrees.com ",
+  "tbMainContact": "julia.bateson@techskills.org",
   "involvedEmployers": "QinetiQ (Chair of the employer group), 3SDL, BAE Systems, Becrypt, BT, CGI, Crest, DWP, HPE, IBM, Transport for London (TfL), Virgin Trains South Coast, NCSC (National Cyber Security Centre)",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Cyber Risk Manager",
+    "Cyber Risk Analyst",
+    "Cyber Research Analyst",
+    "Cyber Incident Manager",
+    "Cyber Security Engineer",
+    "Cyber Security Design Engineer"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "Cyber Security Professional",
+  "clusterId": "184",
+  "clusterDescription": "Provide and implement cyber security technology enabled solutions for internal and external customers",
   "createdDate": "2017-11-14T17:10:44 +00:00",
-  "lastUpdated": "2020-03-05T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technical-professional-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technical-professional-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-11-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0409",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0409-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0409-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-08-25T00:00:00"
 }
