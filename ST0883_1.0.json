@@ -1,19 +1,25 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 632,
   "referenceNumber": "ST0883",
+  "learningAimClassCode": "",
   "title": "Market research executive",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0883",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-06-03T00:00:00",
+  "earliestStartDate": "2021-05-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Research projects to generate data and insight.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "market",
@@ -32,12 +38,11 @@
     "Insight analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5019/st0883_market-research-executive_l4_ap-for-publication_29032021.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5019/st0883_market-research-executive_l4_ap-for-publication_29032021.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.4 Marketing and sales",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in private, public and third sector organisations. These include media, finance, local government, central government and health. Market, Social and Opinion Research enables organisations to understand customers, develop new products, identify business growth opportunities, understand society, develop new policies and address significant social concerns such as smoking, addiction, poverty and inequality. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work on research projects to generate data and insight. The Market Research Executive collects, analyses and interprets information collected from participants using digital and non-digital methods. They use qualitative techniques such as focus groups, in-depth interviews, and ethnography; quantitative techniques such as face to face/telephone/online surveys, statistical analysis; and analysis of numerical data; and secondary data analysis such as summarising, collating and synthesising existing research. The Market Research Executive role is key within the research function. They support the team from the beginning to end of the research project, across a range of research duties. This includes working closely with the research team to ensure project delivery in line with agreed resources and budgets. As part of this role it is essential to build and maintain relationships with internal and external clients and suppliers as appropriate. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with internal teams such as research, sales, marketing, IT, product development, finance, HR, legal and Operations. (Operations is the part of the research function that undertakes data collection, coding, data processing and data delivery to the research teams for analysis and reporting.) They also interact with external stakeholders, including members of the public, clients, service providers, agencies, the media, local and central government and research participants. They are expected to work independently on certain duties and as part of the wider office based research team on other duties including day to day responsibility for leading elements of a research project. The Market Research Executive is accountable to a line manager within the research team, with no staff management or budgetary responsibilities. The Market Research Executive role is predominantly office based, however there may be some off-site duties at various locations such as attendance at research group discussions, research interviews, client/agency meetings. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for under supervision, the investigation, design and set up of research projects, organisation, preparation and collection of data and summarising, evaluating and analysing of data and reporting of research findings undertaken with awareness and understanding of human resource, costs and budgetary restraints/opportunities. These activities will require capturing, comparing, checking and analysing primary research data; undertaking desk research/secondary research; checking, monitoring and screening participants; structuring and segmenting data for analysis and validating data for quality and accuracy. There will also be day to day responsibility for leading elements of research project delivery and specific research tasks in collaboration with internal and external stakeholders as appropriate. The areas of responsibility, resources they manage and reporting will vary across employers depending on factors such as size or type of organisation.&lt;/p&gt;",
   "knowledges": [
     {
@@ -153,25 +158,28 @@
       "detail": "Evaluate data and research findings to derive insights to support improvements to future research projects."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "approvedForDelivery": "2021-05-27T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0474",
   "tbMainContact": "louise.maycock@ipsos.com",
   "involvedEmployers": "Ipsos MORI, Maritz, Shift-Learning, Firefish Grp, Cello Health Plc, Disney, Transport for West Midlands, BGL Group, Compare the Market (BGL Group), ampersand Research, Channel 4, House of Commons, Hackney Council, Market Research Society, Populus",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -181,19 +189,25 @@
     "Research analyst",
     "Insight analyst"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Marketing",
-  "cluster": "Product/Brand Manager",
+  "cluster": "Marketing communications manager",
+  "clusterId": "98",
+  "clusterDescription": null,
   "createdDate": "2020-10-21T07:59:09 +00:00",
-  "lastUpdated": "2020-06-29T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/market-research-executive",
+  "lastUpdated": "2021-06-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0883",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0883-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0883-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "The Market Research Society",
-      "level": "0",
+      "level": "Member Grade",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -219,7 +233,7 @@
         "218ab6ee-7fca-4836-aca8-8aca6d365690",
         "5d96bbc0-946c-4766-9459-f09e696ab3aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "75024d08-5a57-437d-8c8b-329e49a1ff7c",
@@ -242,7 +256,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -268,7 +282,7 @@
         "97b8bb7f-3f2d-4466-98ce-d4ef35a3daa2",
         "5d96bbc0-946c-4766-9459-f09e696ab3aa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -295,7 +309,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "84aa7cef-7036-48b0-bc26-e16d2b161045",
@@ -326,7 +340,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -352,7 +366,7 @@
         "218ab6ee-7fca-4836-aca8-8aca6d365690",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "96f01c33-4048-435a-82eb-757f84387005",
@@ -379,7 +393,7 @@
         "5d96bbc0-946c-4766-9459-f09e696ab3aa",
         "0aa1bebc-1f2c-41f4-b8f4-51b9725056ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "471fd4e1-c5eb-4633-b9f8-650e3995c5d0",
@@ -409,7 +423,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -443,7 +457,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29746973-6049-4897-9059-2fdeccbc11f9",
         "84aa7cef-7036-48b0-bc26-e16d2b161045",
@@ -477,7 +491,7 @@
         "751a2875-96da-41fb-a529-139ce848dbb1",
         "55972a57-d1e5-403f-b7fa-3f2c56e60df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6118e2fe-046b-4755-aac0-b331596f8ba0",
         "29746973-6049-4897-9059-2fdeccbc11f9",
@@ -490,5 +504,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-06-03T00:00:00"
 }
