@@ -1,20 +1,26 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 239,
   "referenceNumber": "ST0264",
+  "learningAimClassCode": "",
   "title": "Carpentry and joinery",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/239",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0264",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard and End-point assessment plan revised. Funding band revised 30.3.2021. (First published 18.09.2020).\n\nFunding band was signed off by the Minister in the December but then clashed with the introduction of a 3 month notice period. This came in 29th March. It was accepted that those starting between October and March would still follow the new documents but being funding at 12k.",
-  "changedDate": "2021-03-30T00:00:00",
+  "changedDate": "2023-07-11T00:00:00",
   "earliestStartDate": "2021-03-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-01-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using timber products to create and install building components.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 11000,
-  "route": "Construction",
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
   "keywords": [
     "timber",
     "building",
@@ -28,12 +34,11 @@
     "Architectural joiner"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4565/st0264_carpentry-and-joinery_l2_ap-for-publication_21092020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/o2ojzjmq/st0264_carpentry-and-joinery_l2_ap_10_04_23_v11-correction-adjustment-_clean.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "5315",
   "occupationalSummary": "&lt;p&gt;This occupation is found in both the new build and refurbishment construction sector. The construction industry is central to creating the homes, schools, hospitals, energy and transport infrastructure society needs.&#160; There is growing demand for carpenters and joiners to help meet the need for new homes.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is working with building materials (most often wood) to create and install building components.&#160; This typically involves shaping and cutting materials, installing finished materials like partitions, doors, staircases, window frames, mouldings, timber floor coverings and erecting structural components such as floor joists and roofs. All work needs to be carried out safely, using the appropriate tools and to the quality specified.&lt;/p&gt;\n&lt;p&gt;This occupation includes two different options and people will either work on a construction site as a Site Carpenter or in a workshop as an Architectural Joiner.&#160;&lt;/p&gt;\n&lt;p&gt;A Site Carpenter will prepare and install basic building components e.g. doors, straight staircases, wall and floor units and erecting structural carpentry and roof structures on a building site or in domestic and commercial premises.&lt;/p&gt;\n&lt;p&gt;An Architectural Joiner will produce building components by setting out, marking out and manufacturing basic architectural products, including doors, windows, straight staircases and associated ironmongery.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other construction trades such as bricklayers, plasterers and plumbers, supervisors, site management, architects, designers, contractors and customers. A Site Carpenter would generally liaise with other trades such as bricklayers, plasterers and plumbers, supervisors, site management and contractors. Architectural joiners would liaise with other workshop colleagues and supervisors as well as architects, designers and customers. An employee in either option of this occupation will be responsible for working in a team, under supervision, using machinery and/or tools to create structures or components from designs, plans and specifications that meet the client’s expectations.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working in a team, under supervision, using machinery and tools to create structures or components from the designs, plans and specifications of architects and designers that meet the clients expectations. On site these could include roof structures, floors, partitions and second fix work such as door frames and skirting. As an architectural joiner, they could include doors, windows and stairs, including all ironmongery.&lt;/p&gt;",
   "knowledges": [
     {
@@ -221,34 +226,28 @@
       "detail": "Architectural Joiner : install a range of common ironmongery components for doors, windows and units using a range of hand and power tools."
     }
   ],
-  "options": [
-    {
-      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
-      "title": "Site Carpenter"
-    },
-    {
-      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
-      "title": "Architectural Joiner"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Construction Industry Training Board (CITB)",
-    "contactName": "Dawn Hillier",
-    "contactAddress": "Carthusian Court<br>12 Carthusian Street<br>LONDON<br>EM1M 6EZ",
-    "contactEmail": "Quality.assurance@citb.co.uk",
-    "webLink": "https://www.citb.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0035",
   "tbMainContact": "tyson@lignumassociates.com",
   "involvedEmployers": "Lignum associates, Houghtons of York, Bedford College, Leeds College of Building, Building Craft College, Kiersons, Brian Fell (Leven)\nT&T Roofline, Goodfellow Roofing, Derry Construction, Seddon, H&H Joiners & Builders",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -256,14 +255,20 @@
     "Site carpenter",
     "Architectural joiner"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Onsite Construction",
-  "cluster": "Core Building Tradesperson",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-18T13:33:08 +00:00",
-  "lastUpdated": "2020-09-18T13:33:08 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/carpentry-and-joinery-v1-1",
+  "lastUpdated": "2023-07-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
+  "banners": "A temporary dispensation has been applied to the ST0264/V1.1 carpentry and joinery end-point assessment plan for this apprenticeship. The dispensation will run until all apprentices registered to ST0264/V1.1 are complete, including resits and retakes, and will be withdrawn when the dispensation is no longer necessary.End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider. \u00A0The key changes are: \nAssessment Method – Practical:\nRevised tolerances to ensure valid and reliable assessment. The EPAO should contact the EQAP for details on the revised tolerances.",
+  "occupationCode": "OCC0264",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -282,7 +287,7 @@
         "685842a0-6cd6-4d16-a00d-47aed9dd336e",
         "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fccd425-7533-4c00-8468-a973b0532bfc",
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
@@ -300,7 +305,7 @@
       "mappedKnowledge": [
         "309a716c-01e2-43e0-9efd-398038e70cb6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
         "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
@@ -319,7 +324,7 @@
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
         "e211f7b4-65ec-4afd-af36-5150942caa79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
         "db4fc8d4-c18a-422a-9a6b-ae9941d58859"
@@ -338,7 +343,7 @@
       "mappedKnowledge": [
         "f048f8d0-b7c5-4466-b918-c2ffd3821879"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
         "25e731b1-7321-4870-9eb1-5e5f099517ce",
@@ -350,12 +355,12 @@
       "dutyID": "0005ab18-d469-438d-a383-3f84667d8807",
       "dutyDetail": "Use and maintain hand tools, power tools and associated equipment to achieve optimum performance.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "309a716c-01e2-43e0-9efd-398038e70cb6",
         "a6143c8a-b9d7-4655-9a09-6581e95ac2a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "db4fc8d4-c18a-422a-9a6b-ae9941d58859"
       ],
@@ -373,7 +378,7 @@
         "2df0e149-2de4-44de-a941-269fd5a97e31",
         "e211f7b4-65ec-4afd-af36-5150942caa79"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de2b02e7-8649-40c5-a96d-ed292858cdd8"
       ],
@@ -391,7 +396,7 @@
       "mappedKnowledge": [
         "a2911685-37e0-48a2-bccb-2143a9bf5cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
       ],
@@ -401,7 +406,7 @@
       "dutyID": "c95c64f6-cfaa-492e-a242-1da99813c4ec",
       "dutyDetail": "Install building components including door and window frames, door and hatch linings, floor joists and coverings, straight partitions and straight staircases.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "eb507c50-ee97-4c25-a30c-9fa2cba0866a"
@@ -418,7 +423,7 @@
       "dutyID": "fcf6b057-03cd-46c1-8c9b-dcb6b68f6698",
       "dutyDetail": "Install doors, mouldings, ironmongery, service encasements, wall and floor units and fitments, cladding and staircase components.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "0d08390b-ea4f-4858-9090-5dff14b4cc1f"
@@ -437,7 +442,7 @@
       "dutyID": "f3ece219-4fa3-4774-97ca-4100129b5c11",
       "dutyDetail": "Erect inclined roofs with gables, joists, roof coverings and roof components.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1b0271e9-ab88-4838-b7d2-f0f539897e19",
         "3aec1714-ba17-43f5-abd7-93553b557c52"
@@ -454,7 +459,7 @@
       "dutyID": "bc50fe1c-6e7d-46fc-af42-c18c4d2875de",
       "dutyDetail": "Produce setting out details for the manufacture of doors, windows and opening lights, units and stairs",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55a8c972-2171-478c-b81c-f42dfab417b7",
         "30ef27fd-8f98-40ca-90b8-ae30b43a8717"
@@ -471,7 +476,7 @@
       "dutyID": "3df5e0d1-0e05-4df7-abdc-64375fac7bf8",
       "dutyDetail": "Mark out timber from setting out details for the manufacture of doors, windows and opening lights, units and/or fitments and staircases.",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "38bbc905-e3e6-4744-a142-e7d700c3d025"
       ],
@@ -487,7 +492,7 @@
       "dutyID": "f31f8834-6710-41cd-9466-90ae73da99ab",
       "dutyDetail": "Create, fit and assemble components to manufacture doors, windows with opening lights, units and/or fitments and staircases",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "55a8c972-2171-478c-b81c-f42dfab417b7",
         "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
@@ -510,7 +515,7 @@
       "dutyID": "4c207be1-8462-4357-99b0-b740682f1400",
       "dutyDetail": "Operate fixed workshop machinery in order to create joinery components",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "ea3ef0b5-2e52-4629-a799-e017e35bb594",
         "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
@@ -525,5 +530,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
+      "title": "Site Carpenter",
+      "occupationCode": "OCC0264B"
+    },
+    {
+      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
+      "title": "Architectural Joiner",
+      "occupationCode": "OCC0264A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-07-11T00:00:00"
 }
