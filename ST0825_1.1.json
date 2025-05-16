@@ -1,0 +1,724 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 548,
+  "referenceNumber": "ST0825",
+  "learningAimClassCode": "",
+  "title": "DevOps engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0825",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "End-point assessment plan revised",
+  "changedDate": "2024-09-26T00:00:00",
+  "earliestStartDate": "2024-09-26T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Enabling organisations to get valuable working software out in front of active users and improving the quality of digital services.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "engineer",
+    "ict",
+    "digital",
+    "production",
+    "software"
+  ],
+  "jobRoles": [
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "Platform Engineer",
+    "Reliability Engineer",
+    "Site Reliability Engineer",
+    "Build and Release Engineer",
+    "Automation Engineer",
+    "Full Stack Developer",
+    "Deployment Engineer"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include A levels; a level 3 apprenticeship or other relevant qualification; relevant experience and/or an aptitude test.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/oztau3yw/st0825_devops_engineer_l4-ap-for-publication_v3_1.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide and diverse range of public and private sector organisations, from tech start ups through government departments to multinationals. Essentially any organisation of any size that builds and/or operates modern IT services.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to enable organisations to get valuable working software out in front of active users, both external and internal, frequently and safely, reducing time to market, delivering increased value - both with respect to the end user and the business - and improving the quality of digital services.&#160; At its simplest, DevOps is a philosophy and way of working that brings together two historically disparate parts of the IT organisation, namely those who develop the software and those who are then required to support it in the live environment.&#160; The DevOps Engineer encapsulates both disciplines, requiring the individual to understand and appreciate how their code functions when being used in the real world and troubleshoot any issues that may arise, while taking a cloud-infrastructure focused perspective.&#160; This means taking responsibility for all aspects of the development and operations process - the design, build, test, implement, release and continual iteration of products.&#160; Utilizing the advantages of Cloud computing to enable infrastructure to be defined in code moves the operations side away from traditional system administrator roles which are focused on troubleshooting traditional infrastructure-as-hardware.&#160; The convergence of these two topics drives DevOps culture and ways of working and creates the need for the new role of DevOps Engineer that works within the delivery team. The DevOps Engineer applies all the DevOps culture and software engineering disciplines to codified infrastructure.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of agile development teams, other areas within the organisation’s IT department and business areas, as well as 3rd-party suppliers.&#160; This is an office based or remote working role, with co-location preferable.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively with a minimum of direct supervision within broad but generally well defined parameters, requiring the application of knowledge and understanding, skills and methods in a broad range of complex or technical work activities, performed in a variety of contexts.&#160; They will address problems which are non-routine while normally fairly well defined, taking responsibility for courses of action, including, where relevant, responsibility for the work of others and allocation of resources.&#160; They will typically pair with other technical roles, or work alone at times, and provide input to the planning of work and advise on design.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+      "detail": "Continuous Integration - the benefits of frequent merging of code, the creation of build artefacts and ensuring all tests pass, with automation throughout - including common tooling."
+    },
+    {
+      "knowledgeId": "5913e7ac-74a6-4939-bb40-c1c2b05b240b",
+      "detail": "The principles of distributed Source Control, including how to exploit the features of the tool, such as branching."
+    },
+    {
+      "knowledgeId": "24a3078d-61e9-41f8-ba2d-429507b41538",
+      "detail": "How to use data ethically and the implications for wider society, with respect to the use of data, automation and artificial intelligence within the context of relevant data protection policy and legislation."
+    },
+    {
+      "knowledgeId": "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+      "detail": "The business value of DevOps in terms of Time, Cost, Quality, with an emphasis on building in internal Quality throughout the lifetime of the product."
+    },
+    {
+      "knowledgeId": "416450ea-41c5-4180-b3ab-a635dcfcfca4",
+      "detail": "A range of modern security tools and techniques - e.g. threat modelling, vulnerability scanning and dependency checking, with a general awareness of penetration testing - in order to deal with threats and attack vectors within code and across the cyber domain."
+    },
+    {
+      "knowledgeId": "73875b59-fe7e-47a6-a990-54c2d99a3781",
+      "detail": "A range of problem solving techniques appropriate to the task at hand, such as affinity mapping, impact maps, plan-do-check-act/Deming."
+    },
+    {
+      "knowledgeId": "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+      "detail": "General purpose programming and infrastructure-as-code."
+    },
+    {
+      "knowledgeId": "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+      "detail": "Immutable infrastructure and how it enables continuous refreshing of software, namely the updating of the operating system, container and security patching."
+    },
+    {
+      "knowledgeId": "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+      "detail": "Different organisational cultures, the development frameworks utilised and how they can both complement each other and introduce constraints on delivery."
+    },
+    {
+      "knowledgeId": "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+      "detail": "How the user experience sits at the heart of modern development practices in terms of strategies to understand diverse user needs, accessibility and how to drive adoption."
+    },
+    {
+      "knowledgeId": "d429f163-429c-41a1-b290-ccae25cd1247",
+      "detail": "Monitoring and alerting technologies and an awareness of the insights that can be derived from the infrastructure and applications - collecting logs and metrics, configuring alerting thresholds, firing alerts and visualising data."
+    },
+    {
+      "knowledgeId": "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
+      "detail": "The persistence/data layer, including which database/storage technologies are appropriate to each platform type and application when considering non-functional and functional needs; e.g. monolith, microservice, read heavy, write heavy, recovery plans."
+    },
+    {
+      "knowledgeId": "6920da28-147b-43a0-b0f8-c5a34edf41eb",
+      "detail": "Automation techniques, such as scripting and use of APIs."
+    },
+    {
+      "knowledgeId": "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
+      "detail": "Test Driven Development and the Test Pyramid.  How the practice is underpinned by unit testing, the importance of automation, appropriate use of test doubles and mocking strategies, reducing a reliance on end-to-end testing."
+    },
+    {
+      "knowledgeId": "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+      "detail": "The principles and application of Continuous Integration, Continuous Delivery and Continuous Deployment, including the differences between them."
+    },
+    {
+      "knowledgeId": "ef339342-bd69-4050-8a96-8b53a8951cfd",
+      "detail": "How best to secure data; e.g. encryption in transit, encryption at rest and access control lists (ACL)."
+    },
+    {
+      "knowledgeId": "f4cefcce-deda-4da8-bfe5-d67454cd82c9",
+      "detail": "What an API is, how to find them and interpret the accompanying documentation."
+    },
+    {
+      "knowledgeId": "31ec255b-e1c6-40aa-902d-ca3decc3e6a0",
+      "detail": "Roles within a multidisciplinary team and the interfaces with other areas of an organisation."
+    },
+    {
+      "knowledgeId": "3da8f361-92b4-47c1-8024-49187f61c976",
+      "detail": "Different methods of communication and choosing the appropriate one - e.g. face-to-face (synchronous, high bandwidth), instant messaging, email (asynchronous, low bandwidth), visualisations vs. words."
+    },
+    {
+      "knowledgeId": "7f114758-5145-4284-8f30-d0b0b4dc9ce6",
+      "detail": "Pair/mob programming techniques and when to use each technique."
+    },
+    {
+      "knowledgeId": "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
+      "detail": "Architecture principles, common patterns and common strategies for translating user needs into both cloud infrastructure and application code."
+    },
+    {
+      "knowledgeId": "50a23f86-67e5-4264-ac6d-256d6c6b034a",
+      "detail": "How their occupation fits into the wider digital landscape and any current or future regulatory requirements."
+    },
+    {
+      "knowledgeId": "619f28db-ad65-4e0f-a3bf-9ce3723b48f4",
+      "detail": "The importance of continual improvement within a blameless culture."
+    },
+    {
+      "knowledgeId": "970e7088-fbae-4ebe-ac40-89b328757c88",
+      "detail": "The difference between Software-as-a-Service (SaaS) v bespoke v enterprise tooling and how to make an informed choice that suits each use case."
+    },
+    {
+      "knowledgeId": "581599e4-a9dd-44cf-94c4-b595f0bfe065",
+      "detail": "Maintain an awareness of cloud certification requirements."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+      "detail": "Exhibits enthusiasm, openness and an aptitude for working as part of a collaborative community; e.g. sharing best practice, pairing with team members, learning from others and engaging in peer review practices."
+    },
+    {
+      "behaviourId": "64872230-bd0c-4c78-bde1-b2ba7ecce64b",
+      "detail": "Invests time and effort in their own development, recognising that technology evolves at a rapid rate."
+    },
+    {
+      "behaviourId": "4e7f1a0c-e825-499e-97b7-06edfdfefc58",
+      "detail": "Displays a commitment to the mantra 'You build it, you run it', taking ownership of deployed code and being accountable for its continual improvement, learning from experience and taking collective responsibility when things fail."
+    },
+    {
+      "behaviourId": "96209f96-fcf0-4339-84ce-2d8cb5ef623e",
+      "detail": "Is inclusive, professional and maintains a blameless culture."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+      "detail": "Communicate credibly with technical and non-technical people at all levels, using a range of methods; e.g. ‘Show and Tell’ and ‘Demonstrations’."
+    },
+    {
+      "skillId": "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
+      "detail": "Work within different organisational cultures with both internal and external parties"
+    },
+    {
+      "skillId": "6b7e8c84-3f45-442a-aeae-c739466ef48e",
+      "detail": "Translate user needs into deliverable tasks, writing clear, concise and unambiguous user stories that the whole team can understand."
+    },
+    {
+      "skillId": "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+      "detail": "Initiate and facilitate knowledge sharing and technical collaboration"
+    },
+    {
+      "skillId": "549ce19f-92ed-4b3a-947b-ec54062ceed7",
+      "detail": "Deploy immutable infrastructure"
+    },
+    {
+      "skillId": "45036e15-1f1f-41a6-9902-9b422d6dc1c4",
+      "detail": "Install, manage and troubleshoot monitoring tools"
+    },
+    {
+      "skillId": "79b2d690-b224-46bd-82c4-51292e1b2514",
+      "detail": "Navigate and troubleshoot stateful distributed systems, in order to locate issues across the end-to-end service."
+    },
+    {
+      "skillId": "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+      "detail": "Work in agile, multi-disciplinary delivery teams, taking a flexible, collaborative and pragmatic approach to delivering tasks."
+    },
+    {
+      "skillId": "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+      "detail": "Application of a range of cloud security tools and techniques - e.g. threat modelling, vulnerability scanning, dependency checking, reducing attack surface area - incorporating these tools and techniques into the automated pipeline wherever possible."
+    },
+    {
+      "skillId": "921f310e-7fb4-4b89-b348-00a96f2392ce",
+      "detail": "Assess identified and potential security threats and take appropriate action based on likelihood v impact."
+    },
+    {
+      "skillId": "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+      "detail": "Employ a systematic approach to solving problems, using logic and hypotheses / experimentation to identify the source of issues."
+    },
+    {
+      "skillId": "04c328d5-36e2-4bcd-aece-e872a1e9e0b1",
+      "detail": "Automate tasks where it introduces improvements to the efficiency of business processes and reduces waste, considering the effort and cost of automation."
+    },
+    {
+      "skillId": "140d5450-48cb-444d-a4ed-9a40baabfd9f",
+      "detail": "Engage in productive pair/mob programming."
+    },
+    {
+      "skillId": "6a2e8f42-fe4b-4026-8277-6c3a272c102b",
+      "detail": "Write tests and follow Test Driven Development discipline in various different contexts."
+    },
+    {
+      "skillId": "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+      "detail": "Release automation and orchestration as part of a Continuous Integration workflow and Continuous Delivery pipeline, automating the delivery of code from source control to the end users."
+    },
+    {
+      "skillId": "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+      "detail": "Invest in continuous learning, both your own development and others, ensuring learning activities dovetail with changing job requirements.  Keep up with cutting edge."
+    },
+    {
+      "skillId": "41653924-1cc1-4979-8610-e080a60329a9",
+      "detail": "Code in a general purpose programming language."
+    },
+    {
+      "skillId": "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+      "detail": "Specify cloud infrastructure in an infrastructure-as-code domain-specific language."
+    },
+    {
+      "skillId": "eb3589f7-8404-4f97-b4fb-18b104bc30e1",
+      "detail": "Interpret logs and metrics data within the appropriate context to identify issues and make informed decisions."
+    },
+    {
+      "skillId": "c6da0806-a53c-473f-a171-db58041595ac",
+      "detail": "Writing code in such a way that makes merging easier and facilitates branching by abstraction - i.e. feature toggling."
+    },
+    {
+      "skillId": "2d9cc8ea-3828-4df4-811b-3ec3ed0f0649",
+      "detail": "Application of lightweight modelling techniques, such as whiteboarding, in order to gain consensus as a team on evolving architecture."
+    },
+    {
+      "skillId": "a633e7cf-1184-433a-a9d5-e6b01e055090",
+      "detail": "Incremental refactoring by applying small behaviour-preserving code changes to evolve the architecture."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2020-03-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0442",
+  "tbMainContact": "andrew.sheppard@outsystems.com",
+  "involvedEmployers": "Cabinet Office, DBS, HSE, DVLA, Hackney Council, DfE, HMPO, MoJ, Home Office, ONS, DVSA, DWP, HMRC, IBM, BT, MadeTech,, Digi2al, Credit Suisse, BPDTS, Militant South, Corndel,, Capgemini,Softwire, BAE, ANS Group, ZenInternet, Virgin Media,, Fujitsu, GVC Group, Dee Set, KPMG, Solent Uni, Bath Uni, PPL UK,, QA, 3, Financial Times, Nationwide, Invotra, Aveva, Door Funds,, Makers Academy, BB, Santander, Amazon",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "DevOps Engineer",
+    "Infrastructure Engineer",
+    "Platform Engineer",
+    "Reliability Engineer",
+    "Site Reliability Engineer",
+    "Build and Release Engineer",
+    "Automation Engineer",
+    "Full Stack Developer",
+    "Deployment Engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": null,
+  "createdDate": "2024-09-26T11:14:13 +00:00",
+  "lastUpdated": "2024-09-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-03-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0825",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "6dd3429c-7b4d-493c-82f2-6cf8069ebd01",
+      "dutyDetail": "Script and code in at least one general purpose language and at least one domain-specific language to orchestrate infrastructure, follow test driven development and ensure appropriate test coverage.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "64872230-bd0c-4c78-bde1-b2ba7ecce64b",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "416450ea-41c5-4180-b3ab-a635dcfcfca4",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
+        "6920da28-147b-43a0-b0f8-c5a34edf41eb",
+        "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
+        "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "140d5450-48cb-444d-a4ed-9a40baabfd9f",
+        "6a2e8f42-fe4b-4026-8277-6c3a272c102b",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "c6da0806-a53c-473f-a171-db58041595ac",
+        "a633e7cf-1184-433a-a9d5-e6b01e055090"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f8f8a514-5381-49c2-a01e-f449fc40c85a",
+      "dutyDetail": "Initiate and facilitate knowledge sharing and technical collaboration with teams and individuals, with a focus on supporting development of team members.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "64872230-bd0c-4c78-bde1-b2ba7ecce64b",
+        "96209f96-fcf0-4339-84ce-2d8cb5ef623e"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "31ec255b-e1c6-40aa-902d-ca3decc3e6a0",
+        "3da8f361-92b4-47c1-8024-49187f61c976",
+        "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+        "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "2d9cc8ea-3828-4df4-811b-3ec3ed0f0649"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a57a99d8-d0a5-4067-8ca0-2aa490b43f80",
+      "dutyDetail": "Engage in productive pair/mob programming to underpin the practice of peer review.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+        "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+        "140d5450-48cb-444d-a4ed-9a40baabfd9f",
+        "6a2e8f42-fe4b-4026-8277-6c3a272c102b",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df8489ad-c3f3-4263-b827-57447a085a09",
+      "dutyDetail": "Work as part of an agile team, and explore new ways of working, rapidly responding to changing user needs and with a relentless focus on the user experience.  Understand the importance of continual improvement within a blameless culture.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58",
+        "96209f96-fcf0-4339-84ce-2d8cb5ef623e"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "31ec255b-e1c6-40aa-902d-ca3decc3e6a0",
+        "3da8f361-92b4-47c1-8024-49187f61c976",
+        "50a23f86-67e5-4264-ac6d-256d6c6b034a",
+        "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+        "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
+        "6b7e8c84-3f45-442a-aeae-c739466ef48e",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "2d9cc8ea-3828-4df4-811b-3ec3ed0f0649"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7eb26b73-9fce-4ad1-98c7-fceb481e4641",
+      "dutyDetail": "Build and operate a Continuous Integration (CI) capability, employing version control of source code and related artefacts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+        "5913e7ac-74a6-4939-bb40-c1c2b05b240b",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
+        "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "04c328d5-36e2-4bcd-aece-e872a1e9e0b1",
+        "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "c6da0806-a53c-473f-a171-db58041595ac"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "224e9a43-0d71-454a-8716-89043068afef",
+      "dutyDetail": "Implement and improve release automation & orchestration, often using Application Programming Interfaces (API), as part of a continuous delivery and continuous deployment pipeline, ensuring that team(s) are able to deploy new code rapidly and safely.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+        "5913e7ac-74a6-4939-bb40-c1c2b05b240b",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+        "f4cefcce-deda-4da8-bfe5-d67454cd82c9",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "549ce19f-92ed-4b3a-947b-ec54062ceed7",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "04c328d5-36e2-4bcd-aece-e872a1e9e0b1",
+        "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "c6da0806-a53c-473f-a171-db58041595ac"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c86c7fd-1321-45f8-9c93-8f0e356efae7",
+      "dutyDetail": "Provision cloud infrastructure using APIs, continually improve infrastructure-as-code, considering use of industry leading technologies as they become available (e.g. Serverless, Containers).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+        "5913e7ac-74a6-4939-bb40-c1c2b05b240b",
+        "24a3078d-61e9-41f8-ba2d-429507b41538",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
+        "6920da28-147b-43a0-b0f8-c5a34edf41eb",
+        "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
+        "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+        "f4cefcce-deda-4da8-bfe5-d67454cd82c9",
+        "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "549ce19f-92ed-4b3a-947b-ec54062ceed7",
+        "45036e15-1f1f-41a6-9902-9b422d6dc1c4",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "04c328d5-36e2-4bcd-aece-e872a1e9e0b1",
+        "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "2d9cc8ea-3828-4df4-811b-3ec3ed0f0649",
+        "a633e7cf-1184-433a-a9d5-e6b01e055090"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2fd5c6b2-3c1d-4f86-a715-0d8f186d5184",
+      "dutyDetail": "Evolve and define architecture, utilising the knowledge and experience of the team to design in an optimal user experience, scalability, security, high availability and optimal performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+        "24a3078d-61e9-41f8-ba2d-429507b41538",
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
+        "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+        "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+        "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "921f310e-7fb4-4b89-b348-00a96f2392ce",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "2d9cc8ea-3828-4df4-811b-3ec3ed0f0649",
+        "a633e7cf-1184-433a-a9d5-e6b01e055090"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a9ebcf2-ad4a-4a71-b716-c96854d89e8e",
+      "dutyDetail": "Apply leading security practices throughout the Software Development Lifecycle (SDLC).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "24a3078d-61e9-41f8-ba2d-429507b41538",
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "416450ea-41c5-4180-b3ab-a635dcfcfca4",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
+        "ef339342-bd69-4050-8a96-8b53a8951cfd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6b7e8c84-3f45-442a-aeae-c739466ef48e",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "921f310e-7fb4-4b89-b348-00a96f2392ce",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "6a2e8f42-fe4b-4026-8277-6c3a272c102b",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "536aaabc-0759-4e8b-8b93-88d13605facd",
+      "dutyDetail": "Implement a good coverage of monitoring (metrics, logs), ensuring that alerts are visible, tuneable and actionable.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "6920da28-147b-43a0-b0f8-c5a34edf41eb",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6b7e8c84-3f45-442a-aeae-c739466ef48e",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "45036e15-1f1f-41a6-9902-9b422d6dc1c4",
+        "79b2d690-b224-46bd-82c4-51292e1b2514",
+        "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97",
+        "eb3589f7-8404-4f97-b4fb-18b104bc30e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "43d939cf-84ea-465e-8b82-d11af85571c7",
+      "dutyDetail": "Keep up with cutting edge by committing to continual training and development - utilise web resources for self-learning; horizon scanning; active membership of professional bodies such as Meetup Groups; subscribe to relevant publications.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "64872230-bd0c-4c78-bde1-b2ba7ecce64b"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "50a23f86-67e5-4264-ac6d-256d6c6b034a",
+        "619f28db-ad65-4e0f-a3bf-9ce3723b48f4",
+        "970e7088-fbae-4ebe-ac40-89b328757c88",
+        "581599e4-a9dd-44cf-94c4-b595f0bfe065"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "2fce42f5-820f-40a1-b1c3-c0d5683843ff"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db7f6d4d-3f93-4872-a31e-361f79f9698c",
+      "dutyDetail": "Look to automate any manual tasks that are repeated, often using APIs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58"
+      ],
+      "mappedKnowledge": [
+        "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "5fed72c4-d479-4c04-bbd7-f443c2c887f9",
+        "5e29b12e-e23f-44a8-9260-72447f50b5f8",
+        "d429f163-429c-41a1-b290-ccae25cd1247",
+        "6920da28-147b-43a0-b0f8-c5a34edf41eb",
+        "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
+        "281249f6-70d0-4fb7-b197-fb48278fb2d7",
+        "f4cefcce-deda-4da8-bfe5-d67454cd82c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "549ce19f-92ed-4b3a-947b-ec54062ceed7",
+        "79b2d690-b224-46bd-82c4-51292e1b2514",
+        "04c328d5-36e2-4bcd-aece-e872a1e9e0b1",
+        "9eef4a04-084b-4c1c-9dc3-4d620d571ed8",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed7aaa4a-dfc9-4c8b-bef9-af7bf9191a49",
+      "dutyDetail": "Accept ownership of changes; embody the DevOps culture of 'you build it, you run it', with a relentless focus on the user experience.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80dd8b76-99b8-498d-ba0b-fde56c88ebd5",
+        "4e7f1a0c-e825-499e-97b7-06edfdfefc58",
+        "96209f96-fcf0-4339-84ce-2d8cb5ef623e"
+      ],
+      "mappedKnowledge": [
+        "00d4f734-8310-4054-a0f2-a11a0df9f3b2",
+        "73875b59-fe7e-47a6-a990-54c2d99a3781",
+        "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
+        "c81b42b6-6bfd-458a-af5d-d80f7c991279",
+        "50a23f86-67e5-4264-ac6d-256d6c6b034a",
+        "619f28db-ad65-4e0f-a3bf-9ce3723b48f4",
+        "970e7088-fbae-4ebe-ac40-89b328757c88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
+        "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
+        "a775ba6b-73b5-432c-bc1c-7a28892f5516",
+        "45036e15-1f1f-41a6-9902-9b422d6dc1c4",
+        "79b2d690-b224-46bd-82c4-51292e1b2514",
+        "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
+        "5d9a1807-9a68-49da-bde5-7f3682ce2748",
+        "41653924-1cc1-4979-8610-e080a60329a9",
+        "20fe9ee4-2d62-49ca-bff0-66bb3afd4d97"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-09-26T00:00:00"
+}
