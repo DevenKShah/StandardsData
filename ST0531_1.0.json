@@ -1,33 +1,44 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 472,
   "referenceNumber": "ST0531",
+  "learningAimClassCode": "",
   "title": "Wood product manufacturing operative",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/472",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0531",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-02-01T00:00:00",
+  "changedDate": "2023-02-15T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Producing wood products for the construction and furniture industries.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "wood products",
+    "wood components",
+    "furniture industries",
+    "wood product manufacturing",
+    "furniture"
+  ],
   "jobRoles": [
     "machinist",
     "CNC (Computer Numerically Controlled) operative",
     "finishing operative/sprayer and assembler"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4104/st0531_wood-product-manufacturing-operative_l2_for-publication_260320.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7387/st0531_wood-product-manufacturing-operative_l2_for-publication_260320em.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the manufacturing sector, producing wood products for the construction and furniture industries. Wood product manufacturing is at the engineering end of woodworking and forms a critical part of the emerging pre-manufactured solutions sector, identified in the Farmer Review as key to the future of construction. It supplies products to the housing, commercial, public and building sectors. Employers range from small to large, with a prevalence in the medium to large end of the market. Specialism in single product type is particularly common in the larger end of the market. The broad purpose of the occupation is to produce high volume, repetitive, engineered products from timber. Presenting a wide and varied specification for both external and interior applications, products such as roofing components, windows, doors, door-sets, staircases and other timber construction items including trussed rafters, spandrel panels, metal web beams, and I-beams.As well as utilising traditional materials, they use engineered and modified timbers to support product design and delivery, for example Accoya and Thermowood. They cut, layout and assemble materials, working to a specification. Depending on the product, they may install fixtures and fittings, apply finishes and add glazing systems. Wood product manufacturing operatives typically work individually but can also form part of a larger production team and will report to the production supervisor/manager. Workplaces can be wide ranging from small workshops to large state of the art manufacturing facilities. In their daily work, an employee in this occupation interacts with customers, delivery personnel, design office, internal stores and suppliers, depending on the size of the organisation. An employee in this occupation will be responsible for completing their own work to specification, with minimal supervision, ensuring they meet set deadlines. They are responsible for meeting quality requirements and working in accordance with health and safety and environmental considerations.&lt;/p&gt;",
   "knowledges": [
     {
@@ -251,25 +262,28 @@
       "detail": "Complete work documentation, for example job sheets, time cards."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0369",
-  "tbMainContact": "tony.batchelor@bwf.org.uk",
+  "tbMainContact": " Karen.wood@stairways.co.uk, tyson@lignumassociates.com ",
   "involvedEmployers": "Arbor Forest Products, Barnsdale Windows Ltd, British Woodworking Federation, Cotswold Manufacturing Ltd, Didac Ltd, EA Higginson, ERW Joinery, JT Ward Joinery, Neville Joinery, Patchett Joinery, Stairways, Westport Timber Window and Door Technology",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -278,14 +292,20 @@
     "CNC (Computer Numerically Controlled) operative",
     "finishing operative/sprayer and assembler"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing and Process Operative/Technician",
+  "cluster": "Manufacturing and process operative or technician",
+  "clusterId": "262",
+  "clusterDescription": null,
   "createdDate": "2020-12-24T10:47:36 +00:00",
-  "lastUpdated": "2020-12-24T10:47:36 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wood-product-manufacturing-operative-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/wood-product-manufacturing-operative-v1-0",
+  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0531",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0531-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0531-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -304,7 +324,7 @@
         "a6243196-a2b3-4e00-9795-c38b9e5dc85f",
         "9b7064a8-b0b6-4da6-b508-af12cfed8be2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -335,7 +355,7 @@
         "a6243196-a2b3-4e00-9795-c38b9e5dc85f",
         "9b7064a8-b0b6-4da6-b508-af12cfed8be2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -366,7 +386,7 @@
         "d574ee1c-96f9-436a-8b61-1698fe524c4f",
         "a35dcbbc-816a-48be-a01f-37d9f7ca4cd6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -392,7 +412,7 @@
         "7a4e871d-fdca-4e06-9abf-c2c9e16af09d",
         "775a3e91-bc81-42c7-b9d7-d3492d06e7e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -427,7 +447,7 @@
         "6967b85d-b9af-4015-a6de-ddc256a62e6d",
         "76d33959-e253-490b-b036-80184279ea91"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -452,7 +472,7 @@
         "7a4e871d-fdca-4e06-9abf-c2c9e16af09d",
         "02b82b63-0c52-43eb-ac22-a138fa7bb815"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -482,7 +502,7 @@
         "93fc00e9-c487-4ea1-ab66-1838f23379d8",
         "76d33959-e253-490b-b036-80184279ea91"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -511,7 +531,7 @@
         "93fc00e9-c487-4ea1-ab66-1838f23379d8",
         "275d6bf7-4b75-4c71-892f-9cb96a4b3f2e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -541,7 +561,7 @@
         "d574ee1c-96f9-436a-8b61-1698fe524c4f",
         "a35dcbbc-816a-48be-a01f-37d9f7ca4cd6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -571,7 +591,7 @@
         "f99f2db1-0a4c-43bf-9673-d66bf9d38943",
         "f6e917fa-b6f0-4424-93d7-fba59cc53c27"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "976709f1-c2d9-4e45-8af3-58eed56fe7fd",
         "178550ae-c248-4099-8a35-a0620c1abefc",
@@ -584,5 +604,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-15T00:00:00"
 }
