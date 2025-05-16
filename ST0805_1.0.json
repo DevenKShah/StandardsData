@@ -1,21 +1,35 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 588,
   "referenceNumber": "ST0805",
+  "learningAimClassCode": "",
   "title": "Construction equipment maintenance mechanic",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/588",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0805",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2023-01-26T00:00:00",
   "earliestStartDate": "2020-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Service, maintain and repair the wide range of construction-based equipment used within the construction and allied industries.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "engineering",
+    "construction",
+    "civil",
+    "manufacturing",
+    "repair",
+    "service",
+    "mechanic"
+  ],
   "jobRoles": [
     "Plant mechanic",
     "Plant fitter",
@@ -24,13 +38,12 @@
     "Maintenance engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4335/st0805_construction_equipment_maintenance_mechanic_l2_for-publication_epa_c27-qm-150620.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7262/st0805_construction_equipment_maintenance_mechanic_l2_for-publication_epa_c27-qm-150620em.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "5231 - Vehicle technicians, mechanics and electricians",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, plant and tool hire industry as well as allied industries such as rail plant, demolition and quarrying that use construction-based equipment. The broad purpose of the occupation is to service, maintain and repair the wide range of construction-based equipment used within the construction and allied industries such as mobile cranes, excavators, disc cutters, crushers, demolition plant, road-rail equipment, water pumps, telescopic handlers etc. so that they function correctly, safely and efficiently, allowing construction and other projects to be carried out efficiently and on time. This occupation provides a vital support service that is crucial to the prosperity of the country through completion of vital infrastructure projects such a (nuclear) power generation, roads, rail, airports etc.&lt;br /&gt;&lt;br /&gt;The construction equipment mechanic checks, services and undertakes basic fault finding activities and will either through their own fault-finding activities or through given instructions, remove, dismantle, repair, assemble and refit a plethora of components, and ensure that the item of plant is fully functional prior to handover to the operational side.&lt;br /&gt;&lt;br /&gt;Construction equipment mechanics work not just within construction but also work in other areas including quarrying, demolition, utilities (water/gas/electric etc.), piling, rail, waste/landfill, housing, highways etc... In their daily work, an employee in this occupation interacts with customers, members of the public, supervisors, co-workers, other trades/occupations, supporting occupations, managers, suppliers, safety professionals, manufacturers, administration staff. The mechanic can be mobile, working on-site on a national basis and/or workshop-based undertaking maintenance activities in all weathers. This may include working on their own although subject to overall guidance and direction by others. The work can include weekend and night work to cover breakdowns on roadworks, rail maintenance projects etc.&lt;br /&gt;&lt;br /&gt;Construction related environments including site-based, mobile, workshop based in and outdoors in all seasons.. An employee in this occupation will be responsible for ensuring they have the right tools and resources such as oils, lubricants and parts for each task. They analyse problems or defects, identify any repair issues and undertake maintenance tasks whilst applying the correct manufacturer’s technical information required and in conformance with legislative requirements. They work under generic supervision either within a workshop or on site but are expected to be both autonomous and the technical focal point during any maintenance activity.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, plant and tool hire industry as well as allied industries such as rail plant, demolition and quarrying that use construction-based equipment. The broad purpose of the occupation is to service, maintain and repair the wide range of construction-based equipment used within the construction and allied industries such as mobile cranes, excavators, disc cutters, crushers, demolition plant, road-rail equipment, water pumps, telescopic handlers etc. so that they function correctly, safely and efficiently, allowing construction and other projects to be carried out efficiently and on time. This occupation provides a vital support service that is crucial to the prosperity of the country through completion of vital infrastructure projects such a (nuclear) power generation, roads, rail, airports etc.&lt;br&gt;&lt;br&gt;The construction equipment mechanic checks, services and undertakes basic fault finding activities and will either through their own fault-finding activities or through given instructions, remove, dismantle, repair, assemble and refit a plethora of components, and ensure that the item of plant is fully functional prior to handover to the operational side.&lt;br&gt;&lt;br&gt;Construction equipment mechanics work not just within construction but also work in other areas including quarrying, demolition, utilities (water/gas/electric etc.), piling, rail, waste/landfill, housing, highways etc... In their daily work, an employee in this occupation interacts with customers, members of the public, supervisors, co-workers, other trades/occupations, supporting occupations, managers, suppliers, safety professionals, manufacturers, administration staff. The mechanic can be mobile, working on-site on a national basis and/or workshop-based undertaking maintenance activities in all weathers. This may include working on their own although subject to overall guidance and direction by others. The work can include weekend and night work to cover breakdowns on roadworks, rail maintenance projects etc.&lt;br&gt;&lt;br&gt;Construction related environments including site-based, mobile, workshop based in and outdoors in all seasons.. An employee in this occupation will be responsible for ensuring they have the right tools and resources such as oils, lubricants and parts for each task. They analyse problems or defects, identify any repair issues and undertake maintenance tasks whilst applying the correct manufacturer’s technical information required and in conformance with legislative requirements. They work under generic supervision either within a workshop or on site but are expected to be both autonomous and the technical focal point during any maintenance activity.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "25d64ed0-87e5-4348-a2db-d60dbb992a7d",
@@ -217,25 +230,28 @@
       "detail": "Working activities in compliance with legislation, regulations, best practice and organisational requirements in the construction, industrial, quarrying, hire, port, mining and other allied environments"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Construction Industry Training Board (CITB)",
-    "contactName": "Dawn Hillier",
-    "contactAddress": "Carthusian Court<br>12 Carthusian Street<br>LONDON<br>EM1M 6EZ",
-    "contactEmail": "Quality.assurance@citb.co.uk",
-    "webLink": "https://www.citb.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-08-07T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0124",
-  "tbMainContact": "rob.allen@cleehill.co.uk hudson.raunds@btinternet.com peter.brown@cpa.uk.net",
+  "tbMainContact": "peter.brown@cpa.uk.net",
   "involvedEmployers": "A Plant, CRH Plant, Ainscough Cranes, Hanson, Long Water Gravel, Selwood, Keltbray, A P Webb, Speedy Hire, Steve Foster Cranes, HTC Wolffkran, Eagle Plant, Clancy Docwra, Day Group, Wirtgen, Hope Cement, Volvo, Camfaud, William Birch, Chepstow International Plant, Fox (Owmby) Ltd, Qunito Crane Hire, Roger Bullivant, AFI Group, Crowland Cranes, Lavendon Group",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -246,14 +262,20 @@
     "Mobile engineer",
     "Maintenance engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "cluster": "Service, repair and or or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": null,
   "createdDate": "2019-08-09T08:15:32 +00:00",
-  "lastUpdated": "2020-06-23T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-equipment-maintenance-mechanic-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-equipment-maintenance-mechanic-v1-0",
+  "lastUpdated": "2023-01-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-08-07T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "occupationCode": "OCC0805",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0805-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0805-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -282,7 +304,7 @@
         "94901226-265b-402e-a8f7-ffd4eff1b3e1",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -321,7 +343,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -361,7 +383,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
         "fdc03718-d4a4-4a54-943a-36d39d8d8e4a",
@@ -402,7 +424,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -447,7 +469,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -491,7 +513,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -535,7 +557,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -585,7 +607,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "21eab5b7-d82e-4d85-870d-ba300b34b754",
@@ -630,7 +652,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -670,7 +692,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -711,7 +733,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "3d9b8332-ce38-4527-9325-1a33aa27baad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -760,7 +782,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -806,7 +828,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -851,7 +873,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -891,7 +913,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c318e59b-f417-44c2-a4ee-ad6ea2d5a6f0",
         "01a6b358-077c-4c40-a135-28546c15e41b",
@@ -930,7 +952,7 @@
         "3d9b8332-ce38-4527-9325-1a33aa27baad",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01a6b358-077c-4c40-a135-28546c15e41b",
         "e36e794b-75bb-41c7-935f-329fc1c40d9b"
@@ -970,7 +992,7 @@
         "94901226-265b-402e-a8f7-ffd4eff1b3e1",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -1014,7 +1036,7 @@
         "7544a709-3816-4c75-8921-eae768e2e76b",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
         "01a6b358-077c-4c40-a135-28546c15e41b",
@@ -1055,7 +1077,7 @@
         "94901226-265b-402e-a8f7-ffd4eff1b3e1",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -1101,7 +1123,7 @@
         "94901226-265b-402e-a8f7-ffd4eff1b3e1",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01a6b358-077c-4c40-a135-28546c15e41b",
         "e36e794b-75bb-41c7-935f-329fc1c40d9b"
@@ -1129,7 +1151,7 @@
         "a581f7b5-e8d6-4888-8a44-9f99d21140de",
         "94901226-265b-402e-a8f7-ffd4eff1b3e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -1178,7 +1200,7 @@
         "94901226-265b-402e-a8f7-ffd4eff1b3e1",
         "0977389c-b062-4d7c-9a91-72cdb00f82d4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9e9aad2c-2cc2-4f9a-ab68-87945f932a1d",
         "a00fdfd4-01d2-42a2-85e8-fa8e28a7d4e8",
@@ -1202,5 +1224,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-01-26T00:00:00"
 }
