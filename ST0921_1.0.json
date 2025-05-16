@@ -1,60 +1,909 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 660,
   "referenceNumber": "ST0921",
+  "learningAimClassCode": "",
   "title": "Arboriculturist",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0921",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-12-02T00:00:00",
+  "earliestStartDate": "2021-09-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Undertake tree inspections and surveys.",
   "level": 4,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 30,
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
-  "keywords": [],
+  "keywords": [
+    "tree",
+    "horticulture",
+    "forestry",
+    "arboriculturist",
+    "landscape",
+    "environment care"
+  ],
   "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "entryRequirements": "&lt;p&gt;There are no statutory entry requirements for the arboriculturist apprenticeship and no entry requirements have been defined to keep this flexible for employers. Parts of the industry are likely to require a level 2 or 3 arboricultural qualification or arborist apprenticeship and associated practical experience. Other sub sectors a related level 2 or 3 qualification or higher-level qualification from anther industry sector may suffice.&amp;nbsp;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1cdepz3j/st0921-arboriculturist-epa-060225.pdf",
+  "ssa1": "3 Agriculture, Horticulture and Animal Care",
+  "ssa2": "3.2 Horticulture and forestry",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in arboricultural, utility, facilities management and grounds maintenance organisations. These include local authorities, arboricultural consultancies, estates, commercial organisations and charities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to undertake tree inspections and surveys, recording information on tree management databases and to evaluate each tree individually. Although evaluating a tree requires balancing a wide range of factors and is complex and varied by nature, Arboriculturists focus on well-defined and more commonly found situations. The Arboriculturist would be supported when dealing, for example, with ancient or veteran trees, those that are rare, those that are of historical or cultural importance or those involved in subsidence.&amp;nbsp; They supervise contractors undertaking specified tree works and can check for the safety of the site and quality of work.&lt;br&gt;&lt;br&gt;Arboriculturists comply with legislation in relation to trees including making sure relevant authorities have approved work to be undertaken. They provide tree related advice – management and law. They manage woodland, having oversight of budgets, make grant applications and preparing quotes. They manage clients and engage with the public.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with colleagues, the general public, stakeholders, clients, landowners, lawyers, insurers, budget holders and organisations managing built infrastructure (for example utility companies, highways, street lighting, waterways, railways).&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for:&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Assessing tree health and risk&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Managing contractors&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Dealing with complaints&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Understanding and applying law relating to trees&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Planning and prioritising survey requirements to ensure work delivery and discharge of legal Duty of Care and to prepare and assess planning applications&lt;/p&gt;\n&lt;p&gt;&#183;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; Complying with legislation and regulation regarding trees, woodlands and forests to include tree preservation orders, conservation zones, felling licenses and other designations.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "e8723375-8650-4d87-b609-3a3fb9d6fc20",
+      "detail": "British Standards relevant to arboricultural works including 3998 (tree works) and 5837 (trees in relation to design, demolition and construction)."
+    },
+    {
+      "knowledgeId": "351af51c-ee5e-4e99-a92f-abc55a077393",
+      "detail": "Principles of tree growth, physiology, characteristics and reaction to pruning."
+    },
+    {
+      "knowledgeId": "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+      "detail": "The life stages of a tree including propagation techniques, aging process, deadwood habitats and veteran tree management. "
+    },
+    {
+      "knowledgeId": "4f931b80-b8ed-4d22-9b84-f84a564e5868",
+      "detail": "Characteristics of tree pests and pathogens, their impact on the tree health and performance, and management responses.  "
+    },
+    {
+      "knowledgeId": "b5339fdd-ddd4-43f0-af9e-cdd3058b7df7",
+      "detail": "Principles of soil science."
+    },
+    {
+      "knowledgeId": "f4ea0820-08f3-4f39-90c4-93df9d5e0b74",
+      "detail": "Hazard assessment methodologies in relation to a single tree."
+    },
+    {
+      "knowledgeId": "47e1841a-7613-409c-8d3a-d1d69b7c4b93",
+      "detail": "Basic principles of woodland management."
+    },
+    {
+      "knowledgeId": "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+      "detail": "Types of tree works related to tree form, function, and client expectation, their specification and implications for tree health, safety and aesthetics.  "
+    },
+    {
+      "knowledgeId": "382d858a-641e-4bc5-870d-1d95213c4b94",
+      "detail": "Classification of trees and their taxonomy; application of nomenclature (including cultivars where appropriate) per scientific convention. "
+    },
+    {
+      "knowledgeId": "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+      "detail": "Implications of legislation and industry best practice guidance when undertaking tree work operations and their impact on team management, policy and process for example H&S Act, specialist training requirements, Working at Height, LOLER, PUWER, AFAG, COSSH. "
+    },
+    {
+      "knowledgeId": "267b1176-35c1-406f-9638-74817d8274e0",
+      "detail": "Considerations when planting trees including planting systems, site factors, species selection, protection, aftercare and British Standard 8545 "
+    },
+    {
+      "knowledgeId": "6b1aca1c-6939-44db-bd57-75c0893e34f2",
+      "detail": "Tree bracing styles, systems and uses. "
+    },
+    {
+      "knowledgeId": "ce52413e-d037-46e3-bf58-5198647ed997",
+      "detail": "Tree inventory systems and their uses. "
+    },
+    {
+      "knowledgeId": "63c13063-37d1-40b9-840e-b90e32ab3488",
+      "detail": "Types of advanced diagnostic systems and their purpose in assessment of tree risk."
+    },
+    {
+      "knowledgeId": "1837685d-147c-48fc-a03b-5aef3feebedc",
+      "detail": "The legal framework around trees including statutory protection for trees and penalties associated with breaches of legislation and regulations."
+    },
+    {
+      "knowledgeId": "263af3be-e433-4894-b2b2-11537d014ead",
+      "detail": "Health and Safety legislation and regulations; principles related to work placed risk assessment and management, including method statements."
+    },
+    {
+      "knowledgeId": "623f35b4-2729-4c9a-9207-1dab7a366408",
+      "detail": "Conflicts between trees and the built environment including damage (direct or indirect) to infrastructure and subsidence."
+    },
+    {
+      "knowledgeId": "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+      "detail": "Benefits of trees (for example climate change adaptation, carbon sequestration, human health and wellbeing) and how these could influence management decisions. "
+    },
+    {
+      "knowledgeId": "d906628a-7234-4470-b229-c52643fd2b8c",
+      "detail": "Tree valuation systems, methodologies and their purposes."
+    },
+    {
+      "knowledgeId": "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+      "detail": "The role of an arboriculturist and how this occupation collaborates with other professions for example engineers, land managers, ecologists, landscape architects and planners.   "
+    },
+    {
+      "knowledgeId": "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+      "detail": "The principles for resilient tree populations and the application of biosecurity."
+    },
+    {
+      "knowledgeId": "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab",
+      "detail": "The characteristics of ancient trees, veteran trees and trees of historical or cultural significance.  "
+    },
+    {
+      "knowledgeId": "1fdc3a36-3eb1-4471-ab01-0587cebac59e",
+      "detail": "Sources of information on funding schemes for tree planting and management"
+    },
+    {
+      "knowledgeId": "87cc4571-8653-4306-a416-dbe3aa3a3475",
+      "detail": "Project Management principles including working within budget, systems and processes. "
+    },
+    {
+      "knowledgeId": "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+      "detail": "Contractual terms and processes for example the role of the client brief, the fee proposal, the scope and the instruction.  "
+    },
+    {
+      "knowledgeId": "6245ac7b-5448-4481-9a11-9a242834445c",
+      "detail": "Tendering, procurement processes and scoring systems. "
+    },
+    {
+      "knowledgeId": "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
+      "detail": "Principles and use of different communication tools. "
+    },
+    {
+      "knowledgeId": "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
+      "detail": "Principles of customer service including confidentiality, data management, complaints and use of social media. "
+    },
+    {
+      "knowledgeId": "ec5f9763-3ddb-4263-9378-3994b41e9bf5",
+      "detail": "Principles of sales and marketing both direct service promotion and indirect industry promotion. "
+    },
+    {
+      "knowledgeId": "d84989a1-efad-4a16-bab8-82de4070a880",
+      "detail": "Roles of different stakeholders for example client, public, councillors in management of trees and techniques for engaging with the community. "
+    },
+    {
+      "knowledgeId": "af318bea-eacd-439e-8ad2-69ed8a2809f7",
+      "detail": "Staff and team management principles including motivation, performance and work quality. "
+    },
+    {
+      "knowledgeId": "db421da9-2848-43ff-828c-448dfc5a73c7",
+      "detail": "Principles of equality, safeguarding and diversity.  "
+    },
+    {
+      "knowledgeId": "6dacec74-93f5-420a-85d3-5c1e33f26e15",
+      "detail": "Principles of managing and supporting meetings."
+    },
+    {
+      "knowledgeId": "c7042cff-5609-4504-aaf3-fc3265cf68ce",
+      "detail": "Sources of information and techniques to research, collate and analyse arboricultural information and data. "
+    },
+    {
+      "knowledgeId": "b981f8fb-6f0b-4ed0-bb11-bbd35c5f3dae",
+      "detail": "The purpose and function of tree management plans and strategies and their implications for tree management. "
+    },
+    {
+      "knowledgeId": "58dce0f1-acfd-4d23-8bd3-526f22b3686e",
+      "detail": "Methods for establishing and monitoring quality standards for tree work operations."
+    },
+    {
+      "knowledgeId": "d999350a-3231-44e7-922e-a4ccf8935b78",
+      "detail": "Methodologies, techniques and tools for inspection and measurement of trees."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+      "detail": "Act with integrity, for example being open and transparent in dealing with clients and respecting their confidentiality.    Take full responsibility for your actions. "
+    },
+    {
+      "behaviourId": "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+      "detail": "Communicates with others and takes into account cultural sensitivities and business practices"
+    },
+    {
+      "behaviourId": "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+      "detail": "Act professionally, providing a high standard of service based on sound business evidence."
+    },
+    {
+      "behaviourId": "7f829e08-7266-4138-83c0-57c6ddd59374",
+      "detail": "Adopt and promote a safety culture within the organisation and acts with regard to health, safety and wellbeing for self and others.   "
+    },
+    {
+      "behaviourId": "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3",
+      "detail": "Embed sustainable working practices."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+      "detail": "Tree inspection including assessment of health, defects, safety risks, site factors, planning requirements and aesthetics.  "
+    },
+    {
+      "skillId": "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
+      "detail": "Interpret maps and plans."
+    },
+    {
+      "skillId": "58918515-4840-4c2a-920b-3a7c3f0fb30b",
+      "detail": "Assess tree risk to inform decision making. "
+    },
+    {
+      "skillId": "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+      "detail": "Specify arboricultural works."
+    },
+    {
+      "skillId": "5f70f5aa-33bd-478d-bddd-6a5d84ff08a1",
+      "detail": "Select advanced diagnostic equipment for tree risk assessment. "
+    },
+    {
+      "skillId": "dd49a479-5bba-4553-a835-d0f629468845",
+      "detail": "Select biosecurity protocols."
+    },
+    {
+      "skillId": "a1448f72-5e5b-4522-9556-7a885f97d14b",
+      "detail": "Follow instructions and processes. "
+    },
+    {
+      "skillId": "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+      "detail": "Write arboricultural reports.  "
+    },
+    {
+      "skillId": "4d770596-c9e4-4080-b716-6881a383dc0d",
+      "detail": "Use software-based tree management systems, including associated laptop and handheld remote working equipment. "
+    },
+    {
+      "skillId": "d3f579fd-94ba-45bf-8584-01117d0c7253",
+      "detail": "Produce plans using digital mapping software (for example GIS)."
+    },
+    {
+      "skillId": "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
+      "detail": "Select and use different formats to communicate information (for example table, image, map, text, graph)."
+    },
+    {
+      "skillId": "1ecdb7ad-4d2d-45af-8518-48119e112801",
+      "detail": "Collect, research and analyse arboricultural information and data including reliable information sources."
+    },
+    {
+      "skillId": "798183eb-7306-43be-a312-c87eb13f55bc",
+      "detail": "Advise on implications of arboricultural policy, legislation, regulation and best practice including local and national planning policy."
+    },
+    {
+      "skillId": "de2c7897-306e-4302-a4b9-90a9b81ffcfa",
+      "detail": "Identification of tree species, their characteristics and requirements for healthy growth. "
+    },
+    {
+      "skillId": "947bc831-135b-4272-9ad6-e84e36d0a665",
+      "detail": "Manage projects including working within budget, systems and processes."
+    },
+    {
+      "skillId": "4e4e71ea-600c-4d82-8555-046ad29337fd",
+      "detail": "Produce quotations or tenders including defining a scope/specification of work."
+    },
+    {
+      "skillId": "a3301bed-77e1-4a26-8eb0-17266a655982",
+      "detail": "Foster professional relationships with clients, customers and colleagues and engage with the community."
+    },
+    {
+      "skillId": "4d1dc262-7439-47c5-86fa-81e3e7979190",
+      "detail": "Negotiate with colleagues and stakeholders to achieve desired outcomes. "
+    },
+    {
+      "skillId": "6fdd0104-182e-4158-a179-6cdf9f6665e0",
+      "detail": "Communicate information to technical and non- technical audiences using a range of techniques."
+    },
+    {
+      "skillId": "f6e7fb00-f3bd-4aaa-9a58-6b1bef9ef8bd",
+      "detail": "Take meeting notes or minutes."
+    },
+    {
+      "skillId": "27678be3-34c8-4872-a949-cfa5c7261fcc",
+      "detail": "Seek further information from managers, supervisors or colleagues, when necessary. "
+    },
+    {
+      "skillId": "61648bca-ee78-4639-8a82-edfbe3af50f7",
+      "detail": "Create and evaluate relevant risk assessments and method statements for arboricultural operations."
+    },
+    {
+      "skillId": "e8b7b66e-6210-443e-bb7b-713b678ce114",
+      "detail": "Provide customer service."
+    },
+    {
+      "skillId": "00fac17f-5dd2-4044-9db9-a59d36746196",
+      "detail": "Identify soil type, properties, condition and implications for tree health.  "
+    },
+    {
+      "skillId": "e79311e5-1cad-4a24-9083-01fde8c81689",
+      "detail": "Value trees as assets for both amenity and ecosystem service provision."
+    },
+    {
+      "skillId": "88609ded-750a-47a4-8157-aa61641487fe",
+      "detail": "Establish and monitor quality standards for tree work operations."
+    },
+    {
+      "skillId": "e59264fc-d890-43e6-b04d-426662062320",
+      "detail": "Promote the organisation, products, services or activities."
+    },
+    {
+      "skillId": "a9e9373b-ccb7-4e2c-abdd-20e2f74783a9",
+      "detail": "Collect tree data including taking measurements."
+    },
+    {
+      "skillId": "ec8918f8-c360-4faf-be56-8ac9f09a7715",
+      "detail": "Make tree management recommendations verbally."
+    },
+    {
+      "skillId": "ae5ada2e-bdc9-4da2-9ffd-eb1972fc869c",
+      "detail": "Identify tree pests and pathogens, assess impacts on tree health and suggest management responses.    "
+    },
+    {
+      "skillId": "f045ed5c-8af8-4579-b5ef-7646cb8f12f6",
+      "detail": "Assess tree planting practices."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-09-14T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0223",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "steve.fowkes@forestrycommission.gov.uk",
+  "involvedEmployers": "Barcham The Tree Specialists\nBarrell Tree Consultancy\nBartlett Tree Experts\nBeachwood Trees and Landscape Ltd\nCapel Manor College\nCentral Tree Services Ltd\nCleveland Tree Surgeons\nCormac Ltd\nDorset Council\nEOS Contracting\nGA Butler & Sons Ltd\nGlendale Services\nGround Control\nHi Line\nKevin Patton Tree Surgeon Ltd\nLondon Borough Barnet\nLondon Borough Lambeth\nMartin Lennon Arboricultural and Forestry Consultants\nOxfordshire County Council\nPryor & Rickett\nRingrose Tree Services\nRob Keyzor Tree Surgeons & Arboricultural Consultants\nRoot and Branch Consultants\nRoyal Botanic Gardens, Kew\nSedgemoor Tree Services\nSeed Arboriculture Ltd\nStreet Tree Limited\nThe Environment Partnership\nSSE\nTotal Trees\nTree Life\nTree Maintenance Ltd\nTreework Environmental Practice\nTretech Arbboricultural Services\nTrueman Tree Services Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2019-10-30T09:16:03 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arboriculturist#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arboriculturist",
+  "greenJobTitles": [
+    "Arboricultural consultant",
+    "Arboricultural officer",
+    "Arboriculturist",
+    "Arborist sales representative",
+    "Assistant tree officer",
+    "Junior or assistant arboricultural consultant",
+    "Tree officer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Agriculture, Land Management and Production",
+  "cluster": "Arboriculture and forestry supervisor",
+  "clusterId": "156",
+  "clusterDescription": null,
+  "createdDate": "2025-02-10T11:40:31 +00:00",
+  "lastUpdated": "2022-12-02T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-09-14T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0921",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0921-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0921-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Arboricultural Association",
+      "level": "Technician Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Chartered Institute of Horticulture",
+      "level": "Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Society for the Environment",
+      "level": "Registered Environmental Technician – REnvTech. Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvTech through a shortened application route, recognising that the majority of registration requirements have been met.  To be awarded this status, individuals also need to be a member of a professional body that is licensed by the Society for the Environment. Further information is on the SocEnv website.",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "fd96ff56-d451-4299-a0fd-3a557ed1a29f",
+      "dutyDetail": "Advise about trees including tree management (for example pruning, watering, tree protection, roots), health, the law (for example tree preservation orders, conservation zones), risk and the role of trees in development to the public, clients and colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "e8723375-8650-4d87-b609-3a3fb9d6fc20",
+        "351af51c-ee5e-4e99-a92f-abc55a077393",
+        "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+        "f4ea0820-08f3-4f39-90c4-93df9d5e0b74",
+        "47e1841a-7613-409c-8d3a-d1d69b7c4b93",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "267b1176-35c1-406f-9638-74817d8274e0",
+        "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+        "d906628a-7234-4470-b229-c52643fd2b8c",
+        "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+        "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab",
+        "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
+        "ec5f9763-3ddb-4263-9378-3994b41e9bf5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+        "58918515-4840-4c2a-920b-3a7c3f0fb30b",
+        "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+        "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
+        "1ecdb7ad-4d2d-45af-8518-48119e112801",
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "6fdd0104-182e-4158-a179-6cdf9f6665e0",
+        "e79311e5-1cad-4a24-9083-01fde8c81689",
+        "f045ed5c-8af8-4579-b5ef-7646cb8f12f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "34eba1ac-26f6-472c-917e-27faeceed976",
+      "dutyDetail": "Interpret and deliver tree / woodland management plans with reference to the role of trees in national / local planning policy and the context in regard to development proposals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+        "6245ac7b-5448-4481-9a11-9a242834445c",
+        "d84989a1-efad-4a16-bab8-82de4070a880",
+        "58dce0f1-acfd-4d23-8bd3-526f22b3686e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "947bc831-135b-4272-9ad6-e84e36d0a665",
+        "4e4e71ea-600c-4d82-8555-046ad29337fd",
+        "a3301bed-77e1-4a26-8eb0-17266a655982",
+        "4d1dc262-7439-47c5-86fa-81e3e7979190",
+        "e79311e5-1cad-4a24-9083-01fde8c81689"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad22ba1f-b183-4691-aff6-08844e0ac586",
+      "dutyDetail": "Survey tree populations in relation to design, demolition and construction including species identification, protections, size measurements, condition management recommendations, assessment of ‘useful life’ and quality assessments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "7f829e08-7266-4138-83c0-57c6ddd59374",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "e8723375-8650-4d87-b609-3a3fb9d6fc20",
+        "351af51c-ee5e-4e99-a92f-abc55a077393",
+        "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+        "4f931b80-b8ed-4d22-9b84-f84a564e5868",
+        "b5339fdd-ddd4-43f0-af9e-cdd3058b7df7",
+        "f4ea0820-08f3-4f39-90c4-93df9d5e0b74",
+        "47e1841a-7613-409c-8d3a-d1d69b7c4b93",
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "382d858a-641e-4bc5-870d-1d95213c4b94",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "267b1176-35c1-406f-9638-74817d8274e0",
+        "6b1aca1c-6939-44db-bd57-75c0893e34f2",
+        "ce52413e-d037-46e3-bf58-5198647ed997",
+        "63c13063-37d1-40b9-840e-b90e32ab3488",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+        "d906628a-7234-4470-b229-c52643fd2b8c",
+        "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+        "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab",
+        "6dacec74-93f5-420a-85d3-5c1e33f26e15",
+        "b981f8fb-6f0b-4ed0-bb11-bbd35c5f3dae",
+        "58dce0f1-acfd-4d23-8bd3-526f22b3686e",
+        "d999350a-3231-44e7-922e-a4ccf8935b78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+        "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
+        "58918515-4840-4c2a-920b-3a7c3f0fb30b",
+        "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+        "5f70f5aa-33bd-478d-bddd-6a5d84ff08a1",
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "a1448f72-5e5b-4522-9556-7a885f97d14b",
+        "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+        "4d770596-c9e4-4080-b716-6881a383dc0d",
+        "d3f579fd-94ba-45bf-8584-01117d0c7253",
+        "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
+        "1ecdb7ad-4d2d-45af-8518-48119e112801",
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "de2c7897-306e-4302-a4b9-90a9b81ffcfa",
+        "00fac17f-5dd2-4044-9db9-a59d36746196",
+        "e79311e5-1cad-4a24-9083-01fde8c81689",
+        "a9e9373b-ccb7-4e2c-abdd-20e2f74783a9",
+        "ec8918f8-c360-4faf-be56-8ac9f09a7715",
+        "ae5ada2e-bdc9-4da2-9ffd-eb1972fc869c",
+        "f045ed5c-8af8-4579-b5ef-7646cb8f12f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1266b102-0625-44f1-823b-a9ee812e95c9",
+      "dutyDetail": "Survey trees to enable management for example for tree health, condition risk or aesthetic purposes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "7f829e08-7266-4138-83c0-57c6ddd59374",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "e8723375-8650-4d87-b609-3a3fb9d6fc20",
+        "351af51c-ee5e-4e99-a92f-abc55a077393",
+        "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+        "4f931b80-b8ed-4d22-9b84-f84a564e5868",
+        "b5339fdd-ddd4-43f0-af9e-cdd3058b7df7",
+        "f4ea0820-08f3-4f39-90c4-93df9d5e0b74",
+        "47e1841a-7613-409c-8d3a-d1d69b7c4b93",
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "382d858a-641e-4bc5-870d-1d95213c4b94",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "267b1176-35c1-406f-9638-74817d8274e0",
+        "ce52413e-d037-46e3-bf58-5198647ed997",
+        "63c13063-37d1-40b9-840e-b90e32ab3488",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+        "d906628a-7234-4470-b229-c52643fd2b8c",
+        "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+        "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab",
+        "6dacec74-93f5-420a-85d3-5c1e33f26e15",
+        "b981f8fb-6f0b-4ed0-bb11-bbd35c5f3dae",
+        "d999350a-3231-44e7-922e-a4ccf8935b78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+        "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
+        "58918515-4840-4c2a-920b-3a7c3f0fb30b",
+        "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+        "5f70f5aa-33bd-478d-bddd-6a5d84ff08a1",
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "a1448f72-5e5b-4522-9556-7a885f97d14b",
+        "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+        "4d770596-c9e4-4080-b716-6881a383dc0d",
+        "d3f579fd-94ba-45bf-8584-01117d0c7253",
+        "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
+        "1ecdb7ad-4d2d-45af-8518-48119e112801",
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "de2c7897-306e-4302-a4b9-90a9b81ffcfa",
+        "00fac17f-5dd2-4044-9db9-a59d36746196",
+        "e79311e5-1cad-4a24-9083-01fde8c81689",
+        "a9e9373b-ccb7-4e2c-abdd-20e2f74783a9",
+        "ec8918f8-c360-4faf-be56-8ac9f09a7715",
+        "ae5ada2e-bdc9-4da2-9ffd-eb1972fc869c",
+        "f045ed5c-8af8-4579-b5ef-7646cb8f12f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "da8d1789-7e1a-4527-8f19-6006ab83831c",
+      "dutyDetail": "Inspect individual trees including identification, pests and diseases, health, defects, planning requirements, risk, site / location factors and recommendations for future actions / monitoring.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "7f829e08-7266-4138-83c0-57c6ddd59374",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "351af51c-ee5e-4e99-a92f-abc55a077393",
+        "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+        "4f931b80-b8ed-4d22-9b84-f84a564e5868",
+        "b5339fdd-ddd4-43f0-af9e-cdd3058b7df7",
+        "f4ea0820-08f3-4f39-90c4-93df9d5e0b74",
+        "47e1841a-7613-409c-8d3a-d1d69b7c4b93",
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "382d858a-641e-4bc5-870d-1d95213c4b94",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "267b1176-35c1-406f-9638-74817d8274e0",
+        "6b1aca1c-6939-44db-bd57-75c0893e34f2",
+        "ce52413e-d037-46e3-bf58-5198647ed997",
+        "63c13063-37d1-40b9-840e-b90e32ab3488",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "263af3be-e433-4894-b2b2-11537d014ead",
+        "623f35b4-2729-4c9a-9207-1dab7a366408",
+        "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+        "d906628a-7234-4470-b229-c52643fd2b8c",
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+        "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+        "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab",
+        "1fdc3a36-3eb1-4471-ab01-0587cebac59e",
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+        "6245ac7b-5448-4481-9a11-9a242834445c",
+        "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
+        "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
+        "ec5f9763-3ddb-4263-9378-3994b41e9bf5",
+        "d84989a1-efad-4a16-bab8-82de4070a880",
+        "af318bea-eacd-439e-8ad2-69ed8a2809f7",
+        "db421da9-2848-43ff-828c-448dfc5a73c7",
+        "d999350a-3231-44e7-922e-a4ccf8935b78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+        "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
+        "58918515-4840-4c2a-920b-3a7c3f0fb30b",
+        "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+        "5f70f5aa-33bd-478d-bddd-6a5d84ff08a1",
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "a1448f72-5e5b-4522-9556-7a885f97d14b",
+        "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+        "a9e9373b-ccb7-4e2c-abdd-20e2f74783a9",
+        "ec8918f8-c360-4faf-be56-8ac9f09a7715",
+        "ae5ada2e-bdc9-4da2-9ffd-eb1972fc869c",
+        "f045ed5c-8af8-4579-b5ef-7646cb8f12f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d69c25da-41ea-4189-82fc-01637ce708f6",
+      "dutyDetail": "Identify and respond to tree pests and diseases for example reporting, biosecurity measures, nursery stock selection, removal, treatments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "ff7ab145-234c-4ca1-9b9f-89e01940dd3f",
+        "4f931b80-b8ed-4d22-9b84-f84a564e5868",
+        "b5339fdd-ddd4-43f0-af9e-cdd3058b7df7",
+        "382d858a-641e-4bc5-870d-1d95213c4b94",
+        "267b1176-35c1-406f-9638-74817d8274e0",
+        "da3fff82-c3cb-4a1a-be74-ad55a263515e",
+        "f6fc77ac-4f5e-4ba8-83c7-8b41df0e14ab"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "34b9404d-776a-4a52-b83c-14c8f89e6eaa",
+        "1ecdb7ad-4d2d-45af-8518-48119e112801",
+        "de2c7897-306e-4302-a4b9-90a9b81ffcfa",
+        "00fac17f-5dd2-4044-9db9-a59d36746196",
+        "ae5ada2e-bdc9-4da2-9ffd-eb1972fc869c",
+        "f045ed5c-8af8-4579-b5ef-7646cb8f12f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b3e575f-9eaf-47e2-853c-fdc0a37b93ab",
+      "dutyDetail": "Use tree management software including databases and Geographic Information Systems (GIS).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "e8723375-8650-4d87-b609-3a3fb9d6fc20",
+        "ce52413e-d037-46e3-bf58-5198647ed997"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6058fa12-bd31-4cc2-9543-a649cd3be88b",
+        "4d770596-c9e4-4080-b716-6881a383dc0d",
+        "d3f579fd-94ba-45bf-8584-01117d0c7253"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "184e25a8-60be-4961-8515-99d6a5805aab",
+      "dutyDetail": "Enforce legislation and regulation regarding trees, woodlands and forests to include tree preservation orders, conservation zones, felling licenses and other designations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b"
+      ],
+      "mappedKnowledge": [
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "623f35b4-2729-4c9a-9207-1dab7a366408",
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "a3301bed-77e1-4a26-8eb0-17266a655982",
+        "4d1dc262-7439-47c5-86fa-81e3e7979190",
+        "88609ded-750a-47a4-8157-aa61641487fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9e081e59-96fb-4814-96b5-e934006bfd87",
+      "dutyDetail": "Supervise tree work operations to specification for example planting, felling and maintenance operations, to include health and safety on site, environmental, access and quality of works.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "7f829e08-7266-4138-83c0-57c6ddd59374",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "263af3be-e433-4894-b2b2-11537d014ead",
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+        "6245ac7b-5448-4481-9a11-9a242834445c",
+        "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
+        "d84989a1-efad-4a16-bab8-82de4070a880",
+        "af318bea-eacd-439e-8ad2-69ed8a2809f7",
+        "db421da9-2848-43ff-828c-448dfc5a73c7",
+        "c7042cff-5609-4504-aaf3-fc3265cf68ce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e922ce2a-55c8-4e9b-8a30-9d90499b5940",
+        "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "947bc831-135b-4272-9ad6-e84e36d0a665",
+        "4e4e71ea-600c-4d82-8555-046ad29337fd",
+        "a3301bed-77e1-4a26-8eb0-17266a655982",
+        "4d1dc262-7439-47c5-86fa-81e3e7979190",
+        "f6e7fb00-f3bd-4aaa-9a58-6b1bef9ef8bd",
+        "27678be3-34c8-4872-a949-cfa5c7261fcc",
+        "61648bca-ee78-4639-8a82-edfbe3af50f7",
+        "e8b7b66e-6210-443e-bb7b-713b678ce114",
+        "88609ded-750a-47a4-8157-aa61641487fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1eea2650-efa6-46e7-b39e-81b6b59baedc",
+      "dutyDetail": "Supervise contractors, including motivation, quality of work, coordination of resources, health and safety. Develop relationships with customers, stakeholders and colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b",
+        "7f829e08-7266-4138-83c0-57c6ddd59374",
+        "1e86d31b-e8b1-4dca-9ff5-efc77226dfe3"
+      ],
+      "mappedKnowledge": [
+        "e852f59e-d94c-4c3f-a7fe-c0c2d4b8cc82",
+        "6ca9846a-4e5d-43bf-bb71-9d643c9d4a23",
+        "1837685d-147c-48fc-a03b-5aef3feebedc",
+        "263af3be-e433-4894-b2b2-11537d014ead",
+        "95ccb0d7-7d5c-4ec5-ad9d-2cc110c116fc",
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+        "6245ac7b-5448-4481-9a11-9a242834445c",
+        "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
+        "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
+        "ec5f9763-3ddb-4263-9378-3994b41e9bf5",
+        "d84989a1-efad-4a16-bab8-82de4070a880",
+        "af318bea-eacd-439e-8ad2-69ed8a2809f7",
+        "db421da9-2848-43ff-828c-448dfc5a73c7",
+        "c7042cff-5609-4504-aaf3-fc3265cf68ce",
+        "d999350a-3231-44e7-922e-a4ccf8935b78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0ff45efc-4b8b-475c-b38e-457b6eb71012",
+        "dd49a479-5bba-4553-a835-d0f629468845",
+        "dbe7f658-1dbf-4f87-8fbe-6e134c3d75b7",
+        "798183eb-7306-43be-a312-c87eb13f55bc",
+        "947bc831-135b-4272-9ad6-e84e36d0a665",
+        "4e4e71ea-600c-4d82-8555-046ad29337fd",
+        "a3301bed-77e1-4a26-8eb0-17266a655982",
+        "4d1dc262-7439-47c5-86fa-81e3e7979190",
+        "6fdd0104-182e-4158-a179-6cdf9f6665e0",
+        "f6e7fb00-f3bd-4aaa-9a58-6b1bef9ef8bd",
+        "27678be3-34c8-4872-a949-cfa5c7261fcc",
+        "61648bca-ee78-4639-8a82-edfbe3af50f7",
+        "e8b7b66e-6210-443e-bb7b-713b678ce114",
+        "88609ded-750a-47a4-8157-aa61641487fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac6f0781-2710-4807-a35a-4cded4b3ba37",
+      "dutyDetail": "Provide good customer service, deal with complaints and identify new opportunities for income generation. Promote the organisation, products, services or activities and the benefits of trees, woodlands and forests.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b"
+      ],
+      "mappedKnowledge": [
+        "1fdc3a36-3eb1-4471-ab01-0587cebac59e",
+        "e9ef5413-f837-4e52-94a6-ddfe98eaa678",
+        "3c4d3b7b-5c88-4072-9739-bc75ea7ca479",
+        "ec5f9763-3ddb-4263-9378-3994b41e9bf5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fdd0104-182e-4158-a179-6cdf9f6665e0",
+        "e8b7b66e-6210-443e-bb7b-713b678ce114",
+        "e59264fc-d890-43e6-b04d-426662062320"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5529b852-44e6-4467-8839-6a331aa21577",
+      "dutyDetail": "Work within defined budgets. Assist with sourcing of additional funding for example through grant applications. Write estimates and quotes for work. Develop costings for jobs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "7bd2b9ff-8831-4e7d-8604-72ce2f9db64b"
+      ],
+      "mappedKnowledge": [
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "947bc831-135b-4272-9ad6-e84e36d0a665",
+        "4e4e71ea-600c-4d82-8555-046ad29337fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46124b5a-b30e-49ca-b8c9-3a4bb0b63789",
+      "dutyDetail": "Follow systems and processes required by the organisation and report on information from those systems to monitor organisational performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03"
+      ],
+      "mappedKnowledge": [
+        "87cc4571-8653-4306-a416-dbe3aa3a3475",
+        "6cbe63a8-ac36-4d7b-a1a5-67fdc3e286a4",
+        "6245ac7b-5448-4481-9a11-9a242834445c",
+        "d999350a-3231-44e7-922e-a4ccf8935b78"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "947bc831-135b-4272-9ad6-e84e36d0a665",
+        "4e4e71ea-600c-4d82-8555-046ad29337fd",
+        "88609ded-750a-47a4-8157-aa61641487fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "caf0b1e7-97e7-4e05-895f-678b0828996c",
+      "dutyDetail": "Engage local communities in tree care and management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ee9ac0c4-4f8b-4f3a-9090-ace990d23b03",
+        "72ca14fd-0ef2-455b-b8df-5e1fd798daf9"
+      ],
+      "mappedKnowledge": [
+        "72ee8e91-9ba1-40f9-8258-de56c8aa0147",
+        "d84989a1-efad-4a16-bab8-82de4070a880"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a3301bed-77e1-4a26-8eb0-17266a655982",
+        "4d1dc262-7439-47c5-86fa-81e3e7979190"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-12-02T00:00:00"
 }
