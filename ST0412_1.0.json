@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 571,
   "referenceNumber": "ST0412",
+  "learningAimClassCode": "",
   "title": "Underkeeper",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/571",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0412",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-05-05T00:00:00",
   "earliestStartDate": "2020-07-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-12-21T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Participate in habitat management, pest and predator control and animal husbandry in support of a shooting enterprise.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
-  "keywords": [],
+  "keywords": [
+    "underkeeper",
+    "animals",
+    "environment",
+    "conservation",
+    "pest control",
+    "predator control"
+  ],
   "jobRoles": [
     "Underkeeper",
     "Gamekeeper",
@@ -23,12 +36,11 @@
     "Wildlife manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4334/st0412_underkeeper_l2_-ap_for-publishing_010620.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6063/st0412_underkeeper_l2_-ap03_for-publshing_040522.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2141 - Conservation professionals",
   "occupationalSummary": "&lt;p&gt;Occupation summary:&lt;br /&gt;This occupation is found in the game and wildlife management sector. The broad purpose of the occupation is to participate in habitat management, pest and predator control and animal husbandry in support of a shooting enterprise. As well as producing a harvestable surplus of gamebirds, an underkeeper contributes to associated conservation activities for the benefit of other flora and fauna. An underkeeper will assist on shoot days and will be expected to undertake routine estate maintenance. In their daily work, an employee in this occupation interacts with a variety of organisations and individuals, including estate managers, senior gamekeepers, police/other statutory bodies, paying guests, other land users and the general public. Underkeeper’s work under some challenging conditions and can be expected to work some unsociable hours and will be outdoors in all weathers. They need to follow instructions precisely from the headkeeper or estate manager to help deliver an estate’s management plan, but frequently operate alone and need to rely&lt;br /&gt;on their own initiative and adaptability. An employee in this occupation will be responsible for&lt;br /&gt;&lt;br /&gt;supporting the management of landscapes, wildlife and shooting activities. To fulfil these requirements an underkeeper needs to be competent and qualified in a range of practical gamekeeping skills, including animal and bird husbandry, the creation and maintenance of healthy habitat, and the responsible and appropriate use of all relevant traps, pesticides, hand tools, power tools and firearms.&lt;/p&gt;",
   "knowledges": [
     {
@@ -264,25 +276,28 @@
       "detail": "Capable of accurate rifle shooting."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0208",
   "tbMainContact": "sarah-lee@countryside-alliance.org",
   "involvedEmployers": "This gamekeeping standard has the support of over 20 estates.",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -292,32 +307,44 @@
     "Beatkeeper",
     "Wildlife manager"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Game and Pest Control Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-07-10T08:50:33 +00:00",
-  "lastUpdated": "2020-07-10T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/underkeeper-v1-0",
+  "lastUpdated": "2022-05-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0412",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0412-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0412-v1-0",
   "qualifications": [
     {
       "qualificationId": "755533cf-d737-44d4-8087-4ca8ec76615d",
       "title": "Level 2 Award in Wild Game Hygiene",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "c6fbbaeb-2416-45b9-a8af-b2e1b2e13e85",
       "title": "Pesticide Application ",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "b71bd06f-a776-4d3f-b5b3-6a470b7dcafd",
       "title": "Rat Control for Gamekeepers certificate",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -343,7 +370,7 @@
         "7b414e79-846e-459b-be52-6313baab8dc3",
         "07482362-3f0a-4b2e-897b-2b8f9351dff2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "ab6725da-dbad-49ea-ad1e-e9226679d15e",
@@ -379,7 +406,7 @@
         "7b414e79-846e-459b-be52-6313baab8dc3",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "3d96b75e-5d7f-43d7-8653-80df5d903a7d",
@@ -417,7 +444,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "cbc4468f-24fa-412a-9072-e8fc1f1ed64f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -449,7 +476,7 @@
       "mappedKnowledge": [
         "9b000085-43df-4edf-ac2d-2c6b90a2c452"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "ca04f25b-9c24-42bc-92ed-821093572c64",
@@ -481,7 +508,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "098ca9f3-1d4c-4842-823f-7f642beec3ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -516,7 +543,7 @@
         "aa339368-816e-485a-b692-a475b364c96a",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d41d410-666b-41de-ac5c-f0ae9c6273f9",
         "f3e1fb89-96fc-49e1-a024-3f7a1b8f3efd",
@@ -553,7 +580,7 @@
         "a94eeab7-eda6-4261-a3b2-c71023271a62",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "940ec877-4e68-4ac0-b4a4-b8cb831d8ff5",
@@ -595,7 +622,7 @@
         "75737602-2653-4fc3-adef-ca66894677e4",
         "f4f096eb-ae33-4032-aa37-ffb35a079c5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f45a5a09-a40f-4843-9046-8fe4e4d5fca3",
         "c4fd1608-7f0a-4e0a-94cd-1675fb37ecdd"
@@ -620,7 +647,7 @@
         "b442c78c-4782-4297-a57e-194436ed3cfa",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -651,7 +678,7 @@
         "a94eeab7-eda6-4261-a3b2-c71023271a62",
         "75737602-2653-4fc3-adef-ca66894677e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "86e85c1c-97d9-423f-9d3b-89d6ca1b6d3f",
@@ -685,7 +712,7 @@
         "aa339368-816e-485a-b692-a475b364c96a",
         "e10aee49-ed63-4553-90b6-fb8b4cf154d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d4540a-e4f2-4899-b8ba-e06e4df5ecbb",
         "940ec877-4e68-4ac0-b4a4-b8cb831d8ff5",
@@ -726,7 +753,7 @@
         "fe721aa8-48b4-4180-991e-98a6a83aebd2",
         "dc01b451-41db-4397-8acb-e0e5f4de4276"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c4fd1608-7f0a-4e0a-94cd-1675fb37ecdd",
         "adb5b3ed-f549-4538-aac5-12cf7bdcad5d"
@@ -745,12 +772,17 @@
       "mappedKnowledge": [
         "a94eeab7-eda6-4261-a3b2-c71023271a62"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "afbb9d65-1376-4ef3-aa6a-b21b74d79832"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-12-21T00:00:00"
 }
