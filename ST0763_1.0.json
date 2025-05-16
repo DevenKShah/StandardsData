@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 561,
   "referenceNumber": "ST0763",
+  "learningAimClassCode": "",
   "title": "Artificial intelligence (AI) data specialist",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/561",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0763",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-04-30T00:00:00",
@@ -12,10 +16,19 @@
   "latestEndDate": null,
   "overviewOfRole": "Discover new artificial intelligence solutions that use data to improve and automate business processes.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [],
+  "keywords": [
+    "AI",
+    "data",
+    "digital",
+    "ICT",
+    "business",
+    "Artificial intelligence"
+  ],
   "jobRoles": [
     "Machine learning engineer",
     "Artificial intelligence engineer",
@@ -25,13 +38,12 @@
     "Machine learning specialist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3685/st0763_artificial-intelligence-ai-data-specialist_l7_ap-for-publication_qm.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3685/st0763_artificial-intelligence-ai-data-specialist_l7_ap-for-publication_qm.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2139 - Information technology and telecommunications professionals n.e.c.",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in any sector or organisation that analyses high-volume or complex data sets using advanced computational methods, such as Agriculture, Environmental, Business, Leisure, Travel, Hospitality, Education, Public Services, Construction, Creative and Design, Media, Engineering, Technology, Manufacturing, Health, Science, Legal, Finance, Accountancy, Sales, Marketing, Procurement, Transport and Logistics&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to discover and devise new data-driven AI solutions to automate and optimise business processes and to support, augment and enhance human decision-making. AI Data Specialists carry out applied research in order to create innovative data-driven artificial intelligence (AI) solutions to business problems within the constraints of a specific business context. They work with datasets that are too large, too complex, too varied or too fast, that render traditional approaches and techniques unsuitable or unfeasible. &lt;br /&gt;&lt;br /&gt;AI Data Specialists champion AI and its applications within their organisation and promote adoption of novel tools and technologies, informed by current data governance frameworks and ethical best practices. &lt;br /&gt;&lt;br /&gt;They deliver better value products and processes to the business by advancing the use of data, machine learning and artificial intelligence; using novel research to increase the quality and value of data within the organisation and across the industry. They communicate, internally and externally, with technology leaders and third parties. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a broad spectrum of people and collaborates with, and provides technical authority and insight to, a diverse business community of Senior Leaders Data Scientists, Data Engineers, Statisticians, Analysts, Research and Development Scientists and Academics. Their interactions extend to working externally alongside other organisations, such as local and international governments, businesses, policy regulators, academic research scientists and non-technical audiences. They will work independently and collaboratively as required, reporting to Heads of Data, Chief Architects, Company Directors, Product Managers and senior decision makers within any organisation.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for initiating new projects in an agile environment, and collaboratively maintaining technical standards within AI solutions applied across the organisation and its customers. They lead research into AI and its potential application within the business. They collaborate with and influence policy and operations teams to identify areas where AI solutions can create new business opportunities and efficiencies.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in any sector or organisation that analyses high-volume or complex data sets using advanced computational methods, such as Agriculture, Environmental, Business, Leisure, Travel, Hospitality, Education, Public Services, Construction, Creative and Design, Media, Engineering, Technology, Manufacturing, Health, Science, Legal, Finance, Accountancy, Sales, Marketing, Procurement, Transport and Logistics&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to discover and devise new data-driven AI solutions to automate and optimise business processes and to support, augment and enhance human decision-making. AI Data Specialists carry out applied research in order to create innovative data-driven artificial intelligence (AI) solutions to business problems within the constraints of a specific business context. They work with datasets that are too large, too complex, too varied or too fast, that render traditional approaches and techniques unsuitable or unfeasible. &lt;br&gt;&lt;br&gt;AI Data Specialists champion AI and its applications within their organisation and promote adoption of novel tools and technologies, informed by current data governance frameworks and ethical best practices. &lt;br&gt;&lt;br&gt;They deliver better value products and processes to the business by advancing the use of data, machine learning and artificial intelligence; using novel research to increase the quality and value of data within the organisation and across the industry. They communicate, internally and externally, with technology leaders and third parties. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a broad spectrum of people and collaborates with, and provides technical authority and insight to, a diverse business community of Senior Leaders Data Scientists, Data Engineers, Statisticians, Analysts, Research and Development Scientists and Academics. Their interactions extend to working externally alongside other organisations, such as local and international governments, businesses, policy regulators, academic research scientists and non-technical audiences. They will work independently and collaboratively as required, reporting to Heads of Data, Chief Architects, Company Directors, Product Managers and senior decision makers within any organisation.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for initiating new projects in an agile environment, and collaboratively maintaining technical standards within AI solutions applied across the organisation and its customers. They lead research into AI and its potential application within the business. They collaborate with and influence policy and operations teams to identify areas where AI solutions can create new business opportunities and efficiencies.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fd1f6806-d2ab-4a8b-9bca-c7d3abd49eec",
@@ -298,25 +310,28 @@
       "detail": "Undertakes independent, impartial decision-making respecting the opinions and views of others in complex, unpredictable and changing circumstances"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0388",
   "tbMainContact": "huw.davies1@bbc.co.uk",
   "involvedEmployers": "British Broadcasting Corporation, Public Health England, Bank of England, Royal Mail Group, Unilever, TUI, Aviva, Shop Direct, Defence Science Technology Laboratory – MOD, Ericsson, First Response Finance LTD, GlaxoSmithKline, AstraZeneca, EasyJet, BT, Barclays, Machinable, Office of National Statistics, UBS",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -328,14 +343,20 @@
     "Artificial intelligence specialist",
     "Machine learning specialist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
-  "cluster": "Digital Solutions Professional",
+  "cluster": "Digital solutions professional",
+  "clusterId": "235",
+  "clusterDescription": null,
   "createdDate": "2019-08-28T09:53:53 +00:00",
-  "lastUpdated": "2020-05-13T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/artificial-intelligence-(ai)-data-specialist-v1-0",
+  "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-05-13T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "occupationCode": "OCC0763",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0763-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0763-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -357,7 +378,7 @@
         "7a702923-8557-4478-ae26-fc75d4066dc9",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
         "5fb38e34-8148-4275-8ddb-40d9e8133473",
@@ -391,7 +412,7 @@
         "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
         "4eeb8b05-4197-4879-863a-d4295dcb90b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
@@ -425,7 +446,7 @@
         "4eeb8b05-4197-4879-863a-d4295dcb90b6",
         "51cd0953-b387-470b-8a4b-3fa536388075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
@@ -458,7 +479,7 @@
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "99911efd-443f-4484-8b25-0c90eeb7e3d7",
         "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
@@ -484,7 +505,7 @@
         "4eeb8b05-4197-4879-863a-d4295dcb90b6",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4a452966-b9ea-4a6f-b4d1-e111a092edf2",
         "5c6bfb03-923a-473c-90b6-5483022b9d6d",
@@ -511,7 +532,7 @@
         "0a95f13b-314b-4f41-9055-3b7b301dc6d4",
         "596706b7-cec9-4cee-87bc-b729658c2e94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "24fbbb50-1f4d-406f-b557-973d5bc41ae9",
         "99911efd-443f-4484-8b25-0c90eeb7e3d7",
@@ -538,7 +559,7 @@
         "4931d527-5397-42d1-96d8-6fcc1f3849b5",
         "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c6bfb03-923a-473c-90b6-5483022b9d6d",
         "eb8c4dcb-1a66-4f5e-86d5-b5ee4e5a4aa0",
@@ -570,7 +591,7 @@
         "cb3d6b52-7170-4a7a-b8a6-994600e7ec8e",
         "51cd0953-b387-470b-8a4b-3fa536388075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1e1a16e-5fbe-4778-a271-5ee1981cd7a0",
         "075cfa31-144d-4187-98e8-4c19ea1afc3e",
@@ -599,7 +620,7 @@
         "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
         "e72b40ff-d2ea-4ce0-b4d5-474521a62ebf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
@@ -630,7 +651,7 @@
         "7f8c920f-b72f-4ee8-b2fb-51fd9bc6c587",
         "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "a56bbb66-dd52-4030-93d1-bf19d08492a6",
@@ -656,7 +677,7 @@
         "26f6453a-1f0d-4903-bdbd-af2daad5ff66",
         "3abc8cf9-ddd6-4886-b936-4dda7522279b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b7de9068-ae20-4f6a-a7da-0acb39a41ef8",
         "f6c9cf5a-5db5-4cfd-ab1a-d66cc1cbb472",
@@ -685,7 +706,7 @@
         "3189ca18-4e48-41b8-a9d2-6e8adcd145c1",
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0b0c2432-e6f8-4332-af1d-59b11def4b6c",
         "4be2e298-a177-4fd5-a86e-b22ff17a6fee",
@@ -714,7 +735,7 @@
         "bd0cbd73-4bf9-4f91-b018-a4dba20274d9",
         "4931d527-5397-42d1-96d8-6fcc1f3849b5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27651021-35d7-4415-a845-bbf4c6a12c47",
         "b333548c-9862-41c2-84e2-be3a4d0f63a4",
@@ -771,7 +792,7 @@
         "1ea6d5bb-49c4-4b62-b907-5ae53a4fca53",
         "60a6105c-4152-4434-8ed1-8319898bb6d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "075cfa31-144d-4187-98e8-4c19ea1afc3e",
         "b333548c-9862-41c2-84e2-be3a4d0f63a4"
@@ -779,5 +800,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-04-30T00:00:00"
 }
