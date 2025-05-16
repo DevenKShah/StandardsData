@@ -1,71 +1,192 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 277,
   "referenceNumber": "ST0042",
+  "learningAimClassCode": "",
   "title": "Civil engineering site management (degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/277",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0042",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2022-04-08T00:00:00",
   "earliestStartDate": "2018-05-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-02-28T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Design and manage construction projects.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
-  "route": "Construction",
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
   "keywords": [
     "degree",
     "civil engineering",
     "site management",
-    "civil engineering site management"
+    "civil engineering site management",
+    "civil engineering projects"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Site Manager",
+    "Sub Agent",
+    "Assistant Site Manager",
+    "Section Engineer"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1766/st0042_civil-engineering_site_management_l6-_assessment-plan1-clean-copy-for-publication-pdf.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/iplkyyun/st0042_civil-engineering_site_management_l6-_assessment-plan_publication-pdf_1.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;h3&gt;Occupation(s)&lt;/h3&gt;\r\n&lt;p&gt;The occupation covered by this standard is that of Civil Engineering Site Management. Typical job titles can include: Site Manager, Sub Agent, Assistant Site Manager or Section Engineer. They are associated with the management of civil engineering and infrastructure projects and are based on sites or in offices.&#160;&lt;/p&gt;\r\n&lt;h3&gt;Occupational profile&lt;/h3&gt;\r\n&lt;p&gt;The main duties and tasks in Civil Engineering Site Management are:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;To ensure that safe systems of work are in place on their site and that all staff adhere to them&lt;/li&gt;\r\n&lt;li&gt;To translate design information to construction teams so they can construct the project effectively and efficiently&lt;/li&gt;\r\n&lt;li&gt;To manage the productivity on the site so that the project is completed on time&lt;/li&gt;\r\n&lt;li&gt;To ensure that the project is completed to the specification and quality needed by the client&lt;/li&gt;\r\n&lt;li&gt;To manage the activity on site in a way that adheres to cost and contract constraints&lt;/li&gt;\r\n&lt;li&gt;To ensure that the site has minimal negative impact on the environment and community&lt;/li&gt;\r\n&lt;li&gt;To manage interfaces between stakeholders associated with the project&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;Requirements: Knowledge, Skills (and behaviours)&lt;/h3&gt;\r\n&lt;table&gt;\r\n&lt;thead&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 84px;&quot; width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 384px;&quot; width=&quot;384&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;/thead&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Civil Engineering Knowledge&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand engineering principles, codes and standards including, but not limited to: transportation, buildings, infrastructure, utilities and structures.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Civil Engineering&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand the client’s needs and the practicality of using certain engineering solutions to&lt;/p&gt;\r\n&lt;p&gt;meet those needs, taking into account constraints and opportunities.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Civil Engineering&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Techniques&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand design principles, building surveys, costing, risk analysis, sustainability, Health&lt;/p&gt;\r\n&lt;p&gt;and Safety, buildability, contract law.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Project&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand the project management cycle including the planning, budgeting, project&lt;/p&gt;\r\n&lt;p&gt;funding and payment processes so as to lead to effective project delivery.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;People and&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand principles of teamworking, staff co-ordination, supply chain management,&lt;/p&gt;\r\n&lt;p&gt;performance management and the development of people.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Quality&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand the importance maintaining of quality standards, using records, systems, tools&lt;/p&gt;\r\n&lt;p&gt;and techniques for quality improvement.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Commercial and Legal Awareness&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand budgets, costs, various forms of contract, procurement and record keeping and their impact on project success, profitability and meeting the budget.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand different forms of communication (written, verbal, electronic) and evaluate the&lt;/p&gt;\r\n&lt;p&gt;best solution for different circumstances.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Working with&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Others&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be aware of the importance of good working relationships, the needs of others and&lt;/p&gt;\r\n&lt;p&gt;equality and diversity in the workplace&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Safe Systems of&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand obligations for Health, Safety and Welfare issues on site, how to identify&lt;/p&gt;\r\n&lt;p&gt;potential hazards and manage the risks&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Understand the environmental impact of civil engineering activities and how to minimise&lt;/p&gt;\r\n&lt;p&gt;negative impacts during all stages of the project&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;table&gt;\r\n&lt;thead&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 84px;&quot; width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Skill&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 384px;&quot; width=&quot;384&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;/thead&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Civil Engineering Knowledge and&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Understanding&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;To develop and apply practical engineering solutions using established and emerging civil engineering technologies such as, but not limited to, new materials or off-site manufacture&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Civil Engineering Application&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to identify, review and select techniques, procedures and methods to undertake engineering tasks. Be able to contribute to the design, development and implementation&lt;/p&gt;\r\n&lt;p&gt;of engineering solutions and evaluate their effectiveness&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;and Leadership&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to plan for effective project management, plan and organise resources, tasks and people. Be able to manage teams and staff to meet project requirements and be able to manage quality processes.&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Commercial&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Ability&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to prepare and control budgets and apply statutory and commercial frameworks to&lt;/p&gt;\r\n&lt;p&gt;ensure profitability and adherence to budget.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Health, Safety and welfare&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to identify and manage risks of health, safety and welfare in line with legislation, hazards and safe systems of work.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Sustainable&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Development&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to manage engineering activities in a way that contributes to sustainable&lt;/p&gt;\r\n&lt;p&gt;development and implements best practice.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;84&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Interpersonal Skills and Communication&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;384&quot;&gt;\r\n&lt;p&gt;Be able to communicate well with others at all levels and discuss plans and issues. Demonstrate personal and social skills and an ability to deal with colleagues and stakeholders in a way that enhances equality and diversity. Be able to proactively transfer information to teams and staff.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;table&gt;\r\n&lt;thead&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 126px;&quot; width=&quot;126&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 342px;&quot; width=&quot;342&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;/thead&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;126&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Take Responsibility&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;342&quot;&gt;\r\n&lt;p&gt;Be responsible for your own work and that of others.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;126&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Independent Judgement&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;and Responsibility&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;342&quot;&gt;\r\n&lt;p&gt;Exercise independent engineering judgement, take responsibility for actions and decisions and operate within the constraints of own skills and knowledge.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;126&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Complying with Codes of Conduct&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;342&quot;&gt;\r\n&lt;p&gt;Be able to operate within the Institution of Civil Engineers Code of Conduct and implement work activities within the context of industry issues. Promote ethical behaviour in others and promote the construction industry.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;126&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Maintaining Continuing&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Professional Development&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;342&quot;&gt;\r\n&lt;p&gt;Identify own development needs and take appropriate action to meet those needs. Use own knowledge and expertise for the benefit of others.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The typical duration for this apprenticeship is three to four years but this will depend on the previous experience of the apprentice and access to opportunities to gain the full range of competence.&lt;/p&gt;\r\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will set their own selection criteria for this apprenticeship. As it requires achievement to Level 6 and a high level of Maths the typical entry requirements for this Apprenticeship will be the completion of the Level 4 Construction Technician Standard; EngTech TMICE status; HNC in Civil Engineering or equivalent qualifications and commensurate experience.&#160;&lt;/p&gt;\r\n&lt;h3&gt;Qualifications&lt;/h3&gt;\r\n&lt;p&gt;The following qualifications will be gained:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;BEng (Hons) Civil Engineering or equivalent Level 6 Civil Engineering Diploma, mapped to UK-Standard for Professional Engineering Competence (UK-SPEC) for Incorporated Engineer&lt;/li&gt;\r\n&lt;li&gt;Industry certificates in Site Safety Plus Site Managers’ Safety Training Scheme and Site Environmental Awareness Training Scheme which are required for safe operations in the workplace&lt;/li&gt;\r\n&lt;li&gt;English will be required to be demonstrated at Level 3 and Maths will be required to be demonstrated at Level 5 for Incorporated Engineer status. These may be demonstrated in the BEng(Hons) Civil&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;Link to professional registration&lt;/h3&gt;\r\n&lt;p&gt;This Apprenticeship will include the knowledge, skills and behaviours required to achieve Incorporated Engineer status with the Institution of Civil Engineers and lead to the designatory letters IEng MICE. The professional review process for IEng MICE is included in the final assessment process for this Apprenticeship.&lt;/p&gt;\r\n&lt;h3&gt;Level&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship standard is at Level 6.&#160;&lt;/p&gt;\r\n&lt;h3&gt;Review date&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship standard should be reviewed three years after approval of the standard.&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Occupation(s)&lt;/h3&gt;\n&lt;p&gt;The occupation covered by this standard is that of Civil Engineering Site Management. Typical job titles can include: Site Manager, Sub Agent, Assistant Site Manager or Section Engineer. They are associated with the management of civil engineering and infrastructure projects and are based on sites or in offices.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Occupational profile&lt;/h3&gt;\n&lt;p&gt;The main duties and tasks in Civil Engineering Site Management are:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;To ensure that safe systems of work are in place on their site and that all staff adhere to them&lt;/li&gt;\n&lt;li&gt;To translate design information to construction teams so they can construct the project effectively and efficiently&lt;/li&gt;\n&lt;li&gt;To manage the productivity on the site so that the project is completed on time&lt;/li&gt;\n&lt;li&gt;To ensure that the project is completed to the specification and quality needed by the client&lt;/li&gt;\n&lt;li&gt;To manage the activity on site in a way that adheres to cost and contract constraints&lt;/li&gt;\n&lt;li&gt;To ensure that the site has minimal negative impact on the environment and community&lt;/li&gt;\n&lt;li&gt;To manage interfaces between stakeholders associated with the project&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Requirements: Knowledge, Skills (and behaviours)&lt;/h3&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;thead&gt;\n&lt;tr&gt;\n&lt;th width=&quot;84&quot; style=&quot;width: 84px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;384&quot; style=&quot;width: 384px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Civil Engineering Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand engineering principles, codes and standards including, but not limited to: transportation, buildings, infrastructure, utilities and structures.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Civil Engineering&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Solutions&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand the client’s needs and the practicality of using certain engineering solutions to&lt;/p&gt;\n&lt;p&gt;meet those needs, taking into account constraints and opportunities.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Civil Engineering&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Techniques&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand design principles, building surveys, costing, risk analysis, sustainability, Health&lt;/p&gt;\n&lt;p&gt;and Safety, buildability, contract law.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Project&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand the project management cycle including the planning, budgeting, project&lt;/p&gt;\n&lt;p&gt;funding and payment processes so as to lead to effective project delivery.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;People and&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Resources&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand principles of teamworking, staff co-ordination, supply chain management,&lt;/p&gt;\n&lt;p&gt;performance management and the development of people.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Quality&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand the importance maintaining of quality standards, using records, systems, tools&lt;/p&gt;\n&lt;p&gt;and techniques for quality improvement.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commercial and Legal Awareness&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand budgets, costs, various forms of contract, procurement and record keeping and their impact on project success, profitability and meeting the budget.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand different forms of communication (written, verbal, electronic) and evaluate the&lt;/p&gt;\n&lt;p&gt;best solution for different circumstances.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Working with&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Others&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be aware of the importance of good working relationships, the needs of others and&lt;/p&gt;\n&lt;p&gt;equality and diversity in the workplace&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Safe Systems of&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Work&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand obligations for Health, Safety and Welfare issues on site, how to identify&lt;/p&gt;\n&lt;p&gt;potential hazards and manage the risks&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Understand the environmental impact of civil engineering activities and how to minimise&lt;/p&gt;\n&lt;p&gt;negative impacts during all stages of the project&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;thead&gt;\n&lt;tr&gt;\n&lt;th width=&quot;84&quot; style=&quot;width: 84px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skill&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;384&quot; style=&quot;width: 384px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Civil Engineering Knowledge and&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Understanding&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;To develop and apply practical engineering solutions using established and emerging civil engineering technologies such as, but not limited to, new materials or off-site manufacture&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Civil Engineering Application&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to identify, review and select techniques, procedures and methods to undertake engineering tasks. Be able to contribute to the design, development and implementation&lt;/p&gt;\n&lt;p&gt;of engineering solutions and evaluate their effectiveness&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Management&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;and Leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to plan for effective project management, plan and organise resources, tasks and people. Be able to manage teams and staff to meet project requirements and be able to manage quality processes.&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commercial&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Ability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to prepare and control budgets and apply statutory and commercial frameworks to&lt;/p&gt;\n&lt;p&gt;ensure profitability and adherence to budget.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health, Safety and welfare&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to identify and manage risks of health, safety and welfare in line with legislation, hazards and safe systems of work.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainable&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to manage engineering activities in a way that contributes to sustainable&lt;/p&gt;\n&lt;p&gt;development and implements best practice.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;84&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Interpersonal Skills and Communication&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;384&quot;&gt;\n&lt;p&gt;Be able to communicate well with others at all levels and discuss plans and issues. Demonstrate personal and social skills and an ability to deal with colleagues and stakeholders in a way that enhances equality and diversity. Be able to proactively transfer information to teams and staff.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;thead&gt;\n&lt;tr&gt;\n&lt;th width=&quot;126&quot; style=&quot;width: 126px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;342&quot; style=&quot;width: 342px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;/thead&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Take Responsibility&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be responsible for your own work and that of others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Independent Judgement&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;and Responsibility&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Exercise independent engineering judgement, take responsibility for actions and decisions and operate within the constraints of own skills and knowledge.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Complying with Codes of Conduct&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to operate within the Institution of Civil Engineers Code of Conduct and implement work activities within the context of industry issues. Promote ethical behaviour in others and promote the construction industry.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Maintaining Continuing&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Professional Development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Identify own development needs and take appropriate action to meet those needs. Use own knowledge and expertise for the benefit of others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The typical duration for this apprenticeship is three to four years but this will depend on the previous experience of the apprentice and access to opportunities to gain the full range of competence.&lt;/p&gt;\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\n&lt;p&gt;Individual employers will set their own selection criteria for this apprenticeship. As it requires achievement to Level 6 and a high level of Maths the typical entry requirements for this Apprenticeship will be the completion of the Level 4 Construction Technician Standard; EngTech TMICE status; HNC in Civil Engineering or equivalent qualifications and commensurate experience.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;The following qualifications will be gained:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;BEng (Hons) Civil Engineering or equivalent Level 6 Civil Engineering Diploma, mapped to UK-Standard for Professional Engineering Competence (UK-SPEC) for Incorporated Engineer&lt;/li&gt;\n&lt;li&gt;Industry certificates in Site Safety Plus Site Managers’ Safety Training Scheme and Site Environmental Awareness Training Scheme which are required for safe operations in the workplace&lt;/li&gt;\n&lt;li&gt;English will be required to be demonstrated at Level 3 and Maths will be required to be demonstrated at Level 5 for Incorporated Engineer status. These may be demonstrated in the BEng(Hons) Civil&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Link to professional registration&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship will include the knowledge, skills and behaviours required to achieve Incorporated Engineer status with the Institution of Civil Engineers and lead to the designatory letters IEng MICE. The professional review process for IEng MICE is included in the final assessment process for this Apprenticeship.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard is at Level 6.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard should be reviewed three years after approval of the standard.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The main duties and tasks in Civil Engineering Site Management are: To ensure that safe systems of work are in place on their site and that all staff adhere to them To translate design information to construction teams so they can construct the project effectively and efficiently To manage the productivity on the site so that the project is completed on time To ensure that the project is completed to the specification and quality needed by the client To manage the activity on site in a way that adheres to cost and contract constraints To ensure that the site has minimal negative impact on the environment and community To manage interfaces between stakeholders associated with the project&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "abebe3f5-a37b-46ed-b4f6-cb33d7dab5d5",
+      "detail": "Understand engineering principles, codes and standards including, but not limited to: transportation, buildings, infrastructure, utilities and structures."
+    },
+    {
+      "knowledgeId": "c06d7021-01c6-4f13-9a94-70867b0e58f4",
+      "detail": "Understand the client’s needs and the practicality of using certain engineering solutions to meet those needs, taking into account constraints and opportunities."
+    },
+    {
+      "knowledgeId": "77a4aea7-abf9-448d-882c-a9d4d0084dfc",
+      "detail": "Understand design principles, building surveys, costing, risk analysis, sustainability, Health and Safety, buildability, contract law."
+    },
+    {
+      "knowledgeId": "1aec947d-d987-47d5-9337-accdff6aaf02",
+      "detail": "Understand the project management cycle including the planning, budgeting, project funding and payment processes so as to lead to effective project delivery."
+    },
+    {
+      "knowledgeId": "0a06a4ee-9750-4901-a3d4-d74c7ddd9e1d",
+      "detail": "Understand principles of teamworking, staff co-ordination, supply chain management, performance management and the development of people."
+    },
+    {
+      "knowledgeId": "e5950a38-1a61-49f5-b387-d705c3d12110",
+      "detail": "Understand the importance maintaining of quality standards, using records, systems, tools and techniques for quality improvement."
+    },
+    {
+      "knowledgeId": "af39518a-07da-4b69-9e6a-1121700c1358",
+      "detail": "Understand budgets, costs, various forms of contract, procurement and record keeping and their impact on project success, profitability and meeting the budget."
+    },
+    {
+      "knowledgeId": "1cb22e25-8289-4295-9c34-242932cd359d",
+      "detail": "Understand different forms of communication (written, verbal, electronic) and evaluate the best solution for different circumstances."
+    },
+    {
+      "knowledgeId": "7b898ead-5f81-4ec4-9dfd-c61fbb200a99",
+      "detail": "Be aware of the importance of good working relationships, the needs of others and equality and diversity in the workplace"
+    },
+    {
+      "knowledgeId": "67554e03-02d9-48ee-8f86-6831122d07ca",
+      "detail": "Understand obligations for Health, Safety and Welfare issues on site, how to identify potential hazards and manage the risks"
+    },
+    {
+      "knowledgeId": "1efa9b67-89fe-47fe-8603-afd073149b65",
+      "detail": "Understand the environmental impact of civil engineering activities and how to minimise negative impacts during all stages of the project"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "bbc2c1cc-dafa-4694-8d59-81a2375382ea",
+      "detail": "Be responsible for your own work and that of others."
+    },
+    {
+      "behaviourId": "7cd498d6-1b06-46d3-9179-66e2fad9eede",
+      "detail": "Exercise independent engineering judgement, take responsibility for actions and decisions and operate within the constraints of own skills and knowledge."
+    },
+    {
+      "behaviourId": "95b0a778-1bee-4a69-af49-c940e46b8240",
+      "detail": "Be able to operate within the Institution of Civil Engineers Code of Conduct and implement work activities within the context of industry issues. Promote ethical behaviour in others and promote the construction industry."
+    },
+    {
+      "behaviourId": "781cf832-8bfe-4764-95a3-260d185c143a",
+      "detail": "Identify own development needs and take appropriate action to meet those needs. Use own knowledge and expertise for the benefit of others."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "9046f1b2-d1b9-4e65-8387-2f47b0ba8686",
+      "detail": "To develop and apply practical engineering solutions using established and emerging civil engineering technologies such as, but not limited to, new materials or off-site manufacture"
+    },
+    {
+      "skillId": "2bf08132-959e-41d5-ae9b-ff17e2bcb85b",
+      "detail": "Be able to identify, review and select techniques, procedures and methods to undertake engineering tasks. Be able to contribute to the design, development and implementation of engineering solutions and evaluate their effectiveness"
+    },
+    {
+      "skillId": "0ee15d66-7260-4bd1-adc0-1e3454a07699",
+      "detail": "Be able to plan for effective project management, plan and organise resources, tasks and people. Be able to manage teams and staff to meet project requirements and be able to manage quality processes. "
+    },
+    {
+      "skillId": "243c544f-87ca-4c44-a871-1a00ff74d8bf",
+      "detail": "Be able to prepare and control budgets and apply statutory and commercial frameworks to ensure profitability and adherence to budget."
+    },
+    {
+      "skillId": "cc80e7c6-e225-4e39-836b-73db941ed7e4",
+      "detail": "Be able to identify and manage risks of health, safety and welfare in line with legislation, hazards and safe systems of work."
+    },
+    {
+      "skillId": "969ae9f3-9a0b-4ed2-b6bb-028c3137316e",
+      "detail": "Be able to manage engineering activities in a way that contributes to sustainable development and implements best practice."
+    },
+    {
+      "skillId": "e68d62ff-194c-4bc0-8b3b-c7e305534a85",
+      "detail": "Be able to communicate well with others at all levels and discuss plans and issues. Demonstrate personal and social skills and an ability to deal with colleagues and stakeholders in a way that enhances equality and diversity. Be able to proactively transfer information to teams and staff."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Construction Industry Training Board (CITB)",
-    "contactName": "Dawn Hillier",
-    "contactAddress": "Carthusian Court<br>12 Carthusian Street<br>LONDON<br>EM1M 6EZ",
-    "contactEmail": "Quality.assurance@citb.co.uk",
-    "webLink": "https://www.citb.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-05-09T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "",
   "tbMainContact": "Enquiries.IFA@education.gov.uk",
   "involvedEmployers": "Aggregate Industries UK Ltd, AK Lighting &amp; Signs, Amey L G Limited, Anderson &amp; Heeley Ltd, BAM Construct UK Ltd, BAM Nuttall, Bouygues E &amp; S Infrastructure UK Ltd, Byrne Bros (Formwork) Limited, C J Bayliss (Hereford) Limited, Cable Test Limited, Carillion Civil Engineering, Centre Great Limited, Chartered Institute of Architectural Technologists, Chartered Management Institute, Civil Engineering Contractors Association, Clugston Construction Ltd, Connect Plus, Costain Ltd, E &amp; JW Glendinning Ltd, Electrical Testing Ltd, E-ON Energy Solution Ltd, Galliford Try Services Ltd, GM Briton (Public Works Ltd), H &amp; H Joiners and Builders Ltd, Herefordshire Council, Highway Electrical Association (HEA), i-Civils Ltd, Imtech Traffic &amp; Infra UK Ltd, Institute of Highway Engineers, Institution of Civil Engineers, Interserve Construction Ltd, K&amp;M McLoughlin Decorating Ltd, Kennford Tarmacadam Limited, Kier Ltd, Lovell Partnerships Ltd, Mineral Products Qualifications Council, Morgan Sindall plc, NG Bailey Ltd, Road Maintenance Services Ltd, Royal Institution of Chartered Surveyors, Seddon Construction Ltd, Skanska Construction Ltd, South West Highways Ltd, SSE Contracting Ltd, The Chartered Institute of Building, The Chartered Institution of Building Services Engineers, The Chartered Institution of Highways &amp; Transportation, The Institution of Engineering And Technology, VolkerWessels UK Ltd, Willmott Dixon Holdings Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Site Manager",
+    "Sub Agent",
+    "Assistant Site Manager",
+    "Section Engineer"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "cluster": "Design and surveying professional",
+  "clusterId": "40",
+  "clusterDescription": null,
   "createdDate": "2017-11-14T17:08:50 +00:00",
-  "lastUpdated": "2018-05-09T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-site-management-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/civil-engineering-site-management-(degree)-v1-0",
+  "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-05-09T00:00:00 +00:00",
+  "banners": "This apprenticeship was retired on 28 February 2025. Please consider\u00A0ST0417 as an alternative.",
+  "occupationCode": "OCC0042",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0042-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0042-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-02-28T00:00:00"
 }
