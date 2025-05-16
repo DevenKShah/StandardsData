@@ -1,20 +1,26 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 655,
   "referenceNumber": "ST0551",
+  "learningAimClassCode": "",
   "title": "Early years lead practitioner",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2021-02-11T00:00:00",
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0551",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-04-25T00:00:00",
+  "earliestStartDate": "2021-08-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Working directly with children, skilfully leading day to day practice.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
-  "maxFunding": 0,
-  "route": "Education and childcare",
+  "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Education and early years",
   "keywords": [
     "child",
     "wellbeing",
@@ -23,15 +29,39 @@
     "development",
     "education"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Room leader",
+    "Deputy manager",
+    "Assistant manager",
+    "Senior practitioner",
+    "Lead practitioner",
+    "Pre-school leader",
+    "Early years coordinator",
+    "Early years practitioner",
+    "Nursery officer",
+    "Early years officer",
+    "Key worker",
+    "Senior key worker",
+    "Baby room leader",
+    "Lead baby room practitioner",
+    "Play leader",
+    "Early years support worker",
+    "Higher level teaching and learning assistant",
+    "Early years foundation Stage lead or coordinator",
+    "Pastoral care manager",
+    "Pastoral assistant",
+    "Education welfare officer",
+    "Specialist practitioner in child development (health), Community nursery nurse",
+    "Health play specialist",
+    "Hospital play worker"
+  ],
   "entryRequirements": "&lt;p&gt;Undertake the Disclosure and Barring Service process and provide the result&lt;/p&gt;",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5697/st0551_early-years-lead-practitioner_l5_for-publication_11112021.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2315 - Primary and nursery education teaching professionals",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of settings which can include day nurseries, playgroups, nursery schools, pre-schools, kindergartens, primary schools, hospitals, social care settings, out of school environments and local authority provision. The broad purpose of the occupation is to be a proactive and influential practitioner, working directly with children, skilfully leading day to day practice at an operational level. As active practitioners they are effective role models of play based learning, supporting others to develop their own practice. They are highly skilled professionals who take an operational lead for the care, learning and development of all young children within their care, adapting to individual needs providing inclusive and holistic provision. They engage with sector developments both locally and nationally, with a commitment to developing their own professional and educational competencies.. In their daily work, an employee in this occupation interacts with children aged birth to eight years, families, practitioners, other professionals and appropriate agencies. An employee in this occupation will be responsible for supporting the quality of learning and development in their setting. They lead on the operational aspects of this provision and are typically responsible for leading other practitioners, an aspect or environment such as; Communication and Language, Planning and Assessment, Forest School, Physical Activity and Nutrition. They usually report directly to the head of the setting (The Manager, The Leader, The Director).&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Typical job titles:&#160;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Room leader, Deputy manager, Assistant manager, Senior practitioner, Lead practitioner, Pre-school leader, Early years coordinator&lt;/p&gt;\r\n&lt;p&gt;Early years practitioner, Nursery officer, Early years officer, Key worker, Senior key worker, Baby room leader, Lead baby room practitioner, Play leader&lt;/p&gt;\r\n&lt;p&gt;Early years support worker, Higher level teaching and learning assistant, Early years foundation Stage lead or coordinator&lt;/p&gt;\r\n&lt;p&gt;Pastoral care manager, Pastoral assistant, Education welfare officer&lt;/p&gt;\r\n&lt;p&gt;Specialist practitioner in child development (health), Community nursery nurse, Health play specialist, Hospital play worker.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of settings which can include day nurseries, playgroups, nursery schools, pre-schools, kindergartens, primary schools, hospitals, social care settings, out of school environments and local authority provision. The broad purpose of the occupation is to be a proactive and influential practitioner, working directly with children, skilfully leading day to day practice at an operational level. As active practitioners they are effective role models of play based learning, supporting others to develop their own practice. They are highly skilled professionals who take an operational lead for the care, learning and development of all young children within their care, adapting to individual needs providing inclusive and holistic provision. They engage with sector developments both locally and nationally, with a commitment to developing their own professional and educational competencies.. In their daily work, an employee in this occupation interacts with children aged birth to eight years, families, practitioners, other professionals and appropriate agencies. An employee in this occupation will be responsible for supporting the quality of learning and development in their setting. They lead on the operational aspects of this provision and are typically responsible for leading other practitioners, an aspect or environment such as; Communication and Language, Planning and Assessment, Forest School, Physical Activity and Nutrition. They usually report directly to the head of the setting (The Manager, The Leader, The Director).&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "7e16ea61-5406-4403-b42b-0546011dfd42",
@@ -262,36 +292,76 @@
       "detail": "Explore and understand, challenge and question; knowing when to act to safeguard and protect children."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-08-10T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0069",
   "tbMainContact": "laura.upton@leics.gov.uk",
-  "involvedEmployers": "",
+  "involvedEmployers": "Little Explorers Playgroup,  Our Monkey Club, Pen Green Children's Centre, Places for Children Ltd, Lilliput Montessori Day Nursery(s), Kids Planet Day Nurseries , Market Harborough Montessori Nursery, Wolds Childcare Ltd, Best Start Nurseries, School's Out, Rothley C of E Primary School, Charnwood Nursery and Pre-School",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Education and Childcare",
-  "cluster": "Early Years Education Support Practitioner",
+  "typicalJobTitles": [
+    "Room leader",
+    "Deputy manager",
+    "Assistant manager",
+    "Senior practitioner",
+    "Lead practitioner",
+    "Pre-school leader",
+    "Early years coordinator",
+    "Early years practitioner",
+    "Nursery officer",
+    "Early years officer",
+    "Key worker",
+    "Senior key worker",
+    "Baby room leader",
+    "Lead baby room practitioner",
+    "Play leader",
+    "Early years support worker",
+    "Higher level teaching and learning assistant",
+    "Early years foundation Stage lead or coordinator",
+    "Pastoral care manager",
+    "Pastoral assistant",
+    "Education welfare officer",
+    "Specialist practitioner in child development (health), Community nursery nurse",
+    "Health play specialist",
+    "Hospital play worker"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Education and Early Years",
+  "cluster": "Early years education support practitioner",
+  "clusterId": "173",
+  "clusterDescription": null,
   "createdDate": "2020-10-27T14:32:48 +00:00",
-  "lastUpdated": "2020-10-27T14:32:48 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/early-years-lead-practitioner#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/early-years-lead-practitioner",
+  "lastUpdated": "2022-04-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-08-10T00:00:00 +00:00",
+  "banners": "A revised version of this apprenticeship standard has been agreed and is available for information only at present. Further details of this and other apprenticeship standards in revision are available in the revisions status report",
+  "occupationCode": "OCC0551",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0551-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0551-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Criteria for Level 3 Early Years qualifications",
-      "level": "0",
+      "level": "Early Years Educator",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -329,7 +399,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -376,7 +446,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -422,7 +492,7 @@
         "61d6e957-7c90-4b53-8e53-eae18b475878",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -473,7 +543,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -532,7 +602,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -589,7 +659,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -641,7 +711,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "25fefd63-2d97-4e84-a585-f4bad79c2133",
@@ -688,7 +758,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
@@ -737,7 +807,7 @@
         "61d6e957-7c90-4b53-8e53-eae18b475878",
         "3e334300-e7f1-40e4-979c-47de99030138"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
@@ -783,7 +853,7 @@
         "3e334300-e7f1-40e4-979c-47de99030138",
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -826,7 +896,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "633bf347-ac7d-4754-884a-b4845a704a10",
         "43a088e4-9527-4fab-a218-f5bcba43511e",
@@ -852,7 +922,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43a088e4-9527-4fab-a218-f5bcba43511e",
         "74dd0185-cdac-4ef0-bbf9-026daba9bbba",
@@ -877,7 +947,7 @@
         "429a1f86-ff79-4c85-9f6e-f1ceeaa0cf3c",
         "76b81e24-8267-4dff-90ae-75be99063f84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "e9ae5aa2-210b-4c28-a12d-e745f9464c45",
@@ -911,7 +981,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "b09b3442-2dd7-4845-933e-cd2c35f361de",
@@ -953,7 +1023,7 @@
         "4b0d59e9-8f18-4779-8e26-0da5c2e29821",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9f6bbe6-ddc1-4a8a-996c-9927147cf831",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -997,7 +1067,7 @@
         "76b81e24-8267-4dff-90ae-75be99063f84",
         "59e2224a-3708-4061-8044-117e4c8076d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d9d412a1-bbe3-4998-b8bb-33213db0a4a1",
         "9457d588-4a91-49ed-91f2-63da14ee2721",
@@ -1019,5 +1089,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-04-25T00:00:00"
 }
