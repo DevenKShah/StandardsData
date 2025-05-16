@@ -1,60 +1,1101 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 800,
   "referenceNumber": "ST0671",
+  "learningAimClassCode": "",
   "title": "Construction equipment maintenance technician",
-  "status": "Proposal in development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0671",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2025-03-28T00:00:00",
+  "earliestStartDate": "2025-02-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Install, decommission and upgrade construction plant and equipment and ensure that plant and equipment issues are diagnosed and rectified.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 3,
+  "typicalDuration": 36,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "construction equipment",
+    "maintenance",
+    "installation",
+    "diagnostics",
+    "repair",
+    "commissioning",
+    "decommissioning"
+  ],
+  "jobRoles": [
+    "Advanced field service engineer",
+    "Construction plant advanced maintenance",
+    "Level 3 mechanic",
+    "Plant maintenance technician",
+    "Workshop technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "1 Health, Public Services and Care",
-  "ssa2": "1.1 Medicine and dentistry",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0671-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction and allied sectors, these may include manufacturers, plant hire companies, construction contractors, industry employers, or an independent maintenance or inspection organisation in employers such as within the construction, demolition, rail-plant, extractives or mineral products sectors. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to ensure that construction and allied-based plant and equipment, through technical and diagnostic activities, has been made fully functional, safe and efficient where problems occur. The technician will also complete important activities around installing, decommissioning, upgrading, modifying or adapting. They will deal with a wide range of construction-based equipment including static and mobile plant which has a high level of complexity for operational efficiencies. This complexity may include dealing with stringent engine emission requirements, where the understanding of complex programmable electronic systems together with a mechanical and a chemical conversion process is required. With the advent of mechatronic-based operations, hybrid and clean-technology equipment, the technician must be able to adapt to new and changing technologies for zero-carbon equipment. The occupation is a key role in keeping construction and allied based equipment fully functional and efficient, which can affect the delivery of national infrastructure and housing build programmes. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with customer or client representatives, site managers or site supervisors, site safety representatives, plant operatives, other site workers, sales staff, hire controllers, direct line manager or supervisor, technical advisors, manufacturing staff, co-worker and administrators. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for ensuring the safe and efficient operation of construction and allied-based static and mobile plant and equipment through activities such as examinations, inspections, diagnostics, analytical, reporting and prevention activities. This applies where the machine or equipment operation is either not fully functional or requires upgrades and adaptations. The construction equipment maintenance technician must have a strong understanding of the specific as well as generic technical aspects of each machine type, have strong problem-solving skills and able to source, interpret, diagnose and apply technical information from a wide range of electronic sources. They will also be at the forefront of dealing with new and emerging technologies such as battery-operated or high voltage mobile equipment and hydrogen-driven mobile equipment which have high levels of risks during maintenance activities if procedural requirements are not followed. They will work independently, and in many cases remotely, but will also play an active part in both planning the work of others and mentor or guide other co-workers. They must work to and specify and apply a high level of health, safety and welfare awareness as they work in challenging environments within high-risk sectors in all hours. Their role is safety critical in that both co-workers and members of the public could be placed at risk. At this level, their behavioural skills are highly important as they will be the forefront in terms of meeting and organising the work with customers, both internal and external and ultimately responsible for ensuring that any work undertaken by them or colleagues has been completed to the highest standard and within given timescales as failure to complete activities within their scope can mean that their customer or employer could be burdened with very high-penalty costs for project overruns for example overnight roadworks due to non-functioning equipment.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f2878ae5-f1ef-401c-b0ed-68d7c37b5c89",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. Barriers in communication and how to overcome them. Construction engineering terminology."
+    },
+    {
+      "knowledgeId": "c2e970e3-a827-4232-a128-28f787e94a60",
+      "detail": "Non-verbal communication techniques: gestures, facial expressions, tone of voice, eye contact, body language."
+    },
+    {
+      "knowledgeId": "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+      "detail": "Construction equipment maintenance mathematical and scientific principles: calculations, conversions, flow rates."
+    },
+    {
+      "knowledgeId": "4684b567-5093-4526-90b2-1602b0ab910d",
+      "detail": "Construction equipment maintenance mechanical principles: motion and mechanics, storage and transfer of forces and energy in operation, motors and pumps."
+    },
+    {
+      "knowledgeId": "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+      "detail": "Construction equipment maintenance electrical and electronic principles: principles of electricity and electronics, electric circuit theory, motors."
+    },
+    {
+      "knowledgeId": "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+      "detail": "Construction equipment maintenance mechatronics principles: key components of integrated mechanical and electrical systems; their design and operation."
+    },
+    {
+      "knowledgeId": "c7e0ddb1-e042-44e5-b50c-af5a77e26b8b",
+      "detail": "Engineering materials: characteristics, properties and impact on use."
+    },
+    {
+      "knowledgeId": "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+      "detail": "Environmental and sustainability regulations and guidance. Environmental hazards that can arise from construction maintenance operations. Environmental protection and management systems, environmental signage and notices. Types of pollution and control measures: noise, smells, spills, and waste. Environmental permits. Waste Electrical and Electronic Equipment Directive (WEEE). Hazardous waste regulations. Data logging to optimise equipment performance. Industry Carbon Reduction initiatives."
+    },
+    {
+      "knowledgeId": "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+      "detail": "Awareness of health and safety regulations, relevance to the occupation and the technician's responsibilities: Health and Safety at Work Act (HASWA), CDM regulations, COSHH, DSE, electrical, WAH, PUWER, LOLER, RIDDOR and near miss reporting, confined spaces, noise, management systems of occupational health and safety, emergency evacuation procedures, isolation and emergency stop procedures, lone working, manual handling, risk assessments and safe systems of work, accident and incident management and mitigation methods. safety equipment: PPE, guards, signage, fire extinguishers, situational awareness, slips, trips and falls, types of hazards."
+    },
+    {
+      "knowledgeId": "a46f34b8-251f-4a80-b77c-acb5e27caf0b",
+      "detail": "Principles of digital devices and construction machine performance aids and monitoring, application of digital technologies and information systems: connected technologies, virtual and augmented reality."
+    },
+    {
+      "knowledgeId": "144a0585-87e8-4586-8c9a-467db232733a",
+      "detail": "Construction equipment removal and decommissioning practices and techniques."
+    },
+    {
+      "knowledgeId": "a3fb673b-1424-49fd-b366-03436ed7191a",
+      "detail": "Construction equipment commissioning and installation practices and techniques."
+    },
+    {
+      "knowledgeId": "7714d407-5e55-4379-ba04-ccb188a387a7",
+      "detail": "Construction equipment maintenance practices and techniques: planned, preventative, predictive and reactive methods and their frequency."
+    },
+    {
+      "knowledgeId": "f9940672-155d-4f66-bd79-7530f7170f65",
+      "detail": "Construction equipment repair practices and techniques."
+    },
+    {
+      "knowledgeId": "982366e8-5ff8-426f-97bf-c669207261d9",
+      "detail": "Fault finding and problem-solving techniques."
+    },
+    {
+      "knowledgeId": "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+      "detail": "Construction equipment manufacturers’ instructions: what they are and how to use them. Warranties: what they are and impact on engineering work."
+    },
+    {
+      "knowledgeId": "4b412dab-599a-41b8-aed3-8634e602dbc7",
+      "detail": "Construction plant equipment and tools: types, application and operation. Maintenance, commissioning, repair, carriage and storage requirements. Calibrated equipment requirements."
+    },
+    {
+      "knowledgeId": "8dc6a1ce-0405-4341-9ff0-42c018287461",
+      "detail": "Principles of restoring the work area."
+    },
+    {
+      "knowledgeId": "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+      "detail": "Business operation considerations: efficiency, customer satisfaction, competitiveness, minimising risks to operation, ethical issues."
+    },
+    {
+      "knowledgeId": "b2737519-13dc-4aae-aa4c-b47696039361",
+      "detail": "The construction equipment maintenance sector and industry. Types of organisations, types of products and equipment. Supply chain. Customers. Customer requirements. Impacts on product demand. Customer specifications: purpose and consequences of non-compliance. "
+    },
+    {
+      "knowledgeId": "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+      "detail": "Work planning, prioritising, work scheduling, work costings and evaluations, work and time management techniques. Work management systems. Work categorisation systems."
+    },
+    {
+      "knowledgeId": "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+      "detail": "Continuous improvement techniques."
+    },
+    {
+      "knowledgeId": "17b84f26-b863-47d6-830f-cdfb424ed5f1",
+      "detail": "Documentation: methods and requirements - electronic and paper."
+    },
+    {
+      "knowledgeId": "ac9d9114-69d4-4e0a-a351-518b3c7a1fcf",
+      "detail": "Team working principles."
+    },
+    {
+      "knowledgeId": "af2b6204-be3e-4131-8c6f-e1876837b4ef",
+      "detail": "Workplace training and development techniques. "
+    },
+    {
+      "knowledgeId": "7e9bcd32-7498-4b95-89ae-797307b4f624",
+      "detail": "Equality Act. Equality, diversity and inclusion in the workplace. Unconscious bias."
+    },
+    {
+      "knowledgeId": "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+      "detail": "Written communication techniques. Written communication techniques. Plain English principles. Report writing."
+    },
+    {
+      "knowledgeId": "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+      "detail": "Principles of reading and interpreting construction equipment engineering drawings and documentation."
+    },
+    {
+      "knowledgeId": "8a6cf15b-9f00-4d62-8fda-7011a726958d",
+      "detail": "How to pass on knowledge and provide guidance to customers or stakeholders."
+    },
+    {
+      "knowledgeId": "dad831a1-38bc-40b6-acde-840f80eb094e",
+      "detail": "Quality management standards. Quality assurance principles and practice. Record keeping."
+    },
+    {
+      "knowledgeId": "81df59e9-0142-4fa5-8740-434e93b53242",
+      "detail": "Principles of organisational checks, inspections and examinations for compliance with legal and regulatory requirements."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "33826df8-7299-4618-b31c-a0c09cc9f8b8",
+      "detail": "Committed to CPD to maintain and enhance competence in their own area of practice. "
+    },
+    {
+      "behaviourId": "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+      "detail": "Take personal responsibility for their own sustainable working practices."
+    },
+    {
+      "behaviourId": "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+      "detail": "Prioritise health and safety."
+    },
+    {
+      "behaviourId": "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+      "detail": "Act in a professional manner. "
+    },
+    {
+      "behaviourId": "684a9a75-4e59-4d8d-a353-99634c55e6ab",
+      "detail": "Take responsibility for completing work."
+    },
+    {
+      "behaviourId": "fe7ccb4f-7fc1-472c-bfc5-b85b4788bf7e",
+      "detail": "Take account of diversity and inclusion requirements."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "63fa3c9f-8fa1-46d8-97e5-8f88fd86b15e",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders. "
+    },
+    {
+      "skillId": "a9b1f629-8b05-4624-a9db-9fb161a0679f",
+      "detail": "Negotiate with colleagues or stakeholders. For example, to access equipment or work areas. "
+    },
+    {
+      "skillId": "5866db3a-8070-4bf5-894b-0f5b78b8702c",
+      "detail": "Provide information, advice, guidance or instruction to colleagues or stakeholders."
+    },
+    {
+      "skillId": "8b808cd5-d111-41c1-a20c-19e82836a370",
+      "detail": "Create, maintain and enhance productive working relationships.  "
+    },
+    {
+      "skillId": "327f752e-820e-40f7-a0f4-cfb8620b096f",
+      "detail": "Prepare and write technical reports, for example incident reports, technical investigations or outcomes, equipment appraisals and specifications, improvement suggestions."
+    },
+    {
+      "skillId": "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+      "detail": "Identify and agree work goals. Plan work."
+    },
+    {
+      "skillId": "19824d47-1f4e-4e8a-8ece-23327e961a32",
+      "detail": "Use information and digital technology. Comply with GDPR and cyber security regulations and policies. "
+    },
+    {
+      "skillId": "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+      "detail": "Record or enter information - paper based or electronic, for example job sheets, risk assessments, method statements, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, organisational reporting requirements."
+    },
+    {
+      "skillId": "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+      "detail": "Identify and document hazards and risks in the workplace. Apply control measures. "
+    },
+    {
+      "skillId": "2cde4c76-1bfe-45fd-87dd-317782312460",
+      "detail": "Apply health and safety procedures and safe systems of work in compliance with regulations and standards."
+    },
+    {
+      "skillId": "d5d01607-cff2-47b0-bd30-fb08fc669511",
+      "detail": "Apply environmental and sustainability procedures in compliance with regulations and standards for example, segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+      "detail": "Investigate problems using fault-finding and diagnostic techniques to identify underlying causes. Identify solutions to problems. "
+    },
+    {
+      "skillId": "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+      "detail": "Read and interpret information, for example text, data, engineering drawings, job card, work instructions, risk assessments, method statements, operation manuals, permits to work, instructions."
+    },
+    {
+      "skillId": "c841a720-dfc9-42a3-9656-c13639214b19",
+      "detail": "Select techniques, procedures and methods to undertake tasks. "
+    },
+    {
+      "skillId": "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+      "detail": "Select and check construction plant equipment and hand tools including calibration and diagnostic equipment."
+    },
+    {
+      "skillId": "339744ae-d02a-417a-b62e-853ab4e4c450",
+      "detail": "Identify, organise and use resources to complete tasks, with consideration for cost, time, quality, safety, security and environmental impact."
+    },
+    {
+      "skillId": "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+      "detail": "Perform maintenance tasks on construction equipment."
+    },
+    {
+      "skillId": "3d9e2027-b8ee-4653-90aa-0074eb432366",
+      "detail": "Perform repair tasks on construction equipment."
+    },
+    {
+      "skillId": "9a1ab3e2-d1f5-4f36-b298-add7f5b60cc6",
+      "detail": "Carry out de-commissioning, removal and disassembly of components and equipment from construction plant."
+    },
+    {
+      "skillId": "affe1352-947a-4016-a1c7-27200433967b",
+      "detail": "Assess condition of components and equipment. Test and check equipment or systems. Identify actions required."
+    },
+    {
+      "skillId": "288571ac-6a0e-4af9-94c9-543ab372159a",
+      "detail": "Carry out assembly and installation of components and equipment from construction equipment including alterations through design and fabrication activities."
+    },
+    {
+      "skillId": "4b877bc2-0df6-4a62-ada1-945277b19ef3",
+      "detail": "Apply contamination control techniques."
+    },
+    {
+      "skillId": "4ca4eb2b-4293-4895-8fd5-3e4b208eff96",
+      "detail": "Complete commissioning checks following maintenance and repair activities."
+    },
+    {
+      "skillId": "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+      "detail": "Restore the work area on completion of the activity."
+    },
+    {
+      "skillId": "a05feebd-59d7-47e7-95fd-c16662c48773",
+      "detail": "Apply continuous improvement techniques. Devise suggestions for improvement. "
+    },
+    {
+      "skillId": "cef1ab8d-0f8d-43d2-8e63-1224e8175e18",
+      "detail": "Apply quality assurance procedures."
+    },
+    {
+      "skillId": "6bfcb2a8-e20c-4784-8f29-e05e1db8e324",
+      "detail": "Follow equality, diversity and inclusion procedures."
+    },
+    {
+      "skillId": "5a41e8cc-ea2d-4544-b22e-08b9cfdc40d2",
+      "detail": " Carry out and record planned and unplanned learning and development activities."
+    },
+    {
+      "skillId": "0204d15a-78fc-4c88-829e-9673c38c9a3e",
+      "detail": "Perform legal, regulatory and organisational checks, inspections and examinations."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2025-02-20T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0124",
-  "tbMainContact": "hudson.raunds@btinternet.com",
-  "involvedEmployers": "",
+  "tbMainContact": "d.watkin@gftomlinson.co.uk",
+  "involvedEmployers": "G F Tomlinson, CRH Plant, BAM, A J Hargreaves, Ainscough Crane Hire, Speedy Services, Liebherr GB Ltd, Eagle Platforms, GGR Group, Flannery Plant Hire, SMT GB Ltd, Clee Hill Plant, Falcon Cranes, JCB, Finning UK, HSS",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2018-11-16T14:58:46 +00:00",
-  "lastUpdated": "2018-11-16T14:58:46 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-equipment-maintenance-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-equipment-maintenance-technician",
+  "typicalJobTitles": [
+    "Advanced field service engineer",
+    "Construction plant advanced maintenance",
+    "Level 3 mechanic",
+    "Plant maintenance technician",
+    "Workshop technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, repair and or or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": null,
+  "createdDate": "2025-02-20T16:34:27 +00:00",
+  "lastUpdated": "2025-03-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2025-02-20T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0671",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0671-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0671-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Society of Operations Engineers (SOE)",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Society of Operations Engineers (SOE)",
+      "level": "Graduate",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "64e0c774-e9be-4bf0-992d-63a5e93814f2",
+      "dutyDetail": "Carry out in-depth legal, regulatory and organisational inspections and examinations of a range of construction plant and equipment, including where applicable, road-going units to ensure that legal and regulatory requirements are met.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e",
+        "81df59e9-0142-4fa5-8740-434e93b53242"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18",
+        "0204d15a-78fc-4c88-829e-9673c38c9a3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c671ef40-a7af-4948-a05e-b1f3d117606a",
+      "dutyDetail": "Carry out self-supervised scheduled checks, servicing and maintenance activities for construction-based equipment which includes electric, hybrid or alternative-fuelled equipment, in accordance with safe procedures (including isolation requirements) and manufacturers and organisational requirements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "7714d407-5e55-4379-ba04-ccb188a387a7",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f831a2e-eb1e-404e-a6d1-af8320b08e99",
+      "dutyDetail": "Carry out in-depth technical diagnostics on all construction-based equipment such as internal combustion engines, including alternative fuelled types and alternative power generations systems including electrical motors and power drives, transmission systems, chassis, steering and braking components, power generation, hydraulic, electrical including high voltage and battery and AC/DC, mechanical, hydraulic and pneumatic systems. Follow advanced analytical and diagnostic protocols using a range of advanced diagnostic tools. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "a46f34b8-251f-4a80-b77c-acb5e27caf0b",
+        "982366e8-5ff8-426f-97bf-c669207261d9",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cc045ccc-f063-4e01-bff0-b99f8291f9e5",
+      "dutyDetail": "Decommission, dismantle, repair, adapt, upgrade, rebuild and commission faulty construction equipment-based components such as internal combustion engines, including alternative fuelled types, electrical motors and power drives, transmission systems, chassis components including steering and braking systems, hydraulic, electrical including high voltage and battery, and pneumatic systems on a range of common and specialist plant and equipment types.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "144a0585-87e8-4586-8c9a-467db232733a",
+        "a3fb673b-1424-49fd-b366-03436ed7191a",
+        "f9940672-155d-4f66-bd79-7530f7170f65",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "3d9e2027-b8ee-4653-90aa-0074eb432366",
+        "9a1ab3e2-d1f5-4f36-b298-add7f5b60cc6",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "288571ac-6a0e-4af9-94c9-543ab372159a",
+        "4b877bc2-0df6-4a62-ada1-945277b19ef3",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "283f7481-5b77-41b8-b9d6-0db760495205",
+      "dutyDetail": "Identify where functional improvements of construction components and equipment should be made and upgrade, modify, adapt and produce bespoke technical components using design and fabrication activities as per manufacturer’s notification and instructions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "c7e0ddb1-e042-44e5-b50c-af5a77e26b8b",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "a46f34b8-251f-4a80-b77c-acb5e27caf0b",
+        "144a0585-87e8-4586-8c9a-467db232733a",
+        "a3fb673b-1424-49fd-b366-03436ed7191a",
+        "982366e8-5ff8-426f-97bf-c669207261d9",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "288571ac-6a0e-4af9-94c9-543ab372159a",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac977472-b384-4d70-a7d7-c793066ef644",
+      "dutyDetail": "Ensure that equipment on construction and allied sites is correctly functioning under no load conditions through the use of comprehensive diagnostic and testing equipment by undertaking commissioning activities on electronics, power management control systems, AC/DC control systems, hydraulics and pneumatics systems, mechanical systems and components.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "4ca4eb2b-4293-4895-8fd5-3e4b208eff96",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "36a7e124-87c2-4843-9af5-1f6c96487ae2",
+      "dutyDetail": "Complete written reports and other documentation for a range of examination, inspection, diagnostic and maintenance activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "f2878ae5-f1ef-401c-b0ed-68d7c37b5c89",
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "17b84f26-b863-47d6-830f-cdfb424ed5f1",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "327f752e-820e-40f7-a0f4-cfb8620b096f",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "19824d47-1f4e-4e8a-8ece-23327e961a32",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+        "3d9e2027-b8ee-4653-90aa-0074eb432366",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2ac4c0e6-5030-4b96-a92a-bd7aa207e795",
+      "dutyDetail": "Provide comprehensive technical information, guidance and advice to others using verbal, written and electronic-conveying methods using correct construction-equipment based terminology.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33826df8-7299-4618-b31c-a0c09cc9f8b8",
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "f2878ae5-f1ef-401c-b0ed-68d7c37b5c89",
+        "c2e970e3-a827-4232-a128-28f787e94a60",
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "8a6cf15b-9f00-4d62-8fda-7011a726958d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a9b1f629-8b05-4624-a9db-9fb161a0679f",
+        "5866db3a-8070-4bf5-894b-0f5b78b8702c",
+        "327f752e-820e-40f7-a0f4-cfb8620b096f",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "19824d47-1f4e-4e8a-8ece-23327e961a32",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6da8d8c-f56b-4b7f-aedc-bd413d93eb46",
+      "dutyDetail": "Identify, specify, procure or purchase a wide range of resources and equipment specific to construction equipment and their operating environment. Determine work schedule timescales and methods of work for particular maintenance activities within a given area or a range of activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "c7e0ddb1-e042-44e5-b50c-af5a77e26b8b",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a9b1f629-8b05-4624-a9db-9fb161a0679f",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+        "3d9e2027-b8ee-4653-90aa-0074eb432366",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "794e2d33-30ca-49d4-9c77-bb33aac58f74",
+      "dutyDetail": "Determine the viability of repairs, including cost-benefit analysis on a variation of construction-based equipment types, based on customer requirements and stipulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "c7e0ddb1-e042-44e5-b50c-af5a77e26b8b",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "a46f34b8-251f-4a80-b77c-acb5e27caf0b",
+        "144a0585-87e8-4586-8c9a-467db232733a",
+        "a3fb673b-1424-49fd-b366-03436ed7191a",
+        "f9940672-155d-4f66-bd79-7530f7170f65",
+        "982366e8-5ff8-426f-97bf-c669207261d9",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "327f752e-820e-40f7-a0f4-cfb8620b096f",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f88f46b6-8c49-4f8a-ad95-d3aa8cc517ba",
+      "dutyDetail": "Programme electronic and mechatronic control units for construction machine functionality to ensure safety, efficiency, emission and environmental purposes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "18938aff-544a-43e9-8265-4c06a4bd0fc4",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "19824d47-1f4e-4e8a-8ece-23327e961a32",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0b715bad-7549-43c9-8be0-6f8d08a42d2c",
+      "dutyDetail": "Specify generic and specialist health and safety control equipment and plan and apply safe working methods in conformance with construction-specific legislation, regulations, environmental, best practice and organisational requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "4684b567-5093-4526-90b2-1602b0ab910d",
+        "959989b4-e9e9-4b66-9ccf-89885bb729d1",
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "62e348e3-ef5f-4c51-b90d-c62650a1872e",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e9fb5b9d-5fe9-433e-ab11-f67164a372dd",
+      "dutyDetail": "Carry out instructional or mentoring or guidance activities to others on the effective operation, technical and performance of relevant items of construction plant, equipment, tools or accessories.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "f2878ae5-f1ef-401c-b0ed-68d7c37b5c89",
+        "c2e970e3-a827-4232-a128-28f787e94a60",
+        "b88dab08-0381-4a3a-bfa3-ced24ffe5475",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "af2b6204-be3e-4131-8c6f-e1876837b4ef",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+        "8a6cf15b-9f00-4d62-8fda-7011a726958d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "63fa3c9f-8fa1-46d8-97e5-8f88fd86b15e",
+        "5866db3a-8070-4bf5-894b-0f5b78b8702c",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e0bc473d-9b1b-4f2a-ad60-12b7b2ee3f7e",
+      "dutyDetail": "Develop and maintain effective communication between client, supplier, customer and end-user connections with the organisation relevant to technical and maintenance activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33826df8-7299-4618-b31c-a0c09cc9f8b8",
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab",
+        "fe7ccb4f-7fc1-472c-bfc5-b85b4788bf7e"
+      ],
+      "mappedKnowledge": [
+        "f2878ae5-f1ef-401c-b0ed-68d7c37b5c89",
+        "c2e970e3-a827-4232-a128-28f787e94a60",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "b2737519-13dc-4aae-aa4c-b47696039361",
+        "ac9d9114-69d4-4e0a-a351-518b3c7a1fcf",
+        "7e9bcd32-7498-4b95-89ae-797307b4f624",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+        "8a6cf15b-9f00-4d62-8fda-7011a726958d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "63fa3c9f-8fa1-46d8-97e5-8f88fd86b15e",
+        "a9b1f629-8b05-4624-a9db-9fb161a0679f",
+        "5866db3a-8070-4bf5-894b-0f5b78b8702c",
+        "8b808cd5-d111-41c1-a20c-19e82836a370",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "affe1352-947a-4016-a1c7-27200433967b",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18",
+        "6bfcb2a8-e20c-4784-8f29-e05e1db8e324",
+        "5a41e8cc-ea2d-4544-b22e-08b9cfdc40d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "791f42fd-0688-4c72-9853-1898345a0938",
+      "dutyDetail": "Prepare, maintain and restore the work area, performing housekeeping and waste management as appropriate in line with environmental and organisational requirements. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "144a0585-87e8-4586-8c9a-467db232733a",
+        "a3fb673b-1424-49fd-b366-03436ed7191a",
+        "7714d407-5e55-4379-ba04-ccb188a387a7",
+        "f9940672-155d-4f66-bd79-7530f7170f65",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "8dc6a1ce-0405-4341-9ff0-42c018287461",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "c841a720-dfc9-42a3-9656-c13639214b19",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+        "3d9e2027-b8ee-4653-90aa-0074eb432366",
+        "9a1ab3e2-d1f5-4f36-b298-add7f5b60cc6",
+        "4b877bc2-0df6-4a62-ada1-945277b19ef3",
+        "4ca4eb2b-4293-4895-8fd5-3e4b208eff96",
+        "bff30124-6f62-4285-9921-6ad06e6c4a0d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "638ab877-8120-4560-b4fd-52f74b4c311d",
+      "dutyDetail": "Carry out continuous improvement opportunities and identify possible opportunities for improvements and efficiencies. Identify and complete professional development activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33826df8-7299-4618-b31c-a0c09cc9f8b8",
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "07a453f9-44ad-4465-80fb-592ea69b9c7c",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab",
+        "fe7ccb4f-7fc1-472c-bfc5-b85b4788bf7e"
+      ],
+      "mappedKnowledge": [
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "144a0585-87e8-4586-8c9a-467db232733a",
+        "a3fb673b-1424-49fd-b366-03436ed7191a",
+        "7714d407-5e55-4379-ba04-ccb188a387a7",
+        "fcc6a98e-ae4d-4321-a938-21ce70488d0a",
+        "b2737519-13dc-4aae-aa4c-b47696039361",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "a1c2ce3a-4d6c-430d-8573-a91a245cf860",
+        "ac9d9114-69d4-4e0a-a351-518b3c7a1fcf",
+        "af2b6204-be3e-4131-8c6f-e1876837b4ef",
+        "7e9bcd32-7498-4b95-89ae-797307b4f624"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5866db3a-8070-4bf5-894b-0f5b78b8702c",
+        "8b808cd5-d111-41c1-a20c-19e82836a370",
+        "327f752e-820e-40f7-a0f4-cfb8620b096f",
+        "c2cdab7e-ceeb-4a76-bd81-a8038a5895e5",
+        "19824d47-1f4e-4e8a-8ece-23327e961a32",
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "8a538d8f-7999-461f-9ec6-7e4d2dcd48e6",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9557ab44-3300-4026-b4e2-65cbd3b56b23",
+      "dutyDetail": "Obtain, read and interpret engineering data and documentation such as engineering drawings, technical data, blueprints, schematic drawings, and technical documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dfa7cc83-bc1b-40ae-bf3c-c5ca82e02829",
+        "100edc5e-a60a-4a63-a4bb-96dd7b038c57",
+        "684a9a75-4e59-4d8d-a353-99634c55e6ab"
+      ],
+      "mappedKnowledge": [
+        "88f9f4f0-2833-4590-8fcf-cad5c312b29c",
+        "116ded2e-edab-4123-9e46-0e6bb162ae2d",
+        "7714d407-5e55-4379-ba04-ccb188a387a7",
+        "f9940672-155d-4f66-bd79-7530f7170f65",
+        "ae5411d5-c28d-46b0-8333-52deaa716cd3",
+        "4b412dab-599a-41b8-aed3-8634e602dbc7",
+        "fff6ff95-e5c8-4db6-a32d-64e8c156c60e",
+        "17b84f26-b863-47d6-830f-cdfb424ed5f1",
+        "cdc45f44-b890-40ae-99c5-1f8d78d90a4a",
+        "7fdb17e3-e3fa-47b8-a888-a0c5268366d1",
+        "dad831a1-38bc-40b6-acde-840f80eb094e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84b3aaf8-0109-40b6-9305-2dff45d2851f",
+        "7cd4aeb0-4a02-4c7c-9fc7-a6953a7e833e",
+        "2cde4c76-1bfe-45fd-87dd-317782312460",
+        "d5d01607-cff2-47b0-bd30-fb08fc669511",
+        "21a13c08-c956-4918-8b79-4ea17fdbbd36",
+        "339744ae-d02a-417a-b62e-853ab4e4c450",
+        "47ed0633-5281-4cf7-8641-72cc46c27e5b",
+        "3d9e2027-b8ee-4653-90aa-0074eb432366",
+        "a05feebd-59d7-47e7-95fd-c16662c48773",
+        "cef1ab8d-0f8d-43d2-8e63-1224e8175e18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-28T00:00:00"
 }
