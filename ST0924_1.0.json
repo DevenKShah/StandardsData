@@ -1,60 +1,1039 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 662,
   "referenceNumber": "ST0924",
-  "title": "Horticulture or landscape technical manager",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Horticulture and landscaping technical manager",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0924",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-01-23T00:00:00",
+  "earliestStartDate": "2021-09-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Build and manage parks, gardens, greenspaces and grounds.",
   "level": 5,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Horticulture",
+    "forestry",
+    "land",
+    "management",
+    "landscapring",
+    "animal",
+    "environment"
+  ],
+  "jobRoles": [
+    "horticulture consultant",
+    "greenspace manager",
+    "head gardener",
+    "garden manager",
+    "horticultural site manager",
+    "horticultural project manager",
+    "horticultural technical manager",
+    "garden and outdoor manager and technical support manager",
+    "landscaping site manager",
+    "landscaping project manager"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1tkc5vue/st0924_horticulture-and-landscape-technical-manager_l5_ap-for-publication_18072024.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in horticulture grounds maintenance, landscaping, parks, greenspaces and gardens (historic, botanic, destination and estate). They might be working for a charity, a consultancy, governmental organisation, private estate/client or commercial contractor. The broad purpose of the occupation is to develop, build and manage parks, gardens, greenspaces and grounds (e.g. business parks, schools, retail sites etc..). This includes planning the site, engaging with clients, customers and visitors, financial management and income generation. This standard is suitable for those who focus on constructing horticulture areas and those who maintain and develop them, but may use contractors for construction projects. The types of horticultural sites covered will vary depending on the employer and examples include landscape scale commercial developments, public gardens or parks.&lt;br&gt;&lt;br&gt;This occupation gathers information about a horticultural site including the history, environmental factors such as soils, habitats, designations, usage, design condition and infrastructure. They plan the future development and maintenance of the site through a management plan design, which will include ensuring the original use (e.g. stately home, castle) is mapped against future use and plans (e.g. tourist attraction). Analysis of environmental conditions of the site to include soil, water and existing vegetation. They are responsible for the implementation of those plans through direct staff and/or contractors. Progress is monitored, evaluated and responded to. They have budgetary responsibility and will need to secure funding for works which might be through commercial activities, charitable fund raising or by securing budget from their line management. In their daily work, an employee in this occupation interacts with landowners, statutory bodies, local authorities, local &amp;amp; national interest groups, ecologists, arboriculturists, other professional experts, contractors, suppliers, colleagues, volunteers and the public.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Autonomous decision making relating to horticultural sites&lt;/li&gt;\n&lt;li&gt;Budget management including financial sustainability&lt;/li&gt;\n&lt;li&gt;Health and safety of staff and public plus competence of workforce&lt;/li&gt;\n&lt;li&gt;Awarding and managing contracts and contractors&lt;/li&gt;\n&lt;li&gt;Procurement and sales&lt;/li&gt;\n&lt;li&gt;Gathering, analysing, interpreting, implementing and communicating information&lt;/li&gt;\n&lt;li&gt;Regulatory compliance&lt;/li&gt;\n&lt;li&gt;Compliance with legislative requirements for all machinery and equipment used on site and minimising their environmental impact.&lt;/li&gt;\n&lt;/ul&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5304afed-8b6e-4371-9b2c-25462a5646f4",
+      "detail": "Classification of plants using scientific, binomial, cultivars and common names as per the International Code of Plant Nomenclature. "
+    },
+    {
+      "knowledgeId": "2453902e-7285-4a1b-8084-6a21fa9fe378",
+      "detail": "Plants common in the UK and their requirements for optimal growth including cultivated plants and weeds. "
+    },
+    {
+      "knowledgeId": "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+      "detail": "Implications of environmental factors for managing horticultural sites (for example ecology, waste management, biodiversity, pollution)."
+    },
+    {
+      "knowledgeId": "4d4c235c-77a5-46d2-adba-1c78393d3999",
+      "detail": "Purpose, value, and limitations of research and recording tools for horticultural sites, for example Geographic Information System (GIS) and databases."
+    },
+    {
+      "knowledgeId": "671625c0-229d-4f9f-98b5-f23ac6726677",
+      "detail": "Types of biosecurity threat for example pests and diseases, invasive species. Legislative requirements, prevention and response (for example quarantine, site hygiene, sourcing, recording and reporting)."
+    },
+    {
+      "knowledgeId": "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+      "detail": "Legislative requirements and best practice guidance in relation to horticultural sites including use of machinery, environmental, conservation, planning, designations, finance and data protection."
+    },
+    {
+      "knowledgeId": "1e3b7a20-1d54-4727-aa71-3415b627a5f5",
+      "detail": "Techniques for promoting business, garden, open space, products or services"
+    },
+    {
+      "knowledgeId": "c337617c-02b5-44b2-a902-9b0231b7002a",
+      "detail": "Health and safety legislation and best practice guidance including, safeguarding, risk assessments and implications for public and staff on horticultural sites.  "
+    },
+    {
+      "knowledgeId": "08163102-b1ec-48d7-8163-4326dc31509d",
+      "detail": "Functional factors, their relevance and implications for management of horticultural sites for example, infrastructure, features, services, users, conditions, hard structures and surfaces."
+    },
+    {
+      "knowledgeId": "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+      "detail": "Historical site factors, their significance and implications for management, for example, heritage, archaeology, previous use."
+    },
+    {
+      "knowledgeId": "41b3a779-44cf-4519-8952-2e08688bbf88",
+      "detail": "Government, local or organisational strategies or policies that impact on horticultural sites including garden or landscape management strategies."
+    },
+    {
+      "knowledgeId": "f11121da-1184-48c3-b81f-13bb1678c0ff",
+      "detail": "Quality standards for horticultural sites including industry standards, setting of organisational standards and how to implement on site. "
+    },
+    {
+      "knowledgeId": "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+      "detail": "Operational methods (including associated tools, equipment and machinery)  to carry out horticultural and landscape works; their impact on plants and the environment, for example, construction of hard structures and features, soil cultivation, propagation, lawn and tree care"
+    },
+    {
+      "knowledgeId": "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+      "detail": "Social and cultural relevance of garden and landscape design through history. "
+    },
+    {
+      "knowledgeId": "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+      "detail": "Techniques for site interpretation, for example signage, mobile phone apps, tours."
+    },
+    {
+      "knowledgeId": "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+      "detail": "Design techniques and tools for horticultural areas, for example simple plan sketches, CAD. "
+    },
+    {
+      "knowledgeId": "2b541ddb-f697-4cff-a75b-cf1031663232",
+      "detail": "Services provided by contractors and specialists, for example surveys, construction specifications, planting plans."
+    },
+    {
+      "knowledgeId": "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+      "detail": "Principles of sustainability and sustainable supply chains including measurement of energy use and advising on improved environmental standards to work towards a zero carbon economy for example selection of equipment, techniques, FSC timber supplies and peat."
+    },
+    {
+      "knowledgeId": "384ea931-9731-4fa6-8204-32f207ad8c35",
+      "detail": "Implications of climate change for horticultural sites and how to adapt and mitigate against these for example, alleviating flood risk, extreme temperatures."
+    },
+    {
+      "knowledgeId": "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+      "detail": "Biosecurity controls for example hygiene, provenance of plant material, plant passports, quarantine, control of harmful and notifiable organisms."
+    },
+    {
+      "knowledgeId": "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+      "detail": "Communication techniques for different contexts for example verbal, published, social media, broadcast media. "
+    },
+    {
+      "knowledgeId": "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+      "detail": "People management including legislation, performance management, recruitment, inclusion, induction, training and retention."
+    },
+    {
+      "knowledgeId": "21bb3d12-154c-4f27-b677-c8a4d4758501",
+      "detail": "Benefits and purpose of organisational systems and processes, their role in compliance and how to follow them."
+    },
+    {
+      "knowledgeId": "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+      "detail": "Techniques for financial reporting and budgeting."
+    },
+    {
+      "knowledgeId": "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+      "detail": "Benefits of horticultural sites for example health and wellbeing, ecosystem services.   "
+    },
+    {
+      "knowledgeId": "643555ad-125d-498a-a829-bd70df940e3d",
+      "detail": "Techniques for developing a business case for financing future projects. Methods for identifying audience and managing targets in business cases.   "
+    },
+    {
+      "knowledgeId": "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+      "detail": "Principles of Integrated Pest Management (IPM) and Integrated Weed Management."
+    },
+    {
+      "knowledgeId": "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+      "detail": "Principles of customer service and managing relationships with clients and stakeholders. "
+    },
+    {
+      "knowledgeId": "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1",
+      "detail": "Procedures and principles for procurement of products and services including legislation"
+    },
+    {
+      "knowledgeId": "cec2ff4d-171e-47fe-b03e-ae0d937378f2",
+      "detail": "Components and purpose of specifications and operational work plans for horticultural sites. "
+    },
+    {
+      "knowledgeId": "681d7e11-23fd-42a5-b14a-09c7fa8a3293",
+      "detail": "Environmental factors and their impact on plant health and growth including temperature, soils, hydrology, light."
+    },
+    {
+      "knowledgeId": "7bb6841a-291d-495b-8fe2-ea0cad318e5f",
+      "detail": "Survey, research and data analysis techniques for horticultural sites including features (for example paths, structures, utilities), abiotic factors (for example aspect, climate), ecology, horticultural elements (for example plants, soils), community engagement and people (for example usage, access, experience)."
+    },
+    {
+      "knowledgeId": "9d044306-577a-4d68-9d8f-265c8d7f74d0",
+      "detail": "Invasive species and their implications for horticultural sites. "
+    },
+    {
+      "knowledgeId": "b78da3e2-d317-4be0-9dee-404405de152f",
+      "detail": "Project Management techniques."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+      "detail": "Acts with integrity, for example being open and transparent in dealing with stakeholders and respecting their confidentiality. Takes full responsibility for your actions.  "
+    },
+    {
+      "behaviourId": "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+      "detail": "Communicates effectively and respectfully towards clients and colleagues and takes into account cultural sensitivities and business practices."
+    },
+    {
+      "behaviourId": "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+      "detail": "Acts professionally providing a high standard of service based on sound business evidence, including managing self, staying up to date with new developments, example, machinery, techniques, legislation or technology and continued professional development."
+    },
+    {
+      "behaviourId": "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+      "detail": "Adopts and promotes a safety culture within the organisation and acts with regard to health, safety and the wellbeing for self and others."
+    },
+    {
+      "behaviourId": "2c7c7648-4ab9-442f-a435-989ce4a4545c",
+      "detail": "Embeds sustainable working practices"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+      "detail": "Plans and carries out a site survey and research to include features (for example paths, structures), abiotic factors (for example aspect, climate), ecology, horticultural elements (for example plants, soils), community engagement and people (for example usage, access, experience)."
+    },
+    {
+      "skillId": "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+      "detail": "Gathers site data through field and desk-based research methods."
+    },
+    {
+      "skillId": "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+      "detail": "Analyses and interprets survey results and other information, and proposes appropriate action."
+    },
+    {
+      "skillId": "199aab84-b8ee-4b1f-bee1-8265543db776",
+      "detail": "Identifies biosecurity threats, selects and implements control or prevention measures."
+    },
+    {
+      "skillId": "bb82a212-44c5-4345-a32a-800331be554d",
+      "detail": "Identifies plants and determines their suitability and cultural requirements. Formats plant names as per the International Code of Plant Nomenclature."
+    },
+    {
+      "skillId": "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+      "detail": "Develops a management plan to enhance and maintain a horticultural site, including health and safety, user requirements, risk assessment, prioritising, feasibility, interactions between elements and resourcing."
+    },
+    {
+      "skillId": "fc5580c8-7a87-4df5-99f3-5bd8aebc486b",
+      "detail": "Interprets and implements operational work plans and manages resources in alignment with work plans (for example monitoring, and quality assurance)."
+    },
+    {
+      "skillId": "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+      "detail": "Develops detailed work specifications and operational work plans incorporating input from internal or external colleagues to include waste management."
+    },
+    {
+      "skillId": "24fdd4a0-2649-45b3-9be5-30d066052411",
+      "detail": "Designs a horticultural area in keeping with site, for example historic interest, style, existing features."
+    },
+    {
+      "skillId": "23d6c996-8512-41a2-82dd-15570217789e",
+      "detail": "Creates design briefs for horticultural areas to be used as basis for a design, outlining objectives, site requirements, projected use, treatment of existing features and style."
+    },
+    {
+      "skillId": "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da",
+      "detail": "Communicates ideas to develop areas on site in order to gain agreement from clients, managers or stakeholders.  "
+    },
+    {
+      "skillId": "c3ffcded-a64f-4f14-b091-c17b50ecf352",
+      "detail": "Carries out an environmental impact assessment."
+    },
+    {
+      "skillId": "bd78ea5a-6ea2-4177-b601-05c5b43c0bb3",
+      "detail": "Manages waste and implement waste management plan, for example application of waste hierarchy, segregation, composting."
+    },
+    {
+      "skillId": "ddf61bc2-b14e-40d2-bf50-8adfc53ac952",
+      "detail": "Manages water usage and hydrology for horticultural sites, for example drainage, mulching, irrigation."
+    },
+    {
+      "skillId": "7358b5e9-5692-4aab-b90a-0a52c7ffd52d",
+      "detail": "Manages soil health, for example fertility, structure, micro-biology, avoiding compaction."
+    },
+    {
+      "skillId": "19f03860-5965-4ef5-8f96-db90515c3f0b",
+      "detail": "Manages plant health including mitigation of environmental factors, developing sustainable control methods, Integrated Pest Management (IPM), Integrated Weed Management."
+    },
+    {
+      "skillId": "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+      "detail": "Selects communication method and communicates using a range of methods to technical and non technical audiences."
+    },
+    {
+      "skillId": "2e51519d-5a5d-4c87-9454-b883be363f2f",
+      "detail": "Promotes products or services identifying opportunities, audience and communication channels, generating written information.  "
+    },
+    {
+      "skillId": "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+      "detail": "Trains and mentors staff, contractors or volunteers."
+    },
+    {
+      "skillId": "c9d9d034-4410-42dd-9a49-158db66ba772",
+      "detail": "Develops a business case to aid decision making and financial planning of future projects, including identifying audience and managing targets.   "
+    },
+    {
+      "skillId": "e7786def-8bcf-4897-8956-d301278401a8",
+      "detail": "Prepares, reviews and analyses budgets, forecast and other profit and loss reporting including recommending efficiencies or improvements."
+    },
+    {
+      "skillId": "117f4c02-4e9b-495f-928f-deb876d7e6c3",
+      "detail": "Develops an invasive species management plan, including objectives, environmental considerations, resources, legal considerations and implementation."
+    },
+    {
+      "skillId": "add82dba-2adf-47a5-8e71-620a73efc92e",
+      "detail": "Manages people for example staff, contractors or volunteers. "
+    },
+    {
+      "skillId": "3858049b-9724-4ba1-8d40-ffe51abe8de3",
+      "detail": "Manages a horticultural project. "
+    },
+    {
+      "skillId": "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c",
+      "detail": "Provides customer service and manages relationships with customers and stakeholders."
+    },
+    {
+      "skillId": "ac83e221-bcb3-42be-8e14-77e6bab741ab",
+      "detail": "Procures horticultural or landscaping products or services."
+    },
+    {
+      "skillId": "3d8b87fe-a759-4829-842d-602053df4773",
+      "detail": "Assesses historic, cultural interest and values of the site and its features, their significance and implications for management for example archaeology, veteran trees, buildings and structures, and previous use."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-09-28T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0223",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "ros@adrow.co.uk",
+  "involvedEmployers": "Health Education England\r\nHillier Landscapes\r\nHistoric and botanic garden training programme\r\nHorticulture Trades Association\r\nIdverde\r\nJohn O'Conner\r\nLondon Borough of Waltham Forest\r\nMaylim\r\nNational Trust\r\nNurture Landscapes\r\nProfessional Gardeners Guild\r\nRain Tree Training\r\nRoger Gladwell Landscaping and Garden Design\r\nRoyal Botanic Gardens, Kew\r\nRoyal Horticultural Society\r\nScarborough Borough Council\r\nThe Garden Makers\r\nThe Royal Parks\r\n",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "horticulture consultant",
+    "greenspace manager",
+    "head gardener",
+    "garden manager",
+    "horticultural site manager",
+    "horticultural project manager",
+    "horticultural technical manager",
+    "garden and outdoor manager and technical support manager",
+    "landscaping site manager",
+    "landscaping project manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Landscape Horticulture Manager",
-  "createdDate": "2019-10-30T09:10:04 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-technical-manager#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/horticulture-or-landscape-technical-manager",
+  "cluster": "Landscape horticulture manager",
+  "clusterId": "160",
+  "clusterDescription": null,
+  "createdDate": "2021-09-28T15:53:52 +00:00",
+  "lastUpdated": "2024-01-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-09-28T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0924",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0924-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0924-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Chartered Institute of Horticulture",
+      "level": "Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "00af50ae-a91f-4d2e-badf-7c8e48d916ca",
+      "dutyDetail": "Manage the research and collection of data on horticultural sites and evaluate the results including history and environment of site, plant health, plant collection records, invasive species, biodiversity, plant identification, soils, water, habitats, usage, features, heritage and trees. Using databases and Geographic Information Systems (GIS).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+        "4d4c235c-77a5-46d2-adba-1c78393d3999",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+        "41b3a779-44cf-4519-8952-2e08688bbf88",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+        "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "681d7e11-23fd-42a5-b14a-09c7fa8a3293",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+        "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "c3ffcded-a64f-4f14-b091-c17b50ecf352"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5503f961-3d79-4592-a8eb-486e2ce90971",
+      "dutyDetail": "Develop horticultural site management plans / contracts incorporating wider landscape context, legal frameworks and site factors including design, both original and future development of site, health and safety, condition, features, soils, habitats, designations, heritage, water, transportation routes, ecology, planning policy, sustainability and resources.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+        "4d4c235c-77a5-46d2-adba-1c78393d3999",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "1e3b7a20-1d54-4727-aa71-3415b627a5f5",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+        "41b3a779-44cf-4519-8952-2e08688bbf88",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+        "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+        "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+        "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+        "681d7e11-23fd-42a5-b14a-09c7fa8a3293",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0",
+        "b78da3e2-d317-4be0-9dee-404405de152f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+        "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+        "c3ffcded-a64f-4f14-b091-c17b50ecf352",
+        "ddf61bc2-b14e-40d2-bf50-8adfc53ac952",
+        "7358b5e9-5692-4aab-b90a-0a52c7ffd52d",
+        "19f03860-5965-4ef5-8f96-db90515c3f0b",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "117f4c02-4e9b-495f-928f-deb876d7e6c3",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab",
+        "3d8b87fe-a759-4829-842d-602053df4773"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b844a65-7792-4327-95c6-75aac45c4a46",
+      "dutyDetail": "Interpret and deliver horticultural site management plans / contracts.  Ensure delivery is of suitable quality and meets objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+        "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1",
+        "cec2ff4d-171e-47fe-b03e-ae0d937378f2",
+        "681d7e11-23fd-42a5-b14a-09c7fa8a3293",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0",
+        "b78da3e2-d317-4be0-9dee-404405de152f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "fc5580c8-7a87-4df5-99f3-5bd8aebc486b",
+        "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+        "bd78ea5a-6ea2-4177-b601-05c5b43c0bb3",
+        "ddf61bc2-b14e-40d2-bf50-8adfc53ac952",
+        "7358b5e9-5692-4aab-b90a-0a52c7ffd52d",
+        "19f03860-5965-4ef5-8f96-db90515c3f0b",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "117f4c02-4e9b-495f-928f-deb876d7e6c3",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "3858049b-9724-4ba1-8d40-ffe51abe8de3",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7c35bb5d-f7c3-497f-a2c8-f0db9bbec73c",
+      "dutyDetail": "Manage heritage horticultural sites maintaining and enhancing the historic context through sympathetic design, infrastructure, plantings and signage.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+        "41b3a779-44cf-4519-8952-2e08688bbf88",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+        "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+        "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+        "2b541ddb-f697-4cff-a75b-cf1031663232",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+        "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "24fdd4a0-2649-45b3-9be5-30d066052411",
+        "23d6c996-8512-41a2-82dd-15570217789e",
+        "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab",
+        "3d8b87fe-a759-4829-842d-602053df4773"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7cacfeca-8919-44ff-8c71-f604e1ac5031",
+      "dutyDetail": "Create designs and design briefs to develop areas of the site. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+        "2b541ddb-f697-4cff-a75b-cf1031663232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "24fdd4a0-2649-45b3-9be5-30d066052411",
+        "23d6c996-8512-41a2-82dd-15570217789e",
+        "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "baede75e-c885-4d19-831c-3205a84bd704",
+      "dutyDetail": "Manage contractors and staff undertaking practical works including cultivation of landscape areas, landscape construction, care of infrastructure, and providing specialist expertise.  Responsibility and accountability for quality, health and safety and delivery to plan and budget.\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "2b541ddb-f697-4cff-a75b-cf1031663232",
+        "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1",
+        "cec2ff4d-171e-47fe-b03e-ae0d937378f2",
+        "b78da3e2-d317-4be0-9dee-404405de152f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fc5580c8-7a87-4df5-99f3-5bd8aebc486b",
+        "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+        "c3ffcded-a64f-4f14-b091-c17b50ecf352",
+        "bd78ea5a-6ea2-4177-b601-05c5b43c0bb3",
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "3858049b-9724-4ba1-8d40-ffe51abe8de3",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f078eed1-9644-473c-b432-ebbbbc87bdf7",
+      "dutyDetail": "Manage and be accountable for the environmental impact of horticultural sites including measurement of energy usage and advising on better environmental standards to work towards a zero-carbon economy.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1",
+        "cec2ff4d-171e-47fe-b03e-ae0d937378f2",
+        "b78da3e2-d317-4be0-9dee-404405de152f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fc5580c8-7a87-4df5-99f3-5bd8aebc486b",
+        "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+        "c3ffcded-a64f-4f14-b091-c17b50ecf352",
+        "bd78ea5a-6ea2-4177-b601-05c5b43c0bb3",
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "3858049b-9724-4ba1-8d40-ffe51abe8de3",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fef9c9e3-e045-463f-a188-221553ae7419",
+      "dutyDetail": "Manage plant health and suitability to site.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+        "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "c3ffcded-a64f-4f14-b091-c17b50ecf352",
+        "bd78ea5a-6ea2-4177-b601-05c5b43c0bb3",
+        "19f03860-5965-4ef5-8f96-db90515c3f0b",
+        "117f4c02-4e9b-495f-928f-deb876d7e6c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cf09e899-8926-4862-bb0f-468ac30123cb",
+      "dutyDetail": "Assess risks of plant pests and diseases on horticultural sites and mitigation e.g. quarantine, provenance of nursery stock etc.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+        "24fdd4a0-2649-45b3-9be5-30d066052411",
+        "23d6c996-8512-41a2-82dd-15570217789e",
+        "ddf61bc2-b14e-40d2-bf50-8adfc53ac952",
+        "7358b5e9-5692-4aab-b90a-0a52c7ffd52d",
+        "19f03860-5965-4ef5-8f96-db90515c3f0b",
+        "117f4c02-4e9b-495f-928f-deb876d7e6c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d82337de-6237-48be-8484-9c7595690085",
+      "dutyDetail": "Provide technical horticultural consultancy and advice on plants, designed horticultural spaces and landscapes including plant health, pests and disease prevention and response, the law, planning, impact on built environment, risk and the role of horticultural spaces for the public, clients and colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "5304afed-8b6e-4371-9b2c-25462a5646f4",
+        "2453902e-7285-4a1b-8084-6a21fa9fe378",
+        "5ac1d7f1-909a-4aee-be4a-45789c3a0b3b",
+        "4d4c235c-77a5-46d2-adba-1c78393d3999",
+        "671625c0-229d-4f9f-98b5-f23ac6726677",
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "15a32ca5-f914-40b5-ac89-1803c8ba78fe",
+        "41b3a779-44cf-4519-8952-2e08688bbf88",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "2df8e8c9-f54a-4a49-84fe-5cf20cc58964",
+        "a9f11fd9-e02d-4eb0-b5bb-31bec6e7aa7c",
+        "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+        "abb8908d-89d9-4ac1-9d22-9ae125e5e4ae",
+        "2b541ddb-f697-4cff-a75b-cf1031663232",
+        "ab0d106f-6ba5-4117-8f91-68b6374cb747",
+        "384ea931-9731-4fa6-8204-32f207ad8c35",
+        "8e77c29a-20a3-4a66-a68e-845693e3c6eb",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "643555ad-125d-498a-a829-bd70df940e3d",
+        "331a9e08-6a37-46e3-8da3-cb066bd2ffd4",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "681d7e11-23fd-42a5-b14a-09c7fa8a3293",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f",
+        "9d044306-577a-4d68-9d8f-265c8d7f74d0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "b2bdf9ed-fcf2-4386-b695-69e2e85a7db5",
+        "5e14f8ac-847a-40e7-aabb-9694a0cfddf2",
+        "199aab84-b8ee-4b1f-bee1-8265543db776",
+        "bb82a212-44c5-4345-a32a-800331be554d",
+        "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+        "24fdd4a0-2649-45b3-9be5-30d066052411",
+        "23d6c996-8512-41a2-82dd-15570217789e",
+        "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da",
+        "ddf61bc2-b14e-40d2-bf50-8adfc53ac952",
+        "7358b5e9-5692-4aab-b90a-0a52c7ffd52d",
+        "19f03860-5965-4ef5-8f96-db90515c3f0b",
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "c9d9d034-4410-42dd-9a49-158db66ba772",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "117f4c02-4e9b-495f-928f-deb876d7e6c3",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab",
+        "3d8b87fe-a759-4829-842d-602053df4773"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42c87a1b-4a9b-410a-b146-ee8adc6c7793",
+      "dutyDetail": "Seek appropriate specialist technical input for example ecologists, landscape architects, arboriculturists and review quality and relevance of contributions made by specialists.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a"
+      ],
+      "mappedKnowledge": [
+        "2b541ddb-f697-4cff-a75b-cf1031663232"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+        "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e56aad69-88c1-4974-a41f-be796b03fac6",
+      "dutyDetail": "Manage interaction between people and horticultural sites. Engage people by interpreting horticultural sites and settings using static and dynamic methods.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190"
+      ],
+      "mappedKnowledge": [
+        "8f7d7997-6172-4e1e-bac2-f7d73ac49214",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "08163102-b1ec-48d7-8163-4326dc31509d",
+        "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1",
+        "7bb6841a-291d-495b-8fe2-ea0cad318e5f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89c917a0-1b9f-4596-99fe-e844de6e24cf",
+        "5e6901af-863f-4e5a-b5d2-5b6c20b52600",
+        "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da",
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "74ac9258-d313-4a7b-b71d-a56fc1190c36",
+      "dutyDetail": "Promote the organisation, products, services or activities and the benefits of green spaces, parks, gardens, trees, woodlands and forests including community engagement, visitor experience, education,  event management ensuring health and safety directives are followed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a"
+      ],
+      "mappedKnowledge": [
+        "1e3b7a20-1d54-4727-aa71-3415b627a5f5",
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "2b541ddb-f697-4cff-a75b-cf1031663232",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8",
+        "e2c966db-ffc2-498d-90c0-e8ce8c74f1a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a802621f-5fa9-4599-8e8b-79437f1ade7c",
+      "dutyDetail": "Manage employees and contractors including workforce planning, quality, health and safety, skills, motivation, recruitment, retention and training. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "cec2ff4d-171e-47fe-b03e-ae0d937378f2",
+        "b78da3e2-d317-4be0-9dee-404405de152f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fc5580c8-7a87-4df5-99f3-5bd8aebc486b",
+        "21b689be-a6b8-4e8c-ba86-8bda690873fc",
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "c9d9d034-4410-42dd-9a49-158db66ba772",
+        "e7786def-8bcf-4897-8956-d301278401a8",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "3858049b-9724-4ba1-8d40-ffe51abe8de3",
+        "ac83e221-bcb3-42be-8e14-77e6bab741ab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "448c37cc-7247-4d67-b902-3b7c8474a570",
+      "dutyDetail": "Manage volunteer workforce with responsibility for inclusion, organisational culture, health and wellbeing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1e21821b-9bc9-40f7-9eb0-7d67cc730190"
+      ],
+      "mappedKnowledge": [
+        "c337617c-02b5-44b2-a902-9b0231b7002a",
+        "f11121da-1184-48c3-b81f-13bb1678c0ff",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "90bd621f-a05a-4792-a1e9-4a6224e6b44d",
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "add82dba-2adf-47a5-8e71-620a73efc92e",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11ad8790-ce74-469d-8e7f-cc8c0109b787",
+      "dutyDetail": "Manage relationships and influence customers, stakeholders, landowners, internal and external colleagues including negotiations and networking. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a"
+      ],
+      "mappedKnowledge": [
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9c3c6cb8-4b5f-4263-ac3b-f8d06fba49da",
+        "9d0b5cbd-55f9-44c4-863b-6e44d4cb920d",
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "24880a9f-ad2a-40ef-97ae-60f4a4f12136",
+        "1e3c3883-5d58-4606-a8bb-6e7ffa4e600c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "85548da3-4227-4bac-bd83-ffe74ea7fc75",
+      "dutyDetail": "Generate income including developing business cases, identifying audience and managing targets.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79e56810-5e45-4ab3-94d4-98edaaf029e2",
+        "3d6acae7-47ca-4d57-b131-29c3c25c146a",
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a",
+        "2c7c7648-4ab9-442f-a435-989ce4a4545c"
+      ],
+      "mappedKnowledge": [
+        "1e3b7a20-1d54-4727-aa71-3415b627a5f5",
+        "d1bd4ac5-aa51-40cf-9c80-042d5171ff03",
+        "34f02f9d-be96-4ec4-8a41-71a318443c5b",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "0ab33854-e78a-4d68-8e37-2a2482bcef81",
+        "643555ad-125d-498a-a829-bd70df940e3d",
+        "ce0b0895-60fd-4322-b7a6-dc91b11b6cf8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e51519d-5a5d-4c87-9454-b883be363f2f",
+        "c9d9d034-4410-42dd-9a49-158db66ba772",
+        "e7786def-8bcf-4897-8956-d301278401a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b9c4e97e-ab7f-4d6b-8d05-ad9247f183cb",
+      "dutyDetail": "Responsibility for budgeting, setting priorities, forecasting, driving efficiencies, procurement, Profit and Loss reporting and sourcing funding where applicable. Manage systems and processes and use information generated to manage organisational performance and drive improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1b9cca05-9e05-4464-b4aa-e99d90160c3a"
+      ],
+      "mappedKnowledge": [
+        "21bb3d12-154c-4f27-b677-c8a4d4758501",
+        "fff4c6b7-30ac-4890-b2ed-4de76b20c09e",
+        "643555ad-125d-498a-a829-bd70df940e3d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c9d9d034-4410-42dd-9a49-158db66ba772",
+        "e7786def-8bcf-4897-8956-d301278401a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-01-23T00:00:00"
 }
