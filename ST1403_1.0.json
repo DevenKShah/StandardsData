@@ -1,0 +1,717 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 782,
+  "referenceNumber": "ST1403",
+  "learningAimClassCode": "",
+  "title": "Maritime electrical fitter",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1403",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-11-06T00:00:00",
+  "earliestStartDate": "2024-09-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Manufacture, install, test, fault diagnose, maintain, overhaul and remove electrical systems on maritime vessels.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 42,
+  "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "ships",
+    "electrical",
+    "submarines",
+    "maintenance",
+    "maritime"
+  ],
+  "jobRoles": [
+    "Electrical fitter",
+    "Electrical fitter - marine engineering",
+    "Marine electrical engineer",
+    "Marine electrician",
+    "Maritime electrical fitter",
+    "Shore based technical engineer (marine)"
+  ],
+  "entryRequirements": "&lt;p style=&quot;margin-bottom: 12pt; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-size: 11.5pt; font-family: inherit; color: rgba(51, 64, 71, 1);&quot;&gt;Individual employers will set the recruitment and selection criteria for their apprenticeships. Candidates will typically have 4 GCSEs at grade C or grade 4 or equivalent, including mathematics, English and a science.&lt;/span&gt;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1403-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p class=&quot;MsoPlainText&quot;&gt;This occupation is found in the maritime sector which can include ships and submarines involved in defence and it also can be found in commercial shipping.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to work from engineering drawings, data and documentation in order to undertake the manufacture, installation, testing, fault diagnosis, maintenance, overhaul and removal of electrical systems on maritime vessels. This could cover propulsion machinery, weapons, sensors, reactor or auxiliary systems (such as water, air conditioning, electronic equipment including programmable logic controllers, power generation and distribution). It requires knowledge and expertise in the use of common and specialist electrical equipment, machines and hand tools, and the use of a variety of measuring and diagnostic equipment and processes to ensure individual components and assemblies meet the required specification. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of other stakeholders such as other electrical fitters, supervisors, engineers and colleagues. They could be based on a submarine or ship or could be shore-based working on ships and submarines in dock, or within a workshop environment. The role could involve working in confined spaces. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for complying with statutory regulations and organisational safety requirements and they will be expected to work both individually and as part of a team. They will be able to work with minimal supervision, taking responsibility for the quality and accuracy of the work they undertake and will be proactive in finding solutions to problems and identifying areas to improve business processes.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4a065d04-b822-42f0-afb8-206889360c30",
+      "detail": "Awareness of health and safety regulations, relevance to the occupation and the electrical fitters responsibilities. Control of Substances Hazardous to Health (COSHH). Display Screen Equipment. Due diligence. Electrical safety and compliance. Electricity at work regulations. Emergency evacuation procedures. Health and Safety at Work Act – responsibilities. Isolation and emergency stop procedures. L8 Legionella. Lifting Operations and Lifting Equipment Regulations (LOLER). Lone working. Manual handling. Near miss reporting. Noise regulation. Provision and use of Work Equipment Regulations (PUWER). Reporting of Injuries, Diseases, and Dangerous Occurrences Regulations (RIDDOR). Risk assessments.  Safe systems of work.  Safety equipment: guards, signage, fire extinguishers. Situational awareness. Slips, trips and falls. Types of hazards. Personal Protective Equipment (PPE).  Working at height. Working in confined spaces."
+    },
+    {
+      "knowledgeId": "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+      "detail": "Engineering, mathematical and scientific principles, methods, techniques, graphical expressions, symbols, formulae and calculations used in a maritime electrical environment."
+    },
+    {
+      "knowledgeId": "44bb911f-ee25-41bf-be46-f8f46df811d6",
+      "detail": "The structure, properties and characteristics of common materials used for electrical power activities in the maritime sector."
+    },
+    {
+      "knowledgeId": "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+      "detail": "Problem solving techniques."
+    },
+    {
+      "knowledgeId": "653808f0-4aa4-48aa-8dea-d5dd8cc08ae9",
+      "detail": "Testing, inspection and diagnostic methods and techniques for maritime electrical problems."
+    },
+    {
+      "knowledgeId": "64f63e57-8ea7-4ca8-9107-730b01802987",
+      "detail": "Approved processes and procedures for maritime electrical activities: how to access and follow."
+    },
+    {
+      "knowledgeId": "9182c8dd-d1c8-4e0e-9061-969b0a555c0f",
+      "detail": "Principles of interpreting engineering data and documentation in a maritime electrical environment."
+    },
+    {
+      "knowledgeId": "f35c1fcc-066b-4b59-a466-d7a45597b7b9",
+      "detail": "The different roles and functions in the organisation and how they interact."
+    },
+    {
+      "knowledgeId": "7fda1feb-44c5-43de-a681-3634aa6774fc",
+      "detail": "Maritime electrical engineering technology and principles applied in the design, build, manufacture, operation and maintenance of maritime vessels."
+    },
+    {
+      "knowledgeId": "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+      "detail": "The practical and theoretical requirements of maritime electrical, electronic, electromechanical, fibre optics, and systems used on board vessels."
+    },
+    {
+      "knowledgeId": "79b59471-088f-49ff-9c74-c84f7dda85ff",
+      "detail": "The function and operation of hand and power tools used in a maritime electrical environment."
+    },
+    {
+      "knowledgeId": "3a75a057-2517-417b-a073-9adb50213c45",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. Barriers in communication and how to overcome them. Maritime engineering terminology."
+    },
+    {
+      "knowledgeId": "658717e0-1b3b-4793-9515-ee32bcce15dc",
+      "detail": "Documentation: methods and requirements - electronic and paper."
+    },
+    {
+      "knowledgeId": "c4ac3e46-bf67-456f-bc14-af00164a8666",
+      "detail": "Principles of sustainability and circular economy. Energy efficiency and reuse of materials. Environmental and sustainability procedures. Principles of control and management of emissions and waste. Efficient use of resources."
+    },
+    {
+      "knowledgeId": "054d6325-da4d-42ee-87a0-5c287c50775e",
+      "detail": "Equality Act. Equality, diversity, and inclusion in the workplace. Unconscious bias."
+    },
+    {
+      "knowledgeId": "4049561e-3a1f-4608-9b90-052accdcbd26",
+      "detail": "Escalation procedures."
+    },
+    {
+      "knowledgeId": "f8e29c5f-bedc-4252-b520-2534d22a1a32",
+      "detail": "Business operation considerations: efficiency, customer satisfaction, competitiveness, minimising risks to operation, and ethical issues."
+    },
+    {
+      "knowledgeId": "abfd351c-4c7f-4f33-a9e1-ecab3992caba",
+      "detail": "Team working principles."
+    },
+    {
+      "knowledgeId": "9894484c-972b-440f-9a31-92f3ad09040f",
+      "detail": "Continuous improvement techniques. "
+    },
+    {
+      "knowledgeId": "a113b47b-752b-460c-8489-4a251185cfff",
+      "detail": "Planning techniques: resources, tools, equipment, access, time management."
+    },
+    {
+      "knowledgeId": "77982ba0-afae-44a7-aad1-5ef8da686021",
+      "detail": "Maritime electrical maintenance practices and techniques: planned, preventative, and corrective methods and their frequency."
+    },
+    {
+      "knowledgeId": "05b6e6ae-2f19-493d-8725-4967c59efb41",
+      "detail": "Techniques for measuring and marking out maritime electrical components. "
+    },
+    {
+      "knowledgeId": "a5a131d1-a539-44e8-8e36-e1a0926d3023",
+      "detail": "Maritime electrical assembly methods and techniques: inspection, terminations, connections, fastening, tightening, cleaning and calibration."
+    },
+    {
+      "knowledgeId": "070b0803-6418-4b0a-a7e8-e657a4a2ba28",
+      "detail": "Principles of quality assurance in a maritime electrical environment."
+    },
+    {
+      "knowledgeId": "0217bb2f-321f-4af6-b70a-157496f9dcd4",
+      "detail": "Principles and practices of restoring the work area on completion of work."
+    },
+    {
+      "knowledgeId": "c167ae20-be90-42eb-8abe-49c4173033ef",
+      "detail": "Techniques for cutting, shaping and finishing  maritime electrical components."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+      "detail": "Put health and safety first."
+    },
+    {
+      "behaviourId": "3aba1f85-2bf3-4e14-a703-646f02ed6ee4",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "behaviourId": "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+      "detail": "Take personal responsibility for their own sustainable working practices."
+    },
+    {
+      "behaviourId": "9bc46713-011b-4de9-ab0d-0104fcbecccc",
+      "detail": "Take account of diversity and inclusion requirements."
+    },
+    {
+      "behaviourId": "1414429d-e519-4585-bc45-8c204bdf7d27",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "3a6d6e5d-3345-42f2-a2d0-952416b48791",
+      "detail": "Take responsibility for completing work."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "397e83db-e65c-4457-9b64-f70eb607eab7",
+      "detail": "Obtain, read, analyse and interpret engineering data, drawings or documentation used in the design, build, operation and repair of maritime vessels such as job instructions, circuit diagrams, drawings and quality control documentation."
+    },
+    {
+      "skillId": "84beaffb-ff5f-4d71-b721-a23b757cf600",
+      "detail": "Apply health and safety procedures and safe systems of work in compliance with regulations and standards."
+    },
+    {
+      "skillId": "665be8db-3ed9-4361-9233-f8b650651755",
+      "detail": "Identify, organise and use resources to complete tasks, with consideration for cost, quality, safety, security and environmental impact."
+    },
+    {
+      "skillId": "b8b7535b-442a-45ae-8382-f0c2f212df88",
+      "detail": "Use approved processes and procedures for maritime electrical work. "
+    },
+    {
+      "skillId": "b6de8c23-8e8d-4aaa-b670-a4bdb5ff7193",
+      "detail": "Carry out maritime electrical quality assurance checks."
+    },
+    {
+      "skillId": "2816e163-e0e0-4f47-969b-844639c5e68c",
+      "detail": "Resolve maritime electrical engineering problems within the limits of their responsibility. Escalate un-resolved fault issues or problems."
+    },
+    {
+      "skillId": "53168613-c20d-4e80-84be-94d8b8b1e2c7",
+      "detail": "Restore the work area on completion of the activity. Return any resources and consumables."
+    },
+    {
+      "skillId": "7d44ee44-9269-4733-b7c3-1dceb0f4b5f8",
+      "detail": "Measure and mark out maritime electrical components."
+    },
+    {
+      "skillId": "94c01475-8813-42cd-b3a6-2607fc98cacf",
+      "detail": "Select and use hand and power tools to cut, shape and finish maritime electrical components."
+    },
+    {
+      "skillId": "5d752668-9c2e-4b69-b2f3-46682ba94144",
+      "detail": "Install and remove maritime electrical equipment or components, sub-assemblies or whole systems."
+    },
+    {
+      "skillId": "05c274c8-4067-4f4d-b34a-60f918ff02bd",
+      "detail": "Apply maritime electrical assembly and use methods and techniques such as inspection, terminations, connections, fastening, tightening, cleaning and calibration. on maritime vessels."
+    },
+    {
+      "skillId": "ed1546a9-f3b4-449e-93b5-8b6d995f4879",
+      "detail": "Apply testing, inspection and diagnostic techniques used in the maritime electrical environment."
+    },
+    {
+      "skillId": "031e1c73-9334-4e90-baf4-73c7b304e39d",
+      "detail": "Apply planned, preventative and corrective maintenance techniques on mechanical electrical components, equipment and systems."
+    },
+    {
+      "skillId": "84ff21bc-77ee-4d0e-b480-1971c7f3c7f3",
+      "detail": "Apply continuous improvement techniques. Devise suggestions for improvement."
+    },
+    {
+      "skillId": "b2561a22-555a-4406-bc5a-331d3ec93b6a",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "1f611ad8-11ac-47ab-bbc2-21ed5aada0cc",
+      "detail": "Apply team working principles."
+    },
+    {
+      "skillId": "467fad64-4c0d-4e2a-b841-33571e5cb6bf",
+      "detail": "Carry out and record planned and unplanned learning and development activities."
+    },
+    {
+      "skillId": "bfded2b8-9f7e-4690-b108-edc07fdd9e62",
+      "detail": "Record and enter information - paper based or electronic. For example, energy usage, job sheets, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, waste environmental records and any legal reporting requirements."
+    },
+    {
+      "skillId": "eade4142-67c6-4ecc-8b91-786b83a597c3",
+      "detail": "Apply environmental and sustainability procedures in compliance with regulations and standards for example, segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "b8271010-8244-4bc5-8006-7ed4aaa64752",
+      "detail": "Follow equality, diversity and inclusion procedures."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-09-10T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0860",
+  "tbMainContact": "edward.w.creighton@baesystems.com",
+  "involvedEmployers": "Babcock International Group, BAE Systems, Capita, Ministry of Defence (MOD), Royal Navy, Cammell Laird",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Electrical fitter",
+    "Electrical fitter - marine engineering",
+    "Marine electrical engineer",
+    "Marine electrician",
+    "Maritime electrical fitter",
+    "Shore based technical engineer (marine)"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Quality improvement and project control technician",
+  "clusterId": "256",
+  "clusterDescription": null,
+  "createdDate": "2024-09-10T14:37:00 +00:00",
+  "lastUpdated": "2024-11-06T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-09-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1403",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1403-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1403-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "3a54fbfd-0366-49a6-9a7a-453316551df0",
+      "title": "Extended Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Institution of Engineering and Technology (IET)",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ed264b9f-9556-40a1-95f0-89e6b8818702",
+      "dutyDetail": "Receive, read and interpret engineering data and documentation such as engineering drawings, technical data, blueprints, schematic drawings, and technical documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+        "9182c8dd-d1c8-4e0e-9061-969b0a555c0f",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "397e83db-e65c-4457-9b64-f70eb607eab7",
+        "b8b7535b-442a-45ae-8382-f0c2f212df88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c594a7c-c509-4bb7-97e5-82ba3fbf30bb",
+      "dutyDetail": "Plan and prepare maritime electrical maintenance, installation and other work activities to cause minimal disruption. Agree planned actions and obtain any required permits or permissions required to carry out the work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "64f63e57-8ea7-4ca8-9107-730b01802987",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "3a75a057-2517-417b-a073-9adb50213c45",
+        "f8e29c5f-bedc-4252-b520-2534d22a1a32",
+        "a113b47b-752b-460c-8489-4a251185cfff",
+        "070b0803-6418-4b0a-a7e8-e657a4a2ba28"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "b8b7535b-442a-45ae-8382-f0c2f212df88",
+        "b2561a22-555a-4406-bc5a-331d3ec93b6a",
+        "1f611ad8-11ac-47ab-bbc2-21ed5aada0cc",
+        "eade4142-67c6-4ecc-8b91-786b83a597c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a1068e67-5a17-4c91-8061-8f77680eff7b",
+      "dutyDetail": "Select, obtain and prepare resources required to carry out the task. Carry out pre-use checks of equipment, tools and other resources.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "79b59471-088f-49ff-9c74-c84f7dda85ff",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc",
+        "c4ac3e46-bf67-456f-bc14-af00164a8666",
+        "a113b47b-752b-460c-8489-4a251185cfff"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "665be8db-3ed9-4361-9233-f8b650651755",
+        "b8b7535b-442a-45ae-8382-f0c2f212df88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "579a2c10-98c2-4950-aebd-bf5f61eff030",
+      "dutyDetail": "Comply with safe systems of work ensuring statutory regulations and organisational compliance requirements are met. Ensure the safe and secure isolation of equipment as required by organisational policies. Report any accidents and near misses through the required process.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "64f63e57-8ea7-4ca8-9107-730b01802987",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "79b59471-088f-49ff-9c74-c84f7dda85ff",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "b8b7535b-442a-45ae-8382-f0c2f212df88",
+        "b6de8c23-8e8d-4aaa-b670-a4bdb5ff7193",
+        "bfded2b8-9f7e-4690-b108-edc07fdd9e62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0bbe0b35-95ac-40cf-a652-e0d104fcd4b0",
+      "dutyDetail": "Use common and specialist machine and hand tools to perform tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "79b59471-088f-49ff-9c74-c84f7dda85ff",
+        "05b6e6ae-2f19-493d-8725-4967c59efb41",
+        "a5a131d1-a539-44e8-8e36-e1a0926d3023",
+        "c167ae20-be90-42eb-8abe-49c4173033ef"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "7d44ee44-9269-4733-b7c3-1dceb0f4b5f8",
+        "94c01475-8813-42cd-b3a6-2607fc98cacf",
+        "05c274c8-4067-4f4d-b34a-60f918ff02bd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d0dc38e9-41c5-45bd-8065-e3697e0c3f14",
+      "dutyDetail": "Keep stakeholders informed about work, for example customers, colleagues and line managers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "9bc46713-011b-4de9-ab0d-0104fcbecccc",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "f35c1fcc-066b-4b59-a466-d7a45597b7b9",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "3a75a057-2517-417b-a073-9adb50213c45",
+        "054d6325-da4d-42ee-87a0-5c287c50775e",
+        "4049561e-3a1f-4608-9b90-052accdcbd26",
+        "abfd351c-4c7f-4f33-a9e1-ecab3992caba",
+        "a113b47b-752b-460c-8489-4a251185cfff"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2816e163-e0e0-4f47-969b-844639c5e68c",
+        "b2561a22-555a-4406-bc5a-331d3ec93b6a",
+        "1f611ad8-11ac-47ab-bbc2-21ed5aada0cc",
+        "b8271010-8244-4bc5-8006-7ed4aaa64752"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2175210f-d1e5-4eaf-975d-c285beebbf9f",
+      "dutyDetail": "Use a range of testing and measuring equipment to carry out the task and to aid in fault diagnosis.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "653808f0-4aa4-48aa-8dea-d5dd8cc08ae9",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "2816e163-e0e0-4f47-969b-844639c5e68c",
+        "ed1546a9-f3b4-449e-93b5-8b6d995f4879"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c20ceb33-7d15-4ffe-9e4b-1035e97620ae",
+      "dutyDetail": "Carry out installation, removal or planned maintenance on electrical equipment, machinery and systems within the maritime sector. Ensure all parts and consumables used in the activity comply with maritime specifications for example, bratburg gland, roxtec, 608 and 508 multi-pin plugs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+        "44bb911f-ee25-41bf-be46-f8f46df811d6",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "79b59471-088f-49ff-9c74-c84f7dda85ff",
+        "77982ba0-afae-44a7-aad1-5ef8da686021",
+        "05b6e6ae-2f19-493d-8725-4967c59efb41",
+        "a5a131d1-a539-44e8-8e36-e1a0926d3023"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "7d44ee44-9269-4733-b7c3-1dceb0f4b5f8",
+        "5d752668-9c2e-4b69-b2f3-46682ba94144",
+        "05c274c8-4067-4f4d-b34a-60f918ff02bd",
+        "031e1c73-9334-4e90-baf4-73c7b304e39d",
+        "eade4142-67c6-4ecc-8b91-786b83a597c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c7292b44-4152-469c-b524-c66224df8e27",
+      "dutyDetail": "Carry out reactive work and resolve breakdown or failure conditions on electrical equipment within the maritime sector. Apply fault-finding and diagnostic testing procedures to identify faults using recognised methods and techniques. Diagnose and resolve faulty items relevant to the maritime environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "9858f4e9-5f52-4ddf-8cd9-22665e1ba352",
+        "44bb911f-ee25-41bf-be46-f8f46df811d6",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "653808f0-4aa4-48aa-8dea-d5dd8cc08ae9",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "79b59471-088f-49ff-9c74-c84f7dda85ff",
+        "77982ba0-afae-44a7-aad1-5ef8da686021",
+        "05b6e6ae-2f19-493d-8725-4967c59efb41",
+        "a5a131d1-a539-44e8-8e36-e1a0926d3023"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "7d44ee44-9269-4733-b7c3-1dceb0f4b5f8",
+        "05c274c8-4067-4f4d-b34a-60f918ff02bd",
+        "ed1546a9-f3b4-449e-93b5-8b6d995f4879",
+        "031e1c73-9334-4e90-baf4-73c7b304e39d",
+        "eade4142-67c6-4ecc-8b91-786b83a597c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26bec289-95af-4bd2-b3b8-4f990262ec77",
+      "dutyDetail": "Identify, communicate and report health, safety, performance functionality issues and environmental conditions affecting the use of electrical equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "3a75a057-2517-417b-a073-9adb50213c45",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc",
+        "c4ac3e46-bf67-456f-bc14-af00164a8666",
+        "4049561e-3a1f-4608-9b90-052accdcbd26",
+        "070b0803-6418-4b0a-a7e8-e657a4a2ba28"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "2816e163-e0e0-4f47-969b-844639c5e68c",
+        "b2561a22-555a-4406-bc5a-331d3ec93b6a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4608f235-d96e-44c4-8a81-3f6d5d4c53a7",
+      "dutyDetail": "Return electrical equipment to operational condition and carry out required functional, quality and operational checks to confirm equipment serviceability and fitness for purpose.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "44bb911f-ee25-41bf-be46-f8f46df811d6",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "b6de8c23-8e8d-4aaa-b670-a4bdb5ff7193",
+        "bfded2b8-9f7e-4690-b108-edc07fdd9e62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d0a09ac4-0e57-4646-acbe-e0ea27ed090f",
+      "dutyDetail": "Maintain and restore the work area, performing housekeeping and waste management as appropriate in line with environmental and organisational requirements. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "46d2afa4-22fd-4ba9-b371-4ca8901d0d89",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "e415d45a-548e-4fd9-aaf6-7292a41fc340",
+        "c4ac3e46-bf67-456f-bc14-af00164a8666",
+        "0217bb2f-321f-4af6-b70a-157496f9dcd4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "53168613-c20d-4e80-84be-94d8b8b1e2c7",
+        "eade4142-67c6-4ecc-8b91-786b83a597c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e1b325f-7494-43ae-9dbf-13c7c1821323",
+      "dutyDetail": "Complete electronic or paper-based documentation at all required stages of the work activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "86f1a261-c21d-40e8-a48f-88bffa2b6f70",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "4a065d04-b822-42f0-afb8-206889360c30",
+        "64f63e57-8ea7-4ca8-9107-730b01802987",
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "658717e0-1b3b-4793-9515-ee32bcce15dc",
+        "c4ac3e46-bf67-456f-bc14-af00164a8666",
+        "4049561e-3a1f-4608-9b90-052accdcbd26",
+        "9894484c-972b-440f-9a31-92f3ad09040f",
+        "070b0803-6418-4b0a-a7e8-e657a4a2ba28"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84beaffb-ff5f-4d71-b721-a23b757cf600",
+        "bfded2b8-9f7e-4690-b108-edc07fdd9e62",
+        "eade4142-67c6-4ecc-8b91-786b83a597c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31ad2114-2728-4595-a9da-b212b6b1b63a",
+      "dutyDetail": "Carry out continuous improvement opportunities and identify possible opportunities for improvements and efficiencies. Identify and complete professional development activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5cda9f7d-72f6-445e-bf8a-1d2f7dad3fee",
+        "3aba1f85-2bf3-4e14-a703-646f02ed6ee4",
+        "1414429d-e519-4585-bc45-8c204bdf7d27",
+        "3a6d6e5d-3345-42f2-a2d0-952416b48791"
+      ],
+      "mappedKnowledge": [
+        "7fda1feb-44c5-43de-a681-3634aa6774fc",
+        "9894484c-972b-440f-9a31-92f3ad09040f",
+        "070b0803-6418-4b0a-a7e8-e657a4a2ba28"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84ff21bc-77ee-4d0e-b480-1971c7f3c7f3",
+        "467fad64-4c0d-4e2a-b841-33571e5cb6bf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-11-06T00:00:00"
+}
