@@ -1,0 +1,762 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST0640",
+  "learningAimClassCode": "",
+  "title": "Light water reactor scientist and engineer",
+  "status": "Withdrawn",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0640",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2021-11-30T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "",
+  "level": 7,
+  "ePALength": 0,
+  "typicalDuration": 60,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "engineering",
+    "water",
+    "science",
+    "manufacturing",
+    "water reactor",
+    "design and development"
+  ],
+  "jobRoles": [
+    "Design authority engineer",
+    "Design authority scientist",
+    "Fuel and core physics specialist",
+    "Plant chemist",
+    "Structural integrity engineer",
+    "Systems engineer",
+    "Royal navy marine engineer submarine officer"
+  ],
+  "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved 3 A levels including maths and science or equivalent on entry&lt;/p&gt;",
+  "assessmentPlanUrl": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "0.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the science and engineering sectors of the Civil Nuclear and Defence Nuclear industries.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to use depth and breadth of scientific and engineering expertise in nuclear reactor technology to support all stages of the nuclear reactor lifecycle, including commissioning, operating and decommissioning. This involves independently performing technical assessment and scrutiny of designs and modifications, defining technical specifications against statements of requirement, developing innovative engineering solutions to in-service issues and providing senior leaders with technical knowledge and evidence based advice required to make informed decisions. Light Water Reactor (LWR) Scientists and Engineers are highly skilled using their knowledge and experience to understand the fundamental chemical, physical and radiological principles of nuclear reactor operations.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with technical and academic organisations, regulatory bodies, technical and non-technical people at all levels of the organisation. The working environment will mainly be office-based with some plant inspections and reviews; in the defence sector, an employee in this occupation may also operate the submarine reactor at sea. This is a highly technical role found in large multi-national organisations and in supply chain organisations.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for budgets, licence requirements, health &amp;amp; safety, nuclear safety and security. This is a highly responsible role managing the maintenance of the LWR design intent. In particular, LWR Scientists and Engineers are responsible for the safety, reliability, operability and attributes of the LWR plant, assuring compliance with regulatory, contractual and internal company requirements. They are responsible for making recommendations to address fundamental issues and complex challenges to ensure continued safe operation, whilst also in some instances considering innovative ways to improve upon current designs to make nuclear power more effective and efficient for the future.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "32d3bc75-9580-4831-8d35-b2f7f516676d",
+      "detail": "Regulatory framework applicable to the nuclear industry"
+    },
+    {
+      "knowledgeId": "67d6ab62-47b8-4561-97e8-68b441957b2f",
+      "detail": "Nuclear reactor failure modes and potential consequences"
+    },
+    {
+      "knowledgeId": "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+      "detail": "Different modes of reactor operation"
+    },
+    {
+      "knowledgeId": "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+      "detail": "Hazard identification techniques and risk evaluation techniques; the principles ALARP (as low as reasonably practicable) and BAT (best available techniques)"
+    },
+    {
+      "knowledgeId": "575925b6-1c06-438c-bca7-e2448020024e",
+      "detail": "Principles and application of deterministic fault analysis and probabilistic risk analysis"
+    },
+    {
+      "knowledgeId": "27cf17b8-091b-47d6-9755-8a435aedabed",
+      "detail": "Principles and application of radiological protection and effects of exposure on human health and the environment"
+    },
+    {
+      "knowledgeId": "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+      "detail": "Fundamental engineering mathematics and statistical methods"
+    },
+    {
+      "knowledgeId": "ea2b148c-87f7-4364-ab1c-3e45993890d7",
+      "detail": "Reactor physics including quantitative analysis of the neutron lifecycle and consequential design of reactor systems; capabilities of models and codes"
+    },
+    {
+      "knowledgeId": "459a56ae-49f4-43eb-a35d-6f14def89c52",
+      "detail": "Thermal hydraulics including multiphase heat transfer, critical heat flux and prediction methods; feedback coefficients and the coupling between reactor physics and thermal hydraulics; capabilities of models and codes"
+    },
+    {
+      "knowledgeId": "e13f40ed-05c0-408e-ae43-826fe20d5b10",
+      "detail": "Reactor Materials including properties and selection criteria of reactor materials; the mechanisms of corrosion and degradation and the effects of irradiation on materials including fuel"
+    },
+    {
+      "knowledgeId": "6f771263-22f7-4253-ae72-fd002fea92ad",
+      "detail": "Chemistry including key functions of chemistry controls on a light water reactor to maintain reactivity controls to maintain the integrity of materials and minimise radioactivity in the primary circuit"
+    },
+    {
+      "knowledgeId": "4561132f-ef47-4ed7-aefc-303dcf536dbe",
+      "detail": " Interdependencies of reactor physics, reactor materials, chemistry and thermal hydraulics on the design and operation of reactor systems"
+    },
+    {
+      "knowledgeId": "c6566f9e-d89d-4868-9d74-176750ec30b1",
+      "detail": "Effective leadership, management and mentoring techniques including oral and written communication strategies that incorporate a working knowledge of LWR and regulatory terminology used in this occupation, for example Nuclear and Health and Safety legislation and guidance"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+      "detail": " Demonstrate reliability, integrity and respect for confidentiality on work related and personal matters"
+    },
+    {
+      "behaviourId": "aa29a70b-af30-4104-9c5f-764c3f17e264",
+      "detail": "Work autonomously and interact effectively within a wide, multi-disciplinary project team"
+    },
+    {
+      "behaviourId": "9a73ff02-5687-4a55-87bb-bcef3de58cd3",
+      "detail": "Understand the impact of work on others, supporting an inclusive environment"
+    },
+    {
+      "behaviourId": "875e25e5-2a11-422b-aff4-f8fe58334a76",
+      "detail": "Manage time effectively, being able to plan and complete work to schedule"
+    },
+    {
+      "behaviourId": "79da485b-5a9d-4b5f-a4e6-0bf70b671657",
+      "detail": "Supportive attitude to change and responds positively to change management processes"
+    },
+    {
+      "behaviourId": "700181df-9d26-4555-88c7-dd04eb82baee",
+      "detail": "Take responsibility for personal development, demonstrating commitment to learning and self- improvement and provide and receive feedback constructively"
+    },
+    {
+      "behaviourId": "caa02c14-b365-4ea6-b620-345185dc9ecc",
+      "detail": "A strong commitment to personal safety and understanding of the consequences as set out in the nuclear industry requirements"
+    },
+    {
+      "behaviourId": "87baead1-2c57-4fc3-a0eb-191b78341da9",
+      "detail": "Take responsibility for behaviours and conditions in the workplace to reinforce nuclear, radiological and conventional safety over competing goals to ensure the protection of people and the environment, including challenging unsafe behaviours and practices"
+    },
+    {
+      "behaviourId": "44200e6c-3ba5-4802-9577-1c244f48ab20",
+      "detail": "Compliance by following rules, procedures and principles to ensure work completed is fit for purpose, sufficiently detailed and is reviewed for accuracy and completeness"
+    },
+    {
+      "behaviourId": "ad9b8270-32ce-4724-ba2f-76d654d2ba15",
+      "detail": "Commitment to sustainability in work design and application"
+    },
+    {
+      "behaviourId": "13cbdd76-3b18-40c2-b2f7-4b0848a3645f",
+      "detail": "An enthusiastic advocate for the nuclear industry with the ability to represent this industry to a variety of audiences"
+    },
+    {
+      "behaviourId": "5cd55281-d229-4e5c-b760-368eda264f12",
+      "detail": " Demonstrates appropriate leadership and management styles dependent on situation, circumstances and environment"
+    },
+    {
+      "behaviourId": "2d21f191-aea8-4221-b7fb-23a45e087f59",
+      "detail": "Demonstrates a strong commitment to nuclear safety and security, role modelling and sharing good practice"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "27dc475e-675b-419c-a048-14c80a2ce3a0",
+      "detail": "Work competently and safely in a technical nuclear environment to meet regulatory and legislative requirements"
+    },
+    {
+      "skillId": "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+      "detail": "Select and use appropriate models, codes, both probabilistic and deterministic, and analytical techniques"
+    },
+    {
+      "skillId": "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+      "detail": "Assess and make recommendations for modifications to system and component design throughout the reactor lifecycle, demonstrating the rigour required to contribute to nuclear safety cases"
+    },
+    {
+      "skillId": "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+      "detail": "Evaluate plant conditions under all modes of LWR operation, for example shut down, and start up, critical steady state operations"
+    },
+    {
+      "skillId": "07f4b742-e483-43b9-9fec-3267ff730f7b",
+      "detail": " Integrate design principles, hazard identification and risk evaluation techniques into maintenance, repair and modification solutions"
+    },
+    {
+      "skillId": "a009f816-c840-49a9-96f4-d68c1dc77af2",
+      "detail": " Integrate radiological protection principles into technical proposals and solutions"
+    },
+    {
+      "skillId": "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+      "detail": " Apply appropriate mathematical statistical methods to enable uncertainties to be clearly expressed and explained to a technical and non-technical audience"
+    },
+    {
+      "skillId": "f089a301-3962-466d-a47e-9009f770a130",
+      "detail": "Communicate effectively and professionally with all levels within and across the organisation"
+    },
+    {
+      "skillId": "c1c91f9f-c40f-4358-8a90-bdcf6f34ac5a",
+      "detail": "Carry out calculations for reactor physics and thermal hydraulics"
+    },
+    {
+      "skillId": "b550a9c1-b6e6-4bdf-9a5c-0f5618f31369",
+      "detail": " Carry out chemical and radio chemical analyses"
+    },
+    {
+      "skillId": "91cea941-5d17-4349-ae23-0bfbb22a0afb",
+      "detail": "Generate and lead teams, physical or virtual, to solve cross-cutting problems; acknowledge the accomplishments of others and the importance of individual contributions to overall performance"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "false",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "non-integrated degree",
+  "tbReference": "TB0592",
+  "tbMainContact": "Mark.Batcheldor@edfenergy.com",
+  "involvedEmployers": "Ministry of Defence, EDF Energy, Horizon Nuclear Power, NuGen, Rolls Royce",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Design authority engineer",
+    "Design authority scientist",
+    "Fuel and core physics specialist",
+    "Plant chemist",
+    "Structural integrity engineer",
+    "Systems engineer",
+    "Royal navy marine engineer submarine officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": null,
+  "createdDate": "2021-11-30T10:09:13 +00:00",
+  "lastUpdated": "2021-11-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC0640",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0640?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0640",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Physics ",
+      "level": "CPhys, CEng",
+      "isPartial": "",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Royal Society of Chemistry ",
+      "level": "CChem",
+      "isPartial": "",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "957e4ae5-cfed-46f5-b66e-fdcb9ddefab8",
+      "dutyDetail": " Provide guidance and solutions to technical issues to ensure the full operability and optimise performance of LWR plant systems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "35ea964f-8fbc-425b-90ad-4f7133c5dff4",
+      "dutyDetail": "Analyse LWR plant system conditions eg temperature, pressures and flows, identify adverse trends and propose technical solutions",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "459a56ae-49f4-43eb-a35d-6f14def89c52",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92f2f1b7-3e0b-402c-846b-336e192ddefe",
+      "dutyDetail": "Design and specify plant components, spare parts and other consumables for maintenance, repair and modifications eg valves, actuators, seals",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc"
+      ],
+      "mappedKnowledge": [
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "81791be0-ef6e-41b1-a10d-454ed108f438",
+      "dutyDetail": "Create and/or maintain LWR plant system design documents and contribute to the development of LWR plant processes and procedures ensuring priority is given to Health & Safety",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc9765dd-04f0-486a-9c70-b76c697268e0",
+      "dutyDetail": "Design and model the LWR plant systems under normal and abnormal operating conditions to ensure the safety requirements associated with nuclear safety case are met",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "9a73ff02-5687-4a55-87bb-bcef3de58cd3",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "575925b6-1c06-438c-bca7-e2448020024e",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12f5db8b-76c3-4ed6-94da-3c14fe3d406e",
+      "dutyDetail": "Evaluate technical proposals for plant system design modifications and independently verify suitability and feasibility",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "9a73ff02-5687-4a55-87bb-bcef3de58cd3",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "700181df-9d26-4555-88c7-dd04eb82baee",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "459a56ae-49f4-43eb-a35d-6f14def89c52",
+        "e13f40ed-05c0-408e-ae43-826fe20d5b10",
+        "6f771263-22f7-4253-ae72-fd002fea92ad",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c1a66d1-859a-49aa-9aab-9f031d870e72",
+      "dutyDetail": "Mentor LWR team members, graduates and apprentices, providing technical development to increase own and team’s capability, enhancing organisational resilience",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "9a73ff02-5687-4a55-87bb-bcef3de58cd3",
+        "79da485b-5a9d-4b5f-a4e6-0bf70b671657",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "13cbdd76-3b18-40c2-b2f7-4b0848a3645f",
+        "5cd55281-d229-4e5c-b760-368eda264f12",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "698a07e1-17e2-45a7-8fda-35f81856fa28",
+      "dutyDetail": "Prepare and contribute to formal communications for appropriate regulatory and other agency interfaces such as Office for Nuclear Regulation LWR safety case report",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "13cbdd76-3b18-40c2-b2f7-4b0848a3645f",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "ea2b148c-87f7-4364-ab1c-3e45993890d7",
+        "459a56ae-49f4-43eb-a35d-6f14def89c52",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eed3523f-adde-4d75-87c5-0684797565bd",
+      "dutyDetail": "Provide a leading role and technical expertise in the event of an emergency response situation including beyond design basis events",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "9a73ff02-5687-4a55-87bb-bcef3de58cd3",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "5cd55281-d229-4e5c-b760-368eda264f12"
+      ],
+      "mappedKnowledge": [
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "ea2b148c-87f7-4364-ab1c-3e45993890d7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4705692c-e067-436a-910f-3c860f520e0c",
+      "dutyDetail": "Provide effective communication to inform significant operational/technical issues that impact on LWR plant availability",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3cbd7d6c-5d34-4dfc-a75b-eb9477c18fd9",
+      "dutyDetail": "Implement best practice in environmental and waste management",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5d4396fd-6ea2-4416-b7ff-035d0e52915d",
+      "dutyDetail": "Undertake performance analysis to define operating parameters to meet nuclear safety case requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "67d6ab62-47b8-4561-97e8-68b441957b2f",
+        "575925b6-1c06-438c-bca7-e2448020024e",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "ea2b148c-87f7-4364-ab1c-3e45993890d7",
+        "459a56ae-49f4-43eb-a35d-6f14def89c52",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "07f4b742-e483-43b9-9fec-3267ff730f7b",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d3c4d50-8713-47c9-8c79-88dcc4af9b27",
+      "dutyDetail": "Input to technical budgetary operational requirements for lifecycle planning",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15",
+        "5cd55281-d229-4e5c-b760-368eda264f12",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "575925b6-1c06-438c-bca7-e2448020024e",
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c529c751-deaa-4f30-bc0d-dcc0ceeacc8e",
+      "dutyDetail": "Be an ambassador for nuclear safety culture and lead on safety and safe working practices",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0f577cc-9505-4b7d-a45c-b02c3eab79b1",
+        "700181df-9d26-4555-88c7-dd04eb82baee",
+        "13cbdd76-3b18-40c2-b2f7-4b0848a3645f",
+        "5cd55281-d229-4e5c-b760-368eda264f12",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "32d3bc75-9580-4831-8d35-b2f7f516676d",
+        "7c82fc77-23a3-416e-a269-06c42ccce7b9",
+        "27cf17b8-091b-47d6-9755-8a435aedabed",
+        "c6566f9e-d89d-4868-9d74-176750ec30b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "91cea941-5d17-4349-ae23-0bfbb22a0afb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26e6df1f-350d-4e88-b1de-96813a0a609b",
+      "dutyDetail": "Routinely verify operational status of plant to ensure it is maintained within chemistry, physics and thermal hydraulics design constraints",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15",
+        "2d21f191-aea8-4221-b7fb-23a45e087f59"
+      ],
+      "mappedKnowledge": [
+        "5a74ff3b-e7a0-4b3a-ba6a-04e6b0a135ab",
+        "ea2b148c-87f7-4364-ab1c-3e45993890d7",
+        "459a56ae-49f4-43eb-a35d-6f14def89c52",
+        "6f771263-22f7-4253-ae72-fd002fea92ad",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "f089a301-3962-466d-a47e-9009f770a130",
+        "c1c91f9f-c40f-4358-8a90-bdcf6f34ac5a",
+        "b550a9c1-b6e6-4bdf-9a5c-0f5618f31369"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a9293e5e-72bd-41fc-b125-36ec3667f8b8",
+      "dutyDetail": "Contribute to design and maintenance of LWR core and plant components under all operating conditions including assessing degradation of materials and taking into consideration of the harsh environment in which the materials are operating",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa29a70b-af30-4104-9c5f-764c3f17e264",
+        "875e25e5-2a11-422b-aff4-f8fe58334a76",
+        "caa02c14-b365-4ea6-b620-345185dc9ecc",
+        "87baead1-2c57-4fc3-a0eb-191b78341da9",
+        "44200e6c-3ba5-4802-9577-1c244f48ab20",
+        "ad9b8270-32ce-4724-ba2f-76d654d2ba15"
+      ],
+      "mappedKnowledge": [
+        "04bb4c15-3236-4bec-8d47-2fd514c4ed38",
+        "e13f40ed-05c0-408e-ae43-826fe20d5b10",
+        "4561132f-ef47-4ed7-aefc-303dcf536dbe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "27dc475e-675b-419c-a048-14c80a2ce3a0",
+        "3c1621d6-1fbd-4f45-afc7-a888d1163470",
+        "786b9a92-6d3f-41c1-8ea2-1899685e5e01",
+        "b050f2bb-d6dd-45f3-b494-3e3db63ce252",
+        "a009f816-c840-49a9-96f4-d68c1dc77af2",
+        "6d32eb44-9cf1-4427-b2c3-d7ea05e16c90",
+        "f089a301-3962-466d-a47e-9009f770a130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-11-30T00:00:00"
+}
