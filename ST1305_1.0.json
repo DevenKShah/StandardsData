@@ -1,0 +1,647 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 691,
+  "referenceNumber": "ST1305",
+  "learningAimClassCode": "",
+  "title": "Machining technician",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1305",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-11-17T00:00:00",
+  "earliestStartDate": "2022-11-09T00:00:00",
+  "latestStartDate": "2022-11-23T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Setting up machines prior to production as well as monitoring and correcting them as needed.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 42,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Machines",
+    "engineering",
+    "technology",
+    "manufacturing",
+    "technician"
+  ],
+  "jobRoles": [
+    "Centre lathe turner",
+    "CNC centre lathe turner",
+    "Cnc edm machinist technician",
+    "Cnc gear cutter",
+    "Cnc gear cutter and grinder",
+    "Cnc horizontal borer",
+    "Cnc machinist",
+    "Cnc machinist (miller turner or grinder)",
+    "Cnc machinist programmer",
+    "Cnc vertical borer",
+    "Conventional vertical borer",
+    "Edm machinist technician",
+    "Gear cutter",
+    "Gear cutter and grinder",
+    "Horizontal borer",
+    "Machining technician",
+    "Machinist",
+    "Manual machinist (miller turner or grinder)",
+    "Precision engineer"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set the recruitment and selection criteria for their Apprenticeships. In order to optimise success, candidates will typically have 4 GCSEs at&#160; Grade 4 or Grade C or equivalent, including mathematics, English and a Science.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1305-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.2 Manufacturing technologies",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.kjk&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the Advanced Manufacturing and Engineering (AME) sector.&#160; AME includes Aerospace, Automotive, Maritime Defence, Nuclear and Construction sectors. Machining technicians produce complex and precision machined products that are typically used in machinery. For example, aeroplanes and vehicles. They can also produce bespoke components or products for domestic appliances or medical equipment. They use a variety of machines to carry out their work. For example, centre lathes, vertical and horizontal milling machines, horizontal and cylindrical grinding machines. Electro discharge machines, single and multi-axis Computer Numeric Control (CNC) machine tools centres.&#160; Gear cutting and Gear Grinding machines. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to produce complex and precision work by machining components. Components are machined from metal or specialist materials using conventional or CNC machine tools. Machining Technicians interpret information and plan their activities. They also set up, operate, adjust or edit machine tool settings. When using CNC equipment, they can produce, prove or edit programmes. They inspect components and machinery, report issues and support continuous improvement activities. They typically work in a manufacturing environment. Depending on the organisation, they may be required to work at height or work shifts. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with other Machining Technicians. They also interact with various stakeholders. They typically report to an engineering or manufacturing team leader. Typically, this would be as part of a defined or cross functional team. They may also interact with customers, suppliers, colleagues, quality auditors and regulators. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for the quality and accuracy of their work. They also must work efficiently and be productive in the work they undertake.&#160; They must work both individually and as part of a larger team. They must work within the relevant health, safety and environmental regulations. This includes the use of appropriate protective clothing and equipment.&#160; They are responsible for the correct use and housekeeping of machinery, tools and equipment. All work must be completed in a safe and efficient manner as directed by supervisory staff.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b8dcd07b-25f1-4634-8ad7-c59597826937",
+      "detail": "Awareness of health and safety regulations, relevance to the occupation and the Machinist's responsibilities. Health and Safety at Work Act; Control of Substances Hazardous to Health (COSHH); Working in Confined Spaces; Lone Working; Provision of Work Equipment Regulations (PUWER); Electrical Safety and Compliance; Noise Regulation; Slips Trips and Falls; Display Screen Equipment; The Reporting of Injuries, Disease and Dangerous Occurrences Regulations (RIDDOR), Manual Handling, Personal Protective Equipment (PPE), risk assessments and method statements and the implications of not adhering to guidelines and procedures."
+    },
+    {
+      "knowledgeId": "6eef06e8-61ac-4881-b80c-fa15732199f7",
+      "detail": "Awareness of hazardous waste regulations; Recyclable materials and waste disposal procedures and the implications of not complying with regulations and procedures."
+    },
+    {
+      "knowledgeId": "a04c88a5-661b-4f96-8663-5e03246c4f9c",
+      "detail": "Awareness of environment and sustainability regulations, relevance to the occupation and the Machining Technician's responsibilities. Environmental Protection Act; Sustainability; Waste Electrical and Electronic Equipment Directive (WEEE); Energy monitoring; Data logging to optimise energy performance; The Climate Change Agreements; Carbon Reduction Commitment (CRC)."
+    },
+    {
+      "knowledgeId": "4ec03f3d-ca04-4f0c-a3bc-acdbb0a68e1e",
+      "detail": "Engineering representations, drawings, graphical information and specifications."
+    },
+    {
+      "knowledgeId": "6c6bdfe4-ed22-416c-9698-46d1daacf9f0",
+      "detail": "Engineering mathematical and scientific principles: calculations, conversions, flow rates and equipment sizing. "
+    },
+    {
+      "knowledgeId": "9024600e-50c0-4f8a-82c3-075737d267fc",
+      "detail": "Planning techniques, time management, workflow, work scheduling, work plans, documents and work categorisation systems."
+    },
+    {
+      "knowledgeId": "5e3a7426-7a70-4faf-a1e3-38d3ef7f6e78",
+      "detail": "Engineering materials and their structure, properties and characteristics; impact on use, how and why engineering materials can fail. "
+    },
+    {
+      "knowledgeId": "0be80f69-1054-478b-98d4-86dab6fd8a3d",
+      "detail": "Awareness of engineering standards and regulations: British Standards (BS); International Organisation for Standardisation standards (ISO); European Norm (EN); Standard Operating Procedures (SOP)."
+    },
+    {
+      "knowledgeId": "9c062759-5a41-4f2d-a3d4-63157d7f9caa",
+      "detail": "Tooling and work-holding devices: purpose and operation of devices for carrying out complex machining tasks. "
+    },
+    {
+      "knowledgeId": "5d69d4ae-d0ab-49ad-bdc3-e7114f77db27",
+      "detail": "Engineering machining processes tools and equipment: Milling; Turning; Grinding; Electro Discharge Machine (EDM); Gear Cutting."
+    },
+    {
+      "knowledgeId": "e65cd062-8288-49a0-b05d-0c95261bc167",
+      "detail": "Machining operations and techniques to produce complex components."
+    },
+    {
+      "knowledgeId": "55a36d1d-a76c-4b05-b118-c68bd53ecc23",
+      "detail": "Quality assurance: principles, practices and record keeping."
+    },
+    {
+      "knowledgeId": "bb07871f-8366-452e-afce-389e754835d2",
+      "detail": "Fault finding, diagnostic methods and techniques for identifying engineering and manufacturing problems. Escalation techniques."
+    },
+    {
+      "knowledgeId": "6f0b9417-eb28-4c5f-8245-ea5224009ecb",
+      "detail": "Use and application of measurement, calibration and testing equipment."
+    },
+    {
+      "knowledgeId": "69d8a5ff-0041-4338-adc2-e4b4261b7380",
+      "detail": "Communication techniques: verbal. Machining industry terminology."
+    },
+    {
+      "knowledgeId": "eed185d0-55e5-4621-a91b-6cc81d78c1be",
+      "detail": "Documentation - electronic and paper."
+    },
+    {
+      "knowledgeId": "e54fb28b-4a31-4c89-b9ff-7d4db4955f47",
+      "detail": "Housekeeping and maintenance practices and techniques: planned, preventative and predictive methods, frequency, and reactive activities."
+    },
+    {
+      "knowledgeId": "95a84ac6-9497-4766-92e0-647a469afe75",
+      "detail": "How organisations vary regarding their work, culture, values and production processes in the Machining industry."
+    },
+    {
+      "knowledgeId": "f21377a5-cf54-4afa-8504-520d6f9800c4",
+      "detail": "Inspection processes and procedures; documentation and escalation."
+    },
+    {
+      "knowledgeId": "0440039d-ada2-4a28-801f-2cea1bd4823c",
+      "detail": "Technological development and innovation in the machining sector; Industry 4.0; digitalisation."
+    },
+    {
+      "knowledgeId": "5e90b1e0-c7b5-4645-a491-0692a3b10f85",
+      "detail": "Continuous improvement principles and practices: Lean; Six Sigma; Kaizen."
+    },
+    {
+      "knowledgeId": "d26b24c2-e7b2-43ba-a544-f96fcb92e105",
+      "detail": "Equality, diversity and inclusion requirements in the workplace."
+    },
+    {
+      "knowledgeId": "28f55505-750b-46fc-93c1-89a36299f893",
+      "detail": "Stock and services considerations. Availability, stock lead times. Correct handling. Stock value. Faulty stock and returns process. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
+      "detail": "Prioritise health and safety."
+    },
+    {
+      "behaviourId": "17b2dff3-628e-4b17-af9c-bd2297e67774",
+      "detail": "Act ethically."
+    },
+    {
+      "behaviourId": "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff",
+      "detail": "Take responsibility for work."
+    },
+    {
+      "behaviourId": "d1d6a4af-53d3-42d0-963a-2400c02a4400",
+      "detail": "Team-focus to meet work goals, for example, work effectively with others, resolves issues in discussion with others."
+    },
+    {
+      "behaviourId": "24682f9b-a03f-49dc-85af-0ec2c88ab90b",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "behaviourId": "2e734429-d305-4bc9-a9c1-8e930af3200d",
+      "detail": "Support an equality, diverse and inclusive culture."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "c486afaa-2f28-4a98-9868-aa0eaa96b335",
+      "detail": "Comply with statutory health and safety regulations and procedures."
+    },
+    {
+      "skillId": "44b659c9-9e20-4af3-9683-42d4bf4a3cd7",
+      "detail": "Comply with environmental, ethical and sustainability regulations and procedures: safe disposal of waste, re-cycling or re-use of materials and efficient use of resources."
+    },
+    {
+      "skillId": "057a89c9-ce27-4246-a159-8b2e70f83274",
+      "detail": "Prepare and set up conventional or CNC machines."
+    },
+    {
+      "skillId": "67e62508-abf2-4039-821c-d2ba6e306618",
+      "detail": "Operate and adjust conventional or CNC machines."
+    },
+    {
+      "skillId": "79f8bacc-2ec5-464b-947c-4cd45f158bea",
+      "detail": "Apply risk assessment and hazard identification processes and procedures in the work area."
+    },
+    {
+      "skillId": "3d69dd36-8f63-44d0-ba6f-50e4f58d8457",
+      "detail": "Monitor, obtain and check stock and supplies, and complete stock returns."
+    },
+    {
+      "skillId": "19d3625b-b425-447b-873a-40f18882b87b",
+      "detail": "Record information - paper based or electronic. For example, energy usage, job sheets, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, waste environmental records and any legal reporting requirements."
+    },
+    {
+      "skillId": "badf7251-f38f-43d8-961e-09b0c1d5a812",
+      "detail": "Read and interpret information. For example, data and documentation used to produce machined components."
+    },
+    {
+      "skillId": "7d42e797-5e84-4b9a-8692-758bf2951a30",
+      "detail": "Apply engineering, mathematical and scientific principles."
+    },
+    {
+      "skillId": "15f6f118-3961-478a-84cd-a67cc1054197",
+      "detail": "Plan and organise own work and resources. "
+    },
+    {
+      "skillId": "47463728-d410-4d93-aa7f-7bf636ee8af5",
+      "detail": "Follow and apply inspection, quality assurance procedures and processes."
+    },
+    {
+      "skillId": "9aea6e76-6bc8-4029-a521-b782b1f903dd",
+      "detail": "Select machining process."
+    },
+    {
+      "skillId": "77802b65-15ee-44f1-9cc8-d69f1e0037c2",
+      "detail": "Select and setup tooling and work holding devices. "
+    },
+    {
+      "skillId": "0f8d242b-b461-47b2-b3cc-4c5a1759ffdd",
+      "detail": "Set and adjust machine operating parameters. For example, setting feeds and speeds for roughing and finishing operations, downloading and editing programmes when using a CNC machine tool."
+    },
+    {
+      "skillId": "dfe35f35-59fe-43d7-8b91-a21e0f1dbdde",
+      "detail": "Apply machining operations and techniques to produce complex components with features. For example, parallel; stepped; angular diameters and faces; grooves; slots; recesses and undercuts; radii and chamfers; internal and external forms and profiles; reamed; bored; drilled and electro eroded holes; internal and external screw threads."
+    },
+    {
+      "skillId": "10423c88-4928-4650-865f-8f6e4249c792",
+      "detail": "Measure and check components. "
+    },
+    {
+      "skillId": "0840d387-5fb6-4555-9739-be63e2a884c2",
+      "detail": "Select and check condition of tools and equipment. Identify issues, resolve and take action as needed."
+    },
+    {
+      "skillId": "74b609d4-f196-4860-8ba1-58dbad376947",
+      "detail": "Identify and action issues in the manufacturing process."
+    },
+    {
+      "skillId": "e5b17ed7-f0c9-47db-bdca-6f7f6f4ccf24",
+      "detail": "Apply fault-finding and diagnostic testing procedures to identify faults. Diagnose and resolve issues. Escalate issues."
+    },
+    {
+      "skillId": "2763dde9-2c73-466f-adf5-46c05af44f4c",
+      "detail": "Maintain the work area and return any resources and consumables. "
+    },
+    {
+      "skillId": "96b1c51e-6581-4cad-8a4a-6594d8f9454b",
+      "detail": "Communicate with others verbally. For example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "01912fcd-ede3-482a-aa6a-4025b59287b9",
+      "detail": "Follow machine shut down, safe isolation, handover, start up or warm up procedures. Escalate issues."
+    },
+    {
+      "skillId": "6f35ae33-868b-451c-b4fd-a2545ad98bda",
+      "detail": "Apply continuous improvement techniques. Devise suggestions for improvement."
+    },
+    {
+      "skillId": "23e7d3a8-d440-4d1e-ab12-beade525641c",
+      "detail": "Apply ethical principles."
+    },
+    {
+      "skillId": "91bb1c6b-2ccb-4725-96dc-39aaf4187f9e",
+      "detail": "Apply team working principles."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-11-09T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0695",
+  "tbMainContact": "mark.maudsley@gtaengland.co.uk dgeorge@jaguarlandrover.com",
+  "involvedEmployers": "AESSEAL, Apex Pumps, AWE, Babcock International, BEP-Surface Technologies, Blackrow, Borg Warner, Collins Aerospace, DS Machining, Fort Vale Engineering,  JCB, Jaguar Land Rover, McBraida, Manufax, Rolls-Royce, Scott Aerospace, Techni Grind, Xtrac",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Centre lathe turner",
+    "CNC centre lathe turner",
+    "Cnc edm machinist technician",
+    "Cnc gear cutter",
+    "Cnc gear cutter and grinder",
+    "Cnc horizontal borer",
+    "Cnc machinist",
+    "Cnc machinist (miller turner or grinder)",
+    "Cnc machinist programmer",
+    "Cnc vertical borer",
+    "Conventional vertical borer",
+    "Edm machinist technician",
+    "Gear cutter",
+    "Gear cutter and grinder",
+    "Horizontal borer",
+    "Machining technician",
+    "Machinist",
+    "Manual machinist (miller turner or grinder)",
+    "Precision engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Manufacturing and Process Operative/Technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
+  "createdDate": "2022-10-06T15:54:37 +00:00",
+  "lastUpdated": "2022-11-17T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-11-09T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1305",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1305-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1305-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "484e1a75-551d-421d-9588-d0196ef7773c",
+      "title": "Extended diploma in machining  knowledge, City and Guilds or EAL  or Diploma in advanced manufacturing engineering (machining), Pearson BTEC, City and Guilds or EAL",
+      "level": "3",
+      "anyAdditionalInformation": "Extended Diploma in machining  knowledge, 720GLH, City and Guilds or EAL Diploma in advanced manufacturing engineering (machining), 720 GLH, Pearson BTEC, City and Guilds or EAL",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Royal Aeronautical Society (RAeS)",
+      "level": "Engineering Technician (EngTech) ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Engineering and Technology (IET) ",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institute of Mechanical Engineers (IMechE)",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "e0e5401c-4ac8-41bf-8627-7a9283c81b40",
+      "dutyDetail": "Conduct safety checks and performance monitoring for machining, associated equipment and surrounding work area.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "b8dcd07b-25f1-4634-8ad7-c59597826937",
+        "6eef06e8-61ac-4881-b80c-fa15732199f7",
+        "a04c88a5-661b-4f96-8663-5e03246c4f9c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c486afaa-2f28-4a98-9868-aa0eaa96b335",
+        "44b659c9-9e20-4af3-9683-42d4bf4a3cd7",
+        "79f8bacc-2ec5-464b-947c-4cd45f158bea",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "072872ca-5982-4549-a48f-bb218aa45ff0",
+      "dutyDetail": "Receive, read and interpret engineering data and documentation, engineering drawings and technical data. Contribute to or plan the days machining schedule.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
+        "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff",
+        "d1d6a4af-53d3-42d0-963a-2400c02a4400"
+      ],
+      "mappedKnowledge": [
+        "4ec03f3d-ca04-4f0c-a3bc-acdbb0a68e1e",
+        "6c6bdfe4-ed22-416c-9698-46d1daacf9f0",
+        "9024600e-50c0-4f8a-82c3-075737d267fc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "057a89c9-ce27-4246-a159-8b2e70f83274",
+        "badf7251-f38f-43d8-961e-09b0c1d5a812",
+        "7d42e797-5e84-4b9a-8692-758bf2951a30",
+        "15f6f118-3961-478a-84cd-a67cc1054197",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7e6136e8-7ad9-47fe-a597-76dd913a3f50",
+      "dutyDetail": "Check and inspect materials to be machined to ensure that they conform to quality standards. Identify and report any issues or faults such as incorrect grades, dimensions and thicknesses.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "5e3a7426-7a70-4faf-a1e3-38d3ef7f6e78",
+        "28f55505-750b-46fc-93c1-89a36299f893"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3d69dd36-8f63-44d0-ba6f-50e4f58d8457",
+        "19d3625b-b425-447b-873a-40f18882b87b",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8bd5cc94-17b7-4ac0-8c02-83d7c5941a49",
+      "dutyDetail": "Plan and prepare sequence for the machining activities. Ensure that the correct tooling, work holding, and materials are used. This applies to conventional complex or CNC complex machining tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
+        "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff"
+      ],
+      "mappedKnowledge": [
+        "9024600e-50c0-4f8a-82c3-075737d267fc",
+        "9c062759-5a41-4f2d-a3d4-63157d7f9caa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "057a89c9-ce27-4246-a159-8b2e70f83274",
+        "7d42e797-5e84-4b9a-8692-758bf2951a30",
+        "15f6f118-3961-478a-84cd-a67cc1054197",
+        "77802b65-15ee-44f1-9cc8-d69f1e0037c2",
+        "0f8d242b-b461-47b2-b3cc-4c5a1759ffdd",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d9c55f88-9c99-40dc-bdde-8c3c88aa8137",
+      "dutyDetail": "Set up, operate, adjust or edit conventional or CNC machining equipment settings and programmes for the machine tool being used. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "5d69d4ae-d0ab-49ad-bdc3-e7114f77db27"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "67e62508-abf2-4039-821c-d2ba6e306618",
+        "7d42e797-5e84-4b9a-8692-758bf2951a30",
+        "77802b65-15ee-44f1-9cc8-d69f1e0037c2",
+        "0f8d242b-b461-47b2-b3cc-4c5a1759ffdd",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e044ab57-51ec-4aad-b3ec-2015d8473c25",
+      "dutyDetail": "Machine high-quality complex components using a broad range of processes. For example, internal or external thread cutting, slots and pockets, internal or external under cutting. Also profile forms, tapered and eccentric diameters, bored holes, and tee slots.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "e65cd062-8288-49a0-b05d-0c95261bc167"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7d42e797-5e84-4b9a-8692-758bf2951a30",
+        "9aea6e76-6bc8-4029-a521-b782b1f903dd",
+        "77802b65-15ee-44f1-9cc8-d69f1e0037c2",
+        "0f8d242b-b461-47b2-b3cc-4c5a1759ffdd",
+        "dfe35f35-59fe-43d7-8b91-a21e0f1dbdde",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e4cd2681-c1b3-4652-a1bb-1b61754988b8",
+      "dutyDetail": "Inspect components produced.  Adjust the machining equipment or programme and tooling to ensure components meet quality requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
+        "a85d7d03-3bc3-49e8-a589-81b36fb1a5ff"
+      ],
+      "mappedKnowledge": [
+        "0be80f69-1054-478b-98d4-86dab6fd8a3d",
+        "55a36d1d-a76c-4b05-b118-c68bd53ecc23",
+        "6f0b9417-eb28-4c5f-8245-ea5224009ecb",
+        "f21377a5-cf54-4afa-8504-520d6f9800c4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47463728-d410-4d93-aa7f-7bf636ee8af5",
+        "10423c88-4928-4650-865f-8f6e4249c792",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ff86764-5b85-409f-9116-5467cccd6146",
+      "dutyDetail": "Identify, communicate and report issues affecting machining component quality, quantity and deadlines.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "bb07871f-8366-452e-afce-389e754835d2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0840d387-5fb6-4555-9739-be63e2a884c2",
+        "74b609d4-f196-4860-8ba1-58dbad376947",
+        "e5b17ed7-f0c9-47db-bdca-6f7f6f4ccf24",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c",
+        "91bb1c6b-2ccb-4725-96dc-39aaf4187f9e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "045b52b3-ab6c-42b3-9191-ba8232621647",
+      "dutyDetail": "Complete machining documentation at all stages of the work activity. For example, standard operational procedures, control documentation and contribution to audits.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "69d8a5ff-0041-4338-adc2-e4b4261b7380",
+        "eed185d0-55e5-4621-a91b-6cc81d78c1be"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "19d3625b-b425-447b-873a-40f18882b87b",
+        "7d42e797-5e84-4b9a-8692-758bf2951a30",
+        "96b1c51e-6581-4cad-8a4a-6594d8f9454b",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a76ebb3-a377-496d-8349-9f8a08d14d0f",
+      "dutyDetail": "Maintain and restore the machining work area, performing housekeeping and waste management as appropriate. Ensure tools, unused materials and equipment are returned to a safe, clean and approved condition on completion of machining work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "e54fb28b-4a31-4c89-b9ff-7d4db4955f47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2763dde9-2c73-466f-adf5-46c05af44f4c",
+        "01912fcd-ede3-482a-aa6a-4025b59287b9",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76a700c1-7978-43e6-9654-79437d0c8206",
+      "dutyDetail": "Keep stakeholders for example, customers, colleagues and line managers informed about machining work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d1d6a4af-53d3-42d0-963a-2400c02a4400"
+      ],
+      "mappedKnowledge": [
+        "69d8a5ff-0041-4338-adc2-e4b4261b7380",
+        "eed185d0-55e5-4621-a91b-6cc81d78c1be",
+        "95a84ac6-9497-4766-92e0-647a469afe75",
+        "d26b24c2-e7b2-43ba-a544-f96fcb92e105"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96b1c51e-6581-4cad-8a4a-6594d8f9454b",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c",
+        "91bb1c6b-2ccb-4725-96dc-39aaf4187f9e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01749a65-ddc3-4a7b-9b87-7702644259ba",
+      "dutyDetail": "Perform scheduled daily inspection and machine shut down or safe isolation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4"
+      ],
+      "mappedKnowledge": [
+        "e54fb28b-4a31-4c89-b9ff-7d4db4955f47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "01912fcd-ede3-482a-aa6a-4025b59287b9",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "263253db-eda5-4285-b33b-f89d5753f8eb",
+      "dutyDetail": "Support continuous improvement activity to address business problems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ed083582-6624-42e8-b6f6-3dc483d0c2b4",
+        "17b2dff3-628e-4b17-af9c-bd2297e67774",
+        "24682f9b-a03f-49dc-85af-0ec2c88ab90b",
+        "2e734429-d305-4bc9-a9c1-8e930af3200d"
+      ],
+      "mappedKnowledge": [
+        "0440039d-ada2-4a28-801f-2cea1bd4823c",
+        "5e90b1e0-c7b5-4645-a491-0692a3b10f85"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6f35ae33-868b-451c-b4fd-a2545ad98bda",
+        "23e7d3a8-d440-4d1e-ab12-beade525641c",
+        "91bb1c6b-2ccb-4725-96dc-39aaf4187f9e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-11-23T00:00:00"
+}
