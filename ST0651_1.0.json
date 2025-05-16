@@ -1,29 +1,41 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 664,
   "referenceNumber": "ST0651",
+  "learningAimClassCode": "",
   "title": "Lightning protection operative",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0651",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-15T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Install and maintain lightning protection and earthing systems to buildings and infrastructure to minimise damage.",
+  "overviewOfRole": "Install and maintain lightning protection and earthing systems.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
-  "maxFunding": 0,
-  "route": "Construction",
-  "keywords": [],
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "light",
+    "buildings",
+    "construction",
+    "infrastructure",
+    "lightning",
+    "building"
+  ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4570/st0651_lightning-protection-operative_l2_for_publication_24092020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/13bj14n0/st0651_lightning-protection-operative_l2_correction_may-2023_clean.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
-  "ssa2": "5.2 Building and construction",
-  "version": "",
+  "ssa2": "5.1 Architecture",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This Lightning Protection Operative occupation is found in the construction, facilities management, heritage, infrastructure, transportation, utilities, petrochemical and energy production/distribution sectors. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to install and/or maintain lightning protection and earthing systems to buildings and infrastructure to minimise damage to structures and their contents and to reduce the risk of injury to people in, or working on, the equipment that is being protected. The core element of an operative’s work is the installation of lightning protection systems but most will also undertake some power earthing work to provide a safe earth for electrical systems. This is a growing element of employers’ activities and some operatives will specialise in power earthing duties.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with internal stakeholders such as company project managers, supervisors and safety representatives; and external stakeholders such as contractors, site management and safety teams, clients representatives, materials and equipment suppliers and training providers. The work is typically undertaken on construction sites or on client-owned premises or equipment and usually involves working on the outside of building structures on the roof or walls, or on equipment that is open to the atmosphere. It is an occupation that is often conducted outside in all weathers and at height. &lt;br /&gt;&lt;br /&gt;An employee in this occupation typically works in small teams overseen by a senior operative or supervisor. They will be required to complete basic tasks, such as product installation, routine testing and maintenance, without supervision and make accurate records of work undertaken. They will also be required to assist with more complex tasks, such as specialist testing, with the support of their team and under direct supervision.&lt;/p&gt;",
   "knowledges": [
     {
@@ -159,37 +171,46 @@
       "detail": "Specialist testing and verification: low resistance electrical continuity tests for earthing systems joint connections"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0240",
   "tbMainContact": "john.jolly@cuttings.london",
   "involvedEmployers": "Cuttings London, BEST Services, Churchill SC, Delta International, J Redpath Buchanan, Omega Red Group, Orion LP, PTSG Electrical Services, Rafferty International, Sentinel",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Onsite Construction",
-  "cluster": "Construction Specialist Operative/Technician",
+  "cluster": "Construction specialist operative or technician",
+  "clusterId": "103",
+  "clusterDescription": null,
   "createdDate": "2020-09-25T14:38:39 +00:00",
-  "lastUpdated": "2020-09-25T14:38:39 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lightning-protection-operative",
+  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0651",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0651-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0651-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -206,7 +227,7 @@
         "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
         "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "320237bf-3dd2-491a-8e6a-87196486e183",
@@ -228,7 +249,7 @@
         "f40041c7-6840-496c-97cc-31189c08f8e1",
         "2a946031-af04-4d51-bcd1-0c8737bcda84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "320237bf-3dd2-491a-8e6a-87196486e183",
         "6b2cb080-4c36-417e-b4ea-dd7fa242abae",
@@ -249,7 +270,7 @@
         "0eb1e6aa-6a56-42ca-9437-9a32c1a0a2ba",
         "ec9980ec-435c-4e01-9ccd-64e7ed5f5ef3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "0bc525b0-f1f8-4984-81a6-ae3289ed0868",
@@ -270,7 +291,7 @@
         "0788c98f-11c8-4267-95e4-28be56913dc0",
         "e86151f0-093b-438d-9c3d-94e1eeab958a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "320237bf-3dd2-491a-8e6a-87196486e183",
         "5c216433-d652-4a41-a57a-c576e189d947"
@@ -290,7 +311,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -311,7 +332,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -333,7 +354,7 @@
         "c350de86-61dc-4521-93e8-48b826a9f434",
         "e86151f0-093b-438d-9c3d-94e1eeab958a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -355,7 +376,7 @@
         "c350de86-61dc-4521-93e8-48b826a9f434",
         "e6221c0c-3018-47f8-8558-b43dbee97f6d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -381,7 +402,7 @@
         "2a946031-af04-4d51-bcd1-0c8737bcda84",
         "1b3aa86d-c1ea-4bf9-94f7-f1bc4eedc7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
@@ -405,7 +426,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "00061b7b-55f7-4876-9805-ecb787780428"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352"
@@ -427,7 +448,7 @@
         "6a209d80-2ba2-47cc-a5ab-926912e4ae14",
         "c350de86-61dc-4521-93e8-48b826a9f434"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0344feae-1662-4926-9728-af1578657ad9",
         "320237bf-3dd2-491a-8e6a-87196486e183",
@@ -451,7 +472,7 @@
         "7c4d463e-65c0-43e2-9862-9beb8120d69b",
         "00061b7b-55f7-4876-9805-ecb787780428"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed64dbc9-63fd-4102-9b5b-37cb1de4458a",
         "b6125cc9-b07b-4a9b-b991-4037e3f69352",
@@ -472,7 +493,7 @@
         "00061b7b-55f7-4876-9805-ecb787780428",
         "a0a697a8-b2a3-47c5-bc6d-d28b330e7d3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1569a65-68b4-42e9-a58c-060092e8fb4b"
       ],
@@ -491,7 +512,7 @@
         "0788c98f-11c8-4267-95e4-28be56913dc0",
         "f40041c7-6840-496c-97cc-31189c08f8e1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ca9a593-8cd3-44e4-a8f0-99b8bba87dd9",
         "f24f440b-7e62-420f-afed-1fff15d11875"
@@ -499,5 +520,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-15T00:00:00"
 }
