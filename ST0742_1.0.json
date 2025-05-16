@@ -1,21 +1,35 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 641,
   "referenceNumber": "ST0742",
+  "learningAimClassCode": "",
   "title": "Chartered landscape professional",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0742",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2021-07-06T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Lead the design, creation, maintenance or management of spaces in both natural and built environment.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 60,
-  "maxFunding": 0,
-  "route": "Construction",
-  "keywords": [],
+  "maxFunding": 25000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "landscape",
+    "environment",
+    "design",
+    "horticulture",
+    "forestry",
+    "professional",
+    "architect"
+  ],
   "jobRoles": [
     "Landscape architect",
     "Senior landscape architect",
@@ -29,13 +43,12 @@
     "Landscape professional"
   ],
   "entryRequirements": "&lt;p&gt;Typically, an apprentice might be expected to have already achieved Level 3 qualifications e.g. A Levels or a Level 3 apprenticeship in a related discipline. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the end point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is Entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for those for whom this is their primary language.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4583/st0742_chartered-landscape-professional_ap_for_publication_05102020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4583/st0742_chartered-landscape-professional_ap_for_publication_05102020.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, creative and design, environmental and planning sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to lead the design, creation, maintenance or management of spaces in both natural and built environments.&#160; Chartered Landscape professionals enhance, protect and create natural and built environments and provide innovative, well designed and well managed outdoor places for people to enjoy, while ensuring that changes to the natural environment are appropriate, sensitive and sustainable.&#160; &lt;br /&gt;&lt;br /&gt;Chartered Landscape Professionals require a mix of practical skills, an understanding of people and society, appreciation of the natural world and the ability to bring these diverse skills together and to build relationships with people and communities including volunteers, friends groups, team members, the public and other professionals.&#160; The Chartered Landscape Professional innovates, solves problems and takes account of a wide range of issues including regeneration, the availability of finance, the environment, the availability of finance and public health.&#160; Chartered Landscape Professionals work across multiple sectors and scales from strategic planning on a national scale to small scale designs for homeowners.&#160; Chartered Landscape Professionals are leaders and role models and are likely to have significant responsibilities within an organisation including responsibility for the financial implications of their projects. They identify and develop partnerships to bring additional support and finance to the management of landscapes and take a commercial approach&#160; to managing green spaces.&#160;&#160;&#160; They abide by the Landscape Institute’s Code of Conduct and ethical standards of conduct because they hold positions of responsibility and make decisions that impact on the natural and built environment and long term well being of communities. &lt;br /&gt;&lt;br /&gt;The occupation is regulated by high standards of professionalism assuring clients and employers of the quality of service they will receive.&#160; Chartered Landscape Professionals will be responsible for autonomously managing their own work programs and time while maintaining their own personal development and contributing to that of others. The optional pathways a Chartered Landscape Professional can follow are landscape design (those following this pathway are generally known as landscape architects), landscape and parks management and landscape planning.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, creative and design, environmental and planning sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to lead the design, creation, maintenance or management of spaces in both natural and built environments.&amp;nbsp; Chartered Landscape professionals enhance, protect and create natural and built environments and provide innovative, well designed and well managed outdoor places for people to enjoy, while ensuring that changes to the natural environment are appropriate, sensitive and sustainable.&amp;nbsp; &lt;br&gt;&lt;br&gt;Chartered Landscape Professionals require a mix of practical skills, an understanding of people and society, appreciation of the natural world and the ability to bring these diverse skills together and to build relationships with people and communities including volunteers, friends groups, team members, the public and other professionals.&amp;nbsp; The Chartered Landscape Professional innovates, solves problems and takes account of a wide range of issues including regeneration, the availability of finance, the environment, the availability of finance and public health.&amp;nbsp; Chartered Landscape Professionals work across multiple sectors and scales from strategic planning on a national scale to small scale designs for homeowners.&amp;nbsp; Chartered Landscape Professionals are leaders and role models and are likely to have significant responsibilities within an organisation including responsibility for the financial implications of their projects. They identify and develop partnerships to bring additional support and finance to the management of landscapes and take a commercial approach&amp;nbsp; to managing green spaces.&amp;nbsp;&amp;nbsp;&amp;nbsp; They abide by the Landscape Institute’s Code of Conduct and ethical standards of conduct because they hold positions of responsibility and make decisions that impact on the natural and built environment and long term well being of communities. &lt;br&gt;&lt;br&gt;The occupation is regulated by high standards of professionalism assuring clients and employers of the quality of service they will receive.&amp;nbsp; Chartered Landscape Professionals will be responsible for autonomously managing their own work programs and time while maintaining their own personal development and contributing to that of others. The optional pathways a Chartered Landscape Professional can follow are landscape design (those following this pathway are generally known as landscape architects), landscape and parks management and landscape planning.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "2a6d10e6-d488-464d-91bf-6bb4d9806dcb",
@@ -186,38 +199,28 @@
       "detail": "Landscape assessment:\nLead on the contribution to or use of the findings of formal landscape assessments such as (but not limited to) Landscape and Visual Impact Assessments and Landscape Sensitivity Assessments."
     }
   ],
-  "options": [
-    {
-      "optionId": "6aac0583-c195-4bfd-baa7-a94ed66cf832",
-      "title": "Landscape Design"
-    },
-    {
-      "optionId": "6288359d-019f-4df1-ac1c-6e89abdf9caf",
-      "title": "Landscape and Parks Management"
-    },
-    {
-      "optionId": "0b4f3264-5e97-411b-a3f5-a17c75811f44",
-      "title": "Landscape Planning"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "",
+  "integration": null,
+  "integratedDegree": "non-degree qualification",
   "tbReference": "TB0038",
   "tbMainContact": "apprenticeships@landscapeinstitute.org.",
   "involvedEmployers": "Tyler Grange , Re-form Landscapes, Meiloci, Munro-Whitten, Landuse UK, Gillespies, The Environment Partnership, Capita, Birmingham Council, Amey, Farrer Huxley Associates, Fira Landscape Architects. BDP. LDA Design, Arup, LHC Design, Highways England, Winchester City Council, Townshed Landscape Architects, Wilder Associates , The Landscape Institute",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -233,19 +236,25 @@
     "Chartered landscape professional",
     "Landscape professional"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Professional",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-10-07T13:15:19 +00:00",
-  "lastUpdated": "2020-10-07T13:15:19 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/chartered-landscape-professional#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/chartered-landscape-professional",
+  "lastUpdated": "2021-07-06T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-07-01T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0742",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0742-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0742-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Landscape Institute",
-      "level": "0",
+      "level": "Chartered Member",
       "isPartial": "0",
       "partialFreeText": ""
     }
@@ -274,7 +283,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -306,7 +315,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -339,7 +348,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "92888f80-3476-4074-a839-3c209c06b099",
@@ -374,7 +383,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -408,7 +417,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -443,7 +452,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -473,7 +482,7 @@
         "58206e9e-1cb1-403f-ab22-6880337c7fd8",
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5125d465-adee-41ec-a006-9c096cc4f3af"
       ],
@@ -502,7 +511,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -534,7 +543,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6e42d295-b754-47fa-9f5a-1fff037cc692",
         "d7f6c76f-e9c5-4e6a-bca5-d90058e9772a",
@@ -566,7 +575,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "81a6cce3-b1fd-44ef-b585-6ae940abb59e",
@@ -596,7 +605,7 @@
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed",
         "d043cb90-d928-4756-a95e-52c78e104d3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "81a6cce3-b1fd-44ef-b585-6ae940abb59e",
@@ -851,7 +860,7 @@
         "58206e9e-1cb1-403f-ab22-6880337c7fd8",
         "357a8ec7-c951-4dee-9ac9-70f5d67ab7ed"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92888f80-3476-4074-a839-3c209c06b099",
         "206bd611-d39f-47c8-8ca4-0bf994b1b1b3"
@@ -859,5 +868,26 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "6aac0583-c195-4bfd-baa7-a94ed66cf832",
+      "title": "Landscape Design",
+      "occupationCode": "OCC0742A"
+    },
+    {
+      "optionId": "6288359d-019f-4df1-ac1c-6e89abdf9caf",
+      "title": "Landscape and Parks Management",
+      "occupationCode": "OCC0742C"
+    },
+    {
+      "optionId": "0b4f3264-5e97-411b-a3f5-a17c75811f44",
+      "title": "Landscape Planning",
+      "occupationCode": "OCC0742B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-07-06T00:00:00"
 }
