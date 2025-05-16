@@ -1,0 +1,816 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 720,
+  "referenceNumber": "ST1341",
+  "learningAimClassCode": "",
+  "title": "Social researcher",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1341",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-08-30T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Provide robust research and analysis that forms the foundation for social policy development, implementation, and evaluation, impacting important decisions that seek to ensure the best possible investment of public money and outcomes for members of society.",
+  "level": 6,
+  "ePALength": 6,
+  "typicalDuration": 42,
+  "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "Social",
+    "research",
+    "investment",
+    "analysis",
+    "methodologies"
+  ],
+  "jobRoles": [
+    "Research executive",
+    "Research officer",
+    "Researcher",
+    "Senior research executive",
+    "Social researcher"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1341-v1-0?view=epa",
+  "ssa1": "11 Social Sciences",
+  "ssa2": "11.2 Sociology and social policy",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;x&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the public, private and third sector organisations, from small through to large employers, including central and local government, research organisations, charities, and academia.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide robust research and analysis that forms the foundation for social policy development, implementation, and evaluation, impacting important decisions that seek to ensure the best possible investment of public money and outcomes for members of society. Social researchers use a range of research and analysis methods, advise on research designs, assess the appropriateness of different methodologies, and evaluate the quality of evidence and apply structured thinking to critically assess problems, drawing on their social research expertise and knowledge to evaluate the strengths and limitations of different research approaches.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal teams such as other researchers, economists, statisticians, methodologists, operations, policymakers, procurement, finance, and IT. They also interact with external stakeholders, including customers, collaborators, service providers, research participants and other members of the public. Building and maintaining relationships is critical to the social researcher role; they support and oversee colleagues during all stages of the research process and work with a range of colleagues, customers, and stakeholders.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for a variety of duties such as systematic evidence reviews, writing or contributing to proposal development, design, and implementation of qualitative and quantitative research according to ethical principles, developing primary data collection tools (such as surveys, in-depth interviews and focus groups), managing and monitoring fieldwork and controlled trials, data management and quality control, data analysis using specialist software packages, reporting, dissemination, the synthesis of research findings, and the overall project management of research. Evidence from these activities is used to brief policymakers and customers, to provide informative and timely insights to inform decision making. Typically, social researchers work independently leading on some elements of research and as part of the wider research team on other duties. A social researcher reports directly to their line manager, who will be a more senior colleague within their team. They may have staff management and/or budgetary responsibilities.&lt;/p&gt;\n&lt;p&gt;Social researchers must comply with the appropriate information security standards, GDPR, ethical standards, legal guidance, and other best practice guidance within their organisation. They may be required to obtain DBS clearance and/or other security clearances to carry out primary data collection or to access sensitive data. Social researchers are expected to have an awareness of the budget and costs of their projects and flag any concerns to the project lead. They may be office-based, work remotely or in a hybrid working environment. They are sometimes required to travel to attend meetings or training, to carry out data collection or to train interviewers.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+      "detail": "The UK social and policy context and how this will inform and impact their research."
+    },
+    {
+      "knowledgeId": "700527d8-38d0-4ef1-908f-15a8e926618e",
+      "detail": "The role social research plays in providing evidence for social or policy questions."
+    },
+    {
+      "knowledgeId": "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+      "detail": "The advantages and limitations of qualitative and quantitative research and evaluation theories and methods, and how to apply these in research design."
+    },
+    {
+      "knowledgeId": "204d8e60-20b0-4c73-9d89-29558477a50d",
+      "detail": "Types of bias in research and how to identify and avoid them."
+    },
+    {
+      "knowledgeId": "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+      "detail": "Quantitative research approaches and techniques, such as sampling, data collection, data cleaning, descriptive and inferential statistics."
+    },
+    {
+      "knowledgeId": "f81f150c-c7da-465b-97ac-6f96919cd60c",
+      "detail": "Qualitative research approaches and techniques, such as recruiting participants, sampling and analysis."
+    },
+    {
+      "knowledgeId": "9291eb51-72af-465d-a362-3cffb918406f",
+      "detail": "Social research evaluation approaches and techniques such as theory of change, impact evaluation and process evaluation."
+    },
+    {
+      "knowledgeId": "16738ca2-33f8-4ad9-83cd-248331c2405a",
+      "detail": "Critical approaches to secondary research, such as how to source information, assess research quality and use research from previously conducted studies."
+    },
+    {
+      "knowledgeId": "4213532d-da5c-4fe7-b1ed-7057a749e274",
+      "detail": "Commercial frameworks, and how to write, contribute or respond to proposals, such as tender responses or grant proposals."
+    },
+    {
+      "knowledgeId": "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+      "detail": "The organisation’s processes, procedures, and code of conduct."
+    },
+    {
+      "knowledgeId": "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+      "detail": "Data protection regulation and legislation requirements, such as how to store, process and transfer data in line with the Data Protection Act and GDPR."
+    },
+    {
+      "knowledgeId": "8032a2af-3640-4392-98f4-8a899eab487a",
+      "detail": "The key ethical issues and principles in research outlined in professional body guidance, such as informed consent and safeguarding."
+    },
+    {
+      "knowledgeId": "f93ae581-bab9-4809-b523-c6001830467e",
+      "detail": "Social inclusion, accessibility and how to design research to enable this."
+    },
+    {
+      "knowledgeId": "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+      "detail": "Quality assurance principles and techniques for social research."
+    },
+    {
+      "knowledgeId": "7f948203-279a-494d-8b6f-34b3371aa3a1",
+      "detail": "Cost estimation techniques and budgetary requirements for research."
+    },
+    {
+      "knowledgeId": "b64796af-e136-435c-b86e-7b15154aacf9",
+      "detail": "Processes for procuring suppliers."
+    },
+    {
+      "knowledgeId": "f66aa3ca-ce43-45b9-90cc-d23e97374718",
+      "detail": "Project management principles and techniques."
+    },
+    {
+      "knowledgeId": "43444f6c-7a89-4793-9c8b-7b0120110ed6",
+      "detail": "Resource management and allocation."
+    },
+    {
+      "knowledgeId": "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+      "detail": "Digital tools and software for fieldwork, analysis, communication, and reporting, and the impact of emerging technologies such as AI on research."
+    },
+    {
+      "knowledgeId": "214e3b0d-712b-4083-b482-0accb26fb39a",
+      "detail": "Reporting styles for social research."
+    },
+    {
+      "knowledgeId": "c2deba94-96bf-41dd-887e-32c39ebff976",
+      "detail": "Communication, presenting, influencing, and negotiating techniques and strategies, to interact with a range of key stakeholders."
+    },
+    {
+      "knowledgeId": "7c8e793f-e22d-440c-bfd5-30c1182aa087",
+      "detail": "Tools and principles for training and people development."
+    },
+    {
+      "knowledgeId": "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
+      "detail": "Role of technical professionals within a research team and how they impact each stage of a research project."
+    },
+    {
+      "knowledgeId": "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2",
+      "detail": "Taking account of the carbon footprint of each research project and considering how to reduce this."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+      "detail": "Champions ethical behaviour and meets required standards of practice."
+    },
+    {
+      "behaviourId": "1976be22-2127-459a-a748-737e4539fa32",
+      "detail": "Works flexibly and adapts to circumstances."
+    },
+    {
+      "behaviourId": "90bbdd50-57db-4d1e-b1ce-76b38333401e",
+      "detail": "Seek learning and continuous professional development opportunities for self and wider team."
+    },
+    {
+      "behaviourId": "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+      "detail": "Takes responsibility, shows initiative, and is organised."
+    },
+    {
+      "behaviourId": "ab0d58aa-3edc-4168-8293-84ff27f586de",
+      "detail": "Champions accessibility and diversity by designing inclusive research."
+    },
+    {
+      "behaviourId": "da82957b-e3cd-4e2d-995d-bd24125e47c0",
+      "detail": "Works collaboratively with others across the organisation and external stakeholders."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+      "detail": "Interpret research objectives and recommend which research methods are the most appropriate to meet objectives."
+    },
+    {
+      "skillId": "670a295e-172e-4e0b-b236-471f291fcaea",
+      "detail": "Lead on the design of smaller research or evaluation studies and collaborate with others to design larger studies."
+    },
+    {
+      "skillId": "66ea3423-4fac-4e3a-a3a0-ef79adcf188a",
+      "detail": "Lead and design data collection tools such as topic guides and questionnaires."
+    },
+    {
+      "skillId": "ce9ac060-7a32-4841-8103-bebe2e24001d",
+      "detail": "Undertake data collection using qualitative and quantitative research techniques. "
+    },
+    {
+      "skillId": "e7d8f21e-cef8-4570-b248-3baffe646eac",
+      "detail": "Design research projects with consideration of sustainability best practice including reducing carbon emissions."
+    },
+    {
+      "skillId": "915f9c7e-e5d4-4203-9891-4e812dc872de",
+      "detail": "Undertake quality assurance and checks to avoid data errors."
+    },
+    {
+      "skillId": "5997cbe3-e6e1-4512-b717-38d769d3398a",
+      "detail": "Work with commercial teams and contractors to commission and deliver social research."
+    },
+    {
+      "skillId": "9a7b8474-ea84-432f-af86-ab1b8382194f",
+      "detail": "Project manage smaller research projects and manage discrete workstreams within larger studies."
+    },
+    {
+      "skillId": "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+      "detail": "Interpret and apply relevant legislation, Regulations, Codes of Practice, and ethical guidance where appropriate to their work."
+    },
+    {
+      "skillId": "6d758ec8-de29-4718-b214-8365bdde055a",
+      "detail": "Clean, analyse, and manipulate qualitative and quantitative data, including descriptive and inferential statistical analysis."
+    },
+    {
+      "skillId": "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+      "detail": "Evaluate and bring together evidence from a range of sources to inform decisions."
+    },
+    {
+      "skillId": "4ef814df-3590-46df-a6c5-e68fdf2c6483",
+      "detail": "Interpret and derive insights from quantitative, qualitative, and secondary analytical and research outputs."
+    },
+    {
+      "skillId": "dbbe44d3-92a7-410a-858c-85c31275dd23",
+      "detail": "Collaborate with stakeholders and research customers to design research projects."
+    },
+    {
+      "skillId": "1faf3977-46ee-4a54-9336-7a44f1f2ddbe",
+      "detail": "Use influencing and negotiation skills and techniques to design and deliver research projects."
+    },
+    {
+      "skillId": "ada1e275-bb5f-4448-a943-18f986cf96d2",
+      "detail": "Develop and deliver analytical or professional training teach-ins or documents for others."
+    },
+    {
+      "skillId": "1ffa456d-516b-4f63-afeb-543e64680513",
+      "detail": "Report and present on research findings, adapting the approach for different audiences."
+    },
+    {
+      "skillId": "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+      "detail": "Organise and lead meetings, using digital collaboration tools to work with colleagues. "
+    },
+    {
+      "skillId": "027c2d41-31f3-40a9-a2a2-fb070e8150a2",
+      "detail": "Use software to clean, manage, manipulate, and analyse qualitative and quantitative research data and identify solutions to research questions."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0723",
+  "tbMainContact": "brian.ocallaghan@hmrc.gov.uk; ben.humberstone@kantar.com",
+  "involvedEmployers": "BASIS Research, Defence Science and Technology Laboratory (DSTL), Department for Education (DfE), Department for Work and Pensions (DWP), HM Treasury, HMRC, Institute for Employment Studies, Ipsos MORI, Kantar Public, Market Research Society, Ministry of Justice, Natcen Social Research, Nuffield Foundation, Office for National Statistics, Social Research Association, Home Office",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Research executive",
+    "Research officer",
+    "Researcher",
+    "Senior research executive",
+    "Social researcher"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Management and Administration",
+  "cluster": "Management professional",
+  "clusterId": "68",
+  "clusterDescription": null,
+  "createdDate": "2023-08-30T08:45:59 +00:00",
+  "lastUpdated": "2023-08-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1341",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1341-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1341-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "3769f475-3549-464c-950f-e60a6f2ccf16",
+      "title": "Applied Social Research",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "The SOC code for the occupation is 2114 Social and humanities scientists. Using the IfATE evidence tool this shows:-\tEstimated occupational entry level = Graduate role-\t% of graduates in occupation = 92%-\tMost common educational attainment level = 1 Degree or equivalent-\t% of postgraduates in occupation = 52%-\tTypical career entry requirements = \" Entry is most common with a degree or equivalent qualification but is possible with other academic qualifications and/or relevant experience. Postgraduate qualifications may be required for some jobs.\"In addition, please note that individuals cannot become a Social Researcher within government without a degree and many of the non-government employers also specify a degree as an essential requirement for entry into the occupation at this level.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Market Research Society",
+      "level": "Member Level",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "581717bf-5ca8-4df4-8b49-3252721d316a",
+      "dutyDetail": "Explain the value of social research to potential users to encourage them to make use of it and make sure they use it appropriately.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "90bbdd50-57db-4d1e-b1ce-76b38333401e",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "700527d8-38d0-4ef1-908f-15a8e926618e",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "b64796af-e136-435c-b86e-7b15154aacf9",
+        "214e3b0d-712b-4083-b482-0accb26fb39a",
+        "c2deba94-96bf-41dd-887e-32c39ebff976"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+        "4ef814df-3590-46df-a6c5-e68fdf2c6483",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1faf3977-46ee-4a54-9336-7a44f1f2ddbe",
+        "ada1e275-bb5f-4448-a943-18f986cf96d2",
+        "1ffa456d-516b-4f63-afeb-543e64680513",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6c4695bb-f733-40b3-9a67-849d5247201e",
+      "dutyDetail": "Advise stakeholders on the best approaches to meet a research brief, invitation to tender, such as piloting, trialling, or large-scale research; advise on best methods, such as qualitative, quantitative or both.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "700527d8-38d0-4ef1-908f-15a8e926618e",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "4213532d-da5c-4fe7-b1ed-7057a749e274",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "7f948203-279a-494d-8b6f-34b3371aa3a1",
+        "b64796af-e136-435c-b86e-7b15154aacf9",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "c2deba94-96bf-41dd-887e-32c39ebff976",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1faf3977-46ee-4a54-9336-7a44f1f2ddbe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dffb37bc-8552-4bc0-9f3d-5e8a4256e5e1",
+      "dutyDetail": "Problem formulation with stakeholders to design research and evaluation questions using social research tools, such as logic mapping and theory of change.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "700527d8-38d0-4ef1-908f-15a8e926618e",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "4213532d-da5c-4fe7-b1ed-7057a749e274",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "c2deba94-96bf-41dd-887e-32c39ebff976",
+        "7c8e793f-e22d-440c-bfd5-30c1182aa087"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1faf3977-46ee-4a54-9336-7a44f1f2ddbe",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9de7132-7337-47ca-9c29-0808bd9b1589",
+      "dutyDetail": "Conduct desk research and, or literature reviews, such as rapid evidence assessments or other systematic approaches, to build the evidence base on a particular subject.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+        "1ffa456d-516b-4f63-afeb-543e64680513"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7f2df68e-7de3-46f0-ada3-cd862b08fc43",
+      "dutyDetail": "Develop or respond to the commissioning and subcontracting of social research projects, working within relevant commercial frameworks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "4213532d-da5c-4fe7-b1ed-7057a749e274",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "7f948203-279a-494d-8b6f-34b3371aa3a1",
+        "b64796af-e136-435c-b86e-7b15154aacf9",
+        "f66aa3ca-ce43-45b9-90cc-d23e97374718",
+        "43444f6c-7a89-4793-9c8b-7b0120110ed6",
+        "214e3b0d-712b-4083-b482-0accb26fb39a",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "5997cbe3-e6e1-4512-b717-38d769d3398a",
+        "9a7b8474-ea84-432f-af86-ab1b8382194f",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80a1e30f-e01f-494a-ab3e-edcfa67dc69f",
+      "dutyDetail": "Design and deliver a social research or evaluation project in line with professional guidance, such as ethical principles, and central government guidance on quality assurance and evaluation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "700527d8-38d0-4ef1-908f-15a8e926618e",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "7f948203-279a-494d-8b6f-34b3371aa3a1",
+        "b64796af-e136-435c-b86e-7b15154aacf9",
+        "f66aa3ca-ce43-45b9-90cc-d23e97374718",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "214e3b0d-712b-4083-b482-0accb26fb39a",
+        "7c8e793f-e22d-440c-bfd5-30c1182aa087",
+        "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "66ea3423-4fac-4e3a-a3a0-ef79adcf188a",
+        "ce9ac060-7a32-4841-8103-bebe2e24001d",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "5997cbe3-e6e1-4512-b717-38d769d3398a",
+        "9a7b8474-ea84-432f-af86-ab1b8382194f",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1ffa456d-516b-4f63-afeb-543e64680513",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+        "027c2d41-31f3-40a9-a2a2-fb070e8150a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8d54c8b-e875-4c88-aa53-77de14cc2205",
+      "dutyDetail": "Project management of research, including managing progress to ensure quality and meet agreed timescales and budgets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "7f948203-279a-494d-8b6f-34b3371aa3a1",
+        "b64796af-e136-435c-b86e-7b15154aacf9",
+        "f66aa3ca-ce43-45b9-90cc-d23e97374718",
+        "43444f6c-7a89-4793-9c8b-7b0120110ed6",
+        "214e3b0d-712b-4083-b482-0accb26fb39a",
+        "7c8e793f-e22d-440c-bfd5-30c1182aa087"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "5997cbe3-e6e1-4512-b717-38d769d3398a",
+        "9a7b8474-ea84-432f-af86-ab1b8382194f",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1ffa456d-516b-4f63-afeb-543e64680513"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7ff96ae0-e323-4b8d-ba18-84a508818414",
+      "dutyDetail": "Design, conduct and analyse qualitative research such as in-depth interviews, focus groups, participatory and deliberative research, to draw out detailed, thematic insights for customers and stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "c2deba94-96bf-41dd-887e-32c39ebff976",
+        "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "66ea3423-4fac-4e3a-a3a0-ef79adcf188a",
+        "ce9ac060-7a32-4841-8103-bebe2e24001d",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "6d758ec8-de29-4718-b214-8365bdde055a",
+        "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+        "4ef814df-3590-46df-a6c5-e68fdf2c6483",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1ffa456d-516b-4f63-afeb-543e64680513",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+        "027c2d41-31f3-40a9-a2a2-fb070e8150a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3341658f-dd55-4619-a95b-ba096c72fa45",
+      "dutyDetail": "Design and undertake quantitative research such as surveys, advising on sampling and data collection approaches.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "c2deba94-96bf-41dd-887e-32c39ebff976",
+        "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "267256c2-f2b6-4ca0-bd65-a5b2f91c999e",
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "66ea3423-4fac-4e3a-a3a0-ef79adcf188a",
+        "ce9ac060-7a32-4841-8103-bebe2e24001d",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "6d758ec8-de29-4718-b214-8365bdde055a",
+        "4ef814df-3590-46df-a6c5-e68fdf2c6483",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1ffa456d-516b-4f63-afeb-543e64680513",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+        "027c2d41-31f3-40a9-a2a2-fb070e8150a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "24f8b8d5-ac68-460d-8c64-59fa7586fc40",
+      "dutyDetail": "Prepares data and analysis frameworks, prepares, and cleans data for analysis, leading descriptive and bivariate analysis of quantitative data, including applying appropriate statistical significance tests.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "7a9d135f-4b11-4ff7-9b30-70d5efd6b3ff",
+        "700527d8-38d0-4ef1-908f-15a8e926618e",
+        "93625b2f-7ad8-40bc-896f-9768e574c0d5",
+        "204d8e60-20b0-4c73-9d89-29558477a50d",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "214e3b0d-712b-4083-b482-0accb26fb39a",
+        "c2deba94-96bf-41dd-887e-32c39ebff976",
+        "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "6d758ec8-de29-4718-b214-8365bdde055a",
+        "4ef814df-3590-46df-a6c5-e68fdf2c6483",
+        "1ffa456d-516b-4f63-afeb-543e64680513",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a26be10-3d7e-4f7c-8cb5-d4c5891d9fd6",
+      "dutyDetail": "Deliver research and evaluation projects using a range of digital tools and software.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "90bbdd50-57db-4d1e-b1ce-76b38333401e",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "ab0d58aa-3edc-4168-8293-84ff27f586de",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "f93ae581-bab9-4809-b523-c6001830467e",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "f66aa3ca-ce43-45b9-90cc-d23e97374718",
+        "43444f6c-7a89-4793-9c8b-7b0120110ed6",
+        "7c8e793f-e22d-440c-bfd5-30c1182aa087",
+        "48639de9-0d40-4e79-b5c5-0e0c7bc38ddb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "670a295e-172e-4e0b-b236-471f291fcaea",
+        "e7d8f21e-cef8-4570-b248-3baffe646eac",
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "dbbe44d3-92a7-410a-858c-85c31275dd23",
+        "1faf3977-46ee-4a54-9336-7a44f1f2ddbe",
+        "ada1e275-bb5f-4448-a943-18f986cf96d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "037ab7b3-5574-488c-ac74-0a14f2dd7284",
+      "dutyDetail": "Write up and present social research findings, which may include published reports, taking into account the needs and ability of the intended audience.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "b954798f-b1b3-4b2c-9587-50b334e3ba93",
+        "ff2966a7-771d-4760-b74a-a3667eb45ec2",
+        "8032a2af-3640-4392-98f4-8a899eab487a",
+        "81acb5c8-60bf-4084-ab70-2415b3d2b87a",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "915f9c7e-e5d4-4203-9891-4e812dc872de",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "6d758ec8-de29-4718-b214-8365bdde055a",
+        "c4b27061-dfa1-41fc-a7e5-c4b55a0c5eb6",
+        "1faf3977-46ee-4a54-9336-7a44f1f2ddbe",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+        "027c2d41-31f3-40a9-a2a2-fb070e8150a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6d93c322-28ef-40f9-9ece-60b7fb87d300",
+      "dutyDetail": "Manage and develop others, prioritising, and delegating tasks in line with project objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "459b3b1e-e892-4e12-b336-b9b1a21047ab",
+        "1976be22-2127-459a-a748-737e4539fa32",
+        "f3b1b92f-f054-4561-821a-1a643d8a89fa",
+        "da82957b-e3cd-4e2d-995d-bd24125e47c0"
+      ],
+      "mappedKnowledge": [
+        "671dc419-50c9-4b3e-b01b-abc32a4a1940",
+        "f81f150c-c7da-465b-97ac-6f96919cd60c",
+        "9291eb51-72af-465d-a362-3cffb918406f",
+        "16738ca2-33f8-4ad9-83cd-248331c2405a",
+        "6c5ec82b-9a77-44da-bf6d-628b9d55b1e3",
+        "b7d22f7e-b294-4894-bd2b-5a17bd64b8f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9a7b8474-ea84-432f-af86-ab1b8382194f",
+        "22af642b-7e3f-42d1-ba95-3e777d57dd93",
+        "f1f588df-dd98-4f5a-ab94-f935d1b112b8",
+        "027c2d41-31f3-40a9-a2a2-fb070e8150a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-08-30T00:00:00"
+}
