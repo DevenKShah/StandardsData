@@ -1,19 +1,25 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 38,
   "referenceNumber": "ST0013",
+  "learningAimClassCode": "",
   "title": "Aerospace software development engineer (degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/38",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0013",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2023-11-07T00:00:00",
   "earliestStartDate": "2015-09-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-11-05T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Developing software to support the aerospace industry.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "modelling",
@@ -23,51 +29,151 @@
     "coding",
     "degree"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Aircraft Software Engineer",
+    "Aircraft Software Development Engineer",
+    "Aerospace Software Development Engineer",
+    "Programmer",
+    "Developer"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1086/aerospace_software_development_engineer.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1086/aerospace_software_development_engineer.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;The following standard reflects employers’ requirements for the skills, knowledge and behaviours expected from someone to be competent in the job role.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Role Profile&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Software Engineers are predominantly involved in the discipline of Software Engineering, however, aspects of Modelling and Simulation, Human Factors and Systems Engineering disciplines are also covered as essential background for a fully rounded software engineer.&lt;/p&gt;\r\n&lt;p&gt;During the Concept, Assessment, Demonstration and Manufacture life cycle phases, Software Engineering is focused on influencing product architecture to accommodate modification and upgrade throughout the product lifecycle. Software is an intrinsic component of the systems used to deliver in-service support. Following the in-service date, Software Engineering delivers support, optimises and upgrades the Support System infra-structure. These are considered to be Sustainment activities.&lt;/p&gt;\r\n&lt;p&gt;All engineers must comply with statutory regulations and organisational safety requirements. They must be able to use and interpret engineering data and documentation such as engineering requirements, specifications, designs, code, test specifications, test scripts, code analysis (static and dynamic) tool output.&lt;/p&gt;\r\n&lt;p&gt;Software engineers will be expected to work both as individuals and as part of wider Engineering teams.&#160; They will be expected to demonstrate coding ability and specify, analyse, test and modify Software Engineering artefacts across Design and Development and In-Service Operations. They will be expected to validate, test and modify the software to comply with its design and associate requirements.&lt;/p&gt;\r\n&lt;p&gt;The requirements are designed to offer stretch and progression. Higher Apprentices will be able to work with appropriate supervision, whilst taking progressively more responsibility for the quality and accuracy of the work they undertake. They will be proactive in finding solutions to problems and identifying areas for improving the business.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Typical job titles:&#160;&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Programmer, Developer, Aerospace Software Development Engineer, Aircraft Software Development Engineer and Aircraft Software Engineer&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Knowledge &amp;amp; Skills&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Aerospace Software Development Engineers are able to demonstrate:&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;understanding of the fundamentals of&#160;Software Engineering Practice, apprentices will be able to describe all of the phases of the software Lifecycle and the interfaces between each phase&lt;/li&gt;\r\n&lt;li&gt;understanding of configuration management and software build processes, apprentices will understand the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\r\n&lt;li&gt;understanding of analytical methods (engineering mathematics), apprentices will understand the use of mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\r\n&lt;li&gt;understanding of “Modelling &amp;amp; Simulation” software, apprentices will understand&#160; how to develop software more quickly and reliably utilising &#160;“Modelling” toolsets&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;complying with statutory, quality, organisational, environmental and health and safety regulations, apprentices will seek opportunities to show compliance with appropriate standards&lt;/li&gt;\r\n&lt;li&gt;reading and interpreting Software engineering data, apprentices will demonstrate an understanding of code, design and requirements documentation&lt;/li&gt;\r\n&lt;li&gt;applying configuration management and software build processes, apprentices will gain experience of the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\r\n&lt;li&gt;developing and applying Algorithms, including specification, design and implementation, apprentices will construct algorithms required to implement required functionality in software&lt;/li&gt;\r\n&lt;li&gt;applying appropriate Engineering Operations and Toolsets, apprentices will use the standard methods adopted for software production and the toolsets deployed to support efficient development&lt;/li&gt;\r\n&lt;li&gt;applying analytical methods (engineering mathematics), apprentices will use mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\r\n&lt;li&gt;applying Systems Engineering principles, apprentices will learn the criteria for making architectural decisions in order to achieve an optimal solution over potentially&#160; conflicting system objectives&lt;/li&gt;\r\n&lt;li&gt;using “Modelling &amp;amp; Simulation” software, apprentices will learn how to develop software more quickly and reliably utilising&#160; “Modelling” toolsets&lt;/li&gt;\r\n&lt;li&gt;applying business improvement techniques ensuring optimisation of processes, resources and budget, apprentices will use systematic methods to identify and eliminate waste and inefficiencies in their software production activities&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The required behaviours are&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;1. Knowledge and understanding&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Commitment to continuing personal development, refreshing and expanding Engineering knowledge through a variety of methods.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;2. Design and development of processes, systems, services and products&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Contributing to the continuing development of Engineering within their domain&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;3. Responsibility, management or leadership&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Taking personal responsibility for their actions, Managing projects, including resource management within their remit.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;4. Communication and interpersonal skills&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Be able to demonstrate a range of communication styles and methods. Understanding the importance of networks within and across functions.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;5. Professional commitment&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Demonstrating a personal and professional commitment to society, their profession and the environment, adopting a set of values and behaviours that will maintain and enhance the reputation of the profession.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved academic qualifications of 96* UCAS points or above at A-Level standard or equivalent, to include two STEM-based subjects such as Maths, Physics, ICT, Computing, Electronics..&#160; Plus Five GCSEs at Grade 4 and above** including Mathematics, English and Double Science or equivalent qualification. Apprentices without Level 2 Maths and English must achieve this prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&#160; (*Equal to 240 UCAS points prior to 2017,**Equal to Grades C and above).&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Typical Duration of Apprenticeship &lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Typically 48 months - timescales may vary depending on occupational role and/or prior relevant qualifications/experience and Assessment of Prior Learning and Knowledge (APL/K) opportunities.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Mandatory Qualifications &lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Level 4 Diploma in Engineering and Advanced Manufacturing (Development Competence)&lt;/li&gt;\r\n&lt;li&gt;Level 6 Bachelor Honours Degree (BEng or BSc) Stipulated by the employer and accredited by an Engineering Council licenced Professional Engineering Institution&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;All of the qualification requirements in the foundation and development phases are mandatory outcomes for the completion and final certification of the Apprenticeship Standard. Each qualification has a core and options approach and employers will select the most applicable pathway and unit options to meet their organisational requirements.&lt;/p&gt;\r\n&lt;p&gt;There will be an end-point assessment during the final phase of the Apprenticeship where the apprentice will need to demonstrate to the employer how they have achieved full occupational competence against, skills, knowledge and behaviours, set out in the Standard&#160; On successful completion of the end-point assessment and employer endorsement phase (final sign off) apprentices will be then be put forward to be awarded their Apprenticeship completion certificate.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Recognition&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This Apprenticeship Standard aligns with the current edition of the UK Standard for Professional Engineering Competence (UK-SPEC) at Incorporated Engineering (IEng) level. The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for IEng and reaches the agreed level of professional competence as defined in the Assessment Plan.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Level and Review &lt;/strong&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This Apprenticeship Standard is at Level 6 and will be reviewed as a minimum every three years.&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;The following standard reflects employers’ requirements for the skills, knowledge and behaviours expected from someone to be competent in the job role.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Software Engineers are predominantly involved in the discipline of Software Engineering, however, aspects of Modelling and Simulation, Human Factors and Systems Engineering disciplines are also covered as essential background for a fully rounded software engineer.&lt;/p&gt;\n&lt;p&gt;During the Concept, Assessment, Demonstration and Manufacture life cycle phases, Software Engineering is focused on influencing product architecture to accommodate modification and upgrade throughout the product lifecycle. Software is an intrinsic component of the systems used to deliver in-service support. Following the in-service date, Software Engineering delivers support, optimises and upgrades the Support System infra-structure. These are considered to be Sustainment activities.&lt;/p&gt;\n&lt;p&gt;All engineers must comply with statutory regulations and organisational safety requirements. They must be able to use and interpret engineering data and documentation such as engineering requirements, specifications, designs, code, test specifications, test scripts, code analysis (static and dynamic) tool output.&lt;/p&gt;\n&lt;p&gt;Software engineers will be expected to work both as individuals and as part of wider Engineering teams.&#160; They will be expected to demonstrate coding ability and specify, analyse, test and modify Software Engineering artefacts across Design and Development and In-Service Operations. They will be expected to validate, test and modify the software to comply with its design and associate requirements.&lt;/p&gt;\n&lt;p&gt;The requirements are designed to offer stretch and progression. Higher Apprentices will be able to work with appropriate supervision, whilst taking progressively more responsibility for the quality and accuracy of the work they undertake. They will be proactive in finding solutions to problems and identifying areas for improving the business.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical job titles:&#160;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Programmer, Developer, Aerospace Software Development Engineer, Aircraft Software Development Engineer and Aircraft Software Engineer&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge &amp;amp; Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Aerospace Software Development Engineers are able to demonstrate:&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;understanding of the fundamentals of&#160;Software Engineering Practice, apprentices will be able to describe all of the phases of the software Lifecycle and the interfaces between each phase&lt;/li&gt;\n&lt;li&gt;understanding of configuration management and software build processes, apprentices will understand the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\n&lt;li&gt;understanding of analytical methods (engineering mathematics), apprentices will understand the use of mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\n&lt;li&gt;understanding of “Modelling &amp;amp; Simulation” software, apprentices will understand&#160; how to develop software more quickly and reliably utilising &#160;“Modelling” toolsets&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;complying with statutory, quality, organisational, environmental and health and safety regulations, apprentices will seek opportunities to show compliance with appropriate standards&lt;/li&gt;\n&lt;li&gt;reading and interpreting Software engineering data, apprentices will demonstrate an understanding of code, design and requirements documentation&lt;/li&gt;\n&lt;li&gt;applying configuration management and software build processes, apprentices will gain experience of the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\n&lt;li&gt;developing and applying Algorithms, including specification, design and implementation, apprentices will construct algorithms required to implement required functionality in software&lt;/li&gt;\n&lt;li&gt;applying appropriate Engineering Operations and Toolsets, apprentices will use the standard methods adopted for software production and the toolsets deployed to support efficient development&lt;/li&gt;\n&lt;li&gt;applying analytical methods (engineering mathematics), apprentices will use mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\n&lt;li&gt;applying Systems Engineering principles, apprentices will learn the criteria for making architectural decisions in order to achieve an optimal solution over potentially&#160; conflicting system objectives&lt;/li&gt;\n&lt;li&gt;using “Modelling &amp;amp; Simulation” software, apprentices will learn how to develop software more quickly and reliably utilising&#160; “Modelling” toolsets&lt;/li&gt;\n&lt;li&gt;applying business improvement techniques ensuring optimisation of processes, resources and budget, apprentices will use systematic methods to identify and eliminate waste and inefficiencies in their software production activities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The required behaviours are&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;1. Knowledge and understanding&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Commitment to continuing personal development, refreshing and expanding Engineering knowledge through a variety of methods.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;2. Design and development of processes, systems, services and products&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Contributing to the continuing development of Engineering within their domain&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;3. Responsibility, management or leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Taking personal responsibility for their actions, Managing projects, including resource management within their remit.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;4. Communication and interpersonal skills&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Be able to demonstrate a range of communication styles and methods. Understanding the importance of networks within and across functions.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;5. Professional commitment&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Demonstrating a personal and professional commitment to society, their profession and the environment, adopting a set of values and behaviours that will maintain and enhance the reputation of the profession.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved academic qualifications of 96* UCAS points or above at A-Level standard or equivalent, to include two STEM-based subjects such as Maths, Physics, ICT, Computing, Electronics..&#160; Plus Five GCSEs at Grade 4 and above** including Mathematics, English and Double Science or equivalent qualification. Apprentices without Level 2 Maths and English must achieve this prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&#160; (*Equal to 240 UCAS points prior to 2017,**Equal to Grades C and above).&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical Duration of Apprenticeship &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically 48 months - timescales may vary depending on occupational role and/or prior relevant qualifications/experience and Assessment of Prior Learning and Knowledge (APL/K) opportunities.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Mandatory Qualifications &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Level 4 Diploma in Engineering and Advanced Manufacturing (Development Competence)&lt;/li&gt;\n&lt;li&gt;Level 6 Bachelor Honours Degree (BEng or BSc) Stipulated by the employer and accredited by an Engineering Council licenced Professional Engineering Institution&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;All of the qualification requirements in the foundation and development phases are mandatory outcomes for the completion and final certification of the Apprenticeship Standard. Each qualification has a core and options approach and employers will select the most applicable pathway and unit options to meet their organisational requirements.&lt;/p&gt;\n&lt;p&gt;There will be an end-point assessment during the final phase of the Apprenticeship where the apprentice will need to demonstrate to the employer how they have achieved full occupational competence against, skills, knowledge and behaviours, set out in the Standard&#160; On successful completion of the end-point assessment and employer endorsement phase (final sign off) apprentices will be then be put forward to be awarded their Apprenticeship completion certificate.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Recognition&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship Standard aligns with the current edition of the UK Standard for Professional Engineering Competence (UK-SPEC) at Incorporated Engineering (IEng) level. The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for IEng and reaches the agreed level of professional competence as defined in the Assessment Plan.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level and Review &lt;/strong&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship Standard is at Level 6 and will be reviewed as a minimum every three years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Software Engineers are predominantly involved in the discipline of Software Engineering, however, aspects of Modelling and Simulation, Human Factors and Systems Engineering disciplines are also covered as essential background for a fully rounded software engineer. During the Concept, Assessment, Demonstration and Manufacture life cycle phases, Software Engineering is focused on influencing product architecture to accommodate modification and upgrade throughout the product lifecycle. Software is an intrinsic component of the systems used to deliver in-service support. Following the in-service date, Software Engineering delivers support, optimises and upgrades the Support System infra-structure. These are considered to be Sustainment activities. All engineers must comply with statutory regulations and organisational safety requirements. They must be able to use and interpret engineering data and documentation such as engineering requirements, specifications, designs, code, test specifications, test scripts, code analysis (static and dynamic) tool output. Software engineers will be expected to work both as individuals and as part of wider Engineering teams. They will be expected to demonstrate coding ability and specify, analyse, test and modify Software Engineering artefacts across Design and Development and In-Service Operations. They will be expected to validate, test and modify the software to comply with its design and associate requirements. The requirements are designed to offer stretch and progression. Higher Apprentices will be able to work with appropriate supervision, whilst taking progressively more responsibility for the quality and accuracy of the work they undertake. They will be proactive in finding solutions to problems and identifying areas for improving the business.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "600481fa-affc-4f7f-b1a9-2e81378214a0",
+      "detail": "understanding of the fundamentals of Software Engineering Practice, apprentices will be able to describe all of the phases of the software Lifecycle and the interfaces between each phase"
+    },
+    {
+      "knowledgeId": "78352327-68e3-4461-9bbe-7fde46067d26",
+      "detail": "understanding of configuration management and software build processes, apprentices will understand the methods & tools used to control the change and modification of software-related products"
+    },
+    {
+      "knowledgeId": "3bad4208-a361-41a0-8430-17560bade002",
+      "detail": "understanding of analytical methods (engineering mathematics), apprentices will understand the use of mathematics and associated toolsets to reason about properties of software such as safety or performance"
+    },
+    {
+      "knowledgeId": "be452c56-e17f-429b-a2f0-fd87de35881f",
+      "detail": "understanding of “Modelling & Simulation” software, apprentices will understand  how to develop software more quickly and reliably utilising  “Modelling” toolsets"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d642f350-6aad-42b6-8688-8aa00c9a3d4c",
+      "detail": "Knowledge and understanding: Commitment to continuing personal development, refreshing and expanding Engineering knowledge through a variety of methods."
+    },
+    {
+      "behaviourId": "89f583f1-7643-4b10-b5c4-aaeb40fbcc91",
+      "detail": "Design and development of processes, systems, services and products: Contributing to the continuing development of Engineering within their domain"
+    },
+    {
+      "behaviourId": "d319240e-e3d1-4dc5-934a-80ef7de09abf",
+      "detail": "Responsibility, management or leadership: Taking personal responsibility for their actions, Managing projects, including resource management within their remit."
+    },
+    {
+      "behaviourId": "83598cbd-ec29-4e43-b9ee-504f05c4f08e",
+      "detail": "Communication and interpersonal skills: Be able to demonstrate a range of communication styles and methods. Understanding the importance of networks within and across functions."
+    },
+    {
+      "behaviourId": "49dca4e8-3a63-442e-b79d-14d9edc5b9f7",
+      "detail": "Professional commitment: Demonstrating a personal and professional commitment to society, their profession and the environment, adopting a set of values and behaviours that will maintain and enhance the reputation of the profession."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1a37ac2f-cfb7-4cf5-8682-7150316850fc",
+      "detail": "complying with statutory, quality, organisational, environmental and health and safety regulations, apprentices will seek opportunities to show compliance with appropriate standards"
+    },
+    {
+      "skillId": "e3bf96ae-dcb6-4e0c-8200-fa6cf8330009",
+      "detail": "reading and interpreting Software engineering data, apprentices will demonstrate an understanding of code, design and requirements documentation"
+    },
+    {
+      "skillId": "de89ed63-fc6d-4f8a-9763-4317f13bde60",
+      "detail": "applying configuration management and software build processes, apprentices will gain experience of the methods & tools used to control the change and modification of software-related products"
+    },
+    {
+      "skillId": "77e230d4-cd9e-4ad2-84ef-9553535d1d79",
+      "detail": "developing and applying Algorithms, including specification, design and implementation, apprentices will construct algorithms required to implement required functionality in software"
+    },
+    {
+      "skillId": "16760ce2-716e-4101-8df4-b83da065339b",
+      "detail": "applying appropriate Engineering Operations and Toolsets, apprentices will use the standard methods adopted for software production and the toolsets deployed to support efficient development"
+    },
+    {
+      "skillId": "f973f36d-29e6-45d2-b046-45ef4ad2421c",
+      "detail": "applying analytical methods (engineering mathematics), apprentices will use mathematics and associated toolsets to reason about properties of software such as safety or performance"
+    },
+    {
+      "skillId": "9e94f76f-ef38-4db5-9a8f-4f54675ce40b",
+      "detail": "applying Systems Engineering principles, apprentices will learn the criteria for making architectural decisions in order to achieve an optimal solution over potentially  conflicting system objectives"
+    },
+    {
+      "skillId": "e5a09690-350e-4d5e-8e7e-02f5aabd09e3",
+      "detail": "using “Modelling & Simulation” software, apprentices will learn how to develop software more quickly and reliably utilising  “Modelling” toolsets"
+    },
+    {
+      "skillId": "5ea1eed2-fecc-4bdd-a9a9-14299bb1462e",
+      "detail": "applying business improvement techniques ensuring optimisation of processes, resources and budget, apprentices will use systematic methods to identify and eliminate waste and inefficiencies in their software production activities"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-09-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0080",
   "tbMainContact": "mark.donnelly@baesystems.com and john.bool@harrodsaviation.com",
   "involvedEmployers": "BAE Systems, Airbus, Magellan Aerospace (UK) LTd, AugustaWesetland Ltd, Rolls Royce plc, GTA England",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Aircraft Software Engineer",
+    "Aircraft Software Development Engineer",
+    "Aerospace Software Development Engineer",
+    "Programmer",
+    "Developer"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Engineer",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:14 +00:00",
-  "lastUpdated": "2018-03-06T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aerospace-software-development-engineer-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aerospace-software-development-engineer-(degree)-v1-0",
+  "lastUpdated": "2023-11-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-09-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0013",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0013-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0013-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-11-07T00:00:00"
 }
