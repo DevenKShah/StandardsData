@@ -1,0 +1,808 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 756,
+  "referenceNumber": "ST0957",
+  "learningAimClassCode": "",
+  "title": "Spatial data specialist",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0957",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "End-point assessment plan revised",
+  "changedDate": "2024-09-30T00:00:00",
+  "earliestStartDate": "2024-09-30T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Initiate and lead programmes and projects which use location to link, analyse and gain insight from multiple datasets.",
+  "level": 7,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "spatial data specialist",
+    "spatial",
+    "datasets",
+    "analysis",
+    "digital mapping"
+  ],
+  "jobRoles": [
+    "Geographic data scientist",
+    "Geographic information analyst",
+    "Geospatial analyst",
+    "Gis analyst",
+    "Gis consultant",
+    "Location information specialist",
+    "Location information specialist",
+    "Location intelligence analyst",
+    "Spatial data analyst"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0957-v1-1?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in public and private sector organisations working to address complex problems in which understanding location is essential. A Spatial Data Specialist uses Geographic Information Systems and other geographic technologies to capture, manage, represent, measure and analyse location data and monitor their changes over space and time. They use advanced spatial analysis and modelling to produce maps, visualisations and other communications to represent and explain relationships between location and other data. Understanding and analysing location data is a complex and specialised task. Location data analysis, spatial modelling, digital mapping and visualisation have developed through Geography and Geographic Information Science, a field of research and professional practice that stands alone from data science and data analysis. They may help organisations achieve net zero carbon emissions by identifying how location specific factors have an impact. This information can help inform strategies for good management of natural resources and environments. They may inform decision making on major infrastructure projects and provide analysis that helps to address geohazards and other risks. Their interpretation of location information may help businesses plan efficient and sustainable supply chains or provide services to communities. Their insight supports specialists in other fields to make decisions in location-sensitive ways. Depending on the sector a Spatial Data Specialist may work with a range of people. These could include environment and infrastructure managers, engineers, data scientists, planners, architects, IT professionals, insurance and risk managers, sustainability professionals, and policy makers. The Spatial Data Specialist always pays attention to the ethics, risks, limits or biases of their data and analysis when giving their insights. &lt;br&gt;&lt;br&gt;The occupation initiates and leads programmes and projects which use location as the ‘golden thread’ to link, analyse and gain insight from multiple datasets. They enable stakeholders to gain greater value, insight and further opportunities from all their data by linking it to the real world. This is especially applicable to the green economy, in addressing the challenges of net zero and climate change, and in addressing inequality. For example such as green building, smart cities, noise mapping, air quality modelling and ecological assessments.&lt;/p&gt;\n&lt;p&gt;A Spatial Data Specialist differs from a data scientist in how they approach a problem. While a data scientist could identify a link between environment and health, a Spatial Data Specialist will also show you where those links have a large or small impact. &lt;br&gt;&lt;br&gt;An employee in this occupation interacts with a broad range of people, often in multi-disciplinary teams. They provide location-based analysis, mapping, visualisation and insight to specialists in other fields across their organisation and sector. They may also work with external partners such as local and international businesses, governments, regulators, and academic research scientists. They are often asked to create maps and visualisations that communicate complex data for non-technical and public audiences. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for delivering advanced spatial analysis, mapping, visualisation and insight. They will use accurate, current and well-structured collections of location data, primarily in Geographic Information Systems. They will interpret stakeholder needs and business requirements to select the most appropriate data and, spatial methods. They will produce location information analysis and products that will engage customers or stakeholders, organise and represent complex information and help solve business problems. They will provide technical authority regarding the legal, safe, secure, effective and ethical uses of location data. They will lead the adoption of international and national location data standards, frameworks and best practices at project and organisational levels. Spatial Data Specialists normally report to senior managers and decision-makers.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "9de4216d-89bc-48db-97b7-27df48eea625",
+      "detail": "Location data structures, datums, and standards. "
+    },
+    {
+      "knowledgeId": "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+      "detail": "Data classification and symbolisation for visualising and representing location data."
+    },
+    {
+      "knowledgeId": "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+      "detail": "Sources of error, bias, imprecision and uncertainty, and how they may be affected by choice of data set or methodology, and incomplete data."
+    },
+    {
+      "knowledgeId": "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+      "detail": "Implications of data quality including error, bias, imprecision, and uncertainty for decision-making. "
+    },
+    {
+      "knowledgeId": "db7e9243-16e1-4806-b6a9-2cc169551849",
+      "detail": "The range of data formats available, their appropriate use, and their sources for example raster and vector format, remotely sensed data, and emerging data products.  "
+    },
+    {
+      "knowledgeId": "df1c7812-c6aa-4c99-91f5-1477a033f5cb",
+      "detail": "Techniques to integrate, analyse, visualise, and interpret location data, for both natural or human environments."
+    },
+    {
+      "knowledgeId": "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+      "detail": "Big-data and high-performance computing platforms and operating systems, local and remote High-Performance Computing HPC, and cloud computing.  "
+    },
+    {
+      "knowledgeId": "583d41e1-8fd3-4606-a96a-7c59cd13eb8b",
+      "detail": "Common location information software; repositories, programming languages, algorithm design, analysis and testing."
+    },
+    {
+      "knowledgeId": "c085f91c-59d9-44eb-9132-a5d17894656f",
+      "detail": "Database design and management, including information security considerations, and big data technologies."
+    },
+    {
+      "knowledgeId": "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+      "detail": "Approaches to establishing the business value of location data analysis to deliver a solution in line with business needs, quality standards and timescales and the importance of location data and analysis to support and enhance multi-disciplinary teams.  "
+    },
+    {
+      "knowledgeId": "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+      "detail": "Techniques in analysis research, design and deployment of location data used to meet the needs of the business and customers. Including limitations, compromises and trade-offs when translating location information and analytical theory into practice. "
+    },
+    {
+      "knowledgeId": "e55f72af-184e-451b-8fae-a9f9767dcee0",
+      "detail": "Communication techniques and approaches to interact with technical and non-technical stakeholders."
+    },
+    {
+      "knowledgeId": "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+      "detail": "The responsibilities of working in professional environments in which location data is managed – including licensing, current and emerging legal, and regulatory frameworks."
+    },
+    {
+      "knowledgeId": "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+      "detail": "The responsibilities of working in professional environments including ethical, standards and professional frameworks."
+    },
+    {
+      "knowledgeId": "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+      "detail": "Operating systems, local and remote High-Performance Computing HPC, and cloud computing.  "
+    },
+    {
+      "knowledgeId": "1d8b9bf7-5476-457a-b6b9-7ba8c5d3a830",
+      "detail": "Project management principles and approaches."
+    },
+    {
+      "knowledgeId": "eea47361-dbea-4d3e-94b6-540e3c6d57d2",
+      "detail": "Stakeholder engagement principles and approaches. "
+    },
+    {
+      "knowledgeId": "2e24a290-83be-4408-b02b-8639d557656c",
+      "detail": "Location data curation and quality controls. "
+    },
+    {
+      "knowledgeId": "c01ee181-b355-443c-a89e-eb462b934e36",
+      "detail": "How sustainable thinking affects their industry, horizon scanning for potential changes in policy and legislation. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "7f1252ac-8168-43bc-bbaf-737f5cade4bc",
+      "detail": "Take responsibility for keeping up to date with advances in the geospatial field and the opportunities these present for personal and or organisational development."
+    },
+    {
+      "behaviourId": "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
+      "detail": "Act with integrity with respect to ethical, legal and regulatory frameworks and in a way that promotes trust in the profession."
+    },
+    {
+      "behaviourId": "9a1425c1-3ecc-4da2-8455-154db68c0e20",
+      "detail": "Be self-directed in learning and reflection to improve and work towards evidence-based best practice."
+    },
+    {
+      "behaviourId": "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
+      "detail": "Take personal responsibility for work objectives and delivery of outputs. "
+    },
+    {
+      "behaviourId": "47452c36-a578-488a-8bf6-d0196675d66b",
+      "detail": "Be adaptable, demonstrating initiative, reliable and consistent, demonstrating discretion, resilience, self-awareness and team working. "
+    },
+    {
+      "behaviourId": "52c8c371-2929-420e-832e-9cfff5ba9f09",
+      "detail": "Act as a role model to peers. "
+    },
+    {
+      "behaviourId": "60b95ef0-8430-40f0-90c3-4ce5a0b59758",
+      "detail": "Treats people with dignity, and respects diversity, beliefs, and culture."
+    },
+    {
+      "behaviourId": "521ecaa8-64b2-4026-aaae-19cfcecc613e",
+      "detail": "An advocate for sustainable approaches. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+      "detail": "Recognise and evaluate the availability, format, scope and limitations of different types and formats of location data."
+    },
+    {
+      "skillId": "cae5ac6e-9abb-4419-9aee-72ced4916777",
+      "detail": "Select, acquire, integrate and maintain a variety of location data types and formats - for example raster, vector, attribute data and metadata - in GIS and linked databases."
+    },
+    {
+      "skillId": "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+      "detail": "Select and apply location analysis and modelling techniques to solve complex problems and meet business, time and budget requirements. "
+    },
+    {
+      "skillId": "83c9e857-a7c0-4053-b767-60aa9d546351",
+      "detail": "Analyse location information using programmatic methods, statistical and other quantitative and data integration approaches and visualise results."
+    },
+    {
+      "skillId": "aff19f9d-edef-470f-924b-de1dcfc78792",
+      "detail": "Review project requirements and conduct stakeholder engagement to scope new project requirements, boundaries and approaches."
+    },
+    {
+      "skillId": "007dc727-a080-4823-a24e-c4ba39010e92",
+      "detail": "Assess, and communicate, the implications of incomplete location data on analysis, visualisation and decision making."
+    },
+    {
+      "skillId": "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+      "detail": "Selects communication methods to meet the needs of diverse stakeholders and audiences."
+    },
+    {
+      "skillId": "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+      "detail": "Implement location data curation and quality controls, for example geometric accuracy, thematic accuracy, resolution, precision and fitness for use, and overall meeting the requirements of relevant geospatial standards."
+    },
+    {
+      "skillId": "dc26457b-26bf-40d1-8aea-49ef004ae965",
+      "detail": "Evaluate, select and apply cartographic design principles and standards to create and edit static and interactive visual representations of location data such as maps, graphs and diagrams for print and digital outputs which meets the needs of different end-users."
+    },
+    {
+      "skillId": "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+      "detail": "Implement computational infrastructure and database solutions, internal or external cloud resources. "
+    },
+    {
+      "skillId": "c0a4df51-ba9b-414b-a366-a026ce6642dd",
+      "detail": "Implement automation and or customisation of GIS, location data analysis and visualisation tasks including Application Programming Interfaces APIs, Software Development Kits SDKs, common location data algorithms and scripting languages, for example Python or R."
+    },
+    {
+      "skillId": "c845eb67-e1df-46e1-ae33-ed6d8c62eafd",
+      "detail": "Apply regulatory, legal, ethical and governance issues when evaluating choices at each stage of the location data lifecycle. "
+    },
+    {
+      "skillId": "c9a7fa19-d3d4-4158-813d-8b21ff20af07",
+      "detail": "Apply project management principles to ensure delivery of business requirements and solutions."
+    },
+    {
+      "skillId": "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+      "detail": "Select computing platforms and operating systems appropriate to need. "
+    },
+    {
+      "skillId": "43e008e3-b808-45c4-b798-bba417e10609",
+      "detail": "Establish and maintain positive relationships with internal and external stakeholders. "
+    },
+    {
+      "skillId": "26f427f7-5b31-4e9e-97aa-b36b221cf095",
+      "detail": "Personal responsibility for Continuous Professional Development."
+    },
+    {
+      "skillId": "8930c7ce-c079-461f-9e3e-c308804522f8",
+      "detail": "Apply appropriate common location software tools to deliver location information outcomes. "
+    },
+    {
+      "skillId": "f0ce308b-25b2-4402-b76b-28ba81fa11fe",
+      "detail": "Apply appropriate common location database and management tools to deliver location information outcomes."
+    },
+    {
+      "skillId": "67fc4aba-58f6-4094-a0d5-33dbe08b355a",
+      "detail": "Apply appropriate big data and common location computing platforms to deliver location information outcomes."
+    },
+    {
+      "skillId": "b0f28c13-4c78-4339-ac8b-321599aaa834",
+      "detail": "Apply appropriate common location operating systems and high performance computing and cloud computing to deliver location information outcomes."
+    },
+    {
+      "skillId": "b020f150-52ee-4a4f-a804-85f08b71f70a",
+      "detail": "Apply sustainable processes and practices within their role."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2024-03-13T00:00:00 +00:00",
+  "integratedApprenticeship": false,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "",
+  "tbReference": "TB0579",
+  "tbMainContact": "damien.mccloud@arup.com",
+  "involvedEmployers": "Royal Geographical Society, Arup, Geospatial Commissioner (Cabinet Office); Marlin Equity Partners, Ordnance Survey, Arcadis, Sainsbury’s, Stantec, Space Applications Catapult, Geospatial Commission, BlueSky, SenSat, AWHA Consulting, apm geo, Chartered Institute of Civil Engineering Surveyors, Royal Institution of Chartered Surveyors, Defra",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Geographic data scientist",
+    "Geographic information analyst",
+    "Geospatial analyst",
+    "Gis analyst",
+    "Gis consultant",
+    "Location information specialist",
+    "Location information specialist",
+    "Location intelligence analyst",
+    "Spatial data analyst"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Digital solutions professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
+  "createdDate": "2024-09-30T08:41:20 +00:00",
+  "lastUpdated": "2024-09-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-03-13T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) is in place. Once an EPAO is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0957",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0957-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0957-v1-1",
+  "qualifications": [
+    {
+      "qualificationId": "93ec21ea-1ae9-45a9-85ab-4191f54ccf13",
+      "title": "L7 Spatial data ",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Royal Geographical Society ",
+      "level": "Fellow of Royal Geographical Society",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "89eff5cf-9017-4cb2-b3ff-e3abd36d7814",
+      "dutyDetail": "Initiate, plan, research, collect and collate location data using technologies and approaches that include Geographic Information Systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+        "2e24a290-83be-4408-b02b-8639d557656c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "cae5ac6e-9abb-4419-9aee-72ced4916777",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9cc3ef19-0414-4451-8296-2bf4bb5eeea4",
+      "dutyDetail": "Manage accurate and current collections of location data and related geographic information to sector specific standards and frameworks. Such collections would include vector and raster location data along with their metadata.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+        "2e24a290-83be-4408-b02b-8639d557656c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "cae5ac6e-9abb-4419-9aee-72ced4916777",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee7ae5e9-b8c1-4f8c-b1f2-765baf1c1e6b",
+      "dutyDetail": "Evaluate user needs to ensure that the most appropriate data, tools and techniques are selected to meet the needs of the project. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "df1c7812-c6aa-4c99-91f5-1477a033f5cb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "cae5ac6e-9abb-4419-9aee-72ced4916777",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "c0a4df51-ba9b-414b-a366-a026ce6642dd",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "8930c7ce-c079-461f-9e3e-c308804522f8",
+        "f0ce308b-25b2-4402-b76b-28ba81fa11fe",
+        "67fc4aba-58f6-4094-a0d5-33dbe08b355a",
+        "b0f28c13-4c78-4339-ac8b-321599aaa834"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2cc3b714-bc9c-4e1c-bf83-2a9e3e02cedc",
+      "dutyDetail": "Manipulate, analyse, model, visualise and interpret location data and related geographic information to achieve project outcomes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+        "db7e9243-16e1-4806-b6a9-2cc169551849",
+        "df1c7812-c6aa-4c99-91f5-1477a033f5cb",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "583d41e1-8fd3-4606-a96a-7c59cd13eb8b",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+        "2e24a290-83be-4408-b02b-8639d557656c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "dc26457b-26bf-40d1-8aea-49ef004ae965",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "8930c7ce-c079-461f-9e3e-c308804522f8",
+        "f0ce308b-25b2-4402-b76b-28ba81fa11fe",
+        "67fc4aba-58f6-4094-a0d5-33dbe08b355a",
+        "b0f28c13-4c78-4339-ac8b-321599aaa834"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c24694d5-80f9-49f1-9b77-d9ac01ab6960",
+      "dutyDetail": "Create and maintain location data products that convey geographical significance and impact, using appropriate geographical reference systems, standards and symbolisation principles. Such products include: digital and printed maps, interactive dashboards and location data visualisations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+        "db7e9243-16e1-4806-b6a9-2cc169551849",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+        "2e24a290-83be-4408-b02b-8639d557656c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "dc26457b-26bf-40d1-8aea-49ef004ae965",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "f0ce308b-25b2-4402-b76b-28ba81fa11fe",
+        "67fc4aba-58f6-4094-a0d5-33dbe08b355a",
+        "b0f28c13-4c78-4339-ac8b-321599aaa834"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "67caa414-902a-4de0-b7af-6b60e76cc555",
+      "dutyDetail": "Produce and maintain project related documentation, technical reports, statistics and geographical information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5"
+      ],
+      "mappedKnowledge": [
+        "9de4216d-89bc-48db-97b7-27df48eea625",
+        "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "db7e9243-16e1-4806-b6a9-2cc169551849",
+        "df1c7812-c6aa-4c99-91f5-1477a033f5cb",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "583d41e1-8fd3-4606-a96a-7c59cd13eb8b",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+        "1d8b9bf7-5476-457a-b6b9-7ba8c5d3a830"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd",
+        "f0ce308b-25b2-4402-b76b-28ba81fa11fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a0514965-9807-42db-9891-012403cc0bb1",
+      "dutyDetail": "Lead, and or support others in, the uses of current and emerging features of Geographic Information Systems, geographical technologies and location data to create solutions and open up new areas of application.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7f1252ac-8168-43bc-bbaf-737f5cade4bc",
+        "9a1425c1-3ecc-4da2-8455-154db68c0e20",
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09"
+      ],
+      "mappedKnowledge": [
+        "9abd4dd9-2d2b-47e2-bffa-ce776b7e8e45",
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "1d8b9bf7-5476-457a-b6b9-7ba8c5d3a830",
+        "c01ee181-b355-443c-a89e-eb462b934e36"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "43e008e3-b808-45c4-b798-bba417e10609",
+        "26f427f7-5b31-4e9e-97aa-b36b221cf095",
+        "67fc4aba-58f6-4094-a0d5-33dbe08b355a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f967c049-93db-4ba4-b7ce-4890b2ff1764",
+      "dutyDetail": "Assess and mitigate the risks, limitations, biases and ethical practices associated with the use of location data, in particular its provenance and interoperability. Provide advice and courses of action for senior managers and non-specialists on these.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8"
+      ],
+      "mappedKnowledge": [
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "c085f91c-59d9-44eb-9132-a5d17894656f",
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f",
+        "eea47361-dbea-4d3e-94b6-540e3c6d57d2",
+        "2e24a290-83be-4408-b02b-8639d557656c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc3bd98b-ad69-470c-94d6-e879c89bbe46",
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+        "c0a4df51-ba9b-414b-a366-a026ce6642dd",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "765f1331-4127-4472-9af2-edd1d41a67e7",
+      "dutyDetail": "Lead and or support others in using automation and scripting tasks to improve delivery of location data tasks and provide technical expertise to geographic digitisation projects, for example through coding, modelling and machine learning.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09"
+      ],
+      "mappedKnowledge": [
+        "db7e9243-16e1-4806-b6a9-2cc169551849",
+        "f2f7a957-9360-4b90-aa46-c5a5d321217c",
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "eec7929e-9bba-4bac-9155-591f8cf0ad3f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "83c9e857-a7c0-4053-b767-60aa9d546351",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "43e008e3-b808-45c4-b798-bba417e10609",
+        "b0f28c13-4c78-4339-ac8b-321599aaa834"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e5687106-9404-4323-a951-6bd0e58172b3",
+      "dutyDetail": "Generate collaborative working opportunities to increase understanding of the value and meaning of location data and insights for organisational decision making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09",
+        "60b95ef0-8430-40f0-90c3-4ce5a0b59758",
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+        "43e008e3-b808-45c4-b798-bba417e10609"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31d990fb-aba3-40ce-8368-3038d2253c4e",
+      "dutyDetail": "Present and communicate location data solutions and insight to technical and non-technical stakeholders such as clients and senior managers, to ensure the solutions meet their needs and have a positive impact on their organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "e55f72af-184e-451b-8fae-a9f9767dcee0",
+        "1d8b9bf7-5476-457a-b6b9-7ba8c5d3a830",
+        "c01ee181-b355-443c-a89e-eb462b934e36"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "43e008e3-b808-45c4-b798-bba417e10609"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "17a2c4f0-37a5-4ece-94e8-4876a7aa6112",
+      "dutyDetail": "Work within multi-disciplinary teams to provide support and delivery of location information outputs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
+        "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09",
+        "60b95ef0-8430-40f0-90c3-4ce5a0b59758",
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "e55f72af-184e-451b-8fae-a9f9767dcee0",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+        "eea47361-dbea-4d3e-94b6-540e3c6d57d2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "c9a7fa19-d3d4-4158-813d-8b21ff20af07",
+        "43e008e3-b808-45c4-b798-bba417e10609",
+        "b020f150-52ee-4a4f-a804-85f08b71f70a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4515a488-b8ab-428b-9d52-3f9fbfa2bf74",
+      "dutyDetail": "Lead project delivery of location data activities using geographical technologies, to meet business requirements and project constraints.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
+        "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09",
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "1d8b9bf7-5476-457a-b6b9-7ba8c5d3a830",
+        "eea47361-dbea-4d3e-94b6-540e3c6d57d2",
+        "c01ee181-b355-443c-a89e-eb462b934e36"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "c9a7fa19-d3d4-4158-813d-8b21ff20af07",
+        "43e008e3-b808-45c4-b798-bba417e10609",
+        "b020f150-52ee-4a4f-a804-85f08b71f70a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3fba4a48-7ffa-40ae-842b-e92a5d418ecd",
+      "dutyDetail": "Develop business cases and tenders, estimating the cost of activities using location data, describing their value and benefit to the business or client.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "ad9c8cf4-dd1e-4edc-a27a-5604f0084eaa",
+        "a6f5cb3f-5ca3-4954-8311-a985a0edb311",
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "836ba1c2-883b-44f4-aef1-9fef050f4e8d",
+        "e55f72af-184e-451b-8fae-a9f9767dcee0",
+        "eea47361-dbea-4d3e-94b6-540e3c6d57d2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aff19f9d-edef-470f-924b-de1dcfc78792",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "5b3061ed-ddb9-425e-b2c7-23e6dede227f",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "c9a7fa19-d3d4-4158-813d-8b21ff20af07",
+        "43e008e3-b808-45c4-b798-bba417e10609"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "135b9082-946a-4587-b8b9-a612c28d4958",
+      "dutyDetail": "Support the management of Intellectual Property as it relates to the source, use and transformation of location data, and the creation of location data products.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8"
+      ],
+      "mappedKnowledge": [
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cd198e8-a9a2-45a1-8323-dc0cf978b095",
+        "007dc727-a080-4823-a24e-c4ba39010e92",
+        "dc26457b-26bf-40d1-8aea-49ef004ae965",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1f4aeae-8c5f-4e96-9512-5d4d3539a3c7",
+      "dutyDetail": "Provide technical authority to the organisation regarding legal, safe, secure, effective and ethical uses of its location data. Lead the adoption of standards, frameworks and best practices for spatial analysis, mapping and visualisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "1f917d18-6f19-4971-9d59-4b3a39ead86c",
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "6e0d776e-d59d-48eb-8344-7acdc8066ee4",
+        "c01ee181-b355-443c-a89e-eb462b934e36"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "952dd5ac-45b3-4cc0-8937-07c898d95f20",
+        "d12f8da6-a9e6-4fa7-a7cd-f9b414688c32",
+        "c845eb67-e1df-46e1-ae33-ed6d8c62eafd",
+        "c9a7fa19-d3d4-4158-813d-8b21ff20af07",
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "b020f150-52ee-4a4f-a804-85f08b71f70a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "75d47015-7638-4327-a4ad-164e46ab57b9",
+      "dutyDetail": "Lead and coordinate location information teams.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6c45f8eb-131a-4581-b8c1-cc51831b2ae8",
+        "3826d465-cbe1-4ac3-8fdd-1d9492bf1df5",
+        "47452c36-a578-488a-8bf6-d0196675d66b",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09",
+        "521ecaa8-64b2-4026-aaae-19cfcecc613e"
+      ],
+      "mappedKnowledge": [
+        "eea47361-dbea-4d3e-94b6-540e3c6d57d2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5528dbf2-89b6-4b9f-82ae-3a139d6a2c4c",
+        "43e008e3-b808-45c4-b798-bba417e10609",
+        "b020f150-52ee-4a4f-a804-85f08b71f70a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a4783df-34d4-4025-91b2-2e27d5396d68",
+      "dutyDetail": "Participate in Continued Professional Development and knowledge sharing especially keeping location data skills and knowledge up to date",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7f1252ac-8168-43bc-bbaf-737f5cade4bc",
+        "9a1425c1-3ecc-4da2-8455-154db68c0e20",
+        "52c8c371-2929-420e-832e-9cfff5ba9f09"
+      ],
+      "mappedKnowledge": [
+        "f43ff4a8-7ee4-42f9-a2d5-9c5edb37d938",
+        "c01ee181-b355-443c-a89e-eb462b934e36"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "26f427f7-5b31-4e9e-97aa-b36b221cf095",
+        "b020f150-52ee-4a4f-a804-85f08b71f70a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-09-30T00:00:00"
+}
