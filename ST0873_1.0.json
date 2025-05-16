@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 584,
   "referenceNumber": "ST0873",
+  "learningAimClassCode": "",
   "title": "Hygiene specialist",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/584",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0873",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2020-07-10T00:00:00",
   "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide specialist hygiene services in areas such as closed plants, sterile environments, food production and laboratories.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [],
   "jobRoles": [
@@ -24,13 +30,12 @@
     "Hygiene process leader"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4174/st0873_hygiene_specialist_l4_ap-for-publication_150420.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4174/st0873_hygiene_specialist_l4_ap-for-publication_150420.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "1259 - Managers and proprietors in other services n.e.c.",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in environments that require specific attention to hygiene requirements. This includes a range of both public and private sector environments including food and drink manufacturing environments, pharmaceutical, chemical and agricultural industries.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to provide specialist hygiene services in areas such as closed plants, sterile environments, food production and laboratories. Hygiene Specialists are subject matter experts who have accountability for setting, maintaining and implementing hygiene management systems. They provide leadership and support for hygiene activities, including managing health and safety hazards and having an appreciation of environmental risks. They will have a good understanding of microbiology, will analyse and interpret microbiological results and identify appropriate controls. The Hygiene Specialist will determine the audit requirements of the hygiene management system and provide advice and support to other colleagues to ensure it is maintained.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with heads of functions internally, enforcement bodies, external contractors and suppliers, auditors and customers at all levels within the organisation.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for co-ordinating the development and implementation of the hygiene management system through inter-departmental working. Hygiene Specialists work with a high degree of autonomy across departments to ensure hygiene standards are achieved to meet organisational, industry and legislative requirements and will contribute to the hygienic design of buildings and equipment. They will have a good understanding of the science of hygiene processes and chemicals and will work with external providers to identify and select the best chemicals and hygiene equipment for use within the business. They will have a good understanding of the requirements of COSHH and will deal with local environmental permits to ensure all legislative requirements are closely followed. They will determine the pre-planned hygiene schedule of the business and will regularly evaluate the audit schedule to ensure it meets industry and legislative requirements. They will set or contribute to hygiene standards across the business and will train, coach and assess others to ensure safe systems of work. In some companies, they may lead a team of dedicated specialists, however in a number of other organisations, they will work within a management structure. Whilst they may not have line management responsibilities they will have technical management responsibilities and will be able to influence operational management decisions. Alternatively they may be required to manage large teams of up to 80 people. The level of supervision they receive will be down to the size of the company and the individual structures of those companies. They will understand costs and have budgetary management responsibilities for hygiene resources and ancillary services&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in environments that require specific attention to hygiene requirements. This includes a range of both public and private sector environments including food and drink manufacturing environments, pharmaceutical, chemical and agricultural industries.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide specialist hygiene services in areas such as closed plants, sterile environments, food production and laboratories. Hygiene Specialists are subject matter experts who have accountability for setting, maintaining and implementing hygiene management systems. They provide leadership and support for hygiene activities, including managing health and safety hazards and having an appreciation of environmental risks. They will have a good understanding of microbiology, will analyse and interpret microbiological results and identify appropriate controls. The Hygiene Specialist will determine the audit requirements of the hygiene management system and provide advice and support to other colleagues to ensure it is maintained.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with heads of functions internally, enforcement bodies, external contractors and suppliers, auditors and customers at all levels within the organisation.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for co-ordinating the development and implementation of the hygiene management system through inter-departmental working. Hygiene Specialists work with a high degree of autonomy across departments to ensure hygiene standards are achieved to meet organisational, industry and legislative requirements and will contribute to the hygienic design of buildings and equipment. They will have a good understanding of the science of hygiene processes and chemicals and will work with external providers to identify and select the best chemicals and hygiene equipment for use within the business. They will have a good understanding of the requirements of COSHH and will deal with local environmental permits to ensure all legislative requirements are closely followed. They will determine the pre-planned hygiene schedule of the business and will regularly evaluate the audit schedule to ensure it meets industry and legislative requirements. They will set or contribute to hygiene standards across the business and will train, coach and assess others to ensure safe systems of work. In some companies, they may lead a team of dedicated specialists, however in a number of other organisations, they will work within a management structure. Whilst they may not have line management responsibilities they will have technical management responsibilities and will be able to influence operational management decisions. Alternatively they may be required to manage large teams of up to 80 people. The level of supervision they receive will be down to the size of the company and the individual structures of those companies. They will understand costs and have budgetary management responsibilities for hygiene resources and ancillary services&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "87c0034c-d39b-42b3-9ff4-5512abde0f0c",
@@ -225,25 +230,28 @@
       "detail": "Agree and manage hygiene budgets; monitor forecasts versus actual costs"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0576",
-  "tbMainContact": "m.hardy@nsafd.co.uk",
+  "tbMainContact": "secretariat@nsafd.co.uk",
   "involvedEmployers": "National Skills Academy for Food and Drink, Bakkavor, Aesica Pharamceuticals, Society of Dairy Technology, University of Lincoln, Branston, Melton Foods, Avara Foods, Holchem Ltd, Midshire Foods, Warburtons, Premier Foods, Kellogg Co, Samworth Brothers",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -254,14 +262,20 @@
     "Hygiene team leader",
     "Hygiene process leader"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Healthcare Science",
-  "cluster": "Healthcare Science Practitioner",
+  "cluster": "Healthcare science practitioner",
+  "clusterId": "38",
+  "clusterDescription": null,
   "createdDate": "2020-07-10T15:00:57 +00:00",
-  "lastUpdated": "2020-04-15T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hygiene-specialist-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hygiene-specialist-v1-0",
+  "lastUpdated": "2020-07-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0873",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0873-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0873-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -279,7 +293,7 @@
         "fdf5b1c0-fa45-4233-bc06-7ffeed2c8204",
         "1409c18a-2ac5-4ff0-83c1-3f904b00e764"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46f3f8a8-5b11-4b5b-a0b5-f5d16a2dd1cf",
         "ed3c268c-abf0-4746-9b78-87a9f7dbed5a",
@@ -303,7 +317,7 @@
         "0de70153-3d2e-4ee7-a018-750bd4cec32e",
         "1409c18a-2ac5-4ff0-83c1-3f904b00e764"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed3c268c-abf0-4746-9b78-87a9f7dbed5a",
         "1a8afbcc-52d6-4a04-9e9b-ef24d3fa343b",
@@ -326,7 +340,7 @@
         "136ef997-752b-4716-bda6-d96bc836b957",
         "104f4825-58a0-4a65-b402-799772324c8d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed3c268c-abf0-4746-9b78-87a9f7dbed5a",
         "a837af41-7220-40f5-8361-16b0c9b1f153",
@@ -350,7 +364,7 @@
         "104f4825-58a0-4a65-b402-799772324c8d",
         "4646f981-d22f-4506-8e52-67f443e6e7f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "eecceb6f-3d20-46ac-a7de-820dde341e00",
         "61b90912-0e15-4340-8e09-d90276091d57",
@@ -375,7 +389,7 @@
         "4646f981-d22f-4506-8e52-67f443e6e7f6",
         "80eccd17-6922-47d4-ae1a-438bd7ebf91f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c6ac9cde-b539-4d9f-b838-f11717f5b1b7",
         "b5ba7342-628e-4ebb-b489-fff8b81ff56e",
@@ -398,7 +412,7 @@
         "d1717092-214c-4683-bfb9-2d5d8f782cd5",
         "894c9735-2b24-445f-89ac-dac9160a9e34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "80808682-daa2-4e8f-8254-ffafe1f5bb3a",
         "bbab1adb-c4a2-45e9-b1bd-09b8ef58bb5f"
@@ -422,7 +436,7 @@
         "40a9624f-2351-4e47-a701-d13ced30b88b",
         "2d950290-a1d0-40a4-a716-d23fd33968d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46f3f8a8-5b11-4b5b-a0b5-f5d16a2dd1cf",
         "b5ba7342-628e-4ebb-b489-fff8b81ff56e",
@@ -442,7 +456,7 @@
       "mappedKnowledge": [
         "40a9624f-2351-4e47-a701-d13ced30b88b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5ba7342-628e-4ebb-b489-fff8b81ff56e"
       ],
@@ -463,7 +477,7 @@
         "152c9064-015d-4b88-b0fd-5ee8c2469ba4",
         "40a9624f-2351-4e47-a701-d13ced30b88b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f493729-cbde-49c1-a31a-81c87b211a03",
         "3d9c8809-c9ee-43bd-a5b9-511222e94694",
@@ -483,7 +497,7 @@
         "d1717092-214c-4683-bfb9-2d5d8f782cd5",
         "894c9735-2b24-445f-89ac-dac9160a9e34"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec9d3f02-208b-47b0-8b6c-898a1e5be202",
         "80808682-daa2-4e8f-8254-ffafe1f5bb3a"
@@ -503,7 +517,7 @@
         "556eacfd-e689-41a3-9fe8-ee6cd6ff62b4",
         "40a9624f-2351-4e47-a701-d13ced30b88b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "127f6d11-6a46-4db8-ae0d-0df912ed9313",
         "b5ba7342-628e-4ebb-b489-fff8b81ff56e"
@@ -521,7 +535,7 @@
       "mappedKnowledge": [
         "924d4e32-fbe9-41eb-b002-de967e0c99b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f493729-cbde-49c1-a31a-81c87b211a03"
       ],
@@ -541,12 +555,17 @@
       "mappedKnowledge": [
         "4646f981-d22f-4506-8e52-67f443e6e7f6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e97f54d1-b12e-431a-b00d-bb3a5e0f578f"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2020-07-10T00:00:00"
 }
