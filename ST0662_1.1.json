@@ -1,0 +1,824 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 474,
+  "referenceNumber": "ST0662",
+  "learningAimClassCode": "",
+  "title": "Automation and controls engineering technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0662",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard and end-point assessment plan revised",
+  "changedDate": "2024-02-02T00:00:00",
+  "earliestStartDate": "2024-02-02T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Installing and maintaining hardware and software for automation systems.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 48,
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "engineering",
+    "automation",
+    "technician",
+    "controls",
+    "install",
+    "service"
+  ],
+  "jobRoles": [
+    "Automation and controls engineering technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/xzcihoqa/st0662_automation-_-controls_engineering_technician_l4_adjustment__02feb24.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in cross sector (e.g. Automotive, Food and Drink, Oil and Gas, Pharmaceutical, Construction), companies involved in manufacturing (discrete or process), logistics or utilities environments.&#160; These employers may be directly involved in these activities or as a provider of services (e.g. systems integration, field service, technical consultancy) to these companies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is twofold.&lt;/p&gt;\n&lt;p&gt;Where the role is based inside a manufacturing (discrete or process), logistics or utilities environments, a fully competent Automation and Control Engineering Technician will be able to install, maintain, fault find and optimise hardware and software for automation systems.&#160;&lt;/p&gt;\n&lt;p&gt;Where the role is based in a service provider, OEM (Original Equipment Manufacturer) or approved solutions provider in large or SME (Small to Medium Enterprise) companies, the Automation and Control Engineering Technician will be the interface between the vendor and it’s customer and will be able to competently provide high quality, engineering services such as installation, commissioning, fault finding (the activity of testing an installation prior to handover) and support.&#160;&lt;/p&gt;\n&lt;p&gt;For both iterations of this role, this would involve the above duties across a range of hardware such as on Programmable Logic Controllers (PLC), Human Machine Interfaces (HMI), robots and Industrial Networks (e.g. PROFIBUS, DeviceNet, PROFINET, ModBus).&#160; Use of physical tools, software tools and instruments (e.g. multi-meter), are fundamental to carrying out tasks associated with building (e.g. control panels), installing (e.g. site cabling) and maintaining of automation systems.&lt;/p&gt;\n&lt;p&gt;This occupation will give employers the ability to maintain successful operational capability.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation will be part of a multi-disciplinary team for example as a member or leader of a project team, maintenance team, service team that will work alongside other stakeholders for example design, production or coordination that interfaces with internal and external customers alike.&#160; Monitoring of the operation of these systems can be carried out either within in-situ control rooms or offices, or remotely via web based or GPRS based mobile communications.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the ordering, coordination of services, working to established operating procedures for resources such as equipment and software to ensure functionality of automation systems are maintained.&#160; In a large company, they would generally report to an engineering manager whereas they may have greater responsibility and autonomy in an SME. Individuals in service provision would certainly find themselves working in a more autonomous situation.&#160; In either situation they would be responsible for their own actions and to protect those around them with respect to health, safety and the environment.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+      "detail": "Engineering maths - mathematical principles and theories that underpin engineering."
+    },
+    {
+      "knowledgeId": "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+      "detail": " Engineering principles - the underlying principles of electrical and electronic circuits and devices."
+    },
+    {
+      "knowledgeId": "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+      "detail": "Functional solutions - Create functional solutions; identifying and justifying a solution to a given engineering need."
+    },
+    {
+      "knowledgeId": "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+      "detail": "Safety procedures - relevant safety procedures required to operate on automation equipment in an industrial environment."
+    },
+    {
+      "knowledgeId": "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+      "detail": " Single and three phase circuits - single phase and three phase supplies on AC and DC motor and control circuits."
+    },
+    {
+      "knowledgeId": "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+      "detail": "Automation knowledge - Programmable Logic Controllers (PLC), Variable Speed Drives (VSD), Human Machine Interface (HMI) and Supervisory Control and Data Acquisition (SCADA), robotics hardware and software tools to carry out configuration, programming and fault finding duties."
+    },
+    {
+      "knowledgeId": "a443f52c-84f6-4d14-9185-5d981c4628fc",
+      "detail": "Instrumentation knowledge - instrumentation used to measure flow, temperature, pressure etc and the means by which they transmit measurement data."
+    },
+    {
+      "knowledgeId": "f4e3f141-e808-460d-b28c-b66c674968d8",
+      "detail": " Use of software tools - Justification in the utilisation of software tools would be for but not limited to the changing of hardware configurations, firmware updates, software modifications and commissioning."
+    },
+    {
+      "knowledgeId": "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+      "detail": " Industrial networking knowledge - the application, installation and operational characteristics of industrial communication networks at Supervisory (e.g. Ethernet), Cell (e.g. PROFINET and PROFIBUS) and Field (e.g. AS-Interface) levels."
+    },
+    {
+      "knowledgeId": "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+      "detail": " Use of diagnostic tools - diagnostic tools and equipment including web-based diagnostics incorporated into network devices and other software tools (e.g. PROFITrace)."
+    },
+    {
+      "knowledgeId": "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+      "detail": "Understand technical documents - Ability to follow electrical system circuit diagrams, understand the operation of the various components that make up an automation system."
+    },
+    {
+      "knowledgeId": "530b96e2-59fb-4c49-8c33-8413773d6a93",
+      "detail": "Safety legislation and responsibilities - electrical safety system legislation and directives."
+    },
+    {
+      "knowledgeId": "7e6f6792-871f-4343-8c81-984106c97b72",
+      "detail": "Quality systems - quality assurance principles to ensure operation, consistency and quantification of enhancement of manufacturing and process applications."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+      "detail": "Zero Harm - Always prioritise on Health and Safety best practice."
+    },
+    {
+      "behaviourId": "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+      "detail": "Resilience - Sound and established ability to work effectively both in a team and alone."
+    },
+    {
+      "behaviourId": "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+      "detail": "Personal excellence - Interact professionally with clients and stakeholders."
+    },
+    {
+      "behaviourId": "e2948890-3590-4a95-baba-59718b97d50c",
+      "detail": "Communicative - High quality communication skills."
+    },
+    {
+      "behaviourId": "9c06b034-e487-4094-951c-3dbf3a576444",
+      "detail": "Ethical - Strong professional and business ethics."
+    },
+    {
+      "behaviourId": "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+      "detail": " Commitment - A focus on quality in all the tasks assigned."
+    },
+    {
+      "behaviourId": "958fe186-d271-42fc-82c8-b34591be9d78",
+      "detail": "Continual development - Willingness to learn new processes, methods and technologies."
+    },
+    {
+      "behaviourId": "5f82d548-cf0d-4040-bac4-ee229d06c109",
+      "detail": " Responsibility - Strong commitment and accountability and ability to apply independent judgement."
+    },
+    {
+      "behaviourId": "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+      "detail": "Personal Values - Respect and tolerance of others."
+    },
+    {
+      "behaviourId": "29c2a173-5308-4e05-83b2-24559889ec9c",
+      "detail": "Ambassadorial - To be a role model of engineering practice and to promote engineering in order to sustain a pipeline of future talent."
+    },
+    {
+      "behaviourId": "b8f823d9-62f0-4f31-8c8a-289f61d102f8",
+      "detail": " Reflection - Evaluate outcomes of own performance across all duties."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+      "detail": "Safety Effective - The ability to work safely in an industrial environment and where required, produce risk assessment and method statement documentation.  Be able to apply the principles of functional machinery or process safety including SIL (Safety Integrated Level) and PL (Performance Level) terminology."
+    },
+    {
+      "skillId": "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+      "detail": "Engineering documentation - Production and interpretation of a range of technical documentation (device manuals, operating procedures, schematics, fault reports etc), and working with company documentation systems."
+    },
+    {
+      "skillId": "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+      "detail": " Project engineering capabilities - Support of installation, commissioning, shut-down, start-up and maintenance, service, or support of a wide range of systems and devices."
+    },
+    {
+      "skillId": "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+      "detail": "Diagnostic capabilities - Fault finding, diagnosis, rectification and reporting of automation control systems and controls applications via the utilisation of formal problem solving methods and diagnostic tools or software."
+    },
+    {
+      "skillId": "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+      "detail": "Instrumentation configuration and calibration - Set-up, calibrate and commission a wide variety of field level instrumentation that interfaces to automation and control systems"
+    },
+    {
+      "skillId": "9c175043-b690-4744-a462-3efd08f8c922",
+      "detail": "Industrial Networks configuration and support - configure, assist commissioning and continued support of industrial network solutions at all hierarchical levels of control system integration using the requisite tools and or software."
+    },
+    {
+      "skillId": "018c66ba-b489-47e0-b184-1c59404b5062",
+      "detail": "HMI and SCADA configuration and programming - Make changes to existing systems or implement new configurations."
+    },
+    {
+      "skillId": "f0ab4ad6-7b1a-4868-8654-da235ab0f14f",
+      "detail": "PLC or Robot configuration and programming - Implement complex PLC or Robot program content and configurations to affect changes to increase availability and or efficiency of automation controlled machinery and the ability to configure PLC and or Robot hardware and program a wide variety of PLC’s and or Robot’s."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0226",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
+  "involvedEmployers": "Siemens, Amazon, Toyota UK, Bentley Motors, Mondelez, Omega, Mechatronics international UK, Bae Systems, Kuka Robotics, Fairfield Control Systems",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Automation and controls engineering technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
+  "createdDate": "2024-02-02T11:20:19 +00:00",
+  "lastUpdated": "2024-02-02T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the\u00A0revisions status report.",
+  "occupationCode": "OCC0662",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-1",
+  "qualifications": [
+    {
+      "qualificationId": "6e098ca0-c51c-4499-8249-3cea130b875f",
+      "title": "Technical engineering qualification covering at least one of the following areas: Automation and Controls, Electrical or Electronic Engineering, General Engineering, Manufacturing Engineering, Operations Engineering",
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Engineering and Technology (IET)",
+      "level": " Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institutue of Mechanical Engineers (IMechE)",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "7641174b-0b28-4ef4-9971-688f6ec456eb",
+      "dutyDetail": "Setup of a wide range of hardware and software found on industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ef6fd3d-5795-4872-8d1e-d926fed9db22",
+      "dutyDetail": "Program a wide range of hardware using a range of software tools on control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f6ff45a0-49ed-46fa-9d86-2ac93ca4d8ef",
+      "dutyDetail": "Commission a wide range of hardware and/or software found in industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4de55a0d-fd25-4ef3-bc57-4a77746d366c",
+      "dutyDetail": "Service a wide range of hardware found on today’s industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "668530f4-8bda-4120-a5f8-f83ad9291694",
+      "dutyDetail": "Maintain a wide range of hardware and software found on today’s industrial networks and control systems including, but not limited to PLC's, Robots, Human Machine Interfaces (HMIs), Supervisory Control and Data Acquisition (SCADA) systems, variable speed drives, soft-starters, energy monitoring equipment,  instrumentation, safety systems and servo drives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e7e8696d-75e8-4739-83fc-c4382e760177",
+      "dutyDetail": "Develop or modify automation and control system programs using a variety of different  programing tools, languages and techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "651e9762-6163-40b1-b684-d551e76d15c2",
+      "dutyDetail": "Test and validate automation and control systems to ensure that they are safe, functional and satisfy the requirements of a system specification, complying with national and/or international standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bdeb30fa-143c-40f4-a901-962c50556bed",
+      "dutyDetail": "Support and maintain the integration of electrical/electronic safety devices within an automation & control system.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33a79166-2786-43f9-a411-33fdb121f643",
+      "dutyDetail": "Install, support and maintain devices linked to and across Industrial Networking infrastructures including configuration and programming duties to ensure that the flow of data across these devices is maintained.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f395350-0d74-4001-8ba3-613944b4c10d",
+      "dutyDetail": "Provide effective fault escalation support to first line service personnel that lead to successful return to operation of automation and control systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "f4e3f141-e808-460d-b28c-b66c674968d8",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "8bee0482-dbf1-4c5d-9c4c-0e3fd1fb9bdd",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "910fd281-d44c-405f-9ed3-2a22a02d50ba",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "faee008d-8ecf-4000-a9e7-74ae1e019aaa",
+      "dutyDetail": " Supervise, manage, or oversee activities such as installation of automation and control equipment and industrial networks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "85bc18d9-f44c-4a5e-b669-af6755e4262e",
+        "9018bc7c-8d4f-4f80-9bb2-6becb4915080",
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "8f5f6d47-433c-4d4e-b393-4462c5868cbc",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a863af01-835c-4e71-ab73-105c259e8782",
+      "dutyDetail": "Upkeep and maintenance of own knowledge of by actively engaging in a program of CPD for example to keep abreast of changes to legislation, standards (e.g. quality), state of technology.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "29c2a173-5308-4e05-83b2-24559889ec9c",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1b3fad08-5218-48e8-90e2-a5acd19c7fda",
+      "dutyDetail": "Apply relevant safety legislation, and any extra company requirements when working with industrial networking, automation and control systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "356dc3b0-a6d6-4e79-ad03-91ba51cfd9cf",
+      "dutyDetail": "Carry out effective risk assessments when undertaking engineering activities on automation systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dcd74ee1-4b3c-4c2f-a2d6-d5e81642a6e8",
+        "bc52572c-89f1-47e9-bc1a-d0dc53ab3e69",
+        "dc7e97dd-611b-4b00-a8bf-9ca55bb36c02",
+        "e2948890-3590-4a95-baba-59718b97d50c",
+        "9c06b034-e487-4094-951c-3dbf3a576444",
+        "fb34ffbc-ae56-4aeb-9d54-34105f7b2749",
+        "958fe186-d271-42fc-82c8-b34591be9d78",
+        "5f82d548-cf0d-4040-bac4-ee229d06c109",
+        "352b5bbc-1a3d-4066-ba48-a0a45e258ce2",
+        "b8f823d9-62f0-4f31-8c8a-289f61d102f8"
+      ],
+      "mappedKnowledge": [
+        "a941c5de-2b4e-48a0-82fc-035efc70a2cc",
+        "fc8ade6a-e493-4bcc-bdea-2c46619d18ad",
+        "ede0f547-9af6-4382-af07-1482e7ff5e9d",
+        "a443f52c-84f6-4d14-9185-5d981c4628fc",
+        "2e1f8ed2-43bf-48e7-8fea-3bed5fe665d1",
+        "dfa41e97-5fdd-40a7-8f5e-6f2af805766f",
+        "530b96e2-59fb-4c49-8c33-8413773d6a93",
+        "7e6f6792-871f-4343-8c81-984106c97b72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7a674f86-7037-4b58-85f0-6c54ac429ddc",
+        "a6f183b0-0f5b-46bd-9ec9-2268f9678ba1",
+        "8ddbff41-c3b8-4c16-a987-0e207439dbd5",
+        "3ec9cee2-5376-41ce-9662-1d107bf5adb1",
+        "9c175043-b690-4744-a462-3efd08f8c922",
+        "018c66ba-b489-47e0-b184-1c59404b5062",
+        "f0ab4ad6-7b1a-4868-8654-da235ab0f14f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-02T00:00:00"
+}
