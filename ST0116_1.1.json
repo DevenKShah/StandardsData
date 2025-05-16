@@ -1,0 +1,718 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 2,
+  "referenceNumber": "ST0116",
+  "learningAimClassCode": "",
+  "title": "Software developer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0116",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Standard, funding band and end-point assessment plan revised.",
+  "changedDate": "2021-07-14T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Building and testing simple, high-quality code for software.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "ICT",
+    "software",
+    "developer",
+    "software developer",
+    "digital",
+    "design",
+    "coding"
+  ],
+  "jobRoles": [
+    "Web developer",
+    "Application developer",
+    "Mobile application developer",
+    "Software developer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/cd4amafd/st0116_software-developer_l4_ap-for-publication_270521.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.2 Digital technology (users)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found across every sector for example, Financial Services, Computer Gaming, Retail, Transport, Security and Defence in organisations ranging from large multi-nationals, public sector bodies and government projects developing multi-billion-pound software solutions to support key projects to small consultancy firms designing bespoke software solutions for clients.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to understand a client&#39;s requirements as provided in design specification and then build and test high-quality code solutions to deliver the best&#160;outcome.&lt;/p&gt;\n&lt;p&gt;Software developers are the creative minds behind computer programs. Some develop the applications that allow people to do specific tasks on a computer or another device. Others develop the underlying systems that run the devices or that control networks.&lt;/p&gt;\n&lt;p&gt;For example, a software developer may work on Transport ticketing systems, traffic light&#160;control systems, customer-facing websites for journey planning and account management, internal websites for monitoring the status of train and road networks. Bespoke asset management systems.&lt;/p&gt;\n&lt;p&gt;In a computer gaming context, a software developer may work with a creative digital design team to give life to the teams ideas through the delivery of effective code to provide an attractive gaming experience that can give the product a commercial advantage.&lt;/p&gt;\n&lt;p&gt;In a retail context a software developer may work on delivering coding solutions to deliver online retail opportunities for businesses that provide a responsive and secure trading environment for customers to purchase goods and interact with the retailer.&lt;/p&gt;\n&lt;p&gt;Organisations use software to ensure that their operations become ever more effective and robustly reduce the incidence of downtime by building quality tested software solutions to give a better service. For example, in commercial organisations this can give them a competitive advantage by being able to analyse significant amounts of data quickly and efficiently to provide the business with information and management systems. This can save time and help the business spot profit making opportunities. For public sector bodies the right software solution can drive up performance and help target scarce resources more effectively and ensure that customer expectations are more likely to be met.&lt;/p&gt;\n&lt;p&gt;A software developer in a medium to large organisation will typically be working as part of a larger team, in which they will have responsibility for some of the straightforward elements of the overall project. In a smaller enterprise a software developer may be working as the only developer on a project but under direct supervision. A software developer will interpret design documentation and specifications provided by more experienced or specialist members of the team, such as a business analyst or technical architect.&lt;/p&gt;\n&lt;p&gt;In their daily work, a Software Developer interacts with internal and external parties including users/customers (to understand their needs and test the software developed through user testing) and team members from a range of specialist fields including designers, developers, engineers, analysts and project/delivery managers (to ensure the effective implementation of software solutions). A developer will typically be working as part of a larger team, in which they will have responsibility for some of the straightforward elements of the overall project. The developer will need to be able to interpret design documentation and specifications. The customer requirements will typically be defined and agreed by more experienced or specialist members of the team, such as a business analyst or technical architect.&lt;/p&gt;\n&lt;p&gt;A Software Developer is typically office-based however field-based research and testing may require periods of time working in the environments of the clients whose needs they are seeking to meet.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for developing software solutions across the full software development life cycle from research and development, through continuous improvement, to product/service retirement. They may work both autonomously and as part of wider teams, typically reporting to a more senior member of their team.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "628e2845-704f-4261-8e06-a31528a14557",
+      "detail": "all stages of the software development life-cycle (what each stage contains, including the inputs and outputs)"
+    },
+    {
+      "knowledgeId": "1109197e-7f6d-403b-ae31-f72f80cb5004",
+      "detail": "roles and responsibilities within the software development lifecycle (who is responsible for what)"
+    },
+    {
+      "knowledgeId": "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+      "detail": "the roles and responsibilities of the project life-cycle within your organisation, and your role"
+    },
+    {
+      "knowledgeId": "0598b43e-e0d2-4097-bbd1-73a701b2a49c",
+      "detail": "how best to communicate using the different communication methods and how to adapt appropriately to different audiences"
+    },
+    {
+      "knowledgeId": "c72fee1f-5113-472a-b89c-30b0ef30f8af",
+      "detail": "the similarities and differences between different software development methodologies, such as agile and waterfall."
+    },
+    {
+      "knowledgeId": "cefb46f6-486a-4aab-ad8e-c02852648095",
+      "detail": "how teams work effectively to produce software and how to contribute appropriately"
+    },
+    {
+      "knowledgeId": "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+      "detail": "software design approaches and patterns, to identify reusable solutions to commonly occurring problems"
+    },
+    {
+      "knowledgeId": "1be9f79d-b2df-4083-a823-c509b104e2ea",
+      "detail": "organisational policies and procedures relating to the tasks being undertaken, and when to follow them.  For example the storage and treatment of GDPR sensitive data."
+    },
+    {
+      "knowledgeId": "16303574-8182-4d36-b604-8a99c0bbb4bd",
+      "detail": "algorithms, logic and data structures relevant to software development for example:- arrays- stacks- queues- linked lists- trees- graphs- hash tables- sorting algorithms- searching algorithms- critical sections and race conditions"
+    },
+    {
+      "knowledgeId": "f3e103e0-2385-498f-a0dd-2cb36724f3fa",
+      "detail": "principles and uses of relational and non-relational databases"
+    },
+    {
+      "knowledgeId": "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7",
+      "detail": "software designs and functional or technical specifications"
+    },
+    {
+      "knowledgeId": "6b4255c6-d6f1-403d-b020-fe1d20f633dd",
+      "detail": "software testing frameworks and methodologies"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "fed5738c-cd82-4985-a1c3-d1846c877065",
+      "detail": "Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk and stays motivated and committed when facing challenges"
+    },
+    {
+      "behaviourId": "94f1aa57-278b-4c73-82bc-c6189ac44d6d",
+      "detail": "Applies logical thinking.  For example, uses clear and valid reasoning when making decisions related to undertaking work instructions"
+    },
+    {
+      "behaviourId": "0f0104ab-137c-4a74-b313-aba324e9fa8d",
+      "detail": "Maintains a  productive, professional and secure working environment"
+    },
+    {
+      "behaviourId": "ca7e30e2-4184-4463-8a98-732629401dfa",
+      "detail": "Works collaboratively with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity"
+    },
+    {
+      "behaviourId": "ba7f2418-1703-4a71-9147-820981c07a20",
+      "detail": "Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security."
+    },
+    {
+      "behaviourId": "69a37b1e-b664-46bd-adc1-009ee9418003",
+      "detail": "Shows initiative and takes responsibility for solving problems within their own remit, being resourceful when faced with a problem to solve."
+    },
+    {
+      "behaviourId": "036760b5-b1cf-47ad-b128-8f95658ee329",
+      "detail": "Communicates effectively in a variety of situations to both a technical and non-technical audience."
+    },
+    {
+      "behaviourId": "4c08244c-be09-4deb-bffc-f9ab9417c357",
+      "detail": "Shows curiosity to the business context in which the solution will be used, displaying an inquisitive approach to solving the problem. This includes the curiosity to explore new opportunities, techniques and the tenacity to improve methods and maximise performance of the solution and creativity in their approach to solutions."
+    },
+    {
+      "behaviourId": "b21d552e-bb9d-4173-983d-05df2f8a7f0a",
+      "detail": "Committed to continued professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "c0a14e93-2f76-4183-9290-6a1dbaaf3688",
+      "detail": "create logical and maintainable code"
+    },
+    {
+      "skillId": "0de59cb5-4981-4970-a3cc-746efe010d53",
+      "detail": "develop effective user interfaces "
+    },
+    {
+      "skillId": "ea829c0f-5cde-442a-95df-f1da2979a95f",
+      "detail": "link code to data sets"
+    },
+    {
+      "skillId": "3dc06b82-5aef-4e19-932e-3b7b2c425ece",
+      "detail": "test code and analyse results to correct errors found using unit testing"
+    },
+    {
+      "skillId": "d9fc4530-380a-40e9-bea2-1963e8884e1e",
+      "detail": "conduct a range of test types, such as Integration, System, User Acceptance, Non-Functional, Performance and Security testing."
+    },
+    {
+      "skillId": "aa308fad-67fe-456c-88b2-452a17916633",
+      "detail": "identify and create test scenarios"
+    },
+    {
+      "skillId": "4e2ca688-35be-4d08-8d83-52573689a8a5",
+      "detail": "apply structured techniques to problem solving,  debug code and understand the structure of programmes in order to identify and resolve issues"
+    },
+    {
+      "skillId": "3d0788df-3cf1-4763-bf8d-e60588dee483",
+      "detail": "create simple software designs to effectively communicate understanding of the program"
+    },
+    {
+      "skillId": "7c511ab7-5952-4dab-86bb-5de23bd975d2",
+      "detail": "create analysis artefacts, such as use cases and/or user stories"
+    },
+    {
+      "skillId": "198dc965-5641-41a0-8354-3fec07d3d404",
+      "detail": "build, manage and deploy code into the relevant environment"
+    },
+    {
+      "skillId": "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+      "detail": "apply an appropriate software development approach according to the relevant paradigm (for example object oriented, event driven or procedural)"
+    },
+    {
+      "skillId": "24d031ca-162a-444c-93e9-f62df929a864",
+      "detail": "follow software designs and functional or technical specifications"
+    },
+    {
+      "skillId": "38e02335-7754-4137-8a77-9f4d3f6fa8b5",
+      "detail": "follow testing frameworks and methodologies"
+    },
+    {
+      "skillId": "b9f83461-efe5-446d-9a9d-ea99c204345a",
+      "detail": "follow company, team or client approaches to continuous integration, version and source control"
+    },
+    {
+      "skillId": "ff326e94-7694-48e0-b492-d4ce48e90ed0",
+      "detail": "communicate software solutions and ideas to technical and non-technical stakeholders"
+    },
+    {
+      "skillId": "5ba77ca3-2651-4566-94fe-007ca58f3c67",
+      "detail": "apply algorithms, logic and data structures"
+    },
+    {
+      "skillId": "d340cc14-c1d3-434f-a230-a37bf15b6399",
+      "detail": "interpret and implement a given design whist remaining compliant with security and maintainability requirements"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2014-11-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0558",
+  "tbMainContact": "rebecca.plant@microsoft.com",
+  "involvedEmployers": "Fujitsu, Exclaimer  , FRFL, Risual, Lloyds Bank, Autotrader, DEFRA",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Web developer",
+    "Application developer",
+    "Mobile application developer",
+    "Software developer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": null,
+  "createdDate": "2021-06-01T08:58:55 +00:00",
+  "lastUpdated": "2021-07-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0116",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0116-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0116-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "3c83002f-b86b-4233-a969-f0feb3131f34",
+      "dutyDetail": "Take and interpret given software development requirements to estimate effort to deliver the work product to enable accurate costs to be established.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4e2ca688-35be-4d08-8d83-52573689a8a5",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "d340cc14-c1d3-434f-a230-a37bf15b6399"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b13d67cb-cba4-4829-97b5-64598412b675",
+      "dutyDetail": "Break software development activities down into logical units of work to enable sequencing and ensure the best possible structuring of activities to deliver a high quality product right first time.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "16303574-8182-4d36-b604-8a99c0bbb4bd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0a14e93-2f76-4183-9290-6a1dbaaf3688",
+        "4e2ca688-35be-4d08-8d83-52573689a8a5",
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "5ba77ca3-2651-4566-94fe-007ca58f3c67",
+        "d340cc14-c1d3-434f-a230-a37bf15b6399"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "72c1f7be-4cc1-43ee-9f52-506afe3bcca8",
+      "dutyDetail": "Report progress accurately throughout the development life-cycle stages to ensure adequate audit trails of key worksteps such that the organisation can demonstrate how the product has been created for quality and commercial purposes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ca7e30e2-4184-4463-8a98-732629401dfa"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "0598b43e-e0d2-4097-bbd1-73a701b2a49c",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ff326e94-7694-48e0-b492-d4ce48e90ed0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84402d57-c5f0-4c6e-8657-d4958beb9403",
+      "dutyDetail": "Identify and report any impediments to software development activities and propose practical solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "ba7f2418-1703-4a71-9147-820981c07a20",
+        "69a37b1e-b664-46bd-adc1-009ee9418003",
+        "036760b5-b1cf-47ad-b128-8f95658ee329",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357"
+      ],
+      "mappedKnowledge": [
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "f3e103e0-2385-498f-a0dd-2cb36724f3fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4e2ca688-35be-4d08-8d83-52573689a8a5",
+        "7c511ab7-5952-4dab-86bb-5de23bd975d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45a1a109-d93f-4d48-b186-148bf68705f2",
+      "dutyDetail": "Convert customer requirements into technical requirements, both functional and non-functional to ensure that customers' expectations are accurately reflected in the software products developed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d",
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d",
+        "ca7e30e2-4184-4463-8a98-732629401dfa",
+        "69a37b1e-b664-46bd-adc1-009ee9418003",
+        "036760b5-b1cf-47ad-b128-8f95658ee329",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0de59cb5-4981-4970-a3cc-746efe010d53",
+        "7c511ab7-5952-4dab-86bb-5de23bd975d2",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "24d031ca-162a-444c-93e9-f62df929a864",
+        "b9f83461-efe5-446d-9a9d-ea99c204345a",
+        "d340cc14-c1d3-434f-a230-a37bf15b6399"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "96d0b9f6-07d2-4236-a547-28a952a43946",
+      "dutyDetail": "Identify and select the most appropriate technical solution, taking into consideration coding best practice and appropriate quality standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba7f2418-1703-4a71-9147-820981c07a20",
+        "69a37b1e-b664-46bd-adc1-009ee9418003",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "16303574-8182-4d36-b604-8a99c0bbb4bd",
+        "f3e103e0-2385-498f-a0dd-2cb36724f3fa",
+        "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0a14e93-2f76-4183-9290-6a1dbaaf3688",
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "7c511ab7-5952-4dab-86bb-5de23bd975d2",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "24d031ca-162a-444c-93e9-f62df929a864",
+        "5ba77ca3-2651-4566-94fe-007ca58f3c67",
+        "d340cc14-c1d3-434f-a230-a37bf15b6399"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0119f12b-32c6-486d-bb45-1816e3d503a8",
+      "dutyDetail": "Communicate software development solutions to a range of internal or external stakeholders to ensure clear understanding of requirements and how they have been met or adjusted.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "ca7e30e2-4184-4463-8a98-732629401dfa",
+        "69a37b1e-b664-46bd-adc1-009ee9418003",
+        "036760b5-b1cf-47ad-b128-8f95658ee329"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "0598b43e-e0d2-4097-bbd1-73a701b2a49c",
+        "cefb46f6-486a-4aab-ad8e-c02852648095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ff326e94-7694-48e0-b492-d4ce48e90ed0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2e3745a-b1c5-4ac3-8a23-7011b760a957",
+      "dutyDetail": "Consider security implications of proposed design to ensure that security considerations are built in from inception and throughout the development process.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba7f2418-1703-4a71-9147-820981c07a20",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357"
+      ],
+      "mappedKnowledge": [
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea",
+        "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0a14e93-2f76-4183-9290-6a1dbaaf3688",
+        "0de59cb5-4981-4970-a3cc-746efe010d53",
+        "ea829c0f-5cde-442a-95df-f1da2979a95f",
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "d340cc14-c1d3-434f-a230-a37bf15b6399"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1cd3fbc9-426a-4b79-978d-49d97b56cb1f",
+      "dutyDetail": "Write logical and maintainable software solutions to meet the design and organisational coding standards  (Software Development Lifecycle -Implementation and Build phase).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d",
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d"
+      ],
+      "mappedKnowledge": [
+        "16303574-8182-4d36-b604-8a99c0bbb4bd",
+        "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0a14e93-2f76-4183-9290-6a1dbaaf3688",
+        "0de59cb5-4981-4970-a3cc-746efe010d53",
+        "ea829c0f-5cde-442a-95df-f1da2979a95f",
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "198dc965-5641-41a0-8354-3fec07d3d404",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "24d031ca-162a-444c-93e9-f62df929a864",
+        "5ba77ca3-2651-4566-94fe-007ca58f3c67"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "efcdf3ae-047b-420d-833a-8f66d7435664",
+      "dutyDetail": "Apply security best practice to the software solution throughout the software development life-cycle.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ba7f2418-1703-4a71-9147-820981c07a20"
+      ],
+      "mappedKnowledge": [
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "fe15ce4f-c759-49cf-a52e-e082bcd0c0e3",
+        "24d031ca-162a-444c-93e9-f62df929a864"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "144b4c9c-17d8-4176-a985-b6fcb5d58f49",
+      "dutyDetail": "Create and maintain appropriate project documentation to explain the development process and resources used.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d",
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7c511ab7-5952-4dab-86bb-5de23bd975d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "498a0cb3-a8e8-44e5-9289-ef6035f7693a",
+      "dutyDetail": "Apply appropriate recovery techniques to ensure the software solution being developed is not lost (Software Development Lifecycle -Implementation and Build phase).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0d7341e-181d-464f-9115-8d2fa6b71c1e",
+      "dutyDetail": "Implement appropriate change control to ensure that software development changes may be tracked and quality risks managed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "94f1aa57-278b-4c73-82bc-c6189ac44d6d"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31b73c9d-8545-4c91-b756-7744a2ca16c1",
+      "dutyDetail": "Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, resolve issues (Software Development Lifecycle -Implementation and Build phase).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "69a37b1e-b664-46bd-adc1-009ee9418003"
+      ],
+      "mappedKnowledge": [
+        "16303574-8182-4d36-b604-8a99c0bbb4bd",
+        "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7",
+        "6b4255c6-d6f1-403d-b020-fe1d20f633dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dc06b82-5aef-4e19-932e-3b7b2c425ece",
+        "d9fc4530-380a-40e9-bea2-1963e8884e1e",
+        "aa308fad-67fe-456c-88b2-452a17916633",
+        "4e2ca688-35be-4d08-8d83-52573689a8a5",
+        "38e02335-7754-4137-8a77-9f4d3f6fa8b5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b3127cac-062c-495a-8ce6-38d2ac665161",
+      "dutyDetail": "Perfom testing of the software solution to ensure a high quality output (Software Development Lifecycle -Test phase).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [
+        "16303574-8182-4d36-b604-8a99c0bbb4bd",
+        "e7de6efb-2f25-4969-8aa1-6b2dfb6fdab7",
+        "6b4255c6-d6f1-403d-b020-fe1d20f633dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dc06b82-5aef-4e19-932e-3b7b2c425ece",
+        "d9fc4530-380a-40e9-bea2-1963e8884e1e",
+        "aa308fad-67fe-456c-88b2-452a17916633",
+        "38e02335-7754-4137-8a77-9f4d3f6fa8b5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ec105bca-2fbd-49ac-b506-26d05c0f67d0",
+      "dutyDetail": "Deliver a suitably documented deployable solution to the customer for their use (Software Development Lifecycle -Deploy phase).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0de59cb5-4981-4970-a3cc-746efe010d53",
+        "3d0788df-3cf1-4763-bf8d-e60588dee483",
+        "7c511ab7-5952-4dab-86bb-5de23bd975d2",
+        "198dc965-5641-41a0-8354-3fec07d3d404",
+        "ff326e94-7694-48e0-b492-d4ce48e90ed0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "059de0fa-0017-4284-9583-d73238042f88",
+      "dutyDetail": "Support delivery of one or more software deployment phases, such as trials and final release, to ensure that software developer outcomes are deployed correctly.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "ca7e30e2-4184-4463-8a98-732629401dfa",
+        "036760b5-b1cf-47ad-b128-8f95658ee329"
+      ],
+      "mappedKnowledge": [
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d9fc4530-380a-40e9-bea2-1963e8884e1e",
+        "aa308fad-67fe-456c-88b2-452a17916633",
+        "198dc965-5641-41a0-8354-3fec07d3d404"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1cc2aa19-42b6-4def-a4ec-8919cb1dca38",
+      "dutyDetail": "Provide support during software trials and after final release to ensure that customers understand and can correctly apply the product, and risks are mitigated.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ca7e30e2-4184-4463-8a98-732629401dfa",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ac771d8d-e31a-4711-8736-905c31e1f9e0",
+      "dutyDetail": "Respond appropriately to given Service Level Agreements (SLAs) to ensure that time and resources invested in software development activity are allocated appropriately to deliver good customer service.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "69a37b1e-b664-46bd-adc1-009ee9418003",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [
+        "628e2845-704f-4261-8e06-a31528a14557",
+        "1109197e-7f6d-403b-ae31-f72f80cb5004",
+        "4b6f6a9e-fa51-49fd-88b8-3f0348a4c59a",
+        "c72fee1f-5113-472a-b89c-30b0ef30f8af",
+        "cefb46f6-486a-4aab-ad8e-c02852648095",
+        "9d5a1e28-e4a4-44ce-8651-1d441a9dd7fa",
+        "1be9f79d-b2df-4083-a823-c509b104e2ea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9f83461-efe5-446d-9a9d-ea99c204345a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b40e4bf8-27d9-4a62-aba1-525e8ea9db63",
+      "dutyDetail": "Apply suitable 'bug fix', appropriate to the severity and priority of the software development issue identified.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "69a37b1e-b664-46bd-adc1-009ee9418003"
+      ],
+      "mappedKnowledge": [
+        "6b4255c6-d6f1-403d-b020-fe1d20f633dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3dc06b82-5aef-4e19-932e-3b7b2c425ece",
+        "4e2ca688-35be-4d08-8d83-52573689a8a5",
+        "38e02335-7754-4137-8a77-9f4d3f6fa8b5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6adf5040-cafe-452a-8dd9-7eb3aa3142c8",
+      "dutyDetail": "Practice continuous self learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fed5738c-cd82-4985-a1c3-d1846c877065",
+        "0f0104ab-137c-4a74-b313-aba324e9fa8d",
+        "4c08244c-be09-4deb-bffc-f9ab9417c357",
+        "b21d552e-bb9d-4173-983d-05df2f8a7f0a"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-07-14T00:00:00"
+}
