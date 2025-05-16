@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 14,
   "referenceNumber": "ST0248",
+  "learningAimClassCode": "",
   "title": "Laboratory technician",
   "status": "Retired",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/14",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0248",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard revised",
-  "changedDate": "2020-05-06T00:00:00",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2020-05-06T00:00:00",
   "latestStartDate": "2020-08-04T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing routine and one-off testing and technical support in a scientific laboratory environment.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Science",
@@ -34,12 +40,11 @@
     "Laboratory assistant (prefixed by sector)"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1062/laboratory_technician.pdf",
-  "ssa1": "2 Science and Mathematics",
-  "ssa2": "2.1 Science",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1062/laboratory_technician.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "3111 - Laboratory technicians",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of organisations, including but not exclusively, chemical, primary and secondary pharmaceutical, biotechnology, formulated products, nuclear companies; and analytical science services, dental laboratories and educational establishments. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is working at the forefront of technology to carry out both routine and one-off laboratory testing (and manufacturing where relevant) and perform a variety of technical support functions across the organisation. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the laboratory manager and colleagues, internal departments such as manufacturing, procurement and quality, internal customers such as medical staff, teaching staff and students, external suppliers and customers such as service engineers, delivery drivers, regulatory bodies and inspection teams e.g. HSE. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for proactively finding solutions to problems and identifying areas for improving the business. Laboratory technicians are expected to work both individually and as part of a laboratory team. They are able to work with minimum supervision, taking responsibility for the quality and accuracy of their own work. In any context working safely and ethically is paramount and many companies operate under highly regulated conditions. Laboratory technicians therefore follow quality procedures to meet the requirements of quality standards relevant to their work. It is not a requirement, either to practise in this occupation or as part of this apprenticeship, for apprentices to achieve additional qualifications (other than the usual English and maths requirements for an apprenticeship at this level) or professional recognition. However, this apprenticeship standard has been carefully designed with some of the requirements of certain relevant professional bodies in mind. Apprentices and employers should speak to the professional bodies relevant to the industry or sector within which they are working to ascertain the additional requirements that must be met for professional recognition by these organisations. Recognition by those organisations will be dependent on the acquisition of learning as defined by them.&lt;/p&gt;",
   "knowledges": [
     {
@@ -243,25 +248,28 @@
       "detail": "Evaluate data, recognise and call attention to anomalous or unusual results"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2014-12-09T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0040",
   "tbMainContact": "Robert.Watts@covance.com",
   "involvedEmployers": "Actavis, Aesica Pharmaceuticals, Astra Zeneca, BCM, Essar, Fujifilm Diosynth Biotechnologies, GSK, Ineos, Lotte Chemical UK, Lucite, Medimmume, Pfizer, SABIC UK Petrochemicals, Sellafield, Sembcorp, Seralab, Synergy Outsourcing, Victrex, RSC, IChemE, SB",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -269,21 +277,27 @@
     "Laboratory technician",
     "Laboratory assistant (prefixed by sector)"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
   "cluster": "Science Technician",
+  "clusterId": "102",
+  "clusterDescription": "Provide routine and non-routine laboratory testing, experimenting and support to a research brief",
   "createdDate": "2020-09-09T10:54:36 +00:00",
-  "lastUpdated": "2020-08-05T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/laboratory-technician-v1-1",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2014-12-09T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0248",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0248-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0248-v1-1",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Completing this apprenticeship provides individuals with the opportunity for RSciTech registration as Registered Science Technician. However, prior to applying to RSciTech, apprentices need to achieve a relevant level 3 qualification or equivalent in addition to this Apprenticeship, and be a member of a relevant professional body",
-      "level": "0",
-      "isPartial": null,
-      "partialFreeText": null
+      "level": "",
+      "isPartial": "",
+      "partialFreeText": ""
     }
   ],
   "duties": [
@@ -291,7 +305,7 @@
       "dutyID": "b18f8137-b2fc-496f-833f-eaa964ee8bc5",
       "dutyDetail": "Work safely in a laboratory, maintaining excellent housekeeping whilst following appropriate safety, environment and risk management systems.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "e95df32a-61bb-45a1-a811-792556488aab",
         "7509d2ea-64e6-4f5f-8f99-02d5f7c0802f",
@@ -301,7 +315,7 @@
         "2f620e22-1c13-4454-b513-ad53b9364b91",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "43f7b981-66ca-4569-a6f2-e61873f93249",
         "4f84f049-8c93-4537-9d61-e2ee78c267eb"
@@ -312,14 +326,14 @@
       "dutyID": "85451a39-4dc4-4dae-a3db-69577d26cd5c",
       "dutyDetail": "Follow quality procedures to meet the requirements of quality standards relevant to the workplace.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "910558e2-81a7-49ce-b755-8a7aa1be6ead",
         "6023cf42-1783-4052-9a86-a5a28793cb01",
         "b16a4d2f-1339-4335-8b8e-3d50b87ae80e",
         "620ca157-030f-4618-ae47-0fd3fb0797dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d36271c1-6bdb-4072-a541-8ac859a7c64b",
         "b744468e-ea6e-4c6a-acb2-edd4f17e2ae2"
@@ -330,13 +344,13 @@
       "dutyID": "2236c88b-3af8-4613-9d41-e533b2b6a990",
       "dutyDetail": "Prepare for laboratory tasks using the appropriate scientific techniques, procedures and methods",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "3a0ed2ca-5b7f-419d-824c-b21d890a6c4f",
         "0d2a296c-27ca-463e-93af-85d75633bf9b",
         "f7c75b94-fa4c-4c7a-9884-da046ca90777"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b487dfa-4dc8-4e87-833c-1f4170a2a88e",
         "05d12342-ea3b-4f1d-99b3-4c87e6978ef9",
@@ -359,7 +373,7 @@
         "910558e2-81a7-49ce-b755-8a7aa1be6ead",
         "b16a4d2f-1339-4335-8b8e-3d50b87ae80e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "079e7774-4a4f-4a28-9d59-7ccdf73f673a",
         "396db869-a236-404b-9b74-0ea9667f45bc"
@@ -370,12 +384,12 @@
       "dutyID": "17e95441-8fb8-41cf-91ea-9a56d339c0a4",
       "dutyDetail": "Use of specified instrumentation and laboratory equipment, including calibration where required.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "f7c75b94-fa4c-4c7a-9884-da046ca90777",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "396db869-a236-404b-9b74-0ea9667f45bc",
         "b744468e-ea6e-4c6a-acb2-edd4f17e2ae2",
@@ -387,12 +401,12 @@
       "dutyID": "6d112217-2ec9-4f9e-a67b-1b909ddb2e98",
       "dutyDetail": "Produce reliable, accurate data and keep accurate records of laboratory work undertaken and results.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "d46c3cf7-828b-4924-bd0d-e456ab97cad6",
         "62c76963-25f9-4eea-9176-9bde5fc00823"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91b84c15-a7f1-409f-80c0-bbb4621a3fb9",
         "440fa269-eccd-44fb-bde7-6ce180d4e969",
@@ -413,7 +427,7 @@
         "fe4b09d5-bf3b-4b9c-9afc-3c07ffa35144",
         "f7c75b94-fa4c-4c7a-9884-da046ca90777"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cbda131d-60db-4e7a-9e0b-c127241ca308",
         "c623412b-cf2e-4ec5-817b-2fb57ef86b2b",
@@ -432,7 +446,7 @@
       "mappedKnowledge": [
         "38228830-eb58-4a17-a5b4-b06bf31c4f95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "91b84c15-a7f1-409f-80c0-bbb4621a3fb9",
         "440fa269-eccd-44fb-bde7-6ce180d4e969",
@@ -445,11 +459,11 @@
       "dutyID": "cc460951-8940-4268-b0c8-52abd5d14e6a",
       "dutyDetail": "Apply scientific techniques for data presentation. e.g. statistics",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "6214dfec-fa36-42cb-bdc9-32ac67a1245b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c9725ccf-849b-45a8-b127-ec868075c29c",
         "bdf7011c-0ef1-460f-b906-210d90a33775",
@@ -461,13 +475,13 @@
       "dutyID": "7e2a117d-fd2f-407f-b340-37cb8b3554c4",
       "dutyDetail": "Recognise problems and apply appropriate scientific methods to identify causes and achieve solutions.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "cc7a3eca-99ca-46e8-8f97-df1eff0a669f",
         "fe4b09d5-bf3b-4b9c-9afc-3c07ffa35144",
         "7bab3adc-255e-4e20-9b62-bd895d84a4eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0674c9a7-b6ad-4209-85a5-61811f692a7f",
         "cbda131d-60db-4e7a-9e0b-c127241ca308",
@@ -487,12 +501,17 @@
         "6023cf42-1783-4052-9a86-a5a28793cb01",
         "84690edd-abc4-4e88-9968-a71198a917ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c623412b-cf2e-4ec5-817b-2fb57ef86b2b"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-31T00:00:00"
 }
