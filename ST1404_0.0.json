@@ -1,0 +1,1576 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST1404",
+  "learningAimClassCode": "",
+  "title": "Water industry asset maintenance technician",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1404",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "0001-01-01T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Repair, maintenance, installation and commissioning of plant and equipment used for water recycling or water treatment.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 48,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "water industry asset maintenance technician",
+    "water industry",
+    "water recycling",
+    "water treatment",
+    "installation"
+  ],
+  "jobRoles": [
+    "Ica technician",
+    "Maintenance technician",
+    "Maintenance technician electrician",
+    "Mechanical asset technician",
+    "Mechanical maintenance technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1404?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the water industry. Water industry asset maintenance technicians typically work for water companies regulated by the Water Services Regulation Authority (Ofwat). They may also work for companies that subcontract to regulated water companies. These organisations range in size from small to large. They provide a supply of clean, fresh drinking water to houses and businesses in their area 365 days a year. Also, they take wastewater from their customers, clean it to the required standard and return it to the natural environment. This is a highly regulated industry as the failure of either of these processes could result in health and environmental concerns. Technicians normally work on equipment and plant used for either water treatment or wastewater recycling as this helps maintain health and hygiene. They work in a range of facilities such as pumping stations, water treatment plants and sewage treatment works. They may also work on assets located within the raw water or sewage network. This is a core and options apprenticeship proposal. An apprentice must be trained in the core and one option. The options are: Option 1. water industry maintenance technician - mechanical Option 2. water industry maintenance technician - electrical Option 3. water industry maintenance technician – instrumentation, control and automation &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to keep the range of equipment used for water treatment or wastewater recycling operating safely and efficiently. Making sure houses and businesses benefit from a safe, continuous supply of clean water and wastewater quality is maintained. Water industry asset maintenance technicians travel between sites to carry out planned maintenance work. They work safely, considering process implications when isolating equipment to be worked on. They then carry out installations, modifications, repairs and servicing. Once complete, they test the equipment to make sure it is working properly before being brought into service. They carry out breakdown maintenance on large industrial equipment, investigating equipment failures and diagnosing complex faults. They plan and carry out repairs as quickly and efficiently as possible. Breakdowns can happen at any time and can affect water supply and wastewater recycling processes. Because of this, water industry asset maintenance technicians normally work shifts and undertake standby duties outside of regular working hours. Mechanical technicians work on items of electromechanical plant such as pumps, valves, gas dosing equipment, pipework, and a range of chemical dosing pumps. Electrical technicians work on industrial electrical equipment such as electrical motors, variable speed drives (VSDs), electrical panels, motor control centres and instrumentation such as Programmable Logic Control (PLC). Instrumentation, Control and Automation (ICA) technicians maintain, install, calibrate and test equipment used for monitoring water processes. They write and modify control software for the maintenance of ICA systems such as Supervisory Control and Data Acquisition (SCADA), PLCs, Human Machine Interfaces (HMIs) and intelligent networking systems. All technicians make sure that data quality is maintained, design and installations are to the latest standards and provide technical support for system users. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with technicians from other disciplines such as systems, mechanical and electrical technicians to solve non-routine problems as part of a multi-disciplinary team. They may also work with subcontractors. They could also communicate with members of the general public and business owners when working on assets located in or near public places. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for making sure plant and equipment for water recycling or water treatment operates safely and efficiently. Technicians must consider behavioural safety. This means they must follow safe systems of work. They must proactively monitor their work environment to manage the risks that their work can pose to themselves, their colleagues and members of the public. Including the risk of pollution incidents and damage to the environment. They support their employers to meet sustainability commitments. Working to optimise processes, assets and systems to reduce the impact the industry has on the environment. Well maintained equipment saves energy. It means fewer leaks and makes sure drinking water and waste water meet the required standard. Technicians may also manage a budget, making sure spare parts are available where and when they are needed.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5fdd7d31-a40a-4afb-8171-07971f8c7253",
+      "detail": "Overview of water and wastewater industries. Regulators and stakeholders: Drinking Water Inspectorate (DWI), Water Services Regulation Authority (OFWAT), Consumer Council for Water (CCWater), Environment Agency (EA), Health and Safety Executive (HSE), and Department for Environment, Food and Rural Affairs (Defra) - roles and powers."
+    },
+    {
+      "knowledgeId": "5aa5a3c2-f32c-4bfc-aa89-59b10d6ffbe7",
+      "detail": "Awareness of water industry legislative and regulatory requirements. Materials in contact (WRAS approved), food grade lubricants, Asset Management Periods."
+    },
+    {
+      "knowledgeId": "7a95406f-dd14-4eb6-a3f3-b48430991ab1",
+      "detail": "Awareness of water and waste water process theory from source to recycling. Abstraction processes. Water treatment and disinfection  processes. Water distribution, boosters and service reservoirs. Wastewater treatment, networks and pumping stations. Effluent discharges and parameters."
+    },
+    {
+      "knowledgeId": "0efab389-4e44-4f33-963a-3d7efec8da88",
+      "detail": "Chemical dosing systems for water and wastewater. Risks, mitigations and safe systems of work. Equipment and storage to include pumps, valves and dosing lines."
+    },
+    {
+      "knowledgeId": "caafc53b-0036-430f-b737-1368e0adad50",
+      "detail": "Water industry maintenance technician role, responsibilities, limits of autonomy and reporting channels."
+    },
+    {
+      "knowledgeId": "c39072b0-946f-4d3e-b5e5-49f3a64d98c4",
+      "detail": "Awareness of health and safety regulations, relevant to the occupation and the technician's responsibilities. CDM regulations. Control of Substances Hazardous to Health (COSHH). Display Screen Equipment. Due diligence. Electricity at work regulations (EaWR). Emergency evacuation procedures. Health and Safety at Work Act – responsibilities. Isolation and emergency stop procedures. Legionella. Lifting Operations and Lifting Equipment Regulations (LOLER). Lone working. Management systems of occupational health and safety ISO 45001. Manual handling. Near miss reporting. Noise regulation. Provision and use of Work Equipment Regulations (PUWER). Reporting of Injuries, Diseases, and Dangerous Occurrences Regulations (RIDDOR). Risk assessments. Safety equipment: guards, signage, fire extinguishers. Situational awareness. Slips, trips and falls. Types of hazards. Personal Protective Equipment (PPE). Working in confined spaces. Pressure Systems Safety Regulations (PSSR). "
+    },
+    {
+      "knowledgeId": "5a3576b2-c04d-49e6-a0f8-3175b2b9fa61",
+      "detail": "Safe systems of work."
+    },
+    {
+      "knowledgeId": "f2f18b0b-c36c-4a26-acd5-6851041bb2fa",
+      "detail": "Dangerous Substances and Explosive Atmospheres Regulations (DSEAR). ATEX compliance (safety requirements of the workplace and equipment used in explosive atmospheres). Working in and around explosive atmospheres. Hazardous areas (DSEAR zones). PPE. Intrinsically safe tools for working in explosive atmospheres. Exposure limits. Necessary forced pre-ventilation. Gas monitoring equipment."
+    },
+    {
+      "knowledgeId": "c4222920-7686-4e34-9c2e-435d50dbc694",
+      "detail": "Water industry sustainability and environmental principles and requirements. Permits and operation conditions for water extraction. Requirements for disposing of discharges and waste. Monitoring emissions to air, land and water (MCERTS). Waste Electrical and Electronic Equipment (WEEE) Regulations. "
+    },
+    {
+      "knowledgeId": "fdaf72c6-73fb-4fe4-9e01-9c7e79396e64",
+      "detail": "The impact water industry operations have on the environment."
+    },
+    {
+      "knowledgeId": "307bf80f-f615-48a2-882c-acf0f159b0dd",
+      "detail": "Planning, prioritising, work scheduling and time management approaches."
+    },
+    {
+      "knowledgeId": "892599d4-a219-4f51-81ba-9238b15e54c1",
+      "detail": "Asset security requirements."
+    },
+    {
+      "knowledgeId": "e4e0687a-3408-44dc-8697-2f7cb805041e",
+      "detail": "Tools and equipment used in maintenance and repair tasks. Operational checks, calibration, storage and maintenance requirements."
+    },
+    {
+      "knowledgeId": "7585f3c7-827e-4eee-a954-bebe69e24767",
+      "detail": "Maintenance strategies and techniques: planned, preventative, predictive and reactive methods and their frequency."
+    },
+    {
+      "knowledgeId": "716831c0-6c8a-4a76-b15f-60f08d40c3d1",
+      "detail": "Written communication and documentation: methods and requirements - electronic and paper. Service records. Test results."
+    },
+    {
+      "knowledgeId": "25996c6b-38e1-42da-baba-a02dc36c4e76",
+      "detail": "Personal hygiene risks and requirements for working on a water treatment or a wastewater treatment site."
+    },
+    {
+      "knowledgeId": "62182ced-adc0-4cdd-82b3-3fee5997e14b",
+      "detail": "Water industry process safety and process risk assessments. Incidents and emergency situations (internal and external): pollution, loss of process, security, weather, and accidents: their potential impact. Incident management and procedures. The risk of pollution and untreated water in supply."
+    },
+    {
+      "knowledgeId": "a90066a2-ba65-455b-ae03-4b6f3c4076b6",
+      "detail": "Continuous improvement techniques. Asset and process optimisation."
+    },
+    {
+      "knowledgeId": "33e56d49-1932-40eb-a353-9bab863be9cd",
+      "detail": "Principles of equity, diversity, and inclusion in the workplace. Unconscious bias."
+    },
+    {
+      "knowledgeId": "790a4515-e201-4530-974d-606599d3d11f",
+      "detail": "Team working principles."
+    },
+    {
+      "knowledgeId": "3b78d417-6b73-45f5-bfbe-39eeb30be9aa",
+      "detail": "Non-written communication methods and techniques. Engineering maintenance terminology."
+    },
+    {
+      "knowledgeId": "867be0ee-3c3e-4f7d-a758-3e2e5e1b36cd",
+      "detail": "Information technology and digital: digital interfaces, email, Management Information Systems (MIS), spreadsheets, presentation, word processing, virtual communication, learning platforms, work collaboration platforms. General Data Protection Regulation (GDPR). Cyber security."
+    },
+    {
+      "knowledgeId": "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+      "detail": "Mechanical: Mechanical theories and principles; pneumatics, hydraulics and pressure systems. Torque, gearbox ratios, flow ratios, step-down ratios. Machine specifications."
+    },
+    {
+      "knowledgeId": "8ea0c41a-9659-4298-a367-ee845f95ee5e",
+      "detail": "Mechanical: Safe isolation and depressurisation of mechanical plant and equipment in preparation for repair and maintenance work. Permits, safe isolation policies and procedures, lock off systems."
+    },
+    {
+      "knowledgeId": "ffa5a2bd-0319-4b20-bc88-740d953b40e7",
+      "detail": "Mechanical: Practices and techniques for the installation, commissioning and decommissioning of mechanical systems and equipment. "
+    },
+    {
+      "knowledgeId": "c1bc986b-1fff-4302-afea-697e00902140",
+      "detail": "Mechanical: Repair and maintenance of machinery, equipment and components. Practices and techniques. Removing and replacing parts, set up, adjustment, cleaning and lubricating."
+    },
+    {
+      "knowledgeId": "4bcfe5a0-d7f1-4cc2-9aa5-10e2a16b3dea",
+      "detail": "Mechanical: Tools, equipment, resources and components used for the installation, repair and maintenance of mechanical systems. Application, operation, care and calibration requirements."
+    },
+    {
+      "knowledgeId": "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+      "detail": "Mechanical: Fault finding, problem solving and rectification techniques. Aids and diagnostic equipment."
+    },
+    {
+      "knowledgeId": "5555ce54-1e04-4e5d-ae94-43739e25733f",
+      "detail": "Mechanical: Inspection, monitoring and testing requirements and techniques."
+    },
+    {
+      "knowledgeId": "558f204d-481e-4c08-b6bd-77e5e762207a",
+      "detail": "Mechanical: Basic fabrication, welding and thermal cutting processes for mechanical components and structures."
+    },
+    {
+      "knowledgeId": "d136772f-e8e9-49fc-b818-2676dbc8ac3e",
+      "detail": "Mechanical: Bench fitting techniques used in equipment and component assembly."
+    },
+    {
+      "knowledgeId": "5a29f380-156b-45a3-a96a-9d5176bad6a8",
+      "detail": "Mechanical: Types and application of machinery. For example: lathes, pillar drills, milling machine, threading machine, mechanical saws. Machine speeds for different materials."
+    },
+    {
+      "knowledgeId": "2787afb5-c1be-439b-9f89-d65a68e04db6",
+      "detail": "Mechanical: Design specifications, plans, drawings and manufacturer’s instructions."
+    },
+    {
+      "knowledgeId": "23294cb1-9f84-43d8-a606-074f33386afa",
+      "detail": "Mechanical: Round numbers, scientific notation, percentages and ratios. Area, perimeter, volume and surface area. Scales, tables, graphs and charts. Trigonometry and Pythagoras' Theorem. Engineering formulae.  Sequence of operations. Conversions and calculations."
+    },
+    {
+      "knowledgeId": "12ab87f0-deb7-4d73-b9be-9d32ff3cd1bc",
+      "detail": "Electrical: Practices and techniques for the installation, commissioning and decommissioning of cabling and electrical equipment."
+    },
+    {
+      "knowledgeId": "bf85db5f-d091-4879-92c3-296a7c941e65",
+      "detail": "Electrical - Electrical theories and principles. Basic concepts of electricity. Ohms law, Kirchoff's law, circuits, conductors and insulators, basic AC theory, complex numbers, resistance and impedance - capacitive and inductive, transformers, polyphase AC circuits, power factor. Harmonics."
+    },
+    {
+      "knowledgeId": "95aa9e73-4948-496a-b1c0-7af623ea92df",
+      "detail": "Electrical: Design and modification of electrical circuits."
+    },
+    {
+      "knowledgeId": "4200930d-bd12-434f-9794-8533a34c8a4b",
+      "detail": "Electrical: Safe isolation of plant and electrical equipment in preparation for repair and maintenance work. Permits, safe isolation policies and procedures, lock off systems."
+    },
+    {
+      "knowledgeId": "e44d1ae1-216b-44c7-85ef-d691e557667c",
+      "detail": "Electrical - Types of intelligent control equipment. PLCs, HMIs, Intelligent starters, Variable Speed Drives (VSDs)."
+    },
+    {
+      "knowledgeId": "bf2437ec-54f2-40a5-843a-57928d525f1d",
+      "detail": "Electrical - Basic telemetry signals and outstations."
+    },
+    {
+      "knowledgeId": "f5db2e03-3a13-4e38-b490-d65bee3cd497",
+      "detail": "Electrical - Fault finding, problem solving and rectification techniques, aids and diagnostic equipment."
+    },
+    {
+      "knowledgeId": "e570dfbc-57cc-4e84-904b-8fd8b0c568d2",
+      "detail": "Electrical: Tools, equipment, resources and components used for the installation, repair and maintenance of electrical systems. Application, operation, care and calibration requirements."
+    },
+    {
+      "knowledgeId": "3bbe627a-774d-4771-88e0-86f754273414",
+      "detail": "Electrical: Design specifications, plans, drawings and manufacturer’s instructions."
+    },
+    {
+      "knowledgeId": "513ee8f2-b1c9-4860-afb3-7700b0c2b2cc",
+      "detail": "Electrical: Inspection and testing requirements and techniques."
+    },
+    {
+      "knowledgeId": "b576fcbb-65aa-4c2b-8b8b-dc9d7783799b",
+      "detail": "Electrical - Repair and maintenance  of equipment and components. Practices and techniques. Removing and replacing parts."
+    },
+    {
+      "knowledgeId": "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+      "detail": "Electrical: Awareness of wiring regulations - purpose and importance."
+    },
+    {
+      "knowledgeId": "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+      "detail": "Electrical: Electrical drawings."
+    },
+    {
+      "knowledgeId": "f58f8b03-5a48-482b-8776-4788c0228d2a",
+      "detail": "Electrical - Cable types and termination methods. Specifications and application."
+    },
+    {
+      "knowledgeId": "6d76aff7-8136-4053-a02f-8890d81a1b18",
+      "detail": "Electrical: Round numbers, scientific notation, percentages and ratios. Area, perimeter, volume and surface area. Scales, tables, graphs and charts. Trigonometry and Pythagoras' Theorem. Engineering formulae.  Sequence of operations. Conversions and calculations."
+    },
+    {
+      "knowledgeId": "9008e3df-413c-480b-a5da-aaa704b2a483",
+      "detail": "ICA: Electrical theories and principles. Basic concepts of electricity. Ohm's law, Kirchoff's law, circuits, conductors and insulators, basic AC theory, complex numbers, resistance and impedance - capacitive and inductive, transformers, polyphase AC circuits, power factor. "
+    },
+    {
+      "knowledgeId": "7ff8cca6-9ad8-4fb5-84a9-752756e6e9f4",
+      "detail": "ICA: Practices and techniques for the installation, commissioning and decommissioning of ICA equipment."
+    },
+    {
+      "knowledgeId": "95ef4885-085f-4d23-af4f-ca08a5b0b909",
+      "detail": "ICA:  Repair and maintenance of instruments, controllers, sensors, probes, attachments, cabling, meters and display units. Practices and techniques."
+    },
+    {
+      "knowledgeId": "5d694e0e-d7be-43dd-8546-3e9e18d2fea9",
+      "detail": "ICA: Instrumentation and control device operational principles: flow, level, pressure, analysers, transducers, transmitters, gauges. Proportional–integral–derivative controller."
+    },
+    {
+      "knowledgeId": "b2b4911d-95dc-42a1-998d-e05ab12a9294",
+      "detail": "ICA: Open and closed loop systems. First and second order control systems."
+    },
+    {
+      "knowledgeId": "58cb5243-e545-4d5b-9eba-1e3e5d53ed7b",
+      "detail": "ICA: Safe isolation of plant and ICA equipment in preparation for repair and maintenance work. Permits, safe isolation policies, lock off systems."
+    },
+    {
+      "knowledgeId": "1202422d-d888-4140-88a2-8869259f8267",
+      "detail": "ICA: Tools, equipment, resources and components used for the installation, repair and maintenance of control systems. Application, operation, care and calibration requirements."
+    },
+    {
+      "knowledgeId": "fa1c6385-6492-45f3-83e1-1ecbc103cdb3",
+      "detail": "ICA: Field instrumentation, communication devices and equipment used in system and process control. To include: Human Machine Interfaces (HMIs), Programmable Logic Controllers (PLC), Supervisory Control and Data Acquisition (SCADA) systems, back up procedures. Configuration procedures and requirements."
+    },
+    {
+      "knowledgeId": "fdaa7cba-aacc-4e55-869d-443986904763",
+      "detail": "ICA: Fault finding, problem solving and rectification techniques. Aids and diagnostic equipment."
+    },
+    {
+      "knowledgeId": "77349110-8015-4c14-bfc9-39ac9ced9352",
+      "detail": "ICA: Inspection and testing requirements and techniques."
+    },
+    {
+      "knowledgeId": "1ab54e11-f9e5-421c-a37a-b9ebe662a181",
+      "detail": "ICA: Design specifications, plans, drawings and manufacturer's instructions."
+    },
+    {
+      "knowledgeId": "a5138189-6c75-4e39-82f1-ea724e8d99cb",
+      "detail": "ICA: Awareness of wiring regulations - purpose and importance."
+    },
+    {
+      "knowledgeId": "1646cc3e-6e75-40e5-bd7e-d1139aa0a01a",
+      "detail": "ICA: Configuration and calibration procedures and requirements. Precision and tolerance."
+    },
+    {
+      "knowledgeId": "11c57e22-550e-442f-85fe-67fb8a431489",
+      "detail": "ICA: Round numbers, scientific notation, percentages and ratios. Area, perimeter, volume and surface area. Scales, tables, graphs and charts. Trigonometry and Pythagoras' Theorem. Engineering formulae.  Sequence of operations. Conversions and calculations."
+    },
+    {
+      "knowledgeId": "e61d0a22-d1df-4e27-9090-7d19467071d2",
+      "detail": "ICA: Cable types and termination methods. Specification and application."
+    },
+    {
+      "knowledgeId": "8aecd909-484c-463d-b4e2-4f7981dc43a3",
+      "detail": "ICA: Telemetry signals and outstations configuration."
+    },
+    {
+      "knowledgeId": "ab8c2632-4e6a-442e-9549-e76ffde2f397",
+      "detail": "ICA: Software and logic used within the control system. "
+    },
+    {
+      "knowledgeId": "3cd731e6-60f8-4e97-b6a7-70f3df256f67",
+      "detail": "ICA: Data analysis and monitoring techniques."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "eebe262b-4694-4e07-aefa-4999106d7084",
+      "detail": "Take responsibility for and promotes health, safety and wellbeing for self, others, site and assets."
+    },
+    {
+      "behaviourId": "06120d0d-72b1-4c6e-bef9-25c2b8d305f6",
+      "detail": "Considers the environment and sustainability."
+    },
+    {
+      "behaviourId": "208c38a7-bd16-452f-be76-0f936740746f",
+      "detail": "Seek to improve ways of working."
+    },
+    {
+      "behaviourId": "33ed785f-fd2b-44e6-bae3-f1c88b5db307",
+      "detail": "Promote inclusivity in the workplace with colleagues, stakeholders, and customers."
+    },
+    {
+      "behaviourId": "d5c79383-21cb-4e86-af5c-66648e2937fd",
+      "detail": "Collaborate and promote teamwork across disciplines. "
+    },
+    {
+      "behaviourId": "f048a203-dc42-41a3-85fb-6f37fd95074d",
+      "detail": "Identifies issues and takes responsibility for actions."
+    },
+    {
+      "behaviourId": "845fb4de-772f-4003-976c-5a80b28b4d19",
+      "detail": "Committed to maintaining and enhancing competence of self and others through Continued Professional Development (CPD)."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e19ec6cd-16e1-4e28-a410-745a29a8f0a1",
+      "detail": "Work in line with water industry standards and regulatory requirements."
+    },
+    {
+      "skillId": "b9debe34-3481-43ee-a5c0-e89baf18fdbb",
+      "detail": "Plan maintenance work, taking into consideration: process safety and following process risk assessments; the impact work has on the environment and on water treatment or wastewater recycling."
+    },
+    {
+      "skillId": "f4c48e83-84fa-4b62-bcf5-2e8219a5204f",
+      "detail": "Identify and organise resources to complete tasks, with consideration for process, cost, quality, safety, security and environmental impact."
+    },
+    {
+      "skillId": "ada72271-40f1-4e9e-a1b2-4e69160aa9dc",
+      "detail": "Follow health and safety procedures and safe systems of work in compliance with regulations and standards, including PPE."
+    },
+    {
+      "skillId": "99987967-e4f1-4d79-ac0a-1704fb124059",
+      "detail": "Comply with sustainability principles. Segregate waste for recycling, reuse or disposal."
+    },
+    {
+      "skillId": "1298b109-53fa-4be0-b226-adf4b7548792",
+      "detail": "Select, check store and maintain equipment and tools. "
+    },
+    {
+      "skillId": "d569615b-3020-4cff-a483-15b719d421dd",
+      "detail": "Restore the work area on completion of the activity."
+    },
+    {
+      "skillId": "5cd75e94-3603-48d7-9521-2feb3fe8a386",
+      "detail": "Communicate in writing and record or enter information - paper based or electronic. For example, job sheets, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, waste environmental records and legal reporting requirements. "
+    },
+    {
+      "skillId": "f45083df-db98-4c63-9472-2f445d4d09b7",
+      "detail": "Collect, interpret and use data and information using information and digital technology. Comply with GDPR and cyber security regulations and policies. "
+    },
+    {
+      "skillId": "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+      "detail": "Apply equity, diversity and inclusion policies and practices."
+    },
+    {
+      "skillId": "5b1910fa-a097-4e23-83eb-873e084adf93",
+      "detail": "Apply teamworking principles."
+    },
+    {
+      "skillId": "c084a566-2f05-4c0b-a3ee-e3f8436f2b35",
+      "detail": "Apply continuous improvement techniques. Devise suggestions for improvement. "
+    },
+    {
+      "skillId": "52ff08a1-1912-40f3-bbcd-8f60a215a749",
+      "detail": "Communicate with and provide support, technical advice, work updates and information to technical and non-technical colleagues and other stakeholders."
+    },
+    {
+      "skillId": "d0d26e6a-1b5a-4a3d-89e0-8aa579a42e05",
+      "detail": "Carry out and record learning and development activities."
+    },
+    {
+      "skillId": "accad54a-b624-4b53-a9c4-d2cc28b2336e",
+      "detail": "Comply with security procedures. For example, site access, document classification, and securing assets."
+    },
+    {
+      "skillId": "3fa9d8f0-92fe-45f4-8cb5-be2e51a419fe",
+      "detail": "Mechanical: Carry out commissioning and decommissioning tasks on mechanical equipment."
+    },
+    {
+      "skillId": "e1891d8e-681c-4913-a870-2770257b3849",
+      "detail": "Mechanical: Assemble, position and install mechanical equipment or components."
+    },
+    {
+      "skillId": "d9b18530-07ce-414e-98df-3337c90cc5d3",
+      "detail": "Mechanical: Disconnect and remove mechanical equipment or components."
+    },
+    {
+      "skillId": "f0d59112-ab80-4fb7-802c-2ff741ee362c",
+      "detail": "Mechanical: Apply repair and maintenance practices and techniques."
+    },
+    {
+      "skillId": "ebc2bf02-85ab-4de8-91ef-a606a2d90b72",
+      "detail": "Mechanical: Use tools, equipment, resources and components for installation, repair and maintenance tasks."
+    },
+    {
+      "skillId": "3e44e2e6-93bf-4779-9aab-490b752896e1",
+      "detail": "Mechanical: Isolate plant and equipment in preparation for maintenance work, including permits, safe isolation policies, lock off systems and depressurisation of pressurised systems."
+    },
+    {
+      "skillId": "af2b3edd-2796-44f3-b4dd-bf74ec001b5b",
+      "detail": "Mechanical: Inspect and test mechanical systems and components."
+    },
+    {
+      "skillId": "a783bc74-0b6b-4265-8841-c209897856ef",
+      "detail": "Mechanical: Carry out fault finding and rectification techniques using aids and diagnostic equipment."
+    },
+    {
+      "skillId": "16c8ba3d-b3b5-43e4-ad6f-d25632a7d227",
+      "detail": "Mechanical: Carry out inspection and monitoring of mechanical systems and equipment."
+    },
+    {
+      "skillId": "1f43164d-387c-44f8-aaa4-87e233a02ace",
+      "detail": "Mechanical: Identify a problem, investigate problem to identify the underlying cause. Identify a solution."
+    },
+    {
+      "skillId": "334e75d9-47f1-4317-bec9-e6ea3631cb72",
+      "detail": "Mechanical: Interpret and use manufacturer’s instructions, design specifications, plans and drawings."
+    },
+    {
+      "skillId": "cac0d7a3-adb8-40c6-a7ea-3625c755775f",
+      "detail": "Mechanical: Apply basic fabrication, welding and thermal cutting processes for mechanical components and structures."
+    },
+    {
+      "skillId": "a0e5502d-8e93-4f2e-88f8-408870f7a204",
+      "detail": "Mechanical: Apply bench fitting techniques."
+    },
+    {
+      "skillId": "780cf360-5937-4d0d-9591-d5d188232d8f",
+      "detail": "Mechanical: Use machinery. For example, lathes, pillar drills, milling machine, threading machine, mechanical saws."
+    },
+    {
+      "skillId": "0820ce70-867c-4f6e-837f-f99de9828aec",
+      "detail": "Mechanical: Apply mechanical theories and principles."
+    },
+    {
+      "skillId": "dd4fb87b-a0ce-405d-950d-92e720b8896e",
+      "detail": "Mechanical: Use mathematical theory."
+    },
+    {
+      "skillId": "47370dfd-3b49-481c-b19e-c13c82050eec",
+      "detail": "Electrical: Install, commission and decommission cabling and electrical equipment."
+    },
+    {
+      "skillId": "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+      "detail": "Electrical: Apply electrical theories and principles."
+    },
+    {
+      "skillId": "31637da5-f0d0-4476-9453-19aec3c0117b",
+      "detail": "Electrical: Apply repair and maintenance practices and techniques."
+    },
+    {
+      "skillId": "9b3d33e6-02eb-4c7c-9af0-c64819ac5e3e",
+      "detail": "Electrical: Modify electrical circuits."
+    },
+    {
+      "skillId": "f95b3b98-e416-4001-9452-705badc7a6df",
+      "detail": "Electrical: Interrogate information displayed on different types of intelligent control equipment. To include, PLCs, HMIs, Intelligent Starters, Variable Speed Drives (VSDs)."
+    },
+    {
+      "skillId": "5a9292c8-f799-4fe7-993d-0dbe3dc46928",
+      "detail": "Electrical: Carry out fault finding and rectification techniques using aids and diagnostic equipment."
+    },
+    {
+      "skillId": "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+      "detail": "Electrical: Use tools, equipment, resources and components for installation, repair and maintenance."
+    },
+    {
+      "skillId": "51392fb9-fa44-46b0-a733-2504781f592c",
+      "detail": "Electrical: Isolate equipment in preparation for maintenance work, including permits, safe isolation policies and lock off systems."
+    },
+    {
+      "skillId": "0efdeb18-75b1-43af-8985-20e90eb8645b",
+      "detail": "Electrical: Inspect and test electrical installations and equipment."
+    },
+    {
+      "skillId": "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+      "detail": "Electrical: Use electrical drawings."
+    },
+    {
+      "skillId": "9d698936-ac60-49fc-bf0c-416956f55ee7",
+      "detail": "Electrical: Install different cable types and terminate to their specifications and applications."
+    },
+    {
+      "skillId": "dcf4ff0a-09ee-480e-8e6f-81036d5825d7",
+      "detail": "Electrical: Use mathematical theory."
+    },
+    {
+      "skillId": "28fd7297-0905-4ac1-bb88-a02eeeec214f",
+      "detail": "Electrical: Identify a problem, investigate problem to identify the underlying cause. Identify a solution."
+    },
+    {
+      "skillId": "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+      "detail": "ICA: Apply electrical theories and principles."
+    },
+    {
+      "skillId": "a7b32e17-c774-437b-98e0-1db8c51549c3",
+      "detail": "ICA: Install, commission and decommission ICA equipment."
+    },
+    {
+      "skillId": "38968df9-5bf6-466c-9dfd-143ee1d1f3dc",
+      "detail": "ICA: Configure instrumentation and control devices."
+    },
+    {
+      "skillId": "5aa5b9f0-d954-47b1-ad9a-24c92daacc22",
+      "detail": "ICA: Calibrate and monitor open and closed loop systems."
+    },
+    {
+      "skillId": "9e29754a-9767-48aa-8885-042cb30bc4f3",
+      "detail": "ICA: Use tools, equipment, resources and components for installation, repair and maintenance."
+    },
+    {
+      "skillId": "0bd9786b-4fbf-4c49-a966-46dfd45fac7f",
+      "detail": "ICA: Configure field instrumentation, communication devices and equipment used in system and process control."
+    },
+    {
+      "skillId": "38d575b1-583e-4f8c-8a67-6a46f5abcdda",
+      "detail": "ICA: Apply repair and maintenance practices and techniques to instrumentation and control equipment, control systems and cabling. "
+    },
+    {
+      "skillId": "31056b12-b913-4dfa-a124-fa033d084c58",
+      "detail": "ICA: Carry out fault finding techniques for instrumentation and control equipment. Use diagnostic equipment."
+    },
+    {
+      "skillId": "1bba20e9-0bc7-4f9f-9ae4-cf2e177715e5",
+      "detail": "ICA: Inspect and test ICA equipment."
+    },
+    {
+      "skillId": "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+      "detail": "ICA: Interpret and use design specifications, plans, drawings and manufacturer's instructions."
+    },
+    {
+      "skillId": "1f97ce73-a6f4-4a8c-8579-2bbc67725be5",
+      "detail": "ICA: Calibrate ICA equipment."
+    },
+    {
+      "skillId": "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+      "detail": "ICA: Use mathematical theory."
+    },
+    {
+      "skillId": "cff72519-0513-4850-8e17-164d93160bd8",
+      "detail": "ICA: Isolate equipment in preparation for maintenance work, including permits, safe isolation policies and lock off systems."
+    },
+    {
+      "skillId": "fa882cb1-ce76-4e8a-8a30-826df0dbf29a",
+      "detail": "ICA: Install different cable types and terminate to their specifications and applications."
+    },
+    {
+      "skillId": "c3a722e1-db53-4d96-8601-45db94260a03",
+      "detail": "ICA: Test telemetry signals and configure outstations."
+    },
+    {
+      "skillId": "4894bc8c-7dde-4252-9977-642755c82fab",
+      "detail": "ICA: Use software to produce programs to be used within the control system."
+    },
+    {
+      "skillId": "d731627d-23ef-49ab-99b8-df6d1fab221d",
+      "detail": "ICA: Assess condition of equipment. Identify action required."
+    },
+    {
+      "skillId": "adeb7335-e14b-4a94-b1a0-97d1065e74d6",
+      "detail": "ICA: Identify a problem, investigate problem to identify the underlying cause. Identify a solution."
+    },
+    {
+      "skillId": "ce2281ef-ff80-421a-b1b3-b2b007cff990",
+      "detail": "ICA: Analyse and monitor data to make evidence based changes if required."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0876",
+  "tbMainContact": "",
+  "involvedEmployers": "Severn Trent, Wessex Water, Thames Water, Yorkshire Water, Anglian Water, Southern Water, United Utilities, Southeast Water, Severn Trent Water",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Ica technician",
+    "Maintenance technician",
+    "Maintenance technician electrician",
+    "Mechanical asset technician",
+    "Mechanical maintenance technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2025-03-19T11:41:05 +00:00",
+  "lastUpdated": "",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC1404",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1404?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1404",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Engineering and Technology",
+      "level": "EngTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "e6a700ac-effb-44c2-958b-d93e09d334d0",
+      "dutyDetail": "Plan and prepare the work environment, tools, equipment and consumables for maintenance activities, considering process implications, environmental impact and sustainability requirements (discharges, waste).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eebe262b-4694-4e07-aefa-4999106d7084",
+        "06120d0d-72b1-4c6e-bef9-25c2b8d305f6",
+        "d5c79383-21cb-4e86-af5c-66648e2937fd"
+      ],
+      "mappedKnowledge": [
+        "5fdd7d31-a40a-4afb-8171-07971f8c7253",
+        "5aa5a3c2-f32c-4bfc-aa89-59b10d6ffbe7",
+        "7a95406f-dd14-4eb6-a3f3-b48430991ab1",
+        "0efab389-4e44-4f33-963a-3d7efec8da88",
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "c39072b0-946f-4d3e-b5e5-49f3a64d98c4",
+        "5a3576b2-c04d-49e6-a0f8-3175b2b9fa61",
+        "f2f18b0b-c36c-4a26-acd5-6851041bb2fa",
+        "c4222920-7686-4e34-9c2e-435d50dbc694",
+        "fdaf72c6-73fb-4fe4-9e01-9c7e79396e64",
+        "307bf80f-f615-48a2-882c-acf0f159b0dd",
+        "892599d4-a219-4f51-81ba-9238b15e54c1",
+        "7585f3c7-827e-4eee-a954-bebe69e24767"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e19ec6cd-16e1-4e28-a410-745a29a8f0a1",
+        "b9debe34-3481-43ee-a5c0-e89baf18fdbb",
+        "f4c48e83-84fa-4b62-bcf5-2e8219a5204f",
+        "99987967-e4f1-4d79-ac0a-1704fb124059",
+        "1298b109-53fa-4be0-b226-adf4b7548792",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93",
+        "52ff08a1-1912-40f3-bbcd-8f60a215a749"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ff03526c-eef1-44bf-a124-55d37d9691d6",
+      "dutyDetail": "Maintain workplace health, safety, security and environment. Comply with organisational process safety requirements to ensure the safety and quality of the product.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eebe262b-4694-4e07-aefa-4999106d7084",
+        "d5c79383-21cb-4e86-af5c-66648e2937fd",
+        "f048a203-dc42-41a3-85fb-6f37fd95074d"
+      ],
+      "mappedKnowledge": [
+        "5fdd7d31-a40a-4afb-8171-07971f8c7253",
+        "5aa5a3c2-f32c-4bfc-aa89-59b10d6ffbe7",
+        "7a95406f-dd14-4eb6-a3f3-b48430991ab1",
+        "0efab389-4e44-4f33-963a-3d7efec8da88",
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "c39072b0-946f-4d3e-b5e5-49f3a64d98c4",
+        "5a3576b2-c04d-49e6-a0f8-3175b2b9fa61",
+        "f2f18b0b-c36c-4a26-acd5-6851041bb2fa",
+        "c4222920-7686-4e34-9c2e-435d50dbc694",
+        "fdaf72c6-73fb-4fe4-9e01-9c7e79396e64",
+        "892599d4-a219-4f51-81ba-9238b15e54c1",
+        "25996c6b-38e1-42da-baba-a02dc36c4e76",
+        "62182ced-adc0-4cdd-82b3-3fee5997e14b",
+        "790a4515-e201-4530-974d-606599d3d11f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e19ec6cd-16e1-4e28-a410-745a29a8f0a1",
+        "b9debe34-3481-43ee-a5c0-e89baf18fdbb",
+        "f4c48e83-84fa-4b62-bcf5-2e8219a5204f",
+        "ada72271-40f1-4e9e-a1b2-4e69160aa9dc",
+        "99987967-e4f1-4d79-ac0a-1704fb124059",
+        "d569615b-3020-4cff-a483-15b719d421dd",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93",
+        "52ff08a1-1912-40f3-bbcd-8f60a215a749",
+        "accad54a-b624-4b53-a9c4-d2cc28b2336e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "231035ee-c019-4589-a2a7-fe7a2ecc0ece",
+      "dutyDetail": "Conduct inspections of process areas and produce condition monitoring reporting. Use trends, data and drawings to identify faults and optimise systems, processes and assets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "06120d0d-72b1-4c6e-bef9-25c2b8d305f6",
+        "f048a203-dc42-41a3-85fb-6f37fd95074d"
+      ],
+      "mappedKnowledge": [
+        "0efab389-4e44-4f33-963a-3d7efec8da88",
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "5a3576b2-c04d-49e6-a0f8-3175b2b9fa61",
+        "a90066a2-ba65-455b-ae03-4b6f3c4076b6",
+        "867be0ee-3c3e-4f7d-a758-3e2e5e1b36cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f45083df-db98-4c63-9472-2f445d4d09b7",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "69a35fc4-b630-4056-9652-309a29d69474",
+      "dutyDetail": "Provide technical information, advice and work updates to colleagues and other stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33ed785f-fd2b-44e6-bae3-f1c88b5db307",
+        "d5c79383-21cb-4e86-af5c-66648e2937fd"
+      ],
+      "mappedKnowledge": [
+        "0efab389-4e44-4f33-963a-3d7efec8da88",
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "33e56d49-1932-40eb-a353-9bab863be9cd",
+        "790a4515-e201-4530-974d-606599d3d11f",
+        "3b78d417-6b73-45f5-bfbe-39eeb30be9aa",
+        "867be0ee-3c3e-4f7d-a758-3e2e5e1b36cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5cd75e94-3603-48d7-9521-2feb3fe8a386",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84b2e475-c506-4428-9106-8efec9fa75ad",
+      "dutyDetail": "Complete digital or paper-based maintenance documentation or records, for example, service records and test results.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33ed785f-fd2b-44e6-bae3-f1c88b5db307",
+        "d5c79383-21cb-4e86-af5c-66648e2937fd"
+      ],
+      "mappedKnowledge": [
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "716831c0-6c8a-4a76-b15f-60f08d40c3d1",
+        "33e56d49-1932-40eb-a353-9bab863be9cd",
+        "867be0ee-3c3e-4f7d-a758-3e2e5e1b36cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5cd75e94-3603-48d7-9521-2feb3fe8a386",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "44db6168-3d65-43dd-b9fe-a0a731f7c34a",
+      "dutyDetail": "Support continuous improvement activities. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "06120d0d-72b1-4c6e-bef9-25c2b8d305f6",
+        "208c38a7-bd16-452f-be76-0f936740746f",
+        "33ed785f-fd2b-44e6-bae3-f1c88b5db307",
+        "d5c79383-21cb-4e86-af5c-66648e2937fd",
+        "f048a203-dc42-41a3-85fb-6f37fd95074d",
+        "845fb4de-772f-4003-976c-5a80b28b4d19"
+      ],
+      "mappedKnowledge": [
+        "fdaf72c6-73fb-4fe4-9e01-9c7e79396e64",
+        "a90066a2-ba65-455b-ae03-4b6f3c4076b6",
+        "790a4515-e201-4530-974d-606599d3d11f",
+        "3b78d417-6b73-45f5-bfbe-39eeb30be9aa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f4c48e83-84fa-4b62-bcf5-2e8219a5204f",
+        "99987967-e4f1-4d79-ac0a-1704fb124059",
+        "f45083df-db98-4c63-9472-2f445d4d09b7",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93",
+        "c084a566-2f05-4c0b-a3ee-e3f8436f2b35",
+        "d0d26e6a-1b5a-4a3d-89e0-8aa579a42e05"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a10c1c9e-726d-4f7c-b41e-3b1e0137c027",
+      "dutyDetail": "Maintain tools and equipment used for water industry maintenance tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eebe262b-4694-4e07-aefa-4999106d7084",
+        "f048a203-dc42-41a3-85fb-6f37fd95074d"
+      ],
+      "mappedKnowledge": [
+        "caafc53b-0036-430f-b737-1368e0adad50",
+        "e4e0687a-3408-44dc-8697-2f7cb805041e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1298b109-53fa-4be0-b226-adf4b7548792"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25a00f2e-6641-458b-a884-48d33d9435c8",
+      "dutyDetail": "Assess installed equipment to determine if it is fit for purpose and select new components required for maintenance tasks.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "16c8ba3d-b3b5-43e4-ad6f-d25632a7d227"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cda2c156-e4df-4a6b-a4ae-e2f1ada53e5d",
+      "dutyDetail": "Isolate mechanical equipment in line with safety requirements, including organisational safe isolation policies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5fdd7d31-a40a-4afb-8171-07971f8c7253",
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "8ea0c41a-9659-4298-a367-ee845f95ee5e"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "e19ec6cd-16e1-4e28-a410-745a29a8f0a1",
+        "c1f7d7bf-b485-4154-9079-c41e4a998a3c",
+        "5b1910fa-a097-4e23-83eb-873e084adf93"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ef8b9269-39e9-4a7d-b6f0-8969fd54658e",
+      "dutyDetail": "Install or modify mechanical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "8ea0c41a-9659-4298-a367-ee845f95ee5e",
+        "ffa5a2bd-0319-4b20-bc88-740d953b40e7",
+        "4bcfe5a0-d7f1-4cc2-9aa5-10e2a16b3dea",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "d136772f-e8e9-49fc-b818-2676dbc8ac3e",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "3fa9d8f0-92fe-45f4-8cb5-be2e51a419fe",
+        "e1891d8e-681c-4913-a870-2770257b3849",
+        "334e75d9-47f1-4317-bec9-e6ea3631cb72",
+        "a0e5502d-8e93-4f2e-88f8-408870f7a204",
+        "780cf360-5937-4d0d-9591-d5d188232d8f",
+        "0820ce70-867c-4f6e-837f-f99de9828aec",
+        "dd4fb87b-a0ce-405d-950d-92e720b8896e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7be29908-f8e6-41f5-88e0-74dcd581389e",
+      "dutyDetail": "Carry out fault finding on industrial mechanical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "23294cb1-9f84-43d8-a606-074f33386afa"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "d9b18530-07ce-414e-98df-3337c90cc5d3",
+        "1f43164d-387c-44f8-aaa4-87e233a02ace",
+        "0820ce70-867c-4f6e-837f-f99de9828aec",
+        "dd4fb87b-a0ce-405d-950d-92e720b8896e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed76ad2f-7d2e-4756-9c7e-08e0feb4f156",
+      "dutyDetail": "Repair industrial mechanical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "8ea0c41a-9659-4298-a367-ee845f95ee5e",
+        "c1bc986b-1fff-4302-afea-697e00902140",
+        "4bcfe5a0-d7f1-4cc2-9aa5-10e2a16b3dea",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "d136772f-e8e9-49fc-b818-2676dbc8ac3e",
+        "5a29f380-156b-45a3-a96a-9d5176bad6a8",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6",
+        "23294cb1-9f84-43d8-a606-074f33386afa"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "e1891d8e-681c-4913-a870-2770257b3849",
+        "d9b18530-07ce-414e-98df-3337c90cc5d3",
+        "a0e5502d-8e93-4f2e-88f8-408870f7a204",
+        "780cf360-5937-4d0d-9591-d5d188232d8f",
+        "0820ce70-867c-4f6e-837f-f99de9828aec"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "11598a60-5f53-4b00-bc94-25a9081cb2eb",
+      "dutyDetail": "Carry out planned maintenance on industrial mechanical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "8ea0c41a-9659-4298-a367-ee845f95ee5e",
+        "c1bc986b-1fff-4302-afea-697e00902140",
+        "4bcfe5a0-d7f1-4cc2-9aa5-10e2a16b3dea",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "d136772f-e8e9-49fc-b818-2676dbc8ac3e",
+        "5a29f380-156b-45a3-a96a-9d5176bad6a8",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6",
+        "23294cb1-9f84-43d8-a606-074f33386afa"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "d9b18530-07ce-414e-98df-3337c90cc5d3",
+        "f0d59112-ab80-4fb7-802c-2ff741ee362c",
+        "ebc2bf02-85ab-4de8-91ef-a606a2d90b72",
+        "3e44e2e6-93bf-4779-9aab-490b752896e1",
+        "af2b3edd-2796-44f3-b4dd-bf74ec001b5b",
+        "cac0d7a3-adb8-40c6-a7ea-3625c755775f",
+        "a0e5502d-8e93-4f2e-88f8-408870f7a204",
+        "780cf360-5937-4d0d-9591-d5d188232d8f",
+        "dd4fb87b-a0ce-405d-950d-92e720b8896e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "946e09b5-5615-4050-937f-c46d0eca4be2",
+      "dutyDetail": "Respond to breakdowns of complex mechanical assets and carry out reactive maintenance to restore operation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "8ea0c41a-9659-4298-a367-ee845f95ee5e",
+        "4bcfe5a0-d7f1-4cc2-9aa5-10e2a16b3dea",
+        "85d5d76b-3ac1-4817-9547-e033e615b0b0",
+        "5a29f380-156b-45a3-a96a-9d5176bad6a8",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6",
+        "23294cb1-9f84-43d8-a606-074f33386afa"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "d9b18530-07ce-414e-98df-3337c90cc5d3",
+        "f0d59112-ab80-4fb7-802c-2ff741ee362c",
+        "ebc2bf02-85ab-4de8-91ef-a606a2d90b72",
+        "3e44e2e6-93bf-4779-9aab-490b752896e1",
+        "a783bc74-0b6b-4265-8841-c209897856ef",
+        "780cf360-5937-4d0d-9591-d5d188232d8f",
+        "dd4fb87b-a0ce-405d-950d-92e720b8896e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a9bef6a3-48dc-4ceb-87c3-edef0399be90",
+      "dutyDetail": "Inspect and test mechanical installations and equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "5555ce54-1e04-4e5d-ae94-43739e25733f"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "ebc2bf02-85ab-4de8-91ef-a606a2d90b72",
+        "af2b3edd-2796-44f3-b4dd-bf74ec001b5b",
+        "16c8ba3d-b3b5-43e4-ad6f-d25632a7d227",
+        "334e75d9-47f1-4317-bec9-e6ea3631cb72",
+        "dd4fb87b-a0ce-405d-950d-92e720b8896e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6be38a47-d072-49c8-848f-f95f62c845b2",
+      "dutyDetail": "Commission and decommission mechanical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "16ae6ab1-4503-44c0-b6b4-1f40b2999398",
+        "ffa5a2bd-0319-4b20-bc88-740d953b40e7",
+        "2787afb5-c1be-439b-9f89-d65a68e04db6"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4522ddf6-2a56-42b4-8072-86ab855cea66",
+      "dutyDetail": "Fabricate new industrial components, plant and equipment where appropriate, using fabrication techniques. For example pipework and brackets.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "558f204d-481e-4c08-b6bd-77e5e762207a",
+        "d136772f-e8e9-49fc-b818-2676dbc8ac3e"
+      ],
+      "mappedOptions": [
+        "194b306f-6e7b-4249-bcdc-29a2d26bd16b"
+      ],
+      "mappedSkills": [
+        "ebc2bf02-85ab-4de8-91ef-a606a2d90b72",
+        "334e75d9-47f1-4317-bec9-e6ea3631cb72"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ef0ce625-25ab-4702-a654-956e392252a1",
+      "dutyDetail": "Isolate electrical equipment in line with safety requirements, including organisational safe isolation policies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "4200930d-bd12-434f-9794-8533a34c8a4b"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "51392fb9-fa44-46b0-a733-2504781f592c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84df8f03-9bfe-4b2f-aecd-20fa5a545579",
+      "dutyDetail": "Modify electrical circuits.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "95aa9e73-4948-496a-b1c0-7af623ea92df",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "f5db2e03-3a13-4e38-b490-d65bee3cd497",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "51392fb9-fa44-46b0-a733-2504781f592c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee59d96b-a1e1-420c-a7d5-52c585447575",
+      "dutyDetail": "Install or modify electrical equipment and cabling using tools and equipment, for example flow meters.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "12ab87f0-deb7-4d73-b9be-9d32ff3cd1bc",
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "4200930d-bd12-434f-9794-8533a34c8a4b",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "f5db2e03-3a13-4e38-b490-d65bee3cd497",
+        "e570dfbc-57cc-4e84-904b-8fd8b0c568d2",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+        "f58f8b03-5a48-482b-8776-4788c0228d2a"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "47370dfd-3b49-481c-b19e-c13c82050eec",
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "9b3d33e6-02eb-4c7c-9af0-c64819ac5e3e",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "51392fb9-fa44-46b0-a733-2504781f592c",
+        "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+        "9d698936-ac60-49fc-bf0c-416956f55ee7",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3a44797-6978-4cc0-8446-8081faf9da93",
+      "dutyDetail": "Carry out fault finding on industrial electrical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "f5db2e03-3a13-4e38-b490-d65bee3cd497",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+        "6d76aff7-8136-4053-a02f-8890d81a1b18"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "5a9292c8-f799-4fe7-993d-0dbe3dc46928",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "51392fb9-fa44-46b0-a733-2504781f592c",
+        "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+        "dcf4ff0a-09ee-480e-8e6f-81036d5825d7",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03ff7348-b418-439e-95f1-c5790089b36b",
+      "dutyDetail": "Repair industrial electrical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "4200930d-bd12-434f-9794-8533a34c8a4b",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "e570dfbc-57cc-4e84-904b-8fd8b0c568d2",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "b576fcbb-65aa-4c2b-8b8b-dc9d7783799b",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+        "f58f8b03-5a48-482b-8776-4788c0228d2a",
+        "6d76aff7-8136-4053-a02f-8890d81a1b18"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "31637da5-f0d0-4476-9453-19aec3c0117b",
+        "9b3d33e6-02eb-4c7c-9af0-c64819ac5e3e",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "51392fb9-fa44-46b0-a733-2504781f592c",
+        "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+        "dcf4ff0a-09ee-480e-8e6f-81036d5825d7",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84c38c9c-d8f8-4a28-be47-1fb08005b66b",
+      "dutyDetail": "Carry out planned maintenance on industrial electrical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "4200930d-bd12-434f-9794-8533a34c8a4b",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "e570dfbc-57cc-4e84-904b-8fd8b0c568d2",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "b576fcbb-65aa-4c2b-8b8b-dc9d7783799b",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+        "f58f8b03-5a48-482b-8776-4788c0228d2a",
+        "6d76aff7-8136-4053-a02f-8890d81a1b18"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "31637da5-f0d0-4476-9453-19aec3c0117b",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "51392fb9-fa44-46b0-a733-2504781f592c",
+        "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+        "dcf4ff0a-09ee-480e-8e6f-81036d5825d7",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc405c62-a35b-4d6e-8155-d33c31dfe76f",
+      "dutyDetail": "Respond to breakdowns of complex electrical assets and carry out reactive maintenance to restore operation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "4200930d-bd12-434f-9794-8533a34c8a4b",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "e570dfbc-57cc-4e84-904b-8fd8b0c568d2",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "b576fcbb-65aa-4c2b-8b8b-dc9d7783799b",
+        "df2dbb60-15b2-4264-8d92-c65a1e4a39eb",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a",
+        "f58f8b03-5a48-482b-8776-4788c0228d2a",
+        "6d76aff7-8136-4053-a02f-8890d81a1b18"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "31637da5-f0d0-4476-9453-19aec3c0117b",
+        "9b3d33e6-02eb-4c7c-9af0-c64819ac5e3e",
+        "5a9292c8-f799-4fe7-993d-0dbe3dc46928",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "51392fb9-fa44-46b0-a733-2504781f592c",
+        "dcf4ff0a-09ee-480e-8e6f-81036d5825d7",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ba6a50d-5768-4964-9db2-8a5fdf56c812",
+      "dutyDetail": "Inspect and test electrical installations and equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bf85db5f-d091-4879-92c3-296a7c941e65",
+        "e44d1ae1-216b-44c7-85ef-d691e557667c",
+        "bf2437ec-54f2-40a5-843a-57928d525f1d",
+        "3bbe627a-774d-4771-88e0-86f754273414",
+        "513ee8f2-b1c9-4860-afb3-7700b0c2b2cc",
+        "a06d4081-40f7-4c81-b1f1-d2c9102cc65a"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "47370dfd-3b49-481c-b19e-c13c82050eec",
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "f95b3b98-e416-4001-9452-705badc7a6df",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "0efdeb18-75b1-43af-8985-20e90eb8645b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "25e5c8d5-ace2-4cd0-bd12-549456d2d87e",
+      "dutyDetail": "Commission and decommission electrical equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "12ab87f0-deb7-4d73-b9be-9d32ff3cd1bc"
+      ],
+      "mappedOptions": [
+        "18b3b495-5cbf-409a-aabc-e5be4ae96294"
+      ],
+      "mappedSkills": [
+        "47370dfd-3b49-481c-b19e-c13c82050eec",
+        "8fbc4ea9-cb37-47d7-a9e7-50922e134a4a",
+        "982fbba8-4230-4fc0-af9c-6d09f42eb2d8",
+        "fd09afb1-9d73-4d6e-8c2d-2af096eb4fed",
+        "28fd7297-0905-4ac1-bb88-a02eeeec214f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "697ff262-2863-40dc-bb58-fbe7f591a556",
+      "dutyDetail": "Contribute to the design and modification of ICA systems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9008e3df-413c-480b-a5da-aaa704b2a483",
+        "1202422d-d888-4140-88a2-8869259f8267",
+        "1ab54e11-f9e5-421c-a37a-b9ebe662a181",
+        "a5138189-6c75-4e39-82f1-ea724e8d99cb",
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "e61d0a22-d1df-4e27-9090-7d19467071d2"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+        "4894bc8c-7dde-4252-9977-642755c82fab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7ebaa18e-99bf-4c8e-8846-cbafa1a4bfb7",
+      "dutyDetail": "Isolate instrumentation, control and automation equipment in line with safety requirements, including organisational safe isolation policies.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "58cb5243-e545-4d5b-9eba-1e3e5d53ed7b"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "cff72519-0513-4850-8e17-164d93160bd8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de44f65a-d5fc-4ece-b369-2b0732c24513",
+      "dutyDetail": "Install or modify and commission ICA hardware and software.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9008e3df-413c-480b-a5da-aaa704b2a483",
+        "5d694e0e-d7be-43dd-8546-3e9e18d2fea9",
+        "58cb5243-e545-4d5b-9eba-1e3e5d53ed7b",
+        "1202422d-d888-4140-88a2-8869259f8267",
+        "fa1c6385-6492-45f3-83e1-1ecbc103cdb3",
+        "1ab54e11-f9e5-421c-a37a-b9ebe662a181",
+        "a5138189-6c75-4e39-82f1-ea724e8d99cb",
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "e61d0a22-d1df-4e27-9090-7d19467071d2",
+        "ab8c2632-4e6a-442e-9549-e76ffde2f397"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "a7b32e17-c774-437b-98e0-1db8c51549c3",
+        "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+        "cff72519-0513-4850-8e17-164d93160bd8",
+        "fa882cb1-ce76-4e8a-8a30-826df0dbf29a",
+        "c3a722e1-db53-4d96-8601-45db94260a03",
+        "adeb7335-e14b-4a94-b1a0-97d1065e74d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cad6fefa-af6d-45a3-b5de-10b72ba514d1",
+      "dutyDetail": "Carry out fault finding, calibration and maintain data quality of ICA equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9008e3df-413c-480b-a5da-aaa704b2a483",
+        "7ff8cca6-9ad8-4fb5-84a9-752756e6e9f4",
+        "5d694e0e-d7be-43dd-8546-3e9e18d2fea9",
+        "b2b4911d-95dc-42a1-998d-e05ab12a9294",
+        "1202422d-d888-4140-88a2-8869259f8267",
+        "fa1c6385-6492-45f3-83e1-1ecbc103cdb3",
+        "fdaa7cba-aacc-4e55-869d-443986904763",
+        "a5138189-6c75-4e39-82f1-ea724e8d99cb",
+        "1646cc3e-6e75-40e5-bd7e-d1139aa0a01a",
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "e61d0a22-d1df-4e27-9090-7d19467071d2",
+        "8aecd909-484c-463d-b4e2-4f7981dc43a3",
+        "3cd731e6-60f8-4e97-b6a7-70f3df256f67"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "5aa5b9f0-d954-47b1-ad9a-24c92daacc22",
+        "9e29754a-9767-48aa-8885-042cb30bc4f3",
+        "31056b12-b913-4dfa-a124-fa033d084c58",
+        "1f97ce73-a6f4-4a8c-8579-2bbc67725be5",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+        "cff72519-0513-4850-8e17-164d93160bd8",
+        "d731627d-23ef-49ab-99b8-df6d1fab221d",
+        "adeb7335-e14b-4a94-b1a0-97d1065e74d6",
+        "ce2281ef-ff80-421a-b1b3-b2b007cff990"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62f77572-0ecb-4743-9c91-4d12e131274a",
+      "dutyDetail": "Repair or replace ICA equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9008e3df-413c-480b-a5da-aaa704b2a483",
+        "95ef4885-085f-4d23-af4f-ca08a5b0b909",
+        "5d694e0e-d7be-43dd-8546-3e9e18d2fea9",
+        "b2b4911d-95dc-42a1-998d-e05ab12a9294",
+        "58cb5243-e545-4d5b-9eba-1e3e5d53ed7b",
+        "fa1c6385-6492-45f3-83e1-1ecbc103cdb3",
+        "a5138189-6c75-4e39-82f1-ea724e8d99cb",
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "e61d0a22-d1df-4e27-9090-7d19467071d2",
+        "8aecd909-484c-463d-b4e2-4f7981dc43a3"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "38968df9-5bf6-466c-9dfd-143ee1d1f3dc",
+        "9e29754a-9767-48aa-8885-042cb30bc4f3",
+        "31056b12-b913-4dfa-a124-fa033d084c58",
+        "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+        "cff72519-0513-4850-8e17-164d93160bd8",
+        "fa882cb1-ce76-4e8a-8a30-826df0dbf29a",
+        "adeb7335-e14b-4a94-b1a0-97d1065e74d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5330b6f2-1eaf-4121-86c2-dede4adf7786",
+      "dutyDetail": "Carry out planned and reactive maintenance on ICA equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9008e3df-413c-480b-a5da-aaa704b2a483",
+        "7ff8cca6-9ad8-4fb5-84a9-752756e6e9f4",
+        "5d694e0e-d7be-43dd-8546-3e9e18d2fea9",
+        "b2b4911d-95dc-42a1-998d-e05ab12a9294",
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "8aecd909-484c-463d-b4e2-4f7981dc43a3"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "5aa5b9f0-d954-47b1-ad9a-24c92daacc22",
+        "9e29754a-9767-48aa-8885-042cb30bc4f3",
+        "38d575b1-583e-4f8c-8a67-6a46f5abcdda",
+        "31056b12-b913-4dfa-a124-fa033d084c58",
+        "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+        "cff72519-0513-4850-8e17-164d93160bd8",
+        "adeb7335-e14b-4a94-b1a0-97d1065e74d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "082f7eff-b9fd-4067-a28f-887da1afdb94",
+      "dutyDetail": "Program industrial control equipment and software.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "11c57e22-550e-442f-85fe-67fb8a431489",
+        "8aecd909-484c-463d-b4e2-4f7981dc43a3",
+        "ab8c2632-4e6a-442e-9549-e76ffde2f397"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "38968df9-5bf6-466c-9dfd-143ee1d1f3dc",
+        "5aa5b9f0-d954-47b1-ad9a-24c92daacc22",
+        "0bd9786b-4fbf-4c49-a966-46dfd45fac7f",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a",
+        "c3a722e1-db53-4d96-8601-45db94260a03",
+        "4894bc8c-7dde-4252-9977-642755c82fab",
+        "adeb7335-e14b-4a94-b1a0-97d1065e74d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "16e427ad-a997-49e8-b995-895428055a2f",
+      "dutyDetail": "Inspect and test software and equipment before commissioning.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "77349110-8015-4c14-bfc9-39ac9ced9352",
+        "8aecd909-484c-463d-b4e2-4f7981dc43a3"
+      ],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "5aa5b9f0-d954-47b1-ad9a-24c92daacc22",
+        "1bba20e9-0bc7-4f9f-9ae4-cf2e177715e5",
+        "c3a722e1-db53-4d96-8601-45db94260a03",
+        "d731627d-23ef-49ab-99b8-df6d1fab221d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76aa5794-59db-47f2-aa5d-a38302347195",
+      "dutyDetail": "Commission and decommission ICA equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [
+        "bfaf2592-fa7b-4b1b-904c-c1aabf63527e"
+      ],
+      "mappedSkills": [
+        "949b991f-2df2-4bee-b9d4-b73cf3e5d1bd",
+        "a7b32e17-c774-437b-98e0-1db8c51549c3",
+        "38968df9-5bf6-466c-9dfd-143ee1d1f3dc",
+        "22bc7a96-0968-4a7b-a673-0676b7f21ffa",
+        "67ebe338-fa56-47e3-8b06-27d9ed71cc0a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "194b306f-6e7b-4249-bcdc-29a2d26bd16b",
+      "title": "Water industry asset maintenance technician - mechanical",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "18b3b495-5cbf-409a-aabc-e5be4ae96294",
+      "title": "Water industry asset maintenance technician - electrical",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "bfaf2592-fa7b-4b1b-904c-c1aabf63527e",
+      "title": "Water industry asset maintenance technician - instrumentation, control and automation",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-19T11:41:05.78"
+}
