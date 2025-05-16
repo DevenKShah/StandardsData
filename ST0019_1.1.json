@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 114,
   "referenceNumber": "ST0019",
+  "learningAimClassCode": "",
   "title": "Aircraft certifying technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/114",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0019",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2020-11-18T00:00:00",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2020-11-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintain and certify aircraft of all types from small aeroplanes to airliners, jet fighters and helicopters, both civil and military.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 45,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Engineering",
@@ -38,13 +44,12 @@
     "Air Engineer"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the recruitment and selection criteria for their Apprenticeships. In order to optimise success, candidates will typically have 4 GCSEs at Grade C/4 or equivalent, including mathematics, English and a Science&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4672/st0019_aircraft-certifying-technician_l4_ap_for-publication_051020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4672/st0019_aircraft-certifying-technician_l4_ap_for-publication_051020.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector, in the aviation industry.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to maintain and certify aircraft of all types from small aeroplanes to airliners, jet fighters and helicopters, both civil and military. This occupation is found across the aviation sector where certification is essential. &lt;br /&gt;&lt;br /&gt;They carry out approved processes to maintain and certify the airworthiness of the aircraft; this includes troubleshooting, the rectification of defects, modifications and scheduled maintenance activities. It involves highly skilled, complex and specialist work in maintaining aircraft systems according to Standard Operating Procedures, using relevant hand tools and equipment. An Aircraft Maintenance Licence or equivalent authorisation will be required to carry out this role. They must be able to research data sources, ensuring that on completion of a task all aircraft documentation is accurately completed and certified. They resolve problems using the approved data, processes and understand the limits of their authority/approval&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for complying with civil and or military regulatory and organisational requirements. They must work both individually and as part of a larger team, including carrying out supervisory duties and oversight of work completed. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with flight crew, shift leaders, customers, colleagues and possibly the regulator.&lt;br /&gt;&lt;br /&gt;Aircraft Certifying Engineers work in a hangar environment conducting base maintenance and outside conducting line maintenance activities&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector, in the aviation industry.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to maintain and certify aircraft of all types from small aeroplanes to airliners, jet fighters and helicopters, both civil and military. This occupation is found across the aviation sector where certification is essential. &lt;br&gt;&lt;br&gt;They carry out approved processes to maintain and certify the airworthiness of the aircraft; this includes troubleshooting, the rectification of defects, modifications and scheduled maintenance activities. It involves highly skilled, complex and specialist work in maintaining aircraft systems according to Standard Operating Procedures, using relevant hand tools and equipment. An Aircraft Maintenance Licence or equivalent authorisation will be required to carry out this role. They must be able to research data sources, ensuring that on completion of a task all aircraft documentation is accurately completed and certified. They resolve problems using the approved data, processes and understand the limits of their authority/approval&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for complying with civil and or military regulatory and organisational requirements. They must work both individually and as part of a larger team, including carrying out supervisory duties and oversight of work completed. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with flight crew, shift leaders, customers, colleagues and possibly the regulator.&lt;br&gt;&lt;br&gt;Aircraft Certifying Engineers work in a hangar environment conducting base maintenance and outside conducting line maintenance activities&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "93c0aad6-14a3-49fc-ad11-4602017eb748",
@@ -207,25 +212,28 @@
       "detail": "Identification, control, repair and prevention of damage, fatigue and corrosion"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-07-01T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0080",
-  "tbMainContact": "John.Bool@harrodsaviation.com, mark.donnelly@baesystems.com ",
+  "tbMainContact": "mark.donnelly@baesystems.com ",
   "involvedEmployers": "BAE Systems, Harrods Aviation (SME), Inflite MRO services, London Executive Aviation (SME), Monarch Aircraft Engineering, BBGA (Representative Body), TAG Farnborough Engineering Ltd (SME), Virgin Atlantic Airways, AQMS (SME), Marshall Aerospace and Defence Group, Gama Aviation (SME), MOD, Multiflight (SME)",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -240,38 +248,50 @@
     "Engineering Manager",
     "Air Engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
+  "cluster": "Installation, service, repair and or or overhaul advanced technician",
+  "clusterId": "97",
+  "clusterDescription": null,
   "createdDate": "2020-11-18T16:27:46 +00:00",
-  "lastUpdated": "2020-11-18T16:27:46 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/aircraft-certifying-technician-v1-1",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-07-01T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).",
+  "occupationCode": "OCC0019",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0019-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0019-v1-1",
   "qualifications": [
     {
       "qualificationId": "891351ab-a265-4f6c-ad25-36a375a51d65",
-      "title": "Diploma in Aerospace and Aviation Engineering (Foundation Competence). In order to meet the requirements set out by the Civil Aviation Authority (CAA), all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "title": "Diploma in Aerospace and Aviation Engineering (Foundation Competence). ",
+      "level": "2",
+      "anyAdditionalInformation": "In order to meet the requirements set out by the Civil Aviation Authority (CAA), all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "d9a7442a-fbc9-409e-bf0a-6c7c0f313051",
       "title": "EASA Part 66 B licence Modules or Equivalent Military Authorisation",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "294cd346-ecb8-4835-adf5-740e0a7cb3b3",
       "title": "Aerospace and Aviation (Development Competence)",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Professional Engineering Insitute (PEI) licensed by the Engineering Council ",
-      "level": "0",
+      "level": "Engineering Technician (EngTech) ",
       "isPartial": "0",
       "partialFreeText": ""
     }
@@ -280,7 +300,7 @@
     {
       "dutyID": "644a540e-d2f1-4273-8491-8792c7324384",
       "dutyDetail": "Certify and ensure that aircraft maintenance activities are carried out in compliance with current company policy and procedures and regulatory Airworthiness requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -303,7 +323,7 @@
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc",
         "54e3de9d-1da1-420e-8a9e-d044ff944461"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -321,7 +341,7 @@
     {
       "dutyID": "cda9f280-c8a2-4636-aa66-3cb1ff48e98e",
       "dutyDetail": "Ensure a safe working environment and just culture in the workplace",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -340,7 +360,7 @@
       "mappedKnowledge": [
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -352,7 +372,7 @@
     {
       "dutyID": "c9a43937-a010-4634-a863-42870f793897",
       "dutyDetail": "Ensure that the staff working under their supervision and others in their environment obey Health and Safety and Environmental regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -372,7 +392,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -383,7 +403,7 @@
     {
       "dutyID": "a5b21810-ae7a-4b40-b460-8dd2efa1c56c",
       "dutyDetail": "Perform, assist and record task and dynamic risk assessment for themselves and others in the environment.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -403,7 +423,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -414,7 +434,7 @@
     {
       "dutyID": "c03a4b6e-28f9-4252-82f8-c897dee041c8",
       "dutyDetail": "Report and record physical, psychological or emotional limitations or injuries relating to themselves or other team members.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -433,7 +453,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
         "955494fa-541f-4d9c-8781-51c9681db283"
@@ -443,7 +463,7 @@
     {
       "dutyID": "cf0e6ce8-e14b-47b0-b037-3b29a7423908",
       "dutyDetail": "Liaise with other engineers, contractors and supervisors as necessary to ensure the continued airworthiness of the aircraft or component.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -462,7 +482,7 @@
       "mappedKnowledge": [
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -473,7 +493,7 @@
     {
       "dutyID": "d7923d36-5ae2-4073-92b7-28fa8eba0c0c",
       "dutyDetail": "Identify and immediately report any incidents and defects with the aircraft, tooling or test equipment to the relevant authority.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -498,7 +518,7 @@
         "5ce10164-c250-4693-b08c-3ab1e4e78852",
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -514,7 +534,7 @@
     {
       "dutyID": "6aa5e41a-3097-46ad-bdc6-3b1b07a469fc",
       "dutyDetail": "Communicate effectively to resolve issues with a wide range of stakeholders including flight crew, shift leaders, customers, colleagues and the regulator.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
         "6a0a6882-9794-4c8a-be97-dbb5fbd8b9e0",
@@ -533,7 +553,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "7f799111-52bc-47cf-ab01-05f3f75d8e9d"
@@ -543,7 +563,7 @@
     {
       "dutyID": "7d829dd6-be62-4d47-8339-90002e2bd3d7",
       "dutyDetail": "Plan and conduct scheduled maintenance, inspection and rectification tasks within allotted time scales to ensure the safety and integrity of the aircraft, its systems and components.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -575,7 +595,7 @@
         "9f3816ed-8083-4c2a-9580-ac5460a2d2bc",
         "54e3de9d-1da1-420e-8a9e-d044ff944461"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -594,7 +614,7 @@
     {
       "dutyID": "9efc6ea9-9d85-476f-840f-5c3aa715a7f2",
       "dutyDetail": "Ensure the safe and efficient performance of each task by themselves and others",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -619,7 +639,7 @@
         "3085ba50-a684-4d42-9eca-8115b00ed980",
         "a267c445-101e-463d-8953-d952505585ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "fc2f5e92-9e1c-4620-8144-37b05bcaa7fa",
@@ -637,7 +657,7 @@
     {
       "dutyID": "63acb58d-6e0c-4e22-bdcb-811e2cacd63a",
       "dutyDetail": "Ensure all personal and team authorisations and mandatory training are current and documented and assist with the further development of the staff.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -656,7 +676,7 @@
       "mappedKnowledge": [
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -667,7 +687,7 @@
     {
       "dutyID": "e0dbf454-9f35-4940-8ff1-b51043e1dc1c",
       "dutyDetail": "Ensure all documentation is completed correctly before the end of the shift and a detailed handover of any work in progress is completed and recorded.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -688,7 +708,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d",
@@ -701,7 +721,7 @@
     {
       "dutyID": "5ad23e82-9b40-4490-96db-66e29b061708",
       "dutyDetail": "Maintain a record of personal engineering experience and training as required by company procedures and the regulator to provide evidence of competence.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -722,7 +742,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a"
       ],
@@ -731,7 +751,7 @@
     {
       "dutyID": "53f1d32e-6f99-4bf6-b4bc-e6c3d4493e84",
       "dutyDetail": "Conduct audits of the hangar and/or facilities in accordance with company procedures or regulatory requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dd014e4e-a503-484a-83e6-71e14e5188a6",
         "0167d275-e62b-4edc-bc5c-afb7911aca93",
@@ -752,7 +772,7 @@
         "e429a71e-d145-44e5-9ac4-4ca27ea9e533",
         "c8df82f0-cf2b-439a-a101-d88523d26efd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2933cb73-a01c-4180-837a-0234a525421a",
         "1fcc66c6-0b22-4d9b-8cec-3dcc58dcae6d"
@@ -760,5 +780,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-31T00:00:00"
 }
