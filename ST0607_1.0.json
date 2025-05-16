@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 399,
   "referenceNumber": "ST0607",
+  "learningAimClassCode": "",
   "title": "Metal fabricator",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/399",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0607",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-02-13T00:00:00",
   "earliestStartDate": "2019-01-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-02-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing anything that can be fabricated out of metal such as bridges, oil rigs and ships.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "manufacturing",
@@ -27,13 +33,12 @@
     "Metal fabricator"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the recruitment and selection criteria for their Apprenticeships. In order to optimise success, candidates will typically have 4 GCSEs at Grade C/4 or equivalent, including Mathematics, English and a Science.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4532/st0607_metal-fabricator_l3_ap-for-publication_160920.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4532/st0607_metal-fabricator_l3_ap-for-publication_160920.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing engineering and engineering construction sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to carry out metal fabrication work using things such as rolled steel joists, columns, channels, steel plate and metal sheet etc.&lt;/p&gt;\r\n&lt;p&gt;Work includes manufacturing bridges, oil rigs, ships, petro-chemical installations, cranes, platforms, aircraft, automotive and machinery parts, sheet metal enclosures, equipment supports, and anything that can be fabricated out of metal. Fabricators can work alone or in teams, in factories or on operational sites.Fabricators use a large range of metals including steel, aluminium and titanium at a range of thicknesses from 0.5mm up to over 20mm. The size and weight of the fabrications can range from components that can easily be picked up by hand, to massive structures that require several cranes to manipulate.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with planners, supervisors, inspectors, designers, welders, pipefitters, fitters, machinists, riggers, steel erectors, stores personnel, painters and many others involved in manufacturing, production, maintenance and repair.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for the quality and accuracy of their own work whilst ensuring it conforms to a relevant specification such as an engineering drawing or an international standard. Fabricators are also responsible for the health, safety and environmental (HS&amp;amp;E) protection of themselves and others around them.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing engineering and engineering construction sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to carry out metal fabrication work using things such as rolled steel joists, columns, channels, steel plate and metal sheet etc.&lt;/p&gt;\n&lt;p&gt;Work includes manufacturing bridges, oil rigs, ships, petro-chemical installations, cranes, platforms, aircraft, automotive and machinery parts, sheet metal enclosures, equipment supports, and anything that can be fabricated out of metal. Fabricators can work alone or in teams, in factories or on operational sites.Fabricators use a large range of metals including steel, aluminium and titanium at a range of thicknesses from 0.5mm up to over 20mm. The size and weight of the fabrications can range from components that can easily be picked up by hand, to massive structures that require several cranes to manipulate.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with planners, supervisors, inspectors, designers, welders, pipefitters, fitters, machinists, riggers, steel erectors, stores personnel, painters and many others involved in manufacturing, production, maintenance and repair.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the quality and accuracy of their own work whilst ensuring it conforms to a relevant specification such as an engineering drawing or an international standard. Fabricators are also responsible for the health, safety and environmental (HS&amp;amp;E) protection of themselves and others around them.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "4f19f3a7-3884-446d-b2ee-c5ae0196dbeb",
@@ -224,69 +229,82 @@
       "detail": "Weld joints in accordance with approved welding procedures and quality requirements"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-01-18T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0181",
   "tbMainContact": "mark.maudsley@gtaengland.co.uk",
   "involvedEmployers": "Alliance Structures, Alpha Manufacturing, Caswell, Hare, Harrisons Engineering, KMF, Laser Process, Roquette UK Ltd, Royal Air Force, Severfield, GTA England",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Metal fabricator"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Fabrication and Welding Operative/Technician",
+  "cluster": "Fabrication and welding operative or technician",
+  "clusterId": "259",
+  "clusterDescription": null,
   "createdDate": "2020-09-18T14:16:10 +00:00",
-  "lastUpdated": "2019-12-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/metal-fabricator-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/metal-fabricator-v1-0",
+  "lastUpdated": "2024-02-13T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-01-18T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0607",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0607-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0607-v1-0",
   "qualifications": [
     {
       "qualificationId": "3977a075-19d3-46f8-b70b-f9cf95e0c04d",
       "title": "Diploma in Advanced Manufacturing Engineering (Development Knowledge)",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "ee1e64b2-ac83-4047-b7d8-0468607927ce",
       "title": "Extended Diploma in Advanced Manufacturing Engineering (Development Knowledge) ",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "IMechE ",
-      "level": "0",
+      "level": " Eng Tech",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "IET",
-      "level": "0",
+      "level": " Eng Tech",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Royal Aeronautical Society",
-      "level": "0",
+      "level": " Eng Tech",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -326,7 +344,7 @@
         "807a72fc-5c5b-44a3-b9cb-b5d46fe48db2",
         "73d08b1e-623c-4680-a448-0cec43a1dc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -380,7 +398,7 @@
         "3b635664-3ce8-4977-acbc-65346ca23bd1",
         "6d89116e-266a-4e2d-b8b3-c340b161f37c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -420,7 +438,7 @@
         "5ff04fea-ca05-4796-b3db-d4e4ae68dbd9",
         "00a3eaa2-828c-4632-819c-e12aa9011018"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -457,7 +475,7 @@
         "00a3eaa2-828c-4632-819c-e12aa9011018",
         "47af74b5-e1b9-47ac-bcae-c9e9bdf228ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -504,7 +522,7 @@
         "3b635664-3ce8-4977-acbc-65346ca23bd1",
         "6d89116e-266a-4e2d-b8b3-c340b161f37c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -553,7 +571,7 @@
         "a7b70e94-2b37-43d8-a9b0-2d79b13a80af",
         "3b635664-3ce8-4977-acbc-65346ca23bd1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -602,7 +620,7 @@
         "a7b70e94-2b37-43d8-a9b0-2d79b13a80af",
         "3b635664-3ce8-4977-acbc-65346ca23bd1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -652,7 +670,7 @@
         "3b635664-3ce8-4977-acbc-65346ca23bd1",
         "6d89116e-266a-4e2d-b8b3-c340b161f37c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -704,7 +722,7 @@
         "807a72fc-5c5b-44a3-b9cb-b5d46fe48db2",
         "73d08b1e-623c-4680-a448-0cec43a1dc4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -756,7 +774,7 @@
         "5912698a-efc9-4c00-a5a5-88ace170c571",
         "a7b70e94-2b37-43d8-a9b0-2d79b13a80af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -803,7 +821,7 @@
         "a01cbd93-b4d5-481d-ac32-4ead8ae78258",
         "5912698a-efc9-4c00-a5a5-88ace170c571"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -851,7 +869,7 @@
         "5912698a-efc9-4c00-a5a5-88ace170c571",
         "a7b70e94-2b37-43d8-a9b0-2d79b13a80af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -899,7 +917,7 @@
         "a01cbd93-b4d5-481d-ac32-4ead8ae78258",
         "5912698a-efc9-4c00-a5a5-88ace170c571"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -953,7 +971,7 @@
         "c241eb4e-fb41-4a4c-8fbe-278fa562a690",
         "1d8e79c0-bb57-4a92-b041-690eb74c6dd4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -1012,7 +1030,7 @@
         "c241eb4e-fb41-4a4c-8fbe-278fa562a690",
         "1d8e79c0-bb57-4a92-b041-690eb74c6dd4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -1071,7 +1089,7 @@
         "c241eb4e-fb41-4a4c-8fbe-278fa562a690",
         "1d8e79c0-bb57-4a92-b041-690eb74c6dd4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "275bc0c6-13c9-4fe5-8e67-fa77f4d62247",
         "394d44d3-e75f-4983-a194-401a4e91a3ff",
@@ -1094,5 +1112,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-13T00:00:00"
 }
