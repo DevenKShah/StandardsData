@@ -1,60 +1,492 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 669,
   "referenceNumber": "ST0892",
-  "title": "Biostatistician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Medical statistician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0892",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-02-09T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide statistical leadership to a multi-disciplinary team.",
   "level": 7,
-  "typicalDuration": 33,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 30,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "keywords": [
+    "Engineering",
+    "Medical",
+    "Statistican",
+    "health",
+    "science"
+  ],
+  "jobRoles": [
+    "Medical Statistician",
+    "Biostatistician",
+    "Statistician"
+  ],
+  "entryRequirements": "&lt;p&gt;Typical entry requirements are a 2.2 degree in a numerically based subject.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5086/st0892_medical-statistician_l7_ap-for-publication_05052021.pdf",
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.2 Mathematics and statistics",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of industries including the Pharmaceutical, Health Care, Medical Device Technology, Biotechnology, Food and Environmental Safety, Regulatory and Academic sectors.&#160; The name Medical Statistician and biostatistician are synonymous.&#160; For simplicity and alignment to terminology used in numerous universities Medical Statistician is used for this apprenticeship. The broad purpose of the occupation is to provide statistical leadership to a multi-disciplinary team, to ensure research studies are designed, conducted, analysed, interpreted and reported in a way which is statistically valid, such that conclusions are trustworthy and reliable.&#160; Research studies are conducted in a wide variety of settings, often designed to test potential new treatments for diseases or to investigate new healthcare interventions.&#160; Studies collect data, which is then analysed in order to provide evidence based decisions on whether the new treatment/intervention is advantageous to the patient’s condition (e.g. extending life, reducing symptoms or slowing disease onset), whilst ensuring that any unwanted side effects of the treatment are acceptable for the improvement gained.&#160; Once enough evidence is gathered, the new treatment/intervention is submitted to a regulatory body for review, with the hope it is approved to be given to patients outside of the research study setting. In their daily work, an employee in this occupation interacts with with regulatory bodies, ethics committee’s senior management, study directors, scientists and doctors, data managers, clinical teams, project managers and medical writers to ensure the work they conduct is statistically valid. The role requires good problem solving skills, applying statistical theory to ensure appropriate conduct, and meaningful, reproducible and appropriately interpreted results. The role of a Medical Statistician is primarily office-based spending their time designing studies, monitoring studies, analysing data, writing reports and contributing to team discussions in meetings. The role may also involve some travel to company sites, conferences, scientific and regulatory meetings, workshops and seminars. In an academic setting a Medical Statistician will also have some interaction with students. An employee in this occupation will be responsible for writing/reviewing statistical sections of protocols (including trial design, randomisation schema, study endpoints and sample size), review and input into study collection materials (electronic Case Report Forms, vendor devices), statistical analysis plans (SAPs) (including specifying the format and structure of planned analysis outputs), contributing to grant applications and creating reports for groups such as data monitoring committees. The occupation also involves programming in a statistical package, such as SAS&#174;, R or other appropriate software, creating summaries and graphical representations and performing analyses of data.&#160; They ensure statistical model assumptions based on statistical theory have been met and the analyses applied are appropriate. They provide statistical leadership and oversight of a study to a study team as well as managing their own day-to-day workload to ensure project deliverables are met. They interpret the analyses performed, and contribute to study reports and publications such as manuscripts, posters and slide presentations, to ensure results are appropriately disseminated.&#160;&#160;A Medical Statistician will also be responsible for keeping abreast of current methodological developments in medical research through reading of journals and attendance at conferences, including publishing their own methodology research and sharing knowledge through statistical tutorials for statistics colleagues and also non-statistical specialists.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+      "detail": "Statistical knowledge of methods that are commonly used in medical research and enable effective analysis of data in research studies."
+    },
+    {
+      "knowledgeId": "65e2200b-51d8-4b6e-ab9c-317c3e53c9fc",
+      "detail": "Project management techniques and strategies (meeting timelines, managing budgets and contingency planning)."
+    },
+    {
+      "knowledgeId": "124fde40-deb2-46f0-aa3a-326cc28315ba",
+      "detail": "Statistical knowledge that enables effective research study design (for example: the drug development process;  Study design - parallel group, cross-over, adaptive, placebo controlled, active comparator, open label; Methods allied to different trial objectives – superiority, non-inferiority and equivalence; Randomisation and blinding; Methods for data presentation; Estimands; Missing data strategies; Multiple testing and alpha control methods; Simulation; Sample size and power calculations; Complex innovative designs (CID))."
+    },
+    {
+      "knowledgeId": "c9909c02-5089-4cd5-a9cc-667562fb92cf",
+      "detail": "Strategic approaches to risk and compliance in relation to study design and data collection and interpretation."
+    },
+    {
+      "knowledgeId": "ae51247c-5d00-4231-95d5-959b02b9e442",
+      "detail": "Communication and influencing techniques and strategies, both written and oral (including presenting)."
+    },
+    {
+      "knowledgeId": "16ea920e-3e09-45c8-b312-0fd4bd8cc0d8",
+      "detail": "Leadership and management techniques and strategies, including coaching and mentoring techniques."
+    },
+    {
+      "knowledgeId": "30b227e4-7499-4989-9d5e-ad2f25d1345a",
+      "detail": "The structure and function of a multidisciplinary team and the role of the Medical Statistician within it, and how to achieve effective partnership working."
+    },
+    {
+      "knowledgeId": "46111b71-e30d-4c47-a0d8-b1bf5f6c3c44",
+      "detail": "Learning and development strategies, to enable personal and professional development, including giving and receiving feedback and critical reflection."
+    },
+    {
+      "knowledgeId": "0b8ddfa1-fde0-48e4-ba73-9cafea822899",
+      "detail": "The importance of continuing personal and professional development and the role of critical reflection in maintaining fitness to practice."
+    },
+    {
+      "knowledgeId": "869f45be-c13a-4e82-86a5-32e7cb701af6",
+      "detail": "Awareness of key regulatory authorities and documentation relevant to the study they are working on  (International Council for Harmonisation (ICH) of Technical Requirements for Pharmaceuticals for Human Use Guidelines; European Medicines Evaluation Agency (EMEA); Pharmaceutical and Medical Devices Agency (PMDA); Food and Drug Administration (FDA); The National Institute for Health and Care Excellence (NICE); Medicines and Healthcare products Regulatory Agency (MHRA); Therapeutic area specific guidance; Good Clinical Practice (GCP); Good Laboratory Practice (GLP);Good Manufacturing Practice (GMP)."
+    },
+    {
+      "knowledgeId": "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5",
+      "detail": "Ethics in clinical and non-clinical research."
+    },
+    {
+      "knowledgeId": "f6df5cef-517c-4941-9828-5bbae121e56b",
+      "detail": "Methods to safely store and handle data in line with national and international data protection and cyber security regulations."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "31738746-5148-4632-b135-eb71e9d5a2cd",
+      "detail": "Be open, honest, compassionate, act with integrity at all times, observe duty of candour and maintain confidentiality."
+    },
+    {
+      "behaviourId": "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
+      "detail": "Be respectful, non-judgemental and engage with people in an inclusive and non-discriminatory manner."
+    },
+    {
+      "behaviourId": "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
+      "detail": "Maintain good ethical character as outlined in professional GCP/GLP/GMP regulations (Code of Conduct with a “Subject first attitude”) and refrain from activities which would bring the profession or organisation into disrepute. "
+    },
+    {
+      "behaviourId": "f5955d73-ecda-4a68-9163-20f4c96f0636",
+      "detail": "Be adaptable and able to respond professionally to all feedback."
+    },
+    {
+      "behaviourId": "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a",
+      "detail": "Be prepared to challenge and/or report inappropriate behaviours and practices, using established procedures."
+    },
+    {
+      "behaviourId": "7a7a5457-7026-45a7-9c4d-aa850657f5e0",
+      "detail": "Take a proactive approach to own personal wellbeing, and that of others, reporting concerns as appropriate."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+      "detail": "Interpret, apply and comply with legislation, statutory frameworks, professional codes of practice and guidance, including quality control."
+    },
+    {
+      "skillId": "8158656f-6a96-4b2d-982f-2f9537a0b294",
+      "detail": "Select and perform the appropriate statistical technique that are commonly used in medical research relevant to the given data set and objective."
+    },
+    {
+      "skillId": "df43bab8-fac3-4dc6-9abe-9516d7720c11",
+      "detail": "Use statistical software (SAS® and R or other appropriate software) to perform the required statistical methods that are commonly used in medical research."
+    },
+    {
+      "skillId": "9820a6df-22d4-409b-8255-f75deeae9fe8",
+      "detail": "Use statistical software (SAS® and R or other appropriate software) to create appropriate graphical and tabular representations of the data to aid interpretation that are commonly used in medical research (such as summary tables, individual data listings, histograms, boxplots, scatter plots, line charts, bar charts, frequency tables). "
+    },
+    {
+      "skillId": "bb833a54-aa56-44c5-9c59-2af98894125f",
+      "detail": "Assess and interpret the results of data analysis and communicate these to peers in written and verbal discussion (such as written medical statistical reports and oral presentations). "
+    },
+    {
+      "skillId": "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+      "detail": "Adapt communication technique when communicating statistical concepts to different audiences including people from a non-scientific background."
+    },
+    {
+      "skillId": "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
+      "detail": "Critique technical documents affecting projects they are working on, written by other professionals (e.g. medical writers, study directors, project managers, medical consultants)."
+    },
+    {
+      "skillId": "0e2f84f4-2806-44c1-95e6-856d09b845dd",
+      "detail": "Provide statistical input into the preparation of technical documents, e.g. study protocols, statistical analysis plans (including specifying the format and structure of planned regulatory required analysis outputs), study reports, regulatory submissions and grant applications."
+    },
+    {
+      "skillId": "d2d94187-8d96-4b92-899c-13160edc3622",
+      "detail": "Identify issues that can affect projects, finding solutions that meet the commercial demands of the business environment."
+    },
+    {
+      "skillId": "ac6630a1-bec8-48a3-bc25-03bcd4e06d9e",
+      "detail": "Lead projects to completion within agreed and defined timescales and project parameters."
+    },
+    {
+      "skillId": "5d76e807-199b-4dfd-b36c-7a6dcc9faddd",
+      "detail": "Work within limits of personal and professional competence, justifying and taking responsibility for own actions and seeking advice when required."
+    },
+    {
+      "skillId": "013617d6-100e-4d5f-90aa-ec0a2a4b525b",
+      "detail": "Search and critically appraise scientific literature, including literature on new and emerging methods and techniques relevant to medical statistics."
+    },
+    {
+      "skillId": "2b94f3e5-7701-4e7d-a104-89367ca4b548",
+      "detail": "Evaluate new statistical methodologies relevant to medical statistics."
+    },
+    {
+      "skillId": "d09cdd8f-4d12-4a52-83bc-29710ebd7dbf",
+      "detail": "Facilitate learning and provide feedback to others as appropriate."
+    },
+    {
+      "skillId": "5f163cea-d7f5-4b54-a14d-4627594013fb",
+      "detail": "Critically review own practice and identify areas for personal and professional development."
+    },
+    {
+      "skillId": "0d2a57bd-5e69-4aaa-ae11-4771a77ef37b",
+      "detail": "Collaborate with other professionals to deliver mutually agreed outcomes."
+    },
+    {
+      "skillId": "5fe88f29-f86e-48a0-97e1-1c8b6bfda17b",
+      "detail": "Contribute to the wider statistical community (including their own organisation), through sharing knowledge, such as peer review, authorship and co-authorship of papers for publication or presentation at conference."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "",
+  "integration": null,
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0478",
-  "tbMainContact": "jim.saul@covance.com",
-  "involvedEmployers": "",
+  "tbMainContact": "valerie.x.millar@gsk.com",
+  "involvedEmployers": "Covance, GSK, Phastar, Roche, Amgen, Worldwide Clinical Trials, Quanticate, Parexel, Pfizer, Sosei Heptares, Reckitt Benckiser, Qiagen, Astrazeneca, Fera Science",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "Medical Statistician",
+    "Biostatistician",
+    "Statistician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
-  "cluster": "Science Professional",
-  "createdDate": "2020-05-19T15:15:15 +00:00",
-  "lastUpdated": "2020-05-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/biostatistician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/biostatistician",
-  "qualifications": [],
+  "cluster": "Science professional",
+  "clusterId": "213",
+  "clusterDescription": null,
+  "createdDate": "2021-05-20T10:03:16 +00:00",
+  "lastUpdated": "2022-02-09T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
+  "banners": "A temporary dispensation has been applied to the ST0892 Medical Statistician end-point assessment plan version V1.0 for this apprenticeship. The dispensation will last from 19/09/2024 to 30/09/2025 but may be withdrawn if the assessment plan is revised sooner or the dispensation is no longer necessary.\nEnd-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider.\nThe key changes are: Assessment method 1 - Removal of component 1 work based project report. The on-programme dissertation from the MSc integrated degree in Medical Statistics is to be used as the basis for component 2 presentation and questioning.",
+  "occupationCode": "OCC0892",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0892-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0892-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "60fb518a-fbfc-4e45-ab48-364eb70b4759",
+      "title": "Medical Statistics",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "2ddfd071-2b0f-4f88-a8ec-aa542de13e13",
+      "dutyDetail": "Lead on the statistical design of medical trials and research projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "31738746-5148-4632-b135-eb71e9d5a2cd",
+        "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
+        "f5955d73-ecda-4a68-9163-20f4c96f0636",
+        "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a"
+      ],
+      "mappedKnowledge": [
+        "124fde40-deb2-46f0-aa3a-326cc28315ba",
+        "c9909c02-5089-4cd5-a9cc-667562fb92cf",
+        "16ea920e-3e09-45c8-b312-0fd4bd8cc0d8",
+        "30b227e4-7499-4989-9d5e-ad2f25d1345a",
+        "869f45be-c13a-4e82-86a5-32e7cb701af6",
+        "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+        "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+        "0e2f84f4-2806-44c1-95e6-856d09b845dd",
+        "d2d94187-8d96-4b92-899c-13160edc3622",
+        "ac6630a1-bec8-48a3-bc25-03bcd4e06d9e",
+        "0d2a57bd-5e69-4aaa-ae11-4771a77ef37b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0b45b8b3-f0ad-47f3-a0a6-fc703e071cab",
+      "dutyDetail": "Calculate appropriate sample size in medical research to answer the medical research question of interest. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
+        "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+        "124fde40-deb2-46f0-aa3a-326cc28315ba",
+        "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "df43bab8-fac3-4dc6-9abe-9516d7720c11"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "693a031c-5100-4fca-b03e-78f238d8e1d3",
+      "dutyDetail": "Produce technical writing in medical research",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
+        "f5955d73-ecda-4a68-9163-20f4c96f0636"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+        "ae51247c-5d00-4231-95d5-959b02b9e442",
+        "869f45be-c13a-4e82-86a5-32e7cb701af6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "bb833a54-aa56-44c5-9c59-2af98894125f",
+        "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+        "0e2f84f4-2806-44c1-95e6-856d09b845dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c748cdb-88e3-40d1-8391-edb205448bad",
+      "dutyDetail": "Plan, oversee and perform data collection and selection of endpoints/variables in medical research for the therapeutic/disease area of interest.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "31738746-5148-4632-b135-eb71e9d5a2cd",
+        "f1f6c49a-8de4-420f-afe3-7cbf745c48a3"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+        "c9909c02-5089-4cd5-a9cc-667562fb92cf",
+        "869f45be-c13a-4e82-86a5-32e7cb701af6",
+        "f6df5cef-517c-4941-9828-5bbae121e56b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+        "8158656f-6a96-4b2d-982f-2f9537a0b294"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "233ea154-8d17-404d-82a7-54c3372752f9",
+      "dutyDetail": "Select and apply statistical methods applicable for medical research and interpret results",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+        "c9909c02-5089-4cd5-a9cc-667562fb92cf",
+        "869f45be-c13a-4e82-86a5-32e7cb701af6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "df43bab8-fac3-4dc6-9abe-9516d7720c11",
+        "bb833a54-aa56-44c5-9c59-2af98894125f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "34696676-b7ad-4d65-ad3e-324ba821d051",
+      "dutyDetail": "Carry out data visualisation for reporting of medical research: ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "9820a6df-22d4-409b-8255-f75deeae9fe8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d97531f-ca3f-460d-8a91-d4dcdd87e227",
+      "dutyDetail": "Critically review medical scientific literature and contribute to ongoing medical research publications ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f5955d73-ecda-4a68-9163-20f4c96f0636"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
+        "013617d6-100e-4d5f-90aa-ec0a2a4b525b",
+        "2b94f3e5-7701-4e7d-a104-89367ca4b548",
+        "5fe88f29-f86e-48a0-97e1-1c8b6bfda17b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "18a36d1f-cd85-4420-88db-b0510c277ccc",
+      "dutyDetail": "Lead, support and advise on statistical aspects of trials or studies. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "31738746-5148-4632-b135-eb71e9d5a2cd",
+        "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
+        "f5955d73-ecda-4a68-9163-20f4c96f0636",
+        "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a",
+        "7a7a5457-7026-45a7-9c4d-aa850657f5e0"
+      ],
+      "mappedKnowledge": [
+        "c69f11ce-1869-4a77-abe1-c826ab49a1c6",
+        "65e2200b-51d8-4b6e-ab9c-317c3e53c9fc",
+        "124fde40-deb2-46f0-aa3a-326cc28315ba",
+        "16ea920e-3e09-45c8-b312-0fd4bd8cc0d8",
+        "30b227e4-7499-4989-9d5e-ad2f25d1345a",
+        "869f45be-c13a-4e82-86a5-32e7cb701af6",
+        "930f44a8-e8b2-4f1a-93d2-e3e1aceb4cd5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7be5c0cb-438a-4f45-a35b-d1e26ffb64d3",
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "bb833a54-aa56-44c5-9c59-2af98894125f",
+        "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+        "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
+        "0e2f84f4-2806-44c1-95e6-856d09b845dd",
+        "d2d94187-8d96-4b92-899c-13160edc3622",
+        "ac6630a1-bec8-48a3-bc25-03bcd4e06d9e",
+        "5d76e807-199b-4dfd-b36c-7a6dcc9faddd",
+        "0d2a57bd-5e69-4aaa-ae11-4771a77ef37b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1ad40cf-110f-412d-bc0d-9a9dedd5137d",
+      "dutyDetail": "Effectively communicate the results from both basic and advanced statistical methods used in medical research",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "31738746-5148-4632-b135-eb71e9d5a2cd",
+        "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
+        "d5f540f6-eb56-49dd-912f-6da9994c2bf0",
+        "f5955d73-ecda-4a68-9163-20f4c96f0636",
+        "3dcfa2dc-bc5f-4bdc-84cc-fca8422aa26a"
+      ],
+      "mappedKnowledge": [
+        "65e2200b-51d8-4b6e-ab9c-317c3e53c9fc",
+        "ae51247c-5d00-4231-95d5-959b02b9e442"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8158656f-6a96-4b2d-982f-2f9537a0b294",
+        "bb833a54-aa56-44c5-9c59-2af98894125f",
+        "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+        "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
+        "0e2f84f4-2806-44c1-95e6-856d09b845dd",
+        "0d2a57bd-5e69-4aaa-ae11-4771a77ef37b",
+        "5fe88f29-f86e-48a0-97e1-1c8b6bfda17b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "64063144-3513-4e8a-9dfb-9233276c6103",
+      "dutyDetail": "Develop self and others through demonstration of best practice by effective coaching, mentoring, teaching and training.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "31738746-5148-4632-b135-eb71e9d5a2cd",
+        "f1f6c49a-8de4-420f-afe3-7cbf745c48a3",
+        "f5955d73-ecda-4a68-9163-20f4c96f0636",
+        "7a7a5457-7026-45a7-9c4d-aa850657f5e0"
+      ],
+      "mappedKnowledge": [
+        "16ea920e-3e09-45c8-b312-0fd4bd8cc0d8",
+        "46111b71-e30d-4c47-a0d8-b1bf5f6c3c44",
+        "0b8ddfa1-fde0-48e4-ba73-9cafea822899"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "69bbcdfa-d83f-4ff3-b936-debb56e56b57",
+        "ad83b73c-4381-41c9-813e-cbe87cea0b4e",
+        "0e2f84f4-2806-44c1-95e6-856d09b845dd",
+        "d09cdd8f-4d12-4a52-83bc-29710ebd7dbf",
+        "5f163cea-d7f5-4b54-a14d-4627594013fb",
+        "0d2a57bd-5e69-4aaa-ae11-4771a77ef37b",
+        "5fe88f29-f86e-48a0-97e1-1c8b6bfda17b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-02-09T00:00:00"
 }
