@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 417,
   "referenceNumber": "ST0515",
+  "learningAimClassCode": "",
   "title": "Manufacturing manager (integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/417",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0515",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-04-30T00:00:00",
@@ -12,8 +16,10 @@
   "latestEndDate": null,
   "overviewOfRole": "Overseeing manufacturing processes to ensure that performance output meets customer expectations.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "technologies",
@@ -33,13 +39,12 @@
     "Business Unit Manager and Site General Manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2691/manufacturing-manager-epa_for-publication_11feb19.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2691/manufacturing-manager-epa_for-publication_11feb19.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in manufacturing sectors including food and drink, consumer goods, pharmaceuticals, chemicals, automotive and aeronautical.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is oversee the manufacturing process to make sure that performance output meets customer expectations and is cost-effective. This will include planning manufacturing schedules, monitoring operations and quality assurance. Manufacturing Managers may work for organisations of all sizes, overseeing an entire manufacturing plant or a specific area of production; producing one or multiple products, products of high or low value, bespoke items or items produced at scale. Production may be within a fast-paced environment, for example production of sandwiches with a short shelf life. Products may be sold to consumers in the UK and/or exported abroad. The manufacturing industry is increasing becoming more automated, making it an innovative environment to work in. &lt;br /&gt;&lt;br /&gt;Manufacturing managers will spend time in the production area and an office. Manufacturing managers may be required to work shifts over a 24-hour basis, weekend shifts and be on call to deal with emergencies.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with manufacturing personnel and managers from other departments, for example, commercial, marketing, research and design, technical, quality, human resources and engineering. They may also interact with customers. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for management of manufacturing personnel, budgets, manufacturing equipment and the manufacturing facility – quantity and value of which will vary depending on the size and type of manufacturing. They are ultimately responsible for the manufacture of safe goods in a safe environment. They will typically report to a senior manager, for example the Operations Director or General Manager. &lt;br /&gt;&lt;br /&gt;Manufacturing managers will complete core duties and duties relating to one option specific to the manufacturing sector.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in manufacturing sectors including food and drink, consumer goods, pharmaceuticals, chemicals, automotive and aeronautical.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is oversee the manufacturing process to make sure that performance output meets customer expectations and is cost-effective. This will include planning manufacturing schedules, monitoring operations and quality assurance. Manufacturing Managers may work for organisations of all sizes, overseeing an entire manufacturing plant or a specific area of production; producing one or multiple products, products of high or low value, bespoke items or items produced at scale. Production may be within a fast-paced environment, for example production of sandwiches with a short shelf life. Products may be sold to consumers in the UK and/or exported abroad. The manufacturing industry is increasing becoming more automated, making it an innovative environment to work in. &lt;br&gt;&lt;br&gt;Manufacturing managers will spend time in the production area and an office. Manufacturing managers may be required to work shifts over a 24-hour basis, weekend shifts and be on call to deal with emergencies.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with manufacturing personnel and managers from other departments, for example, commercial, marketing, research and design, technical, quality, human resources and engineering. They may also interact with customers. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for management of manufacturing personnel, budgets, manufacturing equipment and the manufacturing facility – quantity and value of which will vary depending on the size and type of manufacturing. They are ultimately responsible for the manufacture of safe goods in a safe environment. They will typically report to a senior manager, for example the Operations Director or General Manager. &lt;br&gt;&lt;br&gt;Manufacturing managers will complete core duties and duties relating to one option specific to the manufacturing sector.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "ccc3df99-d085-4ebc-a615-740650979fa2",
@@ -258,30 +263,28 @@
       "detail": "F&D. Promoting food safety culture"
     }
   ],
-  "options": [
-    {
-      "optionId": "d83c49c1-4546-4541-9160-af11cbafeaf6",
-      "title": "Food and drink"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-02-22T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0006",
   "tbMainContact": "secretariat@nsafd.co.uk",
   "involvedEmployers": "2 Sisters, AB Foods, ABP, Bakkavor, Branstons, Cargill, Flipside Brewery, Greencore, Nestle, Warburtons",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -292,20 +295,28 @@
     "Manufacturing Manager",
     "Business Unit Manager and Site General Manager"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This standard will be reviewed after three years.</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing Engineer",
+  "cluster": "Manufacturing engineer",
+  "clusterId": "263",
+  "clusterDescription": null,
   "createdDate": "2020-08-27T11:02:36 +00:00",
-  "lastUpdated": "2019-02-22T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/manufacturing-manager-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/manufacturing-manager-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-02-22T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "occupationCode": "OCC0515",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0515-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0515-v1-0",
   "qualifications": [
     {
       "qualificationId": "00bd7ca9-22b7-43fd-9544-68bcbe617910",
       "title": " Manufacturing manager",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -333,7 +344,7 @@
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -372,7 +383,7 @@
         "99d59015-6875-4f3e-a538-c1fd872008d2",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -409,7 +420,7 @@
         "9c9bff3c-f2d8-4528-856a-b75ee82506ba",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -438,7 +449,7 @@
         "a8ab1a16-55cf-4924-bc58-6f09254759c0",
         "9faec103-1643-4f19-900d-769fe1cfb8c2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -465,7 +476,7 @@
         "ccc3df99-d085-4ebc-a615-740650979fa2",
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6fec5ee0-e0d9-422d-891f-4b5d85ed4468",
         "015d10d1-5da3-43eb-a38b-854c6d5015d2",
@@ -490,7 +501,7 @@
         "2dcd1c60-abeb-4674-a4a6-e4e0424a43f6",
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -521,7 +532,7 @@
         "7ec74181-81c3-469f-b171-07118a4beaf0",
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -560,7 +571,7 @@
         "8fd553e0-b5bc-4e5c-b075-504effaa9bc6",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -600,7 +611,7 @@
         "9c9bff3c-f2d8-4528-856a-b75ee82506ba",
         "a2349d3c-a21c-4fa1-bed2-5451c6acef6e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -640,7 +651,7 @@
         "293e8a6b-6bd6-4b4b-9a7e-00bb9675fcc8",
         "99d59015-6875-4f3e-a538-c1fd872008d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "bd9aeb99-ab8f-4b31-8246-3757733350a5",
@@ -680,7 +691,7 @@
         "a9dcdb05-23ef-4327-9a60-406c2db3f554",
         "99d59015-6875-4f3e-a538-c1fd872008d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b5b5dc5-68c3-4c02-bc06-ad87d722972c",
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
@@ -713,7 +724,7 @@
         "79f12bad-7ee2-49a9-ad5c-521a9a98c027",
         "3b5ce168-c7e3-4a60-b3f9-1e5413dbe431"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "64df531d-b84a-4b73-ab2d-68c6ac9f252f",
         "a6598a10-d573-413f-873c-6e25d32f7a42",
@@ -729,7 +740,7 @@
     {
       "dutyID": "b607495f-82f3-4c23-af63-c4d9a01b2b52",
       "dutyDetail": "Ensure hygienic design of food manufacturing machinery and premises, in conjunction with engineers and food technologists",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -775,7 +786,7 @@
     {
       "dutyID": "d186ac7a-d590-4a8d-8b9b-b4e5ec3ca055",
       "dutyDetail": "F&D. Ensuring food safety standards are maintained during manufacture to meet customer and regulatory requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -823,7 +834,7 @@
     {
       "dutyID": "f379427c-11ff-4c6d-b059-36da78c11054",
       "dutyDetail": "Monitoring cleaning operations to maintain hygiene standards within food manufacturing facility",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -854,7 +865,7 @@
     {
       "dutyID": "0427dc26-d71a-4f3c-9fe2-d87ee2710169",
       "dutyDetail": "Leading third party food safety audits, for example food standards agency, retailer, British Retail Consortium (BRC)",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -899,7 +910,7 @@
     {
       "dutyID": "746f1571-e273-42b3-b8e2-ee7db8677454",
       "dutyDetail": "Developing and agreeing a project plan with the Planning Manager on acceptance of customer order; responding to seasonal needs and shelf life requirements",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -936,7 +947,7 @@
     {
       "dutyID": "d052b975-9b69-40a3-8957-c399c71d6d53",
       "dutyDetail": "Creating and maintaining a positive food safety culture with consumer safety focus",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "f3e03ef4-4426-4744-b49d-cacc0a072a56",
         "bfb86842-40ef-4aca-ad06-6374c72e544a",
@@ -981,8 +992,8 @@
     {
       "dutyID": "34675486-be46-45c9-8b98-8c36da29704e",
       "dutyDetail": "Participating in quality checks including taste panels",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "0d6604d4-6d4d-43ea-bc6c-13d967b7a5f8",
         "e4c2c892-8848-4ac9-a6bc-20db7a29f52e",
@@ -1008,5 +1019,10 @@
       "criteriaForMeasuringPerformance": "Correct analysis"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-04-30T00:00:00"
 }
