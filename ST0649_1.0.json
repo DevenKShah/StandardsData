@@ -1,19 +1,25 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 406,
   "referenceNumber": "ST0649",
+  "learningAimClassCode": "",
   "title": "Bioinformatics scientist (degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/406",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0649",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2022-09-27T00:00:00",
   "earliestStartDate": "2019-01-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Specialists who use computational, data analytical and data mining techniques which are applied to a range of problems in the life sciences.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "computational",
@@ -27,51 +33,279 @@
     "Bioinformatician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2520/st0649_bioinformatics-scientist-degree_l7_ap-for-publication_14122018.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2520/st0649_bioinformatics-scientist-degree_l7_ap-for-publication_14122018.pdf",
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.1 Science",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;Bioinformaticians are scientists - specialists who use computational, data analytical and data mining techniques which are applied to a range of problems in the life sciences, for example, in pharmaceutical companies in the process of drug discovery and development. Roles require scientists who understand life sciences, and who can work computationally with diverse and large volumes of data derived from different life science activities - and role names and descriptions often reflect this by using slightly different names for what is broadly the same computational skill-set. For example, bioinformatics, computational biology, computational toxicology, Health informatics, Medical informatics, Agri-informatics. This range of titles reflect the importance of life-science-specific knowledge coupled with the underlying (and sometimes specifically-adapted) data science, statistics and computational skills.&lt;/p&gt;\r\n&lt;p&gt;Broadly, bioinformatics is: Research, development, or application of computational tools and approaches for expanding the use of life science, (inc. biological, chemical or health) data, including those to acquire, store, organise, archive, analyse, or visualise such data; in such a way that aids development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of such biological systems.&lt;/p&gt;\r\n&lt;p&gt;A bioinformatician is often part of a collaborative group or team of scientists, drawing together life scientists, statisticians and computational infrastructure specialists. Consequently, the bioinformatician must be able to work across these disciplinary boundaries. The main duties of such a role would include the ability to:&#160;&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Work as part of an interdisciplinary team to support life science experiments from the design stage through to data analysis and biological interpretation.&lt;/li&gt;\r\n&lt;li&gt;Develop suitable plans for the storage and management of biological data, including annotation and metadata, and implement these through upload to public repositories and/or implementation of local databases.&lt;/li&gt;\r\n&lt;li&gt;Work with private and/or public bioinformatics resources, taking into consideration the legal, ethical or confidentiality aspects of their use.&lt;/li&gt;\r\n&lt;li&gt;Critically evaluate raw biological data and prepare it for suitable analysis.&lt;/li&gt;\r\n&lt;li&gt;Determine the most suitable method for computational analysis, considering biological and experimental relevance, and where necessary build and test analytical pipelines or write and test new algorithms.&lt;/li&gt;\r\n&lt;li&gt;Analyse biological data and to interpret the result in the context of the experimental design and, where necessary, in a broader biological context through integration with complimentary (often public) data.&lt;/li&gt;\r\n&lt;li&gt;Carry out all data handling, processing and analysis with consideration of commercial practices and guidance including documentation, reproducibility regulated processes and intellectual property (IP).&lt;/li&gt;\r\n&lt;li&gt;Communicate the results and their context to interdisciplinary scientific peers and participate in dissemination through writing papers and giving talks. Further aid the understanding of others through supervision and training.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Requirements: Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;The Bioinformatics Scientist will have knowledge and understanding of:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;ol&gt;\r\n&lt;li&gt;A topic aligned with the life science field, and the core experimental platform/data generating technologies in the chosen field.&lt;/li&gt;\r\n&lt;li&gt;How research is conducted in bioinformatics and within the broader context of interdisciplinary life sciences.&lt;/li&gt;\r\n&lt;li&gt;The technical limitations and the underlying biological and experimental assumptions that impact on data quality.&lt;/li&gt;\r\n&lt;li&gt;Details of omic-scale/big-data-driven life science making use of core platform technologies.&lt;/li&gt;\r\n&lt;li&gt;The responsibilities of working in production/industry environments managing scientific data – including regulated environments (good practice, and IP/confidentiality requirements).&lt;/li&gt;\r\n&lt;li&gt;Current approaches for modelling and warehousing of life science data.&lt;/li&gt;\r\n&lt;li&gt;Requirements for responsible, legal or ethical access and use of biological data, including general data protection (GDPR) considerations, identifiable personal genomic &amp;amp; healthcare data, and geographic biodiversity-related data concerns.&lt;/li&gt;\r\n&lt;li&gt;Ontologies and their use.&lt;/li&gt;\r\n&lt;li&gt;Retrieval and manipulation of biological data, including data mining, from public repositories.&lt;/li&gt;\r\n&lt;li&gt;Techniques to integrate, interpret, analyse and visualise biological data sets.&lt;/li&gt;\r\n&lt;li&gt;Bioinformatics analysis methodologies and expertise in common bioinformatics software packages, tools and algorithms – including workflow management tools.&lt;/li&gt;\r\n&lt;li&gt;Common bioinformatics programming languages; algorithm design, analysis and testing.&lt;/li&gt;\r\n&lt;li&gt;The use of suitable version control tools, software sustainability practices and open source software repositories.&lt;/li&gt;\r\n&lt;li&gt;Licensing limitations on the use of bioinformatics software and data such as open source, commercial and academic usage restrictions.&lt;/li&gt;\r\n&lt;li&gt;Database design and management, including information security considerations and big-data technologies.&lt;/li&gt;\r\n&lt;li&gt;Relevant big-data and high performance computing platforms including Linux/Unix, local and remote High Performance Computing (HPC), and cloud computing.&lt;/li&gt;\r\n&lt;li&gt;Application of statistics in the contexts of bioinformatics and life science data analysis.&lt;/li&gt;\r\n&lt;li&gt;Statistical and mathematical modelling methods, and key scientific and statistical analysis software packages.&lt;/li&gt;\r\n&lt;li&gt;General data science approaches to life science problems, such as machine learning and artificial intelligence (AI).&lt;/li&gt;\r\n&lt;li&gt;The importance of data governance, curation, information architecture and ensuring interoperability.&lt;/li&gt;\r\n&lt;li&gt;Differences in the knowledge-base of diverse audiences, and the most appropriate means of effectively communicating scientific and technical information.&lt;/li&gt;\r\n&lt;li&gt;Communication models and techniques which can be employed in a collaborative research environment to effect change at individual, team and organisational level eg. &#160;active listening skills, teamworking, influencing and negotiation skills.&lt;/li&gt;\r\n&lt;/ol&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;A Bioinformatics Scientist can:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;ol start=&quot;23&quot;&gt;\r\n&lt;li&gt;Work with multi-disciplinary colleagues to design life-science experiments that will generate data suitable for subsequent bioinformatics analysis.&lt;/li&gt;\r\n&lt;li&gt;Provide guidance to experimental scientists on data generation methodology and handling to ensure the quality of data produced.&lt;/li&gt;\r\n&lt;li&gt;Recognise and critically review the format, scope and limitations of different biological data.&lt;/li&gt;\r\n&lt;li&gt;Define the required metadata to be collected for specific datatypes and analytical approaches.&lt;/li&gt;\r\n&lt;li&gt;Design and implement appropriate data storage formats and associated database structure.&lt;/li&gt;\r\n&lt;li&gt;Choose appropriate computational infrastructure and database solutions - including internal or external/cloud resources.&lt;/li&gt;\r\n&lt;li&gt;Store and analyse data in accordance with ethical, legal and commercial standards, including checking who has access.&lt;/li&gt;\r\n&lt;li&gt;Curate biological data using suitable metadata, ontologies and/or controlled vocabularies.&lt;/li&gt;\r\n&lt;li&gt;Make use of suitable programming languages and/or workflow tools to automate data handling and curation tasks.&lt;/li&gt;\r\n&lt;li&gt;Maintain a working knowledge of a range of public data repositories for biological data.&lt;/li&gt;\r\n&lt;li&gt;Prepare data for submission to appropriate public bioinformatics data repositories as required, being aware of IP and/or ethical and legal issues.&lt;/li&gt;\r\n&lt;li&gt;Carry out data pre-processing and quality control (QC) to prepare datasets for bioinformatics analysis.&lt;/li&gt;\r\n&lt;li&gt;Determine the best method for bioinformatics analysis, including the selection of statistical tests, considering the research question and limitations of the experimental design.&lt;/li&gt;\r\n&lt;li&gt;Identify and define appropriate computing infrastructure requirements for the analysis of such biological data.&lt;/li&gt;\r\n&lt;li&gt;Apply a range of current techniques, skills and tools (including programming languages) necessary for computational biology practice – and;&lt;/li&gt;\r\n&lt;li&gt;Contribute to (where appropriate, lead) research to develop novel methodology.&lt;/li&gt;\r\n&lt;li&gt;Build and test analytical pipelines, or write and test new algorithms as necessary for the analysis of biological data.&lt;/li&gt;\r\n&lt;li&gt;Document all data processing, analysis and implementation of new methods in accordance with good scientific practices and industry requirements for regulatory process and IP.&lt;/li&gt;\r\n&lt;li&gt;Interpret the results of bioinformatics analysis in the context of the experimental design and, where necessary, in a broader biological context through integration with complementary (often public) data.&lt;/li&gt;\r\n&lt;li&gt;Obtain data sets from private and/or public resources – considering any legal, privacy or ethical aspects of data use.&lt;/li&gt;\r\n&lt;li&gt;Carry out the analysis of biological data using appropriate programmatic methods, statistical and other quantitative and data integration approaches – and visualise results.&lt;/li&gt;\r\n&lt;li&gt;Communicate and disseminate bioinformatics analysis and results to a range of audiences, including multi-disciplinary scientific colleagues, non-scientific members of management, external collaborators and stakeholders, grant/funding bodies and the public as required.&lt;/li&gt;\r\n&lt;li&gt;Supervise and mentor colleagues and peers to develop bioinformatics knowledge relevant to their specific life science subject experience.&lt;/li&gt;\r\n&lt;li&gt;Communicate orally and in writing, and collaborate effectively with interdisciplinary scientific colleagues, and management functions to monitor and manage people, processes or teams.&lt;/li&gt;\r\n&lt;li&gt;Manage their own time through preparation and prioritisation, time management and responsiveness to change.&lt;/li&gt;\r\n&lt;/ol&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;A Bioinformatics Scientist will be mindful of:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;ol start=&quot;48&quot;&gt;\r\n&lt;li&gt;Professional standards in the workplace in relation to: ethics and scientific integrity, legal compliance and intellectual property, respect and confidentiality, and health and safety.&lt;/li&gt;\r\n&lt;li&gt;The need to continuously develop their knowledge and skills in relation to scientific developments that influence their work, ensuring they continue to provide relevant analyses, including emerging techniques where appropriate.&lt;/li&gt;\r\n&lt;li&gt;The ongoing need for awareness of technical advances in the broader scientific field that may present opportunities for personal and / or organisational development.&lt;/li&gt;\r\n&lt;li&gt;The wider context (policy, economic, societal, technological, legal, cultural and environmental) in which scientific research operates, recognising the implications for professional practice.&lt;/li&gt;\r\n&lt;li&gt;The need to be enthusiastic, self-confident, self-aware, empathic, reliable and consistent to operate effectively in the role.&lt;/li&gt;\r\n&lt;li&gt;The requirement to persevere, have integrity, be prepared to take responsibility, to challenge areas of concern, to lead, mentor and supervise.&lt;/li&gt;\r\n&lt;/ol&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;It is anticipated that the duration of the apprenticeship will be typically 30 months.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will set the selection criteria, however in most cases applicants will have a background in a life sciences subject or informatics/computer science. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the endpoint assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for whom this is their primary language.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;On completion, apprentices will hold a Level 7 Master’s Degree qualification (a MSc., MSt., MRes., or a MSc by Res. depending on the provider institution) in Bioinformatics aligned to a science or technology discipline relevant to their job role.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This is a Level 7 degree apprenticeship&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Review Date&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Three years after approval of the standard.&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;Bioinformaticians are scientists - specialists who use computational, data analytical and data mining techniques which are applied to a range of problems in the life sciences, for example, in pharmaceutical companies in the process of drug discovery and development. Roles require scientists who understand life sciences, and who can work computationally with diverse and large volumes of data derived from different life science activities - and role names and descriptions often reflect this by using slightly different names for what is broadly the same computational skill-set. For example, bioinformatics, computational biology, computational toxicology, Health informatics, Medical informatics, Agri-informatics. This range of titles reflect the importance of life-science-specific knowledge coupled with the underlying (and sometimes specifically-adapted) data science, statistics and computational skills.&lt;/p&gt;\n&lt;p&gt;Broadly, bioinformatics is: Research, development, or application of computational tools and approaches for expanding the use of life science, (inc. biological, chemical or health) data, including those to acquire, store, organise, archive, analyse, or visualise such data; in such a way that aids development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of such biological systems.&lt;/p&gt;\n&lt;p&gt;A bioinformatician is often part of a collaborative group or team of scientists, drawing together life scientists, statisticians and computational infrastructure specialists. Consequently, the bioinformatician must be able to work across these disciplinary boundaries. The main duties of such a role would include the ability to:&#160;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Work as part of an interdisciplinary team to support life science experiments from the design stage through to data analysis and biological interpretation.&lt;/li&gt;\n&lt;li&gt;Develop suitable plans for the storage and management of biological data, including annotation and metadata, and implement these through upload to public repositories and/or implementation of local databases.&lt;/li&gt;\n&lt;li&gt;Work with private and/or public bioinformatics resources, taking into consideration the legal, ethical or confidentiality aspects of their use.&lt;/li&gt;\n&lt;li&gt;Critically evaluate raw biological data and prepare it for suitable analysis.&lt;/li&gt;\n&lt;li&gt;Determine the most suitable method for computational analysis, considering biological and experimental relevance, and where necessary build and test analytical pipelines or write and test new algorithms.&lt;/li&gt;\n&lt;li&gt;Analyse biological data and to interpret the result in the context of the experimental design and, where necessary, in a broader biological context through integration with complimentary (often public) data.&lt;/li&gt;\n&lt;li&gt;Carry out all data handling, processing and analysis with consideration of commercial practices and guidance including documentation, reproducibility regulated processes and intellectual property (IP).&lt;/li&gt;\n&lt;li&gt;Communicate the results and their context to interdisciplinary scientific peers and participate in dissemination through writing papers and giving talks. Further aid the understanding of others through supervision and training.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;The Bioinformatics Scientist will have knowledge and understanding of:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;A topic aligned with the life science field, and the core experimental platform/data generating technologies in the chosen field.&lt;/li&gt;\n&lt;li&gt;How research is conducted in bioinformatics and within the broader context of interdisciplinary life sciences.&lt;/li&gt;\n&lt;li&gt;The technical limitations and the underlying biological and experimental assumptions that impact on data quality.&lt;/li&gt;\n&lt;li&gt;Details of omic-scale/big-data-driven life science making use of core platform technologies.&lt;/li&gt;\n&lt;li&gt;The responsibilities of working in production/industry environments managing scientific data – including regulated environments (good practice, and IP/confidentiality requirements).&lt;/li&gt;\n&lt;li&gt;Current approaches for modelling and warehousing of life science data.&lt;/li&gt;\n&lt;li&gt;Requirements for responsible, legal or ethical access and use of biological data, including general data protection (GDPR) considerations, identifiable personal genomic &amp;amp; healthcare data, and geographic biodiversity-related data concerns.&lt;/li&gt;\n&lt;li&gt;Ontologies and their use.&lt;/li&gt;\n&lt;li&gt;Retrieval and manipulation of biological data, including data mining, from public repositories.&lt;/li&gt;\n&lt;li&gt;Techniques to integrate, interpret, analyse and visualise biological data sets.&lt;/li&gt;\n&lt;li&gt;Bioinformatics analysis methodologies and expertise in common bioinformatics software packages, tools and algorithms – including workflow management tools.&lt;/li&gt;\n&lt;li&gt;Common bioinformatics programming languages; algorithm design, analysis and testing.&lt;/li&gt;\n&lt;li&gt;The use of suitable version control tools, software sustainability practices and open source software repositories.&lt;/li&gt;\n&lt;li&gt;Licensing limitations on the use of bioinformatics software and data such as open source, commercial and academic usage restrictions.&lt;/li&gt;\n&lt;li&gt;Database design and management, including information security considerations and big-data technologies.&lt;/li&gt;\n&lt;li&gt;Relevant big-data and high performance computing platforms including Linux/Unix, local and remote High Performance Computing (HPC), and cloud computing.&lt;/li&gt;\n&lt;li&gt;Application of statistics in the contexts of bioinformatics and life science data analysis.&lt;/li&gt;\n&lt;li&gt;Statistical and mathematical modelling methods, and key scientific and statistical analysis software packages.&lt;/li&gt;\n&lt;li&gt;General data science approaches to life science problems, such as machine learning and artificial intelligence (AI).&lt;/li&gt;\n&lt;li&gt;The importance of data governance, curation, information architecture and ensuring interoperability.&lt;/li&gt;\n&lt;li&gt;Differences in the knowledge-base of diverse audiences, and the most appropriate means of effectively communicating scientific and technical information.&lt;/li&gt;\n&lt;li&gt;Communication models and techniques which can be employed in a collaborative research environment to effect change at individual, team and organisational level eg. &#160;active listening skills, teamworking, influencing and negotiation skills.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;A Bioinformatics Scientist can:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol start=&quot;23&quot;&gt;\n&lt;li&gt;Work with multi-disciplinary colleagues to design life-science experiments that will generate data suitable for subsequent bioinformatics analysis.&lt;/li&gt;\n&lt;li&gt;Provide guidance to experimental scientists on data generation methodology and handling to ensure the quality of data produced.&lt;/li&gt;\n&lt;li&gt;Recognise and critically review the format, scope and limitations of different biological data.&lt;/li&gt;\n&lt;li&gt;Define the required metadata to be collected for specific datatypes and analytical approaches.&lt;/li&gt;\n&lt;li&gt;Design and implement appropriate data storage formats and associated database structure.&lt;/li&gt;\n&lt;li&gt;Choose appropriate computational infrastructure and database solutions - including internal or external/cloud resources.&lt;/li&gt;\n&lt;li&gt;Store and analyse data in accordance with ethical, legal and commercial standards, including checking who has access.&lt;/li&gt;\n&lt;li&gt;Curate biological data using suitable metadata, ontologies and/or controlled vocabularies.&lt;/li&gt;\n&lt;li&gt;Make use of suitable programming languages and/or workflow tools to automate data handling and curation tasks.&lt;/li&gt;\n&lt;li&gt;Maintain a working knowledge of a range of public data repositories for biological data.&lt;/li&gt;\n&lt;li&gt;Prepare data for submission to appropriate public bioinformatics data repositories as required, being aware of IP and/or ethical and legal issues.&lt;/li&gt;\n&lt;li&gt;Carry out data pre-processing and quality control (QC) to prepare datasets for bioinformatics analysis.&lt;/li&gt;\n&lt;li&gt;Determine the best method for bioinformatics analysis, including the selection of statistical tests, considering the research question and limitations of the experimental design.&lt;/li&gt;\n&lt;li&gt;Identify and define appropriate computing infrastructure requirements for the analysis of such biological data.&lt;/li&gt;\n&lt;li&gt;Apply a range of current techniques, skills and tools (including programming languages) necessary for computational biology practice – and;&lt;/li&gt;\n&lt;li&gt;Contribute to (where appropriate, lead) research to develop novel methodology.&lt;/li&gt;\n&lt;li&gt;Build and test analytical pipelines, or write and test new algorithms as necessary for the analysis of biological data.&lt;/li&gt;\n&lt;li&gt;Document all data processing, analysis and implementation of new methods in accordance with good scientific practices and industry requirements for regulatory process and IP.&lt;/li&gt;\n&lt;li&gt;Interpret the results of bioinformatics analysis in the context of the experimental design and, where necessary, in a broader biological context through integration with complementary (often public) data.&lt;/li&gt;\n&lt;li&gt;Obtain data sets from private and/or public resources – considering any legal, privacy or ethical aspects of data use.&lt;/li&gt;\n&lt;li&gt;Carry out the analysis of biological data using appropriate programmatic methods, statistical and other quantitative and data integration approaches – and visualise results.&lt;/li&gt;\n&lt;li&gt;Communicate and disseminate bioinformatics analysis and results to a range of audiences, including multi-disciplinary scientific colleagues, non-scientific members of management, external collaborators and stakeholders, grant/funding bodies and the public as required.&lt;/li&gt;\n&lt;li&gt;Supervise and mentor colleagues and peers to develop bioinformatics knowledge relevant to their specific life science subject experience.&lt;/li&gt;\n&lt;li&gt;Communicate orally and in writing, and collaborate effectively with interdisciplinary scientific colleagues, and management functions to monitor and manage people, processes or teams.&lt;/li&gt;\n&lt;li&gt;Manage their own time through preparation and prioritisation, time management and responsiveness to change.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;A Bioinformatics Scientist will be mindful of:&lt;/strong&gt;&lt;/p&gt;\n&lt;ol start=&quot;48&quot;&gt;\n&lt;li&gt;Professional standards in the workplace in relation to: ethics and scientific integrity, legal compliance and intellectual property, respect and confidentiality, and health and safety.&lt;/li&gt;\n&lt;li&gt;The need to continuously develop their knowledge and skills in relation to scientific developments that influence their work, ensuring they continue to provide relevant analyses, including emerging techniques where appropriate.&lt;/li&gt;\n&lt;li&gt;The ongoing need for awareness of technical advances in the broader scientific field that may present opportunities for personal and / or organisational development.&lt;/li&gt;\n&lt;li&gt;The wider context (policy, economic, societal, technological, legal, cultural and environmental) in which scientific research operates, recognising the implications for professional practice.&lt;/li&gt;\n&lt;li&gt;The need to be enthusiastic, self-confident, self-aware, empathic, reliable and consistent to operate effectively in the role.&lt;/li&gt;\n&lt;li&gt;The requirement to persevere, have integrity, be prepared to take responsibility, to challenge areas of concern, to lead, mentor and supervise.&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;It is anticipated that the duration of the apprenticeship will be typically 30 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria, however in most cases applicants will have a background in a life sciences subject or informatics/computer science. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the endpoint assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for whom this is their primary language.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;On completion, apprentices will hold a Level 7 Master’s Degree qualification (a MSc., MSt., MRes., or a MSc by Res. depending on the provider institution) in Bioinformatics aligned to a science or technology discipline relevant to their job role.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a Level 7 degree apprenticeship&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review Date&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Three years after approval of the standard.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Bioinformaticians are scientists - specialists who use computational, data analytical and data mining techniques which are applied to a range of problems in the life sciences, for example, in pharmaceutical companies in the process of drug discovery and development. Roles require scientists who understand life sciences, and who can work computationally with diverse and large volumes of data derived from different life science activities - and role names and descriptions often reflect this by using slightly different names for what is broadly the same computational skill-set. For example, bioinformatics, computational biology, computational toxicology, Health informatics, Medical informatics, Agri-informatics. This range of titles reflect the importance of life-science-specific knowledge coupled with the underlying (and sometimes specifically-adapted) data science, statistics and computational skills. Broadly, bioinformatics is: Research, development, or application of computational tools and approaches for expanding the use of life science, (inc. biological, chemical or health) data, including those to acquire, store, organise, archive, analyse, or visualise such data; in such a way that aids development and application of data-analytical and theoretical methods, mathematical modelling and computational simulation techniques to the study of such biological systems. A bioinformatician is often part of a collaborative group or team of scientists, drawing together life scientists, statisticians and computational infrastructure specialists. Consequently, the bioinformatician must be able to work across these disciplinary boundaries.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "5252796e-88b1-4925-a8fb-ad4e1398229e",
+      "detail": "A topic aligned with the life science field, and the core experimental platform/data generating technologies in the chosen field."
+    },
+    {
+      "knowledgeId": "5ca66f77-4f7d-4b76-b124-8dc3647ae078",
+      "detail": "How research is conducted in bioinformatics and within the broader context of interdisciplinary life sciences."
+    },
+    {
+      "knowledgeId": "107177ee-df93-4fc4-9aad-5409e3010604",
+      "detail": "The technical limitations and the underlying biological and experimental assumptions that impact on data quality."
+    },
+    {
+      "knowledgeId": "aaf96a59-3ad9-4f64-ad23-da7ff7993f10",
+      "detail": "Details of omic-scale/big-data-driven life science making use of core platform technologies."
+    },
+    {
+      "knowledgeId": "d8f6f50b-7198-44ba-aa85-d42eb5275032",
+      "detail": "The responsibilities of working in production/industry environments managing scientific data – including regulated environments (good practice, and IP/confidentiality requirements)."
+    },
+    {
+      "knowledgeId": "14c27c9d-0571-452e-90ac-7b5c1b792138",
+      "detail": "Current approaches for modelling and warehousing of life science data."
+    },
+    {
+      "knowledgeId": "582591eb-6a94-4911-ae02-35733755ab81",
+      "detail": "Requirements for responsible, legal or ethical access and use of biological data, including general data protection (GDPR) considerations, identifiable personal genomic & healthcare data, and geographic biodiversity-related data concerns."
+    },
+    {
+      "knowledgeId": "cdd0977a-e613-4fc9-98dd-cbc010e421b9",
+      "detail": "Ontologies and their use."
+    },
+    {
+      "knowledgeId": "57cb73c5-a5a3-4b59-849b-9b363fcb44e9",
+      "detail": "Retrieval and manipulation of biological data, including data mining, from public repositories."
+    },
+    {
+      "knowledgeId": "9b33adac-e17a-48f2-a447-29a29c404ca9",
+      "detail": "Techniques to integrate, interpret, analyse and visualise biological data sets."
+    },
+    {
+      "knowledgeId": "e3b62426-3a83-42b9-aace-66c7433c4fa0",
+      "detail": "Bioinformatics analysis methodologies and expertise in common bioinformatics software packages, tools and algorithms – including workflow management tools."
+    },
+    {
+      "knowledgeId": "ad89a60a-2eaf-4402-92af-31d435622b5c",
+      "detail": "Common bioinformatics programming languages; algorithm design, analysis and testing."
+    },
+    {
+      "knowledgeId": "5a553e4c-7d35-4dd9-a92e-9a2d0687b526",
+      "detail": "The use of suitable version control tools, software sustainability practices and open source software repositories."
+    },
+    {
+      "knowledgeId": "0e49621b-5f42-466b-9551-94200c7ec0f0",
+      "detail": "Licensing limitations on the use of bioinformatics software and data such as open source, commercial and academic usage restrictions."
+    },
+    {
+      "knowledgeId": "a8d16cb4-6daf-4654-a181-d3c9e3e515c2",
+      "detail": "Database design and management, including information security considerations and big-data technologies."
+    },
+    {
+      "knowledgeId": "b6bf4a77-c221-4ed3-be01-f218b449c16f",
+      "detail": "Relevant big-data and high performance computing platforms including Linux/Unix, local and remote High Performance Computing (HPC), and cloud computing."
+    },
+    {
+      "knowledgeId": "80ea0cbc-d5df-49ba-aa93-a38af042640c",
+      "detail": "Application of statistics in the contexts of bioinformatics and life science data analysis."
+    },
+    {
+      "knowledgeId": "9a888c67-e7a9-4f7b-aaa7-494dcabf7ab1",
+      "detail": "Statistical and mathematical modelling methods, and key scientific and statistical analysis software packages."
+    },
+    {
+      "knowledgeId": "7fc6df44-5afd-467e-8c9a-31ed76bf7248",
+      "detail": "General data science approaches to life science problems, such as machine learning and artificial intelligence (AI)."
+    },
+    {
+      "knowledgeId": "4739f6c0-3fb9-4b46-9d9d-9ef78b501f30",
+      "detail": "The importance of data governance, curation, information architecture and ensuring interoperability."
+    },
+    {
+      "knowledgeId": "12c263c0-2ad6-44a9-8541-a4877f9fdad7",
+      "detail": "Differences in the knowledge-base of diverse audiences, and the most appropriate means of effectively communicating scientific and technical information."
+    },
+    {
+      "knowledgeId": "a2128339-b0bb-4b63-904b-9c69315b4271",
+      "detail": "Communication models and techniques which can be employed in a collaborative research environment to effect change at individual, team and organisational level eg. \u00A0active listening skills, teamworking, influencing and negotiation skills."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e1ca0706-2c15-4548-ab09-060f61e502e5",
+      "detail": "Professional standards in the workplace in relation to: ethics and scientific integrity, legal compliance and intellectual property, respect and confidentiality, and health and safety."
+    },
+    {
+      "behaviourId": "56ff5f80-b5f7-487f-bc5e-491abde18a6d",
+      "detail": "The need to continuously develop their knowledge and skills in relation to scientific developments that influence their work, ensuring they continue to provide relevant analyses, including emerging techniques where appropriate."
+    },
+    {
+      "behaviourId": "96fe000d-99bd-48b0-aa29-b496516ff082",
+      "detail": "The ongoing need for awareness of technical advances in the broader scientific field that may present opportunities for personal and / or organisational development."
+    },
+    {
+      "behaviourId": "09f2b3e4-d863-438b-8ddb-875ac77c2e3d",
+      "detail": "The wider context (policy, economic, societal, technological, legal, cultural and environmental) in which scientific research operates, recognising the implications for professional practice."
+    },
+    {
+      "behaviourId": "b35922a3-7d43-4a61-b2e2-0f1481678e4f",
+      "detail": "The need to be enthusiastic, self-confident, self-aware, empathic, reliable and consistent to operate effectively in the role."
+    },
+    {
+      "behaviourId": "ca489332-5730-43bc-8a5f-7f6663221f65",
+      "detail": "The requirement to persevere, have integrity, be prepared to take responsibility, to challenge areas of concern, to lead, mentor and supervise."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1072c1f5-1dea-4203-9e69-10dbac98908d",
+      "detail": "Work with multi-disciplinary colleagues to design life-science experiments that will generate data suitable for subsequent bioinformatics analysis."
+    },
+    {
+      "skillId": "54ccf66f-b8eb-4612-81c1-72e0d0393992",
+      "detail": "Provide guidance to experimental scientists on data generation methodology and handling to ensure the quality of data produced."
+    },
+    {
+      "skillId": "d0198441-314b-4c0d-afa6-3498e7ac9a2f",
+      "detail": "Recognise and critically review the format, scope and limitations of different biological data."
+    },
+    {
+      "skillId": "850e6fce-2597-49c0-9e2a-3b48ab2ebe7c",
+      "detail": "Define the required metadata to be collected for specific datatypes and analytical approaches."
+    },
+    {
+      "skillId": "56128790-ba4b-499e-badb-baa9144842b6",
+      "detail": "Design and implement appropriate data storage formats and associated database structure."
+    },
+    {
+      "skillId": "e448f106-b3b3-40f2-ae23-2ffcc6f1e27d",
+      "detail": "Choose appropriate computational infrastructure and database solutions - including internal or external/cloud resources."
+    },
+    {
+      "skillId": "e06310c7-d405-45f9-9ac6-1b603fa13f02",
+      "detail": "Store and analyse data in accordance with ethical, legal and commercial standards, including checking who has access."
+    },
+    {
+      "skillId": "4c420f5a-ba8d-4aa8-be96-33b28129eb4e",
+      "detail": "Curate biological data using suitable metadata, ontologies and/or controlled vocabularies."
+    },
+    {
+      "skillId": "8f441892-5f8f-4305-b55e-b19b63f4227e",
+      "detail": "Make use of suitable programming languages and/or workflow tools to automate data handling and curation tasks."
+    },
+    {
+      "skillId": "fe5cbb1d-d033-4001-890f-4fc5487f0ac6",
+      "detail": "Maintain a working knowledge of a range of public data repositories for biological data."
+    },
+    {
+      "skillId": "4264a24f-cc39-4279-9dbe-5940d3e65473",
+      "detail": "Prepare data for submission to appropriate public bioinformatics data repositories as required, being aware of IP and/or ethical and legal issues."
+    },
+    {
+      "skillId": "e54b2a6f-326b-4810-9038-8b355cbfdcbd",
+      "detail": "Carry out data pre-processing and quality control (QC) to prepare datasets for bioinformatics analysis."
+    },
+    {
+      "skillId": "f32b4212-830c-405a-be25-2dabdf8a17b3",
+      "detail": "Determine the best method for bioinformatics analysis, including the selection of statistical tests, considering the research question and limitations of the experimental design."
+    },
+    {
+      "skillId": "f45b0b48-51ed-4108-90e0-8810fb41548e",
+      "detail": "Identify and define appropriate computing infrastructure requirements for the analysis of such biological data."
+    },
+    {
+      "skillId": "08caa1e3-d5cb-4bbf-bf00-7b0fba8ac4a8",
+      "detail": "Apply a range of current techniques, skills and tools (including programming languages) necessary for computational biology practice – and;"
+    },
+    {
+      "skillId": "0d526ba3-75f0-49c5-9ed9-8652d206bbf7",
+      "detail": "Contribute to (where appropriate, lead) research to develop novel methodology."
+    },
+    {
+      "skillId": "bb70c6dc-6c2c-4c8e-b9a6-3601f633349f",
+      "detail": "Build and test analytical pipelines, or write and test new algorithms as necessary for the analysis of biological data."
+    },
+    {
+      "skillId": "4fe5a1bc-f476-45ee-9cfe-f1d50c399417",
+      "detail": "Document all data processing, analysis and implementation of new methods in accordance with good scientific practices and industry requirements for regulatory process and IP."
+    },
+    {
+      "skillId": "a2dba886-ef3d-4011-bfa9-c6a9bc72b194",
+      "detail": "Interpret the results of bioinformatics analysis in the context of the experimental design and, where necessary, in a broader biological context through integration with complementary (often public) data."
+    },
+    {
+      "skillId": "5d91e01e-a6ff-4e2c-add2-1e7c97cd416e",
+      "detail": "Obtain data sets from private and/or public resources – considering any legal, privacy or ethical aspects of data use."
+    },
+    {
+      "skillId": "4b44c609-2d52-42ac-a891-a3d8b450ff7a",
+      "detail": "Carry out the analysis of biological data using appropriate programmatic methods, statistical and other quantitative and data integration approaches – and visualise results."
+    },
+    {
+      "skillId": "b1b84d16-e169-49fc-ab6e-611251c1d713",
+      "detail": " Communicate and disseminate bioinformatics analysis and results to a range of audiences, including multi-disciplinary scientific colleagues, non-scientific members of management, external collaborators and stakeholders, grant/funding bodies and the public as required."
+    },
+    {
+      "skillId": "80025d4d-1f6a-4f27-9ace-b27ee86ddfd1",
+      "detail": "Supervise and mentor colleagues and peers to develop bioinformatics knowledge relevant to their specific life science subject experience."
+    },
+    {
+      "skillId": "e9435145-df24-490c-94c3-cb62a271030b",
+      "detail": "Communicate orally and in writing, and collaborate effectively with interdisciplinary scientific colleagues, and management functions to monitor and manage people, processes or teams."
+    },
+    {
+      "skillId": "38c21e7f-5116-441a-b7d3-1bb5b5ed81d9",
+      "detail": "Manage their own time through preparation and prioritisation, time management and responsiveness to change."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-01-29T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0043",
   "tbMainContact": "lee@nexastem.com",
   "involvedEmployers": "Unilever, GSK, Medimmune, Astrazeneca, Fujifilm Diosynth, Eagle Genomics, Covance, Envigo, UCB, Kymab, EMBL-European Bioinformatics Institute, Medical Research Council, Genomics England, Association of British Pharmaceutical Industry, Biochemical Society, Royal Society of Biology, Royal Society of Chemistry",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Bioinformatician"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Science",
-  "cluster": "Science Professional",
+  "cluster": "Science professional",
+  "clusterId": "213",
+  "clusterDescription": null,
   "createdDate": "2018-02-13T14:41:22 +00:00",
-  "lastUpdated": "2019-01-29T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/bioinformatics-scientist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/bioinformatics-scientist-(degree)-v1-0",
+  "lastUpdated": "2022-09-27T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0649",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0649-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0649-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-09-27T00:00:00"
 }
