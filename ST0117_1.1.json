@@ -1,0 +1,1021 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 165,
+  "referenceNumber": "ST0117",
+  "learningAimClassCode": "",
+  "title": "Business analyst",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0117",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Standard, funding band and end-point assessment plan revised.",
+  "changedDate": "2022-12-30T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Working with organisations to improve their information systems.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "business analyst",
+    "business",
+    "information systems",
+    "management",
+    "analyst"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5127/st0117_business_analyst_l4_ap-for-publication_20210527.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the public and private sector, large multi-national companies and smaller independent enterprises. Business analysis exists in almost every sector, from not-for-profit organisations through to retail and the financial services. It&#39;s fast-paced and collaborative and provides a recognised career with professionals taking lead roles in successful change delivery.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to understand the needs of stakeholders and how these can be met through business change and digital solutions. Business Analysts are change professionals that help organisations deliver business and digital change successfully.&lt;/p&gt;\n&lt;p&gt;Business Analysts document business problems and user needs, and create solution requirements that align to best practice, and present them in a meaningful and logical way appropriate to the audience. Business Analysts manage stakeholder relationships, ensuring collaboration between business and technical stakeholders. By focusing on benefits and outcomes they ensure the right problems are solved and the right products are developed.&lt;/p&gt;\n&lt;p&gt;A common area of focus for the Business Analyst role is to model business processes and to facilitate, coordinate and document requirements for the proposed business and IT changes. Business Analysts will determine and present solutions of how technology can be used to deliver business improvements, and support business acceptance to ensure that the proposed solution meets the defined requirements.&lt;/p&gt;\n&lt;p&gt;They help businesses to understand the current organisational situation, identify future needs and define solutions to meet those needs, often in relation to digital technology. Business Analysts can gain an excellent understanding of the way the organisation works and the sector it operates in. This allows Business Analysts to make recommendations for improvement in relation to people, processes and IT. By analysing, documenting and managing requirements throughout the delivery lifecycle they help achieve successful business outcomes through new processes, data and/or technology.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a broad range of stakeholders, including customers, business users, suppliers, product owners, software developers, testers and senior leaders. These stakeholders include people both internal and external to the organisation.&lt;/p&gt;\n&lt;p&gt;Business Analysts play a key role in multidisciplinary teams by collaborating with different groups of stakeholders, working to understand and communicate how digital solutions can support the organisation&#39;s needs. They interact with stakeholders through leading workshops, conducting interviews and using other techniques to effectively understand the business problems and user needs.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for investigating business situations, and analysing problems and opportunities for improvement. They will be responsible for investigating and analysing business processes, understanding data and business information needs, and documenting requirements for digital and business change solutions.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+      "detail": "The definition of Business Analysis and the range of activities that constitute it"
+    },
+    {
+      "knowledgeId": "0001267e-4a2a-4f41-97a6-d81d3d162679",
+      "detail": "The value of Business Analysis in enabling business improvement and delivering IT system changes"
+    },
+    {
+      "knowledgeId": "c0444e28-965f-4724-bb5e-017f70cadb70",
+      "detail": "The role of the Business Analyst, and its relationship with other roles on a business change initiative, including those with system development responsibility"
+    },
+    {
+      "knowledgeId": "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+      "detail": "Business change and system development life cycles, including the use of appropriate methodologies and the impact of organisational culture and context"
+    },
+    {
+      "knowledgeId": "a971054b-5310-4816-9119-89b82235c3e3",
+      "detail": "The principles, features and differences of waterfall and agile methodologies for project delivery and software development"
+    },
+    {
+      "knowledgeId": "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+      "detail": "The importance of effective communication and engagement with a range of stakeholders in relation to Business Analysis assignments"
+    },
+    {
+      "knowledgeId": "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+      "detail": "The purpose and value of quality assurance techniques"
+    },
+    {
+      "knowledgeId": "60215042-dcb2-4763-9735-aec7a6441755",
+      "detail": "Approaches to conducting internal and external environmental analysis of an industry domain"
+    },
+    {
+      "knowledgeId": "3e478ee5-aa67-4aaf-97a1-6f4da9fbea5b",
+      "detail": "The advantages and disadvantages of a range of investigative techniques"
+    },
+    {
+      "knowledgeId": "6da7d52b-d602-48e6-92f4-2903838335cf",
+      "detail": "The purpose of process modelling and the importance of an organisational view of business processes"
+    },
+    {
+      "knowledgeId": "76e09c7b-626e-45df-b89b-4fe2cfed5df1",
+      "detail": "Different approaches to document business processes including when it is most appropriate to use each"
+    },
+    {
+      "knowledgeId": "43cdae50-e459-41a7-ac54-c2794822764a",
+      "detail": "Techniques to elicit requirements, including when it is most appropriate to use each"
+    },
+    {
+      "knowledgeId": "40b86cd8-6943-4098-8615-3dc7088b7a28",
+      "detail": "The importance of eliciting requirements rather than gathering solution descriptions"
+    },
+    {
+      "knowledgeId": "8515fccf-dab3-446c-937c-180566cb2adf",
+      "detail": "Approaches to categorise, validate and prioritise requirements"
+    },
+    {
+      "knowledgeId": "aa07c76c-99ee-4da8-9aa6-61e99a5076cf",
+      "detail": "The importance of requirements management including change control"
+    },
+    {
+      "knowledgeId": "92d4f384-7b87-41dd-a2ab-ab6abf5460bd",
+      "detail": "A broad range of non-functional requirement areas and the importance of including these within requirements engineering"
+    },
+    {
+      "knowledgeId": "10b695f1-412e-4e31-a8b0-a7df901b9292",
+      "detail": "The importance of considering user experience, accessibility and usability requirements in the design of digital solutions"
+    },
+    {
+      "knowledgeId": "bad46493-605f-4f48-9689-a7032a915bb5",
+      "detail": "The value of data to an organisation, and how data needs are considered in business improvement"
+    },
+    {
+      "knowledgeId": "86844061-33d2-4eb9-8a04-8e77d6c69eb9",
+      "detail": "The purpose and activities of the gap analysis process"
+    },
+    {
+      "knowledgeId": "e6a233f4-ac3b-489d-8d82-3987cbc6e1f9",
+      "detail": "The role of the business analyst in facilitating business acceptance of changes"
+    },
+    {
+      "knowledgeId": "e9175836-3f9b-4336-8f6d-7063bc14e576",
+      "detail": "The different phases of testing of business and system changes"
+    },
+    {
+      "knowledgeId": "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+      "detail": "The importance and the principles of engaging internal and external stakeholders"
+    },
+    {
+      "knowledgeId": "76f845dc-0bbd-4f4d-90aa-335b3c60a299",
+      "detail": "Techniques to support the identification and analysis of internal and external stakeholders"
+    },
+    {
+      "knowledgeId": "043f0528-088d-4f0d-8de6-ea14f19c108e",
+      "detail": "The purpose and importance of business change impact assessment"
+    },
+    {
+      "knowledgeId": "d486b65f-3321-4992-91af-904eba10d788",
+      "detail": "The concepts of benefits realisation and management"
+    },
+    {
+      "knowledgeId": "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+      "detail": "Legislation and industry standards relevant to the organisation and sector"
+    },
+    {
+      "knowledgeId": "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+      "detail": "Data protection regulations and the importance of managing information and data in linewith legislation and organisational policies"
+    },
+    {
+      "knowledgeId": "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35",
+      "detail": "Technology and industry trends across the digital sector, and the opportunities thesebring for business improvement and IT solutions"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+      "detail": "Act logically, analytically and objectively in a range of situations"
+    },
+    {
+      "behaviourId": "95eddc30-9459-4409-96d2-171e71b51529",
+      "detail": "Apply creative thinking when problem solving"
+    },
+    {
+      "behaviourId": "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+      "detail": "Work independently and collaboratively"
+    },
+    {
+      "behaviourId": "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+      "detail": "Use own initiative and take responsibility appropriate to the role of Business Analyst"
+    },
+    {
+      "behaviourId": "cf0bd081-6079-4009-b202-fc6977002ee2",
+      "detail": "Take a thorough and organised approach and plan analysis activities in line with business priorities"
+    },
+    {
+      "behaviourId": "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+      "detail": "Build and maintain positive working relationships with a range of people"
+    },
+    {
+      "behaviourId": "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+      "detail": "Use a range of methods of communication appropriate to the situation"
+    },
+    {
+      "behaviourId": "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+      "detail": "Maintain a productive, professional and secure working environment"
+    },
+    {
+      "behaviourId": "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+      "detail": "Aware of the wider business environment and own contribution to business objectives"
+    },
+    {
+      "behaviourId": "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+      "detail": "Be comfortable and confident interacting with people from technical and non-technical backgrounds"
+    },
+    {
+      "behaviourId": "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+      "detail": "Tailor manner of presentation to be appropriate to the audience"
+    },
+    {
+      "behaviourId": "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+      "detail": "Work flexibly and effectively as part of a multidisciplinary team throughout the fulllifecycle"
+    },
+    {
+      "behaviourId": "3d184017-8403-476e-b965-d197878ef30f",
+      "detail": "Demonstrate commitment to continuous professional development in relation toBusiness Analysis and the digital sector"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "98475c63-cf3e-46fe-975e-69cfe54dae71",
+      "detail": "Apply appropriate approaches to scope, plan and perform Business Analysis"
+    },
+    {
+      "skillId": "c67a6427-3766-4dbb-a2cf-563df32a190b",
+      "detail": "Communicate effectively in a variety of situations with a range of stakeholders"
+    },
+    {
+      "skillId": "b6255567-d567-4582-966a-bc524aaf1946",
+      "detail": "Apply a range of structured investigation techniques to a business situation"
+    },
+    {
+      "skillId": "9d533eb6-25d8-4e42-a296-967896983d13",
+      "detail": "Produce an outline definition of a business situation using an appropriate technique"
+    },
+    {
+      "skillId": "e1f0297f-2090-4cbc-b02e-95ec693b4fe9",
+      "detail": "Apply appropriate techniques to identify problems and opportunities within a business situation"
+    },
+    {
+      "skillId": "6a14c635-339f-46b4-a512-14ece03c1c6b",
+      "detail": "Support the identification and presentation of proposed actions to stakeholders in order to gain agreement for further analysis activity"
+    },
+    {
+      "skillId": "c39da1b2-ffab-4a57-808f-fdbe80d99bf2",
+      "detail": "Apply appropriate techniques to analyse and document options and recommendations for change"
+    },
+    {
+      "skillId": "398d8179-66bf-4538-9101-4247b77110cf",
+      "detail": "Elicit process information from stakeholders"
+    },
+    {
+      "skillId": "9e6470aa-f1b6-4558-bb88-a9c9be49194a",
+      "detail": "Model business processes using relevant techniques, standards, notation and software tools"
+    },
+    {
+      "skillId": "3928f629-621f-459c-bd2b-dd0fc0fdd368",
+      "detail": "Analyse business process models to identify opportunities for improvement"
+    },
+    {
+      "skillId": "f5300d73-cb41-4465-b414-4adb26cfc2e4",
+      "detail": "Produce models of redesigned business processes"
+    },
+    {
+      "skillId": "29adfbcc-87cc-4a2b-9a8f-60115555f03f",
+      "detail": "Elicit requirements from stakeholders to identify business and user needs"
+    },
+    {
+      "skillId": "cced5786-8ef3-40ab-a963-e56ae46dd0ee",
+      "detail": "Document clear functional and non-functional requirements in line with local standards"
+    },
+    {
+      "skillId": "91b06a26-4bb2-42a7-b36f-38239978cb1d",
+      "detail": "Analyse documented requirements to remove duplication, conflict and overlap"
+    },
+    {
+      "skillId": "da983233-1c59-4674-a445-1aa75310bef8",
+      "detail": "Prioritise requirements using an appropriate prioritisation approach"
+    },
+    {
+      "skillId": "a275465e-fa7e-459c-8a1e-62ab0ae2f766",
+      "detail": "Validate requirements with stakeholders"
+    },
+    {
+      "skillId": "470bc44d-36c5-4e51-a885-5ae650280733",
+      "detail": "Support the establishment of requirements traceability"
+    },
+    {
+      "skillId": "9a568d29-0b26-4495-8c63-7a582783d20b",
+      "detail": "Elicit business data needs from relevant sources"
+    },
+    {
+      "skillId": "60ce7991-8e6e-4708-b1ac-ebb6070409ca",
+      "detail": "Support the development of simple data models using relevant techniques, standards, notation and software tools"
+    },
+    {
+      "skillId": "72b9b5e0-5ec9-40a5-bd35-2943c3743fec",
+      "detail": "Document current business situations to enable gap analysis and decision making"
+    },
+    {
+      "skillId": "4fdf1d52-b331-4990-bad9-5c427965e986",
+      "detail": "Support the development of models of future state business situations"
+    },
+    {
+      "skillId": "65b77bfd-df78-4690-acc7-641077010116",
+      "detail": "Identify key differences between current and future business situations"
+    },
+    {
+      "skillId": "d95fcc48-dff7-4896-af96-049ce98188ab",
+      "detail": "Identify actions required to move from the current to future business situation"
+    },
+    {
+      "skillId": "216f9b60-37bb-4621-9e69-1d371d855640",
+      "detail": "Define acceptance criteria for business and system changes"
+    },
+    {
+      "skillId": "85b5bbc4-bf83-4004-ad14-729982d7ad6c",
+      "detail": "Support business acceptance of business and system changes"
+    },
+    {
+      "skillId": "19890bb6-5bc7-455b-bb7a-8c993fb2a14d",
+      "detail": "Apply relevant techniques to research and identify stakeholders"
+    },
+    {
+      "skillId": "18cc58f3-c57b-47af-978f-f1dce114318c",
+      "detail": "Analyse and document stakeholders' areas of interest and influence"
+    },
+    {
+      "skillId": "a61a647c-0355-41ff-a0cd-64156f95a76e",
+      "detail": "Support the development of cost/benefit analysis for proposed business changes"
+    },
+    {
+      "skillId": "3545b97c-bcfc-4804-9e3d-f1f1b216775a",
+      "detail": "Evaluate and document the key impacts on people, process, organisation, technology and information"
+    },
+    {
+      "skillId": "df3bde31-e259-4289-90c7-37140ecd75a8",
+      "detail": "Present information in a manner appropriate to the audience"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2017-03-31T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0556",
+  "tbMainContact": "C.F.Lovelock@leeds.ac.uk",
+  "involvedEmployers": "Allianz, AssistKD, BUPA, NHS Digital, Zurich Insurance, Barclaycard, National Grid, Department of Work and Pensions, Co-operative Bank, Virgin Atlantic, Nationwide, Yorkshire Water",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
+  "createdDate": "2021-06-01T07:59:32 +00:00",
+  "lastUpdated": "2022-12-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2017-03-31T00:00:00 +00:00",
+  "banners": "A temporary dispensation has been applied to the ST0117 V1.1 end point assessment plan for this apprenticeship. The dispensation will remain live until redundant apprentices identified in the dispensation request have completed their EPA, including any resits and retakes, when it will then be withdrawn. The end-point assessment organisation (EPAO) delivering the EPA for the apprenticeship will implement the dispensation as required and agreed by IfATE, supported and monitored by the relevant EQA provider (EQAP).The key changes are:The Training Provider will step in as the employer for the duration of the EPA period in order to ensure that apprentices that have been made redundant can conduct their work based project and complete their apprenticeship.The dispensation applies to the agreed apprentices only. EPAOs must contact IfATE for each individual case. If your organisation is planning delivery of this EPA, you should follow the requirements as detailed in the plan as the dispensation is intended to support specific apprentices only.Please contact the Institute for Apprenticeships and Technical Education via enquiries.ifa@education.gov.uk should you require any further clarity.",
+  "occupationCode": "OCC0117",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0117-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0117-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS, The Chartered Institute for IT",
+      "level": "Register of IT Technicians (RITTech) level 4",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "0e08a80c-f58f-4ad0-b5e8-fd9c987b1101",
+      "dutyDetail": "Apply structured techniques to investigate wants, needs, problems and opportunities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "60215042-dcb2-4763-9735-aec7a6441755",
+        "3e478ee5-aa67-4aaf-97a1-6f4da9fbea5b",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "b6255567-d567-4582-966a-bc524aaf1946",
+        "e1f0297f-2090-4cbc-b02e-95ec693b4fe9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f0b1d096-0955-4b92-bbdf-c5f103437d84",
+      "dutyDetail": "Document the current situation and apply relevant techniques to structure information",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "60215042-dcb2-4763-9735-aec7a6441755",
+        "3e478ee5-aa67-4aaf-97a1-6f4da9fbea5b",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "9d533eb6-25d8-4e42-a296-967896983d13",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7b2d905-679b-46c6-8296-635045988697",
+      "dutyDetail": "Assist in the development of options and recommendations for change",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "60215042-dcb2-4763-9735-aec7a6441755",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "e6a233f4-ac3b-489d-8d82-3987cbc6e1f9",
+        "043f0528-088d-4f0d-8de6-ea14f19c108e",
+        "d486b65f-3321-4992-91af-904eba10d788",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "e1f0297f-2090-4cbc-b02e-95ec693b4fe9",
+        "6a14c635-339f-46b4-a512-14ece03c1c6b",
+        "c39da1b2-ffab-4a57-808f-fdbe80d99bf2",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e69b8aca-f5f2-4af1-ae7c-77afd541584b",
+      "dutyDetail": "Model business processes using relevant techniques",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "6da7d52b-d602-48e6-92f4-2903838335cf",
+        "76e09c7b-626e-45df-b89b-4fe2cfed5df1",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "398d8179-66bf-4538-9101-4247b77110cf",
+        "9e6470aa-f1b6-4558-bb88-a9c9be49194a",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3937bd5-bb25-424f-85ec-2c18b0d9b582",
+      "dutyDetail": "Perform business process analysis and improvement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "6da7d52b-d602-48e6-92f4-2903838335cf",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "6a14c635-339f-46b4-a512-14ece03c1c6b",
+        "3928f629-621f-459c-bd2b-dd0fc0fdd368"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "34ac3d7a-cd0c-4d41-9ead-ebb759108e00",
+      "dutyDetail": "Redesign business process models in order to reflect changes in working practice or deliver improvements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "60215042-dcb2-4763-9735-aec7a6441755",
+        "6da7d52b-d602-48e6-92f4-2903838335cf",
+        "76e09c7b-626e-45df-b89b-4fe2cfed5df1",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "398d8179-66bf-4538-9101-4247b77110cf",
+        "9e6470aa-f1b6-4558-bb88-a9c9be49194a",
+        "f5300d73-cb41-4465-b414-4adb26cfc2e4",
+        "4fdf1d52-b331-4990-bad9-5c427965e986",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d192d964-106c-4b8b-ad6f-6c54cc18fe8f",
+      "dutyDetail": "Undertake requirements elicitation with stakeholders to identify business and user needs",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "43cdae50-e459-41a7-ac54-c2794822764a",
+        "40b86cd8-6943-4098-8615-3dc7088b7a28",
+        "92d4f384-7b87-41dd-a2ab-ab6abf5460bd",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "6a14c635-339f-46b4-a512-14ece03c1c6b",
+        "29adfbcc-87cc-4a2b-9a8f-60115555f03f",
+        "cced5786-8ef3-40ab-a963-e56ae46dd0ee"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3dcbcfae-24df-4d4b-ae74-ccf92c279ae1",
+      "dutyDetail": "Analyse, validate, prioritise and document functional and non-functional requirements for business situations, using relevant techniques",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "8515fccf-dab3-446c-937c-180566cb2adf",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "cced5786-8ef3-40ab-a963-e56ae46dd0ee",
+        "91b06a26-4bb2-42a7-b36f-38239978cb1d",
+        "da983233-1c59-4674-a445-1aa75310bef8",
+        "a275465e-fa7e-459c-8a1e-62ab0ae2f766",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03db6518-7412-4c7b-bbe7-5a6e602a36fa",
+      "dutyDetail": "Identify data requirements relating to business improvement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "43cdae50-e459-41a7-ac54-c2794822764a",
+        "40b86cd8-6943-4098-8615-3dc7088b7a28",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "29adfbcc-87cc-4a2b-9a8f-60115555f03f",
+        "cced5786-8ef3-40ab-a963-e56ae46dd0ee",
+        "9a568d29-0b26-4495-8c63-7a582783d20b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1cb98d61-1c12-4ddc-930a-8b7fb480494d",
+      "dutyDetail": "Assist in the management and controlled change of requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "8515fccf-dab3-446c-937c-180566cb2adf",
+        "aa07c76c-99ee-4da8-9aa6-61e99a5076cf",
+        "92d4f384-7b87-41dd-a2ab-ab6abf5460bd",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "a275465e-fa7e-459c-8a1e-62ab0ae2f766",
+        "470bc44d-36c5-4e51-a885-5ae650280733"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc323677-8354-49dc-bf31-eb567285103f",
+      "dutyDetail": "Support the creation of data models to illustrate how data is represented within a business system",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "9a568d29-0b26-4495-8c63-7a582783d20b",
+        "60ce7991-8e6e-4708-b1ac-ebb6070409ca",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e6b10256-6bc0-42eb-b88a-5d68b8738a8b",
+      "dutyDetail": "Compare current and future state business situations in order to identify the changes required for business improvement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "3e478ee5-aa67-4aaf-97a1-6f4da9fbea5b",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "86844061-33d2-4eb9-8a04-8e77d6c69eb9",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "b6255567-d567-4582-966a-bc524aaf1946",
+        "9d533eb6-25d8-4e42-a296-967896983d13",
+        "72b9b5e0-5ec9-40a5-bd35-2943c3743fec",
+        "4fdf1d52-b331-4990-bad9-5c427965e986",
+        "65b77bfd-df78-4690-acc7-641077010116",
+        "d95fcc48-dff7-4896-af96-049ce98188ab"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "528a0ef6-4904-43d7-8e23-410224553a3e",
+      "dutyDetail": "Define acceptance criteria for business and system changes, and support business acceptance",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "95eddc30-9459-4409-96d2-171e71b51529",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "e6a233f4-ac3b-489d-8d82-3987cbc6e1f9",
+        "e9175836-3f9b-4336-8f6d-7063bc14e576",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "216f9b60-37bb-4621-9e69-1d371d855640",
+        "85b5bbc4-bf83-4004-ad14-729982d7ad6c",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68ed10ea-b602-4f8b-a8c1-8e5eabed85fb",
+      "dutyDetail": "Identify and analyse stakeholders impacted by a proposed change, understand their perspectives and assess how their interests are best managed",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "76f845dc-0bbd-4f4d-90aa-335b3c60a299",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "19890bb6-5bc7-455b-bb7a-8c993fb2a14d",
+        "18cc58f3-c57b-47af-978f-f1dce114318c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "336b597c-857a-4dae-b64c-9ab8b42a2d9f",
+      "dutyDetail": "Assess and document the drivers, costs, benefits and impacts of a proposed business change",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b0daf507-2f43-4f5e-b76a-cdbe936bfaaf",
+        "0d25ceaa-2ff7-44fe-9b0b-ee8109c3e9ab",
+        "f2d5f7f5-ca95-41d4-8df7-cd9d2a463b7f",
+        "cf0bd081-6079-4009-b202-fc6977002ee2",
+        "6360cefb-ef54-40ba-ba61-c2b55c397c96",
+        "fdecb273-ec8c-4fe6-9240-c9e0e347fd03",
+        "c6aac90e-9ac0-4ff5-b6cd-ca8bbabc2d60",
+        "bf9cae72-8dba-45f6-9c1c-e2bd600438e7",
+        "fa158e85-8ac5-4275-a15c-0a2c3bae91b3",
+        "ed92de72-6692-4adc-ad7d-57c6b68a6f24",
+        "a2d2d7a4-9f16-4691-a79f-6054bcc561bc",
+        "3d184017-8403-476e-b965-d197878ef30f"
+      ],
+      "mappedKnowledge": [
+        "55d73b38-3a48-4e27-991d-04b90abd8d9c",
+        "0001267e-4a2a-4f41-97a6-d81d3d162679",
+        "c0444e28-965f-4724-bb5e-017f70cadb70",
+        "cf33645f-90fe-4723-ac19-f7b9427a13b6",
+        "a971054b-5310-4816-9119-89b82235c3e3",
+        "bec61c4d-4351-4f5d-a6bd-1e0bd0ce6ca6",
+        "7bf53bf9-90bc-4182-a406-6540c933fa7c",
+        "60215042-dcb2-4763-9735-aec7a6441755",
+        "10b695f1-412e-4e31-a8b0-a7df901b9292",
+        "bad46493-605f-4f48-9689-a7032a915bb5",
+        "8a9bbbaf-df1d-411e-adb8-da2e76c97ffb",
+        "043f0528-088d-4f0d-8de6-ea14f19c108e",
+        "d486b65f-3321-4992-91af-904eba10d788",
+        "e4646898-4ed0-4c6b-9ed5-b1b4eea75544",
+        "2750486c-d3e7-4777-bebc-b2bfaee66c47",
+        "5d6b7bd5-a3a9-4b4f-ab4e-8b18e236be35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "98475c63-cf3e-46fe-975e-69cfe54dae71",
+        "c67a6427-3766-4dbb-a2cf-563df32a190b",
+        "b6255567-d567-4582-966a-bc524aaf1946",
+        "9d533eb6-25d8-4e42-a296-967896983d13",
+        "6a14c635-339f-46b4-a512-14ece03c1c6b",
+        "d95fcc48-dff7-4896-af96-049ce98188ab",
+        "a61a647c-0355-41ff-a0cd-64156f95a76e",
+        "3545b97c-bcfc-4804-9e3d-f1f1b216775a",
+        "df3bde31-e259-4289-90c7-37140ecd75a8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-12-30T00:00:00"
+}
