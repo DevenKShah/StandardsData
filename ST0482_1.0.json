@@ -1,84 +1,1108 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 327,
   "referenceNumber": "ST0482",
+  "learningAimClassCode": "",
   "title": "Digital and technology solutions specialist (integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/327",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0482",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2022-01-14T00:00:00",
   "earliestStartDate": "2018-08-07T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Investigating, identifying and implementing technological strategic solutions.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "Digital and Technology Solution Specialist",
     "Digital",
     "Technology",
     "Technology Solution Specialist",
-    "degree"
+    "degree",
+    "ICT"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Big data analyst",
+    "Data and insight analyst",
+    "Data science specialist",
+    "Data management specialist",
+    "Analytics lead",
+    "Software experience lead",
+    "Software engineering specialist",
+    "Solution developer",
+    "Analyst programmer",
+    "Senior software developer",
+    "Business and enterprise architecture specialist",
+    "Enterprise architect",
+    "Business architect",
+    "Systems architect",
+    "Software assurance engineer",
+    "Software test specialist",
+    "System test analyst",
+    "IT consultancy specialist",
+    "Software consultant",
+    "Business change specialist"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1966/st0482_digital-technology-solutions-specialist_l7_ap-final-for-publishing.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5623/st0482_digital-technology-solutions-specialist_l7_ap-for-publication_2021_10_21.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
-  "standardInformation": "&lt;h3&gt;Role Profile&lt;/h3&gt;\r\n&lt;p&gt;A Digital &amp;amp; Technology Solutions Specialist maintains digital and technology strategies through technology leadership; investigating, identifying and implementing technological strategic solutions. They direct digital technology provision by studying organisation goals, strategies, and practices and delivering and supporting strategic plans for implementing digital technologies. They are confident, competent and capable individuals able to apply leadership and change management skills to operate in a range of digital and technology related specialist roles. This standard is based upon a core set of knowledge, skills and behaviours that will be supplemented by one specialism detailed below.&lt;/p&gt;\r\n&lt;h3&gt;Entry Requirements&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include a degree at 2.1 or higher in a relevant subject, although some employers will accept other relevant qualifications or experience.&lt;/p&gt;\r\n&lt;h3&gt;Qualifications&lt;/h3&gt;\r\n&lt;p&gt;MSc Digital &amp;amp; Technology Solutions. Apprentices without level 2 English and maths will need to achieve this level prior to taking the endpoint assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/p&gt;\r\n&lt;h3&gt;Level&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship is at level 7.&lt;/p&gt;\r\n&lt;h3&gt;Duration&lt;/h3&gt;\r\n&lt;p&gt;The typical duration for this apprenticeship is 18 months.&lt;/p&gt;\r\n&lt;h3&gt;Review date&lt;/h3&gt;\r\n&lt;p&gt;This standard will be reviewed in three years from the date of publication.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Core Technical Skills&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Is able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Identify, document, review and design complex IT enabled business processes that define a set of activities that will accomplish specific organisational goals and provides a systematic approach to improving those processes;&lt;/li&gt;\r\n&lt;li&gt;Design and develop technology roadmaps, implementation strategies and transformation plans focused on digital technologies to achieve improved productivity, functionality and end user experience in an area of technology specialism;&lt;/li&gt;\r\n&lt;li&gt;Deliver workplace transformations through planning and implementing technology based business change programmes including setting objectives, priorities and responsibilities with others in an area of technology specialism;&lt;/li&gt;\r\n&lt;li&gt;Negotiate and agree digital and technology specialism delivery budgets with those with decision-making responsibility;&lt;/li&gt;\r\n&lt;li&gt;Develop and deliver management level presentations which resonate with senior stakeholders, both business and technical;&lt;/li&gt;\r\n&lt;li&gt;Professionally present digital and technology solution specialism plans and solutions in a well-structured business report;&lt;/li&gt;\r\n&lt;li&gt;Demonstrate self-direction and originality in solving problems, and act autonomously in planning and implementing digital and technology solutions specialist tasks at a professional level;&lt;/li&gt;\r\n&lt;li&gt;Be competent at negotiating and closing techniques in a range of interactions and engagements, both with senior internal and external stakeholders;&lt;/li&gt;\r\n&lt;li&gt;Evaluate the significance of human factors to leadership in the effective implementation and management of technology enabled business processes;&lt;/li&gt;\r\n&lt;li&gt;Develop own leadership style and professional values that contributes to building high performing teams;&lt;/li&gt;\r\n&lt;li&gt;Apply broader technical knowledge combined with an understanding of the business context, and how it is changing, to deliver to the company’s business strategy;&lt;/li&gt;\r\n&lt;li&gt;Demonstrate effective technology leadership and change management skills for managing technology driven change and continuous improvement;&lt;/li&gt;\r\n&lt;li&gt;Create and implement innovative technological strategies to support the development of new products, processes and services that align with the company’s business strategy, and develop and communicate compelling business proposals to support these.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Core Technical Knowledge&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The strategic importance of technology enabled business processes, and how they are designed and managed to determine a firm’s ability to compete effectively;&lt;/li&gt;\r\n&lt;li&gt;The principles of business transformation and how organisations integrate different management functions in the context of technological change;&lt;/li&gt;\r\n&lt;li&gt;The role of leadership in contemporary technology based organisations;&lt;/li&gt;\r\n&lt;li&gt;Own employer’s business objectives and strategy, its position in the market and how own employer adds value to its clients through the services and/or products they provide;&lt;/li&gt;\r\n&lt;li&gt;How to justify the value of technology investments and apply benefits management and realisation;&lt;/li&gt;\r\n&lt;li&gt;How to monitor technology related market trends and research and collect competitive intelligence;&lt;/li&gt;\r\n&lt;li&gt;The personal leadership qualities that are required to establish and maintain an organisations technical reputation.&lt;/li&gt;\r\n&lt;li&gt;The role of leaders as change agents and identify contributors to successful implementation;&lt;/li&gt;\r\n&lt;li&gt;Technology road-mapping concepts and methods and how to apply them;&lt;/li&gt;\r\n&lt;li&gt;The role of learning and talent management in successful business operations.&lt;/li&gt;\r\n&lt;li&gt;Inspire and motivate others to deliver excellent technical solutions and outcomes&lt;/li&gt;\r\n&lt;li&gt;Establish high levels of performance in digital and technology solutions activities&lt;/li&gt;\r\n&lt;li&gt;Be results and outcomes driven to achieve high key performance outcomes for digital and technology solutions objectives&lt;/li&gt;\r\n&lt;li&gt;Promote a high level of cooperation between own work group and other groups to establish a technology change led culture&lt;/li&gt;\r\n&lt;li&gt;Develop and support others in developing an appropriate balance of leadership and technical skills&lt;/li&gt;\r\n&lt;li&gt;Create strong positive relationships with team members to produce high performing technical teams&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Core Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Inspire and motivate others to deliver excellent technical solutions and outcomes&lt;/li&gt;\r\n&lt;li&gt;Establish high levels of performance in digital and technology solutions activities&lt;/li&gt;\r\n&lt;li&gt;Be results and outcomes driven to achieve high key performance outcomes for digital and technology solutions objectives&lt;/li&gt;\r\n&lt;li&gt;Promote a high level of cooperation between own work group and other groups to establish a technology change led culture&lt;/li&gt;\r\n&lt;li&gt;Develop and support others in developing an appropriate balance of leadership and technical skills&lt;/li&gt;\r\n&lt;li&gt;Create strong positive relationships with team members to produce high performing technical teams&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Specialism Occupations&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A Digital and Technological Solutions Professional will choose one of the following technical specialisms:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Software engineering specialist&lt;/li&gt;\r\n&lt;li&gt;Data analytics specialist&lt;/li&gt;\r\n&lt;li&gt;Digital business and enterprise systems architecture specialist&lt;/li&gt;\r\n&lt;li&gt;System test and assurance specialist&lt;/li&gt;\r\n&lt;li&gt;IT strategy specialist&lt;/li&gt;\r\n&lt;li&gt;IT business analysis specialist&lt;/li&gt;\r\n&lt;li&gt;Network engineering specialist&lt;/li&gt;\r\n&lt;li&gt;IT operations management specialist&lt;/li&gt;\r\n&lt;li&gt;IT project management specialist&lt;/li&gt;\r\n&lt;li&gt;Cyber security technology specialist&lt;/li&gt;\r\n&lt;li&gt;IT / digital futures management specialist&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Software Engineering Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A software engineering specialist architects, develops and delivers complex software solutions from agreed specifications using contemporary standards and tools, to achieve a well-engineered result. They lead the design and development of bespoke secure and scalable software solutions and services for distributed web, mobile and fixed PC and mainframe platforms throughout the development lifecycle. They work across different platforms and develop software using programming languages appropriate to the applications being developed.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Software experience lead, software engineering specialist, solution developer, analyst programmer, senior software developer.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for Software Engineering Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Architect, build and support leading edge concurrent software platforms that are performant to industry standards and deliver responsive solutions with good test coverage;&lt;/li&gt;\r\n&lt;li&gt;Drive the technology decision-making and development process for projects of varying scales, considering current technologies including DevOps and Cloud Computing, and evaluate different technology design and implementation options making reasoned proposals and recommendations;&lt;/li&gt;\r\n&lt;li&gt;Develop and deliver, distributed or semi-complex software solutions that are scalable and which deliver innovative user experiences and journeys that encompass cross-functional teams, platforms and technologies;&lt;/li&gt;\r\n&lt;li&gt;Update current software products, improving the efficiency and functionality, and build new features to product specifications;&lt;/li&gt;\r\n&lt;li&gt;Accomplish planned software development tasks that deliver the expected features, within specified time constraints, security and quality requirements;&lt;/li&gt;\r\n&lt;li&gt;Be accountable for the quality of deliverables from one or more software development teams (source code quality, automated testing, design quality, documentation etc.) and following company standard processes (code reviews, unit testing, source code management etc.).&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Software Engineering Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The rationale for software platform and solution development, including the organisational context;&lt;/li&gt;\r\n&lt;li&gt;The various inputs, statements of requirements, security considerations and constraints that guide solution architecture and the development of logical and physical systems&#39; designs;&lt;/li&gt;\r\n&lt;li&gt;The methodologies designed to help create approaches for organizing the software engineering process, the activities that need to be undertaken at different stages in the life-cycle and techniques for managing risks in delivering software solutions;&lt;/li&gt;\r\n&lt;li&gt;The approaches used to modularise the internal structure of an application and describe the structure and behaviour of applications used in a business, with a focus on how they interact with each other and with business users;&lt;/li&gt;\r\n&lt;li&gt;How to design, develop and deploy software solutions that are secure and effective in delivering the requirements of stakeholders and the factors that affect the design of a successful code;&lt;/li&gt;\r\n&lt;li&gt;The range of metrics which might be used to evaluate a delivered software product.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Data Analytics Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A data analytics specialist investigates business data requirements, and applies data selection, data curation, data quality assurance and data investigation and engineering techniques. This will help the business to most effectively organise their data and they will provide advice and guidance to database designers and others in using the data structures and associated data components efficiently. They will undertake data processing to produce data sets for study and will perform investigations using techniques including machine learning to reveal new business opportunities. They also present data and investigation results along with compelling business opportunities reports to senior stakeholders.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Big data analyst, data and insight analyst, data science specialist, data management specialist, analytics lead.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for Data Analytics Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Be able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Identify and select the business data that needs to be collected and transitioned from a range of data systems; acquire, manage and process complex data sets, including large-scale and real-time data;&lt;/li&gt;\r\n&lt;li&gt;Undertake analytical investigations of data to understand the nature, utility and quality of data, and developing data quality rule sets and guidelines for database designers;&lt;/li&gt;\r\n&lt;li&gt;Formulate analysis questions and hypotheses which are answerable given the data available and come to statistically sound conclusions;&lt;/li&gt;\r\n&lt;li&gt;Conduct high-quality complex investigations, employing a range of analytical software, statistical modelling &amp;amp; machine learning techniques to make data driven decisions solve live commercial problems;&lt;/li&gt;\r\n&lt;li&gt;Document and describe the data architecture and structures using appropriate data modelling tools, and select appropriate methods to present data and results that support human understanding of complex data sets;&lt;/li&gt;\r\n&lt;li&gt;Scope and deliver data analysis projects, in response to business priorities, create compelling business opportunities reports on outcomes suitable for a variety of stakeholders including senior clients and management.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Data Analytics Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;How key algorithms and models are applied in developing analytical solutions and how analytical solutions can deliver benefits to organisations;&lt;/li&gt;\r\n&lt;li&gt;The information governance requirements that exist in the UK, and the relevant organisational and legislative data protection and data security standards that exist. The legal, social and ethical concerns involved in data management and analysis;&lt;/li&gt;\r\n&lt;li&gt;The principles of data driven analysis and how to apply these. Including the approach, the selected data, the fitted models and evaluations used to solve data problems;&lt;/li&gt;\r\n&lt;li&gt;The properties of different data storage solutions, and the transmission, processing and analytics of data from an enterprise system perspective. Including the platform choices available for designing and implementing solutions for data storage, processing and analytics in different data scenarios;&lt;/li&gt;\r\n&lt;li&gt;How relevant data hierarchies or taxonomies are identified and properly documented;&lt;/li&gt;\r\n&lt;li&gt;The concepts, tools and techniques for data visualisation, including how this provides a qualitative understanding of the information on which decisions can be based.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Digital Business and Enterprise Systems Architecture Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A digital business and enterprise systems architecture specialist designs, documents and maintains technical architectures that describes the best approach to provision the business technical infrastructure. This typically involves the interpretation of business goals and drivers into an operating model and the description of inter-relationships between the people, organisation, processes, data, and technology with the external environment. They implement an information technology systems architecture to support or accomplish the strategy of the enterprise.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Business and enterprise architecture specialist, enterprise architect, business architect, systems architect.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for Digital Business and Enterprise Systems Architecture Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Design and maintain digital systems architectures for online, cloud or mobile platforms. Evaluate alternative architectural solutions, ensuring the architecture is optimal for the business context in terms of deployment, operation and continuous enhancements;&lt;/li&gt;\r\n&lt;li&gt;Produce logical and physical architectural designs, mapping architectural principles and constraints onto the architectural solution. Evaluate and recommend products and services from software and solution providers in support of the architecture designs;&lt;/li&gt;\r\n&lt;li&gt;Recommend optimal delivery roadmaps and develop system implementation plans for enabling the proposed architecture, maintaining operational stability whilst delivering enterprise architecture-led change initiatives to improve business performance;&lt;/li&gt;\r\n&lt;li&gt;Implement architectural design governance frameworks that include risk mitigation strategies associated with the architecture. Define, develop and maintain operating models, technical design principles and enterprise architecture artefact guidelines;&lt;/li&gt;\r\n&lt;li&gt;Document architectures and roadmaps that enable the logical and physical system to be defined, to the detail appropriate to the audience and communicate the solutions and their importance and value to stakeholders;&lt;/li&gt;\r\n&lt;li&gt;Work with implementation teams to support the delivery of new or improved architectures, managing stakeholder expectations to reconcile conflicting business requirements.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Digital Business and Enterprise Systems Architecture Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The hardware and software platforms relevant to the business context, and the applications hosted by these;&lt;/li&gt;\r\n&lt;li&gt;The relevant standards, tools, approaches and processes for developing and communicating enterprise architectures, optimising architectural solutions and mitigating risks;&lt;/li&gt;\r\n&lt;li&gt;How to create architecture descriptions and designs, using industry standard tools and techniques to build a coherent representation of an enterprise architecture consisting deployed business services, applications and technology;&lt;/li&gt;\r\n&lt;li&gt;The need for different models, views and representations of enterprise architectures to describe the structure and behaviour of applications, how they interact with each other, the data consumed and produced, and the interactions with business users;&lt;/li&gt;\r\n&lt;li&gt;The relationship between business strategy, business goals, and an enterprise architecture, including the importance of usability, reliability, performance, maintainability, and security in architectural development;&lt;/li&gt;\r\n&lt;li&gt;How to assess enterprise architectures for relevance and review their suitability in supporting the enterprise.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;System Test and Assurance Specialist&lt;/h3&gt;\r\n&lt;p&gt;A system test and assurance specialist ensures the high quality of software products, and digital system solutions through establishing appropriate test environments and planning, designing and conducting structured system functionality tests and performance tests against the specified requirements for the system under test. They define test cases, creating appropriate and representative test data for each test case. They execute a range of tests using a range of manual and automated test methods and, analyse the test results and confirm when a digital system solution meets its specified functionality and performance targets.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Software assurance engineer, software test specialist, system test analyst.&lt;/p&gt;\r\n&lt;h4&gt;Skills for System Test and Assurance Specialist&lt;/h4&gt;\r\n&lt;p&gt;Be able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Test Environment: Specify and configure digital system solution test environments to represent the usage context, against which tests can be execute in line with the organisational test strategy;&lt;/li&gt;\r\n&lt;li&gt;Test Planning: Create test plans that specify the digital system solution testing objectives, test deliverables, test schedule, test activity estimates and the required test resources (testers, test software and test hardware) required for digital system solution testing;&lt;/li&gt;\r\n&lt;li&gt;Test Cases: Write clear, intuitive test cases that are used to verify that each element of the digital system solution under test performs as specified. Use industry standard test management tools to define test cases and specify test data;&lt;/li&gt;\r\n&lt;li&gt;Test Execution: Apply appropriate test techniques to execute tests for reach test case using both manual test methods and automated testing tools as appropriate in a commercial environment;&lt;/li&gt;\r\n&lt;li&gt;Test Results: Document, manage and maintain test results and resolutions. Produce defect reports to identify, characterise and prioritise identified defects and aid their resolution. Compile written reports on test activities, outcomes, opportunities and risks, and explain recommendations to stakeholders;&lt;/li&gt;\r\n&lt;li&gt;Test Reviews: Define review and refine test methodologies in line with best practice test strategies and practices. Develop strategies for increased exploitation of reusable automated testing approaches.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for System Test and Assurance Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The fundamental software testing and assurance concepts and methods; including goals, challenges and limitations of software testing;&lt;/li&gt;\r\n&lt;li&gt;How to create, configure and maintain multi-server test environments;&lt;/li&gt;\r\n&lt;li&gt;How to design test cases effectively with various testing strategies including the need for representative test data;&lt;/li&gt;\r\n&lt;li&gt;How to select and justify appropriate testing techniques for a software testing situation, taking account of their strengths and weaknesses and the software’s domain, requirements and development maturity;&lt;/li&gt;\r\n&lt;li&gt;How to implement standard testing and assurance methodologies and procedures for a range of digital solution platforms including front-and back-office enterprise, mobile apps and web based applications. This includes the tools and techniques that can be used for automated testing, how to apply these and their limitations;&lt;/li&gt;\r\n&lt;li&gt;The need to deliver clear test results, defect reports and associated test documentation.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;IT Strategy Specialist&lt;/h3&gt;\r\n&lt;p&gt;An IT strategy specialist drives the development and implementation of IT strategy by providing consultative advice and guidance to IT managers and stakeholders to help transform their operating model through the delivery of technology based change initiatives. They define, deliver, and support strategic plans for implementing information technologies. They build the case for change and drive support from senior management. They identify opportunities for, and manage the delivery of, system rationalisation and system integration programmes. They recommend revisions to information technology strategies, policies, and procedures by evaluating organisation outcomes; identifying problems; evaluating trends; anticipating requirements. They verify application results by conducting system audits of technology enhancements implemented.&lt;/p&gt;\r\n&lt;p&gt;Job roles: IT consultancy specialist, Software consultant, business change specialist, business process management specialist.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for IT Strategy Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Assess an organisation&#39;s technology operations and their continued capability to deliver the organisations technology based products and services, through defining, delivering, and supporting strategic plans for implementing digital technologies and revising as required;&lt;/li&gt;\r\n&lt;li&gt;Perform strategic analysis of organisational information systems, their structure and current effectiveness, in order to make systems rationalisation, systems integration and other improvement proposals:&lt;/li&gt;\r\n&lt;li&gt;Engage with business units to produce technical solution proposals for different technology domains such as infrastructure, cloud, application and storage platforms aligned with business demand;&lt;/li&gt;\r\n&lt;li&gt;Develop and implement technology lifecycle roadmaps, assessing different technical options and developing technology strategies aligned with business priorities and agreeing the case for change from senior management;&lt;/li&gt;\r\n&lt;li&gt;Plan and manage technology change delivery and migration programmes, ensuring successful implementation of the chosen technology, smooth delivery of related consultancy services to clients and verifying application results using audits;&lt;/li&gt;\r\n&lt;li&gt;Analyse and assess complex digital business problems through collecting and reviewing business data and formulating technology based design solutions.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Strategy Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The role and nature of IT consultancy as a mechanism for creating business improvements and which typical responsibilities and activities are included;&lt;/li&gt;\r\n&lt;li&gt;The contribution of contemporary IT architectures (including cloud deployment) as well as software platforms and applications appropriate to the context of IT consultancy;&lt;/li&gt;\r\n&lt;li&gt;The importance of clearly identifying the client issue, applying a structured approach and selecting appropriate analytical tools and techniques;&lt;/li&gt;\r\n&lt;li&gt;The diversity of IT consultancy interventions and approaches and the importance of scoping interventions effectively and agreeing clear contracts with clients;&lt;/li&gt;\r\n&lt;li&gt;How to apply a range of simple, recognised data gathering, problem solving and analytical tools and techniques to achieve agreed outcomes, presenting and communicating the results of research in reports and presentations to senior stakeholders;&lt;/li&gt;\r\n&lt;li&gt;The importance of client relationship, methods of establishing engagement with the client and the importance of communication, consultation and negotiation in managing clients.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;IT Business Analysis Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;An IT business analyst is focused on identifying, prioritising and documenting business requirements that specify the functional, non-functional and performance outcomes of software development projects. They are responsible for delivering a consistent, clear and detailed set of business requirements to support technology change programmes, analysing key processes and producing clear, accurate, agreed documentation. They develop plans and proposals for the steps to be taken (including technology selection/ development) to realise the business requirements and at the same time develop, support and improve existing standards for business analysis processes and deliverables. They investigate operational requirements of new or changed processes, through uncovering, discussing and challenging client requirements, and then document those requirements in the form of a comprehensive specification. They work iteratively with stakeholders, to identify potential benefits and available options for consideration, and define acceptance tests.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Business analysis specialist, business analyst.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for IT Business Analysis Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Be able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Lead the gathering of requirements through elicitation, validation, prioritisation and documentation of high level and detailed system requirements, both functional and non-functional, using appropriate documentation and modelling techniques;&lt;/li&gt;\r\n&lt;li&gt;Lead business process workshops for understanding the client business environment and that analyse, develop and document end-to-end business processes and document product definitions, stakeholder needs, product features, and corresponding functional specifications;&lt;/li&gt;\r\n&lt;li&gt;Manage requirements ensuring that there is traceability through the project lifecycle from initiation to final delivery;&lt;/li&gt;\r\n&lt;li&gt;Map requirements with existing functionality and identify gaps that require additional configuration or customisation;&lt;/li&gt;\r\n&lt;li&gt;Drive the prioritisation, documentation and communication of business requirements throughout the project lifecycle, using a variety of recognised techniques and tools;&lt;/li&gt;\r\n&lt;li&gt;Communicate requirements and other business analysis findings to internal and external team stakeholders.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Business Analysis Specialist &lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;How to analyse and deconstruct project briefs, translating them into detailed functional and technical specifications covering complex scenarios and understanding interdependencies;&lt;/li&gt;\r\n&lt;li&gt;How to deliver system requirements, including the methods and techniques for analysing the business domain and producing business requirements;&lt;/li&gt;\r\n&lt;li&gt;How to manage and document change with the business and communicate to the development team;&lt;/li&gt;\r\n&lt;li&gt;The role, functions and processes of information systems in achieving business objectives;&lt;/li&gt;\r\n&lt;li&gt;The analytical and computer based tools, techniques and modelling approaches that are required for the thorough analysis and solution of complex decision problems in a business context, together with the advantages and disadvantages in using them;&lt;/li&gt;\r\n&lt;li&gt;The concepts of organisational context, business strategy, stakeholder, business systems and process thinking, and change management for the business requirements analysis.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Network Engineering Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A network engineering specialist will take responsibility for the secure network environment and implement configuration changes across different types of network devices/services deployed across an enterprise based on approved design/change documentation. They create secure network solutions, high and low level designs, migrations or new device implementations. They also manage network operations and analyse and solve complex network related problems, identify root cause of issues and make appropriate recommendations to avoid future failure. They pro actively investigate and advise on network improvements across the range of network services. They respond to changing business needs and develop and maintain network technology roadmaps.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Network specialist, network infrastructure engineer, network planner, network designer, network support specialist.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for Network Engineering Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Be able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Take responsibility for design, build and deployment activities to deliver appropriate secure network infrastructure solutions to meet customer requirements at an enterprise level and within budget, including enhancements and network configuration updates;&lt;/li&gt;\r\n&lt;li&gt;Formulate detailed network and storage specifications for stable and secure computing operations in a dynamic environment identifying new networking services and capabilities;&lt;/li&gt;\r\n&lt;li&gt;Manage the operation, maintenance and support of secure network environments, including diagnosing and troubleshooting wireless, security, switching, phone and other network-related issues for network related incidents;&lt;/li&gt;\r\n&lt;li&gt;Select and apply network monitoring tools to aid planning network upgrades before they become critical. Make recommendations for improvements to security, scalability, manageability, and performance across a network, storage, and related technologies;&lt;/li&gt;\r\n&lt;li&gt;Produce network technology roadmaps to meet evolving business needs for enterprise computing environments, including common network services, cloud services, web application hosting, databases, high-availability services, security and backup/recovery;&lt;/li&gt;\r\n&lt;li&gt;Ensure network infrastructure solutions chosen fit within the overall enterprise infrastructure architecture, security architecture and security standards.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Network Engineering&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;&lt;strong&gt;Specialist &lt;/strong&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;How IT networks impact the organisation, business objectives and processes and the application of different approaches to network organisation and management;&lt;/li&gt;\r\n&lt;li&gt;The principles of secure network design, architecture, implementation and assurance, including how to develop and analyse network protocols by using networking simulation;&lt;/li&gt;\r\n&lt;li&gt;How to build and maintain secure networks, including the types of countermeasures that can be put in place to identify, reduce or prevent problems caused by network attacks or misuse;&lt;/li&gt;\r\n&lt;li&gt;How to implement quality of services (QoS) of communication networks in terms of throughput, reliability and delay, and the importance of ensuring that performance, security, availability and continuity standards meet required service levels and business needs;&lt;/li&gt;\r\n&lt;li&gt;Current industry standard network architectures and their individual protocol layers, including the algorithms employed, the OSI (Open Standard Interconnection) model, systematic troubleshooting approaches and how to apply them;&lt;/li&gt;\r\n&lt;li&gt;Network industry trends and technical opportunities, assessing their viability for use within different business scenarios.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;IT Operations Management Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;An IT operations management specialist takes responsibility for the availability, performance and resilience of all business IT systems, maintaining the operational integrity of the technologies and services provided, in line with strategy, governance and regulatory requirements. They contribute to strategic planning to ensure the IT infrastructure meets existing and future business requirements. They coordinate the transition of new systems into the live business operations environment. They manage IT operations performance monitoring and ensure that services and components meet their agreed performance targets and manage third party IT systems and services.&lt;/p&gt;\r\n&lt;p&gt;Job roles: IT operations management specialist, operations manager, IT service manager.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for IT Operations Management Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Take responsibility for the availability, performance and resilience of all business IT systems including core admin and business platforms, web applications and related interfaces and support services and the operational maintenance of servers, storage and other technical back-office elements;&lt;/li&gt;\r\n&lt;li&gt;Design and implement short and long-term strategic plans to ensure the IT infrastructure and services capacity and capability meets existing and future requirements;&lt;/li&gt;\r\n&lt;li&gt;Manage the transition and maintenance of new or updated solutions or other changes into the live operations environments, this includes scheduled installation of software updates, backups and patches to development and production systems;&lt;/li&gt;\r\n&lt;li&gt;Review and develop the organisation’s procedures for monitoring and measuring the performance of IT operations and produce and maintain detailed documentation on operational IT systems, processes and procedures;&lt;/li&gt;\r\n&lt;li&gt;Ensure that IT systems are compliant with information governance, regulatory and mandatory requirements and standards including local inventory maintenance and software license management;&lt;/li&gt;\r\n&lt;li&gt;Manage 3&lt;sup&gt;rd&lt;/sup&gt; party IT systems and services and business applications line with the IT strategy, ensuring that their availability and performance meets the firm&#39;s current and future requirements including responsibility for IT vendor, contract and outsourcing management.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Operations Management Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The principles governing modern approaches to the management of IT enabled operations and the development, management, application and implementation of information systems to support business processes and their impact upon organisations;&lt;/li&gt;\r\n&lt;li&gt;The importance of IT operations within a business for competitiveness and how key aspects of customer service such as quality, cost, delivery and customisation are linked to the type of system adopted;&lt;/li&gt;\r\n&lt;li&gt;The role and function of information technology in supporting operations and supply chain management;&lt;/li&gt;\r\n&lt;li&gt;How the design and management of a firm’s IT enabled processes interact to determine a firm’s cost structure and its ability to compete effectively in terms of non-cost measures such as quality, variety and speed;&lt;/li&gt;\r\n&lt;li&gt;The key issues in the design of IT enabled operations (such as process design and analysis) and in the management of those operations (such as planning, scheduling and optimisation);&lt;/li&gt;\r\n&lt;li&gt;The principles of asset management and support for company IT related hardware and devices.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;IT Project Management Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;An IT project management specialist takes full responsibility for the evolution and development of software solutions for web, mobile and fixed platform solutions. Their main objective is to ensure that the delivery and iteration of new solutions meets the client’s expectations. They establish close and trusted relationships with business stakeholders and solutions teams to deliver the roadmap, governance and supporting processes. They manage the programme roadmap, communicating milestones and progress updates with client stakeholders.&lt;/p&gt;\r\n&lt;p&gt;Job roles: IT delivery manager, web delivery manager, IT development manager, IT development manager Software product management specialist.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for IT Project Management Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Be able to:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Take responsibility for the evolution and development of software solutions for web, mobile and fixed platform solutions, leading the scoping, sizing, and estimating efforts for assigned engagements;&lt;/li&gt;\r\n&lt;li&gt;Manage the demand planning, forecasting, budgeting, and supply planning for software solutions development delivery. Identify resources, assign responsibilities and formulate work packages in accordance with organisational standards;&lt;/li&gt;\r\n&lt;li&gt;Manage the work of the software solution development teams to ensure optimal resource utilisation and engagement, ensuring that the evolution and development of software solutions meets the software specification and client’s expectations;&lt;/li&gt;\r\n&lt;li&gt;Ensure all delivery aspects of IT solutions adhere to an appropriate software development methodology (including Agile, and Waterfall);&lt;/li&gt;\r\n&lt;li&gt;Manage the solution roadmap, communicating milestones providing status reports and progress updates of solutions to client stakeholders and managing documentation in accordance with the organisation’s standards;&lt;/li&gt;\r\n&lt;li&gt;Establish close and trusted relationships with clients, business stakeholders and software solutions teams to deliver the roadmap, governance and supporting processes and successfully negotiate with clients on technical matters, and manage client expectations.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Project Management Specialist&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;p&gt;Knows and understands:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The characteristics of IT project management and how it drives change within organisations, through the organisational IT and systems strategy and its links to the business strategy. The importance of delivering business value via IT projects, and how this is achieved;&lt;/li&gt;\r\n&lt;li&gt;How to select appropriate modern software development methods for a variety of software projects, including the processes, methodologies, tools and standards to improve the cost, speed and quality of solution development;&lt;/li&gt;\r\n&lt;li&gt;How to analyse and manage the development processes/stages, quality control, delivery and documentation/communication etc. of large scale software systems;&lt;/li&gt;\r\n&lt;li&gt;How to apply estimation techniques for software solution development activities, and planning/tracking techniques to monitor progress of those activities in software development;&lt;/li&gt;\r\n&lt;li&gt;How to communicate software solution milestones and progress updates with client stakeholders;&lt;/li&gt;\r\n&lt;li&gt;How to deliver the roadmap, governance and supporting processes for software solutions.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;Cyber Security Technical Specialist&lt;/h3&gt;\r\n&lt;p&gt;A cyber security technical specialist provides advice and guidance on the application and operation of elementary physical, procedural and technical security controls. They co-ordinate and perform security vulnerability assessments and penetration testing for networked information systems. They deliver objective insights into the existence of vulnerabilities reporting on the effectiveness of defences, countermeasures and mitigating controls and identifying issues to resolve. They conduct treat intelligence analysis to keep up to date with the changing threat landscape. They identify and correlate actionable security events and perform forensic analysis to identify possible breaches and preserve evidence.&lt;/p&gt;\r\n&lt;p&gt;Job roles: Cyber security technical specialist, penetration tester, vulnerability tester, cyber security forensics specialist.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for Cyber Security Technology Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Plan and carry out a variety of security testing strategies on IT infrastructures (fixed and wireless), middle-ware and applications, to identify new issues and recommend remediation and enhancements to security policies and information technology procedures;&lt;/li&gt;\r\n&lt;li&gt;Perform cyber threat intelligence analysis to research, analyse and evaluate technical threats by reviewing open source and other information from trusted sources for new vulnerabilities, malware, or other threats that have the potential to impact the organisation;&lt;/li&gt;\r\n&lt;li&gt;Identify, investigate and correlate actionable security events, including performing network traffic analysis using a range of techniques relevant to the security of communication networks to assess security risks and escalating where appropriate;&lt;/li&gt;\r\n&lt;li&gt;Conduct a vulnerability assessment, to identify and report on vulnerability issues and possible solutions arising, including recommending cost-effective mitigations comprising careful combinations of technical, procedural and administrative controls;&lt;/li&gt;\r\n&lt;li&gt;Select and apply cyber security forensic tools and techniques for attack reconstruction, including forensic analysis and volatile data collection and analysis;&lt;/li&gt;\r\n&lt;li&gt;Conduct analysis of attacker tools providing indicators for enterprise defensive measures including classifying and identifying attack patterns.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Cyber Security Technology Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;The principles of threat intelligence, modelling and assessment. The range of modern attack techniques and how and where to research emerging attack techniques to inform the development of improved security controls, countermeasures and policies and standards;&lt;/li&gt;\r\n&lt;li&gt;How to use human factor analysis in the assessment of threats, including the motivations and methods adopted by a wide range of human threat actors;&lt;/li&gt;\r\n&lt;li&gt;How to select and apply tools and techniques to carry out a variety of security testing strategies including vulnerability scanning, penetration testing and ethical hacking, recognising that security testing itself cannot guarantee security and only reveal gaps in security provisioning;&lt;/li&gt;\r\n&lt;li&gt;The different approaches and design principles that are used to engineer secure systems, focusing on the importance of building in security, privacy and resilience in the initial design;&lt;/li&gt;\r\n&lt;li&gt;How to develop and implement security event response programmes, security event handling, and operational security activities;&lt;/li&gt;\r\n&lt;li&gt;The different types of cyber security controls that can be implemented, the main principles of secure configuration of security components and devices, including firewalls and protective monitoring tools and how to apply them.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;IT / Digital Futures Management Specialist&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The digital futures management specialist manages the resources required to plan for, develop, deliver and support digital services and products to meet the digital workplace needs of a business. They design the digital workplace architecture, develop business case proposals and perform horizon scanning to apply foresight processes to identify and select new digital technologies that improve digital workplace efficiency and offer new and improved web, cloud or mobile technology enabled digital products and services. They contribute to improved business performance through reducing overall financial costs and increasing sustainability, developing continual service improvement plans to ensure the digital workplace adequately supports business needs.&lt;/p&gt;\r\n&lt;p&gt;Job roles: IT management specialist, digital futures leader.&lt;/p&gt;\r\n&lt;h4&gt;&lt;strong&gt;Skills for IT / Digital Futures Management Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Design and develop digital architecture and infrastructure roadmaps, implementation strategies and transformation plans focused on digital workplace transformation;&lt;/li&gt;\r\n&lt;li&gt;Develop digital workplace business case proposals that provide return on investment (ROI) and total cost of ownership (TCO) analysis, including preparing reports and delivering presentations to senior management to secure budget;&lt;/li&gt;\r\n&lt;li&gt;Conduct digital technology foresight planning to identify and select new digital technology capabilities to optimise the digital workplace. Including cloud computing, social networking, digital collaboration, virtualisation and mobile &amp;amp; tablet computing etc.;&lt;/li&gt;\r\n&lt;li&gt;Align digital infrastructure strategy and planning with business goals to create engaging, connected and cost effective digital workplace environments. Develop policies, and guidelines that direct the selection and implementation of digital workplace infrastructure;&lt;/li&gt;\r\n&lt;li&gt;Work with solutions architects, providers and systems administrators to provide an enterprise- wide approach to Digital Workplace planning that is resilient, capable, adaptable, scale-able, user-friendly and focussed on meeting business needs;&lt;/li&gt;\r\n&lt;li&gt;Ensure that digital workplace infrastructure solutions focus on achieving stable and robust operational service delivery and high availability for end users.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT / Digital Futures Management Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;How to develop strategies for the management and deployment of new and emerging technologies, tools and techniques which deliver business value within the context of a digital workplace in a fast-changing business environment;&lt;/li&gt;\r\n&lt;li&gt;How to review, evaluate, select and test digital product technologies and enhanced digitally enabled business processes which improve business efficiency through the integrated use of data and management information systems;&lt;/li&gt;\r\n&lt;li&gt;How to implement digital solutions that improve access to services as they become web-based or web-enabled, which reduce administration costs through the adoption of digital tools and improved communications for stakeholders;&lt;/li&gt;\r\n&lt;li&gt;The stages through which digital business services are created from discovery, through to live and how those services can be maintained and managed over time until they are retired;&lt;/li&gt;\r\n&lt;li&gt;Conduct technology foresight activities to review changes to the IT landscape to meet current and future business requirements;&lt;/li&gt;\r\n&lt;li&gt;Undertake financial modelling relevant to the digital workplace context to justify IT infrastructure investment making a sound business case to support future development.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;h3&gt;Role Profile&lt;/h3&gt;\n&lt;p&gt;A Digital &amp;amp; Technology Solutions Specialist maintains digital and technology strategies through technology leadership; investigating, identifying and implementing technological strategic solutions. They direct digital technology provision by studying organisation goals, strategies, and practices and delivering and supporting strategic plans for implementing digital technologies. They are confident, competent and capable individuals able to apply leadership and change management skills to operate in a range of digital and technology related specialist roles. This standard is based upon a core set of knowledge, skills and behaviours that will be supplemented by one specialism detailed below.&lt;/p&gt;\n&lt;h3&gt;Entry Requirements&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include a degree at 2.1 or higher in a relevant subject, although some employers will accept other relevant qualifications or experience.&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;MSc Digital &amp;amp; Technology Solutions. Apprentices without level 2 English and maths will need to achieve this level prior to taking the endpoint assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This apprenticeship is at level 7.&lt;/p&gt;\n&lt;h3&gt;Duration&lt;/h3&gt;\n&lt;p&gt;The typical duration for this apprenticeship is 18 months.&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;This standard will be reviewed in three years from the date of publication.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Core Technical Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Is able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify, document, review and design complex IT enabled business processes that define a set of activities that will accomplish specific organisational goals and provides a systematic approach to improving those processes;&lt;/li&gt;\n&lt;li&gt;Design and develop technology roadmaps, implementation strategies and transformation plans focused on digital technologies to achieve improved productivity, functionality and end user experience in an area of technology specialism;&lt;/li&gt;\n&lt;li&gt;Deliver workplace transformations through planning and implementing technology based business change programmes including setting objectives, priorities and responsibilities with others in an area of technology specialism;&lt;/li&gt;\n&lt;li&gt;Negotiate and agree digital and technology specialism delivery budgets with those with decision-making responsibility;&lt;/li&gt;\n&lt;li&gt;Develop and deliver management level presentations which resonate with senior stakeholders, both business and technical;&lt;/li&gt;\n&lt;li&gt;Professionally present digital and technology solution specialism plans and solutions in a well-structured business report;&lt;/li&gt;\n&lt;li&gt;Demonstrate self-direction and originality in solving problems, and act autonomously in planning and implementing digital and technology solutions specialist tasks at a professional level;&lt;/li&gt;\n&lt;li&gt;Be competent at negotiating and closing techniques in a range of interactions and engagements, both with senior internal and external stakeholders;&lt;/li&gt;\n&lt;li&gt;Evaluate the significance of human factors to leadership in the effective implementation and management of technology enabled business processes;&lt;/li&gt;\n&lt;li&gt;Develop own leadership style and professional values that contributes to building high performing teams;&lt;/li&gt;\n&lt;li&gt;Apply broader technical knowledge combined with an understanding of the business context, and how it is changing, to deliver to the company’s business strategy;&lt;/li&gt;\n&lt;li&gt;Demonstrate effective technology leadership and change management skills for managing technology driven change and continuous improvement;&lt;/li&gt;\n&lt;li&gt;Create and implement innovative technological strategies to support the development of new products, processes and services that align with the company’s business strategy, and develop and communicate compelling business proposals to support these.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Core Technical Knowledge&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The strategic importance of technology enabled business processes, and how they are designed and managed to determine a firm’s ability to compete effectively;&lt;/li&gt;\n&lt;li&gt;The principles of business transformation and how organisations integrate different management functions in the context of technological change;&lt;/li&gt;\n&lt;li&gt;The role of leadership in contemporary technology based organisations;&lt;/li&gt;\n&lt;li&gt;Own employer’s business objectives and strategy, its position in the market and how own employer adds value to its clients through the services and/or products they provide;&lt;/li&gt;\n&lt;li&gt;How to justify the value of technology investments and apply benefits management and realisation;&lt;/li&gt;\n&lt;li&gt;How to monitor technology related market trends and research and collect competitive intelligence;&lt;/li&gt;\n&lt;li&gt;The personal leadership qualities that are required to establish and maintain an organisations technical reputation.&lt;/li&gt;\n&lt;li&gt;The role of leaders as change agents and identify contributors to successful implementation;&lt;/li&gt;\n&lt;li&gt;Technology road-mapping concepts and methods and how to apply them;&lt;/li&gt;\n&lt;li&gt;The role of learning and talent management in successful business operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Core Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Inspire and motivate others to deliver excellent technical solutions and outcomes&lt;/li&gt;\n&lt;li&gt;Establish high levels of performance in digital and technology solutions activities&lt;/li&gt;\n&lt;li&gt;Be results and outcomes driven to achieve high key performance outcomes for digital and technology solutions objectives&lt;/li&gt;\n&lt;li&gt;Promote a high level of cooperation between own work group and other groups to establish a technology change led culture&lt;/li&gt;\n&lt;li&gt;Develop and support others in developing an appropriate balance of leadership and technical skills&lt;/li&gt;\n&lt;li&gt;Create strong positive relationships with team members to produce high performing technical teams&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Specialism Occupations&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A Digital and Technological Solutions Professional will choose one of the following technical specialisms:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Software engineering specialist&lt;/li&gt;\n&lt;li&gt;Data analytics specialist&lt;/li&gt;\n&lt;li&gt;Digital business and enterprise systems architecture specialist&lt;/li&gt;\n&lt;li&gt;System test and assurance specialist&lt;/li&gt;\n&lt;li&gt;IT strategy specialist&lt;/li&gt;\n&lt;li&gt;IT business analysis specialist&lt;/li&gt;\n&lt;li&gt;Network engineering specialist&lt;/li&gt;\n&lt;li&gt;IT operations management specialist&lt;/li&gt;\n&lt;li&gt;IT project management specialist&lt;/li&gt;\n&lt;li&gt;Cyber security technology specialist&lt;/li&gt;\n&lt;li&gt;IT / digital futures management specialist&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Software Engineering Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A software engineering specialist architects, develops and delivers complex software solutions from agreed specifications using contemporary standards and tools, to achieve a well-engineered result. They lead the design and development of bespoke secure and scalable software solutions and services for distributed web, mobile and fixed PC and mainframe platforms throughout the development lifecycle. They work across different platforms and develop software using programming languages appropriate to the applications being developed.&lt;/p&gt;\n&lt;p&gt;Job roles: Software experience lead, software engineering specialist, solution developer, analyst programmer, senior software developer.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for Software Engineering Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Architect, build and support leading edge concurrent software platforms that are performant to industry standards and deliver responsive solutions with good test coverage;&lt;/li&gt;\n&lt;li&gt;Drive the technology decision-making and development process for projects of varying scales, considering current technologies including DevOps and Cloud Computing, and evaluate different technology design and implementation options making reasoned proposals and recommendations;&lt;/li&gt;\n&lt;li&gt;Develop and deliver, distributed or semi-complex software solutions that are scalable and which deliver innovative user experiences and journeys that encompass cross-functional teams, platforms and technologies;&lt;/li&gt;\n&lt;li&gt;Update current software products, improving the efficiency and functionality, and build new features to product specifications;&lt;/li&gt;\n&lt;li&gt;Accomplish planned software development tasks that deliver the expected features, within specified time constraints, security and quality requirements;&lt;/li&gt;\n&lt;li&gt;Be accountable for the quality of deliverables from one or more software development teams (source code quality, automated testing, design quality, documentation etc.) and following company standard processes (code reviews, unit testing, source code management etc.).&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Software Engineering Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;The rationale for software platform and solution development, including the organisational context;&lt;/li&gt;\n&lt;li&gt;The various inputs, statements of requirements, security considerations and constraints that guide solution architecture and the development of logical and physical systems&#39; designs;&lt;/li&gt;\n&lt;li&gt;The methodologies designed to help create approaches for organizing the software engineering process, the activities that need to be undertaken at different stages in the life-cycle and techniques for managing risks in delivering software solutions;&lt;/li&gt;\n&lt;li&gt;The approaches used to modularise the internal structure of an application and describe the structure and behaviour of applications used in a business, with a focus on how they interact with each other and with business users;&lt;/li&gt;\n&lt;li&gt;How to design, develop and deploy software solutions that are secure and effective in delivering the requirements of stakeholders and the factors that affect the design of a successful code;&lt;/li&gt;\n&lt;li&gt;The range of metrics which might be used to evaluate a delivered software product.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Data Analytics Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A data analytics specialist investigates business data requirements, and applies data selection, data curation, data quality assurance and data investigation and engineering techniques. This will help the business to most effectively organise their data and they will provide advice and guidance to database designers and others in using the data structures and associated data components efficiently. They will undertake data processing to produce data sets for study and will perform investigations using techniques including machine learning to reveal new business opportunities. They also present data and investigation results along with compelling business opportunities reports to senior stakeholders.&lt;/p&gt;\n&lt;p&gt;Job roles: Big data analyst, data and insight analyst, data science specialist, data management specialist, analytics lead.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for Data Analytics Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Be able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identify and select the business data that needs to be collected and transitioned from a range of data systems; acquire, manage and process complex data sets, including large-scale and real-time data;&lt;/li&gt;\n&lt;li&gt;Undertake analytical investigations of data to understand the nature, utility and quality of data, and developing data quality rule sets and guidelines for database designers;&lt;/li&gt;\n&lt;li&gt;Formulate analysis questions and hypotheses which are answerable given the data available and come to statistically sound conclusions;&lt;/li&gt;\n&lt;li&gt;Conduct high-quality complex investigations, employing a range of analytical software, statistical modelling &amp;amp; machine learning techniques to make data driven decisions solve live commercial problems;&lt;/li&gt;\n&lt;li&gt;Document and describe the data architecture and structures using appropriate data modelling tools, and select appropriate methods to present data and results that support human understanding of complex data sets;&lt;/li&gt;\n&lt;li&gt;Scope and deliver data analysis projects, in response to business priorities, create compelling business opportunities reports on outcomes suitable for a variety of stakeholders including senior clients and management.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Data Analytics Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;How key algorithms and models are applied in developing analytical solutions and how analytical solutions can deliver benefits to organisations;&lt;/li&gt;\n&lt;li&gt;The information governance requirements that exist in the UK, and the relevant organisational and legislative data protection and data security standards that exist. The legal, social and ethical concerns involved in data management and analysis;&lt;/li&gt;\n&lt;li&gt;The principles of data driven analysis and how to apply these. Including the approach, the selected data, the fitted models and evaluations used to solve data problems;&lt;/li&gt;\n&lt;li&gt;The properties of different data storage solutions, and the transmission, processing and analytics of data from an enterprise system perspective. Including the platform choices available for designing and implementing solutions for data storage, processing and analytics in different data scenarios;&lt;/li&gt;\n&lt;li&gt;How relevant data hierarchies or taxonomies are identified and properly documented;&lt;/li&gt;\n&lt;li&gt;The concepts, tools and techniques for data visualisation, including how this provides a qualitative understanding of the information on which decisions can be based.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Digital Business and Enterprise Systems Architecture Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A digital business and enterprise systems architecture specialist designs, documents and maintains technical architectures that describes the best approach to provision the business technical infrastructure. This typically involves the interpretation of business goals and drivers into an operating model and the description of inter-relationships between the people, organisation, processes, data, and technology with the external environment. They implement an information technology systems architecture to support or accomplish the strategy of the enterprise.&lt;/p&gt;\n&lt;p&gt;Job roles: Business and enterprise architecture specialist, enterprise architect, business architect, systems architect.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for Digital Business and Enterprise Systems Architecture Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and maintain digital systems architectures for online, cloud or mobile platforms. Evaluate alternative architectural solutions, ensuring the architecture is optimal for the business context in terms of deployment, operation and continuous enhancements;&lt;/li&gt;\n&lt;li&gt;Produce logical and physical architectural designs, mapping architectural principles and constraints onto the architectural solution. Evaluate and recommend products and services from software and solution providers in support of the architecture designs;&lt;/li&gt;\n&lt;li&gt;Recommend optimal delivery roadmaps and develop system implementation plans for enabling the proposed architecture, maintaining operational stability whilst delivering enterprise architecture-led change initiatives to improve business performance;&lt;/li&gt;\n&lt;li&gt;Implement architectural design governance frameworks that include risk mitigation strategies associated with the architecture. Define, develop and maintain operating models, technical design principles and enterprise architecture artefact guidelines;&lt;/li&gt;\n&lt;li&gt;Document architectures and roadmaps that enable the logical and physical system to be defined, to the detail appropriate to the audience and communicate the solutions and their importance and value to stakeholders;&lt;/li&gt;\n&lt;li&gt;Work with implementation teams to support the delivery of new or improved architectures, managing stakeholder expectations to reconcile conflicting business requirements.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Digital Business and Enterprise Systems Architecture Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The hardware and software platforms relevant to the business context, and the applications hosted by these;&lt;/li&gt;\n&lt;li&gt;The relevant standards, tools, approaches and processes for developing and communicating enterprise architectures, optimising architectural solutions and mitigating risks;&lt;/li&gt;\n&lt;li&gt;How to create architecture descriptions and designs, using industry standard tools and techniques to build a coherent representation of an enterprise architecture consisting deployed business services, applications and technology;&lt;/li&gt;\n&lt;li&gt;The need for different models, views and representations of enterprise architectures to describe the structure and behaviour of applications, how they interact with each other, the data consumed and produced, and the interactions with business users;&lt;/li&gt;\n&lt;li&gt;The relationship between business strategy, business goals, and an enterprise architecture, including the importance of usability, reliability, performance, maintainability, and security in architectural development;&lt;/li&gt;\n&lt;li&gt;How to assess enterprise architectures for relevance and review their suitability in supporting the enterprise.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;System Test and Assurance Specialist&lt;/h3&gt;\n&lt;p&gt;A system test and assurance specialist ensures the high quality of software products, and digital system solutions through establishing appropriate test environments and planning, designing and conducting structured system functionality tests and performance tests against the specified requirements for the system under test. They define test cases, creating appropriate and representative test data for each test case. They execute a range of tests using a range of manual and automated test methods and, analyse the test results and confirm when a digital system solution meets its specified functionality and performance targets.&lt;/p&gt;\n&lt;p&gt;Job roles: Software assurance engineer, software test specialist, system test analyst.&lt;/p&gt;\n&lt;h4&gt;Skills for System Test and Assurance Specialist&lt;/h4&gt;\n&lt;p&gt;Be able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Test Environment: Specify and configure digital system solution test environments to represent the usage context, against which tests can be execute in line with the organisational test strategy;&lt;/li&gt;\n&lt;li&gt;Test Planning: Create test plans that specify the digital system solution testing objectives, test deliverables, test schedule, test activity estimates and the required test resources (testers, test software and test hardware) required for digital system solution testing;&lt;/li&gt;\n&lt;li&gt;Test Cases: Write clear, intuitive test cases that are used to verify that each element of the digital system solution under test performs as specified. Use industry standard test management tools to define test cases and specify test data;&lt;/li&gt;\n&lt;li&gt;Test Execution: Apply appropriate test techniques to execute tests for reach test case using both manual test methods and automated testing tools as appropriate in a commercial environment;&lt;/li&gt;\n&lt;li&gt;Test Results: Document, manage and maintain test results and resolutions. Produce defect reports to identify, characterise and prioritise identified defects and aid their resolution. Compile written reports on test activities, outcomes, opportunities and risks, and explain recommendations to stakeholders;&lt;/li&gt;\n&lt;li&gt;Test Reviews: Define review and refine test methodologies in line with best practice test strategies and practices. Develop strategies for increased exploitation of reusable automated testing approaches.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for System Test and Assurance Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The fundamental software testing and assurance concepts and methods; including goals, challenges and limitations of software testing;&lt;/li&gt;\n&lt;li&gt;How to create, configure and maintain multi-server test environments;&lt;/li&gt;\n&lt;li&gt;How to design test cases effectively with various testing strategies including the need for representative test data;&lt;/li&gt;\n&lt;li&gt;How to select and justify appropriate testing techniques for a software testing situation, taking account of their strengths and weaknesses and the software’s domain, requirements and development maturity;&lt;/li&gt;\n&lt;li&gt;How to implement standard testing and assurance methodologies and procedures for a range of digital solution platforms including front-and back-office enterprise, mobile apps and web based applications. This includes the tools and techniques that can be used for automated testing, how to apply these and their limitations;&lt;/li&gt;\n&lt;li&gt;The need to deliver clear test results, defect reports and associated test documentation.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;IT Strategy Specialist&lt;/h3&gt;\n&lt;p&gt;An IT strategy specialist drives the development and implementation of IT strategy by providing consultative advice and guidance to IT managers and stakeholders to help transform their operating model through the delivery of technology based change initiatives. They define, deliver, and support strategic plans for implementing information technologies. They build the case for change and drive support from senior management. They identify opportunities for, and manage the delivery of, system rationalisation and system integration programmes. They recommend revisions to information technology strategies, policies, and procedures by evaluating organisation outcomes; identifying problems; evaluating trends; anticipating requirements. They verify application results by conducting system audits of technology enhancements implemented.&lt;/p&gt;\n&lt;p&gt;Job roles: IT consultancy specialist, Software consultant, business change specialist, business process management specialist.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for IT Strategy Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Assess an organisation&#39;s technology operations and their continued capability to deliver the organisations technology based products and services, through defining, delivering, and supporting strategic plans for implementing digital technologies and revising as required;&lt;/li&gt;\n&lt;li&gt;Perform strategic analysis of organisational information systems, their structure and current effectiveness, in order to make systems rationalisation, systems integration and other improvement proposals:&lt;/li&gt;\n&lt;li&gt;Engage with business units to produce technical solution proposals for different technology domains such as infrastructure, cloud, application and storage platforms aligned with business demand;&lt;/li&gt;\n&lt;li&gt;Develop and implement technology lifecycle roadmaps, assessing different technical options and developing technology strategies aligned with business priorities and agreeing the case for change from senior management;&lt;/li&gt;\n&lt;li&gt;Plan and manage technology change delivery and migration programmes, ensuring successful implementation of the chosen technology, smooth delivery of related consultancy services to clients and verifying application results using audits;&lt;/li&gt;\n&lt;li&gt;Analyse and assess complex digital business problems through collecting and reviewing business data and formulating technology based design solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Strategy Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;The role and nature of IT consultancy as a mechanism for creating business improvements and which typical responsibilities and activities are included;&lt;/li&gt;\n&lt;li&gt;The contribution of contemporary IT architectures (including cloud deployment) as well as software platforms and applications appropriate to the context of IT consultancy;&lt;/li&gt;\n&lt;li&gt;The importance of clearly identifying the client issue, applying a structured approach and selecting appropriate analytical tools and techniques;&lt;/li&gt;\n&lt;li&gt;The diversity of IT consultancy interventions and approaches and the importance of scoping interventions effectively and agreeing clear contracts with clients;&lt;/li&gt;\n&lt;li&gt;How to apply a range of simple, recognised data gathering, problem solving and analytical tools and techniques to achieve agreed outcomes, presenting and communicating the results of research in reports and presentations to senior stakeholders;&lt;/li&gt;\n&lt;li&gt;The importance of client relationship, methods of establishing engagement with the client and the importance of communication, consultation and negotiation in managing clients.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;IT Business Analysis Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;An IT business analyst is focused on identifying, prioritising and documenting business requirements that specify the functional, non-functional and performance outcomes of software development projects. They are responsible for delivering a consistent, clear and detailed set of business requirements to support technology change programmes, analysing key processes and producing clear, accurate, agreed documentation. They develop plans and proposals for the steps to be taken (including technology selection/ development) to realise the business requirements and at the same time develop, support and improve existing standards for business analysis processes and deliverables. They investigate operational requirements of new or changed processes, through uncovering, discussing and challenging client requirements, and then document those requirements in the form of a comprehensive specification. They work iteratively with stakeholders, to identify potential benefits and available options for consideration, and define acceptance tests.&lt;/p&gt;\n&lt;p&gt;Job roles: Business analysis specialist, business analyst.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for IT Business Analysis Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Be able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the gathering of requirements through elicitation, validation, prioritisation and documentation of high level and detailed system requirements, both functional and non-functional, using appropriate documentation and modelling techniques;&lt;/li&gt;\n&lt;li&gt;Lead business process workshops for understanding the client business environment and that analyse, develop and document end-to-end business processes and document product definitions, stakeholder needs, product features, and corresponding functional specifications;&lt;/li&gt;\n&lt;li&gt;Manage requirements ensuring that there is traceability through the project lifecycle from initiation to final delivery;&lt;/li&gt;\n&lt;li&gt;Map requirements with existing functionality and identify gaps that require additional configuration or customisation;&lt;/li&gt;\n&lt;li&gt;Drive the prioritisation, documentation and communication of business requirements throughout the project lifecycle, using a variety of recognised techniques and tools;&lt;/li&gt;\n&lt;li&gt;Communicate requirements and other business analysis findings to internal and external team stakeholders.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Business Analysis Specialist &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;How to analyse and deconstruct project briefs, translating them into detailed functional and technical specifications covering complex scenarios and understanding interdependencies;&lt;/li&gt;\n&lt;li&gt;How to deliver system requirements, including the methods and techniques for analysing the business domain and producing business requirements;&lt;/li&gt;\n&lt;li&gt;How to manage and document change with the business and communicate to the development team;&lt;/li&gt;\n&lt;li&gt;The role, functions and processes of information systems in achieving business objectives;&lt;/li&gt;\n&lt;li&gt;The analytical and computer based tools, techniques and modelling approaches that are required for the thorough analysis and solution of complex decision problems in a business context, together with the advantages and disadvantages in using them;&lt;/li&gt;\n&lt;li&gt;The concepts of organisational context, business strategy, stakeholder, business systems and process thinking, and change management for the business requirements analysis.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Network Engineering Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A network engineering specialist will take responsibility for the secure network environment and implement configuration changes across different types of network devices/services deployed across an enterprise based on approved design/change documentation. They create secure network solutions, high and low level designs, migrations or new device implementations. They also manage network operations and analyse and solve complex network related problems, identify root cause of issues and make appropriate recommendations to avoid future failure. They pro actively investigate and advise on network improvements across the range of network services. They respond to changing business needs and develop and maintain network technology roadmaps.&lt;/p&gt;\n&lt;p&gt;Job roles: Network specialist, network infrastructure engineer, network planner, network designer, network support specialist.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for Network Engineering Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Be able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take responsibility for design, build and deployment activities to deliver appropriate secure network infrastructure solutions to meet customer requirements at an enterprise level and within budget, including enhancements and network configuration updates;&lt;/li&gt;\n&lt;li&gt;Formulate detailed network and storage specifications for stable and secure computing operations in a dynamic environment identifying new networking services and capabilities;&lt;/li&gt;\n&lt;li&gt;Manage the operation, maintenance and support of secure network environments, including diagnosing and troubleshooting wireless, security, switching, phone and other network-related issues for network related incidents;&lt;/li&gt;\n&lt;li&gt;Select and apply network monitoring tools to aid planning network upgrades before they become critical. Make recommendations for improvements to security, scalability, manageability, and performance across a network, storage, and related technologies;&lt;/li&gt;\n&lt;li&gt;Produce network technology roadmaps to meet evolving business needs for enterprise computing environments, including common network services, cloud services, web application hosting, databases, high-availability services, security and backup/recovery;&lt;/li&gt;\n&lt;li&gt;Ensure network infrastructure solutions chosen fit within the overall enterprise infrastructure architecture, security architecture and security standards.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Network Engineering&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;&lt;strong&gt;Specialist &lt;/strong&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;How IT networks impact the organisation, business objectives and processes and the application of different approaches to network organisation and management;&lt;/li&gt;\n&lt;li&gt;The principles of secure network design, architecture, implementation and assurance, including how to develop and analyse network protocols by using networking simulation;&lt;/li&gt;\n&lt;li&gt;How to build and maintain secure networks, including the types of countermeasures that can be put in place to identify, reduce or prevent problems caused by network attacks or misuse;&lt;/li&gt;\n&lt;li&gt;How to implement quality of services (QoS) of communication networks in terms of throughput, reliability and delay, and the importance of ensuring that performance, security, availability and continuity standards meet required service levels and business needs;&lt;/li&gt;\n&lt;li&gt;Current industry standard network architectures and their individual protocol layers, including the algorithms employed, the OSI (Open Standard Interconnection) model, systematic troubleshooting approaches and how to apply them;&lt;/li&gt;\n&lt;li&gt;Network industry trends and technical opportunities, assessing their viability for use within different business scenarios.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;IT Operations Management Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;An IT operations management specialist takes responsibility for the availability, performance and resilience of all business IT systems, maintaining the operational integrity of the technologies and services provided, in line with strategy, governance and regulatory requirements. They contribute to strategic planning to ensure the IT infrastructure meets existing and future business requirements. They coordinate the transition of new systems into the live business operations environment. They manage IT operations performance monitoring and ensure that services and components meet their agreed performance targets and manage third party IT systems and services.&lt;/p&gt;\n&lt;p&gt;Job roles: IT operations management specialist, operations manager, IT service manager.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for IT Operations Management Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Take responsibility for the availability, performance and resilience of all business IT systems including core admin and business platforms, web applications and related interfaces and support services and the operational maintenance of servers, storage and other technical back-office elements;&lt;/li&gt;\n&lt;li&gt;Design and implement short and long-term strategic plans to ensure the IT infrastructure and services capacity and capability meets existing and future requirements;&lt;/li&gt;\n&lt;li&gt;Manage the transition and maintenance of new or updated solutions or other changes into the live operations environments, this includes scheduled installation of software updates, backups and patches to development and production systems;&lt;/li&gt;\n&lt;li&gt;Review and develop the organisation’s procedures for monitoring and measuring the performance of IT operations and produce and maintain detailed documentation on operational IT systems, processes and procedures;&lt;/li&gt;\n&lt;li&gt;Ensure that IT systems are compliant with information governance, regulatory and mandatory requirements and standards including local inventory maintenance and software license management;&lt;/li&gt;\n&lt;li&gt;Manage 3&lt;sup&gt;rd&lt;/sup&gt; party IT systems and services and business applications line with the IT strategy, ensuring that their availability and performance meets the firm&#39;s current and future requirements including responsibility for IT vendor, contract and outsourcing management.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Operations Management Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;The principles governing modern approaches to the management of IT enabled operations and the development, management, application and implementation of information systems to support business processes and their impact upon organisations;&lt;/li&gt;\n&lt;li&gt;The importance of IT operations within a business for competitiveness and how key aspects of customer service such as quality, cost, delivery and customisation are linked to the type of system adopted;&lt;/li&gt;\n&lt;li&gt;The role and function of information technology in supporting operations and supply chain management;&lt;/li&gt;\n&lt;li&gt;How the design and management of a firm’s IT enabled processes interact to determine a firm’s cost structure and its ability to compete effectively in terms of non-cost measures such as quality, variety and speed;&lt;/li&gt;\n&lt;li&gt;The key issues in the design of IT enabled operations (such as process design and analysis) and in the management of those operations (such as planning, scheduling and optimisation);&lt;/li&gt;\n&lt;li&gt;The principles of asset management and support for company IT related hardware and devices.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;IT Project Management Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;An IT project management specialist takes full responsibility for the evolution and development of software solutions for web, mobile and fixed platform solutions. Their main objective is to ensure that the delivery and iteration of new solutions meets the client’s expectations. They establish close and trusted relationships with business stakeholders and solutions teams to deliver the roadmap, governance and supporting processes. They manage the programme roadmap, communicating milestones and progress updates with client stakeholders.&lt;/p&gt;\n&lt;p&gt;Job roles: IT delivery manager, web delivery manager, IT development manager, IT development manager Software product management specialist.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for IT Project Management Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Be able to:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Take responsibility for the evolution and development of software solutions for web, mobile and fixed platform solutions, leading the scoping, sizing, and estimating efforts for assigned engagements;&lt;/li&gt;\n&lt;li&gt;Manage the demand planning, forecasting, budgeting, and supply planning for software solutions development delivery. Identify resources, assign responsibilities and formulate work packages in accordance with organisational standards;&lt;/li&gt;\n&lt;li&gt;Manage the work of the software solution development teams to ensure optimal resource utilisation and engagement, ensuring that the evolution and development of software solutions meets the software specification and client’s expectations;&lt;/li&gt;\n&lt;li&gt;Ensure all delivery aspects of IT solutions adhere to an appropriate software development methodology (including Agile, and Waterfall);&lt;/li&gt;\n&lt;li&gt;Manage the solution roadmap, communicating milestones providing status reports and progress updates of solutions to client stakeholders and managing documentation in accordance with the organisation’s standards;&lt;/li&gt;\n&lt;li&gt;Establish close and trusted relationships with clients, business stakeholders and software solutions teams to deliver the roadmap, governance and supporting processes and successfully negotiate with clients on technical matters, and manage client expectations.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT Project Management Specialist&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Knows and understands:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;The characteristics of IT project management and how it drives change within organisations, through the organisational IT and systems strategy and its links to the business strategy. The importance of delivering business value via IT projects, and how this is achieved;&lt;/li&gt;\n&lt;li&gt;How to select appropriate modern software development methods for a variety of software projects, including the processes, methodologies, tools and standards to improve the cost, speed and quality of solution development;&lt;/li&gt;\n&lt;li&gt;How to analyse and manage the development processes/stages, quality control, delivery and documentation/communication etc. of large scale software systems;&lt;/li&gt;\n&lt;li&gt;How to apply estimation techniques for software solution development activities, and planning/tracking techniques to monitor progress of those activities in software development;&lt;/li&gt;\n&lt;li&gt;How to communicate software solution milestones and progress updates with client stakeholders;&lt;/li&gt;\n&lt;li&gt;How to deliver the roadmap, governance and supporting processes for software solutions.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;Cyber Security Technical Specialist&lt;/h3&gt;\n&lt;p&gt;A cyber security technical specialist provides advice and guidance on the application and operation of elementary physical, procedural and technical security controls. They co-ordinate and perform security vulnerability assessments and penetration testing for networked information systems. They deliver objective insights into the existence of vulnerabilities reporting on the effectiveness of defences, countermeasures and mitigating controls and identifying issues to resolve. They conduct treat intelligence analysis to keep up to date with the changing threat landscape. They identify and correlate actionable security events and perform forensic analysis to identify possible breaches and preserve evidence.&lt;/p&gt;\n&lt;p&gt;Job roles: Cyber security technical specialist, penetration tester, vulnerability tester, cyber security forensics specialist.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for Cyber Security Technology Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Plan and carry out a variety of security testing strategies on IT infrastructures (fixed and wireless), middle-ware and applications, to identify new issues and recommend remediation and enhancements to security policies and information technology procedures;&lt;/li&gt;\n&lt;li&gt;Perform cyber threat intelligence analysis to research, analyse and evaluate technical threats by reviewing open source and other information from trusted sources for new vulnerabilities, malware, or other threats that have the potential to impact the organisation;&lt;/li&gt;\n&lt;li&gt;Identify, investigate and correlate actionable security events, including performing network traffic analysis using a range of techniques relevant to the security of communication networks to assess security risks and escalating where appropriate;&lt;/li&gt;\n&lt;li&gt;Conduct a vulnerability assessment, to identify and report on vulnerability issues and possible solutions arising, including recommending cost-effective mitigations comprising careful combinations of technical, procedural and administrative controls;&lt;/li&gt;\n&lt;li&gt;Select and apply cyber security forensic tools and techniques for attack reconstruction, including forensic analysis and volatile data collection and analysis;&lt;/li&gt;\n&lt;li&gt;Conduct analysis of attacker tools providing indicators for enterprise defensive measures including classifying and identifying attack patterns.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for Cyber Security Technology Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;The principles of threat intelligence, modelling and assessment. The range of modern attack techniques and how and where to research emerging attack techniques to inform the development of improved security controls, countermeasures and policies and standards;&lt;/li&gt;\n&lt;li&gt;How to use human factor analysis in the assessment of threats, including the motivations and methods adopted by a wide range of human threat actors;&lt;/li&gt;\n&lt;li&gt;How to select and apply tools and techniques to carry out a variety of security testing strategies including vulnerability scanning, penetration testing and ethical hacking, recognising that security testing itself cannot guarantee security and only reveal gaps in security provisioning;&lt;/li&gt;\n&lt;li&gt;The different approaches and design principles that are used to engineer secure systems, focusing on the importance of building in security, privacy and resilience in the initial design;&lt;/li&gt;\n&lt;li&gt;How to develop and implement security event response programmes, security event handling, and operational security activities;&lt;/li&gt;\n&lt;li&gt;The different types of cyber security controls that can be implemented, the main principles of secure configuration of security components and devices, including firewalls and protective monitoring tools and how to apply them.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;IT / Digital Futures Management Specialist&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The digital futures management specialist manages the resources required to plan for, develop, deliver and support digital services and products to meet the digital workplace needs of a business. They design the digital workplace architecture, develop business case proposals and perform horizon scanning to apply foresight processes to identify and select new digital technologies that improve digital workplace efficiency and offer new and improved web, cloud or mobile technology enabled digital products and services. They contribute to improved business performance through reducing overall financial costs and increasing sustainability, developing continual service improvement plans to ensure the digital workplace adequately supports business needs.&lt;/p&gt;\n&lt;p&gt;Job roles: IT management specialist, digital futures leader.&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Skills for IT / Digital Futures Management Specialist &lt;/strong&gt;- be able to:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;Design and develop digital architecture and infrastructure roadmaps, implementation strategies and transformation plans focused on digital workplace transformation;&lt;/li&gt;\n&lt;li&gt;Develop digital workplace business case proposals that provide return on investment (ROI) and total cost of ownership (TCO) analysis, including preparing reports and delivering presentations to senior management to secure budget;&lt;/li&gt;\n&lt;li&gt;Conduct digital technology foresight planning to identify and select new digital technology capabilities to optimise the digital workplace. Including cloud computing, social networking, digital collaboration, virtualisation and mobile &amp;amp; tablet computing etc.;&lt;/li&gt;\n&lt;li&gt;Align digital infrastructure strategy and planning with business goals to create engaging, connected and cost effective digital workplace environments. Develop policies, and guidelines that direct the selection and implementation of digital workplace infrastructure;&lt;/li&gt;\n&lt;li&gt;Work with solutions architects, providers and systems administrators to provide an enterprise- wide approach to Digital Workplace planning that is resilient, capable, adaptable, scale-able, user-friendly and focussed on meeting business needs;&lt;/li&gt;\n&lt;li&gt;Ensure that digital workplace infrastructure solutions focus on achieving stable and robust operational service delivery and high availability for end users.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Technical knowledge for IT / Digital Futures Management Specialist &lt;/strong&gt;- knows and understands:&lt;/h4&gt;\n&lt;ul&gt;\n&lt;li&gt;How to develop strategies for the management and deployment of new and emerging technologies, tools and techniques which deliver business value within the context of a digital workplace in a fast-changing business environment;&lt;/li&gt;\n&lt;li&gt;How to review, evaluate, select and test digital product technologies and enhanced digitally enabled business processes which improve business efficiency through the integrated use of data and management information systems;&lt;/li&gt;\n&lt;li&gt;How to implement digital solutions that improve access to services as they become web-based or web-enabled, which reduce administration costs through the adoption of digital tools and improved communications for stakeholders;&lt;/li&gt;\n&lt;li&gt;The stages through which digital business services are created from discovery, through to live and how those services can be maintained and managed over time until they are retired;&lt;/li&gt;\n&lt;li&gt;Conduct technology foresight activities to review changes to the IT landscape to meet current and future business requirements;&lt;/li&gt;\n&lt;li&gt;Undertake financial modelling relevant to the digital workplace context to justify IT infrastructure investment making a sound business case to support future development.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;A Digital &amp;amp; Technology Solutions Specialist maintains digital and technology strategies through technology leadership; investigating, identifying and implementing technological strategic solutions. They direct digital technology provision by studying organisation goals, strategies, and practices and delivering and supporting strategic plans for implementing digital technologies. They are confident, competent and capable individuals able to apply leadership and change management skills to operate in a range of digital and technology related specialist roles.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fc147344-cc9c-4e25-ac3b-8b861ee2182c",
+      "detail": "The strategic importance of technology enabled business processes, and how they are designed and managed to determine a firm’s ability to compete effectively;"
+    },
+    {
+      "knowledgeId": "1dbf02db-cea6-4823-9224-932389cfad39",
+      "detail": "The principles of business transformation and how organisations integrate different management functions in the context of technological change;"
+    },
+    {
+      "knowledgeId": "aa1c3a97-3d74-40ef-8174-5888f98c3d7e",
+      "detail": "The role of leadership in contemporary technology based organisations;"
+    },
+    {
+      "knowledgeId": "b7b6542c-070b-456e-8e50-5059a9b9416b",
+      "detail": "Own employer’s business objectives and strategy, its position in the market and how own employer adds value to its clients through the services and/or products they provide;"
+    },
+    {
+      "knowledgeId": "a8774c7d-0a29-4f9c-9525-db3796759691",
+      "detail": "How to justify the value of technology investments and apply benefits management and realisation;"
+    },
+    {
+      "knowledgeId": "6c1153dd-d9b0-4715-85b6-7317483bd72d",
+      "detail": "How to monitor technology related market trends and research and collect competitive intelligence;"
+    },
+    {
+      "knowledgeId": "078210cb-d1f8-4c8d-a93c-ec9029704581",
+      "detail": "The personal leadership qualities that are required to establish and maintain an organisations technical reputation."
+    },
+    {
+      "knowledgeId": "83eeaee2-3ea4-4f1a-9981-3597b1aed316",
+      "detail": "The role of leaders as change agents and identify contributors to successful implementation;"
+    },
+    {
+      "knowledgeId": "889456c0-a4ca-442d-8129-a805be997158",
+      "detail": "Technology road-mapping concepts and methods and how to apply them;"
+    },
+    {
+      "knowledgeId": "9429780b-1784-4869-8dee-73635d2c03a0",
+      "detail": "The role of learning and talent management in successful business operations"
+    },
+    {
+      "knowledgeId": "46d37985-6862-4b5a-b43c-1769088b619d",
+      "detail": "The rationale for software platform and solution development, including the organisational context;"
+    },
+    {
+      "knowledgeId": "5c1e1b29-57af-42ab-b5a4-8171dd50479d",
+      "detail": "The various inputs, statements of requirements, security considerations and constraints that guide solution architecture and the development of logical and physical systems' designs;"
+    },
+    {
+      "knowledgeId": "7bc81f1f-e98a-437d-ae18-f20c35482560",
+      "detail": "The methodologies designed to help create approaches for organizing the software engineering process, the activities that need to be undertaken at different stages in the life-cycle and techniques for managing risks in delivering software solutions;"
+    },
+    {
+      "knowledgeId": "5f2bda46-fb37-40fa-b9d7-5fe7a5b8d593",
+      "detail": "The approaches used to modularise the internal structure of an application and describe the structure and behaviour of applications used in a business, with a focus on how they interact with each other and with business users;"
+    },
+    {
+      "knowledgeId": "2a6cde3e-679d-4f43-8a72-78b55947b534",
+      "detail": "How to design, develop and deploy software solutions that are secure and effective in delivering the requirements of stakeholders and the factors that affect the design of a successful code;"
+    },
+    {
+      "knowledgeId": "29d67972-b63a-4c48-a7f3-6835b983d287",
+      "detail": "The range of metrics which might be used to evaluate a delivered software product."
+    },
+    {
+      "knowledgeId": "6f239d10-6a02-416f-9d52-71a4e8cca408",
+      "detail": "How key algorithms and models are applied in developing analytical solutions and how analytical solutions can deliver benefits to organisations;"
+    },
+    {
+      "knowledgeId": "5ffc17bb-5c7a-497e-b280-7076e29fc6d4",
+      "detail": "The information governance requirements that exist in the UK, and the relevant organisational and legislative data protection and data security standards that exist. The legal, social and ethical concerns involved in data management and analysis;"
+    },
+    {
+      "knowledgeId": "33a81b60-3409-44f0-a4e2-4de21388543c",
+      "detail": "The principles of data driven analysis and how to apply these. Including the approach, the selected data, the fitted models and evaluations used to solve data problems;"
+    },
+    {
+      "knowledgeId": "430d1d6c-dcc2-460f-8d25-7c421ac1f97c",
+      "detail": "The properties of different data storage solutions, and the transmission, processing and analytics of data from an enterprise system perspective. Including the platform choices available for designing and implementing solutions for data storage, processing and analytics in different data scenarios;"
+    },
+    {
+      "knowledgeId": "3975148a-49a7-495a-9599-b193e5093b6b",
+      "detail": "How relevant data hierarchies or taxonomies are identified and properly documented;"
+    },
+    {
+      "knowledgeId": "38a483de-b620-40d6-be5c-7119addb136d",
+      "detail": "The concepts, tools and techniques for data visualisation, including how this provides a qualitative understanding of the information on which decisions can be based."
+    },
+    {
+      "knowledgeId": "11496d59-f316-4286-896a-cb043aff688b",
+      "detail": "The hardware and software platforms relevant to the business context, and the applications hosted by these;"
+    },
+    {
+      "knowledgeId": "cd163ec5-47e5-4858-8c37-84a483bcc631",
+      "detail": "The relevant standards, tools, approaches and processes for developing and communicating enterprise architectures, optimising architectural solutions and mitigating risks;"
+    },
+    {
+      "knowledgeId": "b1d8c464-8fc7-44f0-9c57-c86d07a50714",
+      "detail": "How to create architecture descriptions and designs, using industry standard tools and techniques to build a coherent representation of an enterprise architecture consisting deployed business services, applications and technology;"
+    },
+    {
+      "knowledgeId": "fbfc5d90-4e89-4ba4-ae55-93a3525121cf",
+      "detail": "The need for different models, views and representations of enterprise architectures to describe the structure and behaviour of applications, how they interact with each other, the data consumed and produced, and the interactions with business users;"
+    },
+    {
+      "knowledgeId": "c4926fc4-afac-429c-b9d0-f2079f70c472",
+      "detail": "The relationship between business strategy, business goals, and an enterprise architecture, including the importance of usability, reliability, performance, maintainability, and security in architectural development;"
+    },
+    {
+      "knowledgeId": "5f0b3ffa-470a-4c5f-83ae-f5c8efeec74f",
+      "detail": "How to assess enterprise architectures for relevance and review their suitability in supporting the enterprise."
+    },
+    {
+      "knowledgeId": "900c864d-8e95-4143-8cca-3f49da1ade12",
+      "detail": "The fundamental software testing and assurance concepts and methods; including goals, challenges and limitations of software testing;"
+    },
+    {
+      "knowledgeId": "5d0a488b-73cf-41a4-854a-c523ec9e65fe",
+      "detail": "How to create, configure and maintain multi-server test environments;"
+    },
+    {
+      "knowledgeId": "97f8f99f-d3dc-4576-821f-7edf614f0008",
+      "detail": "How to design test cases effectively with various testing strategies including the need for representative test data;"
+    },
+    {
+      "knowledgeId": "af34b7cd-a5d5-4765-b062-68f9ea99a283",
+      "detail": "How to select and justify appropriate testing techniques for a software testing situation, taking account of their strengths and weaknesses and the software’s domain, requirements and development maturity;"
+    },
+    {
+      "knowledgeId": "468bee62-458e-4249-9019-7610a44124c2",
+      "detail": "How to implement standard testing and assurance methodologies and procedures for a range of digital solution platforms including front-and back-office enterprise, mobile apps and web based applications. This includes the tools and techniques that can be used for automated testing, how to apply these and their limitations;"
+    },
+    {
+      "knowledgeId": "52f65d25-b140-47e9-8fd4-b8a2c4b98036",
+      "detail": "The need to deliver clear test results, defect reports and associated test documentation."
+    },
+    {
+      "knowledgeId": "f7bf9d3e-7a72-44a6-a06a-7c16f67e0be6",
+      "detail": "The role and nature of IT consultancy as a mechanism for creating business improvements and which typical responsibilities and activities are included;"
+    },
+    {
+      "knowledgeId": "d4e4d263-0b96-40c5-ad5f-c26e0c74f7e2",
+      "detail": "The contribution of contemporary IT architectures (including cloud deployment) as well as software platforms and applications appropriate to the context of IT consultancy;"
+    },
+    {
+      "knowledgeId": "306943fb-4001-4f07-b17d-a63101cf5514",
+      "detail": "The importance of clearly identifying the client issue, applying a structured approach and selecting appropriate analytical tools and techniques;"
+    },
+    {
+      "knowledgeId": "1594e099-7c79-4f21-9e5f-2a1e9f442bc2",
+      "detail": "The diversity of IT consultancy interventions and approaches and the importance of scoping interventions effectively and agreeing clear contracts with clients;"
+    },
+    {
+      "knowledgeId": "22e4af8b-a815-465f-911d-5021ad8cd7bc",
+      "detail": "How to apply a range of simple, recognised data gathering, problem solving and analytical tools and techniques to achieve agreed outcomes, presenting and communicating the results of research in reports and presentations to senior stakeholders;"
+    },
+    {
+      "knowledgeId": "51e379a2-7f18-4090-a7ff-9b073b80f9e7",
+      "detail": "The importance of client relationship, methods of establishing engagement with the client and the importance of communication, consultation and negotiation in managing clients."
+    },
+    {
+      "knowledgeId": "3771d732-f6cb-4659-a188-ec42c3ccb034",
+      "detail": "How to analyse and deconstruct project briefs, translating them into detailed functional and technical specifications covering complex scenarios and understanding interdependencies;"
+    },
+    {
+      "knowledgeId": "8f3e5c24-9c75-4a2d-8edf-0918e9f8ad85",
+      "detail": "How to deliver system requirements, including the methods and techniques for analysing the business domain and producing business requirements;"
+    },
+    {
+      "knowledgeId": "9f7c46b7-3d53-4463-8ea0-75b300404b8e",
+      "detail": "How to manage and document change with the business and communicate to the development team;"
+    },
+    {
+      "knowledgeId": "f23ab941-b0aa-4c04-b0af-46d00a1035f3",
+      "detail": "The role, functions and processes of information systems in achieving business objectives;"
+    },
+    {
+      "knowledgeId": "4a75706d-1410-438e-9fc6-8c04823a0d49",
+      "detail": "The analytical and computer based tools, techniques and modelling approaches that are required for the thorough analysis and solution of complex decision problems in a business context, together with the advantages and disadvantages in using them;"
+    },
+    {
+      "knowledgeId": "0caf38e6-7d3d-42d0-a2c9-103e103da58a",
+      "detail": "The concepts of organisational context, business strategy, stakeholder, business systems and process thinking, and change management for the business requirements analysis."
+    },
+    {
+      "knowledgeId": "414ab62e-03f4-4ca2-bc5d-e1954b9b0b88",
+      "detail": "How IT networks impact the organisation, business objectives and processes and the application of different approaches to network organisation and management;"
+    },
+    {
+      "knowledgeId": "237cb7fd-766e-4eab-b2b9-25517b79ed9d",
+      "detail": "The principles of secure network design, architecture, implementation and assurance, including how to develop and analyse network protocols by using networking simulation;"
+    },
+    {
+      "knowledgeId": "a69c7085-04e5-43b5-9316-05608e5a46c7",
+      "detail": "How to build and maintain secure networks, including the types of countermeasures that can be put in place to identify, reduce or prevent problems caused by network attacks or misuse;"
+    },
+    {
+      "knowledgeId": "6a0cad66-924f-4888-9f91-54667e65f949",
+      "detail": "How to implement quality of services (QoS) of communication networks in terms of throughput, reliability and delay, and the importance of ensuring that performance, security, availability and continuity standards meet required service levels and business needs;"
+    },
+    {
+      "knowledgeId": "1ae24f32-e52a-41c9-90e3-3d4d4d958591",
+      "detail": "Current industry standard network architectures and their individual protocol layers, including the algorithms employed, the OSI (Open Standard Interconnection) model, systematic troubleshooting approaches and how to apply them;"
+    },
+    {
+      "knowledgeId": "165c63a3-5d57-40f9-a993-bf448d9122da",
+      "detail": "Network industry trends and technical opportunities, assessing their viability for use within different business scenarios."
+    },
+    {
+      "knowledgeId": "71b19c7f-1a5a-422a-8371-b5c99b8e1e4f",
+      "detail": "The principles governing modern approaches to the management of IT enabled operations and the development, management, application and implementation of information systems to support business processes and their impact upon organisations;"
+    },
+    {
+      "knowledgeId": "463d5c5d-8a39-490e-811b-6fa7b3687cca",
+      "detail": "The importance of IT operations within a business for competitiveness and how key aspects of customer service such as quality, cost, delivery and customisation are linked to the type of system adopted;"
+    },
+    {
+      "knowledgeId": "03a06c14-204b-4651-9e6c-1e3be5943f54",
+      "detail": "The role and function of information technology in supporting operations and supply chain management;"
+    },
+    {
+      "knowledgeId": "73fe6307-aaeb-4f13-96d1-beac0028565a",
+      "detail": "How the design and management of a firm’s IT enabled processes interact to determine a firm’s cost structure and its ability to compete effectively in terms of non-cost measures such as quality, variety and speed;"
+    },
+    {
+      "knowledgeId": "a97dd55f-e238-408a-9fb4-287d973fcf32",
+      "detail": "The key issues in the design of IT enabled operations (such as process design and analysis) and in the management of those operations (such as planning, scheduling and optimisation);"
+    },
+    {
+      "knowledgeId": "7817ed74-adb7-44a6-83e7-3dd3ed845cd7",
+      "detail": "The principles of asset management and support for company IT related hardware and devices."
+    },
+    {
+      "knowledgeId": "b64025b3-eda0-4cdd-9eab-dd22e0c48cd6",
+      "detail": "The characteristics of IT project management and how it drives change within organisations, through the organisational IT and systems strategy and its links to the business strategy. The importance of delivering business value via IT projects, and how this is achieved;"
+    },
+    {
+      "knowledgeId": "8b68a0da-8498-4003-b7e8-7596982785a0",
+      "detail": "How to select appropriate modern software development methods for a variety of software projects, including the processes, methodologies, tools and standards to improve the cost, speed and quality of solution development;"
+    },
+    {
+      "knowledgeId": "256cb014-5844-437d-9f70-9bfec6b3e177",
+      "detail": "How to analyse and manage the development processes/stages, quality control, delivery and documentation/communication etc. of large scale software systems;"
+    },
+    {
+      "knowledgeId": "c2222a72-d41c-4e84-ac87-31791e0fde6c",
+      "detail": "How to apply estimation techniques for software solution development activities, and planning/tracking techniques to monitor progress of those activities in software development;"
+    },
+    {
+      "knowledgeId": "8362b767-ee10-4826-b435-18cf0d2b7ed8",
+      "detail": "How to communicate software solution milestones and progress updates with client stakeholders;"
+    },
+    {
+      "knowledgeId": "fdfac958-0b73-4ce1-a7cf-6202204f888d",
+      "detail": "How to deliver the roadmap, governance and supporting processes for software solutions."
+    },
+    {
+      "knowledgeId": "ba624bca-9503-4715-be48-532cf06bbaad",
+      "detail": "The principles of threat intelligence, modelling and assessment. The range of modern attack techniques and how and where to research emerging attack techniques to inform the development of improved security controls, countermeasures and policies and standards;"
+    },
+    {
+      "knowledgeId": "1ddc81b2-5fe4-4203-8f29-6fc958a194b3",
+      "detail": "How to use human factor analysis in the assessment of threats, including the motivations and methods adopted by a wide range of human threat actors;"
+    },
+    {
+      "knowledgeId": "df48e098-80b3-411e-a4b7-324d34be4e6f",
+      "detail": "How to select and apply tools and techniques to carry out a variety of security testing strategies including vulnerability scanning, penetration testing and ethical hacking, recognising that security testing itself cannot guarantee security and only reveal gaps in security provisioning;"
+    },
+    {
+      "knowledgeId": "55269e76-fd04-4db6-97c0-50488e990dce",
+      "detail": "The different approaches and design principles that are used to engineer secure systems, focusing on the importance of building in security, privacy and resilience in the initial design;"
+    },
+    {
+      "knowledgeId": "b1e3b689-884f-4cd1-81d6-182656e5522b",
+      "detail": "How to develop and implement security event response programmes, security event handling, and operational security activities;"
+    },
+    {
+      "knowledgeId": "3e448672-af07-4689-b69c-3e444614439c",
+      "detail": "The different types of cyber security controls that can be implemented, the main principles of secure configuration of security components and devices, including firewalls and protective monitoring tools and how to apply them."
+    },
+    {
+      "knowledgeId": "05612c4f-dde6-4bdd-8d44-d8a06152c9c3",
+      "detail": "How to develop strategies for the management and deployment of new and emerging technologies, tools and techniques which deliver business value within the context of a digital workplace in a fast-changing business environment;"
+    },
+    {
+      "knowledgeId": "cd3d9528-55ac-4928-aab8-dd34117f9810",
+      "detail": "How to review, evaluate, select and test digital product technologies and enhanced digitally enabled business processes which improve business efficiency through the integrated use of data and management information systems;"
+    },
+    {
+      "knowledgeId": "b2a0e039-b513-4d22-bf6e-e80c9b7f8253",
+      "detail": "How to implement digital solutions that improve access to services as they become web-based or web-enabled, which reduce administration costs through the adoption of digital tools and improved communications for stakeholders;"
+    },
+    {
+      "knowledgeId": "ee3d028d-1f9c-4064-be1e-1800b8944ed2",
+      "detail": "The stages through which digital business services are created from discovery, through to live and how those services can be maintained and managed over time until they are retired;"
+    },
+    {
+      "knowledgeId": "792e623d-7210-4d51-8178-48e383dd1e63",
+      "detail": "Conduct technology foresight activities to review changes to the IT landscape to meet current and future business requirements;"
+    },
+    {
+      "knowledgeId": "68b236ca-8706-48f1-a7d4-fdc9214911b9",
+      "detail": "Undertake financial modelling relevant to the digital workplace context to justify IT infrastructure investment making a sound business case to support future development."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "688390a9-6680-4f79-8f1f-9a3560fb5e5a",
+      "detail": "Inspire and motivate others to deliver excellent technical solutions and outcomes"
+    },
+    {
+      "behaviourId": "135d2ade-7b74-47a7-9305-f4df278fe31d",
+      "detail": "Establish high levels of performance in digital and technology solutions activities"
+    },
+    {
+      "behaviourId": "9e081b79-ddc0-4f69-a042-5854d6678c92",
+      "detail": "Be results and outcomes driven to achieve high key performance outcomes for digital and technology solutions objectives"
+    },
+    {
+      "behaviourId": "ac1931e0-8ecd-4a82-9cdb-b2c4124adee1",
+      "detail": "Promote a high level of cooperation between own work group and other groups to establish a technology change led culture"
+    },
+    {
+      "behaviourId": "df3a5388-ac3d-4547-8425-231750683c51",
+      "detail": "Develop and support others in developing an appropriate balance of leadership and technical skills"
+    },
+    {
+      "behaviourId": "0745f538-6351-476e-a95f-fec134fd52eb",
+      "detail": "Create strong positive relationships with team members to produce high performing technical teams"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b928a11c-bfd4-44b7-96cd-ecae99158036",
+      "detail": "Identify, document, review and design complex IT enabled business processes that define a set of activities that will accomplish specific organisational goals and provides a systematic approach to improving those processes;"
+    },
+    {
+      "skillId": "036fdc6e-c5fb-4082-bb8b-359596e84f0d",
+      "detail": "Design and develop technology roadmaps, implementation strategies and transformation plans focused on digital technologies to achieve improved productivity, functionality and end user experience in an area of technology specialism;"
+    },
+    {
+      "skillId": "743a5187-a9d3-4ec7-8bed-e591ec9a2e67",
+      "detail": "Deliver workplace transformations through planning and implementing technology based business change programmes including setting objectives, priorities and responsibilities with others in an area of technology specialism;"
+    },
+    {
+      "skillId": "488ec10c-b718-4800-a9f8-d1d08b897e9c",
+      "detail": "Negotiate and agree digital and technology specialism delivery budgets with those with decision-making responsibility;"
+    },
+    {
+      "skillId": "8b72a770-59ca-4a19-978a-2c28bb60efc7",
+      "detail": "Develop and deliver management level presentations which resonate with senior stakeholders, both business and technical;"
+    },
+    {
+      "skillId": "8c5bd35f-5fa1-45e0-ac08-39617cbe08c8",
+      "detail": "Professionally present digital and technology solution specialism plans and solutions in a well-structured business report;"
+    },
+    {
+      "skillId": "b2537a79-602b-4418-9599-7b139799d31b",
+      "detail": "Demonstrate self-direction and originality in solving problems, and act autonomously in planning and implementing digital and technology solutions specialist tasks at a professional level;"
+    },
+    {
+      "skillId": "f5ed15e6-d21c-4258-8811-d39d09ce3693",
+      "detail": "Be competent at negotiating and closing techniques in a range of interactions and engagements, both with senior internal and external stakeholders;"
+    },
+    {
+      "skillId": "ece4cdec-402e-40e9-9f38-bea93d7740f4",
+      "detail": "Evaluate the significance of human factors to leadership in the effective implementation and management of technology enabled business processes;"
+    },
+    {
+      "skillId": "ea02da23-cdd0-4e12-ae2b-a72f3e2644f3",
+      "detail": "Develop own leadership style and professional values that contributes to building high performing teams;"
+    },
+    {
+      "skillId": "02e9d144-8f48-4b6e-8ead-b24fee32a932",
+      "detail": "Apply broader technical knowledge combined with an understanding of the business context, and how it is changing, to deliver to the company’s business strategy;"
+    },
+    {
+      "skillId": "1cf6ab8e-b7d0-4d8e-8ca7-cf38b9b7d922",
+      "detail": "Demonstrate effective technology leadership and change management skills for managing technology driven change and continuous improvement;"
+    },
+    {
+      "skillId": "d1399aed-3f99-4739-863a-e18e9984becf",
+      "detail": "Create and implement innovative technological strategies to support the development of new products, processes and services that align with the company’s business strategy, and develop and communicate compelling business proposals to support these."
+    },
+    {
+      "skillId": "c8585bb9-51ac-4a6f-a707-cb869662b611",
+      "detail": "Architect, build and support leading edge concurrent software platforms that are performant to industry standards and deliver responsive solutions with good test coverage;"
+    },
+    {
+      "skillId": "bf2c830d-0093-4887-b290-5d8e3a29713e",
+      "detail": "Drive the technology decision-making and development process for projects of varying scales, considering current technologies including DevOps and O3:Cloud Computing, and evaluate different technology design and implementation options making reasoned proposals and recommendations;"
+    },
+    {
+      "skillId": "c04369e5-28df-4291-b2f3-0c65510a27bf",
+      "detail": "Develop and deliver, distributed or semi-complex software solutions that are scalable and which deliver innovative user experiences and journeys that encompass cross-functional teams, platforms and technologies;"
+    },
+    {
+      "skillId": "11692b3b-9f88-4f0c-a449-3ebd81c85f73",
+      "detail": "Update current software products, improving the efficiency and functionality, and build new features to product specifications;"
+    },
+    {
+      "skillId": "07ec780b-0d3f-4084-b550-7178612b4cf5",
+      "detail": "Accomplish planned software development tasks that deliver the expected features, within specified time constraints, security and quality requirements;"
+    },
+    {
+      "skillId": "6e7d9a8d-448e-45e2-b896-6d6c38521531",
+      "detail": "Be accountable for the quality of deliverables from one or more software development teams (source code quality, automated testing, design quality, documentation etc.) and following company standard processes (code reviews, unit testing, source code management etc.)."
+    },
+    {
+      "skillId": "1596c097-e02b-4c52-bb36-be5a79eb0cfd",
+      "detail": "Identify and select the business data that needs to be collected and transitioned from a range of data systems; acquire, manage and process complex data sets, including large-scale and real-time data;"
+    },
+    {
+      "skillId": "ba8f7ad1-d0eb-4963-85cc-537b4a16e583",
+      "detail": "Undertake analytical investigations of data to understand the nature, utility and quality of data, and developing data quality rule sets and guidelines for database designers;"
+    },
+    {
+      "skillId": "4b5e4a07-63ec-4a8d-a088-f23312b74d91",
+      "detail": "Formulate analysis questions and hypotheses which are answerable given the data available and come to statistically sound conclusions;"
+    },
+    {
+      "skillId": "8603d270-7ff3-4633-8da9-3ae396276d73",
+      "detail": "Conduct high-quality complex investigations, employing a range of analytical software, statistical modelling & machine learning techniques to make data driven decisions solve live commercial problems;"
+    },
+    {
+      "skillId": "8341f34d-5a09-4ea0-a863-b5f79fe0673f",
+      "detail": "Document and describe the data architecture and structures using appropriate data modelling tools, and select appropriate methods to present data and results that support human understanding of complex data sets;"
+    },
+    {
+      "skillId": "3972039c-24c4-4a7d-bc53-fb1a590b4b46",
+      "detail": "Scope and deliver data analysis projects, in response to business priorities, create compelling business opportunities reports on outcomes suitable for a variety of stakeholders including senior clients and management."
+    },
+    {
+      "skillId": "eb29d696-4734-48ad-a0ed-14972f03569f",
+      "detail": "Design and maintain digital systems architectures for online, cloud or mobile platforms. Evaluate alternative architectural solutions, ensuring the architecture is optimal for the business context in terms of deployment, operation and continuous enhancements;"
+    },
+    {
+      "skillId": "6725905d-c6d1-4059-8a6d-826b588a5a59",
+      "detail": "Produce logical and physical architectural designs, mapping architectural principles and constraints onto the architectural solution. Evaluate and recommend products and services from software and solution providers in support of the architecture designs;"
+    },
+    {
+      "skillId": "d2f8363f-78eb-49ac-8baf-49686624b7ea",
+      "detail": "Recommend optimal delivery roadmaps and develop system implementation plans for enabling the proposed architecture, maintaining operational stability whilst delivering enterprise architecture-led change initiatives to improve business performance;"
+    },
+    {
+      "skillId": "799921d1-4c41-4a84-9024-d218c20e73f3",
+      "detail": "Implement architectural design governance frameworks that include risk mitigation strategies associated with the architecture. Define, develop and maintain operating models, technical design principles and enterprise architecture artefact guidelines;"
+    },
+    {
+      "skillId": "bcec9ca6-c769-477f-8434-5dde5da93ae0",
+      "detail": "Document architectures and roadmaps that enable the logical and physical system to be defined, to the detail appropriate to the audience and communicate the solutions and their importance and value to stakeholders;"
+    },
+    {
+      "skillId": "11246f1c-e714-4def-a230-0edd39bc8a8c",
+      "detail": "Work with implementation teams to support the delivery of new or improved architectures, managing stakeholder expectations to reconcile conflicting business requirements."
+    },
+    {
+      "skillId": "6615d43d-2641-44e1-b185-d642a0918cfc",
+      "detail": "Test Environment: Specify and configure digital system solution test environments to represent the usage context, against which tests can be execute in line with the organisational test strategy;"
+    },
+    {
+      "skillId": "dd27ed8b-88eb-4629-a6fc-0d517d688a4f",
+      "detail": "Test Planning: Create test plans that specify the digital system solution testing objectives, test deliverables, test schedule, test activity estimates and the required test resources (testers, test software and test hardware) required for digital system solution testing;"
+    },
+    {
+      "skillId": "c97c8487-cf2e-417d-ad61-b3dd284cd565",
+      "detail": "Test Cases: Write clear, intuitive test cases that are used to verify that each element of the digital system solution under test performs as specified. Use industry standard test management tools to define test cases and specify test data;"
+    },
+    {
+      "skillId": "99368cea-c263-436b-994e-71acad7ccb24",
+      "detail": "Test Execution: Apply appropriate test techniques to execute tests for reach test case using both manual test methods and automated testing tools as appropriate in a commercial environment;"
+    },
+    {
+      "skillId": "0b40c62f-e607-4170-bf87-8fcefd743768",
+      "detail": "Test Results: Document, manage and maintain test results and resolutions. Produce defect reports to identify, characterise and prioritise identified defects and aid their resolution. Compile written reports on test activities, outcomes, opportunities and risks, and explain recommendations to stakeholders;"
+    },
+    {
+      "skillId": "b875e16a-95b0-4ee8-a206-861b0f340081",
+      "detail": "Test Reviews: Define review and refine test methodologies in line with best practice test strategies and practices. Develop strategies for increased exploitation of reusable automated testing approaches."
+    },
+    {
+      "skillId": "7f0af722-7425-48cf-9f6b-2e7493e914b2",
+      "detail": "Assess an organisation's technology operations and their continued capability to deliver the organisations technology based products and services, through defining, delivering, and supporting strategic plans for implementing digital technologies and revising as required;"
+    },
+    {
+      "skillId": "64649db4-f720-4345-9772-4a88263d906e",
+      "detail": "Perform strategic analysis of organisational information systems, their structure and current effectiveness, in order to make systems rationalisation, systems integration and other improvement proposals:"
+    },
+    {
+      "skillId": "bf09aacb-2590-4e2e-9796-22aef01b85a9",
+      "detail": "Engage with business units to produce technical solution proposals for different technology domains such as infrastructure, cloud, application and storage platforms aligned with business demand;"
+    },
+    {
+      "skillId": "df02dfb3-f2b3-43d2-a9f3-81463abc63e5",
+      "detail": "Develop and implement technology lifecycle roadmaps, assessing different technical options and developing technology strategies aligned with business priorities and agreeing the case for change from senior management;"
+    },
+    {
+      "skillId": "a01898ed-970c-4a2d-8c90-8bc4a4c2d540",
+      "detail": "Plan and manage technology change delivery and migration programmes, ensuring successful implementation of the chosen technology, smooth delivery of related consultancy services to clients and verifying application results using audits;"
+    },
+    {
+      "skillId": "c80964f2-f281-4aba-9817-d8d5dde33d4f",
+      "detail": "Analyse and assess complex digital business problems through collecting and reviewing business data and formulating technology based design solutions."
+    },
+    {
+      "skillId": "3da0d2dd-6a54-4e8e-8fd1-3921e4c4c0dc",
+      "detail": "Lead the gathering of requirements through elicitation, validation, prioritisation and documentation of high level and detailed system requirements, both functional and non-functional, using appropriate documentation and modelling techniques;"
+    },
+    {
+      "skillId": "376ca32c-c731-4338-8f93-908f8d1c5da1",
+      "detail": "Lead business process workshops for understanding the client business environment and that analyse, develop and document end-to-end business processes and document product definitions, stakeholder needs, product features, and corresponding functional specifications;"
+    },
+    {
+      "skillId": "4eb8dbfb-16b1-4085-8c72-286419b8c605",
+      "detail": "Manage requirements ensuring that there is traceability through the project lifecycle from initiation to final delivery;"
+    },
+    {
+      "skillId": "c084d84d-636a-4657-93bd-8e7566e9c7ce",
+      "detail": "Map requirements with existing functionality and identify gaps that require additional configuration or customisation;"
+    },
+    {
+      "skillId": "3a1c3b49-f0fb-4422-b326-a5e130e53e65",
+      "detail": "Drive the prioritisation, documentation and communication of business requirements throughout the project lifecycle, using a variety of recognised techniques and tools;"
+    },
+    {
+      "skillId": "000ac3ce-d8d2-457f-8bf7-702a3b26f818",
+      "detail": "Communicate requirements and other business analysis findings to internal and external team stakeholders."
+    },
+    {
+      "skillId": "69ae92c3-6808-4c71-880b-93add56c45ef",
+      "detail": "Take responsibility for design, build and deployment activities to deliver appropriate secure network infrastructure solutions to meet customer requirements at an enterprise level and within budget, including enhancements and network configuration updates;"
+    },
+    {
+      "skillId": "9a41f510-f4b0-4aae-8cef-94c6ec572d1a",
+      "detail": "Formulate detailed network and storage specifications for stable and secure computing operations in a dynamic environment identifying new networking services and capabilities;"
+    },
+    {
+      "skillId": "7340b8c9-daaa-4818-af74-91e3c171ce48",
+      "detail": "Manage the operation, maintenance and support of secure network environments, including diagnosing and troubleshooting wireless, security, switching, phone and other network-related issues for network related incidents;"
+    },
+    {
+      "skillId": "4ace74d3-813e-4f78-85fa-9bdf44338644",
+      "detail": "Select and apply network monitoring tools to aid planning network upgrades before they become critical. Make recommendations for improvements to security, scalability, manageability, and performance across a network, storage, and related technologies;"
+    },
+    {
+      "skillId": "ac1eb3ba-27bc-4d91-a5ec-3bf9a3c7c69b",
+      "detail": "Produce network technology roadmaps to meet evolving business needs for enterprise computing environments, including common network services, cloud services, web application hosting, databases, high-availability services, security and backup/recovery;"
+    },
+    {
+      "skillId": "f6d67186-2620-4e64-a46f-acbfc245322f",
+      "detail": "Ensure network infrastructure solutions chosen fit within the overall enterprise infrastructure architecture, security architecture and security standards."
+    },
+    {
+      "skillId": "0a69b984-c490-44a9-8d19-8f7c14465a9a",
+      "detail": "Take responsibility for the availability, performance and resilience of all business IT systems including core admin and business platforms, web applications and related interfaces and support services and the operational maintenance of servers, storage and other technical back-office elements;"
+    },
+    {
+      "skillId": "c209db8d-732e-4289-b922-e2d259e908b8",
+      "detail": "Design and implement short and long-term strategic plans to ensure the IT infrastructure and services capacity and capability meets existing and future requirements;"
+    },
+    {
+      "skillId": "7292ae31-86ff-4c3e-a39a-d8d577dbc016",
+      "detail": "Manage the transition and maintenance of new or updated solutions or other changes into the live operations environments, this includes scheduled installation of software updates, backups and patches to development and production systems;"
+    },
+    {
+      "skillId": "a01a3ff1-d689-479a-b494-efbbdf1956c4",
+      "detail": "Review and develop the organisation’s procedures for monitoring and measuring the performance of IT operations and produce and maintain detailed documentation on operational IT systems, processes and procedures;"
+    },
+    {
+      "skillId": "368a601d-4615-4974-a476-96ccb5ea9bd8",
+      "detail": "Ensure that IT systems are compliant with information governance, regulatory and mandatory requirements and standards including local inventory maintenance and software license management;"
+    },
+    {
+      "skillId": "82a211c8-7023-4a4b-9894-6e8e5de2ad73",
+      "detail": "Manage 3rd\u00A0party IT systems and services and business applications line with the IT strategy, ensuring that their availability and performance meets the firm's current and future requirements including responsibility for IT vendor, contract and outsourcing management."
+    },
+    {
+      "skillId": "d18824d5-cb9c-46de-a57b-14ac48336c90",
+      "detail": "Take responsibility for the evolution and development of software solutions for web, mobile and fixed platform solutions, leading the scoping, sizing, and estimating efforts for assigned engagements;"
+    },
+    {
+      "skillId": "feb6aa5d-93e0-402c-8737-0651f4c01a43",
+      "detail": "Manage the demand planning, forecasting, budgeting, and supply planning for software solutions development delivery. Identify resources, assign responsibilities and formulate work packages in accordance with organisational standards;"
+    },
+    {
+      "skillId": "8ccf6351-9160-4da5-a1f7-0128bfaf771b",
+      "detail": "Manage the work of the software solution development teams to ensure optimal resource utilisation and engagement, ensuring that the evolution and development of software solutions meets the software specification and client’s expectations;"
+    },
+    {
+      "skillId": "913148f3-92ee-4123-b3bd-95c28cfed9d4",
+      "detail": "Ensure all delivery aspects of IT solutions adhere to an appropriate software development methodology (including Agile, and Waterfall);"
+    },
+    {
+      "skillId": "e17d2fe6-76f7-439f-bb1a-7bec24dd54e2",
+      "detail": "Manage the solution roadmap, communicating milestones providing status reports and progress updates of solutions to client stakeholders and managing documentation in accordance with the organisation’s standards;"
+    },
+    {
+      "skillId": "cca16654-83bf-488c-bdc4-ad30213f852f",
+      "detail": "Establish close and trusted relationships with clients, business stakeholders and software solutions teams to deliver the roadmap, governance and supporting processes and successfully negotiate with clients on technical matters, and manage client expectations."
+    },
+    {
+      "skillId": "7a24ee4f-7e6e-4c69-8cf6-d38b5ec2922d",
+      "detail": "Plan and carry out a variety of security testing strategies on IT infrastructures (fixed and wireless), middle-ware and applications, to identify new issues and recommend remediation and enhancements to security policies and information technology procedures;"
+    },
+    {
+      "skillId": "f92284b3-6d09-4793-a972-2fc454d8a282",
+      "detail": "Perform cyber threat intelligence analysis to research, analyse and evaluate technical threats by reviewing open source and other information from trusted sources for new vulnerabilities, malware, or other threats that have the potential to impact the organisation;"
+    },
+    {
+      "skillId": "0302dc75-612e-47ad-9e31-595ab6252d44",
+      "detail": "Identify, investigate and correlate actionable security events, including performing network traffic analysis using a range of techniques relevant to the security of communication networks to assess security risks and escalating where appropriate;"
+    },
+    {
+      "skillId": "1ff62538-a324-4c00-be67-5427c0c0afbd",
+      "detail": "Conduct a vulnerability assessment, to identify and report on vulnerability issues and possible solutions arising, including recommending cost-effective mitigations comprising careful combinations of technical, procedural and administrative controls;"
+    },
+    {
+      "skillId": "943cbacb-f8c6-4cf0-b5b4-7e5d41cf2469",
+      "detail": "Select and apply cyber security forensic tools and techniques for attack reconstruction, including forensic analysis and volatile data collection and analysis;"
+    },
+    {
+      "skillId": "d755a10e-3e57-4208-8cf2-f8713ae189d1",
+      "detail": "Conduct analysis of attacker tools providing indicators for enterprise defensive measures including classifying and identifying attack patterns."
+    },
+    {
+      "skillId": "17c8c0bf-257c-4f1a-b71b-11f973e95ff3",
+      "detail": "Design and develop digital architecture and infrastructure roadmaps, implementation strategies and transformation plans focused on digital workplace transformation;"
+    },
+    {
+      "skillId": "7a480fc6-0b58-449f-8951-fa8585629aee",
+      "detail": "Develop digital workplace business case proposals that provide return on investment (ROI) and total cost of ownership (TCO) analysis, including preparing reports and delivering presentations to senior management to secure budget;"
+    },
+    {
+      "skillId": "5abe522a-f07f-4731-a173-9f000645da7a",
+      "detail": "Conduct digital technology foresight planning to identify and select new digital technology capabilities to optimise the digital workplace. Including cloud computing, social networking, digital collaboration, virtualisation and mobile & tablet computing etc.;"
+    },
+    {
+      "skillId": "1b5f7c0f-8651-485e-ac50-8280dc98094e",
+      "detail": "Align digital infrastructure strategy and planning with business goals to create engaging, connected and cost effective digital workplace environments. Develop policies, and guidelines that direct the selection and implementation of digital workplace infrastructure;"
+    },
+    {
+      "skillId": "adcfd951-4a43-41e9-869d-edea1f1818ea",
+      "detail": "Work with solutions architects, providers and systems administrators to provide an enterprise- wide approach to Digital Workplace planning that is resilient, capable, adaptable, scale-able, user-friendly and focussed on meeting business needs;"
+    },
+    {
+      "skillId": "f0ace326-6bcb-44a8-b7d2-905b39c403d8",
+      "detail": "Ensure that digital workplace infrastructure solutions focus on achieving stable and robust operational service delivery and high availability for end users."
+    }
+  ],
   "optionsUnstructuredTemplate": [
-    "Cyber Security Technical Specialist",
+    "Software Engineering Specialist",
     "Data Analytics Specialist",
-    "Digital Business & Enterprise Systems Architecture Specialist",
-    "IT / Digital Futures Management Specialist",
+    "Digital Business and Enterprise Systems Architecture Specialist",
+    "System Test and Assurance Specialist",
+    "IT Strategy Specialist",
     "IT Business Analysis Specialist",
+    "Network Engineering Specialist",
     "IT Operations Management Specialist",
     "IT Project Management Specialist",
-    "IT Strategy Specialist",
-    "Network Engineering Specialist",
-    "Software Engineering Specialist",
-    "System Test & Assurance Specialist"
+    "Cyber Security Technical Specialist",
+    "IT / Digital Futures Management Specialist"
   ],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2018-08-07T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0047",
-  "tbMainContact": "bob.clift@tpdegrees.com ",
+  "tbMainContact": "oscar.de-bruijn@techskills.org",
   "involvedEmployers": "3ManFactory, Accenture, AMS Neve, BBC, Capgemini, CGI, Connect Software, DWP, IBM, J.P.Morgan, Optimity, TCS, Thales",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Big data analyst",
+    "Data and insight analyst",
+    "Data science specialist",
+    "Data management specialist",
+    "Analytics lead",
+    "Software experience lead",
+    "Software engineering specialist",
+    "Solution developer",
+    "Analyst programmer",
+    "Senior software developer",
+    "Business and enterprise architecture specialist",
+    "Enterprise architect",
+    "Business architect",
+    "Systems architect",
+    "Software assurance engineer",
+    "Software test specialist",
+    "System test analyst",
+    "IT consultancy specialist",
+    "Software consultant",
+    "Business change specialist"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
   "cluster": "Digital Solutions Professional",
+  "clusterId": "235",
+  "clusterDescription": "Provide and implement technology enabled solutions to internal and external customers",
   "createdDate": "2017-11-14T17:08:43 +00:00",
-  "lastUpdated": "2018-08-07T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-specialist-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-and-technology-solutions-specialist-(integrated-degree)-v1-0",
+  "lastUpdated": "2022-01-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.\u00A0",
+  "occupationCode": "OCC0482",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0482-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0482-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "ca2efcd0-8324-4306-8534-0daf0db02cd2",
+      "title": "Software Engineering Specialist",
+      "occupationCode": "OCC0482J"
+    },
+    {
+      "optionId": "f344cba7-df8a-4509-bd26-386194983b52",
+      "title": "Data Analytics Specialist",
+      "occupationCode": "OCC0482B"
+    },
+    {
+      "optionId": "b3bdbb79-e4d7-4fc3-b6a2-32d3cfcaf270",
+      "title": "Digital Business and Enterprise Systems Architecture Specialist",
+      "occupationCode": "OCC0482C"
+    },
+    {
+      "optionId": "8beebd1f-8eee-4fe6-8bb1-87c6584dcf1f",
+      "title": "System Test and Assurance Specialist",
+      "occupationCode": "OCC0482K"
+    },
+    {
+      "optionId": "08905f26-02f7-4fcf-82e9-63443452a9be",
+      "title": "IT Strategy Specialist",
+      "occupationCode": "OCC0482H"
+    },
+    {
+      "optionId": "2b0c96e5-b5c2-4bb8-9fad-7d8a265b02e5",
+      "title": "IT Business Analysis Specialist",
+      "occupationCode": "OCC0482E"
+    },
+    {
+      "optionId": "35e16469-5919-45a8-8ca2-fc3b33c12987",
+      "title": "Network Engineering Specialist",
+      "occupationCode": "OCC0482I"
+    },
+    {
+      "optionId": "9dfc4a01-680a-4aba-9295-78d6270f1233",
+      "title": "IT Operations Management Specialist",
+      "occupationCode": "OCC0482F"
+    },
+    {
+      "optionId": "b58eb69c-11f9-497d-a2a2-92fe203a702c",
+      "title": "IT Project Management Specialist",
+      "occupationCode": "OCC0482G"
+    },
+    {
+      "optionId": "bbe9d2d1-f110-45d2-87b1-f50c95d44e57",
+      "title": "Cyber Security Technical Specialist",
+      "occupationCode": "OCC0482A"
+    },
+    {
+      "optionId": "62cc2b82-7277-4ce4-ba15-4f2597335930",
+      "title": "IT / Digital Futures Management Specialist",
+      "occupationCode": "OCC0482D"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [
+        "688390a9-6680-4f79-8f1f-9a3560fb5e5a",
+        "135d2ade-7b74-47a7-9305-f4df278fe31d",
+        "9e081b79-ddc0-4f69-a042-5854d6678c92",
+        "ac1931e0-8ecd-4a82-9cdb-b2c4124adee1",
+        "df3a5388-ac3d-4547-8425-231750683c51",
+        "0745f538-6351-476e-a95f-fec134fd52eb"
+      ],
+      "mappedKnowledge": [
+        "fc147344-cc9c-4e25-ac3b-8b861ee2182c",
+        "1dbf02db-cea6-4823-9224-932389cfad39",
+        "aa1c3a97-3d74-40ef-8174-5888f98c3d7e",
+        "b7b6542c-070b-456e-8e50-5059a9b9416b",
+        "a8774c7d-0a29-4f9c-9525-db3796759691",
+        "6c1153dd-d9b0-4715-85b6-7317483bd72d",
+        "078210cb-d1f8-4c8d-a93c-ec9029704581",
+        "83eeaee2-3ea4-4f1a-9981-3597b1aed316",
+        "889456c0-a4ca-442d-8129-a805be997158",
+        "9429780b-1784-4869-8dee-73635d2c03a0"
+      ],
+      "mappedSkills": [
+        "b928a11c-bfd4-44b7-96cd-ecae99158036",
+        "036fdc6e-c5fb-4082-bb8b-359596e84f0d",
+        "743a5187-a9d3-4ec7-8bed-e591ec9a2e67",
+        "488ec10c-b718-4800-a9f8-d1d08b897e9c",
+        "8b72a770-59ca-4a19-978a-2c28bb60efc7",
+        "8c5bd35f-5fa1-45e0-ac08-39617cbe08c8",
+        "b2537a79-602b-4418-9599-7b139799d31b",
+        "f5ed15e6-d21c-4258-8811-d39d09ce3693",
+        "ece4cdec-402e-40e9-9f38-bea93d7740f4",
+        "ea02da23-cdd0-4e12-ae2b-a72f3e2644f3",
+        "02e9d144-8f48-4b6e-8ead-b24fee32a932",
+        "1cf6ab8e-b7d0-4d8e-8ca7-cf38b9b7d922",
+        "d1399aed-3f99-4739-863a-e18e9984becf"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Software Engineering Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "46d37985-6862-4b5a-b43c-1769088b619d",
+        "5c1e1b29-57af-42ab-b5a4-8171dd50479d",
+        "7bc81f1f-e98a-437d-ae18-f20c35482560",
+        "5f2bda46-fb37-40fa-b9d7-5fe7a5b8d593",
+        "2a6cde3e-679d-4f43-8a72-78b55947b534",
+        "29d67972-b63a-4c48-a7f3-6835b983d287"
+      ],
+      "mappedSkills": [
+        "c8585bb9-51ac-4a6f-a707-cb869662b611",
+        "bf2c830d-0093-4887-b290-5d8e3a29713e",
+        "c04369e5-28df-4291-b2f3-0c65510a27bf",
+        "11692b3b-9f88-4f0c-a449-3ebd81c85f73",
+        "07ec780b-0d3f-4084-b550-7178612b4cf5",
+        "6e7d9a8d-448e-45e2-b896-6d6c38521531"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Data Analytics Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6f239d10-6a02-416f-9d52-71a4e8cca408",
+        "5ffc17bb-5c7a-497e-b280-7076e29fc6d4",
+        "33a81b60-3409-44f0-a4e2-4de21388543c",
+        "430d1d6c-dcc2-460f-8d25-7c421ac1f97c",
+        "3975148a-49a7-495a-9599-b193e5093b6b",
+        "38a483de-b620-40d6-be5c-7119addb136d"
+      ],
+      "mappedSkills": [
+        "1596c097-e02b-4c52-bb36-be5a79eb0cfd",
+        "ba8f7ad1-d0eb-4963-85cc-537b4a16e583",
+        "4b5e4a07-63ec-4a8d-a088-f23312b74d91",
+        "8603d270-7ff3-4633-8da9-3ae396276d73",
+        "8341f34d-5a09-4ea0-a863-b5f79fe0673f",
+        "3972039c-24c4-4a7d-bc53-fb1a590b4b46"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Digital Business and Enterprise Systems Architecture Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "11496d59-f316-4286-896a-cb043aff688b",
+        "cd163ec5-47e5-4858-8c37-84a483bcc631",
+        "b1d8c464-8fc7-44f0-9c57-c86d07a50714",
+        "fbfc5d90-4e89-4ba4-ae55-93a3525121cf",
+        "c4926fc4-afac-429c-b9d0-f2079f70c472",
+        "5f0b3ffa-470a-4c5f-83ae-f5c8efeec74f"
+      ],
+      "mappedSkills": [
+        "eb29d696-4734-48ad-a0ed-14972f03569f",
+        "6725905d-c6d1-4059-8a6d-826b588a5a59",
+        "d2f8363f-78eb-49ac-8baf-49686624b7ea",
+        "799921d1-4c41-4a84-9024-d218c20e73f3",
+        "bcec9ca6-c769-477f-8434-5dde5da93ae0",
+        "11246f1c-e714-4def-a230-0edd39bc8a8c"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "System Test and Assurance Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "900c864d-8e95-4143-8cca-3f49da1ade12",
+        "5d0a488b-73cf-41a4-854a-c523ec9e65fe",
+        "97f8f99f-d3dc-4576-821f-7edf614f0008",
+        "af34b7cd-a5d5-4765-b062-68f9ea99a283",
+        "468bee62-458e-4249-9019-7610a44124c2",
+        "52f65d25-b140-47e9-8fd4-b8a2c4b98036"
+      ],
+      "mappedSkills": [
+        "6615d43d-2641-44e1-b185-d642a0918cfc",
+        "dd27ed8b-88eb-4629-a6fc-0d517d688a4f",
+        "c97c8487-cf2e-417d-ad61-b3dd284cd565",
+        "99368cea-c263-436b-994e-71acad7ccb24",
+        "0b40c62f-e607-4170-bf87-8fcefd743768",
+        "b875e16a-95b0-4ee8-a206-861b0f340081"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "IT Strategy Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f7bf9d3e-7a72-44a6-a06a-7c16f67e0be6",
+        "d4e4d263-0b96-40c5-ad5f-c26e0c74f7e2",
+        "306943fb-4001-4f07-b17d-a63101cf5514",
+        "1594e099-7c79-4f21-9e5f-2a1e9f442bc2",
+        "22e4af8b-a815-465f-911d-5021ad8cd7bc",
+        "51e379a2-7f18-4090-a7ff-9b073b80f9e7"
+      ],
+      "mappedSkills": [
+        "7f0af722-7425-48cf-9f6b-2e7493e914b2",
+        "64649db4-f720-4345-9772-4a88263d906e",
+        "bf09aacb-2590-4e2e-9796-22aef01b85a9",
+        "df02dfb3-f2b3-43d2-a9f3-81463abc63e5",
+        "a01898ed-970c-4a2d-8c90-8bc4a4c2d540",
+        "c80964f2-f281-4aba-9817-d8d5dde33d4f"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "IT Business Analysis Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "3771d732-f6cb-4659-a188-ec42c3ccb034",
+        "8f3e5c24-9c75-4a2d-8edf-0918e9f8ad85",
+        "9f7c46b7-3d53-4463-8ea0-75b300404b8e",
+        "f23ab941-b0aa-4c04-b0af-46d00a1035f3",
+        "4a75706d-1410-438e-9fc6-8c04823a0d49",
+        "0caf38e6-7d3d-42d0-a2c9-103e103da58a"
+      ],
+      "mappedSkills": [
+        "3da0d2dd-6a54-4e8e-8fd1-3921e4c4c0dc",
+        "376ca32c-c731-4338-8f93-908f8d1c5da1",
+        "4eb8dbfb-16b1-4085-8c72-286419b8c605",
+        "c084d84d-636a-4657-93bd-8e7566e9c7ce",
+        "3a1c3b49-f0fb-4422-b326-a5e130e53e65",
+        "000ac3ce-d8d2-457f-8bf7-702a3b26f818"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Network Engineering Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "414ab62e-03f4-4ca2-bc5d-e1954b9b0b88",
+        "237cb7fd-766e-4eab-b2b9-25517b79ed9d",
+        "a69c7085-04e5-43b5-9316-05608e5a46c7",
+        "6a0cad66-924f-4888-9f91-54667e65f949",
+        "1ae24f32-e52a-41c9-90e3-3d4d4d958591",
+        "165c63a3-5d57-40f9-a993-bf448d9122da"
+      ],
+      "mappedSkills": [
+        "69ae92c3-6808-4c71-880b-93add56c45ef",
+        "9a41f510-f4b0-4aae-8cef-94c6ec572d1a",
+        "7340b8c9-daaa-4818-af74-91e3c171ce48",
+        "4ace74d3-813e-4f78-85fa-9bdf44338644",
+        "ac1eb3ba-27bc-4d91-a5ec-3bf9a3c7c69b",
+        "f6d67186-2620-4e64-a46f-acbfc245322f"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "IT Operations Management Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "71b19c7f-1a5a-422a-8371-b5c99b8e1e4f",
+        "463d5c5d-8a39-490e-811b-6fa7b3687cca",
+        "03a06c14-204b-4651-9e6c-1e3be5943f54",
+        "73fe6307-aaeb-4f13-96d1-beac0028565a",
+        "a97dd55f-e238-408a-9fb4-287d973fcf32",
+        "7817ed74-adb7-44a6-83e7-3dd3ed845cd7"
+      ],
+      "mappedSkills": [
+        "0a69b984-c490-44a9-8d19-8f7c14465a9a",
+        "c209db8d-732e-4289-b922-e2d259e908b8",
+        "7292ae31-86ff-4c3e-a39a-d8d577dbc016",
+        "a01a3ff1-d689-479a-b494-efbbdf1956c4",
+        "368a601d-4615-4974-a476-96ccb5ea9bd8",
+        "82a211c8-7023-4a4b-9894-6e8e5de2ad73"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "IT Project Management Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b64025b3-eda0-4cdd-9eab-dd22e0c48cd6",
+        "8b68a0da-8498-4003-b7e8-7596982785a0",
+        "256cb014-5844-437d-9f70-9bfec6b3e177",
+        "c2222a72-d41c-4e84-ac87-31791e0fde6c",
+        "8362b767-ee10-4826-b435-18cf0d2b7ed8",
+        "fdfac958-0b73-4ce1-a7cf-6202204f888d"
+      ],
+      "mappedSkills": [
+        "d18824d5-cb9c-46de-a57b-14ac48336c90",
+        "feb6aa5d-93e0-402c-8737-0651f4c01a43",
+        "8ccf6351-9160-4da5-a1f7-0128bfaf771b",
+        "913148f3-92ee-4123-b3bd-95c28cfed9d4",
+        "e17d2fe6-76f7-439f-bb1a-7bec24dd54e2",
+        "cca16654-83bf-488c-bdc4-ad30213f852f"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "Cyber Security Technical Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ba624bca-9503-4715-be48-532cf06bbaad",
+        "1ddc81b2-5fe4-4203-8f29-6fc958a194b3",
+        "df48e098-80b3-411e-a4b7-324d34be4e6f",
+        "55269e76-fd04-4db6-97c0-50488e990dce",
+        "b1e3b689-884f-4cd1-81d6-182656e5522b",
+        "3e448672-af07-4689-b69c-3e444614439c"
+      ],
+      "mappedSkills": [
+        "7a24ee4f-7e6e-4c69-8cf6-d38b5ec2922d",
+        "f92284b3-6d09-4793-a972-2fc454d8a282",
+        "0302dc75-612e-47ad-9e31-595ab6252d44",
+        "1ff62538-a324-4c00-be67-5427c0c0afbd",
+        "943cbacb-f8c6-4cf0-b5b4-7e5d41cf2469",
+        "d755a10e-3e57-4208-8cf2-f8713ae189d1",
+        "17c8c0bf-257c-4f1a-b71b-11f973e95ff3",
+        "7a480fc6-0b58-449f-8951-fa8585629aee"
+      ]
+    },
+    {
+      "coreOrOptionTitle": "IT / Digital Futures Management Specialist",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "05612c4f-dde6-4bdd-8d44-d8a06152c9c3",
+        "cd3d9528-55ac-4928-aab8-dd34117f9810",
+        "b2a0e039-b513-4d22-bf6e-e80c9b7f8253",
+        "ee3d028d-1f9c-4064-be1e-1800b8944ed2",
+        "792e623d-7210-4d51-8178-48e383dd1e63",
+        "68b236ca-8706-48f1-a7d4-fdc9214911b9"
+      ],
+      "mappedSkills": [
+        "5abe522a-f07f-4731-a173-9f000645da7a",
+        "1b5f7c0f-8651-485e-ac50-8280dc98094e",
+        "adcfd951-4a43-41e9-869d-edea1f1818ea",
+        "f0ace326-6bcb-44a8-b7d2-905b39c403d8"
+      ]
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-01-14T00:00:00"
 }
