@@ -1,0 +1,688 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 1,
+  "referenceNumber": "ST0127",
+  "learningAimClassCode": "",
+  "title": "Network engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0127",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "Standard, funding band and end-point assessment plan revised",
+  "changedDate": "2025-03-18T00:00:00",
+  "earliestStartDate": "2021-06-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Designing, installing, maintaining and supporting communication networks within an organisation or between organisations.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 30,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "ICT",
+    "Digital",
+    "Communication",
+    "engineer",
+    "network",
+    "coding"
+  ],
+  "jobRoles": [
+    "Network Engineer",
+    "Systems Engineer",
+    "Network Administrator",
+    "Network Architect",
+    "Desk based Engineer",
+    "Field based Engineer",
+    "Infrastructure Engineer",
+    "Dynamic Network Engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/z3oaulix/v12-network-engineer-epa-st0127-word-with-amendment.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in large and small businesses, in all sectors, and within public, private, and voluntary organisations. Network Engineers are a key occupation in most organisations which are increasingly dependent on their digital networks.&lt;/p&gt;\n&lt;p&gt;Organisations of all types are increasingly applying digital technologies across all their business functions to maximise productivity. Large organisations will have sophisticated complex systems whilst smaller consultancies offer support to clients on a contract basis.&lt;/p&gt;\n&lt;p&gt;For example, a Network Engineer may work within a network of hotels to ensure that the booking system functionality and performance is maintained and customer access to courtesy systems such as Wi-Fi are managed appropriately for performance.&lt;/p&gt;\n&lt;p&gt;In a large infrastructure project, a Network Engineer may work in a team to ensure that significant project milestones are reached in delivering network services both within the project and by servicing the project teams with reliable network capability to enable them to deliver that project successfully.&lt;/p&gt;\n&lt;p&gt;Large communications organisations use Network Engineers to service world-leading global networks at the cutting edge - adapting and evolving with changes to new technologies to give customers the very best digital experience from delivering major communications installations to monitoring nationwide networks.&lt;/p&gt;\n&lt;p&gt;The demand for people who can manage, build, maintain virtual and physical networks is increasing. This is because of technological developments such as, 5G and Cloud. The broad purpose of the occupation is to install computer networks, maintain them, and offer technical support to users where necessary.&lt;/p&gt;\n&lt;p&gt;A Network Engineer provides networks and systems to deliver the objectives of varied organisations. They will make sure that systems are working at optimum capacity and problem solve where they are not. To be able to do this effectively a Network Engineer must interpret technical information and understand organisational requirements and expectations. They support delivery of legislatively compliant solutions to challenges in network and infrastructure.&lt;/p&gt;\n&lt;p&gt;Network Engineers deal with both hardware and software issues. They are a key part of putting things right quickly when networks fail, and they communicate problems that they have identified with network integrity or performance rapidly to ensure service is resumed and downtime minimised. Network Engineers help customers both technical and non-technical to install computer networks, maintain them, and offer technical support to users where necessary.&lt;/p&gt;\n&lt;p&gt;Network Engineers can be customer facing or internal. In their daily work, an employee in this occupation interacts with management within organisations, team members, staff, clients, customers, and suppliers. They may interact face to face or remotely by using a range of technologies. They may be working independently or collaboratively as part of a team. They will be aware of their organisational escalation routes and understand their role in their team.&lt;/p&gt;\n&lt;p&gt;The work of a Network Engineer is office-based, although they may need to work across different sites depending on the size of the organisation and their network. When working as a consultant a Network Engineer may spend a lot of time at clients&#39; offices and on large installations, which may mean spending time away from home or their usual work base.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+      "detail": "the causes and consequences of network and IT infrastructure failures"
+    },
+    {
+      "knowledgeId": "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+      "detail": "the architecture of typical IT systems, including hardware, OS, server, virtualisation, voice, cloud and applications"
+    },
+    {
+      "knowledgeId": "e2b7314b-75d5-4d30-b981-d63e8962e713",
+      "detail": "the techniques for systems performance and optimisation"
+    },
+    {
+      "knowledgeId": "1798f87d-f44c-46af-8026-f59225725ca1",
+      "detail": "diagnostic techniques and tools to interrogate and gather information regarding systems performance"
+    },
+    {
+      "knowledgeId": "226b9506-e614-458b-b907-f9ddb235def6",
+      "detail": "organizational procedures to deal with recording information effectively and in line with protocols"
+    },
+    {
+      "knowledgeId": "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+      "detail": "Service Level Agreements (SLAs) and their application to delivering network engineering activities in line with contractual obligations and customer service"
+    },
+    {
+      "knowledgeId": "b3616840-f949-437b-8785-bcf95386e45a",
+      "detail": "their role in Business Continuity and Disaster Recovery"
+    },
+    {
+      "knowledgeId": "f756a61c-e7eb-4fde-970d-78c7a30282de",
+      "detail": "the purposes and uses of ports and protocols"
+    },
+    {
+      "knowledgeId": "c7cbd0cf-7010-4cb3-9b1f-1a4a810ef1eb",
+      "detail": "devices, applications, protocols and services at their appropriate OSI and, or, TCP or IP layers"
+    },
+    {
+      "knowledgeId": "0709af6d-2073-42e6-a5f0-f92ecf35baaf",
+      "detail": "the concepts and characteristics of routing and switching"
+    },
+    {
+      "knowledgeId": "4d04bdcc-f312-49af-98db-8a0ea40d2c23",
+      "detail": "the characteristics of network topologies, types and technologies"
+    },
+    {
+      "knowledgeId": "16e8f6eb-23a2-4cd5-8876-c96483a19de4",
+      "detail": "wireless technologies and configurations"
+    },
+    {
+      "knowledgeId": "8b5558d1-91aa-4f9c-ae18-f9674a026584",
+      "detail": "cloud concepts and their purposes"
+    },
+    {
+      "knowledgeId": "62117701-e586-406a-b55a-6114f0f9ac3a",
+      "detail": "functions of network services"
+    },
+    {
+      "knowledgeId": "b164b94e-7665-40c4-acd0-8e8820b6a442",
+      "detail": "the different types of network maintenance"
+    },
+    {
+      "knowledgeId": "3685a059-9579-49ec-b7a0-8277d1d400ed",
+      "detail": "how current legislation relates to or impacts occupation"
+    },
+    {
+      "knowledgeId": "d0538cc5-7300-4041-9e95-0e175324ec31",
+      "detail": "troubleshooting methodologies for network and IT infrastructure"
+    },
+    {
+      "knowledgeId": "a3fdc0cd-60bd-4961-b937-0aed15ad4c35",
+      "detail": "how to integrate a server into a network"
+    },
+    {
+      "knowledgeId": "508bb587-b934-4fd2-951f-76aaed26045c",
+      "detail": "the types of security threats to networks and IT infrastructure assets"
+    },
+    {
+      "knowledgeId": "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196",
+      "detail": "how to use tools to automate network tasks"
+    },
+    {
+      "knowledgeId": "39e652c3-198c-4a3d-872a-b981601fe1a9",
+      "detail": "approaches to change management"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+      "detail": "work independently and demonstrate initiative being resourceful when faced with a problem and taking responsibility for solving problems within their own remit"
+    },
+    {
+      "behaviourId": "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+      "detail": "work securely within the business"
+    },
+    {
+      "behaviourId": "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
+      "detail": "work within the goals, vision and values of the organisation"
+    },
+    {
+      "behaviourId": "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+      "detail": "take a wider view of the strategic objectives of the tasks or projects they are working on including the implications for accessibility by users and diversity"
+    },
+    {
+      "behaviourId": "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
+      "detail": "works to meet or exceed customers’ requirements and expectations"
+    },
+    {
+      "behaviourId": "5d77f0b7-6b7a-464f-9931-0d32d80ef683",
+      "detail": "Identifies issues quickly, investigates and solves complex problems and applies appropriate solutions. Ensures the true root cause of any problem is found and a solution is identified which prevents recurrence"
+    },
+    {
+      "behaviourId": "8dccf5df-44b8-4894-a7ac-dabf43968300",
+      "detail": "Committed to continued professional development in order to ensure growth in professional skill and knowledge"
+    },
+    {
+      "behaviourId": "d371c321-f441-4cfb-ad42-a2084b7f7f01",
+      "detail": "Work effectively under pressure showing resilience"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "fd140fa5-f3e8-42b8-9cd9-73095de51971",
+      "detail": "apply the appropriate tools and techniques when securely operating and testing networks"
+    },
+    {
+      "skillId": "a8340ee7-6672-47c8-9c30-51e739464c10",
+      "detail": "install and configure the elements required to maintain and manage a secure network"
+    },
+    {
+      "skillId": "2370017d-0853-4796-877f-d4cfd79ba438",
+      "detail": "implement techniques to monitor and record systems performance in line with defined specifications"
+    },
+    {
+      "skillId": "e13f9247-0c71-4381-b400-5b55ca8989c4",
+      "detail": "maintain security and performance of the system against known and standard threats"
+    },
+    {
+      "skillId": "40a3f14d-40d8-4a3f-951a-d368667e7ad7",
+      "detail": "apply the appropriate tools and techniques to identify systems performance issues"
+    },
+    {
+      "skillId": "c2b6c04f-9795-426c-86dd-dadd5faddcb4",
+      "detail": "apply the appropriate tools and techniques to gather information to troubleshoot issues and isolate, repair or escalate faults"
+    },
+    {
+      "skillId": "cb4ed247-4694-4407-b273-66489a244ff6",
+      "detail": "communicate outcomes of tasks and record in line with organisational procedures and SLAs including adherence to customer service standards"
+    },
+    {
+      "skillId": "598151a5-b1e0-40c6-b53f-c147d797e03a",
+      "detail": "upgrade, apply and test components to systems configurations ensuring that the system meets the organisation’s requirements and minimises downtime. This should include backup processes"
+    },
+    {
+      "skillId": "e33a2a97-674e-4456-be12-2278d0fff9fd",
+      "detail": "record task details whether face-to-face, remote or in writing in line with ogranisational requirements"
+    },
+    {
+      "skillId": "5fc8ebe6-dcac-4764-af83-a1b5a0d18f89",
+      "detail": "interpret information received from a manager, customer or technical specialist and accurately implement the defined requirements"
+    },
+    {
+      "skillId": "dee3d0c0-cebc-48d4-8a80-3eb14ffc3ee0",
+      "detail": "monitor, identify and implement required maintenance procedures"
+    },
+    {
+      "skillId": "5cc80e28-617a-4962-8389-204f71fdccf6",
+      "detail": "implement techniques to optimise systems performance in line with defined specifications"
+    },
+    {
+      "skillId": "50ab7b9e-ddf8-48b8-959a-b44b40d35201",
+      "detail": "organise and prioritise clients or stakeholders’ requests in line with SLAs and organization processes"
+    },
+    {
+      "skillId": "41723c6f-1c62-43f1-a62a-d9270bb8293f",
+      "detail": "explain their job role within the business context to stakeholders to enable a clear understanding on both sides of what their remit is and convey technical constraints in appropriate language considering accessibility and diversity implications"
+    },
+    {
+      "skillId": "e7b96ef3-7fda-4608-a41b-d60a484183a2",
+      "detail": "operate securely and apply the appropriate process, policies and legislation within their business responsibilities"
+    },
+    {
+      "skillId": "da77ce5c-58e8-45ea-9d8e-9f37833c7c1b",
+      "detail": "communicate with a range of stakeholders taking into consideration the organisations cultural awareness and technical ability"
+    },
+    {
+      "skillId": "29e640e2-104f-496b-878e-03fa16da2da5",
+      "detail": "apply the appropriate level of responsibility when planning and prioritising work tasks"
+    },
+    {
+      "skillId": "c34e9243-6f74-4c7d-8a31-fa246bbbff7c",
+      "detail": "apply the relevant numerical skills (Binary, dotted decimal notation) required to meet the defined specifications"
+    },
+    {
+      "skillId": "b408a225-58f8-40d0-9069-e6a9a16bd1af",
+      "detail": "ensure compliance of network engineering outputs with change management processes"
+    },
+    {
+      "skillId": "206fcc25-9fc0-417e-b1ac-182e5a569206",
+      "detail": "select the appropriate tools and comply with organisation policies and processes when upgrading systems"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2014-11-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0552",
+  "tbMainContact": "Marianne.Burrows@education.gov.uk",
+  "involvedEmployers": "IBM, Accenture, BA, BT, Capgemini, Cisco, Fujitsu, HP, John Lewis, Lloyds, Microsoft, NCA, The Royal Signals, Telefonica, The Test Factory, Virgin Media, Visa, BCS - Chartered Institute of IT",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Network Engineer",
+    "Systems Engineer",
+    "Network Administrator",
+    "Network Architect",
+    "Desk based Engineer",
+    "Field based Engineer",
+    "Infrastructure Engineer",
+    "Dynamic Network Engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Support and Services",
+  "cluster": "Hardware, networks and infrastructure technician",
+  "clusterId": "186",
+  "clusterDescription": null,
+  "createdDate": "2021-06-01T08:45:55 +00:00",
+  "lastUpdated": "2025-03-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
+  "banners": "A revised version of this apprenticeship standard and EPA plan has been agreed and is available for information only at present whilst waiting for funding decision.",
+  "occupationCode": "OCC0127",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0127-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0127-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS, The Chartered Institute for IT",
+      "level": "Register of IT Technicians (RITTech) level 4",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "51a7615c-252e-4624-b921-637b785a19e7",
+      "dutyDetail": "Install, configure, and test appropriate network components or devices securely to well-defined specifications whether physical or virtual",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "c7cbd0cf-7010-4cb3-9b1f-1a4a810ef1eb",
+        "0709af6d-2073-42e6-a5f0-f92ecf35baaf",
+        "4d04bdcc-f312-49af-98db-8a0ea40d2c23",
+        "16e8f6eb-23a2-4cd5-8876-c96483a19de4",
+        "8b5558d1-91aa-4f9c-ae18-f9674a026584",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "d0538cc5-7300-4041-9e95-0e175324ec31",
+        "a3fdc0cd-60bd-4961-b937-0aed15ad4c35",
+        "508bb587-b934-4fd2-951f-76aaed26045c",
+        "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fd140fa5-f3e8-42b8-9cd9-73095de51971",
+        "a8340ee7-6672-47c8-9c30-51e739464c10",
+        "e13f9247-0c71-4381-b400-5b55ca8989c4",
+        "c34e9243-6f74-4c7d-8a31-fa246bbbff7c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79a43fcf-6833-4350-8532-001abf7d1afa",
+      "dutyDetail": "Acquire and analyse network performance data to monitor network activity",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "e2b7314b-75d5-4d30-b981-d63e8962e713",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "d0538cc5-7300-4041-9e95-0e175324ec31",
+        "508bb587-b934-4fd2-951f-76aaed26045c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2370017d-0853-4796-877f-d4cfd79ba438",
+        "40a3f14d-40d8-4a3f-951a-d368667e7ad7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "67eb2a1a-ab51-4b44-99c8-5d210dbad13c",
+      "dutyDetail": "Optimise and maintain the performance of network systems or services in line with well-defined specification whether physical or virtual",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+        "e2b7314b-75d5-4d30-b981-d63e8962e713",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "c7cbd0cf-7010-4cb3-9b1f-1a4a810ef1eb",
+        "0709af6d-2073-42e6-a5f0-f92ecf35baaf",
+        "4d04bdcc-f312-49af-98db-8a0ea40d2c23",
+        "16e8f6eb-23a2-4cd5-8876-c96483a19de4",
+        "8b5558d1-91aa-4f9c-ae18-f9674a026584",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "d0538cc5-7300-4041-9e95-0e175324ec31",
+        "a3fdc0cd-60bd-4961-b937-0aed15ad4c35"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dee3d0c0-cebc-48d4-8a80-3eb14ffc3ee0",
+        "5cc80e28-617a-4962-8389-204f71fdccf6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9dd2b106-0845-4284-8236-82b69882a635",
+      "dutyDetail": "Investigate and problem solve to address technical performance issues in networks to return the network to successful operation and escalate as necessary",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683",
+        "d371c321-f441-4cfb-ad42-a2084b7f7f01"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+        "e2b7314b-75d5-4d30-b981-d63e8962e713",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "f756a61c-e7eb-4fde-970d-78c7a30282de",
+        "c7cbd0cf-7010-4cb3-9b1f-1a4a810ef1eb",
+        "0709af6d-2073-42e6-a5f0-f92ecf35baaf",
+        "4d04bdcc-f312-49af-98db-8a0ea40d2c23",
+        "16e8f6eb-23a2-4cd5-8876-c96483a19de4",
+        "8b5558d1-91aa-4f9c-ae18-f9674a026584",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "d0538cc5-7300-4041-9e95-0e175324ec31",
+        "508bb587-b934-4fd2-951f-76aaed26045c",
+        "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2b6c04f-9795-426c-86dd-dadd5faddcb4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f55f00c-1575-4273-a8de-2f401aa43688",
+      "dutyDetail": "Undertake upgrades to a network including physical or virtual systems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+        "e2b7314b-75d5-4d30-b981-d63e8962e713",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "f756a61c-e7eb-4fde-970d-78c7a30282de",
+        "c7cbd0cf-7010-4cb3-9b1f-1a4a810ef1eb",
+        "0709af6d-2073-42e6-a5f0-f92ecf35baaf",
+        "4d04bdcc-f312-49af-98db-8a0ea40d2c23",
+        "16e8f6eb-23a2-4cd5-8876-c96483a19de4",
+        "8b5558d1-91aa-4f9c-ae18-f9674a026584",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "d0538cc5-7300-4041-9e95-0e175324ec31",
+        "a3fdc0cd-60bd-4961-b937-0aed15ad4c35",
+        "508bb587-b934-4fd2-951f-76aaed26045c",
+        "7e65a7fc-6f21-4e3f-a8ea-61d5f6e38196",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "206fcc25-9fc0-417e-b1ac-182e5a569206"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79bb4084-42f3-4ec1-bd42-e85ed43ff3e7",
+      "dutyDetail": "Interpret written requirements and technical specifications in relation to delivery of network systems and services",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "74d64b2e-3c23-4fa4-93a7-429f41be4b26",
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5fc8ebe6-dcac-4764-af83-a1b5a0d18f89"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c8b91beb-c702-46b5-9960-5c3f32f50e22",
+      "dutyDetail": "Maintain accurate logical records in line within organisational policy when carrying out network tasks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
+        "0ef8eadd-e29a-4e48-b987-5d15f944b52c"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "62117701-e586-406a-b55a-6114f0f9ac3a",
+        "b164b94e-7665-40c4-acd0-8e8820b6a442",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e33a2a97-674e-4456-be12-2278d0fff9fd",
+        "50ab7b9e-ddf8-48b8-959a-b44b40d35201"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "51ed521f-3656-4fb3-a6fe-81badd9cc270",
+      "dutyDetail": "Use operational data to manage weekly work schedule in an efficient and cost effective way",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "29e640e2-104f-496b-878e-03fa16da2da5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fef9c92-412b-4168-b546-83cf8c9f5edb",
+      "dutyDetail": "Consider the impact and risks when implementing network changes in line with work activities and escalating as required by organisational policies",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "d371c321-f441-4cfb-ad42-a2084b7f7f01"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "1798f87d-f44c-46af-8026-f59225725ca1",
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "508bb587-b934-4fd2-951f-76aaed26045c",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "598151a5-b1e0-40c6-b53f-c147d797e03a",
+        "b408a225-58f8-40d0-9069-e6a9a16bd1af"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76a1b07b-ea07-4064-bf38-cca0b91b45d5",
+      "dutyDetail": "Communicate technical network requirements effectively and professionally with a range of stakeholders ensuring stakeholder relationships are maintained",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
+        "d371c321-f441-4cfb-ad42-a2084b7f7f01"
+      ],
+      "mappedKnowledge": [
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb4ed247-4694-4407-b273-66489a244ff6",
+        "da77ce5c-58e8-45ea-9d8e-9f37833c7c1b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5efcf80f-ace6-4746-a1e6-e77d40fa432b",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "8dccf5df-44b8-4894-a7ac-dabf43968300"
+      ],
+      "mappedKnowledge": [
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90fc1810-a08a-4eb3-8451-6808af328436",
+      "dutyDetail": "Incorporate considerations of the requirements of the wider digital context in which they operate to ensure that network engineering activities are carried out effectively",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683"
+      ],
+      "mappedKnowledge": [
+        "c574c3aa-4534-4842-8930-c6f7f22e2f48",
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41723c6f-1c62-43f1-a62a-d9270bb8293f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0a7828b8-21e7-4dc3-aa49-29ea4ed6cc9a",
+      "dutyDetail": "Ensure all network engineering activity complies with organisational policies, technical standards, Health and Safety legislation, data security requirements, professional ethics, privacy and confidentiality",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a636cf9b-0f30-46b6-a9ee-8b15dec2e96e",
+        "36a8ecd3-3cfa-43b3-a063-8afb0fbfab94",
+        "dc72006f-d38e-4ac6-b5d3-8cd5c86e31f2",
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12"
+      ],
+      "mappedKnowledge": [
+        "226b9506-e614-458b-b907-f9ddb235def6",
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "3685a059-9579-49ec-b7a0-8277d1d400ed",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7b96ef3-7fda-4608-a41b-d60a484183a2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9bf73342-b79a-464b-ba04-ef7a4795ce28",
+      "dutyDetail": "Deliver and manage a high quality service under pressure",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a8b2bd60-13f8-4256-bcdd-9614db1efd12",
+        "0ef8eadd-e29a-4e48-b987-5d15f944b52c",
+        "5d77f0b7-6b7a-464f-9931-0d32d80ef683",
+        "d371c321-f441-4cfb-ad42-a2084b7f7f01"
+      ],
+      "mappedKnowledge": [
+        "712c63db-da0d-4ff3-a4e9-d8227aa24dcb",
+        "b3616840-f949-437b-8785-bcf95386e45a",
+        "39e652c3-198c-4a3d-872a-b981601fe1a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2b6c04f-9795-426c-86dd-dadd5faddcb4",
+        "cb4ed247-4694-4407-b273-66489a244ff6",
+        "50ab7b9e-ddf8-48b8-959a-b44b40d35201",
+        "41723c6f-1c62-43f1-a62a-d9270bb8293f",
+        "da77ce5c-58e8-45ea-9d8e-9f37833c7c1b",
+        "b408a225-58f8-40d0-9069-e6a9a16bd1af"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-18T00:00:00"
+}
