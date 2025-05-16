@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 578,
   "referenceNumber": "ST0641",
+  "learningAimClassCode": "",
   "title": "Tool process design engineer",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/578",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0641",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-02-27T00:00:00",
   "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "The design of a unique tooling process pathway that enables components to be mass produced in the most economically viable way.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "tools",
@@ -32,12 +38,11 @@
     "Press tool designer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4246/st0641_tool_process_design_engineer_l6_ap-for-publication_04052020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4246/st0641_tool_process_design_engineer_l6_ap-for-publication_04052020.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
-  "ssa2": "4.1 Engineering",
+  "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the advanced manufacturing sheet metal/presswork supply chain of automotive and aerospace. The broad purpose of the occupation includes the design of a unique tooling process pathway that enables components to be mass produced in the most economically viable way. The process pathway often includes a sequential series of steps using uniquely designed press tooling procedures such as blanking, drawing, piercing and forming in order to make the completed component.&lt;br /&gt;&lt;br /&gt;The tool process design engineer has to determine from the volume of required components whether to design manually operated or automatic (progression) press tooling. In some designs the components being produced could also be part of an assembly created from different additional sheet metal pressings that have to be welded together.&lt;br /&gt;&lt;br /&gt;Examples of a tool process design is the manufacture of complex automotive and aerospace sub-assemblies such as aeroplane and car seat chassis, vehicle doors and bumper beam assemblies that undergo several process steps. Working with clients on unique components that create commercial advantage to the original equipment manufacturer (OEM), and through a process of critical analysis, interpretation and evaluation of complex information a unique innovated tool process pathway is created.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with managing directors, technical/production directors, senior managers in finance and purchasing, management/technical specialists from customers together with technical specialists from suppliers, the production team and operatives on the shop floor. A tool process design engineer will typically spend their time working between the design office, board room and the factory floor.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for designing a unique economically viable high-volume process tooling pathway, capable of mass production while meeting customer specification and achieving consistently high tolerances and quality standards. A tool process design engineer will work both autonomously or as part of a team, depending on the project, company size, and will exercise considerable judgement on projects with a high-level personal decision making and influence. &lt;br /&gt;&lt;br /&gt;Depending on the size of the organisation a tool process design engineer would typically report to the production or managing director of the company and will have significant leadership and project management responsibility together with budget accountability.&lt;/p&gt;",
   "knowledges": [
     {
@@ -165,25 +170,28 @@
       "detail": "Provide timely succinct written reports that explains complex technical issues and potential consequences using language and phrases appropriate to the audience’s knowledge and understanding."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0091",
   "tbMainContact": "geraldine.bolton@thecbm.co.uk",
   "involvedEmployers": "Confederation of British Metalforming, Stadco, Milton Keynes Pressings Ltd, Gestamp, Regent Engineering, Kiyokuni Europe, Impression Technologies, HT Brigham, Denso Marston, Aisin Europe, Hadley Group",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -194,19 +202,25 @@
     "Senior process specialist",
     "Press tool designer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Technical Manager",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": null,
   "createdDate": "2020-07-10T13:49:22 +00:00",
-  "lastUpdated": "2020-07-10T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/tool-process-design-engineer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/tool-process-design-engineer-v1-0",
+  "lastUpdated": "2024-02-27T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0641",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0641-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0641-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "IMechE",
-      "level": "0",
+      "level": "This Apprenticeship Standard aligns with the current edition of the UK Standard for Professional Engineering Competence (UK-SPEC) at Incorporated Engineering (IEng) level. The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for IEng and reaches the agreed level of professional competence as defined in the Assessment Plan.",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -236,7 +250,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -269,7 +283,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "52d4c87d-bbe8-4d41-b3fc-185dfcac36fa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -298,7 +312,7 @@
         "ffef5248-1aa5-4f01-9a85-cd49c24317de",
         "5c93f8b4-073b-4920-8fef-c54acecf54b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
@@ -330,7 +344,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -367,7 +381,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -400,7 +414,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "8378665e-df97-425d-8e83-ba3416254bde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -430,7 +444,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "0a1b82be-f424-449a-80a7-7fbf085af648",
@@ -460,7 +474,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "bc599607-9e5a-46c0-a486-00faa3bfc594",
@@ -490,7 +504,7 @@
         "d0999b80-8a39-433b-b1b5-10328e54fb3f",
         "5c93f8b4-073b-4920-8fef-c54acecf54b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
         "bed2801d-29d6-462c-b56e-01da1b65bec9",
@@ -526,7 +540,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "1c8d0c6f-dbc8-4221-9847-7de393335057",
@@ -555,7 +569,7 @@
         "8378665e-df97-425d-8e83-ba3416254bde",
         "65059306-7657-4e4e-8503-8cd1f2a09192"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82f97fc0-aa7e-4582-9028-77fc4016cdea",
         "0a1b82be-f424-449a-80a7-7fbf085af648",
@@ -581,7 +595,7 @@
         "5c93f8b4-073b-4920-8fef-c54acecf54b0",
         "8378665e-df97-425d-8e83-ba3416254bde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7df5dfc2-f855-4d61-8150-8984fbed8649",
         "b253a346-98cf-413e-89cd-6acf4eaa8029",
@@ -590,5 +604,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-27T00:00:00"
 }
