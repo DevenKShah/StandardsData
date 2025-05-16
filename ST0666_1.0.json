@@ -1,20 +1,26 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 639,
   "referenceNumber": "ST0666",
+  "learningAimClassCode": "",
   "title": "Education technician (he assistant technician and simulation-based technician)",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0666",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-12-01T00:00:00",
+  "earliestStartDate": "2021-07-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide skilled technical support in teaching, learning and research environments.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
-  "maxFunding": 0,
-  "route": "Education and childcare",
+  "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Education and early years",
   "keywords": [
     "Education",
     "assistant",
@@ -31,12 +37,11 @@
     "Clinical simulation technicians"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4854/st0666-education-technician-l3_ap-for-publication_25012021.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4854/st0666-education-technician-l3_ap-for-publication_25012021.pdf",
   "ssa1": "13 Education and Training",
   "ssa2": "13.2 Direct learning support",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2319",
   "occupationalSummary": "&lt;p&gt;This standard covers two related occupations. A Higher Education (HE) Assistant Technician will work within higher education institutions such as Universities. They will typically work in one of the following academic settings: applied science, engineering, arts and humanities, environmental science, sports science, performing arts or healthcare science. A Simulation-based Education (SBE) technician may be employed and work within NHS Trusts, higher education institutions or within industry or in private facilities on a consultancy basis. &lt;br /&gt;&lt;br /&gt;SBE technicians will typically work in a skills and simulation centres, clinical and non-clinical areas and conference or event venues.&lt;br /&gt;&lt;br /&gt;Both occupations provide valuable technical support to academic or healthcare professional in learning, teaching or research&lt;br /&gt;&lt;br /&gt;The broad purpose of both occupations is to provide skilled technical support in teaching, learning and research environments across their respective sectors to personnel such as teachers, healthcare professionals, lecturers, educators, researchers and students. This is done by demonstrating and using techniques, materials, equipment, and machinery; collating and interpreting data or research outcomes and providing specific documentation and resources that support and enhance teaching, learning, or research activities, events or productions. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in either of these occupations interacts with a wide range of internal and external colleagues, including their wider team and organisation (including business, finance and IT departments), students, manufacturers and suppliers. HE Assistant Technicians are typically based in either an academic led teaching space, laboratory, studio theatre or workshop, working with al level such as students, academics professional services staff, with SBE Technicians typically based in simulated clinical environments or clinical areas (to facilitate in-situ simulation) with all levels such a nurses, Health Care Support workers and Doctors Individuals in either occupation may need to travel to work across sites (e.g. other areas of a university or trust or to a shared laboratory or facility) or externally to attend conferences and training courses relating to using complex equipment and techniques. &lt;br /&gt;&lt;br /&gt;An employee in either of these occupations will be responsible for: managing and undertaking routine maintenance of standard and bespoke equipment, stock control and housekeeping to ensure teaching, learning and research environments are, and remain, fit for purpose; contributing to the development of new and sometimes complex tools, techniques and teaching, learning and research innovations (such as developing a new piece of equipment, structure or process to support research experiments or creative practice); supporting academics, healthcare professionals and researchers by identifying problems with equipment, procedures, processes, experiments and offering design solutions; and preparing the teaching, learning and research environment by, for example, demonstrating the equipment and contributing to ongoing evaluation and continuous improvement. &lt;br /&gt;&lt;br /&gt;The occupations also require input to budget setting in relation to the costs and required functionality of specific equipment, and some supervision of students and learners, for example when using of a new piece of equipment. &lt;br /&gt;&lt;br /&gt;In addition to these common functions, each occupation has some unique responsibilities. &lt;br /&gt;Depending the setting they work in, HE assistant technicians also set up and assemble standard and bespoke equipment or resources for academic led research, teaching experiments/investigations or artistic/creative technique; provide advice and guidance on the use of these resources, materials, equipment designed to enhance students or researchers understanding of their use in an academic setting; provide appropriate representations of information derived from academic led experimental work or creative process, and manipulate them into appropriate formats, for publication or displays. &lt;br /&gt;&lt;br /&gt;SBE technicians also support delivery of training sessions using simulated learning for subjects such as life support, creating moulage/special effects make-up to apply to manikins and actors working as simulated patients to enhance the realism and the clinical accuracy of individual scenarios; undertaking the scenario coding (programming) and subsequent operation of human patient simulators, part task trainers and other modes of simulation to ensure the quality and realism of the simulation is achieved.&lt;br /&gt;&lt;br /&gt;All of these responsibilities need to be undertaken within defined quality, health and safety and environmental regulations and requirements, with minimum supervision.&lt;/p&gt;",
   "knowledges": [
     {
@@ -276,34 +281,28 @@
       "detail": "HE only: Attention to detail when collating or producing information for higher education activities such as teaching and research."
     }
   ],
-  "options": [
-    {
-      "optionId": "e2eba925-ecb9-4ca0-9745-5d4684a3f470",
-      "title": "Higher education  assistant technician"
-    },
-    {
-      "optionId": "f17a021a-5229-4522-90ed-43a02e9d88b8",
-      "title": "Simulation-based education technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "approvedForDelivery": "2021-07-01T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0216",
   "tbMainContact": "c.wright.2@bham.ac.uk",
   "involvedEmployers": "University of Birmingham, Middlesex University, Medway NHS Foundation Trust, University of Portsmouth (HEE Wessex), Blackpool Teaching Hospitals NHS Foundation Trust, Wynnefield Consulting (HEE Yorkshire & Humber), University of Hull (HEE Yorkshire & Humber),  NHS Hampshire Hospitals Foundation Trust, Sims Support, NHS Hey,  University of Bristol,  London South Bank University, Southampton Solent University, Manchester Metropolitan University,  Birmingham City University, Imperial College London, University of Cambridge, Keele University, University of Chichester, Brunel University London, Newman University, BPP, University of Winchester, Leeds Trinity University, Aston University, Durham University, Medway NHS Foundation Trust, Oxford Brookes University, University College London Hospitals NHS Foundation Trust, University of Sheffield,  University of Reading, University of Newcastle, Liverpool John Moores University, University of Manchester, University of the West of England, University of Hull, Oxford Brookes University, Staffordshire University, NHS, Sheffield Hallam University",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -314,25 +313,31 @@
     "Simulation technicians",
     "Clinical simulation technicians"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Education and Childcare",
-  "cluster": "Primary/Secondary/Tertiary Teaching and Support Assistant",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2020-09-23T12:29:51 +00:00",
-  "lastUpdated": "2020-09-23T12:29:51 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/education-technician-(he-assistant-technician-and-simulation-based-technician)#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/education-technician-(he-assistant-technician-and-simulation-based-technician)",
+  "lastUpdated": "2021-12-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-07-01T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0666",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0666-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0666-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Institute of Science and Technology  (HE Option)",
-      "level": "0",
+      "level": "RSci Tech or Registered Practitioner",
       "isPartial": "0",
       "partialFreeText": ""
     },
     {
       "bodyName": "Association for Simulated Practice in Healthcare (SBE Option)",
-      "level": "0",
+      "level": "RSci Tech",
       "isPartial": "0",
       "partialFreeText": ""
     }
@@ -355,7 +360,7 @@
         "217ee22f-90fe-4aff-864a-d97993679095",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a073cb6-ce81-4c4d-a655-886198df0e7c",
         "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
@@ -386,7 +391,7 @@
         "217ee22f-90fe-4aff-864a-d97993679095",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
@@ -419,7 +424,7 @@
         "99f200e3-a821-40e0-b250-0f028c549ad9",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "dd1fd7f3-ae7c-489e-9e50-0bc91f5a5c28",
@@ -446,7 +451,7 @@
         "b0912460-e330-4357-8bd8-025de4828a14",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
         "3889e400-3c04-4d36-83ed-dab893f3fabc",
@@ -472,7 +477,7 @@
         "adab858a-7c5c-44cb-a1de-c616674baee1",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "29fe080f-78a5-4b24-9f4d-44ea0df0a21d",
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
@@ -500,7 +505,7 @@
         "ea3d7e00-1495-453b-8e44-241ad96283b6",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "c4c207c4-5e3f-4d29-a6f8-152e336029c7",
@@ -523,7 +528,7 @@
         "ea3d7e00-1495-453b-8e44-241ad96283b6",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "3f74c958-6874-4fa0-9937-2cb8f0f6d499",
@@ -552,7 +557,7 @@
         "99f200e3-a821-40e0-b250-0f028c549ad9",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3051ab95-a78e-4b1f-8c8e-61ad6c49ddf1",
         "8f5815bb-033a-41e6-b8bf-876b7d1a3634",
@@ -580,7 +585,7 @@
         "b0912460-e330-4357-8bd8-025de4828a14",
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a073cb6-ce81-4c4d-a655-886198df0e7c",
         "16003e0e-1dce-455c-8a47-5be2f50dc0ac",
@@ -608,7 +613,7 @@
         "1ae4380e-e2cb-43a7-aed9-8ec4273de0f4",
         "380276e7-5eb1-4688-9811-424b90085ca5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97d83477-c469-495e-913a-8357e188a16b",
         "815392cb-5c0d-4c52-9150-f36e47fb446e",
@@ -788,5 +793,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "e2eba925-ecb9-4ca0-9745-5d4684a3f470",
+      "title": "Higher education  assistant technician",
+      "occupationCode": "OCC0666A"
+    },
+    {
+      "optionId": "f17a021a-5229-4522-90ed-43a02e9d88b8",
+      "title": "Simulation-based education technician",
+      "occupationCode": "OCC0666B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-12-01T00:00:00"
 }
