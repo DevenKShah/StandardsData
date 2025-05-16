@@ -1,0 +1,825 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 523,
+  "referenceNumber": "ST0841",
+  "learningAimClassCode": "",
+  "title": "Engineering manufacturing technician",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0841",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End point assessment plan revised",
+  "changedDate": "2023-12-04T00:00:00",
+  "earliestStartDate": "2023-11-02T00:00:00",
+  "latestStartDate": "2023-12-03T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Providing specialist technical support for engineers.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 42,
+  "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Manufacturing",
+    "technology",
+    "engineer",
+    "design",
+    "technician"
+  ],
+  "jobRoles": [
+    "Costing engineer",
+    "Installation engineer",
+    "Manufacturing procurement engineer",
+    "Manufacturing production engineer",
+    "Manufacturing quality engineer",
+    "Process engineer",
+    "Production support engineer",
+    "Quality engineer",
+    "Test and commissioning engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/pdqbplit/st0841_engineering_manufacturing-technician_l4_ap_for-publication-311023_adjustment.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.2 Manufacturing technologies",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in large and small engineering and manufacturing organisations providing products and services throughout a wide range of sectors, such as Automotive, Aerospace and Airworthiness, Chemical Processing, Land Systems, Marine, Maritime Defence, Materials Manufacturers and their respective supply chains. Research indicates that the sector needs to recruit approximately 124,000 engineers and technicians every year.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide specialist technical support for engineers, so that organisations can develop, produce or test new and existing products, processes, or procedures to meet a customer specification in terms of quality, cost and delivery, as efficiently and effectively as possible.&amp;nbsp; Engineering Manufacturing Technicians gather information and data from a range of sources and analyse the information and data. They will make decisions, solve problems and produce and where applicable, update technical documentation, reports or specifications covering areas such as quality, reliability, production schedules and targets, costing or other technical documentation that informs others, either internally or externally what needs to be done such as how a product must be designed, manufactured, tested, modified, maintained, stored, transported, commissioned or decommissioned.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their line manager to confirm departmental programmes of work and to agree individual responsibilities. This in turn will align to an overarching organisational resource and delivery plan. Engineering Manufacturing&amp;nbsp; Technicians can be office based, manufacturing or plant based or more commonly combination of both, working with engineering or manufacturing teams at an operational level such as with production team leaders or management level working with specialist quality or design engineers. As well as liaising with internal colleagues, they may also be responsible for working directly with customers and suppliers or with representatives from appropriate regulatory bodies. Typically this would involve interaction with auditors to demonstrate compliance to specific organisational or regulatory requirements (such as Civil Aviation Authority). Their time will be spent between working in an office environment and working in the manufacturing environment or visiting customers or suppliers as and when required.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the quality, safety and delivery of the manufactured product or service, ensuring it is delivered to the customer on time at the agreed cost. They will typically report to an engineering or manufacturing manager as part of a cross functional team, the size of this team and responsibilities will vary depending on the size of the employer. Although working within defined quality processes and procedures, they are responsible for the delivery, quality and accuracy of the work they complete. They have the autonomy to use judgement when undertaking the occupational duties and applying their technical knowledge, skills and behaviours in a wide range of contexts and environments. They use a range of tools and techniques to support decision making and solve problems that are often complex and non-routine. They also have a responsibility to identify and contribute to making improvements such as business processes, procedures, ways and methods of working.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "054de7be-32fc-4578-8e81-37a56a559e68",
+      "detail": "Problem solving tools/techniques. Such as practical problem solving (PPS), root cause analysis (RCA) and process failure mode effects analysis (PFMEA)."
+    },
+    {
+      "knowledgeId": "a85e6264-8d3e-4754-9d76-474b1d06383d",
+      "detail": "Effective communication techniques including listening, questioning and support of others."
+    },
+    {
+      "knowledgeId": "016b0171-80a9-4224-beab-b33147331656",
+      "detail": "Use, benefits and applications of lean methods and tools used in manufacturing and engineering (such as Kaizen, Six Sigma and 8 wastes)."
+    },
+    {
+      "knowledgeId": "4aacf571-b951-4df0-8ca2-536f8266bd36",
+      "detail": "How Industry 4.0 will impact organisations, including the integration of automation, digital systems and manufacturing engineering systems."
+    },
+    {
+      "knowledgeId": "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+      "detail": "Quality management systems used such as ISO9001, AS9100, ISO 14001 and TS16949, its purpose and internal governance arrangements to ensure compliance."
+    },
+    {
+      "knowledgeId": "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+      "detail": "Different manufacturing methods used, their applications, such as machining, joining, forming, assembling, shaping, processing, printing, moulding, extruding and casting."
+    },
+    {
+      "knowledgeId": "61dac4fe-7319-4e06-8d67-7a48c036a992",
+      "detail": "Principles of quality control and quality assurance in a manufacturing and engineering environment."
+    },
+    {
+      "knowledgeId": "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+      "detail": "Team integration techniques, including conflict resolution and managing difficult conversations (team working)."
+    },
+    {
+      "knowledgeId": "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+      "detail": "Core engineering principles such as mathematics, science, mechanical and electrical/electronic applications relevant to manufacturing and engineering activity undertaken."
+    },
+    {
+      "knowledgeId": "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+      "detail": "Importance for individuals to use and follow the organisations approved Standard Operating Procedures (SOP’s) and documentation recording systems and the potential implications on safety, quality and delivery if they are not adhered to."
+    },
+    {
+      "knowledgeId": "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+      "detail": "Statutory and organisation health and safety policies, procedures and regulations that must be adhered to in a manufacturing and engineering environment including the risk assessment process, procedures and documentation used within the work area."
+    },
+    {
+      "knowledgeId": "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+      "detail": "Project management techniques, such as Strengths, Weaknesses, Opportunities, Threats (SWOT), stakeholder matrices, risk mapping, radar chart and summary risk profiles."
+    },
+    {
+      "knowledgeId": "4793706f-43f9-4687-96ff-eec298a65e2f",
+      "detail": "How human factors (organisational, environment and job factors) can influence and impact individual characteristics, performance and behaviours in the workplace."
+    },
+    {
+      "knowledgeId": "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+      "detail": "Engineering and manufacturing related documentation used such as job cards/build records, 2D and 3D drawings/models, Bill of Materials (BOM), Cost Analysis Reports, Compliance\u00A0 Report, Standard Operating Instructions (SOI's), Standard Process Instructions (POI's), Engineering Query Notifications (EQN's) and Drawing Query Notifications (DQN's)."
+    },
+    {
+      "knowledgeId": "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+      "detail": "Prioritisation of workload/time management techniques to ensure that personal and team objectives are achieved effectively."
+    },
+    {
+      "knowledgeId": "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+      "detail": "Engineering and manufacturing data collection systems used, their format and content."
+    },
+    {
+      "knowledgeId": "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+      "detail": "How organisations manage and monitor internal and or supplier performance to ensure that cost, quality, delivery and sustainability objectives are being delivered."
+    },
+    {
+      "knowledgeId": "351de27e-edb0-4dbd-af8b-e707a7d385e7",
+      "detail": "Use and applications of common metallic and non – metallic materials used in manufacturing and engineering."
+    },
+    {
+      "knowledgeId": "79b6a8c0-689c-42fe-a9fe-0f6358a8b697",
+      "detail": "Different production methods used and their applications such as single, batch, flow and mass."
+    },
+    {
+      "knowledgeId": "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+      "detail": "Different methods, tools and frequency used to check quality in manufacturing and engineering including measurements such as (dimensions, weight, signal, temperature, time,) and testing (such as non-destructive and destructive)."
+    },
+    {
+      "knowledgeId": "ba9215b5-38fc-4067-ae65-80604294f036",
+      "detail": "Departmental process used to create, record and review financial data and information."
+    },
+    {
+      "knowledgeId": "60840f61-b820-49be-bd1b-fb94492f9f09",
+      "detail": "The different applications and limitations of computer based software systems/packages used such as Computer Aided Design (CAD), Data Analytics and Databases."
+    },
+    {
+      "knowledgeId": "16ad2d89-b2f3-4188-b767-32693aa09505",
+      "detail": "The impact of sustainability and environmental efficiency and how such matters influence manufacturing decisions."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "13455879-cd12-4376-870d-0c13e154294f",
+      "detail": "Champions the importance of adherence to the organisation’s Environmental, Health and Safety management systems:- actively displays and promotes a safety first culture within the organisation."
+    },
+    {
+      "behaviourId": "aa56d651-c5ec-4423-b228-22f04b518ed0",
+      "detail": "Operates in a systematic, proactive and transparent way."
+    },
+    {
+      "behaviourId": "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+      "detail": "Actively promotes the case for the adoption of emerging and advanced engineering and manufacturing  technologies to optimise performance."
+    },
+    {
+      "behaviourId": "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+      "detail": "Takes full responsibility for own professional development, seeking opportunities to enhance  knowledge, skills and experience. Keeping abreast of developments in engineering processes manufacturing and emerging technologies."
+    },
+    {
+      "behaviourId": "f0425d45-fe46-446e-abb1-58592a6f2652",
+      "detail": "Complies with statutory and organisational health and safety regulations and policies at all times. Accepts responsibility for their workload with a responsible approach to risk. Demonstrates a high level of motivation and resilience when facing challenge."
+    },
+    {
+      "behaviourId": "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+      "detail": "Creates and maintains positive, professional, trusting and ethical  working relationships with their  team and the wider range of internal, external and connected stakeholders."
+    },
+    {
+      "behaviourId": "5f4fa78d-d0a3-480e-9f73-12108939f047",
+      "detail": "Acts professionally with a positive and respectful attitude."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b022290c-6890-4bfd-9053-fd1db2f0b910",
+      "detail": "Read and extract relevant engineering and manufacturing related data and information (such as workplans/project plans, schedules,\u00A0 drawings, specifications, production data, quality reports, costing data, statistical information) drawing accurate conclusions and making informed decisions."
+    },
+    {
+      "skillId": "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+      "detail": "Use project management tools, such as Strengths, Weaknesses, Opportunities, Threats (SWOT), stakeholder matrices, risk mapping, radar chart and summary risk profiles."
+    },
+    {
+      "skillId": "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+      "detail": "Use problem solving tools such as Root Cause Analysis (RCA) Process Failure Modes Effects Analysis (PFMEA), Fishbone, Practical Problem Solving (PPS) and Advanced Product Quality Planning (APQP)."
+    },
+    {
+      "skillId": "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+      "detail": "Analyse and interpret data and information in order to generate manufacturing engineering documentation such as Parts Per Million (PPM) quality adherence, cost analysis and test data."
+    },
+    {
+      "skillId": "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+      "detail": "Communicate using the appropriate method for the audience such as, formal and informal presentations, written reports, verbal, electronic, social media and incorporating relevant and appropriate data and/or metrics."
+    },
+    {
+      "skillId": "858a3cbc-b20e-4892-80fd-904f4b24a487",
+      "detail": "Use the approved process and quality compliance procedure to create or amend engineering and/or manufacturing documentation."
+    },
+    {
+      "skillId": "baa14482-0400-4df4-a91a-164ac99d7273",
+      "detail": "Use lean tools and techniques, such as Six Sigma, 8 Wastes, Workplace organisation such as  5S's (sort, set in order, shine, standardise and sustain), Kaizen and Poka-Yoke (Error proofing)."
+    },
+    {
+      "skillId": "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+      "detail": "Apply documentation control processes and procedures such as format, location, access, authorisation."
+    },
+    {
+      "skillId": "af6c7839-9910-44fc-b21e-9a2c1990fdf2",
+      "detail": "Use financial planning, recording and review processes and documentation such as departmental budgets, estimating, cost control, cost forecasting, and investment appraisal."
+    },
+    {
+      "skillId": "7ed9a152-a0d0-4226-988a-0e237e3a739e",
+      "detail": "Use computer based software systems/packages such as Computer Aided Design (CAD), Data Analytics and Databases."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2019-11-05T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0570",
+  "tbMainContact": "paul.ashbee@gknaerospace.com",
+  "involvedEmployers": "GKN Aerospace, Jaguar Land Rover cars, BAE Systems, Toyota UK, GTA England, Leonardo Helicopters, British Plastics Federation, JCB, Siemens, Sheffield Forgemaster, Liberty Speciality Steels",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Costing engineer",
+    "Installation engineer",
+    "Manufacturing procurement engineer",
+    "Manufacturing production engineer",
+    "Manufacturing quality engineer",
+    "Process engineer",
+    "Production support engineer",
+    "Quality engineer",
+    "Test and commissioning engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and Development Technical Manager",
+  "clusterId": "254",
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
+  "createdDate": "2023-11-02T15:20:32 +00:00",
+  "lastUpdated": "2023-12-04T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-11-05T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0841",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0841-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0841-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "9de13b58-baf2-48c5-974d-3b44bf22af61",
+      "title": "L4 HNC in Engineering or Manufacturing disciplines that fully align with the KSBs of the standard.",
+      "level": "4",
+      "anyAdditionalInformation": "Aerospace sector:In addition, those undertaking this apprentice in the aerospace sector must undertake the additional qualifications listed below in order to meet the Civil Aviation (CAA) requirements",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "a1b5c2e4-d90f-47fb-9c9d-d4f7491c1268",
+      "title": "Aerospace mandatory qualification: Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence). ",
+      "level": "2",
+      "anyAdditionalInformation": "In order to meet the requirements set out by CAA, all individuals undertaking this apprenticeship must complete a period of mandatory protected training leading to the successful achievement of this mandated qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "d0040355-8966-44d3-acc5-cea74d486798",
+      "title": "Aerospace mandatory qualification Level 4 Diploma in Engineering and Advanced Manufacturing  (Development Competence).",
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Engineering Council for Engineering Technician (EngTech)",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Mechanical Engineers (IMechE)",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Royal Aeronautical Society",
+      "level": "Engineering Technician",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "16823d56-79ff-4105-b0ab-aa9dc8c1742d",
+      "dutyDetail": "Ensure the safe and efficient performance of every production task in compliance with company procedures, approved engineering data and local Health and Safety requirements. Ensure Safe Systems of Work and risk assessments (assisting as necessary in the completion of risk assessments) are adhered to for engineering or manufacturing activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bb2052db-62fb-43a7-b1da-cc92029c0b1d",
+      "dutyDetail": "Prepare product and process documentation by collecting, analysing, and summarising information and trends.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+        "ba9215b5-38fc-4067-ae65-80604294f036"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "af6c7839-9910-44fc-b21e-9a2c1990fdf2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c0ce5cec-4cad-4021-a507-58b07ef72beb",
+      "dutyDetail": "Manage internal or Supplier Quality Notifications, and liaison with the required stakeholders for resolution.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b2b63150-b41b-46a5-bee6-827db7c86a3c",
+      "dutyDetail": "Liaise with internal and external customers to implement programme initiatives, such as the application of lean analysis methods, processes and tools.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "016b0171-80a9-4224-beab-b33147331656",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "351de27e-edb0-4dbd-af8b-e707a7d385e7",
+        "79b6a8c0-689c-42fe-a9fe-0f6358a8b697",
+        "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6cfa7bf-7c2f-4997-9a4b-ccc56e9fadf9",
+      "dutyDetail": "Carry out new product introduction or existing product modifications within engineering or manufacturing by contributing to activities such as facilitation of quality activities (including any testing or commissioning requirements), supplier approvals, gate reviews.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "016b0171-80a9-4224-beab-b33147331656",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "ba9215b5-38fc-4067-ae65-80604294f036",
+        "60840f61-b820-49be-bd1b-fb94492f9f09",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "7ed9a152-a0d0-4226-988a-0e237e3a739e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b4998e4-ddbd-4e9e-bfcf-bc3226baffef",
+      "dutyDetail": "Deliver financial planning or costing analysis such as:- estimation of costs for manufacture, supplying drawings or specification for quotations, obtaining manufacture quotes, calculating costs associated with quality problem or\u00A0machine downtime.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f"
+      ],
+      "mappedKnowledge": [
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "79b6a8c0-689c-42fe-a9fe-0f6358a8b697",
+        "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+        "ba9215b5-38fc-4067-ae65-80604294f036",
+        "60840f61-b820-49be-bd1b-fb94492f9f09",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "af6c7839-9910-44fc-b21e-9a2c1990fdf2",
+        "7ed9a152-a0d0-4226-988a-0e237e3a739e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "578936f1-9386-419f-8b36-00716bf806ae",
+      "dutyDetail": "Develop new technology initiatives by contributing to activities such as, justifying capital investment equipment and system upgrades from purchase through to installation and commissioning.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "016b0171-80a9-4224-beab-b33147331656",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "79b6a8c0-689c-42fe-a9fe-0f6358a8b697",
+        "ba9215b5-38fc-4067-ae65-80604294f036",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "af6c7839-9910-44fc-b21e-9a2c1990fdf2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d2c3ad1a-4014-462a-b3e0-ef506ae45ffd",
+      "dutyDetail": "Produce and maintain reports measuring Key Performance Indicators for data management activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "ba9215b5-38fc-4067-ae65-80604294f036",
+        "60840f61-b820-49be-bd1b-fb94492f9f09"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "af6c7839-9910-44fc-b21e-9a2c1990fdf2",
+        "7ed9a152-a0d0-4226-988a-0e237e3a739e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c3e724f6-5424-46f5-bb89-16f86c38d0f0",
+      "dutyDetail": "Ensure processes and current methods of engineering and manufacturing are as efficient and cost effective, such as:- utilising time and motion analysis, line balancing and flow to achieve the required level of production output.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "016b0171-80a9-4224-beab-b33147331656",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "37e5fb72-c744-440b-b6b7-ef5a11bf5945",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "79b6a8c0-689c-42fe-a9fe-0f6358a8b697",
+        "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "b162e75e-eeae-4c75-a6e1-3ee770dafe41",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487",
+        "2ab9cf6f-b1a4-46af-a0e2-836c4c011431",
+        "af6c7839-9910-44fc-b21e-9a2c1990fdf2",
+        "7ed9a152-a0d0-4226-988a-0e237e3a739e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76f731fc-395d-4646-9958-a42f23d35495",
+      "dutyDetail": "Liaise with appropriate internal and external stakeholders at all levels to ensure that engineering and manufacturing operations are completed in line with the agreed time scales. Examples of stakeholders could include production managers, production operatives, auditors, suppliers, customers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "f0425d45-fe46-446e-abb1-58592a6f2652",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "016b0171-80a9-4224-beab-b33147331656",
+        "4aacf571-b951-4df0-8ca2-536f8266bd36",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "79b6a8c0-689c-42fe-a9fe-0f6358a8b697"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "e4ecae5c-e860-4896-8af6-5be8b1b5509d",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8982534e-714c-4fce-bff0-58ac7564e8c2",
+      "dutyDetail": "Ensure work process and outcomes comply with any local, national or international regulatory or compliance requirements. Such as :- maintain\u00A0 compliance to Aerospace Regulatory bodies (CAA, EASA,MAA) as well as the wider regulations (such as Anti Bribery and Corruption, Export Control).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "13455879-cd12-4376-870d-0c13e154294f",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "05ee4cb3-c5e3-4670-b060-392c48949dfb",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "1b5f3acc-bc55-4132-8cf5-cd459c75f10c",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "6cf85e3d-d0a7-48a1-85fa-130f9efdb284",
+        "4793706f-43f9-4687-96ff-eec298a65e2f",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "858a3cbc-b20e-4892-80fd-904f4b24a487"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d5950a02-1615-400b-91f1-fdd83ab21765",
+      "dutyDetail": "Resolve identified engineering or manufacturing problems such as:- contributing to the route cause analysis exercise applying appropriate levels of containment and corrective action.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "054de7be-32fc-4578-8e81-37a56a559e68",
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "56b8f52b-fd74-4c9b-a306-b14a3a45de6c",
+        "a47e2c70-b4b7-45cc-8dc5-56c3a0ee2617",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "5ecbd3de-c65c-4166-ba1b-40834cc56633",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "c3da751e-a23c-489d-88f3-374f97ae5ecb",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "be9ddc9b-c211-4306-9ee7-2734d71dadd4",
+        "60840f61-b820-49be-bd1b-fb94492f9f09"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "ac4684fd-ef5b-482d-9aa8-67bd131eb9f4",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "baa14482-0400-4df4-a91a-164ac99d7273"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db1e2cb8-f510-4dc8-941d-2f202eb79b3a",
+      "dutyDetail": "Produce engineering or manufacturing documentation (such as:- Build Manuals, Standard Operating Instructions and processes, Bill of Materials) to aid and ensure consistent, compliant and cost effective manufacturing processes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c"
+      ],
+      "mappedKnowledge": [
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "e2e94b68-4c82-4fa2-b91d-1bc4d2eaf9df",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "3f52ec5b-f877-4a68-9514-d267ab6c377a",
+        "baa14482-0400-4df4-a91a-164ac99d7273"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "657431c6-1e65-4dc3-849a-db978f937a43",
+      "dutyDetail": "Review engineering or manufacturing methods to determine the most effective and economical method whilst meeting drawing and specification requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "aa56d651-c5ec-4423-b228-22f04b518ed0",
+        "6358b2bd-b3f4-48f4-b921-4de66eb2c50c",
+        "281fece1-52f4-4629-89d1-be5e46a7ac3f",
+        "5f4fa78d-d0a3-480e-9f73-12108939f047"
+      ],
+      "mappedKnowledge": [
+        "a85e6264-8d3e-4754-9d76-474b1d06383d",
+        "61dac4fe-7319-4e06-8d67-7a48c036a992",
+        "e0e3af61-793a-4950-8ffd-2ed4ae1e5a70",
+        "0d7055a2-c1fa-407c-a443-b9b26a109bb6",
+        "1cd6e173-bbb3-4771-8aa3-085e2eefaa2c",
+        "60840f61-b820-49be-bd1b-fb94492f9f09",
+        "16ad2d89-b2f3-4188-b767-32693aa09505"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b022290c-6890-4bfd-9053-fd1db2f0b910",
+        "baa14482-0400-4df4-a91a-164ac99d7273",
+        "7ed9a152-a0d0-4226-988a-0e237e3a739e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-12-04T00:00:00"
+}
