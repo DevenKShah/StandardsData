@@ -1,20 +1,26 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 565,
   "referenceNumber": "ST0741",
+  "learningAimClassCode": "",
   "title": "Landscape technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/565",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0741",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-04T00:00:00",
+  "changedDate": "2023-10-25T00:00:00",
   "earliestStartDate": "2020-06-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
-  "route": "Construction",
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
   "keywords": [
     "landscape",
     "building",
@@ -38,13 +44,12 @@
     "GIS Technician"
   ],
   "entryRequirements": "&lt;p&gt;The entry requirement for the apprenticeship will typically be five GCSEs at Grade 4 (Grade C) or higher including Maths and English or a Level 2 apprenticeship in a relevant discipline but the final decision is that of each employer. Apprentices without Level 2 English and Maths will need to achieve this level prior to taking the end point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship English and Maths minimum requirement is Entry Level 3 and British Sign Language qualifications are an alternative to an English qualification for those for whom this is their primary language.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4304/st0741_landscape_technician_l3_ap_for_publication_02062020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4304/st0741_landscape_technician_l3_ap_for_publication_02062020.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, digital, creative and design, environmental and planning sectors.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments. They work to meet project requirements and support these other professionals in protecting, conserving and enhancing the natural and built environment for the benefit of the public, communities, stakeholders and clients. Landscape Technicians use a wide range of technical skills and are at the forefront of technological innovation.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with clients, planners, landscape architects, architects, landscape managers, urban designers, ecologists, engineers, arboriculturists, park managers, local and national Government departments, non-governmental organisations, the public, local communities and many others. The work includes a mixture of office based and outdoor activities.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for some of their own work and will work under supervision of landscape professionals and managers in more complex areas.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction, horticultural, digital, creative and design, environmental and planning sectors.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to work with and support landscape professionals in designing, planning and managing spaces in both natural and built environments. They work to meet project requirements and support these other professionals in protecting, conserving and enhancing the natural and built environment for the benefit of the public, communities, stakeholders and clients. Landscape Technicians use a wide range of technical skills and are at the forefront of technological innovation.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with clients, planners, landscape architects, architects, landscape managers, urban designers, ecologists, engineers, arboriculturists, park managers, local and national Government departments, non-governmental organisations, the public, local communities and many others. The work includes a mixture of office based and outdoor activities.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for some of their own work and will work under supervision of landscape professionals and managers in more complex areas.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "50c4a055-0973-4656-9ae5-ea493887542c",
@@ -147,25 +152,28 @@
       "detail": "Personal effectiveness - Communicate clearly in writing and verbally. Manage work and time.  Work independently and as part of a team. Interact with other built environment professionals."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-06-04T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0038",
   "tbMainContact": "apprenticeships@landscapeinstitute.org",
   "involvedEmployers": "Tyler Grange, Re-form Landscapes, Meiloci, Munro-Whitten, LUC, Gillespies, The Environment Partnership, Capita, Birmingham Council, Amey, Arup, Farrer Huxley Associates, BDP, Fira Landscape Architects, LDA Design, LHC Design, Highways England, Winchester City Council, Townshed Landscape Architects, Wilder Associates, The Landscape Institute",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -181,19 +189,25 @@
     "BIM Technician",
     "GIS Technician"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
+  "cluster": "Design and surveying technician",
+  "clusterId": "54",
+  "clusterDescription": null,
   "createdDate": "2019-05-22T08:06:10 +00:00",
-  "lastUpdated": "2020-06-04T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/landscape-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/landscape-technician-v1-0",
+  "lastUpdated": "2023-10-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-06-04T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "occupationCode": "OCC0741",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0741-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0741-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Landscape Institute / Technician",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -220,7 +234,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59fb0811-7a96-4da4-be35-268479b2f430",
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
@@ -249,7 +263,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "35240671-0c80-4119-920e-7c189ff266d0",
@@ -275,7 +289,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "59fb0811-7a96-4da4-be35-268479b2f430",
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
@@ -306,7 +320,7 @@
         "1dc930ee-da0f-46cb-9ddf-b3253b9a9f14",
         "8f461a03-a1ad-47f6-99e0-032f09c07b95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "35240671-0c80-4119-920e-7c189ff266d0",
         "c931bd85-6a5f-4a71-81d0-06a59ef859fe",
@@ -330,7 +344,7 @@
         "9ca63e07-c56b-4088-a273-368dfa7fc138",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -355,7 +369,7 @@
         "bfbc112c-3580-47a3-a9e9-38b0364cc2dd",
         "8f461a03-a1ad-47f6-99e0-032f09c07b95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "35240671-0c80-4119-920e-7c189ff266d0",
@@ -387,7 +401,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "140591c7-94d9-4121-a743-2345b96de06c",
@@ -418,7 +432,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -445,7 +459,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "140591c7-94d9-4121-a743-2345b96de06c",
         "06e5aad2-d3db-44be-abf3-1ad805f61040"
@@ -469,7 +483,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "33b0a99d-fd3a-426e-a0d9-9d2b523eb3c2",
         "8b12f98d-c7fb-43e2-aac8-020f1bb26c28",
@@ -501,7 +515,7 @@
         "8f461a03-a1ad-47f6-99e0-032f09c07b95",
         "2bff66c3-bc86-4842-b4a9-ab120acd1fc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e94792d2-1fd6-40a3-a0e2-5fd9b143c787",
         "59fb0811-7a96-4da4-be35-268479b2f430",
@@ -516,5 +530,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-10-25T00:00:00"
 }
