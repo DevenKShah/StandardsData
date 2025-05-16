@@ -1,0 +1,910 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST1469",
+  "learningAimClassCode": "",
+  "title": "Collections technician",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1469",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "0001-01-01T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Collections technicians are specialist practitioners who contribute to  operational running of collections and exhibitions. \n\n",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 18,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Creative and design",
+  "keywords": [
+    "collections technician",
+    "collections",
+    "exhibitions",
+    "conservation",
+    "object handling"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1469?view=epa",
+  "ssa1": "",
+  "ssa2": "",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Collections technicians are specialist practitioners who contribute to the conservation, preparation, planning, technical and operational running of collections and exhibitions.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Collections technicians can be found working across a wide range of specialist areas of practice including remedial and preventive conservation, exhibition preparation and execution, art handling, loans and transporting collections among many others.&lt;/p&gt;\n&lt;p&gt;Their work will vary depending upon the specific job role and institution. They are most likely to work in one of two specialist areas of practice:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Museum and gallery technician who will undertake work which may be focused on loans, exhibitions and storage of collections.&lt;/p&gt;\n&lt;p&gt;Conservation technician working under the supervision of trained conservator-restorers to undertake treatment to collections or implementing preventive conservation measures.&lt;/p&gt;\n&lt;p&gt;Roles could be in local or national heritage institutions such as a museum, gallery or archive service; as well in private sector organisations who are providing services to heritage institutions, or private owners or commercial organisations in the wider arts and cultural heritage sectors. In doing so they may work across a range of collections, such as in a historic property, or their work might be directed towards a particular type of object or collection such as books, sculpture or metals.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They also complete documentation associated with collections management, risk assessment and object handling. They must work within their organisation’s policies and procedures at all times and are responsible for ensuring that their tools and equipment are health, safety and security compliant.&lt;/p&gt;\n&lt;p&gt;Collections technicians may support wider organisational activities such as providing objects for learning sessions in a safe and responsible way, selecting and handling objects for external clients, showing others how to safely handle objects, or accompanying visitors and or clients to object stores.&lt;/p&gt;\n&lt;p&gt;Collections care technicians may be expected to work with conservators, curators, artists, scientists, contractors, art handlers, and exhibition managers. They may be expected to accompany, sometimes alone, the transit of objects, nationally and internationally, and work both independently and as part of a team.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "fcefdc5a-168d-4c19-9cb4-6c0d8c8904fa",
+      "detail": "Audience demographics, their make-up and their impact on the organisation."
+    },
+    {
+      "knowledgeId": "1f1f23a0-618b-4b78-b03e-94cee22306d5",
+      "detail": "Materials, structure and context of objects in their area of practice."
+    },
+    {
+      "knowledgeId": "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+      "detail": "Tools and equipment needed in their area of practice.  "
+    },
+    {
+      "knowledgeId": "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+      "detail": "Statutory and sectoral quality and policy standards within own area of work.  "
+    },
+    {
+      "knowledgeId": "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+      "detail": "Principles behind the care of objects and the impact of this on decision making."
+    },
+    {
+      "knowledgeId": "2890be48-4912-4c15-81ba-7743d89514de",
+      "detail": "Cultural, historic, and spiritual context of objects and structures and how to operate within these ethical frameworks. "
+    },
+    {
+      "knowledgeId": "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+      "detail": "Principles behind the safe handling and movement of objects and collections."
+    },
+    {
+      "knowledgeId": "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+      "detail": "Sources of information required to fully assess options and strategies. "
+    },
+    {
+      "knowledgeId": "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+      "detail": "Factors to be considered when estimating the time and resources required to complete a task. "
+    },
+    {
+      "knowledgeId": "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+      "detail": "Legal requirements and obligations relating to health and safety and the organisation’s associated policies and procedures."
+    },
+    {
+      "knowledgeId": "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+      "detail": "Organisation's process for identifying and managing risk, including documentation requirements. "
+    },
+    {
+      "knowledgeId": "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+      "detail": "Security issues impacting cultural institutions. "
+    },
+    {
+      "knowledgeId": "f97393ee-218d-4c33-b3c6-53f5800e83b3",
+      "detail": "Organisation’s disaster and emergency response systems, associated policies and procedures and the role that they play within this. "
+    },
+    {
+      "knowledgeId": "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+      "detail": "Record keeping and data management procedures and the impact of this on other areas of work."
+    },
+    {
+      "knowledgeId": "62d31974-900b-4f28-beff-c5f20ec74c0b",
+      "detail": "The 10 agents of deterioration and how these impact collections care."
+    },
+    {
+      "knowledgeId": "b8fff6ef-0037-4595-82cf-9044a32100fd",
+      "detail": "Environmental conditions for the objects and collections under their care."
+    },
+    {
+      "knowledgeId": "af6e9a82-166f-4086-86c8-79473797b9d6",
+      "detail": "Wider heritage sector, improved sustainable practice and how this is being implemented in their organisation. "
+    },
+    {
+      "knowledgeId": "56965ad9-d51a-456f-80de-72f68a1e01d2",
+      "detail": "Personal development plans, incorporating Specific, Measurable, Achievable, Result-orientated and Time-bound objectives to develop personal organisation skills in line with the organisation's goals and deadlines. "
+    },
+    {
+      "knowledgeId": "f32a35ef-e24a-474a-bd89-f4e00a3696c1",
+      "detail": "Methods and approaches for communicating with internal and external stakeholders. "
+    },
+    {
+      "knowledgeId": "8445d3af-24ae-4e90-8fa0-ebd6ca01a403",
+      "detail": "Wider heritage contexts in which conservation is carried out and how conservation practices can affect one another."
+    },
+    {
+      "knowledgeId": "22c6e8ab-4603-4910-a6e4-6a1e42e69903",
+      "detail": "Interventive conservation measures related to area of practice."
+    },
+    {
+      "knowledgeId": "3e956aa3-8e04-407d-a3da-314566b9237c",
+      "detail": "Preventive conservation measures related to area of practice."
+    },
+    {
+      "knowledgeId": "18f08437-abbc-4c24-b8f4-d158a4962a94",
+      "detail": "Advances in the body of knowledge and conservation practice for the specific field including use of artificial intelligence."
+    },
+    {
+      "knowledgeId": "74c0cf91-be08-4eb2-a0e0-6da7097892c7",
+      "detail": "The materials for use to support display, packing, storage and in-transit design."
+    },
+    {
+      "knowledgeId": "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+      "detail": "Guidelines and documentation for transporting objects using a range of transportation methods to meet courier requirements for loans and touring exhibitions."
+    },
+    {
+      "knowledgeId": "742e583c-ed08-4af0-aaa0-34469238abe5",
+      "detail": "The documentation associated with the entry and exit of objects, such as works on loan, acquisitions or objects left for identification by the public."
+    },
+    {
+      "knowledgeId": "a0dcea9d-1205-4ce6-a0e5-39e11bd29863",
+      "detail": "Guidelines for loans such as those provided by the UK Registrars Group and internal policies, where applicable and the need for compliance with these. "
+    },
+    {
+      "knowledgeId": "d02af442-e021-4d15-900e-3c8bf6e9b434",
+      "detail": "Strategies for widening access, inclusion and diversity related to area of work."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "a27d386f-ea2a-4af9-815d-c50e23577dd7",
+      "detail": "Keeps up to date with industry best practice and seeks to continuously improve and develop."
+    },
+    {
+      "behaviourId": "94f2b8a0-0f72-4fcb-b3fe-1b1b2d45de2e",
+      "detail": "Take personal responsibility for sustainable outcomes in how they carry out the duties of their role by reference to environmental good practice."
+    },
+    {
+      "behaviourId": "f18b959e-7558-4ee0-8249-f9f86549122d",
+      "detail": "Take reasonable care for the health and safety of themselves and of others who may be affected by their acts or omissions at work."
+    },
+    {
+      "behaviourId": "34e5593d-1c9b-45d3-8839-2c581069df77",
+      "detail": "Acts in a professional and ethical manner, embracing equity, diversity and inclusion in the workplace."
+    },
+    {
+      "behaviourId": "378fd920-60d0-4eed-9588-d1d4c5ce8df0",
+      "detail": "Operate within the limits of own responsibility and seek support when required. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+      "detail": "Assess condition, stability and possible risks to an object in relation its location or intended use. "
+    },
+    {
+      "skillId": "0a3a391d-6d59-4e28-b646-88b2e7022036",
+      "detail": "Identify and minimise challenges in environmental and biological conditions related to objects and or collections. "
+    },
+    {
+      "skillId": "66a5a519-94f6-4420-9cc4-9ace229165a3",
+      "detail": "Select tools and equipment related to the specific task."
+    },
+    {
+      "skillId": "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+      "detail": "Assist with the identification of faults and maintenance of tools and equipment.  "
+    },
+    {
+      "skillId": "f294673c-3595-46c2-87e7-277fbb9ff34c",
+      "detail": "Contribute to designing, preparing, and building containers, fixings, supports and packing for objects based on their specifications. "
+    },
+    {
+      "skillId": "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+      "detail": "Undertake safe handling and movement of objects considering the physical safety of yourself and others. "
+    },
+    {
+      "skillId": "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
+      "detail": "Carry out planned reviews to enable improvements to storage and display areas."
+    },
+    {
+      "skillId": "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+      "detail": "Keep storage areas and associated workspaces clean and tidy in line with policies and procedures. "
+    },
+    {
+      "skillId": "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+      "detail": "Assist with object collections following care procedures."
+    },
+    {
+      "skillId": "0a5a407a-2308-42b7-931a-6ef818b767cb",
+      "detail": "Handle objects in a way that minimises risk to the object in line with organisations and sector guidelines. "
+    },
+    {
+      "skillId": "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
+      "detail": "Identify and select viable options before making decisions as to the final agreed approach."
+    },
+    {
+      "skillId": "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+      "detail": "Carry out procedures for assessment management and mitigation of risk. "
+    },
+    {
+      "skillId": "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+      "detail": "Complete and maintain records and databases in line with organisational standards. "
+    },
+    {
+      "skillId": "c35b5075-aba9-4f06-b046-7f7e60046b52",
+      "detail": "Document and report information about the condition of objects as per the organisation’s policies and procedures and industry guidelines."
+    },
+    {
+      "skillId": "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+      "detail": "Undertake and report on tasks within agreed timeframes and budgets and in line with curatorial and or collections care requirements."
+    },
+    {
+      "skillId": "06b5ccfa-115b-4148-9101-0df332b98595",
+      "detail": "Undertake work in a way that takes into account the specific security requirements of objects and collections. "
+    },
+    {
+      "skillId": "2d6bb3e8-148e-40ad-82e8-edf63d567130",
+      "detail": "Adapt communication to meet the needs of the audience, for example, internal and external stakeholders."
+    },
+    {
+      "skillId": "67e15617-f30e-4a04-96c0-ab854ef617ee",
+      "detail": "Develop a personal professional development plan linked to personal and professional development needs."
+    },
+    {
+      "skillId": "1d93a3dd-406e-4fb1-bd52-17e56149bfeb",
+      "detail": "Select methods and materials to suit the object and the work to be carried out, in consultation with conservators and specialists."
+    },
+    {
+      "skillId": "bfc1099a-8151-45b9-8eb2-cf14e35605d6",
+      "detail": "Carry out interventive or preventive conservation measures in agreement with supervisor. "
+    },
+    {
+      "skillId": "4dbcbb1c-a32d-4a3c-a079-76294b348e2b",
+      "detail": "Identify the materials needed to make displays, mounts, cases and commissions in line with budget constraints and resources. "
+    },
+    {
+      "skillId": "50452e45-70c0-4de5-9e43-35f4600f35a9",
+      "detail": "Undertake object installation and de-installation in line with agreed plans, health and safety procedures and deadlines."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0263",
+  "tbMainContact": "nh455@cam.ac.uk",
+  "involvedEmployers": "Natural History Museum, Crown Fine Art, Wysing Arts Centre, Imperial War Museum, Reading University, Duxford Aviation Society, University of Cambridge Museums, Plymouth City Museum & Art Gallery, Museum of Zoology, Cambridge Ashmolean Museum,  Oxford Museums Association, Cambridge Museum of Technology, Head of Museum Development Yorkshire, Tyne & Wear Archives & Museums, Victoria and Albert, CCSkills, Historic England, Tyne & Wear Archives & Museums, Bradford Industrial Museum, Natural History Museum\n\n",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Art and collection technician",
+    "Art handler",
+    "Collections conservation technician",
+    "Conservation science technician",
+    "Conservation technician",
+    "Curatorial assistant",
+    "Exhibition technician",
+    "Museums assistant",
+    "Specialist conservation technician"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Cultural Heritage and Visitor Attractions",
+  "cluster": "Collections and conservation technician",
+  "clusterId": "4",
+  "clusterDescription": "Set-up exhibition collections and maximise the engagement of visitors",
+  "createdDate": "2025-03-18T16:25:05 +00:00",
+  "lastUpdated": "",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1469?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1469",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "11851b7a-7e0e-489c-ae0b-88c7e6c5d349",
+      "dutyDetail": "Undertake and support safe handling, installation, packing and movement of collections within exhibitions, displays or storage",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "378fd920-60d0-4eed-9588-d1d4c5ce8df0"
+      ],
+      "mappedKnowledge": [
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "088a731c-6958-49a7-aca6-de7bc60a8c3d",
+      "dutyDetail": "Support senior colleagues in monitoring the condition, safety and security of collections, ensuring that any changes, deterioration and damage are reported following organisation procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "378fd920-60d0-4eed-9588-d1d4c5ce8df0"
+      ],
+      "mappedKnowledge": [
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "b8fff6ef-0037-4595-82cf-9044a32100fd",
+        "af6e9a82-166f-4086-86c8-79473797b9d6",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06b30df9-3b21-4253-9b75-f8cf17cfc283",
+      "dutyDetail": "Assess and manage risk to collections on display and in storage, and to provide support to senior colleagues in mitigating against these risks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "378fd920-60d0-4eed-9588-d1d4c5ce8df0"
+      ],
+      "mappedKnowledge": [
+        "fcefdc5a-168d-4c19-9cb4-6c0d8c8904fa",
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "b8fff6ef-0037-4595-82cf-9044a32100fd",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c5bb0ced-9101-4fb0-8110-513eac6076cf",
+      "dutyDetail": "Operate and maintain tools and equipment, and store these in line with organisation standards.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+        "b8fff6ef-0037-4595-82cf-9044a32100fd",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f82ac071-089d-4ba2-a408-4393e34802eb",
+      "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self, others and objects. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f18b959e-7558-4ee0-8249-f9f86549122d"
+      ],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "f97393ee-218d-4c33-b3c6-53f5800e83b3",
+        "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "b8fff6ef-0037-4595-82cf-9044a32100fd",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "43675a9d-e3cf-4bb3-ab79-cf9d0c87d577",
+      "dutyDetail": "Work with professional judgement and ethics in their area of practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a27d386f-ea2a-4af9-815d-c50e23577dd7",
+        "34e5593d-1c9b-45d3-8839-2c581069df77"
+      ],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "af6e9a82-166f-4086-86c8-79473797b9d6",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "2d6bb3e8-148e-40ad-82e8-edf63d567130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d9d31c53-5b9c-4fc9-8629-ca36e0691557",
+      "dutyDetail": "Work in a sustainable way, championing green initiatives in the workplace.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "94f2b8a0-0f72-4fcb-b3fe-1b1b2d45de2e"
+      ],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "b8fff6ef-0037-4595-82cf-9044a32100fd",
+        "af6e9a82-166f-4086-86c8-79473797b9d6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "99b19655-a3b1-4216-9fa1-a97217aa0b5a",
+      "dutyDetail": "Collaborate with stakeholders and work with team members.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f18b959e-7558-4ee0-8249-f9f86549122d",
+        "34e5593d-1c9b-45d3-8839-2c581069df77"
+      ],
+      "mappedKnowledge": [
+        "fcefdc5a-168d-4c19-9cb4-6c0d8c8904fa",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "f97393ee-218d-4c33-b3c6-53f5800e83b3",
+        "f32a35ef-e24a-474a-bd89-f4e00a3696c1",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "2d6bb3e8-148e-40ad-82e8-edf63d567130"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f3298e4-eedb-4b2a-9145-4634884e4968",
+      "dutyDetail": "Take responsibility for own personal development. Keeping up to date with emerging technology and improvements in their field. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a27d386f-ea2a-4af9-815d-c50e23577dd7"
+      ],
+      "mappedKnowledge": [
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "af6e9a82-166f-4086-86c8-79473797b9d6",
+        "56965ad9-d51a-456f-80de-72f68a1e01d2",
+        "742e583c-ed08-4af0-aaa0-34469238abe5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "67e15617-f30e-4a04-96c0-ab854ef617ee"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fe466427-6337-48c7-bbbf-03868363ec45",
+      "dutyDetail": "Complete, maintain and update records of conservation activities in line with organisation procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+        "62d31974-900b-4f28-beff-c5f20ec74c0b",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1840ee8e-8b0c-413b-a645-fba8697fbd73",
+      "dutyDetail": "Support the organisation’s emergency preparedness e.g. for fire, flood, pest outbreak, theft, vandalism and accidental damage, and deliver own role within the organisation’s systems, policies and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "f97393ee-218d-4c33-b3c6-53f5800e83b3",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "daae7bdf-4e28-4229-b991-5c7e11c74cfe",
+      "dutyDetail": "Design, fabricate and install bespoke display, transit and interpretation solutions, which may include mounts and showcases.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "74c0cf91-be08-4eb2-a0e0-6da7097892c7",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+      ],
+      "mappedOptions": [
+        "ceca4ff2-abb3-4448-90ad-af0a5e7fd026"
+      ],
+      "mappedSkills": [
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "f294673c-3595-46c2-87e7-277fbb9ff34c",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "4dbcbb1c-a32d-4a3c-a079-76294b348e2b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a041b219-60c8-4998-86bc-243e5267076d",
+      "dutyDetail": "Safely and securely transport collections using moving materials, equipment, and or transportation vehicles.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "f97393ee-218d-4c33-b3c6-53f5800e83b3",
+        "74c0cf91-be08-4eb2-a0e0-6da7097892c7",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [
+        "ceca4ff2-abb3-4448-90ad-af0a5e7fd026"
+      ],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "4dbcbb1c-a32d-4a3c-a079-76294b348e2b",
+        "50452e45-70c0-4de5-9e43-35f4600f35a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3f3669a-f81c-4bd0-98f6-db2695700eea",
+      "dutyDetail": "Take responsibility for monitoring and recording entry and exit of objects, such as works on loan, acquisitions or objects left for identification by the public.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "2f744f9e-d023-4ee6-92d1-0243ede75d20",
+        "74c0cf91-be08-4eb2-a0e0-6da7097892c7",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
+      ],
+      "mappedOptions": [
+        "ceca4ff2-abb3-4448-90ad-af0a5e7fd026"
+      ],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "f294673c-3595-46c2-87e7-277fbb9ff34c",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "4dbcbb1c-a32d-4a3c-a079-76294b348e2b",
+        "50452e45-70c0-4de5-9e43-35f4600f35a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1cf62397-8936-47da-8baa-a3c2ea1bd95b",
+      "dutyDetail": "Assisting in the preparation and execution of preventive or interventive conservation measures or treatments in agreement with supervisor or qualified conservator, including selection and use of appropriate methods and materials.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "8445d3af-24ae-4e90-8fa0-ebd6ca01a403",
+        "22c6e8ab-4603-4910-a6e4-6a1e42e69903",
+        "3e956aa3-8e04-407d-a3da-314566b9237c",
+        "18f08437-abbc-4c24-b8f4-d158a4962a94",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
+      ],
+      "mappedOptions": [
+        "dfe50060-8627-47e1-97da-7338631b7fd2"
+      ],
+      "mappedSkills": [
+        "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "1d93a3dd-406e-4fb1-bd52-17e56149bfeb",
+        "bfc1099a-8151-45b9-8eb2-cf14e35605d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ca9a11e7-44d5-427a-8866-a6020cfce4ad",
+      "dutyDetail": "Take responsibility for the day to day care of collections, including undertaking of monitoring, conservation cleaning or protection of collections. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
+        "d69ec94e-1a59-4388-9355-d4e845dc45fb",
+        "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
+        "2890be48-4912-4c15-81ba-7743d89514de",
+        "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
+        "3a742dbb-5cee-45bf-a4b3-bc650921b501",
+        "383e77cf-fc0a-4431-a106-f5c57854b8f4",
+        "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
+        "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
+        "8445d3af-24ae-4e90-8fa0-ebd6ca01a403",
+        "22c6e8ab-4603-4910-a6e4-6a1e42e69903",
+        "3e956aa3-8e04-407d-a3da-314566b9237c",
+        "18f08437-abbc-4c24-b8f4-d158a4962a94",
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863",
+        "d02af442-e021-4d15-900e-3c8bf6e9b434"
+      ],
+      "mappedOptions": [
+        "dfe50060-8627-47e1-97da-7338631b7fd2"
+      ],
+      "mappedSkills": [
+        "0a3a391d-6d59-4e28-b646-88b2e7022036",
+        "66a5a519-94f6-4420-9cc4-9ace229165a3",
+        "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
+        "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
+        "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
+        "d49e3293-a7af-4ab5-b255-d30e06d134c1",
+        "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
+        "c35b5075-aba9-4f06-b046-7f7e60046b52",
+        "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
+        "06b5ccfa-115b-4148-9101-0df332b98595",
+        "1d93a3dd-406e-4fb1-bd52-17e56149bfeb",
+        "bfc1099a-8151-45b9-8eb2-cf14e35605d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "ceca4ff2-abb3-4448-90ad-af0a5e7fd026",
+      "title": "Museum and gallery technician ",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "dfe50060-8627-47e1-97da-7338631b7fd2",
+      "title": "Conservation technician ",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-18T16:25:05.703"
+}
