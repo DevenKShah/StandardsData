@@ -1,60 +1,783 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 674,
   "referenceNumber": "ST0753",
+  "learningAimClassCode": "",
   "title": "Express delivery sortation hub operative",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0753",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Contribute to the successful processing of items within the expected timeframe.",
   "level": 2,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "driver",
+    "delivery",
+    "transport",
+    "logistics",
+    "supply chain"
+  ],
+  "jobRoles": [
+    "Sortation hub operative",
+    "Express delivery operative"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7285/st0753_express_delivery_sortation_hub_operative_l2_epaem.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.2 Warehousing and distribution",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the logistics sector and provides the centralised support that enables the rapid distribution of goods in transit to and from couriers and postal services.&lt;/p&gt;\n&lt;p&gt;Employers in this sector provide the vital link between those sending and receiving a very wide range of letters, parcels, packets and other packages. Organisations are found in the private sector.&lt;/p&gt;\n&lt;p&gt;A few sortation hubs have direct rail links but the majority rely on the national road network for distribution. The work is always highly organised and often uses the latest technological solutions, as sortation hubs can process millions of items each day. Sortation hub operatives often work for employers that have national coverage, though some are smaller and more specialist and could focus on certain types of goods.&#160;&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to contribute to the successful processing of items within the expected timeframe. Sortation hub operatives receive, assess, and sort goods by destination. These goods are then collected for “final mile” delivery. Goods are typically small enough for manual handling, and could be almost anything, from online shopping orders intended for home delivery through to business-to-business sales. Sortation hub operatives are vital therefore in ensuring the smooth running of these complex, often automated operations.&#160;&lt;/p&gt;\n&lt;p&gt;Sortation hub operatives do not store or deliver goods themselves. Instead, they provide an express service, turning around the distribution of these goods to couriers/postal services and other road transport operators at great speed, often within a few hours of receipt.&lt;/p&gt;\n&lt;p&gt;Sortation hub operatives can expect to work indoors and at a fixed site. They usually work shifts, which quite commonly includes some unsociable hours.&#160;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other sortation hub operatives within their own team, together with the supervisor or manager who they report to. They may need to contact a specialist team following a major problem, for instance with their IT systems or mechanical equipment. Sortation hub operatives may also be expected to liaise on occasion with the organisation who is either sending, delivering or collecting items, including retailers, wholesalers, manufacturers, courier companies, and postal companies.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for completing their own work to specification, with minimal supervision, ensuring they meet set deadlines. Sortation hub operatives are responsible for maintaining their own workspace, and responsible for operating highly technical, specialist equipment. Depending on the type of employer this could involve loading/unloading goods using booms (that reach for parcels in trucks) or cages, operating multi-level belt sorters, automated chutes, and using sophisticated IT systems.&lt;/p&gt;\n&lt;p&gt;They are responsible for meeting quality requirements and working compliantly to their own organisations procedures. They must also work in accordance with health and safety considerations. They will typically maintain and clean machinery and fix minor jams. They will respond to incidents and emergencies, such as damage to parcels,&#160; but will escalate more significant issues that are beyond their own responsibility. Sortation hub operatives tend to work in teams where everyone has a specialist task and all work together in order to complete their shared goals.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+      "detail": "Last mile and the different types of express delivery business models."
+    },
+    {
+      "knowledgeId": "c8dea111-4369-434a-b67e-b2234e73ab85",
+      "detail": "The range of different job roles across express delivery, from supplier through to sortation hub and final mile services."
+    },
+    {
+      "knowledgeId": "cfcd48e1-fe1e-4359-9b38-cc15bfb5a294",
+      "detail": "The importance of the sortation hub in completing a successful express delivery service."
+    },
+    {
+      "knowledgeId": "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+      "detail": "Machinery operating procedures including sortation belts, chutes, York roll containers, drop bags, mail bags, mail cages, and boom loaders."
+    },
+    {
+      "knowledgeId": "44952e1b-c012-420c-86b1-8aa8126db1d9",
+      "detail": "Manual handling and mechanical handling techniques for different types of goods. The principles for selecting the safest option applicable to the circumstances. "
+    },
+    {
+      "knowledgeId": "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+      "detail": "Procedures for collections and returns."
+    },
+    {
+      "knowledgeId": "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+      "detail": "Terminology and procedures that apply when using  dedicated sortation IT equipment and automated sortation systems."
+    },
+    {
+      "knowledgeId": "282a67f8-d50a-48a7-a244-7df67e409612",
+      "detail": "Range of labels and the instructions for use in sortation. "
+    },
+    {
+      "knowledgeId": "56fa54e9-59b1-48a3-bf2c-5930896dbaf2",
+      "detail": "Techniques to match service cost to size weight and volume. "
+    },
+    {
+      "knowledgeId": "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+      "detail": "Cleaning and maintenance protocols. "
+    },
+    {
+      "knowledgeId": "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+      "detail": "Sortation equipment cycles."
+    },
+    {
+      "knowledgeId": "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+      "detail": "Fault finding principles."
+    },
+    {
+      "knowledgeId": "4c0b7d4a-d6c8-4459-b27d-9544580bd17e",
+      "detail": "Reporting and escalation procedures."
+    },
+    {
+      "knowledgeId": "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+      "detail": "Contingency plans."
+    },
+    {
+      "knowledgeId": "d586102b-fdde-4b5a-94fa-dd8c35bf7454",
+      "detail": "The European agreement concerning the International carriage of dangerous goods (ADR). Techniques to apply this legislation within own area of responsibility when working with dangerous goods.   "
+    },
+    {
+      "knowledgeId": "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+      "detail": "UK postal regulations and universal service obligation."
+    },
+    {
+      "knowledgeId": "6f385b7d-3c5e-4eb8-83bf-5361b4edb16a",
+      "detail": "Data protection legislation and how this applies to sortation."
+    },
+    {
+      "knowledgeId": "a98c38b0-e362-4cef-9365-0a063a8f6890",
+      "detail": "Health and safety legislation and how this applies to sortation."
+    },
+    {
+      "knowledgeId": "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
+      "detail": "Methods of communication."
+    },
+    {
+      "knowledgeId": "1f67d666-2aba-465d-842b-8f86d67ce688",
+      "detail": "Principles of working with others in shift patterns."
+    },
+    {
+      "knowledgeId": "fb83a7f3-fe12-407e-b934-4aa9066ded2b",
+      "detail": "Techniques for maintaining the integrity of mail, packages, packets and parcels. "
+    },
+    {
+      "knowledgeId": "46abd3d9-91f9-4335-83ec-7e2ee83ea0dd",
+      "detail": "Own organisations equality and diversity requirements."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+      "detail": "Takes ownership of work."
+    },
+    {
+      "behaviourId": "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+      "detail": "Puts safety and security first for themselves and others."
+    },
+    {
+      "behaviourId": "b46d0a91-eec7-4746-bf51-3a375de988fc",
+      "detail": "Team-focused and works effectively with colleagues and others."
+    },
+    {
+      "behaviourId": "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+      "detail": "Committed to keeping up to date with industry best practice."
+    },
+    {
+      "behaviourId": "4d7f2e0c-569b-4957-9dde-ce246a36f3fc",
+      "detail": "Sources solutions and seeks to continuously improve and develop."
+    },
+    {
+      "behaviourId": "b1c1993f-34ef-469b-aa00-d50355fb2412",
+      "detail": "Calm under pressure."
+    },
+    {
+      "behaviourId": "533b02d3-4ac8-4324-b5c5-cc6140de723c",
+      "detail": "Acts with integrity, following own organisations required standards."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
+      "detail": "Unload and load items using the correct equipment. For example this may involve cages, bags or booms. "
+    },
+    {
+      "skillId": "77915958-0e23-4b12-8767-1a7afcc9cc50",
+      "detail": "Matches items for sortation with the correct manual, mechanical, or automated handling technique."
+    },
+    {
+      "skillId": "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+      "detail": "Prepares and operates sortation equipment in line with operating instructions."
+    },
+    {
+      "skillId": "2fe7d485-7ad8-4611-859c-4feb822236ef",
+      "detail": "Responds to deliveries, collections and returns in accordance with own organisation procedures and any relevant contractual arrangements. "
+    },
+    {
+      "skillId": "222a4385-6549-4c22-bab3-07aa45f7b4be",
+      "detail": "Adapts own method of communication to the circumstances, using correct sortation terminology."
+    },
+    {
+      "skillId": "c906b714-f1d8-43cb-9b11-92c477b0b892",
+      "detail": "Respond to data to support the correct flow of automated sortation."
+    },
+    {
+      "skillId": "bced2064-71e1-4532-8c34-ac6e719f7604",
+      "detail": "Assess and update labelling where required to support smooth transition through sortation to delivery. "
+    },
+    {
+      "skillId": "7a8c696e-7c1d-406d-985b-148bcfbe3895",
+      "detail": "Match item cost to delivery service and respond to irregularities. (For example, identifying a large envelope with a regular stamp).  "
+    },
+    {
+      "skillId": "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+      "detail": "Monitor and maintain sortation equipment to the required functionality.  For example, the minor adjusting of belts and chutes during a typical shift."
+    },
+    {
+      "skillId": "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+      "detail": "Identify and remedy basic faults in sortation equipment."
+    },
+    {
+      "skillId": "39bd0472-8ebd-4eae-9ac2-1013c1f67d03",
+      "detail": "Create reports on sortation performance, within limits of own role. "
+    },
+    {
+      "skillId": "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
+      "detail": "Identify problems beyond own responsibility and escalate to the relevant person.  "
+    },
+    {
+      "skillId": "597be43c-3bf7-4a17-9be6-b5018723f9c3",
+      "detail": "Follow the contingency procedures that relate to incidents and emergencies. For example, damaged parcels or breakages."
+    },
+    {
+      "skillId": "7a6862d0-daa0-49a0-88bd-34f3d650da3b",
+      "detail": "Identify and handle dangerous goods correctly in accordance with legislative requirements. "
+    },
+    {
+      "skillId": "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+      "detail": "Coordinate own work with that of others in the team to provide the required sortation tasks."
+    },
+    {
+      "skillId": "5eb13ef7-6260-4f7c-b89a-7067fd5e281e",
+      "detail": "Store and share data only when it is permitted to do so, in line with data protection legislation."
+    },
+    {
+      "skillId": "27ca9190-0c01-4469-aa2a-7b24991a1162",
+      "detail": "Work compliantly by following relevant health and safety legislation. "
+    },
+    {
+      "skillId": "9fe48219-84f2-45fb-ab5c-6d0ad756596a",
+      "detail": "Maintain the integrity and security of items in line with procedures."
+    },
+    {
+      "skillId": "ec483f2a-2f56-4b7a-a967-949bd3f24893",
+      "detail": "Support others by following own organisations equality and diversity requirements."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-02-11T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbReference": "TB0068",
+  "tbMainContact": "jmoore@onitlogistics.com",
+  "involvedEmployers": "On it Logistics Institute of Couriers Absolutely London Adison Lee BFPO Cambridge Courier Co CitySprint Clipper Logistics Crown Couriers Diamond Logistics DPD DX Eagle Scotland Fedex TNT GLH London Hermes Ocado Quickline Manchester Rico Logistics Royal Mail Smiths News Swift Couriers TopSpeed Watford Tuffnells Whistl Yodel",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2018-08-29T08:11:34 +00:00",
-  "lastUpdated": "2018-08-29T08:11:34 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/express-delivery-sortation-hub-operative#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/express-delivery-sortation-hub-operative",
+  "typicalJobTitles": [
+    "Sortation hub operative",
+    "Express delivery operative"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Logistics",
+  "cluster": "Supply chain operative or technician",
+  "clusterId": "37",
+  "clusterDescription": null,
+  "createdDate": "2021-11-29T08:58:15 +00:00",
+  "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-02-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0753",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0753-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0753-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Couriers",
+      "level": "Associate membership IOC ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ee31018a-27d1-4fad-9a63-375cf2cafe39",
+      "dutyDetail": "Determine the nature of goods (such as perishables, parcels or mail) and select the most suitable approach to sortation. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "c8dea111-4369-434a-b67e-b2234e73ab85",
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "d586102b-fdde-4b5a-94fa-dd8c35bf7454",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
+        "77915958-0e23-4b12-8767-1a7afcc9cc50",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f626a4e-404d-4cde-8b1e-36adb53e3c6f",
+      "dutyDetail": "Unload and load goods. Use the correct equipment, including for example trays, roller cages, mail bags and loading booms.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412",
+        "533b02d3-4ac8-4324-b5c5-cc6140de723c"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "d586102b-fdde-4b5a-94fa-dd8c35bf7454",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
+        "77915958-0e23-4b12-8767-1a7afcc9cc50",
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "2fe7d485-7ad8-4611-859c-4feb822236ef",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "18b45f14-c7b2-449e-83b3-0eb2210a011f",
+      "dutyDetail": "Examine goods and identify the destination labelling. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba"
+      ],
+      "mappedKnowledge": [
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "282a67f8-d50a-48a7-a244-7df67e409612",
+        "56fa54e9-59b1-48a3-bf2c-5930896dbaf2",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "6f385b7d-3c5e-4eb8-83bf-5361b4edb16a",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aa0c67fa-f4ca-40b8-b768-3de4680f8b43",
+        "77915958-0e23-4b12-8767-1a7afcc9cc50",
+        "bced2064-71e1-4532-8c34-ac6e719f7604",
+        "7a6862d0-daa0-49a0-88bd-34f3d650da3b",
+        "5eb13ef7-6260-4f7c-b89a-7067fd5e281e",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "83f38f8d-5e6d-4788-b91a-bd2e3e1749d8",
+      "dutyDetail": "Determine the volume and weight of goods to cost, and match goods to available dispatch services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412",
+        "533b02d3-4ac8-4324-b5c5-cc6140de723c"
+      ],
+      "mappedKnowledge": [
+        "c8dea111-4369-434a-b67e-b2234e73ab85",
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "282a67f8-d50a-48a7-a244-7df67e409612",
+        "56fa54e9-59b1-48a3-bf2c-5930896dbaf2",
+        "d586102b-fdde-4b5a-94fa-dd8c35bf7454",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "6f385b7d-3c5e-4eb8-83bf-5361b4edb16a",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "77915958-0e23-4b12-8767-1a7afcc9cc50",
+        "7a8c696e-7c1d-406d-985b-148bcfbe3895",
+        "7a6862d0-daa0-49a0-88bd-34f3d650da3b",
+        "5eb13ef7-6260-4f7c-b89a-7067fd5e281e",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a6ece804-daec-4f57-a101-c54b32dbe1f1",
+      "dutyDetail": "Process goods, working with conveyor belts, sortation equipment and chutes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "282a67f8-d50a-48a7-a244-7df67e409612",
+        "56fa54e9-59b1-48a3-bf2c-5930896dbaf2",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "77915958-0e23-4b12-8767-1a7afcc9cc50",
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d4f1850-b101-462e-8076-b9b15aa3fe35",
+      "dutyDetail": "Read and respond to data for sortation equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "222a4385-6549-4c22-bab3-07aa45f7b4be",
+        "c906b714-f1d8-43cb-9b11-92c477b0b892",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "057eca74-a06b-4a7a-ab8c-39a8df0ead46",
+      "dutyDetail": "Operate manual and semi-automated sortation machinery, such as manual hopper feeds.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "c906b714-f1d8-43cb-9b11-92c477b0b892",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1bd569d-e9d6-44c1-8490-2b9331ccf0ca",
+      "dutyDetail": "Maintain, clean and unblock sortation equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a5df45fc-2d55-4aaa-9ed7-8ef646a5292a",
+      "dutyDetail": "Operate and monitor IT systems used for automated sortation and sequencing. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "c906b714-f1d8-43cb-9b11-92c477b0b892",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5f00baa8-8d9a-4a76-b51c-b14209e05386",
+      "dutyDetail": "Calibrate sortation equipment before and after operation cycles.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "f3a3ff61-9014-4ee1-8e40-bf21b84c419d",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "c906b714-f1d8-43cb-9b11-92c477b0b892",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "647be475-38c3-43df-aa5e-591378a4a1ad",
+      "dutyDetail": "Escalate sortation problems beyond own control.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "4d7f2e0c-569b-4957-9dde-ce246a36f3fc",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "4c0b7d4a-d6c8-4459-b27d-9544580bd17e",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "222a4385-6549-4c22-bab3-07aa45f7b4be",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
+        "597be43c-3bf7-4a17-9be6-b5018723f9c3",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a",
+        "ec483f2a-2f56-4b7a-a967-949bd3f24893"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f94b8631-76ac-4b8a-90fb-ab5c9fd96561",
+      "dutyDetail": "Identify and report mechanical failures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "4d7f2e0c-569b-4957-9dde-ce246a36f3fc",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "9bc0d8dd-a760-42e3-9d69-0713189ffe8e",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "206a6188-0b0a-4ca0-ad76-35954e8e2cd6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7884dcee-fad5-4423-a19c-01b2b4288041",
+      "dutyDetail": "Comply with health and safety and all other relevant sortation procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c"
+      ],
+      "mappedKnowledge": [
+        "9b28d10c-8f7f-4e1f-a07b-7246a4af7112",
+        "ecca9fd5-fba8-4743-83cd-ec8ee0d388f1",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "d586102b-fdde-4b5a-94fa-dd8c35bf7454",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cc10aa0-2382-4b7e-a63d-62894a7683b6",
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "597be43c-3bf7-4a17-9be6-b5018723f9c3",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8ea9d2d3-d21a-4c49-9a3d-c688f15626ba",
+      "dutyDetail": "Identify damaged goods and take action in accordance with own organisation requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "4d7f2e0c-569b-4957-9dde-ce246a36f3fc",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412",
+        "533b02d3-4ac8-4324-b5c5-cc6140de723c"
+      ],
+      "mappedKnowledge": [
+        "44952e1b-c012-420c-86b1-8aa8126db1d9",
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "83d8f3c4-f943-4268-a79f-7d72fd8e7a2c",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
+        "fb83a7f3-fe12-407e-b934-4aa9066ded2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fcc678ce-c950-4211-af0c-e09dc0bc027b",
+        "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
+        "7a6862d0-daa0-49a0-88bd-34f3d650da3b",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "27ca9190-0c01-4469-aa2a-7b24991a1162",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9440069-06c4-4a21-9efd-b12e2e50f5f1",
+      "dutyDetail": "Create reports on sortation performance. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "b46d0a91-eec7-4746-bf51-3a375de988fc",
+        "f48030ae-e1c0-403e-be33-cfa2e7246b4c",
+        "533b02d3-4ac8-4324-b5c5-cc6140de723c"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "4c0b7d4a-d6c8-4459-b27d-9544580bd17e",
+        "6f385b7d-3c5e-4eb8-83bf-5361b4edb16a",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "222a4385-6549-4c22-bab3-07aa45f7b4be",
+        "39bd0472-8ebd-4eae-9ac2-1013c1f67d03",
+        "9d414a77-a7a9-45ff-a6e0-cecb5a3720d5",
+        "597be43c-3bf7-4a17-9be6-b5018723f9c3",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "5eb13ef7-6260-4f7c-b89a-7067fd5e281e",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45618043-b766-4213-a1bc-29ab1cbd2d77",
+      "dutyDetail": "Meet organisational targets for express delivery, by coordinating own work with that of the sortation hub team",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "33db4577-fa99-45b7-93fd-cd34ef03f9ba",
+        "8deadbd2-41df-4ed4-969a-cb8c1fc51590",
+        "b46d0a91-eec7-4746-bf51-3a375de988fc",
+        "b1c1993f-34ef-469b-aa00-d50355fb2412",
+        "533b02d3-4ac8-4324-b5c5-cc6140de723c"
+      ],
+      "mappedKnowledge": [
+        "2aef6efe-8cd1-421e-aa1f-59a64a1839d6",
+        "c8dea111-4369-434a-b67e-b2234e73ab85",
+        "cfcd48e1-fe1e-4359-9b38-cc15bfb5a294",
+        "2f8c670e-e3ea-44d4-be8c-27c2529a1cc3",
+        "4c0b7d4a-d6c8-4459-b27d-9544580bd17e",
+        "c334ba4e-51e7-4b04-aa5f-de2e38eb4f2b",
+        "8dbc4a76-d206-4918-8b5a-b157ccc512ab",
+        "a98c38b0-e362-4cef-9365-0a063a8f6890",
+        "e8c35cf2-4c7e-4cb2-b00a-f53ffe6efb7b",
+        "1f67d666-2aba-465d-842b-8f86d67ce688",
+        "46abd3d9-91f9-4335-83ec-7e2ee83ea0dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2fe7d485-7ad8-4611-859c-4feb822236ef",
+        "597be43c-3bf7-4a17-9be6-b5018723f9c3",
+        "6aa24632-2e0c-4767-b6cb-fade31756ce2",
+        "9fe48219-84f2-45fb-ab5c-6d0ad756596a",
+        "ec483f2a-2f56-4b7a-a967-949bd3f24893"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-20T00:00:00"
 }
