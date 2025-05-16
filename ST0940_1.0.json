@@ -1,60 +1,854 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 684,
   "referenceNumber": "ST0940",
+  "learningAimClassCode": "",
   "title": "Audiovisual technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0940",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-09-29T00:00:00",
+  "earliestStartDate": "2022-09-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide a broad range of professional solutions for communication.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Media",
+    "Communication",
+    "Audiovisual",
+    "creative",
+    "design",
+    "broadcast"
+  ],
+  "jobRoles": [
+    "Audiovisual Technician",
+    "Audiovisual Internal Event Technician",
+    "Audiovisual Support Technician",
+    "Collaboration and Audiovisual Experience Technician",
+    "Lighting and Audiovisual Technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6998/280223-st0940_audiovisual_technician_l5_correction.pdf",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a multitude of sectors including but not limited to: videoconferencing and online events, academic institutions, banks, law firms, insurance providers, financial service providers, government agencies, hospitals, software developers, galleries, museums, and other live event spaces/venues. Audiovisual (AV) professionals are employed in fixed ‘site-specific’ roles (institutions, event spaces, offices, meeting rooms) and on ‘touring’ events in venues of various sizes requiring AV infrastructure (from small clubs to stadiums). Some of this work is carried out at height. The Audiovisual industry is forecast to be worth $230 billion by 2023 (The Audiovisual and Integrated Experience Association).&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide a broad range of professional solutions for communication including videoconferencing, hybrid in-person/online events, sound, lighting, projection, and computer networking by planning, installing, configuring, and operating hardware and software. AV hardware includes audio mixing desks, video cameras, public address systems, display screens, projectors, wireless microphone systems, recording devices, lighting systems, encoders/decoders, and network switchers. AV software includes videoconferencing platforms, digital audio workstations, video editors, media servers, sound-reinforcement design/control, lighting design/control, and computer networking tools. Integrated AV involves the combination, design, and system control of the hardware/software specified above to meet unique specifications. Depending on the context, a range of working patterns are applicable including standard office hours and shift work.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of their own team, and in the course of their normal duties will interact with their line manager, senior management, potential and confirmed clients (internal/external to the employer), event organisers, public speakers, performers, AV support teams, external contractors, personal assistants, and company directors/CEO’s.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible, under minimal supervision, for design, setup, and delivery of audiovisual provision in accordance with the specifications of internal and external stakeholders. Depending on the core business of their employer these activities might be focussed on time-based events (online, in-person, and hybrid) or permanent communication systems. All of the above activity requires systematic project management skills, an evaluative approach, and the ability to synthesise client requirements, project specifications, and budget. Employees are responsible for determining the best course of action and implementing theoretical/technical knowledge in order bring projects to fruition. Additionally they are responsible for upholding institutional/national health and safety guidelines, meeting specific client requirements on time, and responding to change requests (late or otherwise) in a professional manner.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "90129704-f6af-4a0b-aaf0-6cb29f61e9a9",
+      "detail": "Connection of audio system components, signal flow and conversion"
+    },
+    {
+      "knowledgeId": "1b425d33-8668-4f61-bc32-115a5c011248",
+      "detail": "Methods of configuring and testing wireless microphones and what are common issues and adequate problem solving techniques "
+    },
+    {
+      "knowledgeId": "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+      "detail": "The impact of microphone placement and room acoustics on an audio signal"
+    },
+    {
+      "knowledgeId": "43d56a33-69b3-432f-8bbd-b26bc08c03e1",
+      "detail": "Audio mixing desk routing and operation"
+    },
+    {
+      "knowledgeId": "759b9287-d5d4-4c4f-a3b0-bbe7b39e006a",
+      "detail": "Digital Audio Workstation fundamental operations"
+    },
+    {
+      "knowledgeId": "5b7fcef3-5434-41da-acc8-5e12d045881c",
+      "detail": "Unmanaged audio mixing scenarios"
+    },
+    {
+      "knowledgeId": "4f0fd186-a556-4e3f-ab8f-590bfa7a2981",
+      "detail": "Lighting design and fixtures/controller connections"
+    },
+    {
+      "knowledgeId": "f75691b2-e950-4585-92c8-9cc2e66e17b9",
+      "detail": "Synchronisation of video signals for multi-camera setups"
+    },
+    {
+      "knowledgeId": "ad6e2a5b-6f3a-4ff6-ba89-2ab197fb43ab",
+      "detail": "Principals of photography for moving image"
+    },
+    {
+      "knowledgeId": "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+      "detail": "Appropriate audiovisual equipment and/or applications for a given brief"
+    },
+    {
+      "knowledgeId": "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+      "detail": "Project management principles: planning, change, budgets, and documentation"
+    },
+    {
+      "knowledgeId": "0af476c2-e90a-4333-a8bf-972916ddd722",
+      "detail": "Integrated audiovisual solutions for specific requirements"
+    },
+    {
+      "knowledgeId": "b9ebfa19-cad6-4115-a5ce-578330b78fcb",
+      "detail": "How to use CAD drawings when designing systems  "
+    },
+    {
+      "knowledgeId": "c6ca26e4-d818-49cc-aa5b-a87b6b9ddab3",
+      "detail": "AV over IP concepts and operation: servers, digital signage, channel distribution, and access"
+    },
+    {
+      "knowledgeId": "891ca6c7-af35-47f3-bfae-c88494759c9b",
+      "detail": "Awareness of the strengths, weaknesses, and limitations of videoconferencing systems and platforms"
+    },
+    {
+      "knowledgeId": "418bffec-82d8-4a97-b7c5-9a33612b8457",
+      "detail": "Videoconferencing booking systems"
+    },
+    {
+      "knowledgeId": "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+      "detail": "Redundancy and backup systems relevant to the project"
+    },
+    {
+      "knowledgeId": "28a61936-22a2-41ec-85f4-fb9f9d9ed3d2",
+      "detail": "Hardware/software configurations for streaming online audiovisual content"
+    },
+    {
+      "knowledgeId": "9e793481-6b52-4af0-a71c-1b0a912aa8ae",
+      "detail": "Installation/configuration of personal computers and common computer operating systems general functionality "
+    },
+    {
+      "knowledgeId": "a61f26a5-b9b4-4384-accc-ecafb0230265",
+      "detail": "Project mastering"
+    },
+    {
+      "knowledgeId": "abaeceae-b246-4e85-bdc8-206cbea552b8",
+      "detail": "Designation of video resolutions, frame rates, and output options"
+    },
+    {
+      "knowledgeId": "08ba9f6e-a22c-4617-b00e-34eb7803fbb3",
+      "detail": "Video compression and decompression through codec and bitrate workflows"
+    },
+    {
+      "knowledgeId": "6974ea7f-ae0b-4a05-be17-22ac34a8598a",
+      "detail": "Required workflows for online and offline edits utilising a media server"
+    },
+    {
+      "knowledgeId": "bb65f640-dcee-4e6c-81c1-09415121facb",
+      "detail": "Designation of sampling rate, bit depth, and channel options"
+    },
+    {
+      "knowledgeId": "aa68bad3-769a-4ab1-a96c-3239ed6f1584",
+      "detail": "Audio deliverables within the context of a specific project"
+    },
+    {
+      "knowledgeId": "65886f4e-72c0-4398-987b-5cdc141eb4b1",
+      "detail": "Different types of online events, their requirements and key considerations"
+    },
+    {
+      "knowledgeId": "99f5ffd9-8eb9-43b7-b495-f9e7321c1b9e",
+      "detail": "Interactive solutions for online events"
+    },
+    {
+      "knowledgeId": "12d645d7-4420-4a3f-b123-fb0efe37635e",
+      "detail": "Audiovisual accessibility considerations and systems"
+    },
+    {
+      "knowledgeId": "7f4411d8-2d95-469e-a73f-abecc1a319e7",
+      "detail": "Personal data management in accordance with relevant data protection legislation"
+    },
+    {
+      "knowledgeId": "bde7ac46-9853-434a-871a-fe18537c0003",
+      "detail": "National, employer, and context specific health and safety regulations"
+    },
+    {
+      "knowledgeId": "a56e8a83-2442-4bad-ac8d-6fb275484bfc",
+      "detail": "Potential hazards and preventative measures"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+      "detail": "Think and act independently and safely whilst working within company guidelines"
+    },
+    {
+      "behaviourId": "9f953583-854b-4b0d-8d2e-977165905e05",
+      "detail": "Work calmly and methodically in time-sensitive situations"
+    },
+    {
+      "behaviourId": "3c9976b2-8434-4143-bbaa-a7722aac5143",
+      "detail": "Reference user manuals and manufacturer guidance"
+    },
+    {
+      "behaviourId": "798826a2-5a29-4709-8ac0-5a98101e4d0a",
+      "detail": "Awareness of the importance of regular contact, when appropriate, to offer updated information and documentation"
+    },
+    {
+      "behaviourId": "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+      "detail": "Able to modify personal approach based on the situation"
+    },
+    {
+      "behaviourId": "7abd65b2-2b11-4a7c-b0bd-79d19cfe930b",
+      "detail": "Challenges approaches to work in a constructive manner"
+    },
+    {
+      "behaviourId": "3406ab69-9a15-4669-989d-e1ab398b1f07",
+      "detail": "Confident & effective communicator"
+    },
+    {
+      "behaviourId": "51f209c8-7baa-46d0-b92c-c0a107e4b373",
+      "detail": "Online researcher of new equipment and training opportunities, communicate with professionals and organisations to prioritise personal training goals and activities"
+    },
+    {
+      "behaviourId": "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+      "detail": "Well prepared, anticipates issues ahead of time"
+    },
+    {
+      "behaviourId": "0473c008-ddf8-4439-938b-c1da8c241030",
+      "detail": "Take initiative e.g. seek the source of an issue of own accord and take necessary action"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "46550cf1-3f4a-4a9f-8cff-b59ab47d6fc3",
+      "detail": "Operate a video camera and vision mixer "
+    },
+    {
+      "skillId": "2834cbbd-6c49-4d99-aa26-78a3ddb44849",
+      "detail": "Integrate a projector and/or display as part of an audiovisual presentation"
+    },
+    {
+      "skillId": "fa3369f6-eaca-482c-8e0d-657f2f583384",
+      "detail": "Audio mixing; loudness, timbre, spatialisation, and channel management"
+    },
+    {
+      "skillId": "76c309ce-19d9-4858-b18e-5298c91f19c3",
+      "detail": "Apply and problem solve video signal flow for live production"
+    },
+    {
+      "skillId": "cb851e6c-1a7b-4cc0-93bf-109bf28082d8",
+      "detail": "Operate and program lighting control software/hardware"
+    },
+    {
+      "skillId": "389b48a1-411f-4362-a1fc-a1211271cfb1",
+      "detail": "Root cause analysis & problem solving"
+    },
+    {
+      "skillId": "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+      "detail": "Collate, compare, and synthesise information from various sources"
+    },
+    {
+      "skillId": "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+      "detail": "Work collaboratively; Building and maintaining positive relationships with stakeholders (such as performers, public speakers, presenters, clients and event organisers)"
+    },
+    {
+      "skillId": "f868c73a-92f8-4816-8b0c-4b4df4a4fa49",
+      "detail": "Communicate technical concepts with clarity in person and in writing to end users of all skill levels and seniority"
+    },
+    {
+      "skillId": "bc07f416-846a-454b-aafa-97fdd7a9d4ca",
+      "detail": "Install, test, and commission relevant hardware"
+    },
+    {
+      "skillId": "9a56724d-130d-417e-9bbd-de4f1f91a462",
+      "detail": "Configure and manage remote participation systems"
+    },
+    {
+      "skillId": "2ab0d897-431d-4b60-ad82-ca7b0d3743ef",
+      "detail": "Edit audio and video content"
+    },
+    {
+      "skillId": "292ad27e-5e45-4a8c-bf37-7515b6812b8f",
+      "detail": "Prepare, maintain, and manipulate audio and video assets through post-production"
+    },
+    {
+      "skillId": "46c45aeb-59c5-4711-966c-cc5b0fdc3823",
+      "detail": "Create digital assets for video workflows"
+    },
+    {
+      "skillId": "3aedd998-7d36-4fd3-a5e7-73cd27f88a98",
+      "detail": "Manual camera operating for a range of contemporary S35mm digital cameras"
+    },
+    {
+      "skillId": "73ff4fbc-982f-4448-8219-34f9462d6f17",
+      "detail": "Audio capture"
+    },
+    {
+      "skillId": "cb25daef-4482-4da1-aa33-2b11de5b1250",
+      "detail": "Deliver virtual event technical operations"
+    },
+    {
+      "skillId": "205a29fd-1dba-4164-ac44-8564cdbb2b9f",
+      "detail": "Clearly advise and guide event participants"
+    },
+    {
+      "skillId": "92b8b47e-be1d-443b-9e58-af6142ed72ae",
+      "detail": "Devise a learning program intended to cover a particular device/system"
+    },
+    {
+      "skillId": "ebce4d64-40a9-42ed-bf98-7f9239af3b87",
+      "detail": "Identify personal training and professional development needs via research and investigation"
+    },
+    {
+      "skillId": "b54f392a-591a-4e17-882f-9d98eeba2374",
+      "detail": "Organise appropriate personal professional development activities to develop and enhance own role and skills"
+    },
+    {
+      "skillId": "3b61d73b-d50c-4f6e-8eda-ddcd56ace2a3",
+      "detail": "Use collaborative online environments to schedule and update projects and tasks"
+    },
+    {
+      "skillId": "e5d6a029-7c7a-4769-917a-da01c3746d00",
+      "detail": "Complete risk assessment documentation"
+    },
+    {
+      "skillId": "4097de07-1781-4724-9287-7210011ae819",
+      "detail": "Accurately assesses level of risk to health and safety of themselves and others "
+    },
+    {
+      "skillId": "219138e9-7832-4492-a179-b4658801d706",
+      "detail": "Test and maintain audiovisual equipment, cables, and connectors: substitute items where necessary"
+    },
+    {
+      "skillId": "44db45f0-359a-4fe7-9e8a-57d4075bfb33",
+      "detail": "Document and record maintenance activities"
+    },
+    {
+      "skillId": "9c64f13c-6468-4eae-915e-646cb23a1712",
+      "detail": "Safe storage of equipment"
+    },
+    {
+      "skillId": "48ad18a0-0f6b-4673-af99-53fa2977fa1d",
+      "detail": "Create a coherent planning document"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-09-13T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0509",
-  "tbMainContact": "info@jacobsmassey.co.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "j.laidlaw@mbro.ac.uk",
+  "involvedEmployers": "Jacobs Massey, Middlesbrough College, Shure, Google, British Academy, Diageo, Tate Gallery, IET, Royal Society of Medicine, Visavvi (Saville Group), Royal Academy of Arts, Cisco, Acoustic Pixel, British Museum, Royal Society of Medicine, Royal College of Physicians, The Royal Institution of Great Britain, Bloomberg, Kinly, Kings College London, Science Museum, National Gallery, Wellcome Trust, AVI-SPL, AVIXA,\nAV Cultural Forum, Unified Support, The Royal Society, Remark Group, UKI & APAC at Airtame, Sky, University of the Arts London",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "Audiovisual Technician",
+    "Audiovisual Internal Event Technician",
+    "Audiovisual Support Technician",
+    "Collaboration and Audiovisual Experience Technician",
+    "Lighting and Audiovisual Technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
-  "cluster": "Media, Broadcast and Production Technician",
-  "createdDate": "2020-05-19T14:29:12 +00:00",
-  "lastUpdated": "2020-05-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/audiovisual-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/audiovisual-technician",
+  "cluster": "Media, broadcast and production technician",
+  "clusterId": "76",
+  "clusterDescription": null,
+  "createdDate": "2021-09-13T14:42:17 +00:00",
+  "lastUpdated": "2022-09-29T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-09-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0940",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0940-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0940-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "AVIXA accredited Certified Technology Specialist (CTS)",
+      "level": "5",
+      "isPartial": "partial",
+      "partialFreeText": "The KSBs in this standard align with the following professional certification:  AVIXA Certified Technology Specialist (CTS). The CTS is accredited by ANSI under the ISO/IEC 17024:2012 standard. For more information on this certification please see www.AVIXA.org/CTS.   Please note, professional certification bodies may have additional experience, examination, or other requirements to become certified."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "0bd1eef2-10ce-4cd8-9399-38aa5cb8f354",
+      "dutyDetail": "Design, install, and operate a wide range of audiovisual equipment configurations including, but not limited to: audio mixing desks, video cameras, public address systems, display screens, projectors, wireless microphone systems, recording devices, and lighting systems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "90129704-f6af-4a0b-aaf0-6cb29f61e9a9",
+        "1b425d33-8668-4f61-bc32-115a5c011248",
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "43d56a33-69b3-432f-8bbd-b26bc08c03e1",
+        "759b9287-d5d4-4c4f-a3b0-bbe7b39e006a",
+        "5b7fcef3-5434-41da-acc8-5e12d045881c",
+        "4f0fd186-a556-4e3f-ab8f-590bfa7a2981",
+        "f75691b2-e950-4585-92c8-9cc2e66e17b9",
+        "ad6e2a5b-6f3a-4ff6-ba89-2ab197fb43ab",
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+        "0af476c2-e90a-4333-a8bf-972916ddd722",
+        "b9ebfa19-cad6-4115-a5ce-578330b78fcb",
+        "c6ca26e4-d818-49cc-aa5b-a87b6b9ddab3",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "46550cf1-3f4a-4a9f-8cff-b59ab47d6fc3",
+        "2834cbbd-6c49-4d99-aa26-78a3ddb44849",
+        "fa3369f6-eaca-482c-8e0d-657f2f583384",
+        "76c309ce-19d9-4858-b18e-5298c91f19c3",
+        "cb851e6c-1a7b-4cc0-93bf-109bf28082d8",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0dfcafe5-849d-453c-ad83-c230a8d7ee8e",
+      "dutyDetail": "Provide unguided support and technical management of events.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "1b425d33-8668-4f61-bc32-115a5c011248",
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "43d56a33-69b3-432f-8bbd-b26bc08c03e1",
+        "5b7fcef3-5434-41da-acc8-5e12d045881c",
+        "4f0fd186-a556-4e3f-ab8f-590bfa7a2981",
+        "f75691b2-e950-4585-92c8-9cc2e66e17b9",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb851e6c-1a7b-4cc0-93bf-109bf28082d8",
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "205a29fd-1dba-4164-ac44-8564cdbb2b9f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "57116188-8b90-4dbb-bd6f-8081e36ad23d",
+      "dutyDetail": "Work collaboratively with, and facilitate communication between, performers, public speakers, presenters, clients, event organisers, support teams, external contractors, management, and any other stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "798826a2-5a29-4709-8ac0-5a98101e4d0a",
+        "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+        "f868c73a-92f8-4816-8b0c-4b4df4a4fa49",
+        "205a29fd-1dba-4164-ac44-8564cdbb2b9f",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "56f42f79-06e1-4072-872a-eae54dcfc319",
+      "dutyDetail": "Advise and guide customers on requirements for a range of permanent/time-limited scenarios, manage expectations and resolve complaints.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "798826a2-5a29-4709-8ac0-5a98101e4d0a",
+        "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+        "0af476c2-e90a-4333-a8bf-972916ddd722",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+        "f868c73a-92f8-4816-8b0c-4b4df4a4fa49",
+        "205a29fd-1dba-4164-ac44-8564cdbb2b9f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0840f17b-401d-4ff8-af63-324b15a5f19f",
+      "dutyDetail": "Design integrated audiovisual systems in line with customer requirements and the project environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "798826a2-5a29-4709-8ac0-5a98101e4d0a"
+      ],
+      "mappedKnowledge": [
+        "90129704-f6af-4a0b-aaf0-6cb29f61e9a9",
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "43d56a33-69b3-432f-8bbd-b26bc08c03e1",
+        "5b7fcef3-5434-41da-acc8-5e12d045881c",
+        "4f0fd186-a556-4e3f-ab8f-590bfa7a2981",
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+        "0af476c2-e90a-4333-a8bf-972916ddd722",
+        "b9ebfa19-cad6-4115-a5ce-578330b78fcb",
+        "c6ca26e4-d818-49cc-aa5b-a87b6b9ddab3",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+        "f868c73a-92f8-4816-8b0c-4b4df4a4fa49",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a0b866d-1b2d-490b-b9ce-80ff1272a0e1",
+      "dutyDetail": "Plan, install, and configure AV over IP systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143"
+      ],
+      "mappedKnowledge": [
+        "90129704-f6af-4a0b-aaf0-6cb29f61e9a9",
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "0af476c2-e90a-4333-a8bf-972916ddd722",
+        "c6ca26e4-d818-49cc-aa5b-a87b6b9ddab3",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bc07f416-846a-454b-aafa-97fdd7a9d4ca",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7cd82ba3-51ad-4654-be78-e01cc1edeca7",
+      "dutyDetail": "Coordinate and conduct videoconferencing setup and testing, ensure optimal performance and adherence to required specifications.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1"
+      ],
+      "mappedKnowledge": [
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "891ca6c7-af35-47f3-bfae-c88494759c9b",
+        "418bffec-82d8-4a97-b7c5-9a33612b8457",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "9a56724d-130d-417e-9bbd-de4f1f91a462"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed91a0d3-9cb1-42db-9233-8ba79b8e1890",
+      "dutyDetail": "Install and/or support the use of personal computers, servers, and digital signage.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143"
+      ],
+      "mappedKnowledge": [
+        "9e793481-6b52-4af0-a71c-1b0a912aa8ae",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bc07f416-846a-454b-aafa-97fdd7a9d4ca"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bcd86687-951b-430b-8aeb-5f5ed0251a35",
+      "dutyDetail": "Capture, edit, and post-produce audio and video content.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143"
+      ],
+      "mappedKnowledge": [
+        "90129704-f6af-4a0b-aaf0-6cb29f61e9a9",
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "43d56a33-69b3-432f-8bbd-b26bc08c03e1",
+        "759b9287-d5d4-4c4f-a3b0-bbe7b39e006a",
+        "ad6e2a5b-6f3a-4ff6-ba89-2ab197fb43ab",
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "a61f26a5-b9b4-4384-accc-ecafb0230265",
+        "abaeceae-b246-4e85-bdc8-206cbea552b8",
+        "08ba9f6e-a22c-4617-b00e-34eb7803fbb3",
+        "6974ea7f-ae0b-4a05-be17-22ac34a8598a",
+        "bb65f640-dcee-4e6c-81c1-09415121facb",
+        "aa68bad3-769a-4ab1-a96c-3239ed6f1584",
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fa3369f6-eaca-482c-8e0d-657f2f583384",
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "2ab0d897-431d-4b60-ad82-ca7b0d3743ef",
+        "292ad27e-5e45-4a8c-bf37-7515b6812b8f",
+        "46c45aeb-59c5-4711-966c-cc5b0fdc3823",
+        "3aedd998-7d36-4fd3-a5e7-73cd27f88a98",
+        "73ff4fbc-982f-4448-8219-34f9462d6f17"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "99b26d0f-fba6-4853-b7e9-a5072d67ae6f",
+      "dutyDetail": "Plan and manage virtual events/online broadcasts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "45a9ec03-bd1a-42ec-b497-7bfc2a984a7c",
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+        "891ca6c7-af35-47f3-bfae-c88494759c9b",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "28a61936-22a2-41ec-85f4-fb9f9d9ed3d2",
+        "65886f4e-72c0-4398-987b-5cdc141eb4b1",
+        "99f5ffd9-8eb9-43b7-b495-f9e7321c1b9e",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "7f4411d8-2d95-469e-a73f-abecc1a319e7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "da17f83c-a7aa-44c4-a051-4703b8579ea2",
+        "cb25daef-4482-4da1-aa33-2b11de5b1250",
+        "205a29fd-1dba-4164-ac44-8564cdbb2b9f",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1763944-1bfc-42d3-9765-df8501ecdca7",
+      "dutyDetail": "Analyse the design, planning and execution of services offered via testing and customer feedback: diagnose issues, evaluate emerging technologies, and recommend improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "798826a2-5a29-4709-8ac0-5a98101e4d0a",
+        "7abd65b2-2b11-4a7c-b0bd-79d19cfe930b",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "7f4411d8-2d95-469e-a73f-abecc1a319e7",
+        "bde7ac46-9853-434a-871a-fe18537c0003"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "afe1ac1e-77db-4407-89a4-2d91cd38c832",
+      "dutyDetail": "Plan, develop, and provide technical training for inexperienced end users.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "619edfed-6358-4abd-bfb6-e0cdea3dc172",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1"
+      ],
+      "mappedKnowledge": [
+        "72fca76f-9021-4bc9-81dd-5f59ec3d26bc",
+        "6576f4d3-638d-4409-b452-e23a20fa0ecb",
+        "9e793481-6b52-4af0-a71c-1b0a912aa8ae",
+        "12d645d7-4420-4a3f-b123-fb0efe37635e",
+        "bde7ac46-9853-434a-871a-fe18537c0003"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "f868c73a-92f8-4816-8b0c-4b4df4a4fa49",
+        "92b8b47e-be1d-443b-9e58-af6142ed72ae",
+        "48ad18a0-0f6b-4673-af99-53fa2977fa1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c23faa58-1ac8-401c-8f11-86ac1f894e77",
+      "dutyDetail": "Use research and development to inform personal professional development activity and enhance knowledge and skills.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "51f209c8-7baa-46d0-b92c-c0a107e4b373",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "ebce4d64-40a9-42ed-bf98-7f9239af3b87",
+        "b54f392a-591a-4e17-882f-9d98eeba2374"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c5b96032-674b-4693-9a8d-dda11e13998e",
+      "dutyDetail": "Perform administration duties pertaining to a range of events requiring audiovisual services e.g. logging requests, updating meeting/event calendars, tracking and updating project progress, producing purchase orders, processing invoices, and managing e-mail communications.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "798826a2-5a29-4709-8ac0-5a98101e4d0a",
+        "3406ab69-9a15-4669-989d-e1ab398b1f07"
+      ],
+      "mappedKnowledge": [
+        "fb916b0a-cef1-4b7d-a4c2-fa45884f2504"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "3b61d73b-d50c-4f6e-8eda-ddcd56ace2a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "641c1d7f-4954-44cb-987c-6a5c92b95750",
+      "dutyDetail": "Conduct risk assessments and produce accompanying documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1"
+      ],
+      "mappedKnowledge": [
+        "bde7ac46-9853-434a-871a-fe18537c0003",
+        "a56e8a83-2442-4bad-ac8d-6fb275484bfc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bf71e3f7-829f-4801-bbb8-1385551d7cc7",
+        "e5d6a029-7c7a-4769-917a-da01c3746d00",
+        "4097de07-1781-4724-9287-7210011ae819"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7e29afd-b415-472c-96c4-29746cd7f5b8",
+      "dutyDetail": "Maintain audiovisual equipment and an associated inventory in a variety of spaces: ensure systems are event-ready and meet specific requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "3c9976b2-8434-4143-bbaa-a7722aac5143",
+        "bb3a64ce-5285-4c06-8ee7-b10b6b717eb1",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "9e793481-6b52-4af0-a71c-1b0a912aa8ae",
+        "bde7ac46-9853-434a-871a-fe18537c0003"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "389b48a1-411f-4362-a1fc-a1211271cfb1",
+        "bc07f416-846a-454b-aafa-97fdd7a9d4ca",
+        "3b61d73b-d50c-4f6e-8eda-ddcd56ace2a3",
+        "219138e9-7832-4492-a179-b4658801d706",
+        "44db45f0-359a-4fe7-9e8a-57d4075bfb33"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8c671d28-3a1d-47bd-be95-37ebcade6f9c",
+      "dutyDetail": "Ensure that all audiovisual spaces and stores are kept orderly and presentable.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0d3dff59-60f8-4eff-b13a-dadac91debd6",
+        "9f953583-854b-4b0d-8d2e-977165905e05",
+        "0473c008-ddf8-4439-938b-c1da8c241030"
+      ],
+      "mappedKnowledge": [
+        "bde7ac46-9853-434a-871a-fe18537c0003"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9c64f13c-6468-4eae-915e-646cb23a1712"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-09-29T00:00:00"
 }
