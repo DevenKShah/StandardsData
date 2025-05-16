@@ -1,41 +1,45 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 603,
   "referenceNumber": "ST0948",
-  "title": "Midwife (2019 NMC standards) (degree)",
+  "learningAimClassCode": "",
+  "title": "Midwife (2019 NMC standards) (Integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/603",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0948",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
-  "change": "End-point assessment plan revised.",
-  "changedDate": "2021-05-14T00:00:00",
+  "change": "End-point assessment plan revised, Funding band revision published 19 August 2021",
+  "changedDate": "2021-10-04T00:00:00",
   "earliestStartDate": "2021-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "An advocate for the woman, working in partnership with her and giving the necessary support, care and advice during pregnancy.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
-  "maxFunding": 27000,
+  "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
-    "midwife",
+    "Midwife",
+    "children",
+    "baby",
     "woman",
-    "birth",
     "pregnancy",
-    "care",
-    "advice",
-    "support",
     "nurse",
-    "medicine"
+    "health",
+    "birth"
   ],
   "jobRoles": [
     "Midwife"
   ],
   "entryRequirements": "&lt;p&gt;Entry requirements to the apprenticeship are set locally by individual employers. Apprentices will also need to meet the entry requirements set by the university and the NMC.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5025/st0948_v12_midwife_l6_fully-integrated_ap_for-publication_06042021.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5908/st0948_v12_midwife_l6_fully-integrated_adjustment_ap_for-publication_15022022.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a range of healthcare settings offering different models of care. Most midwives are employed by the NHS while others work in the private sector, social enterprise or independently. A midwife may work in the community such as in a woman’s home, community hubs, GP surgeries, clinics, midwife-led units and birth centres or in hospital maternity units. This means that they usually work shifts including evenings, weekends and nights and may be on-call to provide 24-hour care.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to be the first and main contact for a woman, her partner and family. Recognised as a responsible and accountable professional, the midwife acts as an advocate for the woman, working in partnership with her and giving the necessary support, care and advice during pregnancy, labour and the postnatal period. Midwives are lead co-ordinators of care as well as the first point of contact for a woman, her baby and family. They offer support, care and advice and are responsible for facilitating births and providing care for the newborn. Midwives are experts in normal physiological birth and in supporting the woman through all birth outcomes. The personalised care they provide includes preventative measures, the detection of complications in mother and baby, the promotion of normal birth, the accessing of medical care or other appropriate assistance and the carrying out of emergency measures. The midwife has an important role in public health, offering health counselling, prevention and education, not only for the woman, but also within the family and the community. This work involves antenatal education and preparation for parenthood and may extend to a woman’s health, sexual or reproductive health. A midwife provides full antenatal care for the woman, carrying out clinical examinations and screening. They offer antenatal and parenting classes to help the woman, her partner and family prepare for labour, the birth of the baby and how to care for the baby once born. The midwife monitors and supports the woman, her partner and family during labour and birth, helping the woman to birth her baby and assessing both the woman’s and the baby’s overall health and wellbeing. Midwives can identify complex pregnancies and know when to refer to others or seek appropriate support. They are able to offer information guidance and support around issues such as stillbirth, miscarriage, termination, neonatal death or other complications. Following birth midwives offer support for infant feeding and postnatal care and may refer the woman to other services as required.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with women and families from a range of backgrounds. Midwives need to have excellent communication skills to support the woman, her partner and family through the emotional, physical and psychological process of childbirth. Midwives are part of the wider health and social care inter-disciplinary, multi-disciplinary and inter-agency team, working in partnership with colleagues as required. A midwife must have excellent situational awareness and knowledge of other human factors.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for providing care during pregnancy, labour and the postnatal period.&#160; A midwife will care for a number of women and provide continuity of care and carer. Midwives are responsible and accountable autonomous practitioners who provide woman and family centred integrated care. Midwives are advocates for women, enabling them and their families to make informed choices about the options and services available throughout pregnancy, labour and post-natal period. The midwife is responsible for the health of both the mother and baby and refers to others if there are medical, social, safeguarding issues or other complications. Midwives are regulated by the Nursing and Midwifery Council (NMC) and are responsible for their own practice and for keeping up to date with current knowledge and skills.&lt;/p&gt;",
   "knowledges": [
     {
@@ -639,58 +643,71 @@
       "detail": "Develop and maintain relationships with colleagues from the inter-disciplinary, multi-disciplinary and multi-agency team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
-    "contactEmail": "regulation@officeforstudents.org.uk",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2020-10-02T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-integrated degree",
+  "integration": null,
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0416",
-  "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
+  "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk ",
   "involvedEmployers": "Barts Health NHS Trust, Barking, Havering and Redbridge University Hospitals NHS Trust, Blackpool Teaching Hospitals NHS Foundation Trust, Buckinghamshire Healthcare NHS Trust, Chelsea & Westminster Hospital NHS Trust, Frimley Health NHS Foundation Trust, Leeds Teaching Hospital Trust, London North West University Healthcare NHS Trust, Medway NHS Foundation Trust, Oxford University Hospitals NHS Foundation Trust, St Helens and Knowsley Teaching Hospitals NHS Trust, United Lincolnshire Hospitals NHS Trust, University Hospitals Morecambe Bay NHS.",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Nursing and Midwifery Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Midwife"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Midwifery and Nursing Professional",
-  "createdDate": "2021-02-19T09:30:08 +00:00",
-  "lastUpdated": "2021-02-19T09:30:08 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/midwife-(2019-nmc-standards)-(degree)-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/midwife-(2019-nmc-standards)-(degree)-v1-1",
+  "cluster": "Midwifery and nursing professional",
+  "clusterId": "211",
+  "clusterDescription": null,
+  "createdDate": "2021-07-06T10:24:51 +00:00",
+  "lastUpdated": "2021-10-04T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-10-02T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0948",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0948-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0948-v1-1",
   "qualifications": [
     {
       "qualificationId": "1547064f-fa70-4c7d-b190-59fa49e1555f",
-      "title": "Degree in Midwifery or L7 Midwifery qualification approved by the Nursing and Midwifery Council",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "title": "Degree in Midwifery or L7 Midwifery qualification from a training provider whose programmes are approved by the Nursing and Midwifery Council",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
-      "qualificationId": "a511c6b3-6b9e-4352-bcce-28232c879591",
-      "title": "Degree in Midwifery or L7 Midwifery qualification approved by the Nursing and Midwifery Council",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "qualificationId": "a8ba7df0-10ab-4ce4-a2b6-5587feb2e2b3",
+      "title": "Degree in Midwifery or L7 Midwifery qualification from a training provider whose programmes are approved by the Nursing and Midwifery Council",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "The NMC approves institutions that can provide midwife education and sets standards for programmes that lead to registration as a midwife in the UK. Only practitioners registered with the statutory regulator, the Nursing and Midwifery Council (NMC), can use the legally protected title of Midwife. All midwifery apprenticeship programmes must meet the Nursing and Midwifery (2019) Standards for pre-registration midwifery programmes and the Standards of proficiency. In respect of the skills to be met within the apprenticeship programmes, these must align to Domain 6 of NMC (2019) Standards of Proficiency.",
-      "level": "0",
-      "isPartial": "",
+      "level": "Midwife",
+      "isPartial": "full",
       "partialFreeText": ""
     }
   ],
@@ -716,7 +733,7 @@
         "8e65e7f2-932f-4bfa-ae9d-b2006eb2a798",
         "09f6f406-88b2-4b05-89bb-6b083519d1ab"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "65da65b0-07cd-471a-8453-ebf69ced35d8",
         "0a280375-d1aa-415c-8c1f-e6e489589bb1",
@@ -747,7 +764,7 @@
         "7c71ed66-2345-4bb7-96a9-bde475d6eba3",
         "9d0f7da4-5c6f-4dd9-af03-1af2b2020f3e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c1142722-8d10-4d2a-9cc0-9599bdb3f18e",
         "bdde8ea0-9edc-4177-a8a2-c9ca3903f5b2",
@@ -780,7 +797,7 @@
         "dae24d5c-0182-4b88-b92f-c81f8b7b96f8",
         "1f42160d-00a5-4d5d-ad45-474ecf57753b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7874db1a-3acb-4146-af24-92b553e0feaf",
         "25d9d600-fe89-475d-9303-b300a4fefcfc",
@@ -815,7 +832,7 @@
         "4e121a9c-d31d-49f1-8cec-c6ba3d90f6c9",
         "ade48485-3439-4846-916a-c70b68f7ab06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d5efa6f-eecb-4b9e-9921-4373e9d5f4c4",
         "a1621210-1fa1-4f09-a05a-2fc060ec15f7",
@@ -848,7 +865,7 @@
         "fccb7dad-b692-4b3f-936b-bd350dfefff7",
         "a43f2597-6c85-4cd2-b620-f4f248e428d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41f1fa24-e072-41d9-9413-4f5587fb3ee2",
         "7b551c83-7cea-4dd8-a7fb-5668666fad8d",
@@ -878,7 +895,7 @@
         "9d392da9-24ef-4b16-9ba8-392ee2a15f49",
         "63065d39-e94c-498c-8d64-7c8720ef661d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7e403f6-14eb-46af-863c-a368690b4ec2",
         "165801a8-4afb-4c19-8fa1-3d22c06d763c",
@@ -910,7 +927,7 @@
         "d9cfeb97-d403-4884-9220-c42b178f5b48",
         "01a63323-3561-4bf4-b6d1-7c31419687f2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bc776395-731f-49b7-aa92-68ab0da047af",
         "7986f603-d53d-4c74-80fa-be1e55d65a49",
@@ -941,7 +958,7 @@
         "48925c0f-ec54-4868-a1fc-4531e04aaaf2",
         "d69ce398-0c53-4a69-b425-264570ee1b50"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7fe20a63-5bb2-45b0-b2e0-2e783f046a6f",
         "74db356f-f129-49d7-8653-5823cdb26a91",
@@ -971,7 +988,7 @@
         "c00e9c22-bff3-4941-83b3-4ec1f906b871",
         "6eff1109-6e11-4850-b8d7-5bb31d130934"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bef37f4d-2787-43d1-9a0e-1c72a7345f8e",
         "38bc60e3-ecc0-4324-9a55-56b34550be7f",
@@ -1001,7 +1018,7 @@
         "eb8723c9-87e1-462b-8060-c57362b65d27",
         "080d69b5-ddc5-42d0-902c-075132608933"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf48c820-8cf8-49d9-bc98-db4ffcf7d61f",
         "c9115e19-2496-4b01-96d1-7e36c2cc5cd8",
@@ -1034,7 +1051,7 @@
         "759fe0c8-e0a6-4596-a58e-10fffb9c90e6",
         "a24553ba-23e3-4d30-b746-1a98b22774bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5fe55527-2d30-444f-be96-21da4930be21",
         "d5b53421-12d1-4ce0-a456-f1784ad2486d",
@@ -1048,10 +1065,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training Provider",
-      "webLink": ""
+      "webLink": "www.nmc.org.uk/education/approved-programmes/",
+      "approved": true
+    },
+    {
+      "name": "EPAO",
+      "webLink": "www.nmc.org.uk/education/approved-programmes/",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-10-04T00:00:00"
 }
