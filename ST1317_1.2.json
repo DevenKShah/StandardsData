@@ -1,0 +1,1151 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 697,
+  "referenceNumber": "ST1317",
+  "learningAimClassCode": "",
+  "title": "Robotics engineer - degree",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1317",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan revised",
+  "changedDate": "2024-11-18T00:00:00",
+  "earliestStartDate": "2024-11-18T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Specify, design, build, program and test robotic systems or solutions intended to do automated jobs.",
+  "level": 6,
+  "ePALength": 6,
+  "typicalDuration": 48,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "robot",
+    "engineer",
+    "build",
+    "design",
+    "testing",
+    "automation"
+  ],
+  "jobRoles": [
+    "Application engineer",
+    "Design engineer",
+    "Manufacturing engineer",
+    "Mechatronic engineer",
+    "Process engineer",
+    "Production engineer",
+    "Research engineer",
+    "Robotics engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1317-v1-2?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in technology or engineering functions across a range of public and private sectors such as manufacturing, retail, healthcare and transportation, all of which range in size from large to small operations. Robotics engineers will normally operate with a considerable degree of autonomy and will lead teams that develop and deploy robotic systems. They work in accordance with applicable laws, regulations, standards and ethics. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to specify, design, build, program and test robotic systems or solutions intended to do automated jobs in industries including manufacturing, construction, logistics, aerospace and medicine, as well as robots that interact with people and operate autonomously in public spaces and warehouses.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a multidisciplinary project team that can consist of process engineers, mechanical engineers, electrical engineers, software engineers, communication engineers, industrial psychologists, shop floor staff, safety engineers and other key stakeholders depending on the nature of the project. An employee in this occupation would typically report to a project manager and would have significant interaction with customers and stakeholders. The work locations could vary between office, shop floor, or other remote locations where the robotic systems are deployed. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for the design, development, integration, programming and deployment of robotic systems with considerations to project timescales, milestones, safety regulations, ethical issues, sustainability, cost, reliability, maintenance, and implementation.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6f02def6-d08b-4698-859b-97b3b6065abb",
+      "detail": "Principles of mechanical designs: material selection, manufacturing processes, robot types and configurations."
+    },
+    {
+      "knowledgeId": "8d4b95ba-e083-4f26-b708-61e65f39434b",
+      "detail": "Principles of engineering mathematics required to model robotic systems using advanced mathematical techniques."
+    },
+    {
+      "knowledgeId": "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+      "detail": "Principles of electronic engineering: networks and electronic circuit design."
+    },
+    {
+      "knowledgeId": "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+      "detail": "Principles of robotics control: kinematics, dynamics, robotics programming structure and control algorithms."
+    },
+    {
+      "knowledgeId": "336e4f52-508d-401d-892d-e9874211b85a",
+      "detail": "Robot and computer program design, structure, concepts, compilers and logic, and programming languages for robotics applications."
+    },
+    {
+      "knowledgeId": "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+      "detail": "Principles of software engineering: object-orientated programming, software architecture, and version control."
+    },
+    {
+      "knowledgeId": "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+      "detail": "Principles of safety: safety standards, hazard identification, risk assessment and risk mitigation."
+    },
+    {
+      "knowledgeId": "bce1026f-f372-48b5-9975-0a5d4d59890b",
+      "detail": "Communication\u00A0techniques, protocols and interface methods for the integration of robotic systems."
+    },
+    {
+      "knowledgeId": "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+      "detail": "Principles of computer and machine vision for robotics applications: 3D computer vision and point clouds."
+    },
+    {
+      "knowledgeId": "009eef6f-f011-4077-a85f-bbe6e066124e",
+      "detail": "Human Factors principles for robotics applications: ergonomics, safety design, trust, acceptance, situational awareness, and workload."
+    },
+    {
+      "knowledgeId": "06034aae-a408-4165-9930-25c05b87fa3f",
+      "detail": "Principles of human-robot interaction: user-centred design, human-robot interface, human-computer interaction, human-robot collaboration and robot ethics. "
+    },
+    {
+      "knowledgeId": "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+      "detail": "Artificial intelligence and machine learning algorithms and techniques for robotics applications."
+    },
+    {
+      "knowledgeId": "10e77478-e608-446b-ac8d-d52f0e4bf359",
+      "detail": "Autonomous systems design principles and techniques: perception, decision making, locomotion, robot ethics and navigation and mapping. "
+    },
+    {
+      "knowledgeId": "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+      "detail": "System thinking for sustainability in robotics applications: energy management, waste reduction, and circular economy around the lifecycle of a project."
+    },
+    {
+      "knowledgeId": "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+      "detail": "Industrial research and strategy techniques: factory planning, scheduling, processes, lean production and supply chain."
+    },
+    {
+      "knowledgeId": "5169a07c-ce8b-4c18-b7ac-efeb92d34d05",
+      "detail": "Project management principles: planning, scheduling, budgeting, risk management and resource management."
+    },
+    {
+      "knowledgeId": "d6020b92-65a2-4904-b157-28cd549f2959",
+      "detail": "Communication techniques: oral, written, and presentations."
+    },
+    {
+      "knowledgeId": "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+      "detail": "Principles of robot sensors and how to select and install robot sensors in robotics systems."
+    },
+    {
+      "knowledgeId": "30df2cf9-ae42-41f9-8815-214894cba6a8",
+      "detail": "Data analysis techniques: how to select and use measurement devices and how to interpret data."
+    },
+    {
+      "knowledgeId": "1b1a10df-a396-4210-9a84-353b86e23346",
+      "detail": "Critical thinking and problem-solving techniques"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f0660722-7b50-4fac-bb48-080d06fd21bf",
+      "detail": "Act as a role model and advocate for health and safety across the team."
+    },
+    {
+      "behaviourId": "728634f0-7621-4582-abe4-9601e4d46ee6",
+      "detail": "Act in a professional and ethical manner."
+    },
+    {
+      "behaviourId": "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+      "detail": "Commit to their own and support others’ professional development."
+    },
+    {
+      "behaviourId": "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+      "detail": "Lead by example to promote innovation."
+    },
+    {
+      "behaviourId": "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+      "detail": "Lead by example to promote accessibility, equality, diversity and inclusion."
+    },
+    {
+      "behaviourId": "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+      "detail": "Adapt and show resilience to challenging or changing situations. "
+    },
+    {
+      "behaviourId": "2f786229-f14b-4821-a86c-30cfa9242a5d",
+      "detail": "Act as a role model and advocate environmental and sustainable practices. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "c1321630-4eec-4836-b59f-b2cb43b0af59",
+      "detail": "Communicate and provide guidance to others through design models, reports, drawings, specifications, presentations, digital media and discussions."
+    },
+    {
+      "skillId": "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+      "detail": "Manage different, competing interests within and outside the organisation, for example using negotiation skills."
+    },
+    {
+      "skillId": "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+      "detail": "Seek input from others to manage relationships."
+    },
+    {
+      "skillId": "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+      "detail": "Apply analytical and critical thinking skills for technology solutions development. "
+    },
+    {
+      "skillId": "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+      "detail": "Apply structured problem-solving techniques to systems and situations."
+    },
+    {
+      "skillId": "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+      "detail": "Plan, lead and conduct industrial research using literature and other media.\u00A0"
+    },
+    {
+      "skillId": "5813c2a0-32df-40d7-9969-d00da2cee141",
+      "detail": "Design robotic processes with considerations to human factors, sustainability, efficiency, and safety through modelling and using simulation tools."
+    },
+    {
+      "skillId": "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+      "detail": "Produce robot design at component and system level using Computer Aided Design (CAD) and robot simulation."
+    },
+    {
+      "skillId": "aa6259a6-5226-41ee-b877-09ac15450e6a",
+      "detail": "Generate and present business cases to support design decisions and to illustrate potential return on investment (ROI)."
+    },
+    {
+      "skillId": "a707e5a4-e395-4a96-9689-604e6060a9a7",
+      "detail": "Manage the planning, budgeting and organisation of tasks, people and resources through the use of management systems, work to agreed quality standards, project programmes and budgets, within legal, contractual and statutory requirements."
+    },
+    {
+      "skillId": "bac3263b-2e27-46ba-a95b-087dac69daac",
+      "detail": "Select appropriate components and vendors for robot system development."
+    },
+    {
+      "skillId": "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+      "detail": "Manage project risks through risk identification, assessment, mitigation, and monitoring."
+    },
+    {
+      "skillId": "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+      "detail": "Assess robot system safety compliance through hazard identification, safety risk assessment and risk mitigation, and liaison with certified safety engineers when required."
+    },
+    {
+      "skillId": "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+      "detail": "Generate robot programmes to perform tasks."
+    },
+    {
+      "skillId": "24e14c26-8ab9-430b-b556-11ee95885fe0",
+      "detail": "Apply system engineering techniques and software development methodologies and models in robot system development."
+    },
+    {
+      "skillId": "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+      "detail": "Develop and test robotic systems through the integration of off-the-shelf or bespoke components as appropriate."
+    },
+    {
+      "skillId": "3ddc273d-462e-4ee4-a81e-3ea43ed87128",
+      "detail": "Evaluate the suitability of robotic systems for human-robot interaction concerning human factors, safety, and ethics."
+    },
+    {
+      "skillId": "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+      "detail": "Install and integrate sensors and instrumentation in robotic systems."
+    },
+    {
+      "skillId": "4d2123f0-730d-46b3-ab59-a34264258d06",
+      "detail": "Perform measurements and analyse data using measurement devices and analytical software"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2023-02-17T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0704",
+  "tbMainContact": "Brendan.Casey@education.gov.uk",
+  "involvedEmployers": "Rockwell Automation, Fanuc UK, ABB Ltd, The Manufacturing Centre, SMC, Airbus UK, Leidos Automation Ltd, Didactic (Festo), Hays, Extend Robotics, Ocado, ARRIVAL Ltd, RAR UK, VW Group UK",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Application engineer",
+    "Design engineer",
+    "Manufacturing engineer",
+    "Mechatronic engineer",
+    "Process engineer",
+    "Production engineer",
+    "Research engineer",
+    "Robotics engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": null,
+  "createdDate": "2024-11-18T14:25:34 +00:00",
+  "lastUpdated": "2024-11-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-02-17T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1317",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1317-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1317-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "9002024d-8c6f-47c1-acf8-1ffe09012f4d",
+      "title": "BEng Robotics Engineering or BEng Robotics",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Engineering and Technology (IET)",
+      "level": "Incorporated Engineer (IEng)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Mechanical Engineers (IMechE)",
+      "level": "Incorporated Engineer (IEng)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ae91c6a4-5257-47ac-a5ac-0098e86b93f6",
+      "dutyDetail": "Plan and lead research activities to determine feasibility and applicability of automation solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "5169a07c-ce8b-4c18-b7ac-efeb92d34d05",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "aa6259a6-5226-41ee-b877-09ac15450e6a",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f4953563-8ac4-4225-8ba6-6684b9bcb931",
+      "dutyDetail": "Identify constraints and capture technical requirements for robotics projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "aa6259a6-5226-41ee-b877-09ac15450e6a",
+        "a707e5a4-e395-4a96-9689-604e6060a9a7",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5bbadcf9-d18f-4eef-aec3-c3b7a37803de",
+      "dutyDetail": "Design processes and parts using computer-aided design.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0961f2be-283e-4d90-ad23-5e7c3ba17222",
+      "dutyDetail": "Design sustainable robotic systems to fulfil customer and technical requirements and relevant standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "5169a07c-ce8b-4c18-b7ac-efeb92d34d05",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "aa6259a6-5226-41ee-b877-09ac15450e6a",
+        "a707e5a4-e395-4a96-9689-604e6060a9a7",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "78928357-f800-4f31-a631-63e274c4f660",
+      "dutyDetail": "Create robotic systems that allow for ethical and safe interaction with human users.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "20401910-8aa1-420f-87ed-32f6edd451ef",
+      "dutyDetail": "Develop and integrate human-robot interfaces that allow intuitive and immersive operation of robots by non-robotic-expert users.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6b4a6833-c44f-4b6b-977f-8339b2022b21",
+      "dutyDetail": "Analyse and optimise robot system performance using computer simulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4e4e6a46-8d9a-47c2-a444-db9c115195b0",
+      "dutyDetail": "Build, integrate and test functional robot systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "bac3263b-2e27-46ba-a95b-087dac69daac",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68dac765-4114-4fbc-9243-548bdbcb9ccb",
+      "dutyDetail": "Collect and analyse data from robot sensors and cameras.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7bda0e79-e067-4b19-bf2f-36b2f80a4611",
+      "dutyDetail": "Integrate and programme robots to perform practical tasks for different working environments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "593065cd-b011-4e13-bd7a-6ef1ac1a8c6c",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "720ffda8-28cb-4227-bf3a-84d469e497cf",
+      "dutyDetail": "Investigate and diagnose the root cause of faults and implement appropriate solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1eacebb4-a0b6-440b-8fcb-f2f6180fdcd5",
+      "dutyDetail": "Undertake hazard identification, safety risk assessment and risk mitigation for automated processes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d54b110f-eaeb-43bf-90f9-b37423d81569",
+      "dutyDetail": "Verify system safety compliance through liaison with accredited safety engineers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "4f8fe1b7-7d8c-4eb3-a3e7-39c0f5cdb122",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "ebfbc714-839a-4a78-84f0-f2b3054a227d",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e9683265-3a79-46de-a1db-d8ddf393c2f0",
+      "dutyDetail": "Research new ways to use robots and artificial intelligence.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12555e40-e496-4c5f-81c7-26ac6437f025",
+      "dutyDetail": "Demonstrate finished products to customers and explain operating procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "c9b02b9a-50d5-4fbe-a7d1-a6f645651469",
+        "30df2cf9-ae42-41f9-8815-214894cba6a8",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "4cd80f51-a7fb-4526-84c0-a60f6d0318cc",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "aa6259a6-5226-41ee-b877-09ac15450e6a",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb06fc4a-f3ab-4275-a0bb-7ac6a06b84e8",
+      "dutyDetail": "Write technical reports and generate presentations on project progress, risks and issues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8d4b95ba-e083-4f26-b708-61e65f39434b",
+        "744187db-75bd-4dda-b5f4-f02d6afe20f0",
+        "3edb72ba-a8de-4be4-b082-1e7c0550108f",
+        "336e4f52-508d-401d-892d-e9874211b85a",
+        "bfe2c0c4-d98a-4647-bbc0-0aa2d653bf62",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "bce1026f-f372-48b5-9975-0a5d4d59890b",
+        "bd324e9a-3f75-4ec3-9546-8636ebdba04b",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "4f5747d7-9cae-43bb-9619-81d1f0f44065",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "5169a07c-ce8b-4c18-b7ac-efeb92d34d05",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "aa6259a6-5226-41ee-b877-09ac15450e6a",
+        "a707e5a4-e395-4a96-9689-604e6060a9a7",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "24e14c26-8ab9-430b-b556-11ee95885fe0",
+        "62d12e0b-8fb5-4c53-a688-845273fa32cb",
+        "f3dc590e-32d3-494b-8645-c0fa297f5f35",
+        "4d2123f0-730d-46b3-ab59-a34264258d06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2795a654-2ac1-4a3c-bd09-dec7d6dfb945",
+      "dutyDetail": "Understand and account for human emotions such as trust, fear and acceptance in the design and implementation of new systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f0660722-7b50-4fac-bb48-080d06fd21bf",
+        "728634f0-7621-4582-abe4-9601e4d46ee6",
+        "b28a4c44-872e-42eb-9f37-b91643f7be4a",
+        "14d9a492-6a05-4f1a-a62a-fc071c7af3c9",
+        "7b1d4736-d91e-4e66-be83-6e7d383ff88a",
+        "1f0028b5-0fd5-4527-a3f7-808e733ee442",
+        "8e0a03ec-216e-4846-9add-e0bf5dccb055",
+        "2f786229-f14b-4821-a86c-30cfa9242a5d"
+      ],
+      "mappedKnowledge": [
+        "6f02def6-d08b-4698-859b-97b3b6065abb",
+        "8ef35dd0-a798-4a63-b1d1-2b8d4442bd67",
+        "009eef6f-f011-4077-a85f-bbe6e066124e",
+        "06034aae-a408-4165-9930-25c05b87fa3f",
+        "10e77478-e608-446b-ac8d-d52f0e4bf359",
+        "1c30d546-155d-4978-a71d-5b875ef9d9c6",
+        "d6020b92-65a2-4904-b157-28cd549f2959",
+        "1b1a10df-a396-4210-9a84-353b86e23346"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c1321630-4eec-4836-b59f-b2cb43b0af59",
+        "7043f1b6-2fea-4fff-9232-6c08722d5eaf",
+        "b7485a10-6108-4f3d-ae98-4aca2cc8a87f",
+        "2b8c3c65-b4d5-49cf-a0bc-c76ad8555cf8",
+        "ca7fc1e4-574a-4b36-993a-fde898b3fa3c",
+        "5813c2a0-32df-40d7-9969-d00da2cee141",
+        "a9fa6c09-c791-45c4-a2f1-5441315f32b5",
+        "e9cbdfa9-3214-4c3a-b47f-c3ca2b6fa0bb",
+        "3ddc273d-462e-4ee4-a81e-3ea43ed87128"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-11-18T00:00:00"
+}
