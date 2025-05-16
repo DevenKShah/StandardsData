@@ -1,22 +1,28 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 409,
   "referenceNumber": "ST0781",
+  "learningAimClassCode": "",
   "title": "Registered nurse degree (NMC 2018)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/409",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0781",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
-  "change": "End-point assessment plan revised.",
-  "changedDate": "2021-05-14T00:00:00",
+  "change": "End-point assessment plan revised. Funding band revision published 19 August 2021.",
+  "changedDate": "2022-02-21T00:00:00",
   "earliestStartDate": "2021-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Giving care, advice and support to sick, injured or disabled people.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
-  "maxFunding": 27000,
+  "maxFunding": 26000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
-    "Nurse",
+    "nurse",
     "care",
     "advice",
     "support",
@@ -26,556 +32,568 @@
     "nursing"
   ],
   "jobRoles": [
-    "Registered nurse (Adult)",
-    "Registered nurse (mental health)",
+    "Registered nurse (adult)",
+    "Registered nurse (child)",
     "Registered nurse (learning disability)",
-    "Registered nurse (child)"
+    "Registered nurse (mental health)"
   ],
-  "entryRequirements": "&lt;p&gt;Prior to commencement apprentices will have their numeracy, literacy and digital skills assessed by the NMC Approved Education Institution to ensure the apprentice has the necessary skills at a minimum of Level 2 to meet the requirements of the programme.&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5030/st0781_v14_registered_nurse_l6_streamlined-ap-for-publication-06042021.pdf",
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5919/st0781_v14_registered_nurse_l6_fullyintegrated-ap-for-publication_adjustment_15022022.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in every sector. Registered nurses work in the public, independent and voluntary sector. Registered nurses are a statutorily regulated profession and the standards for proficiency are set by the Nursing and Midwifery Council (NMC) and successful completion of this apprenticeship will meet the education requirements to see registration with the NMC. This standard covers the NMC Standards for Proficiency and Annexes A &amp;amp; B for registered nurses (May 2018) and covers the four fields of practice that are Adult, Mental Health, Learning Disability and Child. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to play a vital role in providing, leading, coordinating and evaluating care that is compassionate, evidence based, and person centred. They are accountable for their own actions and those who they delegate to and must be able to work autonomously, or as an equal partner with a range of other professionals. They provide nursing care for people across the whole lifespan who could have complex and concurrent mental, physical, cognitive and behavioural care needs and for people at the end of their life.&lt;br /&gt;&lt;br /&gt;Registered nurses make an important contribution to the promotion of health, health protection and the prevention of ill health. They do this by empowering people, communities and populations to exercise choice, take control of their own health decisions and behaviours and by supporting people to manage their own care where possible.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a variety of service users, families and carers, and with an extensive range of health and care professionals and other agencies including social services, police, probation, prisons, housing, education, language interpreters and third sector agencies. They will also work with, support and facilitate the learning of a range of learners from across health and care professions. They might be working in a hospital, someone’s home, the community, social care or public health and may work various shift patterns which enable care to be provided 24 hours per day, seven days per week, 365 days of the year. Registered nurses are a key part of the multidisciplinary teams that meet the integrated health and care needs of patients and service users. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for providing leadership in the delivery of care for people of all ages and from different backgrounds, cultures and beliefs. They must be able to care for people in their own home, in the community or hospital or in any health care settings where their needs are supported and managed. All registered nurses work as part of a team but on a day to day basis may be working alone when seeing people in their own homes or in the community. They work in the context of continual change, challenging environments, different models of care delivery, an older and more diverse population, innovation and rapidly evolving technologies. Increasing integration of health and social care services will require registered nurses to negotiate boundaries and play a proactive role in multidisciplinary teams. The confidence and ability to think critically, apply knowledge and skills and provide expert, evidence based, direct nursing care therefore lies at the centre of all registered nursing practice. In order to respond to the impact and demands of professional nursing practice, they must be emotionally intelligent and resilient individuals, able to manage their own personal health and wellbeing, and know when and how to access support.&lt;br /&gt;&lt;br /&gt;Registered nurses may have responsibility for delegating work to other members of the nursing team and take accountability for the delegated activity.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in every sector. Registered nurses work in the public, independent and voluntary sector. Registered nurses are a statutorily regulated profession and the standards for proficiency are set by the Nursing and Midwifery Council (NMC) and successful completion of this apprenticeship will meet the education requirements to see registration with the NMC. This standard covers the NMC Standards for Proficiency and Annexes A &amp;amp; B for registered nurses and covers the four fields of practice that are adult, mental health, learning disability and child. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to play a vital role in providing, leading, coordinating and evaluating care that is compassionate, evidence based, and person centred. They are accountable for their own actions and those who they delegate to and must be able to work autonomously, or as an equal partner with a range of other professionals. They provide nursing care for people across the whole lifespan who could have complex and concurrent mental, physical, cognitive and behavioural care needs and for people at the end of their life.&lt;br /&gt;&lt;br /&gt;Registered nurses make an important contribution to the promotion of health, health protection and the prevention of ill health. They do this by empowering people, communities and populations to exercise choice, take control of their own health decisions and behaviours and by supporting people to manage their own care where possible.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a variety of service users, families and carers, and with an extensive range of health and care professionals and other agencies including social services, police, probation, prisons, housing, education, language interpreters and third sector agencies. They will also work with, support and facilitate the learning of a range of learners from across health and care professions. They might be working in a hospital, someone’s home, the community, social care or public health and may work various shift patterns which enable care to be provided 24 hours per day, seven days per week, 365 days of the year. Registered nurses are a key part of the multi-disciplinary teams that meet the integrated health and care needs of patients and service users. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for providing leadership in the delivery of care for people of all ages and from different backgrounds, cultures and beliefs. They must be able to care for people in their own home, in the community or hospital or in any health care settings where their needs are supported and managed. All registered nurses work as part of a team but on a day to day basis may be working alone when seeing people in their own homes or in the community. They work in the context of continual change, challenging environments, different models of care delivery, an older and more diverse population, innovation and rapidly evolving technologies. Increasing integration of health and social care services will require registered nurses to negotiate boundaries and play a proactive role in multi-disciplinary teams. The confidence and ability to think critically, apply knowledge and skills and provide expert, evidence based, direct nursing care therefore lies at the centre of all registered nursing practice. In order to respond to the impact and demands of professional nursing practice, they must be emotionally intelligent and resilient individuals, able to manage their own personal health and wellbeing, and know when and how to access support.&lt;br /&gt;&lt;br /&gt;Registered nurses may have responsibility for delegating work to other members of the nursing team and take accountability for the delegated activity.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "95bbaa7a-078a-4f72-9048-a698eef527ea",
-      "detail": "Understand the Code (2015): Professional standards of practice and behaviour for nurses and midwives and how to fulfil all registration\nrequirements"
+      "detail": "Understand the code: Professional standards of practice and behaviour for nurses and midwives and how to fulfil all registration requirements."
     },
     {
       "knowledgeId": "71712623-476e-430a-8851-0ae687105473",
-      "detail": "Understand the demands of professional practice and demonstrate how to recognise signs of vulnerability in themselves or their colleagues and the action required to minimise risks to health"
+      "detail": "Understand the demands of professional practice and demonstrate how to recognise signs of vulnerability in themselves or their colleagues and the action required to minimise risks to health."
     },
     {
       "knowledgeId": "fa63f4e0-bf9f-4a30-865d-3b0c7409bd38",
-      "detail": "Understand the professional responsibility to adopt a healthy lifestyle to maintain the level of personal fitness and wellbeing required to meet people’s needs for mental and physical care"
+      "detail": "Understand the professional responsibility to adopt a healthy lifestyle to maintain the level of personal fitness and wellbeing required to meet people’s needs for mental and physical care."
     },
     {
       "knowledgeId": "dba5fa11-dc2f-449f-a397-6d48d5e10c2a",
-      "detail": "Understand research methods, ethics and governance in order to critically analyse, safely use, share and apply research findings to promote and inform best nursing practice"
+      "detail": "Understand research methods, ethics and governance in order to critically analyse, safely use, share and apply research findings to promote and inform best nursing practice."
     },
     {
       "knowledgeId": "3e8056de-eb09-4ac8-97cb-51d3e45abced",
-      "detail": "Understand the need to base all decisions regarding care and interventions on people’s needs and preferences, recognising and addressing any personal and external factors that may unduly influence their decisions"
+      "detail": "Understand the need to base all decisions regarding care and interventions on people’s needs and preferences, recognising and addressing any personal and external factors that may unduly influence their decisions."
     },
     {
       "knowledgeId": "2c7bbd9d-10b7-4de9-9780-145dd88dabf3",
-      "detail": "Understand and apply relevant legal, regulatory and governance requirements, policies, and ethical frameworks, including any mandatory reporting duties, to all areas of practice, differentiating where appropriate between the devolved legislatures of the United Kingdom"
+      "detail": "Understand and apply relevant legal, regulatory and governance requirements, policies, and ethical frameworks, including any mandatory reporting duties, to all areas of practice, differentiating where appropriate between the devolved legislatures of the United Kingdom."
     },
     {
       "knowledgeId": "724d8c53-ecf3-4c37-8b4c-ca8e5a7d633c",
-      "detail": "Understand the principles of courage, transparency and the professional duty of candour"
+      "detail": "Understand the principles of courage, transparency and the professional duty of candour."
     },
     {
       "knowledgeId": "fba8e974-5b7e-4840-935c-2a94d6dd088f",
-      "detail": "Understand how discriminatory behaviour is exhibited"
+      "detail": "Understand how discriminatory behaviour is exhibited."
     },
     {
       "knowledgeId": "88b5c0ec-eb2a-4bbf-b08d-19fb407532d7",
-      "detail": "Understand the aims and principles of health promotion, protection and improvement and the prevention of ill health when engaging with people"
+      "detail": "Understand the aims and principles of health promotion, protection and improvement and the prevention of ill health when engaging with people."
     },
     {
       "knowledgeId": "02aa3cc8-48d7-45fe-bbab-5cf36e2c047e",
-      "detail": "Understand epidemiology, demography, genomics and the wider determinants of health, illness and wellbeing and apply this to an understanding of global patterns of health and wellbeing outcomes"
+      "detail": "Understand epidemiology, demography, genomics and the wider determinants of health, illness and wellbeing and apply this to an understanding of global patterns of health and wellbeing outcomes."
     },
     {
       "knowledgeId": "f8595875-041a-4ad2-a962-c638bc29e7a5",
-      "detail": "Understand the factors that may lead to inequalities in health outcomes"
+      "detail": "Understand the factors that may lead to inequalities in health outcomes."
     },
     {
       "knowledgeId": "83088ac0-bca7-4eed-883e-1cdab419e8f8",
-      "detail": "Understand the importance of early years and childhood experiences and the possible impact on life choices, mental, physical and behavioural health and wellbeing"
+      "detail": "Understand the importance of early years and childhood experiences and the possible impact on life choices, mental, physical and behavioural health and wellbeing."
     },
     {
       "knowledgeId": "00fe90cb-f5bb-4b74-9306-a1d24ef93eef",
-      "detail": "Understand the contribution of social influences, health literacy, individual circumstances, behaviours and lifestyle choices to mental, physical and behavioural health outcomes"
+      "detail": "Understand the contribution of social influences, health literacy, individual circumstances, behaviours and lifestyle choices to mental, physical and behavioural health outcomes."
     },
     {
       "knowledgeId": "317ac595-d801-4c05-8a4b-9219a3d5e08c",
-      "detail": "Apply knowledge of human development from conception to death when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans"
+      "detail": "Apply knowledge of human development from conception to death when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans."
     },
     {
       "knowledgeId": "3fe58f14-574d-49f0-96eb-b1f76787f9c4",
-      "detail": "Apply knowledge of body systems and homeostasis, human anatomy and physiology, biology, genomics, pharmacology and social and behavioural sciences when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans"
+      "detail": "Apply knowledge of body systems and homeostasis, human anatomy and physiology, biology, genomics, pharmacology and social and behavioural sciences when undertaking full and accurate person-centred nursing assessments and developing appropriate care plans."
     },
     {
       "knowledgeId": "c8907801-4eb2-4fa1-adfb-d77a78c4f8a9",
-      "detail": "Apply knowledge of all commonly encountered mental, physical, behavioural and cognitive health conditions, medication usage and treatments when undertaking full and accurate assessments of nursing care needs and when developing, prioritising and reviewing person centred care plan"
+      "detail": "Apply knowledge of all commonly encountered mental, physical, behavioural and cognitive health conditions, medication usage and treatments when undertaking full and accurate assessments of nursing care needs and when developing, prioritising and reviewing person centred care plan."
     },
     {
       "knowledgeId": "854c73d9-a279-47af-8a5e-68d0076c06e7",
-      "detail": "Understand and apply a person-centred approach to nursing care, demonstrating shared assessment, planning, decision making and goal setting when working with people, their families, communities and populations of all ages"
+      "detail": "Understand and apply a person-centred approach to nursing care, demonstrating shared assessment, planning, decision making and goal setting when working with people, their families, communities and populations of all ages."
     },
     {
       "knowledgeId": "1b19e939-5152-4db3-b0f9-5defcbc53980",
-      "detail": "Understand and apply the principles and processes for making reasonable adjustments"
+      "detail": "Understand and apply the principles and processes for making reasonable adjustments."
     },
     {
       "knowledgeId": "540906bf-ca1a-460b-a670-ec378494638b",
-      "detail": "Understand and apply the relevant laws about mental capacity for the country in which you are practising when making decisions in relation to people who do not have capacity"
+      "detail": "Understand and apply the relevant laws about mental capacity for the country in which you are practising when making decisions in relation to people who do not have capacity."
     },
     {
       "knowledgeId": "fbb6ec43-0061-4df5-bde0-45197973a740",
-      "detail": "Understand co-morbidities and the demands of meeting people’s complex nursing and social care needs when prioritising care plans"
+      "detail": "Understand co-morbidities and the demands of meeting people’s complex nursing and social care needs when prioritising care plans."
     },
     {
       "knowledgeId": "b571a001-d440-41b2-8556-373936280d8c",
-      "detail": "Know when and how to refer people safely to other professionals or services for clinical intervention or support"
+      "detail": "Know when and how to refer people safely to other professionals or services for clinical intervention or support."
     },
     {
       "knowledgeId": "8d4a820e-ea4f-43da-97d1-f6fff6bda23a",
-      "detail": "Understand what is important to people and how to use this knowledge to ensure their needs for safety, dignity, privacy, comfort and sleep can be met, acting as a role model for others in providing evidence based person-centred care"
+      "detail": "Understand what is important to people and how to use this knowledge to ensure their needs for safety, dignity, privacy, comfort and sleep can be met, acting as a role model for others in providing evidence based person-centred care."
     },
     {
       "knowledgeId": "5e2dabed-56be-4461-82b2-52d76467da20",
-      "detail": "Know and understand how to support people with commonly encountered mental health, behavioural, cognitive and learning challenges, and act as a role model for others in providing high quality nursing interventions to meet people’s needs"
+      "detail": "Know and understand how to support people with commonly encountered mental health, behavioural, cognitive and learning challenges, and act as a role model for others in providing high quality nursing interventions to meet people’s needs."
     },
     {
       "knowledgeId": "8cdd1b13-5c16-416e-93eb-75bf1eb78f1c",
-      "detail": "Know and understand how to support people with commonly encountered physical health conditions, their medication usage and treatments, and act as a role model for others in providing high quality nursing interventions when meeting people’s needs"
+      "detail": "Know and understand how to support people with commonly encountered physical health conditions, their medication usage and treatments, and act as a role model for others in providing high quality nursing interventions when meeting people’s needs."
     },
     {
       "knowledgeId": "374e930f-9765-4eb4-a866-832073195b8d",
-      "detail": "Know how to act as a role model for others in providing evidence-based nursing care to meet people’s needs related to nutrition, hydration and bladder and bowel health"
+      "detail": "Know how to act as a role model for others in providing evidence-based nursing care to meet people’s needs related to nutrition, hydration and bladder and bowel health."
     },
     {
       "knowledgeId": "5796cde4-a904-4c01-a035-2227bebed247",
-      "detail": "Know how to act as a role model for others in providing evidence-based, person-centred nursing care to meet people’s needs related to mobility, hygiene, oral care, wound care and skin integrity"
+      "detail": "Know how to act as a role model for others in providing evidence-based, person-centred nursing care to meet people’s needs related to mobility, hygiene, oral care, wound care and skin integrity."
     },
     {
       "knowledgeId": "2d18754a-340b-4e78-97b6-05000a15f5a7",
-      "detail": "Know how to identify and initiate appropriate interventions to support people with commonly encountered symptoms including anxiety, confusion, discomfort and pain"
+      "detail": "Know how to identify and initiate appropriate interventions to support people with commonly encountered symptoms including anxiety, confusion, discomfort and pain."
     },
     {
       "knowledgeId": "8d818094-4206-4c23-ad2f-1bbcdf13e857",
-      "detail": "Understand what is important to people and their families when providing evidence-based person-centred nursing care at end of life including the care of people who are dying, families, the deceased and the bereaved"
+      "detail": "Understand what is important to people and their families when providing evidence-based person-centred nursing care at end of life including the care of people who are dying, families, the deceased and the bereaved."
     },
     {
       "knowledgeId": "dacd3d35-7762-4c84-81c6-ba1f858b88a9",
-      "detail": "Know the signs of deterioration or distress in mental, physical, cognitive and behavioural health and use this knowledge to make sound clinical decisions"
+      "detail": "Know the signs of deterioration or distress in mental, physical, cognitive and behavioural health and use this knowledge to make sound clinical decisions."
     },
     {
       "knowledgeId": "ac794334-cc08-421f-89c0-b9bc487d8cb4",
-      "detail": "Understand how to initiate and evaluate appropriate interventions to support people who show signs of self-harm and/or suicidal ideation"
+      "detail": "Understand how to initiate and evaluate appropriate interventions to support people who show signs of self-harm and/or suicidal ideation."
     },
     {
       "knowledgeId": "9e4aac92-a057-452d-adb6-d10ed40c8ec4",
-      "detail": "Understand the principles of safe and effective administration and optimisation of medicines in accordance with local and national policies and demonstrate proficiency and accuracy when calculating dosages of prescribed medicines"
+      "detail": "Understand the principles of safe and effective administration and optimisation of medicines in accordance with local and national policies and demonstrate proficiency and accuracy when calculating dosages of prescribed medicines."
     },
     {
       "knowledgeId": "c03a49b5-419f-4480-acd8-99b12a65c4f5",
-      "detail": "Understand the principles of pharmacology and recognise the effects of medicines, allergies, drug sensitivities, side effects, contraindications, incompatibilities, adverse reactions, prescribing errors and the impact of polypharmacy and over the counter medication usage"
+      "detail": "Understand the principles of pharmacology and recognise the effects of medicines, allergies, drug sensitivities, side effects, contraindications, incompatibilities, adverse reactions, prescribing errors and the impact of polypharmacy and over the counter medication usage."
     },
     {
       "knowledgeId": "37d7bb7a-8f59-4727-9990-22dcae126fce",
-      "detail": "Know and understand how prescriptions can be generated, the role of generic, unlicensed, and off-label prescribing and an understanding of the potential risks associated with these approaches to prescribing"
+      "detail": "Know and understand how prescriptions can be generated, the role of generic, unlicensed, and off-label prescribing and an understanding of the potential risks associated with these approaches to prescribing."
     },
     {
       "knowledgeId": "5828e792-89e4-4098-9945-bde2d2e5b6d8",
-      "detail": "Apply knowledge of pharmacology to the care of people, demonstrating the ability to progress to a prescribing qualification following registration"
+      "detail": "Apply knowledge of pharmacology to the care of people, demonstrating the ability to progress to a prescribing qualification following registration."
     },
     {
       "knowledgeId": "c272ae7c-db74-408f-8aba-11f791a6885c",
-      "detail": "Understand the principles of health and safety legislation and regulations"
+      "detail": "Understand the principles of health and safety legislation and regulations."
     },
     {
       "knowledgeId": "94a16dc6-6dee-4cb4-8728-bdd0b20f18b3",
-      "detail": "Understand the relationship between safe staffing levels, appropriate skill mix, safety and quality of care"
+      "detail": "Understand the relationship between safe staffing levels, appropriate skill mix, safety and quality of care."
     },
     {
       "knowledgeId": "b1d38ecc-2b70-4ec2-976c-a7e81187cea3",
-      "detail": "Understand how to identify, report and critically reflect on near misses, critical incidents, major incidents and serious adverse events in order to learn from them and influence their future practice"
+      "detail": "Understand how to identify, report and critically reflect on near misses, critical incidents, major incidents and serious adverse events in order to learn from them and influence their future practice."
     },
     {
       "knowledgeId": "5017ebdb-75bd-4cdd-99b0-7290c084f01d",
-      "detail": "Understand the differences between risk aversion and risk management and how to avoid compromising quality of care and health outcomes"
+      "detail": "Understand the differences between risk aversion and risk management and how to avoid compromising quality of care and health outcomes."
     },
     {
       "knowledgeId": "59096a4c-f505-46df-803f-22bf3ac0abc0",
-      "detail": "Understand and accept the need to accept and manage uncertainty, and demonstrate an understanding of strategies that develop resilience in self and others"
+      "detail": "Understand and accept the need to accept and manage uncertainty, and demonstrate an understanding of strategies that develop resilience in self and others."
     },
     {
       "knowledgeId": "fc31d6f6-2dce-45f3-b359-595fd352bc3a",
-      "detail": "Understand the role of registered nurses and other health and care professionals at different levels of experience and seniority when managing and prioritising actions and care in the event of a major incident"
+      "detail": "Understand the role of registered nurses and other health and care professionals at different levels of experience and seniority when managing and prioritising actions and care in the event of a major incident."
     },
     {
       "knowledgeId": "0adbdac1-585d-47a0-adf4-ab68a1de25fb",
-      "detail": "Understand the principles of quality improvement methodologies"
+      "detail": "Understand the principles of quality improvement methodologies."
     },
     {
       "knowledgeId": "2b2cdb81-18a6-4f18-988d-ab55f9076152",
-      "detail": "Understand how the quality and effectiveness of nursing care can be evaluated in practice, work with people, their families, carers and colleagues to develop effective improvement strategies for quality and safety"
+      "detail": "Understand how the quality and effectiveness of nursing care can be evaluated in practice, work with people, their families, carers and colleagues to develop effective improvement strategies for quality and safety."
     },
     {
       "knowledgeId": "7183aebd-c4c1-44d6-b822-b03b5a114ad8",
-      "detail": "Understand the principles of partnership, collaboration and interagency working across all relevant sectors"
+      "detail": "Understand the principles of partnership, collaboration and interagency working across all relevant sectors."
     },
     {
       "knowledgeId": "e7341e5e-5bc4-4ab5-b46f-267cbd758a7c",
-      "detail": "Understand health legislation and current health and social care policies, and the mechanisms involved in influencing policy development and change, differentiating where appropriate between the devolved legislatures of the United Kingdom"
+      "detail": "Understand health legislation and current health and social care policies, and the mechanisms involved in influencing policy development and change, differentiating where appropriate between the devolved legislatures of the United Kingdom."
     },
     {
       "knowledgeId": "80429865-85ee-43d8-ac7e-626d1d08d303",
-      "detail": "Understand the principles of health economics and their relevance to resource allocation in health and social care organisations and other agencies"
+      "detail": "Understand the principles of health economics and their relevance to resource allocation in health and social care organisations and other agencies."
     },
     {
       "knowledgeId": "ecc0c665-72cf-464c-988d-9259cbcce302",
-      "detail": "Understand how current health policy and future policy changes for nursing and other professions and understand the impact of policy changes on the delivery and coordination of care"
+      "detail": "Understand how current health policy and future policy changes for nursing and other professions and understand the impact of policy changes on the delivery and coordination of care."
     },
     {
       "knowledgeId": "b482840d-6e85-4ae3-b4ec-72de7711dab0",
-      "detail": "Understand and recognise the need to respond to the challenges of providing safe, effective and person-centred nursing care for people who have co-morbidities and complex care needs"
+      "detail": "Understand and recognise the need to respond to the challenges of providing safe, effective and person-centred nursing care for people who have co-morbidities and complex care needs."
     },
     {
       "knowledgeId": "367cef75-f5ab-46c8-aa96-00059303c8e4",
-      "detail": "Understand the complexities of providing mental, cognitive, behavioural and physical care services across a wide range of integrated care settings"
+      "detail": "Understand the complexities of providing mental, cognitive, behavioural and physical care services across a wide range of integrated care settings."
     },
     {
       "knowledgeId": "a9367d17-3459-4a67-b6b0-a3977a878ed6",
-      "detail": "Understand how to monitor and evaluate the quality of people’s experience of complex care"
+      "detail": "Understand how to monitor and evaluate the quality of people’s experience of complex care."
     },
     {
       "knowledgeId": "63e6f601-f8ac-425d-8bed-bb1a6209d90b",
-      "detail": "Understand the principles and processes involved in supporting people and families with a range of care needs to maintain optimal independence and avoid unnecessary interventions and disruptions to their lives"
+      "detail": "Understand the principles and processes involved in supporting people and families with a range of care needs to maintain optimal independence and avoid unnecessary interventions and disruptions to their lives."
     },
     {
       "knowledgeId": "4a94cd8b-0df7-4bec-82fd-2ab2edeea884",
-      "detail": "Understand the principles and processes involved in planning and facilitating the safe discharge and transition of people between caseloads, settings and services"
+      "detail": "Understand the principles and processes involved in planning and facilitating the safe discharge and transition of people between caseloads, settings and services."
     },
     {
       "knowledgeId": "6e79037a-ac44-4b59-a4f4-c6ebf61521c8",
-      "detail": "Understand the processes involved in developing a basic business case for additional care funding by applying knowledge of finance, resources and safe staffing levels"
+      "detail": "Understand the processes involved in developing a basic business case for additional care funding by applying knowledge of finance, resources and safe staffing levels."
     },
     {
       "knowledgeId": "a5cf542e-69f0-4b71-81f9-f2a486dc85d9",
-      "detail": "Understand the importance of exercising political awareness throughout their career, to maximise the influence and effect of registered nursing on quality of care, patient safety and cost effectiveness"
+      "detail": "Understand the importance of exercising political awareness throughout their career, to maximise the influence and effect of registered nursing on quality of care, patient safety and cost effectiveness."
     },
     {
       "knowledgeId": "2823894b-5702-4374-9848-9c091c20e602",
-      "detail": "Understand the principles of effective leadership, management, group and organisational dynamics and culture and apply these to team working and decision-making"
+      "detail": "Understand the principles of effective leadership, management, group and organisational dynamics and culture and apply these to team working and decision-making."
     },
     {
       "knowledgeId": "732f193d-80cd-4d61-9792-ccb85162ac29",
-      "detail": "Understand the principles and application of processes for performance management and how these apply to the nursing team"
+      "detail": "Understand the principles and application of processes for performance management and how these apply to the nursing team."
     },
     {
       "knowledgeId": "58db762e-8626-470a-9c81-66e22d2623d3",
-      "detail": "Understand the roles, responsibilities and scope of practice of all members of the nursing and interdisciplinary team and how to make best use of the contributions of others involved in providing care"
+      "detail": "Understand the roles, responsibilities and scope of practice of all members of the nursing and interdisciplinary team and how to make best use of the contributions of others involved in providing care."
     },
     {
       "knowledgeId": "b838a3ae-7bea-4365-a2de-1108edaaf34a",
-      "detail": "Understand and apply the principles of human factors, environmental factors and strength-based approaches when working in teams"
+      "detail": "Understand and apply the principles of human factors, environmental factors and strength-based approaches when working in teams."
     },
     {
       "knowledgeId": "24e579fe-5506-419d-9be0-8b1e82e1199c",
-      "detail": "Understand the mechanisms that can be used to influence organisational change and public policy, demonstrating the development of political awareness and skills"
+      "detail": "Understand the mechanisms that can be used to influence organisational change and public policy, demonstrating the development of political awareness and skills."
     }
   ],
   "behaviours": [
     {
       "behaviourId": "38e4b458-e81d-42df-985b-dd4f1854e7b2",
-      "detail": "Treat people with dignity, respecting individual's diversity, beliefs, culture, needs, values, privacy and preferences"
+      "detail": "Treat people with dignity, respecting individual's diversity, beliefs, culture, needs, values, privacy and preferences."
     },
     {
       "behaviourId": "31aa27c2-da89-4969-b32d-e4cb2872aaa7",
-      "detail": "Show respect and empathy for those you work with, have the courage to challenge areas of concern and work to evidence based best practice"
+      "detail": "Show respect and empathy for those you work with, have the courage to challenge areas of concern and work to evidence based best practice."
     },
     {
       "behaviourId": "aac4498b-eba4-4c2b-80df-098fb8813ccb",
-      "detail": "Be adaptable, reliable and consistent, show discretion, resilience and self-awareness and demonstrate leadership"
+      "detail": "Be adaptable, reliable and consistent, show discretion, resilience and self-awareness and demonstrate leadership."
     }
   ],
   "skills": [
     {
       "skillId": "61f125d7-ada5-4f66-86a4-22c33c989e11",
-      "detail": "Act in accordance with the Code (2015): Professional standards of practice and behaviour for nurses and midwives, and fulfil all registration requirements"
+      "detail": "Act in accordance with the code: Professional standards of practice and behaviour for nurses and midwives, and fulfil all registration requirements."
     },
     {
       "skillId": "409f0e46-f26e-40f1-b116-03280f27d39a",
-      "detail": "Think critically when applying evidence and drawing on experience to make evidence informed decisions in all situations"
+      "detail": "Think critically when applying evidence and drawing on experience to make evidence informed decisions in all situations."
     },
     {
       "skillId": "cc6c30ac-e91a-4a5c-9682-16673781cc81",
-      "detail": "Use resilience and emotional intelligence and is capable of explaining the rationale that influences judgments and decisions in routine, complex and challenging situations"
+      "detail": "Use resilience and emotional intelligence and is capable of explaining the rationale that influences judgments and decisions in routine, complex and challenging situations."
     },
     {
       "skillId": "a916e771-d606-45cf-acd9-97b89d5b15d8",
-      "detail": "Take responsibility for continuous self-reflection, seeking and responding to support and feedback to develop their professional knowledge and skills"
+      "detail": "Take responsibility for continuous self-reflection, seeking and responding to support and feedback to develop their professional knowledge and skills."
     },
     {
       "skillId": "e7ecb7ea-ce7f-446f-8c6b-325d815336e8",
-      "detail": "Safely demonstrate evidence-based practice in all skills and procedures required for entry to the register"
+      "detail": "Safely demonstrate evidence-based practice in all skills and procedures required for entry to the register."
     },
     {
       "skillId": "0733b9d4-a339-468e-b76d-20fbf303ea14",
-      "detail": "Acts as an ambassador, upholding the reputation of their profession and promoting public confidence in nursing, health and care services"
+      "detail": "Acts as an ambassador, upholding the reputation of their profession and promoting public confidence in nursing, health and care services."
     },
     {
       "skillId": "d41c91d2-435b-4f67-9c66-fe2e4b31a7f9",
-      "detail": "Communicate effectively using a range of skills and strategies with colleagues and people at all stages of life and with a range of mental, physical, cognitive and behavioural health challenges"
+      "detail": "Communicate effectively using a range of skills and strategies with colleagues and people at all stages of life and with a range of mental, physical, cognitive and behavioural health challenges."
     },
     {
       "skillId": "0dbb7682-bd5b-4fd7-ae25-6a6aeea0a991",
-      "detail": "Support people at all stages of life who are emotionally or physically vulnerable"
+      "detail": "Support people at all stages of life who are emotionally or physically vulnerable."
     },
     {
       "skillId": "f74edb93-6770-44d0-8ff7-b2bb23d7b5d2",
-      "detail": "Develop, manage and maintain appropriate relationships with people, their families, carers and colleagues"
+      "detail": "Develop, manage and maintain appropriate relationships with people, their families, carers and colleagues."
     },
     {
       "skillId": "7762a2d2-433d-43cb-8fbc-988230bbd27c",
-      "detail": "Provide and promote non-discriminatory, person centred and sensitive care at all times, reflecting on people’s values and beliefs, diverse backgrounds, cultural characteristics, language requirements, needs and preferences, taking account of any need for adjustments"
+      "detail": "Provide and promote non-discriminatory, person centred and sensitive care at all times, reflecting on people’s values and beliefs, diverse backgrounds, cultural characteristics, language requirements, needs and preferences, taking account of any need for adjustments."
     },
     {
       "skillId": "b63e6335-2784-4ccd-a92d-3297be37f906",
-      "detail": "Report any situations, behaviours or errors that could result in poor care outcomes"
+      "detail": "Report any situations, behaviours or errors that could result in poor care outcomes."
     },
     {
       "skillId": "485fa34e-6699-46f0-b3b7-a6e197caeb69",
-      "detail": "Identify and challenge discriminatory behaviour"
+      "detail": "Identify and challenge discriminatory behaviour."
     },
     {
       "skillId": "dc5a23c0-b749-4f57-8e15-bfc1c066f4cb",
-      "detail": "Contribute effectively and proactively in an interdisciplinary team"
+      "detail": "Contribute effectively and proactively in an interdisciplinary team."
     },
     {
       "skillId": "2cb613ea-9ae8-47bb-b3c0-52dc31611327",
-      "detail": "Apply the principles of health promotion, protection and improvement and the prevention of ill health when engaging with people"
+      "detail": "Apply the principles of health promotion, protection and improvement and the prevention of ill health when engaging with people."
     },
     {
       "skillId": "6b7a0635-a059-46c8-a88b-7dc549e0eab2",
-      "detail": "Use all appropriate opportunities, making reasonable adjustments when required, to discuss the impact of smoking, substance and alcohol use, sexual behaviours, diet and exercise on mental, physical and behavioural health and wellbeing, in the context of people’s individual circumstances"
+      "detail": "Use all appropriate opportunities, making reasonable adjustments when required, to discuss the impact of smoking, substance and alcohol use, sexual behaviours, diet and exercise on mental, physical and behavioural health and wellbeing, in the context of people’s individual circumstances."
     },
     {
       "skillId": "0f64c10c-7a9f-4be5-8148-a4ce286d3e58",
-      "detail": "Promote and improve mental, physical, behavioural and other health related outcomes by understanding and explaining the principles, practice and evidence-base for health screening programmes"
+      "detail": "Promote and improve mental, physical, behavioural and other health related outcomes by understanding and explaining the principles, practice and evidence-base for health screening programmes."
     },
     {
       "skillId": "2facf24d-0ee6-4f0c-a5ed-e26931ddeab6",
-      "detail": "Use up to date approaches to behaviour change to enable people to use their strengths and expertise and make informed choices when managing their own health and making lifestyle adjustments"
+      "detail": "Use up to date approaches to behaviour change to enable people to use their strengths and expertise and make informed choices when managing their own health and making lifestyle adjustments."
     },
     {
       "skillId": "72e3f406-5fe7-4dd7-9efe-ae3b90d7abbc",
-      "detail": "Use appropriate communication skills and strength based approaches to support and enable people to make informed choices about their care to manage health challenges in order to have satisfying and fulfilling lives within the limitations caused by reduced capability, ill health and disability"
+      "detail": "Use appropriate communication skills and strength based approaches to support and enable people to make informed choices about their care to manage health challenges in order to have satisfying and fulfilling lives within the limitations caused by reduced capability, ill health and disability."
     },
     {
       "skillId": "41428fee-5740-4924-8c66-1ddb7d16cf79",
-      "detail": "Provide information in accessible ways to help people understand and make decisions about their health, life choices, illness and care"
+      "detail": "Provide information in accessible ways to help people understand and make decisions about their health, life choices, illness and care."
     },
     {
       "skillId": "ec476e23-4f07-4442-8312-0044e5d7a4fc",
-      "detail": "Promote health and prevent ill health by understanding and explaining to people the principles of pathogenesis, immunology and the evidence-base for immunisation, vaccination and herd immunity"
+      "detail": "Promote health and prevent ill health by understanding and explaining to people the principles of pathogenesis, immunology and the evidence-base for immunisation, vaccination and herd immunity."
     },
     {
       "skillId": "335fb053-9afe-4dee-ab91-467a4a740b5f",
-      "detail": "Protect health through understanding and applying the principles of infection prevention and control, including communicable disease surveillance and antimicrobial stewardship and resistance"
+      "detail": "Protect health through understanding and applying the principles of infection prevention and control, including communicable disease surveillance and antimicrobial stewardship and resistance."
     },
     {
       "skillId": "95c5f6a4-1ed5-49d9-99b3-80e861d3d962",
-      "detail": "Accurately process all information gathered during the assessment process to identify needs for individualised nursing care and develop person-centred evidence-based plans for nursing interventions with agreed goals"
+      "detail": "Accurately process all information gathered during the assessment process to identify needs for individualised nursing care and develop person-centred evidence-based plans for nursing interventions with agreed goals."
     },
     {
       "skillId": "4c257e7c-6e08-486f-bd05-21110b72a75e",
-      "detail": "Effectively assess a person’s capacity to make decisions about their own care and to give or withhold consent"
+      "detail": "Effectively assess a person’s capacity to make decisions about their own care and to give or withhold consent."
     },
     {
       "skillId": "d8388760-3a97-447c-b5b5-c52e2ce7a484",
-      "detail": "Recognise and assess people at risk of harm and the situations that may put them at risk, ensuring prompt action is taken to safeguard those who are vulnerable"
+      "detail": "Recognise and assess people at risk of harm and the situations that may put them at risk, ensuring prompt action is taken to safeguard those who are vulnerable."
     },
     {
       "skillId": "bea7c8cb-55a6-4a08-a930-180b8d14f328",
-      "detail": "Demonstrate the skills and abilities required to recognise and assess people who show signs of self-harm and/or suicidal ideation"
+      "detail": "Demonstrate the skills and abilities required to recognise and assess people who show signs of self-harm and/or suicidal ideation."
     },
     {
       "skillId": "00fea870-8b53-4fd6-a1de-2585d40a4acf",
-      "detail": "Undertake routine investigations, interpreting and sharing findings as appropriate"
+      "detail": "Undertake routine investigations, interpreting and sharing findings as appropriate."
     },
     {
       "skillId": "bf2f2ae2-800a-45c9-9a66-b1498292467b",
-      "detail": "Interpret results from routine investigations, taking prompt action when required by implementing appropriate interventions, requesting additional investigations or escalating to others"
+      "detail": "Interpret results from routine investigations, taking prompt action when required by implementing appropriate interventions, requesting additional investigations or escalating to others."
     },
     {
       "skillId": "a3caa432-ebb5-4e3d-836c-a30fa8196494",
-      "detail": "Identify and assess the needs of people and families for care at the end of life, including requirements for palliative care and decision making related to their treatment and care preferences"
+      "detail": "Identify and assess the needs of people and families for care at the end of life, including requirements for palliative care and decision making related to their treatment and care preferences."
     },
     {
       "skillId": "317c6697-7802-48db-a856-c95d0750198e",
-      "detail": "Work in partnership with people, families and carers to continuously monitor, evaluate and reassess the effectiveness of all agreed nursing care plans and care, sharing decision making and readjusting agreed goals, documenting progress and decisions made"
+      "detail": "Work in partnership with people, families and carers to continuously monitor, evaluate and reassess the effectiveness of all agreed nursing care plans and care, sharing decision making and readjusting agreed goals, documenting progress and decisions made."
     },
     {
       "skillId": "df10ed70-ca02-42c3-85fb-de74e41f89dd",
-      "detail": "Support people with commonly encountered mental health, behavioural, cognitive and learning challenges, and act as a role model for others in providing high quality nursing interventions to meet people’s needs"
+      "detail": "Support people with commonly encountered mental health, behavioural, cognitive and learning challenges, and act as a role model for others in providing high quality nursing interventions to meet people’s needs."
     },
     {
       "skillId": "0a413cca-382a-4b45-a19e-b39a1ad43647",
-      "detail": "Support people with commonly encountered physical health conditions, their medication usage and treatments, and act as a role model for others in providing high quality nursing interventions when meeting people’s needs"
+      "detail": "Support people with commonly encountered physical health conditions, their medication usage and treatments, and act as a role model for others in providing high quality nursing interventions when meeting people’s needs."
     },
     {
       "skillId": "9f113445-c0df-45f6-8b99-b3b7f9a05176",
-      "detail": "Act as a role model for others in providing evidence-based nursing care to meet people’s needs related to nutrition, hydration and bladder and bowel health"
+      "detail": "Act as a role model for others in providing evidence-based nursing care to meet people’s needs related to nutrition, hydration and bladder and bowel health."
     },
     {
       "skillId": "89522195-6fc9-47b1-b6f9-d8bd05c8480a",
-      "detail": "Act as a role model for others in providing evidence-based, person-centred nursing care to meet people’s needs related to mobility, hygiene, oral care, wound care and skin integrity"
+      "detail": "Act as a role model for others in providing evidence-based, person-centred nursing care to meet people’s needs related to mobility, hygiene, oral care, wound care and skin integrity."
     },
     {
       "skillId": "d3b21120-1999-40a9-ae82-2c19d07ea7f3",
-      "detail": "Identify and initiate appropriate interventions to support people with commonly encountered symptoms including anxiety, confusion, discomfort and pain"
+      "detail": "Identify and initiate appropriate interventions to support people with commonly encountered symptoms including anxiety, confusion, discomfort and pain."
     },
     {
       "skillId": "0aef43aa-da75-4861-ba3b-411eb8431f84",
-      "detail": "Prioritise what is important to people and their families when providing evidence-based person-centred nursing care at end of life including the care of people who are dying, families, the deceased and the bereaved"
+      "detail": "Prioritise what is important to people and their families when providing evidence-based person-centred nursing care at end of life including the care of people who are dying, families, the deceased and the bereaved."
     },
     {
       "skillId": "fbdf5da5-8795-4764-89c9-7b49027f3152",
-      "detail": "Respond proactively and promptly to signs of deterioration or distress in mental, physical, cognitive and behavioural health and use this knowledge to make sound clinical decisions"
+      "detail": "Respond proactively and promptly to signs of deterioration or distress in mental, physical, cognitive and behavioural health and use this knowledge to make sound clinical decisions."
     },
     {
       "skillId": "448b45b7-29c1-4a4b-9f0a-4e5ccfaabb23",
-      "detail": "Manage commonly encountered devices and confidently carry out related nursing procedures to meet people’s needs for evidence based, person-centred care"
+      "detail": "Manage commonly encountered devices and confidently carry out related nursing procedures to meet people’s needs for evidence based, person-centred care."
     },
     {
       "skillId": "7e3d0a81-ef92-4540-9d3f-8e2955371fff",
-      "detail": "Provide first aid procedures and basic life support"
+      "detail": "Provide first aid procedures and basic life support."
     },
     {
       "skillId": "d5c9460b-430c-4e45-bd72-0f60b1ff8f87",
-      "detail": "Demonstrate numeracy, literacy, digital and technological skills to meet the needs of people receiving nursing care to ensure safe and effective nursing practice"
+      "detail": "Demonstrate numeracy, literacy, digital and technological skills to meet the needs of people receiving nursing care to ensure safe and effective nursing practice."
     },
     {
       "skillId": "14851801-db88-47d6-964a-2704b438a70d",
-      "detail": "Co-ordinate and undertake the processes and procedures involved in routine planning and management of safe discharge home or transfer of people between care settings"
+      "detail": "Co-ordinate and undertake the processes and procedures involved in routine planning and management of safe discharge home or transfer of people between care settings."
     },
     {
       "skillId": "a8381c94-f237-4e60-9655-c239a97792a9",
-      "detail": "Maintain safe work and care environments"
+      "detail": "Maintain safe work and care environments."
     },
     {
       "skillId": "79329201-fce5-45dc-a10a-42801506fac1",
-      "detail": "Comply with local and national frameworks, legislation and regulations for assessing, managing and reporting risks, ensuring the appropriate action is taken"
+      "detail": "Comply with local and national frameworks, legislation and regulations for assessing, managing and reporting risks, ensuring the appropriate action is taken."
     },
     {
       "skillId": "4b247d1a-0056-48d7-8981-ffa5b2f395b9",
-      "detail": "Recognise risks to public protection and quality of care, escalating concerns appropriately"
+      "detail": "Recognise risks to public protection and quality of care, escalating concerns appropriately."
     },
     {
       "skillId": "f6911284-608b-43b5-911f-a330adce5fbe",
-      "detail": "Accurately undertake risk assessments in a range of care settings, using a range of contemporary assessment and improvement tools"
+      "detail": "Accurately undertake risk assessments in a range of care settings, using a range of contemporary assessment and improvement tools."
     },
     {
       "skillId": "6c3ece9e-913e-4784-b889-d5b2905dce1c",
-      "detail": "Identify the need to make improvements and proactively respond to potential hazards that may affect the safety of people"
+      "detail": "Identify the need to make improvements and proactively respond to potential hazards that may affect the safety of people."
     },
     {
       "skillId": "6d54153f-2797-45a1-ba3d-81200c97c3d1",
-      "detail": "Participate in all stages of audit activity and identify appropriate quality improvement strategies"
+      "detail": "Participate in all stages of audit activity and identify appropriate quality improvement strategies."
     },
     {
       "skillId": "ef5d44d5-65a9-4e4c-a3e9-1970825b5643",
-      "detail": "Use service delivery evaluation and audit findings to bring about continuous improvement"
+      "detail": "Use service delivery evaluation and audit findings to bring about continuous improvement."
     },
     {
       "skillId": "f9fddf31-8c4f-4e0b-993e-c943201a9cb3",
-      "detail": "Share feedback and learning from positive outcomes and experiences, mistakes and adverse outcomes and experiences"
+      "detail": "Share feedback and learning from positive outcomes and experiences, mistakes and adverse outcomes and experiences."
     },
     {
       "skillId": "40790c2a-86b2-43ab-9af8-addcc08d7f8d",
-      "detail": "Facilitate equitable access to healthcare for people who are vulnerable or have a disability"
+      "detail": "Facilitate equitable access to healthcare for people who are vulnerable or have a disability."
     },
     {
       "skillId": "8cf61eaf-a2ae-4d8d-9b93-4a485ba47924",
-      "detail": "Advocate on behalf of people who are vulnerable or have a disability when required, and make necessary reasonable adjustments to the assessment, planning and delivery of their care"
+      "detail": "Advocate on behalf of people who are vulnerable or have a disability when required, and make necessary reasonable adjustments to the assessment, planning and delivery of their care."
     },
     {
       "skillId": "6d4f6d18-a044-4cfa-b83a-c28b9d024261",
-      "detail": "Identify and manage risks and take proactive measures to improve the quality of care and services when needed"
+      "detail": "Identify and manage risks and take proactive measures to improve the quality of care and services when needed."
     },
     {
       "skillId": "41d18b1c-7e4f-495c-a434-9d95cf267c4b",
-      "detail": "Safely and effectively lead and manage the nursing care of a group of people, demonstrating appropriate prioritisation, delegation and assignment of care responsibilities to others involved in providing care"
+      "detail": "Safely and effectively lead and manage the nursing care of a group of people, demonstrating appropriate prioritisation, delegation and assignment of care responsibilities to others involved in providing care."
     },
     {
       "skillId": "d43e283c-563b-48e8-b72d-6b2e0ea0143c",
-      "detail": "Guide, support and motivate individuals and interact confidently with other members of the care team"
+      "detail": "Guide, support and motivate individuals and interact confidently with other members of the care team."
     },
     {
       "skillId": "217e5e8f-a482-415b-99ae-0035ecf63e6b",
-      "detail": "Monitor and evaluate the quality of care delivered by others in the team and lay carers"
+      "detail": "Monitor and evaluate the quality of care delivered by others in the team and lay carers."
     },
     {
       "skillId": "50affeb7-7414-4ed7-a607-7beef01978ea",
-      "detail": "Support and supervise students in the delivery of nursing care, promoting reflection and providing constructive feedback, and evaluating and documenting their performance"
+      "detail": "Support and supervise students in the delivery of nursing care, promoting reflection and providing constructive feedback, and evaluating and documenting their performance."
     },
     {
       "skillId": "bc1acb8c-3335-48b0-a372-75e5dd7ef990",
-      "detail": "Challenge and provide feedback about care delivered by others in the team, and support them to identify and agree individual learning needs"
+      "detail": "Challenge and provide feedback about care delivered by others in the team, and support them to identify and agree individual learning needs."
     },
     {
       "skillId": "f07a2b56-47b6-437c-8d7b-2754fa4766ab",
-      "detail": "Contributes to supervision and team reflection activities to promote improvements in practice and services"
+      "detail": "Contributes to supervision and team reflection activities to promote improvements in practice and services."
     },
     {
       "skillId": "96309ec1-0bb1-4151-a2a7-b6837facdacf",
-      "detail": "Use a range of digital technologies to access, input, share and apply information and data within teams and between agencies"
+      "detail": "Use a range of digital technologies to access, input, share and apply information and data within teams and between agencies."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
-    "contactEmail": "regulation@officeforstudents.org.uk",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-02-13T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-integrated degree",
+  "integration": null,
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0315",
-  "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
+  "tbMainContact": "angelo.varetto@skillsforhealth.org.uk",
   "involvedEmployers": "Barking, Havering and Redbridge University Hospital NHS Trust, Birmingham and Solihull Mental Health NHS Foundation Trust, Central London Community Healthcare NHS Trust, Elysium Healthcare, Greater Manchester Combined Authority, Hillingdon Hospitals NHS Trust, Kings College Hospitals NHS Foundation Trust, Lincolnshire Community Health Services NHS Trust, North West Anglia NHS Foundation Trust, Oxford University Hospitals NHS Foundation Trust, Portsmouth Hospitals NHS Trust, Southern Health NHS Foundation Trust, University Hospital Southampton NHS Foundation Trust, Wren Hall Nursing Home, Health Education England, University of Derby, University of Bedfordshire, University of Cumbria, Nursing and Midwifery Council, Council of Deans of Health, Skills for Health",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Nursing and Midwifery Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Registered nurse (Adult)",
-    "Registered nurse (mental health)",
+    "Registered nurse (adult)",
+    "Registered nurse (child)",
     "Registered nurse (learning disability)",
-    "Registered nurse (child)"
+    "Registered nurse (mental health)"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Midwifery and Nursing Professional",
-  "createdDate": "2021-02-19T10:06:30 +00:00",
-  "lastUpdated": "2020-05-28T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-(nmc-2018)-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-(nmc-2018)-v1-1",
+  "cluster": "Midwifery and nursing professional",
+  "clusterId": "211",
+  "clusterDescription": null,
+  "createdDate": "2023-09-05T08:44:00 +00:00",
+  "lastUpdated": "2022-02-21T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-02-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0781",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0781-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0781-v1-1",
   "qualifications": [
     {
       "qualificationId": "aac6240e-3894-43e5-a36c-829dbcb6f00e",
       "title": "Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "a87ac7ea-3ab3-4320-8960-015d3769f73e",
       "title": " Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Nursing and Midwifery Council / Minimum Level 6",
-      "level": "0",
-      "isPartial": "",
+      "level": "6",
+      "isPartial": "full",
       "partialFreeText": ""
     }
   ],
@@ -596,7 +614,7 @@
         "dba5fa11-dc2f-449f-a397-6d48d5e10c2a",
         "3e8056de-eb09-4ac8-97cb-51d3e45abced"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61f125d7-ada5-4f66-86a4-22c33c989e11",
         "409f0e46-f26e-40f1-b116-03280f27d39a",
@@ -609,7 +627,7 @@
     },
     {
       "dutyID": "ab64ff99-9a39-4ec9-adc5-8fa71bd18a87",
-      "dutyDetail": "Communicate effectively, act as a role models for others and be accountable for their own actions",
+      "dutyDetail": "Communicate effectively, act as a role models for others and be accountable for their own actions.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -621,7 +639,7 @@
         "724d8c53-ecf3-4c37-8b4c-ca8e5a7d633c",
         "fba8e974-5b7e-4840-935c-2a94d6dd088f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d41c91d2-435b-4f67-9c66-fe2e4b31a7f9",
         "0dbb7682-bd5b-4fd7-ae25-6a6aeea0a991",
@@ -649,7 +667,7 @@
         "83088ac0-bca7-4eed-883e-1cdab419e8f8",
         "00fe90cb-f5bb-4b74-9306-a1d24ef93eef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb613ea-9ae8-47bb-b3c0-52dc31611327",
         "6b7a0635-a059-46c8-a88b-7dc549e0eab2",
@@ -664,7 +682,7 @@
     },
     {
       "dutyID": "ccc3c91e-3090-4ba5-ae07-8b5a5875622b",
-      "dutyDetail": "Assess individuals nursing care needs and plan care using information obtained during assessments to identify the priorities and requirements for person-centred and evidence-based nursing interventions and support",
+      "dutyDetail": "Assess individuals nursing care needs and plan care using information obtained during assessments to identify the priorities and requirements for person-centred and evidence-based nursing interventions and support.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -681,7 +699,7 @@
         "fbb6ec43-0061-4df5-bde0-45197973a740",
         "b571a001-d440-41b2-8556-373936280d8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95c5f6a4-1ed5-49d9-99b3-80e861d3d962",
         "4c257e7c-6e08-486f-bd05-21110b72a75e",
@@ -696,7 +714,7 @@
     },
     {
       "dutyID": "299a5d34-e0f1-4f27-bb35-4e85a621b796",
-      "dutyDetail": "Provide and evaluate nursing care to individuals and groups taking the lead in providing evidence based, compassionate and safe nursing interventions",
+      "dutyDetail": "Provide and evaluate nursing care to individuals and groups taking the lead in providing evidence based, compassionate and safe nursing interventions.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -718,7 +736,7 @@
         "37d7bb7a-8f59-4727-9990-22dcae126fce",
         "5828e792-89e4-4098-9945-bde2d2e5b6d8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df10ed70-ca02-42c3-85fb-de74e41f89dd",
         "0a413cca-382a-4b45-a19e-b39a1ad43647",
@@ -736,7 +754,7 @@
     },
     {
       "dutyID": "b055a2c9-d82f-467c-8d5d-b32044dbae45",
-      "dutyDetail": "Improve safety of care by assessing risks to safety or experience and take appropriate action to manage those, putting the best interests, needs and preferences of people first",
+      "dutyDetail": "Improve safety of care by assessing risks to safety or experience and take appropriate action to manage those, putting the best interests, needs and preferences of people first.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -751,7 +769,7 @@
         "59096a4c-f505-46df-803f-22bf3ac0abc0",
         "fc31d6f6-2dce-45f3-b359-595fd352bc3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a8381c94-f237-4e60-9655-c239a97792a9",
         "79329201-fce5-45dc-a10a-42801506fac1",
@@ -774,7 +792,7 @@
         "0adbdac1-585d-47a0-adf4-ab68a1de25fb",
         "2b2cdb81-18a6-4f18-988d-ab55f9076152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6d54153f-2797-45a1-ba3d-81200c97c3d1",
         "ef5d44d5-65a9-4e4c-a3e9-1970825b5643",
@@ -784,7 +802,7 @@
     },
     {
       "dutyID": "5af2ecc3-2fed-45da-8119-e7261ac8471b",
-      "dutyDetail": "Provide professional leadership in the coordination and management of complex nursing and integrated care needs of people at any stage of their lives, across a range of organisations and settings",
+      "dutyDetail": "Provide professional leadership in the coordination and management of complex nursing and integrated care needs of people at any stage of their lives, across a range of organisations and settings.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -804,7 +822,7 @@
         "6e79037a-ac44-4b59-a4f4-c6ebf61521c8",
         "a5cf542e-69f0-4b71-81f9-f2a486dc85d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "40790c2a-86b2-43ab-9af8-addcc08d7f8d",
         "8cf61eaf-a2ae-4d8d-9b93-4a485ba47924",
@@ -814,7 +832,7 @@
     },
     {
       "dutyID": "9518c168-322b-4704-af90-34ba8beb7794",
-      "dutyDetail": "Lead nursing care, taking responsibility for managing nursing care and accountability for the appropriate delegation and supervision of care provided by others in the team including lay carers",
+      "dutyDetail": "Lead nursing care, taking responsibility for managing nursing care and accountability for the appropriate delegation and supervision of care provided by others in the team including lay carers.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -825,7 +843,7 @@
         "2823894b-5702-4374-9848-9c091c20e602",
         "732f193d-80cd-4d61-9792-ccb85162ac29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41d18b1c-7e4f-495c-a434-9d95cf267c4b",
         "d43e283c-563b-48e8-b72d-6b2e0ea0143c",
@@ -836,7 +854,7 @@
     },
     {
       "dutyID": "2f22283c-c0b9-4bea-bab3-209f5cbcadd1",
-      "dutyDetail": "Work in teams, collaborating and communicating effectively with a range of colleagues",
+      "dutyDetail": "Work in teams, collaborating and communicating effectively with a range of colleagues.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "38e4b458-e81d-42df-985b-dd4f1854e7b2",
@@ -849,7 +867,7 @@
         "b838a3ae-7bea-4365-a2de-1108edaaf34a",
         "24e579fe-5506-419d-9be0-8b1e82e1199c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50affeb7-7414-4ed7-a607-7beef01978ea",
         "bc1acb8c-3335-48b0-a372-75e5dd7ef990",
@@ -859,10 +877,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
-      "name": "Training provider",
-      "webLink": ""
+      "name": "Training Provider",
+      "webLink": "",
+      "approved": true
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-02-21T00:00:00"
 }
