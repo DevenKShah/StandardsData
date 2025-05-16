@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 546,
   "referenceNumber": "ST0864",
+  "learningAimClassCode": "",
   "title": "Senior culinary chef",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/546",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0864",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2023-01-05T00:00:00",
   "earliestStartDate": "2020-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop new recipes, products and product lines.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
-  "keywords": [],
+  "keywords": [
+    "chef",
+    "recipes",
+    "cooking",
+    "Hospitality",
+    "catering",
+    "food"
+  ],
   "jobRoles": [
     "Executive Chef",
     "Development Chef",
@@ -25,13 +38,12 @@
     "Chef Patron"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4017/st0864_senior-culinary-chef_l4_ap-for-publication_c25_130220_qm.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/p5od2ryg/st0864_senior-culinary-chef_l4_ap-for-publication_27112023.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the hospitality, aviation, care and hospital sectors, across a range of different types of organisations and employers such as those providing food direct to the public / consumer and those developing dishes for centralised distribution, care provision or retail.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to develop new recipes, products and product lines. They will research, responsibly source, develop and launch products to meet specification briefs in line with the organisation&#39;s vision, values and objectives. They will maintain high culinary standards, oversee all food preparation and presentation to ensure quality and standards, order and maintain the inventory of food and supplies for developed dishes/menus, maintain compliance and due diligence documentation within the food safety management system to ensure a safe and hygienic kitchen, monitor food and equipment suppliers, develop recipes from scratch or brief, determine the best presentation/packaging of food, maintain or raise the profit margins on food and identify and coordinate training opportunities for staff.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal and external stakeholders such as: chef teams, restaurant teams, owners, senior management team, board members, suppliers, marketing.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for overall maintenance and development of the culinary offer/standard and leading the development of new menus/dishes within an organisation. The senior culinary chef would typically report to (or could also be) the patron of a restaurant or they may report to the senior leadership team or owner of an organisation. There is a significant leadership element to this role; as the culinary inspiration of a sole-trader patron leading the team to introduce new menus or dishes, or as the leader a team of culinary chefs developing items for centralised distribution.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the hospitality, aviation, care and hospital sectors, across a range of different types of organisations and employers such as those providing food direct to the public / consumer and those developing dishes for centralised distribution, care provision or retail.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to develop new recipes, products and product lines. They will research, responsibly source, develop and launch products to meet specification briefs in line with the organisation&#39;s vision, values and objectives. They will maintain high culinary standards, oversee all food preparation and presentation to ensure quality and standards, order and maintain the inventory of food and supplies for developed dishes/menus, maintain compliance and due diligence documentation within the food safety management system to ensure a safe and hygienic kitchen, monitor food and equipment suppliers, develop recipes from scratch or brief, determine the best presentation/packaging of food, maintain or raise the profit margins on food and identify and coordinate training opportunities for staff.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal and external stakeholders such as: chef teams, restaurant teams, owners, senior management team, board members, suppliers, marketing.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for overall maintenance and development of the culinary offer/standard and leading the development of new menus/dishes within an organisation. The senior culinary chef would typically report to (or could also be) the patron of a restaurant or they may report to the senior leadership team or owner of an organisation. There is a significant leadership element to this role; as the culinary inspiration of a sole-trader patron leading the team to introduce new menus or dishes, or as the leader a team of culinary chefs developing items for centralised distribution.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "0e48f2e7-4d90-46b6-93bc-1b7091a469e7",
@@ -210,25 +222,28 @@
       "detail": "Research and respond timely to sector trends when maintaining and reviewing the culinary offer"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "People 1st International",
-    "contactName": "Sandra Kelly",
-    "contactAddress": "Hospitality House<br>11-59 High Road<br>LONDON<br>N2 8AB",
-    "contactEmail": "Sandra.Kelly@people1st.co.uk",
-    "webLink": "http://www.people1st.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-25T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0458",
-  "tbMainContact": "trailblazer@people1st.co.uk",
+  "tbMainContact": "catering.hospitality@education.gov.uk",
   "involvedEmployers": "Royal Automobile Club, Unilever, Compass Group, Handpicked Hotels, Stoke Park Hotel, Chewton Glen Hotel, Splendid Hospitality, Exclusive Hotels, IHG Hotels, Royal Garden Hotel, Sodexo, Boodles, Hogarth’s, Sainsbury’s",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -240,14 +255,20 @@
     "Craft Chef",
     "Chef Patron"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Catering",
-  "cluster": "Catering Manager",
+  "cluster": "Catering manager",
+  "clusterId": "110",
+  "clusterDescription": null,
   "createdDate": "2019-08-02T08:23:03 +00:00",
-  "lastUpdated": "2020-02-25T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-culinary-chef-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/senior-culinary-chef-v1-0",
+  "lastUpdated": "2023-01-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-25T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0864",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0864-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0864-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -274,7 +295,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -319,7 +340,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -368,7 +389,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d908fc71-8b06-4473-b69f-1227c66387ad",
         "d9d34cc3-e57a-42b9-a944-a2199caa7867",
@@ -398,7 +419,7 @@
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
         "b128e960-5641-4503-a8ff-92b943f00665",
@@ -434,7 +455,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -474,7 +495,7 @@
         "99d160b4-e4c8-49e8-8389-606caf0faf4f",
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -511,7 +532,7 @@
         "f807e2da-3bfe-4916-ba7c-dbfdd7098e30",
         "d6c13156-f960-4a91-b45e-a0046e0aa546"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "688f6c45-aa85-4b8f-8e8a-8a0427801144",
@@ -553,7 +574,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84788100-1102-4931-8b75-2b1b09030eee",
         "8235bfa4-a038-4dd0-82e0-eab01d47fb65",
@@ -585,7 +606,7 @@
         "956aa169-02fb-4eab-8a72-d2caf0d00416",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d4a3cd4-40e5-4ca9-bfb3-e46b8274047f",
         "84788100-1102-4931-8b75-2b1b09030eee",
@@ -625,7 +646,7 @@
         "580a37fb-7c69-4f86-a3bf-071c3e0b101a",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -663,7 +684,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "2b9c774a-3193-4d80-b256-eaf61760abdc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "84788100-1102-4931-8b75-2b1b09030eee",
         "71ec96e3-99ba-4370-9c58-0c52dae04801",
@@ -701,7 +722,7 @@
         "d6c13156-f960-4a91-b45e-a0046e0aa546",
         "956aa169-02fb-4eab-8a72-d2caf0d00416"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2335bdac-5eba-4312-aa82-d1b86d9d36ad",
         "5da45835-b398-4f2e-b6d8-74e2a59590cf",
@@ -718,5 +739,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-01-05T00:00:00"
 }
