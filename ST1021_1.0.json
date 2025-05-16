@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 619,
-  "referenceNumber": " ST1021",
+  "referenceNumber": "ST1021",
+  "learningAimClassCode": "",
   "title": "Cyber security technologist (2021)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/619",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1021",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-05-04T00:00:00",
+  "changedDate": "2022-09-29T00:00:00",
   "earliestStartDate": "2021-05-04T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Apply an understanding of cyber security to protect from attacks and unauthorised access.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "ICT",
@@ -33,12 +39,11 @@
     "Intelligence Researcher"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5046/st1021_cyber-security-technologist_l4_ap-for-publication_280421.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6410/st1021-v12__cyber-security-technologist_l4_ap-for-publication20220929.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors and organisations that employ technology, for example Digital, Telecoms, Technology, Business Services, Defence, Government, Finance, Health, Retail, Critical National Infrastructure, Transport, Automotive sectors; and in all types and sizes of organisation including large corporates, public sector bodies, academic institutions, charities, and small and medium enterprise (SME).&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to apply an understanding of cyber security to protect organisations, systems, information, personal data and people from attacks and unauthorised access.&lt;/p&gt;\n&lt;p&gt;Fighting cyber security threats is a multi-billion-pound industry, and one that continues to grow as threats from the likes of malware, ransomware, phishing, DDoS attacks and hacking increase. Organisations both large and small are turning to cyber security professionals to help them keep their commercial and financial data, websites, infrastructure sites and their customers&#39; details safe.&lt;/p&gt;\n&lt;p&gt;With almost all personal data now stored online, cyber security attacks have the potential to completely ruin businesses - not to mention people&#39;s lives - in the process. There are often&lt;/p&gt;\n&lt;p&gt;news stories about high-profile attacks, such as those on the NHS, Yahoo and LinkedIn, meaning that organisations are becoming increasingly concerned with any potential leaks that could occur. In fact, nearly half of all UK businesses experienced some form of attack in the last 12 months. As a cyber-security technologist, you will be part of the response to those attacks.&lt;/p&gt;\n&lt;p&gt;Cyber Security Technologists all require an understanding of security concepts and technology and how to mitigate risks arising from threats. The specific tasks undertaken vary depending on what needs to be achieved by the team at any particular time. Some tasks may be very technical, others may be more analytical, business or user focused. All roles in this occupation work to achieve required cyber security outcomes in a legal and regulatory context in all parts of the economy. They develop and apply practical knowledge of information security to deliver solutions that fulfil an organisations requirement.&lt;/p&gt;\n&lt;p&gt;The Cyber Security Technologist standard has three distinct options. At the end of the apprenticeship you will be competent in either:&lt;/p&gt;\n&lt;p&gt;1) The Cyber Security Engineer is the most technology focused role in the occupation and will typically design, build and test secure networks or security products or systems with a particular focus on the security aspects of the design.&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Engineer, Cyber Security Consultant, Cyber Security Architect, Cyber Security Analyst, Cyber Security Specialist, IT Security Technician, Embedded Engineer.&lt;/p&gt;\n&lt;p&gt;2) The Cyber Risk Analyst Focuses on risk assessment, analysis and giving advice on risk mitigations. The roles may support formal security governance, regulatory &amp;amp; compliance (GRC).&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Consultant, Cyber Security Analyst, Cyber Risk Analyst, Intelligence Researcher, Cyber Security Specialist, Information Security Analyst, Governance &amp;amp; Compliance Analyst, Information Security Assurance &amp;amp; Threat Analyst, Information Security Auditor.&lt;/p&gt;\n&lt;p&gt;3) The Cyber Defender &amp;amp; Responder is more operationally focused, configuring and operating secure systems to prevent security breaches or monitoring systems to detect and respond to security breaches.&lt;/p&gt;\n&lt;p&gt;Typical job titles include: Cyber Security Analyst, Cyber Security Operator, Forensics &amp;amp; Incident Response Analyst, Cyber Security Administrator, Information Security Officer, Secure Operations Centre (SOC) Analyst, Network Intrusion Analyst, Incident Response Centre (IRC) Analyst, Network Operations Centre (NOC) Security Analyst.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a broad range of people from their own organisation and externally including suppliers and customers, technical specialists, non-specialists, peers and senior representatives. The roles are typically office or computer room/lab based. Some employers will also have security clearance requirements, which may impose residency or nationality restrictions. An employee in this occupation will be responsible for their own work, work as part of a team including different levels of technical and non-technical skills, and may also be required to supervise work, budgets and other staff.&lt;/p&gt;",
   "knowledges": [
     {
@@ -274,38 +279,28 @@
       "detail": "Manage local response to non-major incidents in accordance with a defined procedure."
     }
   ],
-  "options": [
-    {
-      "optionId": "cea8705b-2d2b-449f-8938-6ca3fef4106a",
-      "title": "Cyber Security Engineer"
-    },
-    {
-      "optionId": "cf055020-be9d-4c4d-bc60-004bf9fa6499",
-      "title": "Cyber Risk Analyst"
-    },
-    {
-      "optionId": "5f4fe9bc-6da9-412a-b62b-86d07d5958ff",
-      "title": "Cyber Defend & Respond"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-05-04T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0553",
   "tbMainContact": "jpthorlby@qinetiq.com",
   "involvedEmployers": "QinetiQ\nCGI\nIASME\nSky\nSiemens\nDark Trace\nBT\nFujitsu\nDCMS\nCabinet Office\nJBC\nFoxRedRisk",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -316,19 +311,25 @@
     "Cyber Risk Analyst",
     "Intelligence Researcher"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Digital Support and Services",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
   "cluster": null,
-  "createdDate": "2021-05-04T10:23:04 +00:00",
-  "lastUpdated": "2021-05-04T10:23:04 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-(2021)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technologist-(2021)-v1-0",
+  "clusterId": null,
+  "clusterDescription": null,
+  "createdDate": "2022-06-08T15:07:44 +00:00",
+  "lastUpdated": "2022-09-29T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-04T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1021",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1021-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1021-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "RITTech",
-      "level": "0",
+      "level": "level 4",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -361,7 +362,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7897997-acaa-42b5-b317-6ffee043117f",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
@@ -386,7 +387,7 @@
         "7860a27b-2ad0-4902-b74d-cf9b89d8989f",
         "1b3bfc48-53fc-4fb3-a7d0-bf33081a62eb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "32047ed6-0535-49fc-b94e-04095a65ed04",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6",
@@ -417,7 +418,7 @@
         "b669a59a-f7ff-4a31-9fe9-6b4c522ea05e",
         "4e6a18d3-a223-49ba-b2d5-3fea01489714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "740fc4fc-b626-49f9-9a83-e424d02e9ee8",
         "bf3b138c-97f2-457b-bb5a-c3635a9e41b6"
@@ -446,7 +447,7 @@
         "078527e2-9a68-4dae-a5db-50488574b5a9",
         "c4430f4a-19a1-403f-a3f2-1ab71085c5b8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0ba466b8-c907-4cc7-b2bb-045d7bd6545a"
       ],
@@ -468,9 +469,10 @@
         "bd2159cd-c952-41e8-bffa-13740a3be7cd",
         "8ce0d63d-0c38-4730-95ba-e0ca2322bd11"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
-        "3e667f09-e4d0-43f2-97a1-1778a31308d3"
+        "3e667f09-e4d0-43f2-97a1-1778a31308d3",
+        "f26bd634-3554-48b3-8c35-4008eb030206"
       ],
       "criteriaForMeasuringPerformance": ""
     },
@@ -490,7 +492,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aab36ada-4b68-468a-90f6-6b07da5acb7c"
       ],
@@ -513,7 +515,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08f9a582-a2cc-408e-9dc2-278ccd3f3e8f"
       ],
@@ -531,8 +533,8 @@
         "2eef7733-fd72-487d-86bd-f990009428bc",
         "c6f122ef-7550-400b-aa8d-9e06c736c790"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "19a1d525-c77b-4f73-a79f-abcd0fd3bee6"
       ],
@@ -556,7 +558,7 @@
         "078527e2-9a68-4dae-a5db-50488574b5a9",
         "4e6a18d3-a223-49ba-b2d5-3fea01489714"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a7b3fe8-d74d-4501-af29-7d976b4b19e3"
       ],
@@ -587,7 +589,7 @@
         "738a6738-fa11-4d9b-9236-26046677840f",
         "1fce3015-0f6a-4e1d-91dd-3b5efceeaad3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7897997-acaa-42b5-b317-6ffee043117f",
         "32047ed6-0535-49fc-b94e-04095a65ed04",
@@ -606,8 +608,8 @@
         "bd2159cd-c952-41e8-bffa-13740a3be7cd",
         "078527e2-9a68-4dae-a5db-50488574b5a9"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -658,8 +660,7 @@
         "cf055020-be9d-4c4d-bc60-004bf9fa6499"
       ],
       "mappedSkills": [
-        "3e667f09-e4d0-43f2-97a1-1778a31308d3",
-        "f26bd634-3554-48b3-8c35-4008eb030206"
+        "3e667f09-e4d0-43f2-97a1-1778a31308d3"
       ],
       "criteriaForMeasuringPerformance": ""
     },
@@ -976,5 +977,26 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "cea8705b-2d2b-449f-8938-6ca3fef4106a",
+      "title": "Cyber Security Engineer",
+      "occupationCode": "OCC1021C"
+    },
+    {
+      "optionId": "cf055020-be9d-4c4d-bc60-004bf9fa6499",
+      "title": "Cyber Risk Analyst",
+      "occupationCode": "OCC1021B"
+    },
+    {
+      "optionId": "5f4fe9bc-6da9-412a-b62b-86d07d5958ff",
+      "title": "Cyber Defend & Respond",
+      "occupationCode": "OCC1021A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-09-29T00:00:00"
 }
