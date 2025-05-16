@@ -1,60 +1,627 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 701,
   "referenceNumber": "ST0918",
+  "learningAimClassCode": "",
   "title": "Hair, wigs, make-up and prosthetics technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0918",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-28T00:00:00",
+  "earliestStartDate": "2023-02-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Uphold a high standard of hygiene and technical application for productions/performances across a range of artists, periods and cultures.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "craft",
+    "design",
+    "hair",
+    "wigs",
+    "art",
+    "preformance",
+    "culture",
+    "creative",
+    "prosthetics",
+    "make-up",
+    "theatre"
+  ],
+  "jobRoles": [
+    "wigs/hair artist/technician",
+    "make-up artist/technician",
+    "hair stylist",
+    "wig-maker",
+    "prosthetic technician/artist",
+    "special effects technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5438/st0918_hair_wig_makeup_prosthetics_tech_l3_epa_for-publication_31082021.pdf",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a broad range of creative and dynamic industries for example theatre, TV, film, fashion, commercials and print media (editorial). The broad purpose of the occupation is to uphold the highest standards of hygiene and technical application to achieve the required look meeting agreed standards for productions/performances across a range of artists, periods and cultures whilst maintaining health &amp;amp; safety requirements. This may involve the safe application and styling of wigs, hair, make-up and prosthetic special effects to performers. Make–up and hair are key elements in the overall design of live performance, films or television productions, creating a look for the characters in relation to social class, time periods, and any other elements required to create the desired effect or illusion.&lt;/p&gt;\n&lt;p&gt;This will involve using a variety of techniques such as:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;hair work including; cutting, colouring, setting, dressing and preparing hair for wig wearing.&lt;/li&gt;\n&lt;li&gt;wig, facial hair and postiche work including: fitting, head wraps, head block preparation, making foundation, whipping, knotting, weaving, sewing postiche together with cutting, colouring, perming, setting and dressing of wigs, postiche and hair pieces.&lt;/li&gt;\n&lt;li&gt;make-up work including: researching and applying media make-up, character make-up and special effects using a variety of techniques.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;prosthetics work including; material research, life casting, mould making, the use of foam latexes and silicones, surface rendering and application to make and apply bald caps, body parts, wounds and blemishes. This will also include the application of stage bloods for injuries.&lt;br&gt;&lt;br&gt;Hair, Wigs, Make-up and Prosthetics Technicians work with Designers and Directors to discuss the look required for each role for example, artists/performers may need to appear from a different age group or historical period; the hair, make-up and wigs may be contemporary and straightforward or require more creative approaches. They prepare and use design notes, reference sheets and photographs that will ensure the artist/performer will have the same hair or make-up every time. They support preparatory stages, rehearsals and actual performances/production and work closely with artists/performers to get them ready and undertake quick changes throughout the performance/production. For prosthetics, which are part of the physical special effects area, they will need to use reliable sources to research prosthetic effects that are authentic and appropriate, create prosthetics in line with production requirements, script/breakdown and budget, liaise and work in collaboration with relevant people to ensure that all prosthetic effects are safe at all times, monitor people using prosthetics at all times so as to ensure there are no allergic reactions, excessive changes in body temperature or effects on their ability to function with ease, and remove prosthetics in line with safety requirements.&lt;br&gt;&lt;br&gt;They work within budget and time constraints to achieve project requirements.. In their daily work, an employee in this occupation interacts with other members of their team and their supervisors to meet the project objectives. They meet with designers to interpret the design requirements. They develop a good working relationship with performers/artists/clients. They work with other departments e.g. art, production, technical, costume to achieve the performance/production requirements. They may work alongside photographers, film crew and other people involved in the event.. An employee in this occupation will be responsible for working within health, safety and environmental policies, procedures and regulations to meet design specification for wigs, hair and make-up including prosthetics for special effects. They are required to choose and use the appropriate application techniques and approach to achieve the required outcomes by transforming artists/performers into the required look from their natural state.&lt;br&gt;&lt;br&gt;They engage with artists/performers in a professional manner, demonstrating sensitivity in dealing with them when in their care and keep any personal information confidential and observing the set etiquette required. &lt;br&gt;&lt;br&gt;Hair, Wigs, Make-up and Prosthetics Technicians work with other team members to achieve the objectives of the project, including timescales and managing resources in their control which may include their tools and equipment, budget and stock. They are trusted to work unsupervised under the brief of their supervisor. They will be required to work during evenings and weekends during performance/production periods..&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "b88db729-8914-4361-93a0-25dc63b8af60",
+      "detail": "History of hairstyles and make-up. The typical characteristics of period styles through the centuries to allow further detailed research to be undertaken."
+    },
+    {
+      "knowledgeId": "fca86472-cffc-4e60-be63-873715b742b9",
+      "detail": "Research methods to ensure that make-up, hair, wigs, facial and prosthetics meet Supervisor/Designer /Director requirements for example, historical period"
+    },
+    {
+      "knowledgeId": "669045c4-a378-47ff-8e58-20814224962e",
+      "detail": "Understand the overall look required for each role for example different age groups using drawings, photographs or models to identify the Supervisor/Designer/Director design requirements"
+    },
+    {
+      "knowledgeId": "030dcb4f-e9fb-43e7-93a3-84db439eaa87",
+      "detail": "The design process including the development of a detailed plan which must contain details of the performer, their role, design references including costumes, how many looks, if using own hair, a wig or hair pieces, switches and weft pieces, own facial or is facial required, any known allergies or sensitivities, colour palette for hair/wig and make up; sfx prosthetics required; timescales for making, fittings and application"
+    },
+    {
+      "knowledgeId": "9637630c-b3b4-4ab0-9480-3fb169309817",
+      "detail": "The range of tools and materials required for hair, wigs, make-up and prosthetics activities including those for wig, hair piece, facial making; hair, wig, hair piece, switches and weft pieces, facial cutting, styling and application; make-up application; sfx making and application"
+    },
+    {
+      "knowledgeId": "df8e2079-b65b-4d9e-8ec8-ebd323a54ccb",
+      "detail": "Health and Safety Legislation, Regulations, policies and procedures including hygiene standards, data protection, COSHH, Manual Handling and producing Risk Assessments."
+    },
+    {
+      "knowledgeId": "23cb48db-fa57-45fc-b9d5-708687a66976",
+      "detail": "Environmental Legislation including storage and disposal of chemicals, disposal of rubbish; recycling, as it applies to the role."
+    },
+    {
+      "knowledgeId": "92361450-274e-44a8-8e52-dc45ebd90a22",
+      "detail": "Impact on and requirements of other departments to complete hair, wigs, make-up and prosthetics activities "
+    },
+    {
+      "knowledgeId": "46a56b82-fa74-4e92-99d5-c4bb7034f7c4",
+      "detail": "How to prepare and store detailed design notes, reference sheets and photographs for individual performers to ensure consistency and continuity throughout the performance/production"
+    },
+    {
+      "knowledgeId": "3697fef3-6643-452c-9dcd-16b7ba791502",
+      "detail": "The requirements of the preparatory stages, rehearsals and actual performance/production"
+    },
+    {
+      "knowledgeId": "38dbaf8e-3bc1-4dc4-808f-9ff40f54d56c",
+      "detail": "How to assess individual performer’s make-up requirements in accordance with the plan and identify workspace, environment, allergies/sensitivities, skin type, colour, skincare and timings"
+    },
+    {
+      "knowledgeId": "f79499f6-6c06-46c7-9610-099ec217e330",
+      "detail": "The range of make-up assessment techniques to ensure the required look"
+    },
+    {
+      "knowledgeId": "92e9615d-ee2f-40f3-ae1e-f6070669f1ff",
+      "detail": "A variety of make-up application techniques for body and face for example brushes, sponges, stippling, painting, airbrushing, stencils, embellishment"
+    },
+    {
+      "knowledgeId": "45b780d2-737b-4197-a8cd-cbb11e989df7",
+      "detail": "Equipment set up, maintenance, cleaning and storage"
+    },
+    {
+      "knowledgeId": "6dd963fc-1975-4734-94b0-f54c0a353b06",
+      "detail": "Colour assessment techniques including colour mixing; colour washes; highlights and shades"
+    },
+    {
+      "knowledgeId": "3be2c241-8eb6-483b-840e-a683cfcb045e",
+      "detail": "Airbrushing techniques including spray techniques (lines, areas, shades, highlighting and shading; concealing; even colour washing); using stencils, templates, masking; temporary tattoos, body painting, tanning "
+    },
+    {
+      "knowledgeId": "40018ff5-d421-47e3-92fd-05cbdddeaa21",
+      "detail": "Monitor and touch-up make-up processes to ensure continuity for the duration of the performance/production"
+    },
+    {
+      "knowledgeId": "1e69962f-dabb-44a0-941b-a67f75dd8924",
+      "detail": "Typical make-up allergic reactions and action required"
+    },
+    {
+      "knowledgeId": "dacc7f49-f64b-4691-8f8e-1a282bee87a9",
+      "detail": "Make-up removal process including hygiene and material disposal requirements"
+    },
+    {
+      "knowledgeId": "75c428d1-f809-4ede-92ac-a559871c7d03",
+      "detail": "Hair preparation techniques for wig, hair piece, switch, weft or facial making including assessing/selecting according to texture, type, length, colour/shade, pre-blend/mix as drawn as required, colouring or root shading as required"
+    },
+    {
+      "knowledgeId": "40dba062-7595-4f64-9197-0830668c448a",
+      "detail": "Pressure boiling and perming for pre-curling"
+    },
+    {
+      "knowledgeId": "23cd1b1e-6b68-49ca-992b-cc9da7f2a5ab",
+      "detail": "Storage requirements for hair/wig/hair piece/switch/weft/facial hair including tying hair bundles, washing wigs and hair pieces"
+    },
+    {
+      "knowledgeId": "7f551e6d-95ec-48c0-b665-0d2a7841e0ef",
+      "detail": "Fitting techniques for head wraps and measurements, face wraps, preparation of the head/face block and foundation making using whipping or sewing techniques"
+    },
+    {
+      "knowledgeId": "fff94649-020a-4415-b085-fe45a88e94cf",
+      "detail": "Prepare for and knot facial hair, wigs and hair pieces using a variety of knotting techniques and knotting direction template/instructions to meet design requirements"
+    },
+    {
+      "knowledgeId": "1ee93c34-701d-4e4b-abd6-02ed3b0fc4ab",
+      "detail": "Weft making, using weaving technique, to required density and colour, to stitch into wigs or incorporate into artists own hair"
+    },
+    {
+      "knowledgeId": "969c4028-3ee5-41de-a923-9d4940191212",
+      "detail": "Switch making from weft pieces, using a twisting machine, to incorporate into a wig or artists own hair"
+    },
+    {
+      "knowledgeId": "aba764f3-c73e-4fd8-a905-5a89109c61e9",
+      "detail": "A range of typical techniques covering, periods, cultures and genres to cut, colour, set and dress and style hair, set and dress-out wigs or hair pieces and cut and dress-out facial hair to meet design requirements"
+    },
+    {
+      "knowledgeId": "2b6d477d-7da9-4e90-a9ab-96d15886caec",
+      "detail": "Processes for life casting, mould making, use of foam latexes and silicones and surface rendering"
+    },
+    {
+      "knowledgeId": "5e909061-59eb-4e7b-81bb-10f860bce901",
+      "detail": "Prosthetics creation including bald caps, body parts, wounds and blemishes"
+    },
+    {
+      "knowledgeId": "f408ea98-1a6c-4efb-8224-6d412f26a2a0",
+      "detail": "Prosthetics application process including fitting and comfort, blending edges and colouring "
+    },
+    {
+      "knowledgeId": "3535427b-a888-4ab4-8630-584bf1577adc",
+      "detail": "Typical prosthetics allergic reactions and the actions to take if they occur"
+    },
+    {
+      "knowledgeId": "5cdb8df3-7191-4a8f-9c9f-7bf32dc8fcce",
+      "detail": "Prosthetics removal process including health and safety impact"
+    },
+    {
+      "knowledgeId": "43d17015-f39e-45b5-b0b8-6600475a0023",
+      "detail": "A range of modelling products to create injuries"
+    },
+    {
+      "knowledgeId": "764a420b-b910-4985-a24e-309f1d980dbb",
+      "detail": "A range of stage bloods products for different effects "
+    },
+    {
+      "knowledgeId": "4034c6af-54eb-43b5-ba06-c5bc7b6bfa14",
+      "detail": "Injury fitting techniques"
+    },
+    {
+      "knowledgeId": "f1be3885-775f-4a3c-b000-74543350dd08",
+      "detail": "Stage blood application process"
+    },
+    {
+      "knowledgeId": "67dcc69f-a913-4059-af0b-358d38778e97",
+      "detail": "The range of resources required to support hair, wigs, make-up and prosthetics activities for example stock, budget, tools and equipment"
+    },
+    {
+      "knowledgeId": "dfb8ebd2-1a17-4176-afcd-986386a8ff6d",
+      "detail": "The production schedules and their impact on personal workload"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "eb6062dc-f739-4d14-8cf2-f762702c37bd",
+      "detail": "Is respectful of others views and beliefs – equality, diversity and inclusion"
+    },
+    {
+      "behaviourId": "e7a39a08-daec-4403-8b7e-e29fe3252b66",
+      "detail": "Works effectively with others "
+    },
+    {
+      "behaviourId": "e95bed09-0b1d-48f4-b96e-b7370456c3a4",
+      "detail": "Continuously develops their knowledge and skills"
+    },
+    {
+      "behaviourId": "0ea583a3-8778-4ceb-81b5-6eb83a8fee58",
+      "detail": "Pays attention to achieve the detail required"
+    },
+    {
+      "behaviourId": "6729a8b8-eb1b-48ab-9839-72b460346a8f",
+      "detail": "Balances many differing elements of work"
+    },
+    {
+      "behaviourId": "49244607-aeec-4086-89c6-46efcb58d13e",
+      "detail": "Takes ownership of work"
+    },
+    {
+      "behaviourId": "d92ac479-dd0f-422c-ade5-49da6e820fa8",
+      "detail": "Plans work and manages time"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e6f3c576-41d9-41a1-9938-93478870742d",
+      "detail": "Use research to establish exact make-up, hair, wigs, facial and prosthetics requirements of the Supervisor/ Designer/Director to meet requirements "
+    },
+    {
+      "skillId": "c03b6da1-d112-49d6-82d2-7e7bf76e27b6",
+      "detail": "Produce a detailed plan for the make-up/hair/wigs/facial/prosthetics to meet the Supervisor/Designer/Director requirements to include:Tools and materials, Health and Safety Legislation, Regulations, policies and procedures including Risk Assessments, hygiene standards, data protection, Environmental Legislation impact, Impact on and requirements of other departments, design notes, reference sheets and photographs to ensure consistency and continuity, the requirements of the preparatory stages, rehearsals and actual performance/production, timescales"
+    },
+    {
+      "skillId": "131d9b71-245d-490b-9189-fb65cf6f53cc",
+      "detail": "Choose and apply make-up to meet the design requirements"
+    },
+    {
+      "skillId": "22493296-e537-4af2-b87e-4dc99aa2fe08",
+      "detail": "Undertake colour assessment in order to apply body and facial make-up"
+    },
+    {
+      "skillId": "16c46164-ef4b-490d-8603-f203e376896a",
+      "detail": "Prepare and maintain equipment including cleaning and storage after use"
+    },
+    {
+      "skillId": "f8d466ea-c938-4c0b-8eda-509bed80b594",
+      "detail": "Monitor and touch-up make-up to ensure continuity for the duration of the performance/production"
+    },
+    {
+      "skillId": "2063bde6-e0cc-4725-8f22-275304408a81",
+      "detail": "Explain what to do if an allergic reaction to make-up occurs"
+    },
+    {
+      "skillId": "cc8040fe-1971-433e-9cb2-5c70c5766a7b",
+      "detail": "Remove make-up in accordance with hygiene requirements, dispose of materials in accordance with process requirements"
+    },
+    {
+      "skillId": "8da2f445-b5b6-4ca4-a713-8d1f70f4a4c3",
+      "detail": "Store make-up removal products, tools and equipment in accordance with process requirements"
+    },
+    {
+      "skillId": "f885320d-2067-4eee-9e14-59dd1e58c4a8",
+      "detail": "Prepare hair for wig, hair piece, switch, weft, facial making including assessing/selecting according to texture, type, length, colour/shade, pre-blend/mix as drawn, colouring or root shading as required"
+    },
+    {
+      "skillId": "ba13b154-25b4-4cc4-a3b5-7361cdd3f355",
+      "detail": "Pre-curl hair as required"
+    },
+    {
+      "skillId": "dd337ce6-e1e0-4ac2-810e-174c1a5a9b64",
+      "detail": "Store hair, wigs, hair pieces, switches, weft, facial hair in accordance with requirements"
+    },
+    {
+      "skillId": "f79304ad-fcc0-4a0c-a132-c2ad4de2ef36",
+      "detail": "Take head wraps including measurements, face wraps, creating head/face blocks and making foundations to meet design requirements"
+    },
+    {
+      "skillId": "6830686f-1133-483a-bdf1-7e4f6afe868b",
+      "detail": "Knot facial hair, wigs and hair pieces using a knotting direction template/instructions to meet design requirements"
+    },
+    {
+      "skillId": "c49e7521-bb9d-4f05-aaf6-20ab0a9d8319",
+      "detail": "Make weft pieces and switches to meet design requirements"
+    },
+    {
+      "skillId": "46be1e73-4523-49e7-b76b-29e91527d379",
+      "detail": "Make alterations and repairs to wigs"
+    },
+    {
+      "skillId": "01e03c4b-10d7-4fa6-b13c-b93f4ebb4023",
+      "detail": "Cut, colour, set, dress-out and style hair: set and dress-out wigs or hair pieces and cut and dress-out facial hair to meet design requirements"
+    },
+    {
+      "skillId": "db5551c2-ebaf-4681-91ca-b584cb6d63f9",
+      "detail": "Create prosthetics including bald caps, body parts, wounds and blemishes "
+    },
+    {
+      "skillId": "54efbc00-7058-490a-9596-ed8e664293c3",
+      "detail": "Apply prosthetics ensuring fit and comfort, blending edges and colouring"
+    },
+    {
+      "skillId": "313ca218-f421-447a-a249-88714bf4f5c9",
+      "detail": "Explain what to do if an allergic reaction to prosthetics occurs"
+    },
+    {
+      "skillId": "9c4c2252-7a6f-4a55-8cf5-35026d75064e",
+      "detail": "Remove prosthetics in accordance with health and safety requirements"
+    },
+    {
+      "skillId": "df3ba71a-2ef8-440e-afc2-dfcbfc6c6d79",
+      "detail": "Create and fit injuries to meet design requirements"
+    },
+    {
+      "skillId": "280030b5-6c83-4790-9193-47a044ad5fae",
+      "detail": "Apply stage bloods to meet design requirements"
+    },
+    {
+      "skillId": "eeae60e1-0de5-44c6-a424-3a1c67a7ff3e",
+      "detail": "Monitor spend/use of resources and highlight under/overspend/use in accordance with agreed process"
+    },
+    {
+      "skillId": "0b1bbd51-cafc-4463-a7a9-416a323ea8f1",
+      "detail": "Develop a personal work plan to identify potential periods of peak workloads"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-02-28T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0648",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "Lynne.LADA@gmail.com",
+  "involvedEmployers": "Royal Shakespeare Company, LADA/CC Skills, Royal Exchange, Shakespeare's Globe, National Theatre, Royal Opera House, English National Opera and Coliseum, Amanda Gaffey (freelance practitioner), Jean Carlos de Blas (freelance practitioner)",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-11-06T09:03:45 +00:00",
-  "lastUpdated": "2020-11-06T09:03:45 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hair,-wigs,-make-up-and-prosthetics-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/hair,-wigs,-make-up-and-prosthetics-technician",
+  "typicalJobTitles": [
+    "wigs/hair artist/technician",
+    "make-up artist/technician",
+    "hair stylist",
+    "wig-maker",
+    "prosthetic technician/artist",
+    "special effects technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Craft and Design",
+  "cluster": "Design technician",
+  "clusterId": "232",
+  "clusterDescription": null,
+  "createdDate": "2021-09-01T08:56:58 +00:00",
+  "lastUpdated": "2023-02-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-02-28T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "occupationCode": "OCC0918",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0918-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0918-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "f94761b3-07c7-4a0b-bad4-571101508951",
+      "dutyDetail": "Interpret and research the production requirements identifying the appropriate make-up/hair/wigs/facial/prosthetics to be created ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b88db729-8914-4361-93a0-25dc63b8af60",
+        "fca86472-cffc-4e60-be63-873715b742b9",
+        "669045c4-a378-47ff-8e58-20814224962e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e6f3c576-41d9-41a1-9938-93478870742d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "845c4788-7f2f-45d7-a7e1-932f0dcd9049",
+      "dutyDetail": "Create and design a plan to include detailed design notes, reference sheets and photographs for individual performers for the make-up/hair/wigs/facial/prosthetics for a performance/production in line with the genre, historical period and culture to meet the design requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eb6062dc-f739-4d14-8cf2-f762702c37bd"
+      ],
+      "mappedKnowledge": [
+        "030dcb4f-e9fb-43e7-93a3-84db439eaa87",
+        "9637630c-b3b4-4ab0-9480-3fb169309817",
+        "df8e2079-b65b-4d9e-8ec8-ebd323a54ccb",
+        "23cb48db-fa57-45fc-b9d5-708687a66976",
+        "92361450-274e-44a8-8e52-dc45ebd90a22",
+        "46a56b82-fa74-4e92-99d5-c4bb7034f7c4",
+        "3697fef3-6643-452c-9dcd-16b7ba791502"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c03b6da1-d112-49d6-82d2-7e7bf76e27b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b3822d1a-0e53-4538-9998-013820294d30",
+      "dutyDetail": "Assess, select and apply body and facial make-up using a variety of techniques including colour assessment and covering the correct periods, cultures and genres to meet the design and health and safety requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d92ac479-dd0f-422c-ade5-49da6e820fa8"
+      ],
+      "mappedKnowledge": [
+        "38dbaf8e-3bc1-4dc4-808f-9ff40f54d56c",
+        "f79499f6-6c06-46c7-9610-099ec217e330",
+        "92e9615d-ee2f-40f3-ae1e-f6070669f1ff",
+        "6dd963fc-1975-4734-94b0-f54c0a353b06",
+        "3be2c241-8eb6-483b-840e-a683cfcb045e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "131d9b71-245d-490b-9189-fb65cf6f53cc",
+        "22493296-e537-4af2-b87e-4dc99aa2fe08"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "75d9fb78-8ffe-45ef-a6f3-3593fba30be9",
+      "dutyDetail": "Safely set-up, use, clean, maintain and store tools and equipment used to undertake the application of body and facial make-up ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "45b780d2-737b-4197-a8cd-cbb11e989df7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "16c46164-ef4b-490d-8603-f203e376896a",
+        "8da2f445-b5b6-4ca4-a713-8d1f70f4a4c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b886a7b3-1f19-4837-a260-f1105fca58bb",
+      "dutyDetail": "Monitor applied make-up to ensure there are no allergic reactions, removing make-up in line with health & safety requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e7a39a08-daec-4403-8b7e-e29fe3252b66"
+      ],
+      "mappedKnowledge": [
+        "40018ff5-d421-47e3-92fd-05cbdddeaa21",
+        "1e69962f-dabb-44a0-941b-a67f75dd8924",
+        "dacc7f49-f64b-4691-8f8e-1a282bee87a9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8d466ea-c938-4c0b-8eda-509bed80b594",
+        "2063bde6-e0cc-4725-8f22-275304408a81",
+        "cc8040fe-1971-433e-9cb2-5c70c5766a7b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a991429-e4d3-473c-8c55-80979728991c",
+      "dutyDetail": "Prepare hair for wig or postiche making, including assessing, matching and blending hair, pre- curling and preparing it for knotting or storage.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "75c428d1-f809-4ede-92ac-a559871c7d03",
+        "40dba062-7595-4f64-9197-0830668c448a",
+        "23cd1b1e-6b68-49ca-992b-cc9da7f2a5ab"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f885320d-2067-4eee-9e14-59dd1e58c4a8",
+        "ba13b154-25b4-4cc4-a3b5-7361cdd3f355",
+        "dd337ce6-e1e0-4ac2-810e-174c1a5a9b64"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2557e8b4-cae1-4013-aafb-a1f54c6ed9c9",
+      "dutyDetail": "Make, alter and repair wigs, hair pieces, switches, weft, facial hair including taking head/face wraps, head block preparation, foundation making, whipping, knotting, weaving, sewing using a variety of techniques to meet design requirements covering all periods and cultures",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "7f551e6d-95ec-48c0-b665-0d2a7841e0ef",
+        "fff94649-020a-4415-b085-fe45a88e94cf",
+        "1ee93c34-701d-4e4b-abd6-02ed3b0fc4ab",
+        "969c4028-3ee5-41de-a923-9d4940191212"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f79304ad-fcc0-4a0c-a132-c2ad4de2ef36",
+        "6830686f-1133-483a-bdf1-7e4f6afe868b",
+        "c49e7521-bb9d-4f05-aaf6-20ab0a9d8319",
+        "46be1e73-4523-49e7-b76b-29e91527d379"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7109a64-5e16-44bb-b7c1-5b61cd041b13",
+      "dutyDetail": "Safely cut, colour, style, set, dress-out hair, wigs, hair pieces and facial hair using a variety of techniques, covering all periods, cultures and genres to meet design requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6729a8b8-eb1b-48ab-9839-72b460346a8f"
+      ],
+      "mappedKnowledge": [
+        "aba764f3-c73e-4fd8-a905-5a89109c61e9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "01e03c4b-10d7-4fa6-b13c-b93f4ebb4023"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "36f54085-6b60-4513-8fa5-91e90a29531c",
+      "dutyDetail": "Create prosthetics including bald caps, body parts, wounds and blemishes, using of a variety of materials to meet design requirements. Creation involves material research, life casting, mould making, the use of foam latexes and silicones and surface rendering.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "2b6d477d-7da9-4e90-a9ab-96d15886caec",
+        "5e909061-59eb-4e7b-81bb-10f860bce901"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "db5551c2-ebaf-4681-91ca-b584cb6d63f9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f65017de-301a-479f-bb5c-18fd16215b12",
+      "dutyDetail": "Safely apply prosthetics and monitor their usage to ensure there are no allergic reactions, excessive changes in body temperature or effects on their ability to function. Remove prosthetics in line with health and safety requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0ea583a3-8778-4ceb-81b5-6eb83a8fee58"
+      ],
+      "mappedKnowledge": [
+        "f408ea98-1a6c-4efb-8224-6d412f26a2a0",
+        "3535427b-a888-4ab4-8630-584bf1577adc",
+        "5cdb8df3-7191-4a8f-9c9f-7bf32dc8fcce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "54efbc00-7058-490a-9596-ed8e664293c3",
+        "313ca218-f421-447a-a249-88714bf4f5c9",
+        "9c4c2252-7a6f-4a55-8cf5-35026d75064e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dda18701-1f85-4ba2-b0ba-e240b5443aa5",
+      "dutyDetail": "Safely apply stage bloods and use a variety of modelling products to create and fit injuries to meet design requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "43d17015-f39e-45b5-b0b8-6600475a0023",
+        "764a420b-b910-4985-a24e-309f1d980dbb",
+        "4034c6af-54eb-43b5-ba06-c5bc7b6bfa14",
+        "f1be3885-775f-4a3c-b000-74543350dd08"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "df3ba71a-2ef8-440e-afc2-dfcbfc6c6d79",
+        "280030b5-6c83-4790-9193-47a044ad5fae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "27d7bb80-d35a-41bd-842d-ba8942e52c3f",
+      "dutyDetail": "Manage resources to support the execution of design requirements e.g. stock, budget, tools and equipment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "67dcc69f-a913-4059-af0b-358d38778e97"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "eeae60e1-0de5-44c6-a424-3a1c67a7ff3e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "20e2c25f-6346-41b8-9961-a90436a1fa3e",
+      "dutyDetail": "Manage personal workload to meet deadlines in line with the production schedules.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e95bed09-0b1d-48f4-b96e-b7370456c3a4",
+        "49244607-aeec-4086-89c6-46efcb58d13e"
+      ],
+      "mappedKnowledge": [
+        "dfb8ebd2-1a17-4176-afcd-986386a8ff6d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0b1bbd51-cafc-4463-a7a9-416a323ea8f1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-28T00:00:00"
 }
