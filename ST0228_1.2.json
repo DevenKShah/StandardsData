@@ -1,0 +1,801 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 93,
+  "referenceNumber": "ST0228",
+  "learningAimClassCode": "",
+  "title": "Commis chef",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0228",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan and standard revised.",
+  "changedDate": "2023-06-26T00:00:00",
+  "earliestStartDate": "2021-09-28T00:00:00",
+  "latestStartDate": "2023-06-25T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Preparing food and carrying out basic cooking tasks in every section of a kitchen under the supervision of a senior chef.",
+  "level": 2,
+  "ePALength": 4,
+  "typicalDuration": 12,
+  "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Catering and hospitality",
+  "keywords": [],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7255/st0228-commis-chef-ap_for-publication_01072022em.pdf",
+  "ssa1": "7 Retail and Commercial Enterprise",
+  "ssa2": "7.4 Hospitality and catering",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the Hospitality industry across a range of sectors including hospitality, aviation and care. Commis chefs may work in different types of organisations and employers such as restaurants, hotels, care homes/hospitals, military establishments and cruise ships. The broad purpose of the occupation is to support the kitchen in providing the culinary offer by preparing, cooking and finishing a range of food items whilst rotating around each section of the kitchen. Commis chefs will work as part of a kitchen brigade to ensure the quality of the food items produced meet brand, organisational and legislative requirements including the completion of food safety management documentation. They receive, check and correctly store deliveries as well as checking and reporting food items and stock levels. Commis chefs contribute to improving the culinary offer of their organisation. In their daily work, an employee in this occupation interacts with a team (brigade) of chefs, the wider team including front of house staff, suppliers and customers. Commis chefs may work unsociable hours, including early mornings, late evenings, weekends and holidays. An employee in this occupation will be responsible for maintaining high standards of personal, food and kitchen hygiene in their section. A commis chef is supervised in their work and reports to a senior chef. In a smaller establishment this may be the Head Chef or Chef Patron or may be a Chef de Partie in a larger organisation using the kitchen hierarchy system.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+      "detail": "The factors which influence the types of food items and menus offered by the business"
+    },
+    {
+      "knowledgeId": "7e1ae102-92a6-47d3-a7c7-94ba86b8cc62",
+      "detail": "How technology supports the development and production of dishes and menu items"
+    },
+    {
+      "knowledgeId": "74efa8d5-5be0-4ebb-995a-4d0a3536557b",
+      "detail": "The importance of checking food, equipment, chemical and commodity stocks and keeping the storage areas in good order, know the procedures to carry out and how to deal with identified shortages and food close to expiry date"
+    },
+    {
+      "knowledgeId": "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+      "detail": "How to undertake set up, preparation and cleaning tasks to organisational standard whilst working in a challenging, time- bound environment"
+    },
+    {
+      "knowledgeId": "3c883834-9ea8-45b5-befd-5469d2f040b5",
+      "detail": "Correct ingredients and portion sizes for each dish in line with recipe specifications"
+    },
+    {
+      "knowledgeId": "80dd8f69-7da5-4dac-b631-c92a11261d78",
+      "detail": "The principles of basic food preparation and cooking; taste, allergens (including intolerances), diet (including religious, cultural and medical) and nutrition"
+    },
+    {
+      "knowledgeId": "01d11b55-5e64-47a1-9fc2-8c2e926beec2",
+      "detail": "Commonly used knives and kitchen equipment and their specific function"
+    },
+    {
+      "knowledgeId": "fc1b2422-7482-4423-8bb5-22cb949ad269",
+      "detail": "Sources and quality points of common food groups including meat, poultry, game, offal, fish, shellfish, vegetables, sauces, soups, stocks, rice, pasta/noodles, eggs, vegetable protein, dough, pastry, cakes, sponges, biscuits and scones, hot and cold desserts"
+    },
+    {
+      "knowledgeId": "c477c88b-0b9f-4ee1-a665-8797d608f53e",
+      "detail": "Traditional cuts of meat and poultry"
+    },
+    {
+      "knowledgeId": "aa9edd37-9b76-4402-9ba8-672d3e585000",
+      "detail": "Preparation methods for meat, poultry, game and offal including cutting, slicing, dicing, mincing, trimming, boning, tying, checking and preparing cavities, skinning, tenderising, marinating, seasoning, applying dry rubs, stuffing, filling, trussing, coating and portioning"
+    },
+    {
+      "knowledgeId": "62f7e803-61ed-4ae9-9305-3287ae8acb10",
+      "detail": "Categories of fish including white fish round and flat, oily fish"
+    },
+    {
+      "knowledgeId": "2f0e81ce-ac54-4fd6-8596-1f2fd3fc0271",
+      "detail": "Traditional cuts of fish including darne, tronçon, goujon, suprème, délice, paupiette"
+    },
+    {
+      "knowledgeId": "7ef47f84-5ead-4be0-bec7-deffc2478edf",
+      "detail": "Preparation methods for fish and shellfish including cleaning, descaling, skinning, trimming, filleting, removing bones, shelling, cutting, marinating, coating"
+    },
+    {
+      "knowledgeId": "f82a3c00-422a-4acc-b54e-894f92c41245",
+      "detail": "Categories of vegetables including roots, bulbs, flower heads, fungi, seeds and pods, tubers, leaves, stems, vegetable fruits"
+    },
+    {
+      "knowledgeId": "7565056e-4864-4775-a185-6e4df7511d9d",
+      "detail": "Traditional cuts of vegetables including Julienne, Brunoise, Macédoine, Jardinière, Paysanne"
+    },
+    {
+      "knowledgeId": "d707d09a-5566-4324-a99d-456e18284c43",
+      "detail": "Preparation methods for vegetables including washing, peeling, chopping, slicing, trimming, grating, turning"
+    },
+    {
+      "knowledgeId": "e39e0eff-d6b0-4472-a5dc-446aa9e8b856",
+      "detail": "Preparation methods for sauces, stocks and soups including weighing, measuring, chopping, roux, skimming, passing, straining, blending, whisking"
+    },
+    {
+      "knowledgeId": "78366a99-9d47-493d-adb8-b70417843748",
+      "detail": "Preparation methods for rice, pasta/noodles and vegetable proteins including washing, soaking, straining"
+    },
+    {
+      "knowledgeId": "89bb21f1-0128-413e-9d47-d5993a4ae7c1",
+      "detail": "Preparation methods for eggs (duck, chicken, quail) including beating whisking"
+    },
+    {
+      "knowledgeId": "1e39ac64-65d3-4ecb-a550-be93ed14d5be",
+      "detail": "Categories of dough for example, bread, enriched, soda, naan, pitta, pizza"
+    },
+    {
+      "knowledgeId": "8b43ab5f-1c10-4c35-80b9-3beb85946a81",
+      "detail": "Preparation methods for dough including weighing, measuring, sieving, mixing, kneading, proving, knocking back, shaping, resting, chilling, piping, rolling, cutting, trimming, glazing, portioning"
+    },
+    {
+      "knowledgeId": "4af46758-9f45-4f73-b377-ca4a15ddab57",
+      "detail": "Preparation methods for pastry (including short, sweet, suet, choux, convenience) including weighing, measuring, sieving, mixing, shaping, resting, chilling, piping, rolling, cutting, trimming, glazing, portioning"
+    },
+    {
+      "knowledgeId": "14450f88-878c-47ad-8562-a77ccb8ff97c",
+      "detail": "Preparation methods for cakes, sponges, biscuits, scones, hot and cold desserts (including ice-cream, mousse, egg-based, batter-based, sponge-based, fruit-based, pastry-based) including weighing, measuring, sieving, mixing, shaping, rubbing in, creaming, resting, piping, rolling, cutting, trimming, lining, beating, folding, greasing, glazing, portioning, aeration, adding flavours/colours, puréeing, combining, chilling"
+    },
+    {
+      "knowledgeId": "4f785246-e94e-4156-b939-f220af21c33d",
+      "detail": "Cooking methods for meat, poultry, game and offal including searing, grilling, griddling, frying (deep, shallow, sauté and stir), braising, stewing, baking, roasting, steaming, boiling, poaching, bain-marie, combination"
+    },
+    {
+      "knowledgeId": "f809e388-ffcb-410f-9f06-1a5882fb4e76",
+      "detail": "Cooking methods for fish and shellfish including frying (deep and shallow), grilling, poaching, baking, steaming, stewing, boiling"
+    },
+    {
+      "knowledgeId": "513496e6-1979-4c6b-9d2d-2d810c5860ff",
+      "detail": "Cooking methods for vegetables including blanching, boiling, roasting, baking, grilling, braising, frying (deep, shallow and stir), steaming, stewing, combination"
+    },
+    {
+      "knowledgeId": "2a3ac54c-2ab7-4692-8cfb-082a3fcfa62b",
+      "detail": "Cooking methods for sauces, stocks and soups including boiling, simmering, reducing, thickening, flavouring"
+    },
+    {
+      "knowledgeId": "e117a9b3-8b12-4065-a186-bb05868fa431",
+      "detail": "Cooking methods for rice, pasta/noodles, eggs and vegetable proteins including blanching, boiling, frying (deep, sauté), scrambling, poaching, braising, steaming, stewing, baking, combination"
+    },
+    {
+      "knowledgeId": "bdbc2834-f795-464c-add1-98aeb0f3ed93",
+      "detail": "Cooking methods for dough, pastry, cakes, sponges, biscuits, scones, hot and cold desserts including baking, boiling, poaching, stewing, steaming, frying, combination"
+    },
+    {
+      "knowledgeId": "5ca2df13-29d2-4e82-b2fb-510f335ad930",
+      "detail": "Finishing methods for all food groups including resting, garnishing, adding sauce, glazing, gratinating, piping, filling, decorating, dusting, dredging, decorating"
+    },
+    {
+      "knowledgeId": "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+      "detail": "The impact of seasonality on the availability, quality and price of ingredients"
+    },
+    {
+      "knowledgeId": "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+      "detail": "The relevant legislation, regulations and responsibilities pertinent to this occupation "
+    },
+    {
+      "knowledgeId": "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+      "detail": "The importance of following legislation and regulations and consequences of failing to meet them"
+    },
+    {
+      "knowledgeId": "f3947f6a-5765-485d-9011-9968802d373b",
+      "detail": "How personal and team performance impact on the successful production of dishes and menu items"
+    },
+    {
+      "knowledgeId": "331c0457-a91d-40d5-a390-ec33f24603bf",
+      "detail": "How to communicate with colleagues and support team members"
+    },
+    {
+      "knowledgeId": "670efa19-8d40-4d65-96c7-66e87028e888",
+      "detail": "The importance of training and development to maximise own performance"
+    },
+    {
+      "knowledgeId": "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+      "detail": "Professional behaviours and organisational culture"
+    },
+    {
+      "knowledgeId": "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+      "detail": "How all teams are dependent on each other and the importance of teamwork both back and front of house"
+    },
+    {
+      "knowledgeId": "bdcfdab4-98c4-4267-9e72-15218bda293f",
+      "detail": "Basic costing and yield of dishes and the meaning of gross profit"
+    },
+    {
+      "knowledgeId": "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+      "detail": "The principles of supply chain and waste management"
+    },
+    {
+      "knowledgeId": "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528",
+      "detail": "Potential risks in the working environment, how to address them and the potential consequences of those risks"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "04b98e62-245d-484f-9df3-b845cdaa24fc",
+      "detail": "Is enthusiastic and committed to improving and developing skills"
+    },
+    {
+      "behaviourId": "bebb57d8-ee39-414e-b10d-17cee751bf00",
+      "detail": "Has a food safety approach at all times"
+    },
+    {
+      "behaviourId": "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+      "detail": "Shows accuracy and attention to detail"
+    },
+    {
+      "behaviourId": "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+      "detail": "Works according to the values and culture of the organisation"
+    },
+    {
+      "behaviourId": "353d034d-247a-4757-9803-1119f63daf17",
+      "detail": "Is fair, consistent, reliable and respectful"
+    },
+    {
+      "behaviourId": "3f6ad09a-da21-4728-861e-634ad2bf92f9",
+      "detail": "Leads by example to develop individual and team skills"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "328d262e-e407-4a12-9006-001df63f31b1",
+      "detail": "Contribute to reviewing and refreshing menus in line with business and customer requirements"
+    },
+    {
+      "skillId": "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+      "detail": "Use technology for the development and production of dishes and menu items in line with business procedures and guidelines to achieve the best result"
+    },
+    {
+      "skillId": "a3ccb921-5889-4c17-a564-9df6a283cac7",
+      "detail": "Check food stocks, report on shortages, prioritise food that is close to expiry and keep the storage areas in good order"
+    },
+    {
+      "skillId": "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+      "detail": "Prioritise tasks, ensuring food items meet the required quality standard and in the required time frame"
+    },
+    {
+      "skillId": "de21a705-207a-4a82-af6b-2df907facf26",
+      "detail": "Measure dish ingredients and portion sizes accurately"
+    },
+    {
+      "skillId": "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+      "detail": "Use a range of craft preparation and basic cooking skills and techniques to prepare, cook and finish dishes and menu items in line with business requirements"
+    },
+    {
+      "skillId": "15688d0f-950b-45e7-927b-3e5f78ce796b",
+      "detail": "Use correct knives and knife skills when preparing food and use the correct equipment when preparing, cooking and finishing food"
+    },
+    {
+      "skillId": "d5d65b77-b984-49c2-a593-ef3f426247bf",
+      "detail": "Correctly store and use food items and commodities when preparing, cooking and finishing dishes to deliver a quality product that is safe for the consumer"
+    },
+    {
+      "skillId": "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+      "detail": "Apply correct preparation and selection methods when using fresh produce in dishes"
+    },
+    {
+      "skillId": "4de21b4f-94ff-4519-a07c-142661f61f24",
+      "detail": "Complete preparation and cooking tasks to a high standard, delivered on time and presented as described within the recipe specification"
+    },
+    {
+      "skillId": "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+      "detail": "Maintain a clean and hygienic kitchen environment at all times, complete kitchen documentation as required"
+    },
+    {
+      "skillId": "3d231827-5960-4a10-b075-f9245928f5a4",
+      "detail": "Work with others to ensure dishes produced are of high quality, delivered on time and to the standard required"
+    },
+    {
+      "skillId": "3b45672d-ec4c-4a23-9018-edcbab6391b0",
+      "detail": "Choose methods of communication that achieve effective team working"
+    },
+    {
+      "skillId": "45b43442-e71a-47e1-960b-476aa71d5805",
+      "detail": "Develop own skills and knowledge through training and experiences"
+    },
+    {
+      "skillId": "c35c8434-3066-4a66-bf04-be109426f122",
+      "detail": "Deal with team challenges and problems constructively to drive a positive outcome"
+    },
+    {
+      "skillId": "9ea8ef2e-e112-469f-a60b-73cd08039972",
+      "detail": "Effectively manage resources to meet specifications and control waste"
+    },
+    {
+      "skillId": "8fe1dfcd-f6e7-4973-ad92-505d77c329a6",
+      "detail": "Follow safe systems of work reporting risks in the appropriate manner"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-04-27T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0510",
+  "tbMainContact": "catering.hospitality@education.gov.uk",
+  "involvedEmployers": "Hilton Worldwide, Mitchells and Butler, The Spirit Pub Company, Compass Group UK&I, PGL, McDonald’s UK, Hospitality SME consortium led by the Lancaster London, Red Carnation Hotels, Frederic Robinson, Barchester Healthcare, Whitbread, SSP, KFC UK, Greene King, Institute of Hospitality, Royal Academy of Culinary Arts, British Institute of Innkeeping, British Beer & Pub Association, People 1st, Brend Hotels",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Catering",
+  "cluster": "Caterer",
+  "clusterId": "18",
+  "clusterDescription": "Preparation and cooking of food through to the management of either part of or the whole kitchen",
+  "createdDate": "2021-09-28T15:48:11 +00:00",
+  "lastUpdated": "2023-06-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0228",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0228-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0228-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "e5edad52-495d-4c20-9c8e-ea1a2c4cb0f0",
+      "dutyDetail": "Prepare food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "353d034d-247a-4757-9803-1119f63daf17",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+        "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+        "3c883834-9ea8-45b5-befd-5469d2f040b5",
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "01d11b55-5e64-47a1-9fc2-8c2e926beec2",
+        "fc1b2422-7482-4423-8bb5-22cb949ad269",
+        "c477c88b-0b9f-4ee1-a665-8797d608f53e",
+        "aa9edd37-9b76-4402-9ba8-672d3e585000",
+        "62f7e803-61ed-4ae9-9305-3287ae8acb10",
+        "2f0e81ce-ac54-4fd6-8596-1f2fd3fc0271",
+        "7ef47f84-5ead-4be0-bec7-deffc2478edf",
+        "f82a3c00-422a-4acc-b54e-894f92c41245",
+        "7565056e-4864-4775-a185-6e4df7511d9d",
+        "d707d09a-5566-4324-a99d-456e18284c43",
+        "e39e0eff-d6b0-4472-a5dc-446aa9e8b856",
+        "78366a99-9d47-493d-adb8-b70417843748",
+        "89bb21f1-0128-413e-9d47-d5993a4ae7c1",
+        "1e39ac64-65d3-4ecb-a550-be93ed14d5be",
+        "8b43ab5f-1c10-4c35-80b9-3beb85946a81",
+        "4af46758-9f45-4f73-b377-ca4a15ddab57",
+        "14450f88-878c-47ad-8562-a77ccb8ff97c",
+        "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "f3947f6a-5765-485d-9011-9968802d373b",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "de21a705-207a-4a82-af6b-2df907facf26",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "15688d0f-950b-45e7-927b-3e5f78ce796b",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+        "4de21b4f-94ff-4519-a07c-142661f61f24",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "413b79ee-ead6-49fa-ac4b-0772e42ea4b3",
+      "dutyDetail": "Cook food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "353d034d-247a-4757-9803-1119f63daf17",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+        "3c883834-9ea8-45b5-befd-5469d2f040b5",
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "01d11b55-5e64-47a1-9fc2-8c2e926beec2",
+        "fc1b2422-7482-4423-8bb5-22cb949ad269",
+        "c477c88b-0b9f-4ee1-a665-8797d608f53e",
+        "62f7e803-61ed-4ae9-9305-3287ae8acb10",
+        "f82a3c00-422a-4acc-b54e-894f92c41245",
+        "1e39ac64-65d3-4ecb-a550-be93ed14d5be",
+        "4f785246-e94e-4156-b939-f220af21c33d",
+        "f809e388-ffcb-410f-9f06-1a5882fb4e76",
+        "513496e6-1979-4c6b-9d2d-2d810c5860ff",
+        "2a3ac54c-2ab7-4692-8cfb-082a3fcfa62b",
+        "e117a9b3-8b12-4065-a186-bb05868fa431",
+        "bdbc2834-f795-464c-add1-98aeb0f3ed93",
+        "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "f3947f6a-5765-485d-9011-9968802d373b",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "de21a705-207a-4a82-af6b-2df907facf26",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "15688d0f-950b-45e7-927b-3e5f78ce796b",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+        "4de21b4f-94ff-4519-a07c-142661f61f24",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aee7abd4-8797-46cd-959f-c11e0a57bfee",
+      "dutyDetail": "Finish food items in line with legislation relevant to this occupation. Follow organisational brand standards and recipe specifications including portion control and waste management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "353d034d-247a-4757-9803-1119f63daf17",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+        "3c883834-9ea8-45b5-befd-5469d2f040b5",
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "01d11b55-5e64-47a1-9fc2-8c2e926beec2",
+        "fc1b2422-7482-4423-8bb5-22cb949ad269",
+        "c477c88b-0b9f-4ee1-a665-8797d608f53e",
+        "62f7e803-61ed-4ae9-9305-3287ae8acb10",
+        "f82a3c00-422a-4acc-b54e-894f92c41245",
+        "1e39ac64-65d3-4ecb-a550-be93ed14d5be",
+        "5ca2df13-29d2-4e82-b2fb-510f335ad930",
+        "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "f3947f6a-5765-485d-9011-9968802d373b",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "de21a705-207a-4a82-af6b-2df907facf26",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "15688d0f-950b-45e7-927b-3e5f78ce796b",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "4de21b4f-94ff-4519-a07c-142661f61f24",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "03880949-2a51-403a-82e3-b32aa6a52c4d",
+      "dutyDetail": "Clean and maintain a safe and hygienic kitchen environment including preparation, cooking and storage areas",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "74efa8d5-5be0-4ebb-995a-4d0a3536557b",
+        "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "a3ccb921-5889-4c17-a564-9df6a283cac7",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62b1ce66-52fd-4dbb-b68f-6a051099eb36",
+      "dutyDetail": "Complete food safety management system documentation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "74efa8d5-5be0-4ebb-995a-4d0a3536557b",
+        "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "fc1b2422-7482-4423-8bb5-22cb949ad269",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a3ccb921-5889-4c17-a564-9df6a283cac7",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "093b3f06-b50e-4496-a61e-b9a29452c539",
+      "dutyDetail": "Check and report food items and commodity (for example kitchen foil, film, plastic gloves, cloths etc) stock levels following stock rotation systems",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "74efa8d5-5be0-4ebb-995a-4d0a3536557b",
+        "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a3ccb921-5889-4c17-a564-9df6a283cac7",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "12c28ade-a5fc-4093-9a96-5130304cf10e",
+      "dutyDetail": "Operate and clean specialist kitchen equipment following safe handling procedures",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "7e1ae102-92a6-47d3-a7c7-94ba86b8cc62",
+        "9d9792f4-6102-4104-a72d-d9f262ba7a92",
+        "01d11b55-5e64-47a1-9fc2-8c2e926beec2",
+        "aa9edd37-9b76-4402-9ba8-672d3e585000",
+        "7ef47f84-5ead-4be0-bec7-deffc2478edf",
+        "7565056e-4864-4775-a185-6e4df7511d9d",
+        "d707d09a-5566-4324-a99d-456e18284c43",
+        "e39e0eff-d6b0-4472-a5dc-446aa9e8b856",
+        "78366a99-9d47-493d-adb8-b70417843748",
+        "89bb21f1-0128-413e-9d47-d5993a4ae7c1",
+        "8b43ab5f-1c10-4c35-80b9-3beb85946a81",
+        "4af46758-9f45-4f73-b377-ca4a15ddab57",
+        "14450f88-878c-47ad-8562-a77ccb8ff97c",
+        "4f785246-e94e-4156-b939-f220af21c33d",
+        "f809e388-ffcb-410f-9f06-1a5882fb4e76",
+        "513496e6-1979-4c6b-9d2d-2d810c5860ff",
+        "2a3ac54c-2ab7-4692-8cfb-082a3fcfa62b",
+        "e117a9b3-8b12-4065-a186-bb05868fa431",
+        "bdbc2834-f795-464c-add1-98aeb0f3ed93",
+        "5ca2df13-29d2-4e82-b2fb-510f335ad930",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "de21a705-207a-4a82-af6b-2df907facf26",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "15688d0f-950b-45e7-927b-3e5f78ce796b",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+        "4de21b4f-94ff-4519-a07c-142661f61f24",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ee7fa24-32b3-46b7-bc3f-d1606af8ebae",
+      "dutyDetail": "Receive and check internal and external deliveries of food items, equipment and chemicals and store correctly",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "74efa8d5-5be0-4ebb-995a-4d0a3536557b",
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "fc1b2422-7482-4423-8bb5-22cb949ad269",
+        "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+        "905fdfda-b9c8-45a2-8b86-a0f8713f70a0",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a3ccb921-5889-4c17-a564-9df6a283cac7",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972",
+        "8fe1dfcd-f6e7-4973-ad92-505d77c329a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db236587-ce76-42fb-b343-8a3d9abaed50",
+      "dutyDetail": "Work with others to ensure dishes produced are of high quality, delivered on time and to the standard required",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "04b98e62-245d-484f-9df3-b845cdaa24fc",
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "c10ef24c-09f1-41ca-b2a7-1f6270ccd4ee",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "353d034d-247a-4757-9803-1119f63daf17",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "80dd8f69-7da5-4dac-b631-c92a11261d78",
+        "c7a4f027-a52b-4466-b4e9-9fae655975f8",
+        "f3947f6a-5765-485d-9011-9968802d373b",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "670efa19-8d40-4d65-96c7-66e87028e888",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c",
+        "5bbaa90c-ab13-4d35-8fd6-dabea0aa9528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "328d262e-e407-4a12-9006-001df63f31b1",
+        "9cbef3f6-7afb-415e-abcd-fad32f7bdcbe",
+        "a3ccb921-5889-4c17-a564-9df6a283cac7",
+        "89e3a712-cb6f-4b6d-a738-78b16fd2009d",
+        "de21a705-207a-4a82-af6b-2df907facf26",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "15688d0f-950b-45e7-927b-3e5f78ce796b",
+        "d5d65b77-b984-49c2-a593-ef3f426247bf",
+        "3dc5375b-9e4a-4fce-b450-8300d9fa27a4",
+        "4de21b4f-94ff-4519-a07c-142661f61f24",
+        "26e8da61-47c6-4ddf-aaba-67d11de729e2",
+        "3d231827-5960-4a10-b075-f9245928f5a4",
+        "3b45672d-ec4c-4a23-9018-edcbab6391b0",
+        "c35c8434-3066-4a66-bf04-be109426f122",
+        "9ea8ef2e-e112-469f-a60b-73cd08039972"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7221e84f-d20e-4018-bdb2-b54c8e772824",
+      "dutyDetail": "Contribute to reviewing and refreshing menus and improving the culinary offer",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "04b98e62-245d-484f-9df3-b845cdaa24fc",
+        "bebb57d8-ee39-414e-b10d-17cee751bf00",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+        "7e1ae102-92a6-47d3-a7c7-94ba86b8cc62",
+        "e8391e66-cd9f-4374-bf9e-20aa7782ef08",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "670efa19-8d40-4d65-96c7-66e87028e888",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "328d262e-e407-4a12-9006-001df63f31b1",
+        "d9c9b019-de01-4687-82c5-f0b8a894b2c7",
+        "45b43442-e71a-47e1-960b-476aa71d5805"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26e4e365-cdae-4eda-b7b8-0b799e71db29",
+      "dutyDetail": "Develop own skills and knowledge through training and experiences",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "04b98e62-245d-484f-9df3-b845cdaa24fc",
+        "ad07f60f-5b9d-4b23-a3a0-5be6bc702338",
+        "353d034d-247a-4757-9803-1119f63daf17",
+        "3f6ad09a-da21-4728-861e-634ad2bf92f9"
+      ],
+      "mappedKnowledge": [
+        "09f3a8d4-3d7c-4658-8b58-6fba5385c8b2",
+        "f3947f6a-5765-485d-9011-9968802d373b",
+        "331c0457-a91d-40d5-a390-ec33f24603bf",
+        "670efa19-8d40-4d65-96c7-66e87028e888",
+        "169cfa22-6b8e-4919-9c19-c4cdf7c34d2e",
+        "2a0aaf6b-9e9a-4c0c-93fd-7d090fde4c1a",
+        "bdcfdab4-98c4-4267-9e72-15218bda293f",
+        "0a3dc18a-0ed4-4498-93a3-b18435375a9c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "328d262e-e407-4a12-9006-001df63f31b1",
+        "3b45672d-ec4c-4a23-9018-edcbab6391b0",
+        "45b43442-e71a-47e1-960b-476aa71d5805",
+        "c35c8434-3066-4a66-bf04-be109426f122"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2023-06-26T00:00:00"
+}
