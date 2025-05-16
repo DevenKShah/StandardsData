@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 61,
   "referenceNumber": "ST0113",
+  "learningAimClassCode": "",
   "title": "Dental nurse (integrated)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/61",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0113",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard and end-point assessment plan revised.",
-  "changedDate": "2021-03-29T00:00:00",
+  "changedDate": "2022-06-30T00:00:00",
   "earliestStartDate": "2020-12-02T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-06-30T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assisting other dental health professionals, providing chair side support and a high level of patient care.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "dental",
@@ -28,12 +34,11 @@
     "Dental nurse"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5015/st0113_dental_nurse_l3_ap-adjustment-for-publication_25032021.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5015/st0113_dental_nurse_l3_ap-adjustment-for-publication_25032021.pdf",
   "ssa1": "1 Health, Public Services and Care",
-  "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
+  "ssa2": "1.3 Health and social care",
   "version": "1.2",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in healthcare under the profession of dentistry. Dental nurses work in a clinical environment that could be located in a NHS general dental practice, hospital, private dental practice, specialist dental practice, community dental service or military dental clinic. The clinical environment is called a dental surgery and consists of a dental chair, x-ray unit and various equipment and instruments required for dentistry. An apprentice will predominately work with a dentist, dental hygienist, dental therapist, clinical dental technician or orthodontic therapist within a surgery environment with patients attending throughout the day. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide chair side support to all dental professionals and ensure high standards of cleanliness and infection control. Dental nurses prepare instruments, materials and medicaments for dental procedures, mix materials, sterilise instruments, keep records, note dictation, carry out stock control and ensure patient comfort and safety throughout their visit.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with patients of all ages, other members of the dental team, other health professionals and representatives of organisations providing support services to the setting. Depending on the dental setting the dental nurse could also interact with schools, the prison service, community dental service, individuals in their own homes and those in care home settings. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for providing care for people of all ages, different backgrounds, cultures and beliefs within a variety of clinical environments. Dental nurses must ensure that they only carry out a task, treatment or make decisions about a patient’s care if they are appropriately trained, competent, indemnified and have the necessary skills. Dental nurses are registered professionals and work within the standards and scope of practice as defined by the General Dental Council Scope of Practice document.&lt;/p&gt;",
   "knowledges": [
     {
@@ -321,45 +326,56 @@
       "detail": "Be collaborative and work as part of the team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2015-11-12T00:00:00 +00:00",
   "integratedApprenticeship": true,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0053",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Genix Healthcare, 211 Dental, 543 Dental Care Centre Ltd, Azam & Associates Healthcare Ltd, Bupa Dental Services, Den Dental Group Practices Ltd, Integrated Dental Holdings, Oasis Healthcare Ltd, Rodericks Dental, Smile Care Group, Acodent Dental Laboratory, Aesthetic Dental Laboratory, Bremandent Premier (Bristol) Ltd, CosTech Elite, Knight Dental Design, Optimum Dental Laboratories, PDS Dental Laboratory, A S Harrison Lab Ltd, S4S (UK) Ltd, Sparkle Dental Labs",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "General Dental Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Dental nurse"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Health Assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2020-12-02T15:49:26 +00:00",
-  "lastUpdated": "2020-12-02T15:49:26 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dental-nurse-(integrated)-v1-2#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dental-nurse-(integrated)-v1-2",
+  "lastUpdated": "2022-06-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-11-12T00:00:00 +00:00",
+  "banners": "A temporary dispensation has been applied to the assessment plan version ST0113/AP04 for this apprenticeship. The dispensation will last until the revised EPA plan is published but may be withdrawn if the assessment plan is revised sooner or the dispensation is no longer necessary.End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider.\nThis dispensation will allow apprentices who registered on the 5234-01 programme between 2nd December 2020 and 28th January 2021 to undertake the retired AP02 (non-integrated) apprenticeship. The dispensation will be valid for this cohort of apprentices only. Apprentices registered on 5234-01 between 2nd December 2020 and 28th January 2021 who want to undertake the new assessment plan (AP03) can transfer to 4238-12 and AP03. Starts on or after 29 January 2021 must be on 4238-12 and AP03 (integrated).",
+  "occupationCode": "OCC0113",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0113-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0113-v1-2",
   "qualifications": [
     {
       "qualificationId": "1643b9e4-a9ae-43dd-9c7d-84394dabaf2b",
       "title": " A level 3 qualification which has been approved by the General Dental Council as meeting the requirements for entry to the professional register as a dental nurse.",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -385,7 +401,7 @@
         "1ebfc7b4-f39c-4dbe-8a48-751cd59fcc45",
         "c59af126-a12c-4183-996c-4ab29f2ed425"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d4ac4cd-0f95-43ad-975d-95ac13f1374c",
         "9b0b6bc9-fd6d-458b-bc17-894fe1720d2e",
@@ -409,7 +425,7 @@
         "c0a699ef-c79e-4abc-9ecc-8a631e3ad35b",
         "a231bc16-ca69-4a34-b3e4-bb09ac14efc4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5ca358ac-ab90-46d2-a32b-a06596a8a8cc",
         "e34c4ea2-0841-4414-a3aa-d77520b230d3",
@@ -431,7 +447,7 @@
         "af3f40e2-6bac-40fb-a07f-1cf910673ead",
         "988d0791-3f16-4daa-a600-463d6b61a9e8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d57d70b5-8f3e-4c8e-90af-4edb51ac2b01",
         "15d4697f-a30b-495f-9557-706877ec69ee",
@@ -452,7 +468,7 @@
         "56c85ae9-f4d6-4646-b9db-39937d441473",
         "7a10c769-ac04-44ff-bb5f-4c4f3f72c774"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "39a9e235-6bbe-4c24-8beb-ce31a1a6ba8f"
       ],
@@ -470,7 +486,7 @@
         "22a88dde-a97a-4889-9221-80f21fa53c88",
         "89efb3e4-9ea2-4de1-997a-92efaad01d2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15d4697f-a30b-495f-9557-706877ec69ee",
         "ab36b0fe-e4bf-46af-86b2-70acbfa2b610"
@@ -490,7 +506,7 @@
         "c35dd081-d56a-4fda-9fc2-8791d63edb05",
         "652c8ef4-9fcf-416b-a32b-865b679fd95c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f876fbb8-07b7-43be-ae2f-bf5ebfaccef3",
         "91decdce-c3af-4ba6-97ba-79d3333c311f"
@@ -509,7 +525,7 @@
         "cacec684-837b-46da-9622-169abc29d037",
         "98b7094a-790a-4742-acd8-5d015dac0899"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e2fbe9a5-5219-4944-b17f-4b99da23fc71",
         "e7ae14be-ad4f-4751-9f62-7d92d36b41f0"
@@ -528,7 +544,7 @@
         "db660b94-636b-4dad-8065-75d6576c7993",
         "7f61b173-e157-4e96-b9e6-98e27650e075"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "467a16e1-5464-4de2-a014-1f8e8697a2e7"
       ],
@@ -548,7 +564,7 @@
         "a5b6e7e2-d602-4dc1-9778-746566cff96a",
         "ba33dca3-7fe6-4b9a-b97e-d3403f63907a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b2351d9-c08b-405c-b048-0f679c54aecc",
         "aeb37dbd-16c9-464c-9e28-bfd773a8f761"
@@ -570,7 +586,7 @@
         "1c52a4eb-670b-468c-8ca7-1ebe0b4e86ba",
         "e574c0b9-8451-4aa4-afd8-8ff857c54717"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ad9f4934-ee1d-4a51-b338-a9006613dc51",
         "c89239dd-6871-4497-98b4-b487ba07a525",
@@ -593,7 +609,7 @@
         "a0812260-b913-4ef3-8c82-251a0d10d366",
         "a4b933d2-45ea-4dfd-bfa1-0b28c088b5e8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4e78aca8-ffa9-457c-913d-f257b50fb069",
         "1d352acb-3911-4b99-bfb8-9eb519316e1c"
@@ -601,10 +617,16 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-06-30T00:00:00"
 }
