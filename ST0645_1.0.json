@@ -1,69 +1,348 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 285,
   "referenceNumber": "ST0645",
+  "learningAimClassCode": "",
   "title": "Train driver",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/285",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0645",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2023-01-05T00:00:00",
   "earliestStartDate": "2018-06-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Responsible for driving trains in a safe, punctual, economic manner over various routes.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
   "keywords": [
     "Train driver",
-    "transport"
+    "transport",
+    "operational",
+    "customer service",
+    "communication"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "On-track machine driver",
+    "Freight train driver",
+    "Depot driver",
+    "Passenger train driver"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1901/st0645_train-driver_l3_updated-07-06-18-clean.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1901/st0645_train-driver_l3_updated-07-06-18-clean.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.0",
-  "standardInformation": "&lt;h3&gt;Typical Job Titles&lt;/h3&gt;\r\n&lt;p&gt;Passenger train driver, Depot driver, Freight train driver and On-track machine driver&lt;/p&gt;\r\n&lt;h3&gt;Occupational Profile&lt;/h3&gt;\r\n&lt;p&gt;Train Drivers are responsible for driving trains in a safe, punctual, economic manner over various routes in accordance with rail rules, regulations and procedures. A Train Driver could work in a number of rail environments, such as high speed, passenger, freight, underground, metro, suburban, cross border, depots, sidings or maintenance sheds; moving passengers, goods, empty coaching stock or driving on-track machines to perform infrastructure maintenance work.&lt;/p&gt;\r\n&lt;p&gt;Train Drivers can be required to work for long periods of time on their own, they must be able to maintain a high level of concentration and be able to make instant complex decisions quickly during normal and degraded conditions e.g. severe weather conditions, infrastructure failures and emergency working. They must be able to communicate clearly and accurately with stakeholders and may be required to supervise others to enable compliance with regulations through safe and effective rail operation. A driver has overall responsibilities for passengers, staff and goods on the train. Responsibilities may include communicating with: the signaller, crossing attendant, operations control, other rail industry personnel or the British Transport and the civilian police.&lt;/p&gt;\r\n&lt;p&gt;A Train Driver will work shifts that include weekends, evenings and nights. On freight or engineering trains, train drivers usually tend to be rostered more night shifts. On long-distance routes, there may be a need for overnight stays.&lt;/p&gt;\r\n&lt;p&gt;Main duties typically include:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Responsibility for ensuring the train is fit to enter into service&lt;/li&gt;\r\n&lt;li&gt;Driving the train safely and to time at all times&lt;/li&gt;\r\n&lt;li&gt;Being fully up to date with the route features and how to react to changing conditions&lt;/li&gt;\r\n&lt;li&gt;Ensuring the correct protocol is followed consistently throughout the duration of the journey&lt;/li&gt;\r\n&lt;li&gt;Dealing with customer enquiries promptly, politely and in the correct manner&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;Train Drivers must have all the following knowledge, skills and behaviours.&lt;/p&gt;\r\n&lt;table&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td style=&quot;width: 20%;&quot;&gt;&#160;&lt;/td&gt;\r\n&lt;th&gt;&lt;strong&gt;Knowledge and understanding&lt;/strong&gt;&lt;/th&gt;\r\n&lt;th&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Safety&lt;/td&gt;\r\n&lt;td&gt;A good understanding of relevant health and safety legislation, statutory operating regulations within own role and organisation and how to monitor it. E.g. industry procedures and safety requirements and instructions.&lt;/td&gt;\r\n&lt;td&gt;Continuously monitor area of responsibility to ensure compliance with rail legislation and organisational procedures. Overall responsibility of passengers, staff and goods to enable compliance with regulations through safe and effective rail operation. Constructively challenge unsafe practice at all levels and report through the necessary channels.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Security&lt;/td&gt;\r\n&lt;td&gt;Requirements and process for ensuring rail safety and security on the line, trains and at stations and depots. E.g. evacuation points.&lt;/td&gt;\r\n&lt;td&gt;Constantly maintain a secure environment and respond to security issues and take appropriate action in the event of a breach of security and review how effective the methods and actions have been e.g. safe systems of work, closing gates and doors when entering secured premises, securing cab doors when leaving trains on main lines and stations.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Compliance and Legislation&lt;/td&gt;\r\n&lt;td&gt;Knowledge of legislation, in-depth understanding and competency in the rules applicable to rail operation, safety and licensing and certification of train drivers.&lt;/td&gt;\r\n&lt;td&gt;Monitor compliance with legislation, procedures and regulations in a rail environment within own area of responsibility. Continuously keep up to date with all relevant train legislation and retaining vast amounts of information.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Communication&lt;/td&gt;\r\n&lt;td&gt;Knowledge and understanding of procedures and methods, to ensure the transfer of information to different stakeholders e.g. using report forms, phonetic alphabet, codes and numbering.&lt;/td&gt;\r\n&lt;td&gt;Clearly and accurately carry out verbal communications, face to face and by using written methods and procedures e.g. using the PA system or train radio.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Leadership&lt;/td&gt;\r\n&lt;td&gt;Understanding of the importance of making accurate, timely decisions and know how to lead and manage operational incidents and emergencies during degraded and emergency working. Understanding of their role within the incident response teams and emergency services.&lt;/td&gt;\r\n&lt;td&gt;Follow procedures to lead and manage incidents and emergencies until incident response teams arrive onsite e.g. overall responsibility for protecting passengers, other staff the train when deciding which line/s are blocked and making a decision as to which line/s to protect first.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Inter-personal skills&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;A sound awareness of the specific professional and personal demands, such as working alone, with others, shift work over a 24-hour cycle, individual protection and security, reading and updating documents.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;Considers and responds appropriately to the needs and safety of themselves and others e.g. wears appropriate personal protective equipment, uses authorised walking routes, informs all relevant parties of hazards when these are observed.&lt;/p&gt;\r\nSupports other colleagues in demanding work situations e.g. be cooperative and give guidance to colleagues and managers and communicate effectively.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Driving&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;An in-depth working knowledge of the trains to be driven e.g. bringing a train into service, shunting operations, operating, stopping and taking a train out of service.&lt;/p&gt;\r\nAn in-depth understanding of how to mobilise and immobilise, identify faults or errors and any remedial action to be taken.&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;Make instant complex autonomous decisions during normal, degraded and emergency working.&lt;/p&gt;\r\n&lt;p&gt;Check and monitor rail systems effectively, diagnosing and resolving problems upon identification of faults or errors in a timely manner to minimise risk and a delay to services. Remain alert at all times and have the ability to perceive any hazards, which may occur during the journey.&lt;/p&gt;\r\nLocate and prepare trains for service, marshal and shunt trains, drive trains on main lines, depots and sidings, deal with operational incidents, emergencies and berth trains.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Train Dispatch&lt;/td&gt;\r\n&lt;td&gt;A thorough knowledge of the procedures associated with train dispatch.&lt;/td&gt;\r\n&lt;td&gt;Dispatch trains under different circumstances e.g. Driver only operated services and guard operated services from staffed and unstaffed stations.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Route Learning&lt;/td&gt;\r\n&lt;td&gt;A thorough knowledge of the principles of route learning.&lt;/td&gt;\r\n&lt;td&gt;Ability to learn and memorise routes features within required timescales e.g. signalling types, principle junctions, tunnels, names of running lines and line-speeds.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Degraded situations&lt;/td&gt;\r\n&lt;td&gt;Recognising when to report a train fault or failure, infrastructure hazard or defective equipment on track or at a station. Fully understand the actions, responsibilities and reporting procedures necessary to minimise the impact to services.&lt;/td&gt;\r\n&lt;td&gt;Make autonomous decisions and work through altered methods of working when in operation, communicate details of the hazard/defective equipment to necessary stakeholders using appropriate methods. Ensure the safe operation of the train in degraded situations and carry out any necessary protection arrangements according to the situation.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Dangerous Goods&lt;/td&gt;\r\n&lt;td&gt;A good understanding of dangerous goods relevant to a range of rail operations and how to convey and deal with them effectively in an emergency.&lt;/td&gt;\r\n&lt;td&gt;Effectively manage dangerous goods in own area of competency, report and protect other lines in a dangerous goods emergency.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Special Conditions of Carriage&lt;/td&gt;\r\n&lt;td&gt;Good knowledge and understanding of the special conditions of carriage relevant to your role.&lt;/td&gt;\r\n&lt;td&gt;Able to identify and comply with relevant special conditions of carriage e.g. speed restrictions, heavy axle weight, dangerous goods, tunnels and bridges.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Commercial Awareness&lt;/td&gt;\r\n&lt;td&gt;Awareness of how the rail industry works, such as; franchising arrangements, railway organisations, rail specific terminology, business goals, personal impact within the company.&lt;/td&gt;\r\n&lt;td&gt;Manage the speed, braking and driving of trains to optimise fuel economy, reduce maintenance costs and minimise financial penalties for late or wrong time arrivals or departures and fail to call at scheduled stops.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Professional Development&lt;/td&gt;\r\n&lt;td&gt;A good understanding of professional development planning and responsibilities for maintaining personal competency.&lt;/td&gt;\r\n&lt;td&gt;Identify and manage individual development needs, maintain and develop skills, knowledge and behaviours, in compliance with the competency management system.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Health and Wellbeing&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;Understanding of the risk of ill health and the impact of wellbeing on the safety of an individual, others at work and the public.&lt;/p&gt;\r\nUnderstanding strategies for fatigue management e.g. sleep quality and environment, healthy lifestyle, diet, time and stress management.&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;Manage own fitness and lifestyle to enable work to be carried out competently in order to reduce the risk to health and safety to self and all stakeholders.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td&gt;Customers&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;A good understanding of information relating to company products and services.&lt;/p&gt;\r\nUnderstanding how to recognise both company internal and external customers, focusing on the manner in which the message is delivered.&lt;/td&gt;\r\n&lt;td&gt;\r\n&lt;p&gt;Deal with customer enquiries promptly and politely and in the correct manner.&lt;/p&gt;\r\nRedirect customer complaints and/or enquiries using the correct wording and tone to the appropriate personnel when unable to personally deal with them.&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Act professionally, demonstrating dependability, determination, honesty and integrity&lt;/li&gt;\r\n&lt;li&gt;Display a self-disciplined, self-motivated, proactive approach to work and your own health and wellbeing&lt;/li&gt;\r\n&lt;li&gt;Be risk aware, mitigate risks by checking information, concentrating on the task, maintaining an awareness of changing circumstances and remaining calm under pressure&lt;/li&gt;\r\n&lt;li&gt;Willing to learn new skills and to adjust to change&lt;/li&gt;\r\n&lt;li&gt;Be approachable, respect others, act ethically and contribute to sustainable development&lt;/li&gt;\r\n&lt;li&gt;Always seeks to support business goals and maintain an awareness of economic challenges&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Entry requirements&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Individual employers must meet minimum requirements set by the Train Driving Licences and Certificates Regulations 2010; due to the nature of the role candidates must meet medical standards of physical health these are set out within the above regulations. To enter into an apprenticeship scheme the minimum age of a train driver is 18 years.&lt;/p&gt;\r\n&lt;h3&gt;Duration&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship will require rigorous and substantial training, typically of around 12-18 months, depending on experience at entry.&lt;/p&gt;\r\n&lt;h3&gt;Qualifications&lt;/h3&gt;\r\n&lt;p&gt;Apprentices without Level 2 English, maths and ICT will need to achieve this level prior to taking the end-point assessment.&lt;/p&gt;\r\n&lt;p&gt;For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&#160;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Link to Professional Registration &lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The Institution of Railway Operators and the Chartered Institute of Logistics and Transport supports the development of this apprenticeship standard. Successful completion of the apprenticeship programme allows them to progress to the Associate or Affiliate level of professional registration.&lt;/p&gt;\r\n&lt;h3&gt;Level&lt;/h3&gt;\r\n&lt;p&gt;This is a level 3 apprenticeship&lt;/p&gt;\r\n&lt;h3&gt;Progression&lt;/h3&gt;\r\n&lt;p&gt;Progression from this apprenticeship is expected to lead to a number of different roles these include; Train Driver Instructor, progressing to Train Driver Manager, Depot Driver Team Leader, progressing to Depot Delivery Co-Ordinator.&lt;/p&gt;\r\n&lt;h3&gt;Review date&lt;/h3&gt;\r\n&lt;p&gt;This Standard will be reviewed in 3 years&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;h3&gt;Typical Job Titles&lt;/h3&gt;\n&lt;p&gt;Passenger train driver, Depot driver, Freight train driver and On-track machine driver&lt;/p&gt;\n&lt;h3&gt;Occupational Profile&lt;/h3&gt;\n&lt;p&gt;Train Drivers are responsible for driving trains in a safe, punctual, economic manner over various routes in accordance with rail rules, regulations and procedures. A Train Driver could work in a number of rail environments, such as high speed, passenger, freight, underground, metro, suburban, cross border, depots, sidings or maintenance sheds; moving passengers, goods, empty coaching stock or driving on-track machines to perform infrastructure maintenance work.&lt;/p&gt;\n&lt;p&gt;Train Drivers can be required to work for long periods of time on their own, they must be able to maintain a high level of concentration and be able to make instant complex decisions quickly during normal and degraded conditions e.g. severe weather conditions, infrastructure failures and emergency working. They must be able to communicate clearly and accurately with stakeholders and may be required to supervise others to enable compliance with regulations through safe and effective rail operation. A driver has overall responsibilities for passengers, staff and goods on the train. Responsibilities may include communicating with: the signaller, crossing attendant, operations control, other rail industry personnel or the British Transport and the civilian police.&lt;/p&gt;\n&lt;p&gt;A Train Driver will work shifts that include weekends, evenings and nights. On freight or engineering trains, train drivers usually tend to be rostered more night shifts. On long-distance routes, there may be a need for overnight stays.&lt;/p&gt;\n&lt;p&gt;Main duties typically include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Responsibility for ensuring the train is fit to enter into service&lt;/li&gt;\n&lt;li&gt;Driving the train safely and to time at all times&lt;/li&gt;\n&lt;li&gt;Being fully up to date with the route features and how to react to changing conditions&lt;/li&gt;\n&lt;li&gt;Ensuring the correct protocol is followed consistently throughout the duration of the journey&lt;/li&gt;\n&lt;li&gt;Dealing with customer enquiries promptly, politely and in the correct manner&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Train Drivers must have all the following knowledge, skills and behaviours.&lt;/p&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td style=&quot;width: 20%;&quot;&gt;&amp;nbsp;&lt;/td&gt;\n&lt;th&gt;&lt;strong&gt;Knowledge and understanding&lt;/strong&gt;&lt;/th&gt;\n&lt;th&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Safety&lt;/td&gt;\n&lt;td&gt;A good understanding of relevant health and safety legislation, statutory operating regulations within own role and organisation and how to monitor it. E.g. industry procedures and safety requirements and instructions.&lt;/td&gt;\n&lt;td&gt;Continuously monitor area of responsibility to ensure compliance with rail legislation and organisational procedures. Overall responsibility of passengers, staff and goods to enable compliance with regulations through safe and effective rail operation. Constructively challenge unsafe practice at all levels and report through the necessary channels.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Security&lt;/td&gt;\n&lt;td&gt;Requirements and process for ensuring rail safety and security on the line, trains and at stations and depots. E.g. evacuation points.&lt;/td&gt;\n&lt;td&gt;Constantly maintain a secure environment and respond to security issues and take appropriate action in the event of a breach of security and review how effective the methods and actions have been e.g. safe systems of work, closing gates and doors when entering secured premises, securing cab doors when leaving trains on main lines and stations.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Compliance and Legislation&lt;/td&gt;\n&lt;td&gt;Knowledge of legislation, in-depth understanding and competency in the rules applicable to rail operation, safety and licensing and certification of train drivers.&lt;/td&gt;\n&lt;td&gt;Monitor compliance with legislation, procedures and regulations in a rail environment within own area of responsibility. Continuously keep up to date with all relevant train legislation and retaining vast amounts of information.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Communication&lt;/td&gt;\n&lt;td&gt;Knowledge and understanding of procedures and methods, to ensure the transfer of information to different stakeholders e.g. using report forms, phonetic alphabet, codes and numbering.&lt;/td&gt;\n&lt;td&gt;Clearly and accurately carry out verbal communications, face to face and by using written methods and procedures e.g. using the PA system or train radio.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Leadership&lt;/td&gt;\n&lt;td&gt;Understanding of the importance of making accurate, timely decisions and know how to lead and manage operational incidents and emergencies during degraded and emergency working. Understanding of their role within the incident response teams and emergency services.&lt;/td&gt;\n&lt;td&gt;Follow procedures to lead and manage incidents and emergencies until incident response teams arrive onsite e.g. overall responsibility for protecting passengers, other staff the train when deciding which line/s are blocked and making a decision as to which line/s to protect first.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Inter-personal skills&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;A sound awareness of the specific professional and personal demands, such as working alone, with others, shift work over a 24-hour cycle, individual protection and security, reading and updating documents.&lt;/p&gt;\n&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Considers and responds appropriately to the needs and safety of themselves and others e.g. wears appropriate personal protective equipment, uses authorised walking routes, informs all relevant parties of hazards when these are observed.&lt;/p&gt;\nSupports other colleagues in demanding work situations e.g. be cooperative and give guidance to colleagues and managers and communicate effectively.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Driving&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;An in-depth working knowledge of the trains to be driven e.g. bringing a train into service, shunting operations, operating, stopping and taking a train out of service.&lt;/p&gt;\nAn in-depth understanding of how to mobilise and immobilise, identify faults or errors and any remedial action to be taken.&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Make instant complex autonomous decisions during normal, degraded and emergency working.&lt;/p&gt;\n&lt;p&gt;Check and monitor rail systems effectively, diagnosing and resolving problems upon identification of faults or errors in a timely manner to minimise risk and a delay to services. Remain alert at all times and have the ability to perceive any hazards, which may occur during the journey.&lt;/p&gt;\nLocate and prepare trains for service, marshal and shunt trains, drive trains on main lines, depots and sidings, deal with operational incidents, emergencies and berth trains.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Train Dispatch&lt;/td&gt;\n&lt;td&gt;A thorough knowledge of the procedures associated with train dispatch.&lt;/td&gt;\n&lt;td&gt;Dispatch trains under different circumstances e.g. Driver only operated services and guard operated services from staffed and unstaffed stations.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Route Learning&lt;/td&gt;\n&lt;td&gt;A thorough knowledge of the principles of route learning.&lt;/td&gt;\n&lt;td&gt;Ability to learn and memorise routes features within required timescales e.g. signalling types, principle junctions, tunnels, names of running lines and line-speeds.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Degraded situations&lt;/td&gt;\n&lt;td&gt;Recognising when to report a train fault or failure, infrastructure hazard or defective equipment on track or at a station. Fully understand the actions, responsibilities and reporting procedures necessary to minimise the impact to services.&lt;/td&gt;\n&lt;td&gt;Make autonomous decisions and work through altered methods of working when in operation, communicate details of the hazard/defective equipment to necessary stakeholders using appropriate methods. Ensure the safe operation of the train in degraded situations and carry out any necessary protection arrangements according to the situation.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Dangerous Goods&lt;/td&gt;\n&lt;td&gt;A good understanding of dangerous goods relevant to a range of rail operations and how to convey and deal with them effectively in an emergency.&lt;/td&gt;\n&lt;td&gt;Effectively manage dangerous goods in own area of competency, report and protect other lines in a dangerous goods emergency.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Special Conditions of Carriage&lt;/td&gt;\n&lt;td&gt;Good knowledge and understanding of the special conditions of carriage relevant to your role.&lt;/td&gt;\n&lt;td&gt;Able to identify and comply with relevant special conditions of carriage e.g. speed restrictions, heavy axle weight, dangerous goods, tunnels and bridges.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Commercial Awareness&lt;/td&gt;\n&lt;td&gt;Awareness of how the rail industry works, such as; franchising arrangements, railway organisations, rail specific terminology, business goals, personal impact within the company.&lt;/td&gt;\n&lt;td&gt;Manage the speed, braking and driving of trains to optimise fuel economy, reduce maintenance costs and minimise financial penalties for late or wrong time arrivals or departures and fail to call at scheduled stops.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Professional Development&lt;/td&gt;\n&lt;td&gt;A good understanding of professional development planning and responsibilities for maintaining personal competency.&lt;/td&gt;\n&lt;td&gt;Identify and manage individual development needs, maintain and develop skills, knowledge and behaviours, in compliance with the competency management system.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Health and Wellbeing&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Understanding of the risk of ill health and the impact of wellbeing on the safety of an individual, others at work and the public.&lt;/p&gt;\nUnderstanding strategies for fatigue management e.g. sleep quality and environment, healthy lifestyle, diet, time and stress management.&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Manage own fitness and lifestyle to enable work to be carried out competently in order to reduce the risk to health and safety to self and all stakeholders.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td&gt;Customers&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;A good understanding of information relating to company products and services.&lt;/p&gt;\nUnderstanding how to recognise both company internal and external customers, focusing on the manner in which the message is delivered.&lt;/td&gt;\n&lt;td&gt;\n&lt;p&gt;Deal with customer enquiries promptly and politely and in the correct manner.&lt;/p&gt;\nRedirect customer complaints and/or enquiries using the correct wording and tone to the appropriate personnel when unable to personally deal with them.&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Act professionally, demonstrating dependability, determination, honesty and integrity&lt;/li&gt;\n&lt;li&gt;Display a self-disciplined, self-motivated, proactive approach to work and your own health and wellbeing&lt;/li&gt;\n&lt;li&gt;Be risk aware, mitigate risks by checking information, concentrating on the task, maintaining an awareness of changing circumstances and remaining calm under pressure&lt;/li&gt;\n&lt;li&gt;Willing to learn new skills and to adjust to change&lt;/li&gt;\n&lt;li&gt;Be approachable, respect others, act ethically and contribute to sustainable development&lt;/li&gt;\n&lt;li&gt;Always seeks to support business goals and maintain an awareness of economic challenges&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Entry requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers must meet minimum requirements set by the Train Driving Licences and Certificates Regulations 2010; due to the nature of the role candidates must meet medical standards of physical health these are set out within the above regulations. To enter into an apprenticeship scheme the minimum age of a train driver is 18 years.&lt;/p&gt;\n&lt;h3&gt;Duration&lt;/h3&gt;\n&lt;p&gt;This apprenticeship will require rigorous and substantial training, typically of around 12-18 months, depending on experience at entry.&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;Apprentices without Level 2 English, maths and ICT will need to achieve this level prior to taking the end-point assessment.&lt;/p&gt;\n&lt;p&gt;For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Link to Professional Registration &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The Institution of Railway Operators and the Chartered Institute of Logistics and Transport supports the development of this apprenticeship standard. Successful completion of the apprenticeship programme allows them to progress to the Associate or Affiliate level of professional registration.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This is a level 3 apprenticeship&lt;/p&gt;\n&lt;h3&gt;Progression&lt;/h3&gt;\n&lt;p&gt;Progression from this apprenticeship is expected to lead to a number of different roles these include; Train Driver Instructor, progressing to Train Driver Manager, Depot Driver Team Leader, progressing to Depot Delivery Co-Ordinator.&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;This Standard will be reviewed in 3 years&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Train Drivers are responsible for driving trains in a safe, punctual, economic manner over various routes in accordance with rail rules, regulations and procedures. A Train Driver could work in a number of rail environments, such as high speed, passenger, freight, underground, metro, suburban, cross border, depots, sidings or maintenance sheds; moving passengers, goods, empty coaching stock or driving on-track machines to perform infrastructure maintenance work. Train Drivers can be required to work for long periods of time on their own, they must be able to maintain a high level of concentration and be able to make instant complex decisions quickly during normal and degraded conditions e.g. severe weather conditions, infrastructure failures and emergency working. They must be able to communicate clearly and accurately with stakeholders and may be required to supervise others to enable compliance with regulations through safe and effective rail operation. A driver has overall responsibilities for passengers, staff and goods on the train. Responsibilities may include communicating with: the signaller, crossing attendant, operations control, other rail industry personnel or the British Transport and the civilian police. A Train Driver will work shifts that include weekends, evenings and nights. On freight or engineering trains, train drivers usually tend to be rostered more night shifts. On long-distance routes, there may be a need for overnight stays.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f787293e-15ae-4801-b6a6-67463f85c0ef",
+      "detail": "Safety"
+    },
+    {
+      "knowledgeId": "a94a7f01-26cb-4933-b3a8-0247a414db86",
+      "detail": "A good understanding of relevant health and safety legislation, statutory operating regulations within own role and organisation and how to monitor it. E.g. industry procedures and safety requirements and instructions."
+    },
+    {
+      "knowledgeId": "86abc7e7-de8e-4244-81b7-2ec58ded2f90",
+      "detail": "Security"
+    },
+    {
+      "knowledgeId": "a3406bab-58a3-4b94-a91b-c4cd9c650e8f",
+      "detail": "Requirements and process for ensuring rail safety and security on the line, trains and at stations and depots. E.g. evacuation points."
+    },
+    {
+      "knowledgeId": "94a12927-6626-47e5-9842-14988526b109",
+      "detail": "Compliance and Legislation"
+    },
+    {
+      "knowledgeId": "5622f2fa-3648-4cc9-bb86-dbaaf2d43924",
+      "detail": "Knowledge of legislation, in-depth understanding and competency in the rules applicable to rail operation, safety and licensing and certification of train drivers."
+    },
+    {
+      "knowledgeId": "d37eb9be-f409-47f4-9dec-97d1b9b9c4c7",
+      "detail": "Communication"
+    },
+    {
+      "knowledgeId": "e8f2c57a-d25e-40b4-82de-b0dc02bc2e5a",
+      "detail": "Knowledge and understanding of procedures and methods, to ensure the transfer of information to different stakeholders e.g. using report forms, phonetic alphabet, codes and numbering."
+    },
+    {
+      "knowledgeId": "03151982-e7d7-49ce-93cc-0aecf491bf88",
+      "detail": "Leadership"
+    },
+    {
+      "knowledgeId": "de67066a-c09d-49ff-a108-76967c0a7d1e",
+      "detail": "Understanding of the importance of making accurate, timely decisions and know how to lead and manage operational incidents and emergencies during degraded and emergency working. Understanding of their role within the incident response teams and emergency services."
+    },
+    {
+      "knowledgeId": "ad95dd49-be31-44be-a57c-e6f793062a0e",
+      "detail": "Inter-personal skills"
+    },
+    {
+      "knowledgeId": "8a048561-8dc0-4f4b-8453-1d7640e01056",
+      "detail": "A sound awareness of the specific professional and personal demands, such as working alone, with others, shift work over a 24-hour cycle, individual protection and security, reading and updating documents"
+    },
+    {
+      "knowledgeId": "32a99227-0aa1-46c3-a4e5-a9b7fe579326",
+      "detail": "Driving"
+    },
+    {
+      "knowledgeId": "4f81d88e-ae24-4082-9cfb-184354edf951",
+      "detail": "An in-depth working knowledge of the trains to be driven e.g. bringing a train into service, shunting operations, operating, stopping and taking a train out of service."
+    },
+    {
+      "knowledgeId": "173a5614-0805-4191-a936-8eadf542d65a",
+      "detail": "An in-depth understanding of how to mobilise and immobilise, identify faults or errors and any remedial action to be taken."
+    },
+    {
+      "knowledgeId": "575531a0-32d6-4aa7-9f2e-054caccf4a4b",
+      "detail": "Train Dispatch"
+    },
+    {
+      "knowledgeId": "0f59b6e9-b3aa-4d21-b6cf-a036d043292b",
+      "detail": "A thorough knowledge of the procedures associated with train dispatch."
+    },
+    {
+      "knowledgeId": "8bf6541f-e6b4-4d78-874b-c1c7d917568f",
+      "detail": "Route Learning"
+    },
+    {
+      "knowledgeId": "3f5dd80c-2a48-4732-ae9d-93e74f5163b8",
+      "detail": "A thorough knowledge of the principles of route learning."
+    },
+    {
+      "knowledgeId": "bfd14251-2812-498b-a29b-c9905cf9b809",
+      "detail": "Degraded situations"
+    },
+    {
+      "knowledgeId": "39e23334-ce5e-416b-847a-d748698f2cdf",
+      "detail": "Recognising when to report a train fault or failure, infrastructure hazard or defective equipment on track or at a station. Fully understand the actions, responsibilities and reporting procedures necessary to minimise the impact to services."
+    },
+    {
+      "knowledgeId": "ebb15016-1073-4d8c-8a05-07f518009455",
+      "detail": "Dangerous Goods"
+    },
+    {
+      "knowledgeId": "fa0c0162-9a53-409f-919c-257a594e552b",
+      "detail": "A good understanding of dangerous goods relevant to a range of rail operations and how to convey and deal with them effectively in an emergency."
+    },
+    {
+      "knowledgeId": "e910579d-8a5f-40f3-b271-4e9505fb226f",
+      "detail": "Special Conditions of Carriage"
+    },
+    {
+      "knowledgeId": "5d0ef150-e033-4d91-af42-3b5ece6e8f1c",
+      "detail": "Good knowledge and understanding of the special conditions of carriage relevant to your role."
+    },
+    {
+      "knowledgeId": "23fc0680-bf82-4bf7-963f-ce0a37efcbfe",
+      "detail": "Commercial Awareness"
+    },
+    {
+      "knowledgeId": "0c3d3ff2-19f2-4f80-970e-23a93f6d200f",
+      "detail": "Awareness of how the rail industry works, such as; franchising arrangements, railway organisations, rail specific terminology, business goals, personal impact within the company."
+    },
+    {
+      "knowledgeId": "0a4b9de3-8d6f-48bf-b235-88a9d6668832",
+      "detail": "Professional Development"
+    },
+    {
+      "knowledgeId": "aa4121d1-c658-4a5f-b1a8-1a735e3b389c",
+      "detail": "A good understanding of professional development planning and responsibilities for maintaining personal competency."
+    },
+    {
+      "knowledgeId": "d43ca5c1-d0a3-4e4d-abe7-e6e3425b8d33",
+      "detail": "Health and Wellbeing"
+    },
+    {
+      "knowledgeId": "e19c0b7c-c587-44d7-bfd6-a39eb726d561",
+      "detail": "Understanding of the risk of ill health and the impact of wellbeing on the safety of an individual, others at work and the public."
+    },
+    {
+      "knowledgeId": "bb76f2e5-9f5e-4ed0-bc3a-806700664e6d",
+      "detail": "Understanding strategies for fatigue management e.g. sleep quality and environment, healthy lifestyle, diet, time and stress management."
+    },
+    {
+      "knowledgeId": "1faeb7b2-46f6-44f4-87e9-80e3bf717e0f",
+      "detail": "Customers"
+    },
+    {
+      "knowledgeId": "cee22fb1-1e5d-4454-a924-43c08baabde9",
+      "detail": "A good understanding of information relating to company products and services."
+    },
+    {
+      "knowledgeId": "80edcbfe-5992-4e4c-8236-44107c026ffe",
+      "detail": "Understanding how to recognise both company internal and external customers, focusing on the manner in which the message is delivered."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "84c0ca8f-7267-473c-9786-546eb3450515",
+      "detail": "Act professionally, demonstrating dependability, determination, honesty and integrity"
+    },
+    {
+      "behaviourId": "4e9ff92e-1619-4e95-bab5-4a704295d837",
+      "detail": "Display a self-disciplined, self-motivated, proactive approach to work and your own health and wellbeing"
+    },
+    {
+      "behaviourId": "956bd804-f836-4e8e-b0d0-fe7a49cbc227",
+      "detail": "Be risk aware, mitigate risks by checking information, concentrating on the task, maintaining an awareness of changing circumstances and remaining calm under pressure"
+    },
+    {
+      "behaviourId": "c308225e-58ce-4ef8-8ba9-69cbbd669e20",
+      "detail": "Willing to learn new skills and to adjust to change"
+    },
+    {
+      "behaviourId": "164a50c2-3929-4df0-8cd4-aee762d43df4",
+      "detail": "Be approachable, respect others, act ethically and contribute to sustainable development"
+    },
+    {
+      "behaviourId": "f43a4012-630d-4d73-b802-ea41f87cc38b",
+      "detail": "Always seeks to support business goals and maintain an awareness of economic challenges"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0ad29cc2-b015-4a0c-a485-623b0d386f1c",
+      "detail": "Continuously monitor area of responsibility to ensure compliance with rail legislation and organisational procedures. Overall responsibility of passengers, staff and goods to enable compliance with regulations through safe and effective rail operation. Constructively challenge unsafe practice at all levels and report through the necessary channels."
+    },
+    {
+      "skillId": "f9532357-caf4-4971-9dd8-b967a287b613",
+      "detail": "Constantly maintain a secure environment and respond to security issues and take appropriate action in the event of a breach of security and review how effective the methods and actions have been e.g. safe systems of work, closing gates and doors when entering secured premises, securing cab doors when leaving trains on main lines and stations."
+    },
+    {
+      "skillId": "b1954971-9a95-4d22-97f0-a6d923935637",
+      "detail": "Monitor compliance with legislation, procedures and regulations in a rail environment within own area of responsibility. Continuously keep up to date with all relevant train legislation and retaining vast amounts of information."
+    },
+    {
+      "skillId": "f0172325-c9cd-4cda-8857-2d90da02892e",
+      "detail": "Clearly and accurately carry out verbal communications, face to face and by using written methods and procedures e.g. using the PA system or train radio."
+    },
+    {
+      "skillId": "646a3298-aa84-4902-a70e-1686c7992361",
+      "detail": "Follow procedures to lead and manage incidents and emergencies until incident response teams arrive onsite e.g. overall responsibility for protecting passengers, other staff the train when deciding which line/s are blocked and making a decision as to which line/s to protect first."
+    },
+    {
+      "skillId": "bf085f16-2d99-4024-be09-877155cf0bb2",
+      "detail": "Considers and responds appropriately to the needs and safety of themselves and others e.g. wears appropriate personal protective equipment, uses authorised walking routes, informs all relevant parties of hazards when these are observed."
+    },
+    {
+      "skillId": "f8c61000-c784-41a2-b78f-37099aa6b4c9",
+      "detail": "Supports other colleagues in demanding work situations e.g. be cooperative and give guidance to colleagues and managers and communicate effectively."
+    },
+    {
+      "skillId": "9ef37158-f295-48da-bf18-e0a4ef6a6376",
+      "detail": "Make instant complex autonomous decisions during normal, degraded and emergency working."
+    },
+    {
+      "skillId": "314c3285-a358-4b45-8777-464874998543",
+      "detail": "Check and monitor rail systems effectively, diagnosing and resolving problems upon identification of faults or errors in a timely manner to minimise risk and a delay to services. Remain alert at all times and have the ability to perceive any hazards, which may occur during the journey."
+    },
+    {
+      "skillId": "ae4ade8e-156b-4478-9acf-904c58606f71",
+      "detail": "Locate and prepare trains for service, marshal and shunt trains, drive trains on main lines, depots and sidings, deal with operational incidents, emergencies and berth trains."
+    },
+    {
+      "skillId": "f4c792aa-076f-43e5-82e9-2a382582873c",
+      "detail": "\tDispatch trains under different circumstances e.g. Driver only operated services and guard operated services from staffed and unstaffed stations."
+    },
+    {
+      "skillId": "c2d218b6-fb90-4258-a2a3-9b983b623ddd",
+      "detail": "Ability to learn and memorise routes features within required timescales e.g. signalling types, principle junctions, tunnels, names of running lines and line-speeds."
+    },
+    {
+      "skillId": "369708d6-b6e0-47be-b4dd-ee8ce2baba77",
+      "detail": "Make autonomous decisions and work through altered methods of working when in operation, communicate details of the hazard/defective equipment to necessary stakeholders using appropriate methods. Ensure the safe operation of the train in degraded situations and carry out any necessary protection arrangements according to the situation."
+    },
+    {
+      "skillId": "2d886a14-4865-42e7-a461-2bb6f13a7ee8",
+      "detail": "Effectively manage dangerous goods in own area of competency, report and protect other lines in a dangerous goods emergency."
+    },
+    {
+      "skillId": "aea7ee89-91f5-4dd8-a73b-71cfb909f11f",
+      "detail": "Able to identify and comply with relevant special conditions of carriage e.g. speed restrictions, heavy axle weight, dangerous goods, tunnels and bridges."
+    },
+    {
+      "skillId": "4f507fdc-4d56-4599-b6c4-83860d55681b",
+      "detail": "Manage the speed, braking and driving of trains to optimise fuel economy, reduce maintenance costs and minimise financial penalties for late or wrong time arrivals or departures and fail to call at scheduled stops."
+    },
+    {
+      "skillId": "0e55522c-16b2-4872-b97b-54ac429f27c2",
+      "detail": "Identify and manage individual development needs, maintain and develop skills, knowledge and behaviours, in compliance with the competency management system."
+    },
+    {
+      "skillId": "6f7dcbd4-e3ba-4bd8-8c12-991d2e345343",
+      "detail": "Manage own fitness and lifestyle to enable work to be carried out competently in order to reduce the risk to health and safety to self and all stakeholders."
+    },
+    {
+      "skillId": "3924b7bd-5fcc-46c9-a6c2-4047a616bbf0",
+      "detail": "Deal with customer enquiries promptly and politely and in the correct manner"
+    },
+    {
+      "skillId": "3f705c3b-023c-4b3a-984c-b472c497e0bc",
+      "detail": "Redirect customer complaints and/or enquiries using the correct wording and tone to the appropriate personnel when unable to personally deal with them."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-06-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0356",
   "tbMainContact": "Barry.Smith@nsar.co.ukids",
   "involvedEmployers": "East Midlands Trains, Northern Rail, East Midlands Trains, South Western, Southeastern , MTR Crossrail, Virgin East Coast, Virgin West Coast, GWR, DB Cargo, Chiltern Railways, GTR, Arriva Rail London, Grand Central, Greater Anglia Abellio, London Underground, Arriva Trains Wales, Freightliner, Volkerrail, Amey, Colas, DRS",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "On-track machine driver",
+    "Freight train driver",
+    "Depot driver",
+    "Passenger train driver"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Driver/Crewmember",
+  "cluster": "Driver or crewmember",
+  "clusterId": "82",
+  "clusterDescription": null,
   "createdDate": "2018-06-01T09:16:35 +00:00",
-  "lastUpdated": "2018-06-13T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/train-driver-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/train-driver-v1-0",
+  "lastUpdated": "2023-01-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-06-13T00:00:00 +00:00",
+  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.; A temporary dispensation has been applied to the assessment plan version ST0645/AP01 for this apprenticeship. The dispensation will last from 10/11/2023 to 31/12/2025 but may be withdrawn if the assessment plan is revised sooner or the dispensation is no longer necessary.\u202F End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider (EQAP).\u202F The key changes are:\u202F Assessment Method 2 – Planned Working Observation:\u202F The Planned Working part of the observation may be replaced with a witness testimony of observed practice provided by the employer (or employer-provider)\u202FQuestions and answer session with an external assessor will take place.As per the assessment plan, the Degraded Working and Emergency Working parts of the observation are simulated activities. These parts of the observation may be delivered remotely, in line with IfATE’s flexibility framework, but EPAOs must get agreement from their EQAP before implementing this mode of delivery.In addition to this temporary dispensation there is an additional element relating to the mandated Level 2 ICT qualification. For any apprentices registered from 1st August 2023 the gateway requirement for the achievement of the Level 2 ICT mandated qualification will be removed. This will remain in place until the revised version is approved as the revised standard will rework the ICT content into the standard’s KSBs as opposed to mandating a qualification.",
+  "occupationCode": "OCC0645",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0645-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0645-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-01-05T00:00:00"
 }
