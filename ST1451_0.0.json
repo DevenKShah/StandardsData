@@ -1,0 +1,737 @@
+{
+  "templateType": "Apprenticeship Standard",
+  "larsCode": 0,
+  "referenceNumber": "ST1451",
+  "learningAimClassCode": "",
+  "title": "Quarrying and mining blasting operations technician",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1451",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "0001-01-01T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Plan and carry out blasting operations.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 30,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [],
+  "jobRoles": [
+    "Blast engineer",
+    "Explosive supervisor",
+    "Shotfirer"
+  ],
+  "entryRequirements": "&lt;p&gt;&lt;span style=&quot;color: rgba(51, 64, 71, 1); font-family: &quot; open=&quot;&quot; sans&quot;,=&quot;&quot; arial,=&quot;&quot; sans-serif;=&quot;&quot; font-size:=&quot;&quot; 15px;=&quot;&quot; background-color:=&quot;&quot; rgba(255,=&quot;&quot; 255,=&quot;&quot; 1)&quot;=&quot;&quot;&gt;The typical entry point would GCSEs or A-Levels or equivalent. The apprentice would not need any experience directly in quarrying however apprentices may also come from the industry with existing experience in a different area. Areas of interest could include engineering and geology. Explosives regulations do not permit prohibited persons to work within the sector.&lt;/span&gt;&lt;/p&gt;",
+  "assessmentPlanUrl": "",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the surface mining and mineral extraction sectors. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to plan and carry out blasting operations. This will include surveying of blast areas using laser surveying equipment as well as drone-based photogrammetry, the design of drill patterns, the design of blast loading specifications, loading and firing the blast, and environmental monitoring. They would also work to identify and deal with any misfires. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a range of colleagues, such as managers, shotfirers, surveyors, engineers, and other operational personnel. They would also interact with external stakeholders, such as the quarry operators where the blasting is carried out, local councils, and other regulatory bodies. They would usually be based on site, covering multiple quarries in a specific region. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for complying with specific health and safety legislation, for example the Quarries Regulations 1999 and Explosives Regulations 2014. They would also need to design blasts and carry out monitoring to ensure compliance with environmental restrictions applied to a quarry through local authority planning consents. They would be responsible for the safe design, loading and firing of the blast.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "687824b0-eb46-4f2c-87f6-3a3e300e0014",
+      "detail": "Health and safety hazards associated with the blasting environment. Responsibilities under the health and safety statutory requirements. How to identify and report suspected health and safety hazards. "
+    },
+    {
+      "knowledgeId": "25b3bc15-231b-487f-931d-afc68e390c72",
+      "detail": "Environmental aspects associated with the blasting environment. Responsibilities under environmental requirements. How to identify and report suspected environmental aspects. "
+    },
+    {
+      "knowledgeId": "1651b26b-9d4a-47d1-bc61-7286d885cdad",
+      "detail": "Principles of the causes and actions required to respond to emergencies, fires and incidents in the blasting environment including emergency precautions and procedures including the roles and responsibilities of those relevant persons appointed to deal with emergencies."
+    },
+    {
+      "knowledgeId": "f3f1f9fb-9cb4-49d9-b7c4-4ccdf795fd85",
+      "detail": "Principles and techniques of assessing suitability of protective measures taken in the blasting environment including the standards and systems for edge protection in the blasting environment."
+    },
+    {
+      "knowledgeId": "1ff99bbf-460d-4cb5-9261-84d5d87c4bd8",
+      "detail": "Principles and techniques used to identify, check, maintain, use and securely store tools and equipment including for handling explosive materials and charging blast holes. Types, uses, capability and limitations of equipment including shotfiring equipment for the work environment and calibration techniques and requirements. The types of defects found in the equipment and how to report or record defects. "
+    },
+    {
+      "knowledgeId": "f3e5c541-5389-497e-b05b-49a706487ed5",
+      "detail": "Security risks and security arrangements at the site and blasting environment. How to deal with unauthorised persons in the blasting environment and the actions to take in cases of breaches of security, acts of vandalism and theft."
+    },
+    {
+      "knowledgeId": "8c2df37d-ef46-4059-8f1b-e250413b5aed",
+      "detail": "The types of materials and substances associated with the work including types and range of explosive materials. The identification, packaging and labelling of explosive materials including the marking and coding of detonators. "
+    },
+    {
+      "knowledgeId": "64837ef5-f3bd-4c0f-a45b-7a528d981b1b",
+      "detail": "The methods of controlling stock and the requirements for the upkeep of the store and the surrounding area. How to maintain storage environmental conditions and to dispose of faulty stock. How and why to report losses of explosive materials. The manufacturers' information and recommendations for storage and handling of explosive materials. The legislation associated to the receipt, storage and issue of explosive materials."
+    },
+    {
+      "knowledgeId": "3dbf1afd-78f7-43f9-bab9-7de278e665d4",
+      "detail": "The causes of deterioration of explosive materials and methods to prevent deterioration How to recognise and deal with deteriorated or out of date explosive material. The types of containers suitable for site operations, when and how they are used."
+    },
+    {
+      "knowledgeId": "8cd4ad65-526c-4746-be39-fae52323cb81",
+      "detail": "The causes of accidental initiation of explosive materials and methods to prevent initiation. "
+    },
+    {
+      "knowledgeId": "a9884384-2706-4b04-9a59-47104b1ef093",
+      "detail": "Licence procedures and limitations: how and why to avoid overloading storage limitations of the licence."
+    },
+    {
+      "knowledgeId": "2612804c-e816-49e0-a8f3-483f748ea17d",
+      "detail": "Recording and reporting arrangements for the work activity, electronic and paper-based, including the recording requirements for explosive materials on-site."
+    },
+    {
+      "knowledgeId": "af480395-1a1e-4264-9250-9238535c2bc7",
+      "detail": "The legislative requirements for the transport of explosives by road including the maximum quantities that can be transported on the road, and security, safety, vehicle, equipment and separation requirements. The manufacturers' recommendations for transporting explosive materials. Special arrangements for loading, unloading, handling, transporting and containing explosive materials. The methods and practices for packaging, labelling, recording and removal of explosive materials to storage or disposal sites."
+    },
+    {
+      "knowledgeId": "929e01a3-895d-4c57-85d4-6d300c3d6d81",
+      "detail": "Principles and techniques of handling explosive materials including manufacturers’ recommendations, and the type and range of explosive materials for the work activity, and how to recognise them. The requirements for checking the type and condition of explosives. Responsibilities related to blasting and the handling and moving of explosive materials in the working environment."
+    },
+    {
+      "knowledgeId": "dcc8d2ef-3f8d-40b3-8dce-07d53a4cec68",
+      "detail": "The possible effects of environmental and site conditions on explosive materials and the dangers from heat, fire, friction, shock, static electricity and induced currents from external sources including adverse effects on materials, system performance and premature ignition. "
+    },
+    {
+      "knowledgeId": "f4f59b48-19bb-44da-9b22-542c1bac89a4",
+      "detail": "The sources of information in relation to the explosive materials, the blast requirements, preparation activities and the blast environment and how to interpret them."
+    },
+    {
+      "knowledgeId": "45af7fab-c568-4f55-a125-f1192af09ca3",
+      "detail": "Blast designs and blast specifications including the effects of changing blast parameters. The capability of blast site equipment."
+    },
+    {
+      "knowledgeId": "4438c058-0038-4815-bb95-1f61523d7fb1",
+      "detail": "The principles and techniques of ensuring blast hole suitability and blast hole measuring and inspection equipment and techniques."
+    },
+    {
+      "knowledgeId": "d1bd4d85-58fa-44df-a6fe-827ea381f68a",
+      "detail": "The characteristics of detonation devices and primers for the blast activity."
+    },
+    {
+      "knowledgeId": "e73cdd48-5396-4bf1-939d-0be0cd57da6c",
+      "detail": "The effects of water in blast holes, how this imposes limitations on the choice of explosive materials and blast initiation systems, and actions to deal with wet blast holes."
+    },
+    {
+      "knowledgeId": "f31083a8-12eb-432d-913a-7e9722e4ba98",
+      "detail": "The principles and techniques for clearing overfilled or incorrectly charged blast holes and the causes of blockages in blast holes, and how to take remedial action."
+    },
+    {
+      "knowledgeId": "68e29a9d-5e53-4881-a427-107094029da0",
+      "detail": "Principles and techniques used to calculate and measure the loading rate of explosives in the hole."
+    },
+    {
+      "knowledgeId": "b3facc7f-5a62-49eb-b33a-a6b217c7b723",
+      "detail": "Principles and techniques of primer location including the importance of ensuring the primer is located in good product."
+    },
+    {
+      "knowledgeId": "5783c007-e206-4e27-9d43-cd040bd2f970",
+      "detail": "The geometry, location, loading, initiation sequence, and supporting information displayed on blast patterns and initiation sequences for blasting patterns. How and why a delay is created in the initiation system in use and the possible effects of incorrect time delay period between individual charges including the effects of changing delays."
+    },
+    {
+      "knowledgeId": "c7ff65ea-871d-4f9b-8154-cdad9fa5162b",
+      "detail": "Types of initiation systems used on site, their strengths and characteristics, and the causes of premature initiation."
+    },
+    {
+      "knowledgeId": "4cd52867-5de1-4113-9541-9cf7ff6554e9",
+      "detail": "Principles and techniques of checking the suitability of the exploder. Limitations of the types of exploder in use."
+    },
+    {
+      "knowledgeId": "c13b45a6-ee9b-4590-ba93-2cdfd9fb79da",
+      "detail": "The methods of giving warning of the blasting activity and why and how to secure the blasting area and danger zone."
+    },
+    {
+      "knowledgeId": "e6b7be03-86b0-4a87-b4d4-70d55b940bda",
+      "detail": "The problems that can occur related to the blasting work activity, and the actions to take when they are outside the limits of personal responsibility including the problems and conditions that could prevent blasting, or could arise from blasting, and how to deal with them."
+    },
+    {
+      "knowledgeId": "dcf73686-5417-4f47-877a-2ffcbbd19540",
+      "detail": "The causes of misfires, how to recognise them, and the actions to take should they occur. The hazards and risks associated with misfires and unexploded charges."
+    },
+    {
+      "knowledgeId": "1b6228d1-4c1c-435f-8363-aab61d988c61",
+      "detail": "The effects of fumes created by blasting and the causes of, and dangers from flyrock."
+    },
+    {
+      "knowledgeId": "4064ac67-315b-461e-8118-765367c45f19",
+      "detail": "How and why blast monitoring is carried out and recorded and the types and causes of post blast falls and slippage of ground and their effects."
+    },
+    {
+      "knowledgeId": "5abd75cd-9894-4e07-8025-1dd7f3cb1afa",
+      "detail": "Principles and techniques of carrying out a post blast inspection, what to inspect, and the acceptable conditions for the post blast site and surrounding areas that may be affected."
+    },
+    {
+      "knowledgeId": "a52d2231-2205-46a6-a333-40b72acbe75d",
+      "detail": "Principles and techniques of surveying. How to record and report results of profiling and the purpose and use of the profiling results. How to identify and record the physical features of rock faces or landforms that affect the profiling or following work activity including geological anomalies and geotechnical information related to the work activity and location. The strength of mineral strata."
+    },
+    {
+      "knowledgeId": "375b6ecd-85e7-4ae1-92ce-4fa384ef6a91",
+      "detail": "The legislative requirements for the operation of drones."
+    },
+    {
+      "knowledgeId": "a217fd37-903b-465b-a228-af4704784cdc",
+      "detail": "Types of blasting accessories, their usage, strengths and characteristics."
+    },
+    {
+      "knowledgeId": "02b40ada-df59-4086-be55-889b4fef6c8b",
+      "detail": "The measurement, control and analysis of blast vibration."
+    },
+    {
+      "knowledgeId": "59628e29-5ce6-40c9-8980-e59506a3b4e2",
+      "detail": "Responsibilities to vary the blast specification and the techniques and principles to achieve this and the potential consequences arising from incorrect blast design or specification."
+    },
+    {
+      "knowledgeId": "720607b9-ca18-4b8d-9ffb-222ed8473f4f",
+      "detail": "The hazards and risks associated with misfires and unexploded charges and the types and causes of misfires. Principles and techniques of carrying out misfire inspections and responsibilities in relation to misfires including how to identify, locate, mark, record and report suspected misfires and how to secure the area. The requirements of a risk assessment in relation to a misfire and how to prevent the possibility of misfires occurring."
+    },
+    {
+      "knowledgeId": "35601db9-ea38-4ddd-a7ca-227645c5f422",
+      "detail": "The causes, hazards and possible effects of premature or accidental initiation when dealing with misfires."
+    },
+    {
+      "knowledgeId": "b28375c3-e408-4dd1-a4c0-1060d0edab83",
+      "detail": "The methods of handling recovered explosive materials and how to deal with explosive materials recovered from misfires including how to deal with explosive materials discovered during subsequent operations. Site considerations for the blasted material."
+    },
+    {
+      "knowledgeId": "68af5bed-ed2c-4ebf-9184-1070082a9488",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. Barriers in communication and how to overcome them. Blasting terminology."
+    },
+    {
+      "knowledgeId": "b3afb585-0672-4262-a6f9-eba6e79761a5",
+      "detail": "Written communication techniques. Plain English principles. Report writing."
+    },
+    {
+      "knowledgeId": "c484a072-c310-40c4-8a6d-5799a66fd214",
+      "detail": "Non-verbal communication techniques: gestures, facial expressions, tone of voice, eye contact, body language."
+    },
+    {
+      "knowledgeId": "67b42668-ee07-4c89-a454-43876f16a08b",
+      "detail": "Equality Act. Equity, diversity, and inclusion in the workplace. Unconscious bias. "
+    },
+    {
+      "knowledgeId": "9cdc3b05-2122-4428-809c-a7ce82cf57d6",
+      "detail": "Principles of digital devices, application of digital technologies and information systems. Profiling data processing systems for the work activity."
+    },
+    {
+      "knowledgeId": "b82aec93-4f5b-4104-8145-f7e39df9ea89",
+      "detail": "Principles and techniques of keeping up to date with advanced in the sector and own professional development. "
+    },
+    {
+      "knowledgeId": "db213b9b-5b95-44a0-bab3-acd10af908ea",
+      "detail": "Team working principles. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "c8ee2074-86c1-4c96-a6d4-847c1fc24f7e",
+      "detail": "Take personal responsibility for their own sustainable working practices."
+    },
+    {
+      "behaviourId": "fe0f0392-238f-4634-a7f1-a28fef9e1fc7",
+      "detail": "Support an inclusive culture."
+    },
+    {
+      "behaviourId": "46eccb2a-82d4-4faf-b700-70ca549009fc",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "behaviourId": "ef970592-4e6e-4e63-b122-c5cecdd67784",
+      "detail": "Take responsibility for the quality of work and enable others to work to high standards."
+    },
+    {
+      "behaviourId": "ec74a07a-e172-4ffc-99d0-98176c8365a4",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "c7f130aa-957c-4a1a-93fc-39471d14eef4",
+      "detail": "Apply a professional approach."
+    },
+    {
+      "behaviourId": "28498f00-d9f7-4941-812f-e84b480499b2",
+      "detail": "Take personal responsibility for and promote health and safety."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4a0ccc6c-95ff-46d1-925a-e55bfb768a79",
+      "detail": "Apply standard policies, procedures and practices. "
+    },
+    {
+      "skillId": "62250d04-d9e7-4950-911a-3d4dc804dddd",
+      "detail": "Identify health and safety hazards and aspects in the blasting environment."
+    },
+    {
+      "skillId": "a9ad78ca-765c-457e-ada4-7baec1471ceb",
+      "detail": "Identify environmental hazards and aspects in the blasting environment."
+    },
+    {
+      "skillId": "df309b7e-4938-4b3f-a36f-00b014829874",
+      "detail": "Assess the suitability of the protective measures taken in the blasting environment."
+    },
+    {
+      "skillId": "27c164f6-3478-41b2-8f16-9559820ad14a",
+      "detail": "Identify, select, inspect, use, maintain and store tools and equipment."
+    },
+    {
+      "skillId": "15745355-124a-4be5-ab43-b93f416f6230",
+      "detail": "Identify and check security measures for the work area and activity are in place including evacuation routes for the work area."
+    },
+    {
+      "skillId": "8d5cd2a2-695a-4cd0-9806-a10c8ccb0634",
+      "detail": "Maintain and leave the work area in a safe and secure condition, and in compliance with environmental requirements."
+    },
+    {
+      "skillId": "efbc1f14-568d-402c-9e12-d65b7f757c44",
+      "detail": "Receive, identify, store and issue explosive materials."
+    },
+    {
+      "skillId": "73f9ebd9-857c-48e4-b836-a9dfc5954021",
+      "detail": "Handle explosive materials, avoiding loss and damage, maintaining safety and security in conformity with manufacturers' recommendations."
+    },
+    {
+      "skillId": "a1d6f4a5-4405-40e8-9c3a-8bcfdad21e45",
+      "detail": "Check the security measures, safety and condition of the area surrounding the store."
+    },
+    {
+      "skillId": "64a67950-c453-42bc-a2df-36e56bae3499",
+      "detail": "Check that maintenance inspections have taken place and certification is current."
+    },
+    {
+      "skillId": "a49e27c3-d725-4bd6-a4a0-b690ff3dd49c",
+      "detail": "Check and confirm storage conditions."
+    },
+    {
+      "skillId": "8cc5d75f-4b48-4c79-be5a-8aeeb7af5218",
+      "detail": "Check persons entering the storage area are authorised."
+    },
+    {
+      "skillId": "3a5673fa-524b-4c59-853e-bde7ea23ad15",
+      "detail": "Receive explosive materials and check that deliveries conform with the requirements of the blast."
+    },
+    {
+      "skillId": "8ac35074-e84a-4f0a-bf4d-020da0f93a93",
+      "detail": "Ensure explosives and detonators are safely separated during moving and transportation activities."
+    },
+    {
+      "skillId": "fa8d7c0c-44f5-4d43-b5e0-9ee77f98a67e",
+      "detail": "Record or enter information - paper based or electronic. For example, explosive material records, records of the blast and post blast conditions, blast specifications, surveying data, inspections, explosive stock records, movements and quantities of explosive materials, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, work sheets, checklists, environmental records and any legal reporting requirements. "
+    },
+    {
+      "skillId": "14a8dcdc-1d71-4aaf-9dac-bda6f6a14e38",
+      "detail": "Apply escalation and reporting procedures. "
+    },
+    {
+      "skillId": "7a8de66c-17b0-40a6-878f-a9b8a68a23ef",
+      "detail": "Apply explosive transport techniques when moving explosives on the road in line with relevant legislation."
+    },
+    {
+      "skillId": "f2557b42-c481-4dee-a8a5-1bcdb22f5f0d",
+      "detail": "Obtain and check information on the blasting area, design and the explosive materials to be used."
+    },
+    {
+      "skillId": "a1530168-4726-46b2-8d24-cba792d8f8ff",
+      "detail": "Check the position, condition and dimensions of each blast hole, and the surrounding area."
+    },
+    {
+      "skillId": "9286f990-f2c0-49c2-b9e3-bc4a79bf83d6",
+      "detail": "Establish and implement precautions to protect explosive materials and personnel."
+    },
+    {
+      "skillId": "27d1c10a-62d7-424d-978f-8e5ae80571e1",
+      "detail": "Prepare explosive materials in accordance with the blasting specification."
+    },
+    {
+      "skillId": "4601fda2-b1b9-4f0b-b9dd-f8bea26f99b4",
+      "detail": "Check the explosive materials to ensure they conform in quality, quantity and type to the blasting specification requirements."
+    },
+    {
+      "skillId": "8c6fe9b6-6c28-45d5-a361-ae32141fd98d",
+      "detail": "Charge blast holes in accordance with the blasting specification."
+    },
+    {
+      "skillId": "37a3a25f-815e-458b-b775-49f641a23f73",
+      "detail": "Carry out checks during loading to verify the loading and rise rate of explosives in the hole and adapt the design to account for any anomalies encountered."
+    },
+    {
+      "skillId": "128487c5-f355-4a80-810f-47019a6d46fa",
+      "detail": "Position detonators and primers in conformity with the blasting specification and ensure primers are positioned in good product."
+    },
+    {
+      "skillId": "f077f7e3-2333-45de-8cbc-8a997e2766e5",
+      "detail": "Use non-explosive materials as specified for the blast."
+    },
+    {
+      "skillId": "9aa184b5-3519-443e-840f-a8dfb73c30c5",
+      "detail": "Identify variations between the blasting specification and the actual conditions at the time of charging. Identify any aspects that require amendment to the blast specification."
+    },
+    {
+      "skillId": "51b28de7-28a7-43a6-80ae-dea4b25d608d",
+      "detail": "Check, remove and dispose of packaging."
+    },
+    {
+      "skillId": "668df5a1-0bd8-43ee-9a73-129e56a24fef",
+      "detail": "Implement safety procedures such as connecting and protecting the ignition system for the blast in conformity with the blast specification."
+    },
+    {
+      "skillId": "64df65a8-21fe-46b9-a111-1a5b1a6eaf36",
+      "detail": "Clear, secure and maintain the specified danger zone or area. Check and confirm all warning systems, notifications, blast monitoring devices and safety precautions are in place and operable. Display danger of explosives warnings, notices or signs. "
+    },
+    {
+      "skillId": "faf9410c-bb5c-45b9-be1e-edc4c641d070",
+      "detail": "Check the initiation system sequence."
+    },
+    {
+      "skillId": "21b3f704-19cf-4978-9d6b-dc4ee6047cb1",
+      "detail": "Locate the firing station in accordance with the blasting specification."
+    },
+    {
+      "skillId": "b45e4ff8-174d-4e94-a938-6abd3de25d35",
+      "detail": "Attach and check the exploder and fire the blast."
+    },
+    {
+      "skillId": "1d9702bc-0ef8-41eb-848c-c2446182fbc1",
+      "detail": "Carry out post blast inspection and identify and report post blast conditions, indicating when they are potentially hazardous."
+    },
+    {
+      "skillId": "81be9686-56f8-4697-abb3-ca2653871290",
+      "detail": "Give the all clear and allow re-entry to the blast site or area when satisfied that it is safe and the blasting operation is complete and confirm that work in the area can resume."
+    },
+    {
+      "skillId": "70ba6a04-f327-42e1-9958-d46448219094",
+      "detail": "Interpret blast monitoring information."
+    },
+    {
+      "skillId": "8238bd02-9285-4b60-8ca2-529e29b332de",
+      "detail": "Locate, check, prepare, set up and adjust the profiling equipment for the work activity."
+    },
+    {
+      "skillId": "ef619ec4-f516-457d-87b4-4029191ea1d8",
+      "detail": "Apply surveying techniques in the blasting environment, carry out profiling and identify and record physical features of the survey site."
+    },
+    {
+      "skillId": "b9e9e95e-93b6-42e8-abc0-298277825160",
+      "detail": "Process and evaluate profile data produced."
+    },
+    {
+      "skillId": "d6a34687-01ba-4087-bdbd-0519a2ce2b97",
+      "detail": "Check blast holes position for condition, dimension, angle, inclination and direction."
+    },
+    {
+      "skillId": "7e831ec8-7202-4090-85e1-fffe9a7dbd0a",
+      "detail": "Identify and obtain the relevant certification and approvals when using drones. "
+    },
+    {
+      "skillId": "7ab832dc-d1dc-460a-a1c8-94c720454045",
+      "detail": "Operate drones. "
+    },
+    {
+      "skillId": "5fd9a23a-c8e4-4f05-b486-c7de3d6e4c2f",
+      "detail": "Establish the operational requirements from the blast and determine and identify the location and dimensions of the blast."
+    },
+    {
+      "skillId": "2ccec870-4e9c-4532-8b5c-104bc9e376e7",
+      "detail": "Select the explosive materials and initiation system to be used and determine the burden, spacing and pattern to achieve the operational requirements."
+    },
+    {
+      "skillId": "b6c33c04-403f-4ccc-ae9c-491c4aec9157",
+      "detail": "Collect available blast site information or records and identify the geological and geotechnical aspects and issues that could affect the blast."
+    },
+    {
+      "skillId": "f5ab4829-efbe-4826-99b3-4625ab7b8e2a",
+      "detail": "Prepare a blast design and review the blast design against information available, regulatory requirements and organisational requirements."
+    },
+    {
+      "skillId": "86da7111-6c63-4a3f-84cf-82e37884579b",
+      "detail": "Prepare the blast specification and ensure the blast specification is approved."
+    },
+    {
+      "skillId": "57a15303-ec79-4015-b8ed-c36b26455a9c",
+      "detail": "Inspect the blast site and initiation system prior to initiation and confirm that the blast can proceed."
+    },
+    {
+      "skillId": "b118c782-c588-4da4-9a39-d90aac244ff2",
+      "detail": "Determine post blast that blast gasses have dispersed and rock fall has ceased and carry out a post blast inspection for indications of possible misfires."
+    },
+    {
+      "skillId": "7c8579ba-370b-4fd7-aa75-ed38c0170f8f",
+      "detail": "Identify and take corrective actions such as those identified from the inspection and examination."
+    },
+    {
+      "skillId": "1e0807e1-ad51-4b97-8710-33ac3b9c046a",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders. "
+    },
+    {
+      "skillId": "dbcfadde-4e27-43e3-ae6d-b8700bb98a3b",
+      "detail": "Communicate in writing. Prepare communications, documents and reports on technical matters."
+    },
+    {
+      "skillId": "e30c8955-706f-4790-a2f3-4971db07cb04",
+      "detail": "Apply team working principles. "
+    },
+    {
+      "skillId": "27cf5ac3-ea3e-4a40-8814-e486ae9afcf4",
+      "detail": "Carry out and record planned and unplanned learning and development activities. "
+    },
+    {
+      "skillId": "7a3d58de-c37f-4999-9b39-789441f12321",
+      "detail": "Follow equality, diversity and inclusion procedures."
+    },
+    {
+      "skillId": "16ae5f5f-864f-45e1-8f0e-225807b8ea83",
+      "detail": "Use information and digital technology. Comply with GDPR and cyber security regulations and policies."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "false",
+  "epaApprovalDate": "",
+  "epaPublished": "false",
+  "fundingApprovalDate": "",
+  "eQAProvider": null,
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0894",
+  "tbMainContact": "Julie.Wootton@epc-groupe.co.uk",
+  "involvedEmployers": "Bam Ritches, Breedon Group, EPC UK, Tarmac, Hiedelberg UK, Kemek",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Blast engineer",
+    "Explosive supervisor",
+    "Shotfirer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control manager",
+  "clusterId": "258",
+  "clusterDescription": "Maintain and improve the integrity and quality of complex products and processes, improve whole production and process technologies, and the overall health and safety of the working environment",
+  "createdDate": "2025-04-15T14:24:32 +00:00",
+  "lastUpdated": "",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC1451",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1451?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1451",
+  "qualifications": [
+    {
+      "qualificationId": "aa69fc77-3660-4c71-89df-39b8f787b0ee",
+      "title": "MPQC Level 3 Diploma in Shotfiring for the Extractive and Minerals Processing Industries",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Quarrying ",
+      "level": "Tech Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institute of Explosives Engineer ",
+      "level": "Associate",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "09f72515-c204-4cc1-8c2e-7cfa61542ba8",
+      "dutyDetail": "Complete a pre-drill survey of the proposed blast area using both laser profiling equipment and drone-based photogrammetry. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a380e9a-58f2-4d10-bcae-ea64bf4c5fac",
+      "dutyDetail": "Undertake a safe and efficient drill pattern design for the proposed blast area to achieve the required volume. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d8e7c969-491e-400b-b81f-c7c79c5b23a6",
+      "dutyDetail": "Mark intended hole locations on the bench for drilling as per the drill pattern design.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d4caf104-04d9-4d7a-8f3b-0eae4259e763",
+      "dutyDetail": "Complete a post-drill survey of the drilled blast using both laser profiling equipment and drone-based photogrammetry.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c47773bd-b100-45ce-a778-c3aff02b4110",
+      "dutyDetail": "Obtain collar coordinates of the drilled holes using both laser profiling equipment and GPS. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68d3472c-4434-46cd-9815-86b051861aec",
+      "dutyDetail": "Obtain down-hole deviations using optical and down-hole measurement devices. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1856c35c-0519-49f0-b75d-5e5845fbb40a",
+      "dutyDetail": "Undertake a safe and efficient blast design, taking account of the information collected during the post-drill survey activities and feedback from the drilling. The design should include both the loading and initiation sequence as well as other information required to form the blast specification as per the Quarry Regulations 1999. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dcd52be6-90b1-4827-adf3-b9479e85d7a7",
+      "dutyDetail": "Prime cartridges for the operation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cb5265ca-6e61-40e3-9aaf-4e1e71895bc2",
+      "dutyDetail": "Complete charging and stemming of shotholes, recording the actual delivered values. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aa874f3a-3576-4cf1-bd8a-7beb64a00f07",
+      "dutyDetail": "Connect and test the initiation sequence.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b49e4f43-f85a-4fce-a046-77622ed71388",
+      "dutyDetail": "Ensure the safety of others during the explosive activity through the withdrawal and sheltering of persons.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "898480ea-c3c3-4158-9693-1eb07ad30cca",
+      "dutyDetail": "Initiate the blast in line with specifications and regulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4121b702-0a03-4cd6-92ee-603c83664fae",
+      "dutyDetail": "Complete post Shotfiring activities such as checking for misfires and taking appropriate action where required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45408ff1-6bee-469d-9b1c-3724fe9c0790",
+      "dutyDetail": "Complete electronic or paper-based documentation at all required stages of the work activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7375b9b0-5563-472f-8945-0583b5067cb4",
+      "dutyDetail": "Undertake environmental monitoring of the blast. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d94d3ed2-4bf0-43b0-ac4e-5d8237b0fa95",
+      "dutyDetail": "Carry out continuous improvement and identify possible opportunities. Identify and complete professional development activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "48264f88-0288-4a4d-9362-d32f4611a260",
+      "dutyDetail": "Ensure a safe working environment by adhering to all relevant health and safety legislation and regulations, including the Quarry Regulations and Explosives Regulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3069e61-ec31-45c8-b44a-4836c283fc42",
+      "dutyDetail": "Incorporate sustainability and environmental requirements and considerations into the blasting operation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-04-15T14:24:32.307"
+}
