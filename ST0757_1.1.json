@@ -1,0 +1,687 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 611,
+  "referenceNumber": "ST0757",
+  "learningAimClassCode": "",
+  "title": "Radio network technician",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0757",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2025-03-18T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": " The broad purpose of the occupation is to ensure that digital data and voice networks operate at an optimal level. ",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "radio",
+    "ict",
+    "digital",
+    "digital support",
+    "network",
+    "technician",
+    "services"
+  ],
+  "jobRoles": [
+    "Communications radio engineer",
+    "Radio network engineer",
+    "Radio network technician",
+    "Radio optimisation engineer",
+    "Wireless systems engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-in-revision?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "&lt;p&gt;,&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in Telecommunications operators, Ministry of Defence and their vendors and suppliers responsible for broadcasting digital voice and data services via radio frequency distribution architecture used in the telecommunications network.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;This network will deliver these services to specific corporate, public, emergency services, third party radio network access providers or military organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to ensure that digital data and voice networks operate at an optimal level and comply with the regulation’s requirements. This is to provide the best possible service to their customers, working as part of an international,&amp;nbsp; national or regional radio network team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The individual may set up, configure, maintain and monitor radio networks to deliver data and voice services and operate processes for the design, installation, test, implementation, fault finding and optimisation of radio telecoms networks.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal and external customers, owners of site locations, equipment suppliers, internal teams, and cross functional leaders. Employees may be required to work at heights and in remote base stations so knowledge and compliance to health and safety relating to lone working and fall arrest techniques will be required.&amp;nbsp; &amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;The occupation can be a mix of office work, on site work and field-based work.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;An employee in this occupation may be responsible for managing radio network equipment to achieve network performance objectives in terms of service, coverage, quality and availability.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They will initiate, own and complete processes, tasks and procedures, supporting wider team to deliver long-term and short-term project priorities.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They will use their own initiative, work with minimal supervision, and report into a manager.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "e48bebe7-5bff-45df-924d-393a8f04a60d",
+      "detail": "Principles of radio propagation including path profile analysis and the behaviour of radio waves as they travel from one point to another and different frequency bands. "
+    },
+    {
+      "knowledgeId": "d9e7098e-adff-43e7-9154-2e9590f46808",
+      "detail": "Characteristics of digital communication the architecture, component parts including differences to network behaviour."
+    },
+    {
+      "knowledgeId": "c90184da-5bcd-4676-b48b-b66a4ea64b1a",
+      "detail": "Causes and impact of radio interference and noise in a network."
+    },
+    {
+      "knowledgeId": "4ee5d403-09f8-4c7a-b529-ebd8c19d6b7f",
+      "detail": "Principles of electrical theory for antenna.  "
+    },
+    {
+      "knowledgeId": "8e4a959a-5485-4974-abf1-c376561ed2ba",
+      "detail": "Types of cabling and connectivity and their relative merits."
+    },
+    {
+      "knowledgeId": "7eabd317-14f8-41d2-a531-ce3c3f46192b",
+      "detail": "Network architectures, the specification of a network's physical components, functional organisation and configuration. Its operational principles, procedures, protocols and management tools."
+    },
+    {
+      "knowledgeId": "73990393-2228-41f6-a937-4e92d6289002",
+      "detail": "Principles of radio wave propagation in networks. manual and automated methods of frequency planning for digital voice and data networks."
+    },
+    {
+      "knowledgeId": "32f5d398-54da-45f6-936b-4f3e19fd94e6",
+      "detail": "Frequency spectrum in networks and their uses. "
+    },
+    {
+      "knowledgeId": "3903a82b-4754-40cf-a86d-cc17c20cffdc",
+      "detail": "Impact of harmonics in radio frequency and how to reduce this."
+    },
+    {
+      "knowledgeId": "4b5ff68e-c222-4f13-9673-2a79511b126c",
+      "detail": "The relationship between capacity demands and types of radio networks used to support requirements. "
+    },
+    {
+      "knowledgeId": "662418f3-203f-4abe-af4a-28e9c450b261",
+      "detail": "Differences between wide-band and narrow band networks. The use of simplex and duplex techniques in networks, methods of frequency hopping and their benefits in different networks. "
+    },
+    {
+      "knowledgeId": "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+      "detail": "Techniques and systems used in testing to identify the location and cause of faults in complex and or non-standard radio telecommunications networks; including observation, simulation, measurement, identification of function loss comparison, and previous fault data. "
+    },
+    {
+      "knowledgeId": "5a474fdf-28c0-4437-869e-fbd511b696f9",
+      "detail": "Previous fault data includes frequency of occurrence, manufacturers' documentation including user guides and diagnostic data, maintenance records, trending, built-in diagnostics, comparison with commissioning results."
+    },
+    {
+      "knowledgeId": "9078ff92-0199-485d-ba26-f39f6615af4a",
+      "detail": "Good voice and data network performance."
+    },
+    {
+      "knowledgeId": "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
+      "detail": "Fault-finding processes. Performance measurement against targets, including key user requirements."
+    },
+    {
+      "knowledgeId": "4fbc3cac-9bbd-4cd7-a72a-ebc1d42baa3b",
+      "detail": "Types of faults. The main factors affecting network performance including typical faults, and approaches to a reduction in network performance."
+    },
+    {
+      "knowledgeId": "dda1fdeb-3197-4382-b746-8166c19ccb76",
+      "detail": "Health and safety requirements."
+    },
+    {
+      "knowledgeId": "7fff5fd3-0523-4b37-909f-97dd6fc51955",
+      "detail": "Security principles, policies and procedures including data protection, software, access, encryption and regulation. How to report security breaches using local procedures and rules."
+    },
+    {
+      "knowledgeId": "7ca66831-7343-4e1e-b79b-1ec117f8b9d5",
+      "detail": "Network vulnerabilities and how they are assessed."
+    },
+    {
+      "knowledgeId": "87ca8a99-a2a7-41d5-b46a-179e20a92dd2",
+      "detail": "Security process for accessing field based sites."
+    },
+    {
+      "knowledgeId": "b4a9a850-f276-4b68-8ead-f5cc255c9948",
+      "detail": "Ethical use of data and the implications, with respect to the use of data and automation."
+    },
+    {
+      "knowledgeId": "cd1bc02b-a5df-4cfd-bea1-744800370eca",
+      "detail": "User requirements and methods to set priorities."
+    },
+    {
+      "knowledgeId": "af9581f6-0501-4745-9e4c-4d883f0ce10c",
+      "detail": "Roles within a multidisciplinary team and the interfaces with other areas of an organisation."
+    },
+    {
+      "knowledgeId": "f57777d2-a963-4917-815c-97bb94199aaf",
+      "detail": "Information available in data sources, methods to access these and then interpret the information within the data source."
+    },
+    {
+      "knowledgeId": "757a40fd-273f-4e1b-a76a-4e8bbe4a0e3f",
+      "detail": "The occupation in relation to the wider landscape including current or future requirements."
+    },
+    {
+      "knowledgeId": "2d1338e7-5ade-47aa-bd65-4f36aa72cb72",
+      "detail": "Sustainability and environmental considerations in their area of work."
+    },
+    {
+      "knowledgeId": "9b1ff302-d31f-40d7-a83d-881faa3afb62",
+      "detail": "Methods of work planning and prioritisation."
+    },
+    {
+      "knowledgeId": "36ba8790-8ac9-458f-aec0-84916b6530a0",
+      "detail": "Methods to keep up to date with emerging and or evolving technologies, their use and impact on the role."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+      "detail": "Adheres to required work practices and conducts all work in a manner which is safe."
+    },
+    {
+      "behaviourId": "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+      "detail": "Aligns work activities and priorities to organisational objectives."
+    },
+    {
+      "behaviourId": "e228693d-fd58-4040-a248-89e982dbed45",
+      "detail": "Uses initiative to take ownership and responsibility for their work."
+    },
+    {
+      "behaviourId": "c2e26d29-42f9-4beb-93f0-4ccd13daf822",
+      "detail": "Demonstrates a pragmatic and logical approach to problem solving."
+    },
+    {
+      "behaviourId": "8979ceab-f870-4ca0-a0f0-63acee344554",
+      "detail": "Is a positive role model to others in attitude to work and how it is undertaken."
+    },
+    {
+      "behaviourId": "5897eabe-9ed6-4bdf-af13-8af0a736659b",
+      "detail": "Work collaboratively with stakeholders."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "efc9f016-dea4-41bf-8c6d-693896aa54e5",
+      "detail": "Operate the planning process including selection of equipment."
+    },
+    {
+      "skillId": "30bf816a-f9bf-461b-add5-e10bd1b1243e",
+      "detail": "Select a location as part the planning process."
+    },
+    {
+      "skillId": "16f4bf34-da55-4640-bdda-001b4ed4e685",
+      "detail": " Install or support installation of equipment. "
+    },
+    {
+      "skillId": "2cdbdac6-54d1-4976-a3d0-d6dd6db93560",
+      "detail": "Install, or support the installation, positioning equipment according to manufacturer's specifications, design detail and perform administrative tasks including installation reports and test results."
+    },
+    {
+      "skillId": "4bf562a1-4f12-4d68-a28f-a98849937231",
+      "detail": "Identify the causes of issues relating to frequency interference and other noise sources."
+    },
+    {
+      "skillId": "0887157f-409a-4c67-a523-7129eb2fafe2",
+      "detail": "Prioritise, plan and organise work activity using a methodical approach."
+    },
+    {
+      "skillId": "a9109652-b5e3-4135-a396-6f436bc0f0f6",
+      "detail": "Select the required frequency for a given radio path through the use of software application, manual calculations or system planning tools."
+    },
+    {
+      "skillId": "92e703a7-05fb-4721-b76c-62c9c4f4c594",
+      "detail": "Access and use the test systems."
+    },
+    {
+      "skillId": "0ae1657f-1575-46d9-bcf6-3f369abb5340",
+      "detail": "Report faults and use the required escalation process."
+    },
+    {
+      "skillId": "f4d0d6a9-209d-4451-9a12-66672505c947",
+      "detail": "Collate and input fault data and statements into the fault management system."
+    },
+    {
+      "skillId": "9349707c-10e7-4624-af74-87736f46e724",
+      "detail": "Rectify faults within own area or escalate as necessary."
+    },
+    {
+      "skillId": "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
+      "detail": "Utilise software monitoring tools, user information or data gathered from testing to modify a radio network or link to overcome communication issues."
+    },
+    {
+      "skillId": "4863c2a5-e34e-4da1-9f3a-ea25e98f0b41",
+      "detail": "Configure and maintain a network supporting the use of a Radio Frequency RF system."
+    },
+    {
+      "skillId": "1b25fb6d-0156-4e06-bf67-52012a87913a",
+      "detail": "Gather network performance information and user insight through feedback or user experience."
+    },
+    {
+      "skillId": "3dfac53e-462b-4569-b80f-d7cfee0353da",
+      "detail": "Identify procedures to enhance and improve system performance."
+    },
+    {
+      "skillId": "8e95f874-1d08-446b-b848-659c5e8249b0",
+      "detail": "Analyse data, draw conclusions and understand organisation impacts."
+    },
+    {
+      "skillId": "7077a716-12c1-48cd-9301-d17ef2cef6c7",
+      "detail": "Apply organisational security polices."
+    },
+    {
+      "skillId": "23fe546f-5a26-4e8d-9abd-bcf00f0f6461",
+      "detail": "Access sites according to required procedure."
+    },
+    {
+      "skillId": "8157c71f-1bf6-477d-a707-8089e7edf460",
+      "detail": "Create a written work plan and communicate plan to team members."
+    },
+    {
+      "skillId": "7467b53b-b47f-4a86-a594-a990bef68f7f",
+      "detail": " Use customer feedback to process, prioritise and resolve issues."
+    },
+    {
+      "skillId": "624d45c4-b899-4c12-8393-0e59ce0d9ac5",
+      "detail": "Work in agile, multi-disciplinary delivery teams, taking a flexible, collaborative and pragmatic approach to delivering tasks."
+    },
+    {
+      "skillId": "9f166e09-ff87-4b4a-91ab-6c3b028e5f2e",
+      "detail": "Review own development needs. Keep up to date with developments in technologies, trends and innovation using a range of sources."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0309",
+  "tbMainContact": "Chris.Stafford586@mod.gov.uk",
+  "involvedEmployers": "Telefonica, Army Air Corps, Royal Artillery, Royal Armoured Corp, Digital Skills UK, TC Partnership\nBabcock, Learning Curve, BT, Virgin media",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Communications radio engineer",
+    "Radio network engineer",
+    "Radio network technician",
+    "Radio optimisation engineer",
+    "Wireless systems engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Support and Services",
+  "cluster": "IT support and services technician",
+  "clusterId": "187",
+  "clusterDescription": null,
+  "createdDate": "2025-03-18T15:44:02 +00:00",
+  "lastUpdated": "2025-03-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-12-11T00:00:00 +00:00",
+  "banners": "A revised version of this standard and EPA plan has been approved and is available for information only at present until the funding band has been agreed.",
+  "occupationCode": "OCC0757",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-in-revision",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Institute of Telecommunications Professionals.",
+      "level": "Those completing the apprenticeship are eligible for recognition at full membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Register of IT Technicians. RITTech",
+      "level": "Associate membership ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "8d2764cb-ee42-45b9-b2c2-7a8f436a917a",
+      "dutyDetail": "Review and select site locations and design in relation to network planning.  Consider Health and Safety procedures and applicable regulations such as temporary and permanent sites. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "e48bebe7-5bff-45df-924d-393a8f04a60d",
+        "c90184da-5bcd-4676-b48b-b66a4ea64b1a",
+        "8e4a959a-5485-4974-abf1-c376561ed2ba",
+        "73990393-2228-41f6-a937-4e92d6289002",
+        "4b5ff68e-c222-4f13-9673-2a79511b126c",
+        "662418f3-203f-4abe-af4a-28e9c450b261",
+        "dda1fdeb-3197-4382-b746-8166c19ccb76",
+        "87ca8a99-a2a7-41d5-b46a-179e20a92dd2",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "efc9f016-dea4-41bf-8c6d-693896aa54e5",
+        "30bf816a-f9bf-461b-add5-e10bd1b1243e",
+        "4bf562a1-4f12-4d68-a28f-a98849937231",
+        "3dfac53e-462b-4569-b80f-d7cfee0353da",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6bee4514-64c6-4d89-92d5-da4336c383ec",
+      "dutyDetail": "Perform user level maintenance and testing on the digital radio and data network. Test and monitor the network, analyse performance to identify faults and key issues. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "e228693d-fd58-4040-a248-89e982dbed45",
+        "c2e26d29-42f9-4beb-93f0-4ccd13daf822",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "d9e7098e-adff-43e7-9154-2e9590f46808",
+        "c90184da-5bcd-4676-b48b-b66a4ea64b1a",
+        "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "9078ff92-0199-485d-ba26-f39f6615af4a",
+        "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
+        "dda1fdeb-3197-4382-b746-8166c19ccb76"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2cdbdac6-54d1-4976-a3d0-d6dd6db93560",
+        "a9109652-b5e3-4135-a396-6f436bc0f0f6",
+        "92e703a7-05fb-4721-b76c-62c9c4f4c594",
+        "0ae1657f-1575-46d9-bcf6-3f369abb5340",
+        "f4d0d6a9-209d-4451-9a12-66672505c947",
+        "1b25fb6d-0156-4e06-bf67-52012a87913a",
+        "3dfac53e-462b-4569-b80f-d7cfee0353da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "67b7dc42-4ab5-4e73-8241-079d6f782ebe",
+      "dutyDetail": "Report on information contained in generic equipment and or log files or system generated fault codes. React and correct issues, escalating issues that require support.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "d9e7098e-adff-43e7-9154-2e9590f46808",
+        "3903a82b-4754-40cf-a86d-cc17c20cffdc",
+        "662418f3-203f-4abe-af4a-28e9c450b261",
+        "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "cd1bc02b-a5df-4cfd-bea1-744800370eca",
+        "f57777d2-a963-4917-815c-97bb94199aaf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a9109652-b5e3-4135-a396-6f436bc0f0f6",
+        "9349707c-10e7-4624-af74-87736f46e724",
+        "1b25fb6d-0156-4e06-bf67-52012a87913a",
+        "3dfac53e-462b-4569-b80f-d7cfee0353da",
+        "8e95f874-1d08-446b-b848-659c5e8249b0",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8edada5-7282-4454-a383-cd3a530cbcda",
+      "dutyDetail": "Follow security policies relating to people security, information and process security, physical security and computer and network security policies, current data protection regulations or non-disclosure agreements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "7fff5fd3-0523-4b37-909f-97dd6fc51955",
+        "7ca66831-7343-4e1e-b79b-1ec117f8b9d5",
+        "87ca8a99-a2a7-41d5-b46a-179e20a92dd2",
+        "b4a9a850-f276-4b68-8ead-f5cc255c9948",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7077a716-12c1-48cd-9301-d17ef2cef6c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "66f1f2af-2941-4662-8298-099b14368a90",
+      "dutyDetail": "Manage performance faults using fault diagnosis and or management systems. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
+        "4fbc3cac-9bbd-4cd7-a72a-ebc1d42baa3b",
+        "cd1bc02b-a5df-4cfd-bea1-744800370eca",
+        "f57777d2-a963-4917-815c-97bb94199aaf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "92e703a7-05fb-4721-b76c-62c9c4f4c594",
+        "f4d0d6a9-209d-4451-9a12-66672505c947",
+        "9349707c-10e7-4624-af74-87736f46e724",
+        "8e95f874-1d08-446b-b848-659c5e8249b0",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c519b58-a693-4892-9d79-283742fc359a",
+      "dutyDetail": "Monitor network connectivity and or statistics, identify where changes can be made and  adjusting or correcting to improve the network. Escalate adjustments or corrections outside of control to relevant areas.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "c2e26d29-42f9-4beb-93f0-4ccd13daf822",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "d9e7098e-adff-43e7-9154-2e9590f46808",
+        "7eabd317-14f8-41d2-a531-ce3c3f46192b",
+        "662418f3-203f-4abe-af4a-28e9c450b261",
+        "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "9078ff92-0199-485d-ba26-f39f6615af4a",
+        "4fbc3cac-9bbd-4cd7-a72a-ebc1d42baa3b",
+        "cd1bc02b-a5df-4cfd-bea1-744800370eca",
+        "f57777d2-a963-4917-815c-97bb94199aaf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "92e703a7-05fb-4721-b76c-62c9c4f4c594",
+        "9349707c-10e7-4624-af74-87736f46e724",
+        "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
+        "1b25fb6d-0156-4e06-bf67-52012a87913a",
+        "3dfac53e-462b-4569-b80f-d7cfee0353da",
+        "8e95f874-1d08-446b-b848-659c5e8249b0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c12cc73-5ebb-43df-a346-ef308c03e91c",
+      "dutyDetail": "Review customer feedback adjusting to improve the network. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "c2e26d29-42f9-4beb-93f0-4ccd13daf822",
+        "8979ceab-f870-4ca0-a0f0-63acee344554",
+        "5897eabe-9ed6-4bdf-af13-8af0a736659b"
+      ],
+      "mappedKnowledge": [
+        "d9e7098e-adff-43e7-9154-2e9590f46808",
+        "80981ecd-a0bd-4e4a-b0d9-76cfdb98e3dc",
+        "5a474fdf-28c0-4437-869e-fbd511b696f9",
+        "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
+        "4fbc3cac-9bbd-4cd7-a72a-ebc1d42baa3b",
+        "7ca66831-7343-4e1e-b79b-1ec117f8b9d5",
+        "b4a9a850-f276-4b68-8ead-f5cc255c9948",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "92e703a7-05fb-4721-b76c-62c9c4f4c594",
+        "9349707c-10e7-4624-af74-87736f46e724",
+        "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
+        "1b25fb6d-0156-4e06-bf67-52012a87913a",
+        "3dfac53e-462b-4569-b80f-d7cfee0353da",
+        "8e95f874-1d08-446b-b848-659c5e8249b0",
+        "7467b53b-b47f-4a86-a594-a990bef68f7f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f6eaea41-62aa-479a-8b03-bb2239b461fc",
+      "dutyDetail": "Install and commission radio network equipment and systems as required. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "c2e26d29-42f9-4beb-93f0-4ccd13daf822",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "4ee5d403-09f8-4c7a-b529-ebd8c19d6b7f",
+        "8e4a959a-5485-4974-abf1-c376561ed2ba",
+        "7eabd317-14f8-41d2-a531-ce3c3f46192b",
+        "3903a82b-4754-40cf-a86d-cc17c20cffdc",
+        "dda1fdeb-3197-4382-b746-8166c19ccb76"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "efc9f016-dea4-41bf-8c6d-693896aa54e5",
+        "30bf816a-f9bf-461b-add5-e10bd1b1243e",
+        "16f4bf34-da55-4640-bdda-001b4ed4e685",
+        "2cdbdac6-54d1-4976-a3d0-d6dd6db93560",
+        "4863c2a5-e34e-4da1-9f3a-ea25e98f0b41",
+        "23fe546f-5a26-4e8d-9abd-bcf00f0f6461",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b85daa0d-4256-4728-8845-9e8dca1c7730",
+      "dutyDetail": "Support radio network planning to ensure optimisation of network capacity which may include frequency and code planning across multiple technologies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "8979ceab-f870-4ca0-a0f0-63acee344554",
+        "5897eabe-9ed6-4bdf-af13-8af0a736659b"
+      ],
+      "mappedKnowledge": [
+        "e48bebe7-5bff-45df-924d-393a8f04a60d",
+        "c90184da-5bcd-4676-b48b-b66a4ea64b1a",
+        "73990393-2228-41f6-a937-4e92d6289002",
+        "32f5d398-54da-45f6-936b-4f3e19fd94e6",
+        "3903a82b-4754-40cf-a86d-cc17c20cffdc",
+        "4b5ff68e-c222-4f13-9673-2a79511b126c",
+        "662418f3-203f-4abe-af4a-28e9c450b261",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4bf562a1-4f12-4d68-a28f-a98849937231",
+        "a9109652-b5e3-4135-a396-6f436bc0f0f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "441f59ed-a7e4-453a-accd-1b8c4aae4a06",
+      "dutyDetail": "Create and implement a prioritised plan of workload to meet deadlines and organisational priorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "1e9636e8-1bbe-4f4a-9c93-e2f38f64cf4e",
+        "e228693d-fd58-4040-a248-89e982dbed45",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "dda1fdeb-3197-4382-b746-8166c19ccb76",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0887157f-409a-4c67-a523-7129eb2fafe2",
+        "8157c71f-1bf6-477d-a707-8089e7edf460",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dd3d6c7a-e6f2-4655-9364-09f594e82119",
+      "dutyDetail": "Recognise the purpose of networking settings and parameters. Ensure where appropriate that the network adheres to any controls for these parameters.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6237d003-e3fc-491d-a490-2ce1c3b8ee1c",
+        "8979ceab-f870-4ca0-a0f0-63acee344554"
+      ],
+      "mappedKnowledge": [
+        "d9e7098e-adff-43e7-9154-2e9590f46808",
+        "f57777d2-a963-4917-815c-97bb94199aaf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
+        "4863c2a5-e34e-4da1-9f3a-ea25e98f0b41",
+        "8e95f874-1d08-446b-b848-659c5e8249b0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "86366c30-26ab-4440-8f76-2d0ae147ab00",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with technological developments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e228693d-fd58-4040-a248-89e982dbed45"
+      ],
+      "mappedKnowledge": [
+        "757a40fd-273f-4e1b-a76a-4e8bbe4a0e3f",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62",
+        "36ba8790-8ac9-458f-aec0-84916b6530a0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9f166e09-ff87-4b4a-91ab-6c3b028e5f2e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad0e8b47-262b-43f4-9c43-dec189e1d879",
+      "dutyDetail": "Collaborate with stakeholders both internally and externally to deliver a network that meets customer and sustainability requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8979ceab-f870-4ca0-a0f0-63acee344554",
+        "5897eabe-9ed6-4bdf-af13-8af0a736659b"
+      ],
+      "mappedKnowledge": [
+        "cd1bc02b-a5df-4cfd-bea1-744800370eca",
+        "af9581f6-0501-4745-9e4c-4d883f0ce10c",
+        "2d1338e7-5ade-47aa-bd65-4f36aa72cb72",
+        "9b1ff302-d31f-40d7-a83d-881faa3afb62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0887157f-409a-4c67-a523-7129eb2fafe2",
+        "0ae1657f-1575-46d9-bcf6-3f369abb5340",
+        "8157c71f-1bf6-477d-a707-8089e7edf460",
+        "624d45c4-b899-4c12-8393-0e59ce0d9ac5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-18T00:00:00"
+}
