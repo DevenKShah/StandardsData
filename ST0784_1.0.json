@@ -1,66 +1,624 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 620,
   "referenceNumber": "ST0784",
+  "learningAimClassCode": "",
   "title": "Nuclear reactor desk engineer",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/620",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0784",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-05-12T00:00:00",
+  "changedDate": "2021-07-26T00:00:00",
   "earliestStartDate": "2021-05-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operate, monitor and control the nuclear reactor and associated equipment in normal operational mode, as well as abnormal conditions.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4846/st0784_nuclear_reactor_desk_engineer_l6_ap_for-publication_14jan21.pdf",
+  "keywords": [
+    "nuclear",
+    "engineering",
+    "manufacturing",
+    "processing engineer",
+    "defence"
+  ],
+  "jobRoles": [
+    "Reactor Desk Engineer",
+    "Reactor Panel Operator",
+    "Main Control Desk Operator",
+    "Reactor Operator",
+    "Assistant Engineer Operations"
+  ],
+  "entryRequirements": "&lt;p&gt;Typically HNC (Higher National Certificate) in an engineering subject&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5268/st0784_nuclear_reactor_desk_engineer_l6_ap_for-publication-adj-july-2021.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
-  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\n&lt;p&gt;This occupation is found in the engineering sector, in the commercial nuclear power industry and within the Ministry of Defence Royal Navy submarine fleet. Nuclear power in the United Kingdom (UK) generates around one fifth of the country&#39;s electricity. The UK currently has 15 operational commercial nuclear reactors at seven plants, 14 advanced gas-cooled reactors (AGR) and one pressurised water reactor (PWR). Reactor desk engineers are based within the main control room of a nuclear facility or the manoeuvring room in a nuclear submarine environment. The demand for this role is increasing with the advent of new nuclear build and developing technologies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to operate, monitor and control the nuclear reactor and associated equipment in normal operational mode, as well as abnormal conditions. They exercise this control during incident scenarios. This includes emergencies, such as system failures, security threats, fire or external events that may impact health &amp;amp; safety. The reactor desk engineer is the human interface between the reactor instrumentation and control systems and all personnel working on or interacting with these associated systems. They start up and shut down the nuclear reactor, observe system trends, control and monitor routine operation and maintenance activities and determine appropriate corrective action. They may take direct action from the control room/manoeuvring room itself or instruct operations and/or maintenance teams to take action. They ensure that all relevant operational parameters are logged and handed over to the incoming shift team, in a concise and easy to understand manner.&lt;/p&gt;\n&lt;p&gt;To carry out these duties, they must understand and apply complex engineering operating procedures. The role requires a high level of professionalism, the ability to interact with people at all levels in the organisation and to operate under pressure on their own.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of their shift team. They report directly to the control room/manoeuvring room supervisor and liaise with other members of the operations team such as the technicians and operations engineers outside the control room/manoeuvring room. They interact with the outgoing and incoming shift team as part of the handover activity.&lt;/p&gt;\n&lt;p&gt;In a power station environment, they exert control and direct personnel involved with activities on the plant which impact on safety. The reactor desk engineer has overall control over maintenance teams, operations technicians and systems engineers working on the plant in all modes of operation (normal, abnormal and fault modes). In emergency situations, the reactor desk engineer interacts with the emergency services and the on site emergency teams that respond as part of the emergency arrangements for their site, via the control room supervisor.&lt;/p&gt;\n&lt;p&gt;In the defence sector this role is more focussed on the system operation/control. In abnormal and fault conditions, the reactor operator will interact with the duty engineer or manoeuvring room supervisor.. An employee in this occupation will be responsible for the operation of a nuclear reactor, as a duly authorised person, in accordance with the nuclear regulatory legislation for the control and supervision of operations. They are ultimately responsible for the safety of individuals, the environment and operational assets. They must achieve and maintain competency in accordance with nuclear regulations.&lt;/p&gt;\n&lt;p&gt;The role requires the appropriate level of security clearances/vetting to work within the nuclear industry.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Typical job titles include Reactor Desk Engineer, Reactor Panel Operator, Main Control Desk Operator,&#160; Reactor Operator, Assistant Engineer Operations.&lt;/p&gt;\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\n&lt;p&gt;Typically HNC (Higher National Certificate) in an engineering subject&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;h4&gt;Duty&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;h4&gt;KSBs&lt;/h4&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitor and evaluate the nuclear reactor and associated system conditions during start up, steady state at power and following reactor trip.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K3 K4 K7 K9 K10 K11 K21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt; S5 S8 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B4&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Recognise when a plant disturbance will result in abnormal operation and take action to return the plant to a safe known state.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K3 K4 K5 K13 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt; S5 S9 S11 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B4&lt;span&gt; B5 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Log plant condition information throughout a shift, identify any parameters or trends needing investigation and communicate the information contained to the shift team.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K16 K19 K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt; S5 S6 S8 S9 S14 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt; B7 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Control plant parameters during reactor start-up.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K8 K9 K10 K12 K14 K15 K17 K18 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S3 S7 S10 S15 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Control plant parameters during steady state.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K8 K9 K10 K12 K14 K15 K17 K18 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S3 S7 S10 S15 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Control plant parameters following planned and unplanned reactor shutdown.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K8 K9 K10 K12 K14 K15 K17 K18 K20 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S3 S7 S10 S15 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Liaise with, and direct other functions to ensure that operations are within specified limits during reactor start up, steady state at power and following planned and unplanned reactor shutdown.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt; K4 K6 K16 K18 K19 K21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S4&lt;span&gt; S6 S7 S15 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B3 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Manage shift handover and control of operations with due regard for all regulatory requirements and limits of operation.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K3 K7 K18 K19 K20 K21 K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S6&lt;span&gt; S11 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B2 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out the appropriate actions pertinent to an incident such as loss of grid, security threats, fire etc.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K2&lt;span&gt; K6 K13 K16 K19 K20 K22 K23 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S6&lt;span&gt; S9 S11 S12 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt; B5 B6 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Undertake reactor control activities relating to&#160; periods of routine plant maintenance.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K4 K6 K13 K14 K15 K16 K17 K21 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt; S6 S7 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt; B4 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify and make recommended changes to operational processes, systems and procedures.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K4 K6 K13 K20 K24 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S6 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt; B4 B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Act as an ambassador for nuclear safety culture and promote safety and safe working practices to plant personnel.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt; K10 K11 K12 K13 K22 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt; S6 &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B3&lt;span&gt; B6 &lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;span&gt;&#160;&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;KSBs&lt;/h2&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Nuclear industry regulatory framework. For example: Nuclear Installations Act 1965 and 1969.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Nuclear reactor failure modes and potential consequences. For example: fuel pin failure and radiological release to atmosphere.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Control panel indications and control loop status for different modes of reactor operation, for example: start up, steady state and shut down.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Hazards affecting reactor control and operation. For example: Loss of automatic control or external factors such as flooding cold weather, loss of grid. The principles ALARP (as low as reasonably practicable) and BAT (best available techniques).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Principles of deterministic fault analysis and probabilistic risk analysis.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Principles and application of radiological protection; including time, distance, shielding, effects of exposure on human health, for example non-stochastic effects and the environment.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Fundamental engineering mathematics such as scientific notation, unit conversion, graphs and exponential functions and rate concepts applied to radioactive decay and process controls.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Reactor physics, the neutron lifecycle and design of reactor systems.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Nuclear physics and reactor theory principles for power reactors.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Thermal hydraulics and Thermal Dynamics including multiphase heat transfer, feedback coefficients, the coupling between reactor physics and thermal hydraulics.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Reactor materials including properties and selection criteria of reactor materials; the mechanisms of corrosion and degradation and the effects of irradiation on materials including fuel.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Chemistry including key functions of chemistry controls to maintain the integrity of materials on both primary and secondary circuits.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Interdependencies of reactor physics, reactor materials, chemistry and thermal hydraulics on the design and operation of reactor systems.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Key components used in conventional plant and reactor systems, for example valves, pumps, heat exchangers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K15:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The operating principles and application of electrical components. For example: isolators, circuit breakers, motors, generators and protective devices.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K16:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Symbols used in engineering drawings, diagrams, schematics and their application in the performance of licensed duties.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K17:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The operating principles of basic sensors, instruments, and control systems used in plant systems; ensuring the accuracy of instrumentation, and calibration&#160; frequencies. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K18:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Design of major plant systems such as feed water, steam systems, reactor support systems, decay heat removal systems, emergency injection systems and long term cooling systems. Fundamental plant operating principles, including start-up of a main steam turbine.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K19:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Operating License and Technical Procedures that define the operating parameters for the plant.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K20:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Error prevention techniques that support safe, reliable operation, for example Stop, Think, Act Review (STAR) and Peer Checking.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K21:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Multi-disciplined team working, conflict management, error likely situations and interactions with other team members of different personality types.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K22:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Documentation for example departmental policies and directives, normal and abnormal operating procedures, surveillance procedures and emergency planning procedures.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K23:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Fire protection and fire-fighting procedures (systems and techniques).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K24:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Operating experience of key nuclear industry events such as Windscale, Three Mile Island, Chernobyl, Fukishima, and events outside the nuclear industry such as Challenger Space Shuttle, US Airways, Nimrod, Piper Alpha, and relating these to the lessons learnt such as organisational weaknesses and plant design.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Following operational and maintenance procedures; maintaining compliance with technical specifications.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Making recommendations utilising technical knowledge. For example: modifications to system and component design throughout the reactor lifecycle.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitoring and evaluating plant conditions under different modes of operation, for example shut down, start up, abnormal, fault, emergency and critical steady state operations.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Communicating verbally - face to face and via radio. For example: using error prevention techniques such as 3 way communications and use of phonetic alphabet.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evaluating pre-defined calculations for reactor physics and thermal hydraulics. Taking action to maintain compliance with technical procedures.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Directing people and operations, exercising authority.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Using&#160; error prevention techniques, such as STAR and peer checking, procedural use and adherence, briefing, flagging.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Validating plant system information by using multiple sources, such as data processing systems, hard wired indications and feed-back from plant operatives.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Analysing information, such as plant information and trends in data.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Operating the panel controls to transition between manual, start-up and/or automatic modes of operation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Responding to abnormal events and/or alarms.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evaluating the effectiveness of corrective actions and their impact.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Using IT applications.&#160; For example: word, email, plant computing and control systems.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Communicating – written. For example handover logs, condition reports and email.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Time management. For example planning and scheduling work.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Behaviour&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;&lt;br /&gt;&lt;strong&gt;B1:&lt;/strong&gt; Professional. For example, reliable, integrity, polite and courteous.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B2:&lt;/strong&gt; Team player. For example takes account of impact of own work on others, helps and supports colleagues.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B3:&lt;/strong&gt; Committed to personal development, learning and self- improvement. For example: open to feedback and takes responsibility to identifying learning opportunities.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B4:&lt;/strong&gt; Committed to safety.&#160; For example: leads by example, demonstrates visible proactive approach to safety, challenges unsafe behaviours and understanding of the consequences as set out in the nuclear industry requirements.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B5:&lt;/strong&gt; Takes responsibility for own actions, for example ensuring all rules procedures and principles forsafe reliable operation are complied with.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B6:&lt;/strong&gt; Committed to sustainability and minimising environmental impact.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B7:&lt;/strong&gt; Advocate for the nuclear industry. For example, presents positive arguments, challenges misconceptions.&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B8:&lt;/strong&gt; Adaptable. For example changes style or approach dependent on situation, circumstances and environment.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&#160;&#160;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&#160;primary language is BSL.&#160;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;span&gt;Professional recognition&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;The Nuclear Institute -&lt;span&gt; Membership (MNucl)&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 30&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This apprenticeship standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector, in the commercial nuclear power industry and within the Ministry of Defence Royal Navy submarine fleet. Nuclear power in the United Kingdom (UK) generates around one fifth of the country&#39;s electricity. The UK currently has 15 operational commercial nuclear reactors at seven plants, 14 advanced gas-cooled reactors (AGR) and one pressurised water reactor (PWR). Reactor desk engineers are based within the main control room of a nuclear facility or the manoeuvring room in a nuclear submarine environment. The demand for this role is increasing with the advent of new nuclear build and developing technologies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to operate, monitor and control the nuclear reactor and associated equipment in normal operational mode, as well as abnormal conditions. They exercise this control during incident scenarios. This includes emergencies, such as system failures, security threats, fire or external events that may impact health &amp;amp; safety. The reactor desk engineer is the human interface between the reactor instrumentation and control systems and all personnel working on or interacting with these associated systems. They start up and shut down the nuclear reactor, observe system trends, control and monitor routine operation and maintenance activities and determine appropriate corrective action. They may take direct action from the control room/manoeuvring room itself or instruct operations and/or maintenance teams to take action. They ensure that all relevant operational parameters are logged and handed over to the incoming shift team, in a concise and easy to understand manner.&lt;/p&gt;\n&lt;p&gt;To carry out these duties, they must understand and apply complex engineering operating procedures. The role requires a high level of professionalism, the ability to interact with people at all levels in the organisation and to operate under pressure on their own.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of their shift team. They report directly to the control room/manoeuvring room supervisor and liaise with other members of the operations team such as the technicians and operations engineers outside the control room/manoeuvring room. They interact with the outgoing and incoming shift team as part of the handover activity.&lt;/p&gt;\n&lt;p&gt;In a power station environment, they exert control and direct personnel involved with activities on the plant which impact on safety. The reactor desk engineer has overall control over maintenance teams, operations technicians and systems engineers working on the plant in all modes of operation (normal, abnormal and fault modes). In emergency situations, the reactor desk engineer interacts with the emergency services and the on site emergency teams that respond as part of the emergency arrangements for their site, via the control room supervisor.&lt;/p&gt;\n&lt;p&gt;In the defence sector this role is more focussed on the system operation/control. In abnormal and fault conditions, the reactor operator will interact with the duty engineer or manoeuvring room supervisor.. An employee in this occupation will be responsible for the operation of a nuclear reactor, as a duly authorised person, in accordance with the nuclear regulatory legislation for the control and supervision of operations. They are ultimately responsible for the safety of individuals, the environment and operational assets. They must achieve and maintain competency in accordance with nuclear regulations.&lt;/p&gt;\n&lt;p&gt;The role requires the appropriate level of security clearances/vetting to work within the nuclear industry.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+      "detail": "Nuclear industry regulatory framework. For example: Nuclear Installations Act 1965 and 1969."
+    },
+    {
+      "knowledgeId": "d4f6b40d-d40e-4486-b8c8-cc69f8dbe6b5",
+      "detail": "Nuclear reactor failure modes and potential consequences. For example: fuel pin failure and radiological release to atmosphere."
+    },
+    {
+      "knowledgeId": "5e092512-eedf-4458-a8d0-9294e25b320f",
+      "detail": "Control panel indications and control loop status for different modes of reactor operation, for example: start up, steady state and shut down."
+    },
+    {
+      "knowledgeId": "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+      "detail": "Hazards affecting reactor control and operation. For example: Loss of automatic control or external factors such as flooding cold weather, loss of grid. The principles ALARP (as low as reasonably practicable) and BAT (best available techniques)."
+    },
+    {
+      "knowledgeId": "bce20c32-558b-45c2-893d-86a5bebff26b",
+      "detail": "Principles of deterministic fault analysis and probabilistic risk analysis."
+    },
+    {
+      "knowledgeId": "04c54637-69d6-43c7-93aa-b56406bd81e5",
+      "detail": "Principles and application of radiological protection; including time, distance, shielding, effects of exposure on human health, for example non-stochastic effects and the environment."
+    },
+    {
+      "knowledgeId": "d7125543-6add-4ca3-b6e6-b16e91905357",
+      "detail": "Fundamental engineering mathematics such as scientific notation, unit conversion, graphs and exponential functions and rate concepts applied to radioactive decay and process controls."
+    },
+    {
+      "knowledgeId": "7bacf2c2-9a94-4bab-85f7-775893e22e72",
+      "detail": "Reactor physics, the neutron lifecycle and design of reactor systems."
+    },
+    {
+      "knowledgeId": "c398994b-1e24-442a-9f0d-210192c08ca4",
+      "detail": "Nuclear physics and reactor theory principles for power reactors."
+    },
+    {
+      "knowledgeId": "0a19b643-d809-4791-9f54-92b3dfe6225e",
+      "detail": "Thermal hydraulics and Thermal Dynamics including multiphase heat transfer, feedback coefficients, the coupling between reactor physics and thermal hydraulics."
+    },
+    {
+      "knowledgeId": "e0081b34-8c1b-4101-9ccf-56ad0e1aac46",
+      "detail": "Reactor materials including properties and selection criteria of reactor materials; the mechanisms of corrosion and degradation and the effects of irradiation on materials including fuel."
+    },
+    {
+      "knowledgeId": "259f8516-da73-4550-846d-c8376be4dd0f",
+      "detail": "Chemistry including key functions of chemistry controls to maintain the integrity of materials on both primary and secondary circuits."
+    },
+    {
+      "knowledgeId": "5545461f-ede8-4a14-a86c-2980ac93ea63",
+      "detail": "Interdependencies of reactor physics, reactor materials, chemistry and thermal hydraulics on the design and operation of reactor systems."
+    },
+    {
+      "knowledgeId": "d6dd19d3-7c53-4479-987e-36729710f13e",
+      "detail": "Key components used in conventional plant and reactor systems, for example valves, pumps, heat exchangers."
+    },
+    {
+      "knowledgeId": "da87656a-a0d6-497e-8339-8711251b762d",
+      "detail": "The operating principles and application of electrical components. For example: isolators, circuit breakers, motors, generators and protective devices."
+    },
+    {
+      "knowledgeId": "af4973d2-a180-4e9b-bb2a-e0b7a25b042c",
+      "detail": "Symbols used in engineering drawings, diagrams, schematics and their application in the performance of licensed duties."
+    },
+    {
+      "knowledgeId": "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
+      "detail": "The operating principles of basic sensors, instruments, and control systems used in plant systems; ensuring the accuracy of instrumentation, and calibration  frequencies."
+    },
+    {
+      "knowledgeId": "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+      "detail": "Design of major plant systems such as feed water, steam systems, reactor support systems, decay heat removal systems, emergency injection systems and long term cooling systems. Fundamental plant operating principles, including start-up of a main steam turbine."
+    },
+    {
+      "knowledgeId": "03e02069-9db2-45a1-8705-8b2e6acf8736",
+      "detail": "Operating License and Technical Procedures that define the operating parameters for the plant."
+    },
+    {
+      "knowledgeId": "a11bde83-6d27-4d7d-bf77-26165380e5ae",
+      "detail": " Error prevention techniques that support safe, reliable operation, for example Stop, Think, Act Review (STAR) and Peer Checking."
+    },
+    {
+      "knowledgeId": "b4999164-d5be-4e73-8465-bd8e45d15c92",
+      "detail": "Multi-disciplined team working, conflict management, error likely situations and interactions with other team members of different personality types."
+    },
+    {
+      "knowledgeId": "47ffd2dd-263b-4271-9a7b-113a7731c3b7",
+      "detail": "Documentation for example departmental policies and directives, normal and abnormal operating procedures, surveillance procedures and emergency planning procedures."
+    },
+    {
+      "knowledgeId": "6c0a6717-54b2-4299-8d5a-16860afed2d8",
+      "detail": "Fire protection and fire-fighting procedures (systems and techniques)."
+    },
+    {
+      "knowledgeId": "6dbdc293-791d-48e8-9151-367a3b636d12",
+      "detail": "Operating experience of key nuclear industry events such as Windscale, Three Mile Island, Chernobyl, Fukishima, and events outside the nuclear industry such as Challenger Space Shuttle, US Airways, Nimrod, Piper Alpha, and relating these to the lessons learnt such as organisational weaknesses and plant design."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "07a2bfab-86d7-4f65-a5d9-0633bf490bf7",
+      "detail": "Professional. For example, reliable, integrity, polite and courteous."
+    },
+    {
+      "behaviourId": "dd6edf86-4b2d-420e-92ce-ad5a67ecf128",
+      "detail": "Team player. For example takes account of impact of own work on others, helps and supports colleagues."
+    },
+    {
+      "behaviourId": "051f2572-5d3e-4926-bb1d-a5a8af8b2f7b",
+      "detail": "Committed to personal development, learning and self- improvement. For example: open to feedback and takes responsibility to identifying learning opportunities."
+    },
+    {
+      "behaviourId": "dc112d56-127f-4eab-8b58-ba32ff922c5a",
+      "detail": "Committed to safety.  For example: leads by example, demonstrates visible proactive approach to safety, challenges unsafe behaviours and understanding of the consequences as set out in the nuclear industry requirements."
+    },
+    {
+      "behaviourId": "cf23ef50-bec8-466c-9a7a-3a8b26823df2",
+      "detail": "Takes responsibility for own actions, for example ensuring all rules procedures and principles forsafe reliable operation are complied with."
+    },
+    {
+      "behaviourId": "f051cc65-a707-47dd-817c-c6a8d2a1ee63",
+      "detail": "Committed to sustainability and minimising environmental impact."
+    },
+    {
+      "behaviourId": "26431419-91a7-4d63-bab2-481cc60b376d",
+      "detail": "Advocate for the nuclear industry. For example, presents positive arguments, challenges misconceptions."
+    },
+    {
+      "behaviourId": "9325d099-4698-4c9b-a4a5-8eef7fcbc762",
+      "detail": "Adaptable. For example changes style or approach dependent on situation, circumstances and environment."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
+      "detail": "Following operational and maintenance procedures; maintaining compliance with technical specifications."
+    },
+    {
+      "skillId": "b9c1a88e-0938-4799-adbc-0b0984ab4e47",
+      "detail": "Making recommendations utilising technical knowledge. For example: modifications to system and component design throughout the reactor lifecycle."
+    },
+    {
+      "skillId": "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+      "detail": "Monitoring and evaluating plant conditions under different modes of operation, for example shut down, start up, abnormal, fault, emergency and critical steady state operations."
+    },
+    {
+      "skillId": "0d2683cd-d2a3-4dc7-b36f-d39a5920edee",
+      "detail": "Communicating verbally - face to face and via radio. For example: using error prevention techniques such as 3 way communications and use of phonetic alphabet."
+    },
+    {
+      "skillId": "54c2dce1-4161-4654-9584-521ee8e26df7",
+      "detail": "Evaluating pre-defined calculations for reactor physics and thermal hydraulics. Taking action to maintain compliance with technical procedures."
+    },
+    {
+      "skillId": "563d029b-0947-418d-9f37-8b2addafa5e6",
+      "detail": "Directing people and operations, exercising authority."
+    },
+    {
+      "skillId": "f2df19d3-9e80-4336-ae57-afd5e108c4d4",
+      "detail": "Using  error prevention techniques, such as STAR and peer checking, procedural use and adherence, briefing, flagging."
+    },
+    {
+      "skillId": "c5bfa7d0-6aa9-43f3-8d60-6729295ae822",
+      "detail": "Validating plant system information by using multiple sources, such as data processing systems, hard wired indications and feed-back from plant operatives."
+    },
+    {
+      "skillId": "7313db72-e402-4645-9aff-be5f3c143d88",
+      "detail": "Analysing information, such as plant information and trends in data."
+    },
+    {
+      "skillId": "fa32ef0c-9d28-432c-b746-baf7acf15614",
+      "detail": "Operating the panel controls to transition between manual, start-up and/or automatic modes of operation."
+    },
+    {
+      "skillId": "67042d20-1c4d-40db-bbd4-059e2ca809bc",
+      "detail": "Responding to abnormal events and/or alarms."
+    },
+    {
+      "skillId": "d07930fa-8905-4a25-8dbf-ddddf7684fde",
+      "detail": "Evaluating the effectiveness of corrective actions and their impact."
+    },
+    {
+      "skillId": "a7eeb55c-7715-4fa6-afc3-e23cfd2c9251",
+      "detail": "Using IT applications.  For example: word, email, plant computing and control systems."
+    },
+    {
+      "skillId": "ed8e8e66-aaaa-418d-a8e1-a80c645ac25c",
+      "detail": "Communicating – written. For example handover logs, condition reports and email."
+    },
+    {
+      "skillId": "1850168e-6535-482c-b979-1bd86bf03d3f",
+      "detail": "Time management. For example planning and scheduling work."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-05-06T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
-  "tbReference": "TB0410 ",
+  "tbReference": "TB0410",
   "tbMainContact": "Selvin.Roberts@edfenergy.com",
   "involvedEmployers": "EDF Energy, Royal Navy",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "typicalJobTitles": [
+    "Reactor Desk Engineer",
+    "Reactor Panel Operator",
+    "Main Control Desk Operator",
+    "Reactor Operator",
+    "Assistant Engineer Operations"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Plant and Process Engineer",
-  "createdDate": "2018-11-16T14:58:27 +00:00",
-  "lastUpdated": "2019-04-30T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/nuclear-reactor-desk-engineer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/nuclear-reactor-desk-engineer-v1-0",
+  "cluster": "Plant and process engineer",
+  "clusterId": "266",
+  "clusterDescription": null,
+  "createdDate": "2021-11-26T15:06:32 +00:00",
+  "lastUpdated": "2021-07-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-06T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).",
+  "occupationCode": "OCC0784",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0784-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0784-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "The Nuclear Institute",
+      "level": "Membership (MNucl)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "548f7a77-5c6b-405f-bafc-a198153cbf8f",
+      "dutyDetail": "Monitor and evaluate the nuclear reactor and associated system conditions during start up, steady state at power and following reactor trip.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dc112d56-127f-4eab-8b58-ba32ff922c5a"
+      ],
+      "mappedKnowledge": [
+        "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+        "d7125543-6add-4ca3-b6e6-b16e91905357",
+        "c398994b-1e24-442a-9f0d-210192c08ca4",
+        "0a19b643-d809-4791-9f54-92b3dfe6225e",
+        "e0081b34-8c1b-4101-9ccf-56ad0e1aac46",
+        "b4999164-d5be-4e73-8465-bd8e45d15c92"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "54c2dce1-4161-4654-9584-521ee8e26df7",
+        "c5bfa7d0-6aa9-43f3-8d60-6729295ae822",
+        "d07930fa-8905-4a25-8dbf-ddddf7684fde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f7be3779-2536-4f28-9bd6-81b08d8db1d3",
+      "dutyDetail": "Recognise when a plant disturbance will result in abnormal operation and take action to return the plant to a safe known state.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dc112d56-127f-4eab-8b58-ba32ff922c5a",
+        "cf23ef50-bec8-466c-9a7a-3a8b26823df2"
+      ],
+      "mappedKnowledge": [
+        "d4f6b40d-d40e-4486-b8c8-cc69f8dbe6b5",
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+        "bce20c32-558b-45c2-893d-86a5bebff26b",
+        "5545461f-ede8-4a14-a86c-2980ac93ea63",
+        "6dbdc293-791d-48e8-9151-367a3b636d12"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "54c2dce1-4161-4654-9584-521ee8e26df7",
+        "7313db72-e402-4645-9aff-be5f3c143d88",
+        "67042d20-1c4d-40db-bbd4-059e2ca809bc",
+        "d07930fa-8905-4a25-8dbf-ddddf7684fde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3952474f-1de2-4a20-a5c8-db53961f8671",
+      "dutyDetail": "Log plant condition information throughout a shift, identify any parameters or trends needing investigation and communicate the information contained to the shift team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128",
+        "26431419-91a7-4d63-bab2-481cc60b376d"
+      ],
+      "mappedKnowledge": [
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "af4973d2-a180-4e9b-bb2a-e0b7a25b042c",
+        "03e02069-9db2-45a1-8705-8b2e6acf8736",
+        "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "54c2dce1-4161-4654-9584-521ee8e26df7",
+        "563d029b-0947-418d-9f37-8b2addafa5e6",
+        "c5bfa7d0-6aa9-43f3-8d60-6729295ae822",
+        "7313db72-e402-4645-9aff-be5f3c143d88",
+        "ed8e8e66-aaaa-418d-a8e1-a80c645ac25c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b2b0956f-c15b-422b-a019-8984389dd6da",
+      "dutyDetail": "Control plant parameters during reactor start-up.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128"
+      ],
+      "mappedKnowledge": [
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "7bacf2c2-9a94-4bab-85f7-775893e22e72",
+        "c398994b-1e24-442a-9f0d-210192c08ca4",
+        "0a19b643-d809-4791-9f54-92b3dfe6225e",
+        "259f8516-da73-4550-846d-c8376be4dd0f",
+        "d6dd19d3-7c53-4479-987e-36729710f13e",
+        "da87656a-a0d6-497e-8339-8711251b762d",
+        "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
+        "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "f2df19d3-9e80-4336-ae57-afd5e108c4d4",
+        "fa32ef0c-9d28-432c-b746-baf7acf15614",
+        "1850168e-6535-482c-b979-1bd86bf03d3f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4460b551-725f-4833-8eb5-596962ddcc14",
+      "dutyDetail": "Control plant parameters during steady state.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128"
+      ],
+      "mappedKnowledge": [
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "7bacf2c2-9a94-4bab-85f7-775893e22e72",
+        "c398994b-1e24-442a-9f0d-210192c08ca4",
+        "0a19b643-d809-4791-9f54-92b3dfe6225e",
+        "259f8516-da73-4550-846d-c8376be4dd0f",
+        "d6dd19d3-7c53-4479-987e-36729710f13e",
+        "da87656a-a0d6-497e-8339-8711251b762d",
+        "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
+        "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "f2df19d3-9e80-4336-ae57-afd5e108c4d4",
+        "fa32ef0c-9d28-432c-b746-baf7acf15614",
+        "1850168e-6535-482c-b979-1bd86bf03d3f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e4296b5-123a-4d5b-b288-346b0ca9b3c4",
+      "dutyDetail": "Control plant parameters following planned and unplanned reactor shutdown.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128"
+      ],
+      "mappedKnowledge": [
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "7bacf2c2-9a94-4bab-85f7-775893e22e72",
+        "c398994b-1e24-442a-9f0d-210192c08ca4",
+        "0a19b643-d809-4791-9f54-92b3dfe6225e",
+        "259f8516-da73-4550-846d-c8376be4dd0f",
+        "d6dd19d3-7c53-4479-987e-36729710f13e",
+        "da87656a-a0d6-497e-8339-8711251b762d",
+        "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
+        "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
+        "56fc9cbb-aa0b-4b21-a0b3-acc4275d1738",
+        "f2df19d3-9e80-4336-ae57-afd5e108c4d4",
+        "fa32ef0c-9d28-432c-b746-baf7acf15614",
+        "1850168e-6535-482c-b979-1bd86bf03d3f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eefb6820-1e96-424a-9472-23a5d0030a5b",
+      "dutyDetail": "Liaise with, and direct other functions to ensure that operations are within specified limits during reactor start up, steady state at power and following planned and unplanned reactor shutdown.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "07a2bfab-86d7-4f65-a5d9-0633bf490bf7",
+        "051f2572-5d3e-4926-bb1d-a5a8af8b2f7b",
+        "26431419-91a7-4d63-bab2-481cc60b376d",
+        "9325d099-4698-4c9b-a4a5-8eef7fcbc762"
+      ],
+      "mappedKnowledge": [
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+        "04c54637-69d6-43c7-93aa-b56406bd81e5",
+        "af4973d2-a180-4e9b-bb2a-e0b7a25b042c",
+        "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+        "03e02069-9db2-45a1-8705-8b2e6acf8736",
+        "b4999164-d5be-4e73-8465-bd8e45d15c92"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0d2683cd-d2a3-4dc7-b36f-d39a5920edee",
+        "563d029b-0947-418d-9f37-8b2addafa5e6",
+        "f2df19d3-9e80-4336-ae57-afd5e108c4d4",
+        "1850168e-6535-482c-b979-1bd86bf03d3f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a7065339-eafd-4478-bdec-40670747adc4",
+      "dutyDetail": "Manage shift handover and control of operations with due regard for all regulatory requirements and limits of operation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "07a2bfab-86d7-4f65-a5d9-0633bf490bf7",
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128"
+      ],
+      "mappedKnowledge": [
+        "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+        "5e092512-eedf-4458-a8d0-9294e25b320f",
+        "d7125543-6add-4ca3-b6e6-b16e91905357",
+        "82530aff-4f63-4a7b-bcf8-2d4a91d93e62",
+        "03e02069-9db2-45a1-8705-8b2e6acf8736",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae",
+        "b4999164-d5be-4e73-8465-bd8e45d15c92",
+        "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "563d029b-0947-418d-9f37-8b2addafa5e6",
+        "67042d20-1c4d-40db-bbd4-059e2ca809bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b922aa97-7905-487d-8328-b78b971b89c7",
+      "dutyDetail": "Carry out the appropriate actions pertinent to an incident such as loss of grid, security threats, fire etc.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128",
+        "cf23ef50-bec8-466c-9a7a-3a8b26823df2",
+        "f051cc65-a707-47dd-817c-c6a8d2a1ee63"
+      ],
+      "mappedKnowledge": [
+        "d4f6b40d-d40e-4486-b8c8-cc69f8dbe6b5",
+        "04c54637-69d6-43c7-93aa-b56406bd81e5",
+        "5545461f-ede8-4a14-a86c-2980ac93ea63",
+        "af4973d2-a180-4e9b-bb2a-e0b7a25b042c",
+        "03e02069-9db2-45a1-8705-8b2e6acf8736",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae",
+        "47ffd2dd-263b-4271-9a7b-113a7731c3b7",
+        "6c0a6717-54b2-4299-8d5a-16860afed2d8",
+        "6dbdc293-791d-48e8-9151-367a3b636d12"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "563d029b-0947-418d-9f37-8b2addafa5e6",
+        "7313db72-e402-4645-9aff-be5f3c143d88",
+        "67042d20-1c4d-40db-bbd4-059e2ca809bc",
+        "d07930fa-8905-4a25-8dbf-ddddf7684fde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fe403d52-d681-4f8e-b163-e9d2d8e91625",
+      "dutyDetail": "Undertake reactor control activities relating to  periods of routine plant maintenance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd6edf86-4b2d-420e-92ce-ad5a67ecf128",
+        "dc112d56-127f-4eab-8b58-ba32ff922c5a"
+      ],
+      "mappedKnowledge": [
+        "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+        "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+        "04c54637-69d6-43c7-93aa-b56406bd81e5",
+        "5545461f-ede8-4a14-a86c-2980ac93ea63",
+        "d6dd19d3-7c53-4479-987e-36729710f13e",
+        "da87656a-a0d6-497e-8339-8711251b762d",
+        "af4973d2-a180-4e9b-bb2a-e0b7a25b042c",
+        "e3758dbc-f795-4ca0-b9bc-5f2ef606a20c",
+        "b4999164-d5be-4e73-8465-bd8e45d15c92"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a42254a1-7b0a-4ffa-9ef2-dbc003595942",
+        "563d029b-0947-418d-9f37-8b2addafa5e6",
+        "f2df19d3-9e80-4336-ae57-afd5e108c4d4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "011ea031-fd08-4375-97a0-c6cddfb9feb0",
+      "dutyDetail": "Identify and make recommended changes to operational processes, systems and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "07a2bfab-86d7-4f65-a5d9-0633bf490bf7",
+        "dc112d56-127f-4eab-8b58-ba32ff922c5a",
+        "f051cc65-a707-47dd-817c-c6a8d2a1ee63",
+        "26431419-91a7-4d63-bab2-481cc60b376d",
+        "9325d099-4698-4c9b-a4a5-8eef7fcbc762"
+      ],
+      "mappedKnowledge": [
+        "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+        "74ca1b0f-9a10-4d90-887e-e9e44edf5cda",
+        "04c54637-69d6-43c7-93aa-b56406bd81e5",
+        "5545461f-ede8-4a14-a86c-2980ac93ea63",
+        "a11bde83-6d27-4d7d-bf77-26165380e5ae",
+        "6dbdc293-791d-48e8-9151-367a3b636d12"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9c1a88e-0938-4799-adbc-0b0984ab4e47",
+        "563d029b-0947-418d-9f37-8b2addafa5e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2738e93-d143-4a54-9b79-701afd9ac423",
+      "dutyDetail": "Act as an ambassador for nuclear safety culture and promote safety and safe working practices to plant personnel.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "051f2572-5d3e-4926-bb1d-a5a8af8b2f7b",
+        "f051cc65-a707-47dd-817c-c6a8d2a1ee63"
+      ],
+      "mappedKnowledge": [
+        "4ef5ad07-8f1e-424a-b49e-ddd0c484e23f",
+        "0a19b643-d809-4791-9f54-92b3dfe6225e",
+        "e0081b34-8c1b-4101-9ccf-56ad0e1aac46",
+        "259f8516-da73-4550-846d-c8376be4dd0f",
+        "5545461f-ede8-4a14-a86c-2980ac93ea63",
+        "47ffd2dd-263b-4271-9a7b-113a7731c3b7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9c1a88e-0938-4799-adbc-0b0984ab4e47",
+        "563d029b-0947-418d-9f37-8b2addafa5e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-07-26T00:00:00"
 }
