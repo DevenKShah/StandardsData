@@ -1,0 +1,956 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 507,
+  "referenceNumber": "ST0631",
+  "learningAimClassCode": "",
+  "title": "Public health practitioner - integrated degree",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0631",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan revised",
+  "changedDate": "2024-05-20T00:00:00",
+  "earliestStartDate": "2024-05-20T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Assessing and managing risk of disease and ill-health, and the prevention of premature deaths.",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 20000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "Public health practitioner",
+    "risk",
+    "disease",
+    "ill-health",
+    "prevention",
+    "premature death",
+    "social care",
+    "public health"
+  ],
+  "jobRoles": [
+    "Accident prevention officer",
+    "Cardiovascular disease (cvd) prevention lead",
+    "Community development worker",
+    "Community engagement officer",
+    "Health and wellbeing coordinator",
+    "Health improvement practitioner",
+    "Health protection practitioner",
+    "Healthy lifestyles coordinator",
+    "Immunisation programme coordinator",
+    "Public health data analyst",
+    "Public health intelligence officer",
+    "Public health practitioner",
+    "Public health project manager",
+    "Tobacco control lead",
+    "Workplace health advisor"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/0qajcza3/st0631_public-health-practitioner_l6_ap_v12_for-publication_07082024.pdf",
+  "ssa1": "2 Science and Mathematics",
+  "ssa2": "2.1 Science",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Public Health Practitioners (PHPs) are found in a wide range of organisations including:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Local councils&lt;/li&gt;\n&lt;li&gt;Local or international agencies&lt;/li&gt;\n&lt;li&gt;National Health Service (NHS)&lt;/li&gt;\n&lt;li&gt;Business and industry&lt;/li&gt;\n&lt;li&gt;Voluntary and community agencies eg: charities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;br /&gt;Public health practitioners (PHPs) work as part of a national workforce that strives to help people and communities to maximise their potential for a healthy, happy and productive life, to live healthier for longer.&lt;br /&gt;&lt;br /&gt;PHPs focus on health at a community or population level, assessing and managing risk of disease and ill-health, and the prevention of premature deaths. They monitor and promote health and wellbeing to ensure fairer health outcomes between different communities and groups (health inequalities). They put in place protection measures to protect the public from environmental hazards and risks. They evaluate sources of evidence, interpret it and design and plan health interventions.&lt;br /&gt;&lt;br /&gt;PHPs work independently and collaboratively, both within their organisation and with others, to initiate and develop public health interventions and services (eg: obesity prevention programmes; infection prevention and control programmes; national risk-assessment and screening programmes). They work in a wide range of settings (eg: office, community, healthcare), working with different types of organisations (see list above), and with professionals and members of the public. They will usually be part of a team of public health professionals and may report to public health specialists and consultants from a range of backgrounds (including medicine). They might be expected to work out-of-hours or on-call so they need to be flexible and adaptable.&lt;br /&gt;&lt;br /&gt;As a professionally competent PHP they act autonomously within the scope of their role. They implement plans and policies, and may help to develop those plans. They take responsibility for their continuous development; and the development, and possibly the supervision, of others. They manage their own workload and the prioritisation of activities, utilising their problem solving skills in a complex and changing environment. They may also be responsible for resources such as people, budgets, equipment or facilities.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6af8afbf-cfca-4431-91ff-5e7cfe23abd7",
+      "detail": "different sources of data and intelligence and their strengths and limitations"
+    },
+    {
+      "knowledgeId": "8afbab25-67e9-44a8-a764-0f58df113bd6",
+      "detail": "methods used to determine existing and future population health needs and how they are monitored (eg: within a local authority population) and for specific communities (eg: children and young people; people with life-long conditions such as diabetes; people living in prison)"
+    },
+    {
+      "knowledgeId": "416fefdd-6ef8-497e-b621-ec5bb14acc46",
+      "detail": "the complexities of health inequalities, how they occur, how they are measured, monitored and reported, and the impact on different societies and populations"
+    },
+    {
+      "knowledgeId": "3a277d34-7829-4c6c-a87e-0572ea4e0b47",
+      "detail": "how to analyse and interpret the data generated when tracing patterns of disease and ill-health, and how this data is reported for communities and populations (eg: incidence and prevalence)"
+    },
+    {
+      "knowledgeId": "6c21648d-6cd5-44e5-be45-1e32885c217b",
+      "detail": "the challenges of measuring health and wellbeing and health improvement, setting performance indicators for health–related programmes and services, and the importance of evaluation, audit and quality assurance"
+    },
+    {
+      "knowledgeId": "2a628cd1-2f95-48ea-a936-5175f44f378b",
+      "detail": "methods used to engage with the public and local communities in line with prevailing evidence of effectiveness (eg: asset based approaches to community development), recognising the role of agency, autonomy, power and control"
+    },
+    {
+      "knowledgeId": "9ec4f2db-e396-4ef2-bb56-cc279259497e",
+      "detail": "how public health and wellbeing interventions are designed, planned and developed, informed by the best available evidence (about what works, and what doesn’t), and how to evaluate these interventions to track effectiveness and ensure continuing improvement"
+    },
+    {
+      "knowledgeId": "f8289ee9-fc70-4859-9185-8ca042af2544",
+      "detail": "the theories underpinning behavioural science and its relevance to a range of health and wellbeing outcomes, for individuals, communities, and populations, and the appropriate use of behaviour change techniques and tools for different groups, in different settings with different opportunities (e.g.: helping people to make healthy dietary choices; supporting people living with addiction;  informing and minimising risk-taking behaviours;  heeding health promoting messages and advice)"
+    },
+    {
+      "knowledgeId": "99f137a5-fbeb-4db8-9459-bceed57423e0",
+      "detail": "the determinants of health, including the wider and social determinants; how these impact on the health and wellbeing of individuals, communities and populations; and the evidence-based approaches to consider when taking action to achieve better health and wellbeing outcomes for all, while ensuring that the needs of the most vulnerable are met"
+    },
+    {
+      "knowledgeId": "d86efd64-b4c9-4997-9ad3-565903f335e1",
+      "detail": "infectious disease (incubation, transmission, hygiene, infection control, personal behaviours); how infectious disease can spread in a range of settings; and the prevention and management strategies and protocols used to manage the spread of infectious disease, including the identification, reporting and tracking of notifiable diseases, and current legislation"
+    },
+    {
+      "knowledgeId": "e8066682-0893-4928-b109-c076845ba28c",
+      "detail": "the range of environmental hazards that can pose a risk to the public’s health, including chemical contamination and radiation, and the systems in place to prevent, report, monitor and manage these risks"
+    },
+    {
+      "knowledgeId": "1abbc0c2-76cb-4a52-9995-4c566d2f3796",
+      "detail": "the challenges and successes of disease prevention and management programmes such as immunisation and screening, for whole populations, or specific groups, and the pre-requisites for these programmes to be most effective"
+    },
+    {
+      "knowledgeId": "be8eefd1-56e2-4457-ae41-a120744b001b",
+      "detail": "systems supporting emergency planning and response, the organisations responsible, and the role of public health"
+    },
+    {
+      "knowledgeId": "30207207-0495-4f8e-bad9-310af3cacb29",
+      "detail": "how to mitigate risks to the public’s health using different approaches such as legislation, licensing, policy, education, fiscal measures"
+    },
+    {
+      "knowledgeId": "547d547e-fb60-4f9d-8d60-35fd5c5320fd",
+      "detail": "how to critically appraise the evidence base, interpret its relevance and application to practice, and how it informs the basis of key public health messages and advice, and national guidance"
+    },
+    {
+      "knowledgeId": "7ca1abd6-81b9-4bd2-a11b-88350d7f21a2",
+      "detail": "how public health interventions are designed, planned and developed, informed by the best available evidence (about what works, and what doesn’t), and when the evidence base is evolving"
+    },
+    {
+      "knowledgeId": "de1bff2e-8e17-4cfe-b73f-2c3cb16daff1",
+      "detail": "how to evaluate public health interventions to track effectiveness; ensure continuing improvement; and contribute to the evidence base"
+    },
+    {
+      "knowledgeId": "52d0291f-8a86-4fab-8ea3-efb4166ddb0c",
+      "detail": "the ways in which health and care organisations and professionals are held to account for the quality and effectiveness of services and interventions, and how they keep themselves informed of new developments in technologies, treatments and therapies to improve efficacy"
+    },
+    {
+      "knowledgeId": "7b9c61dc-477f-4c8f-8cac-fa4bd05ea74e",
+      "detail": "the complexities of measuring health improvement, setting performance indicators for programmes and services, and the importance of evaluation, audit and quality assurance"
+    },
+    {
+      "knowledgeId": "beabc478-672d-4057-88c1-a22452d23861",
+      "detail": "how health and care services are designed, planned and developed, informed by the best available evidence, and how they are monitored to track effectiveness and ensure continuing improvement"
+    },
+    {
+      "knowledgeId": "b15443f6-9520-4e47-b0a3-49309fe90d63",
+      "detail": "how policy and strategy is formed and developed, nationally and locally"
+    },
+    {
+      "knowledgeId": "183dd1f9-887d-40b6-89e4-c41ec0d5f5ca",
+      "detail": "how policies and strategies are used to implement change, improve services, and secure wide engagement in public health issues and outcomes, the social determinants of health, and the different government and local government departments that influence these"
+    },
+    {
+      "knowledgeId": "b6611b7e-3e1d-4ba5-a484-bcee35691754",
+      "detail": "the extent to which national and local policies, strategies and service planning impact on health and wellbeing"
+    },
+    {
+      "knowledgeId": "596652b8-5dc0-4fd3-b7a5-bba5e7346bcf",
+      "detail": "the theories underpinning behavioural science and its relevance to a range of health and wellbeing outcomes, and how it informs the development of policy, strategy, and the planning and implementation of public health interventions and services"
+    },
+    {
+      "knowledgeId": "b9ad852c-0338-46b9-8bdc-6f27d571570e",
+      "detail": "the principles of partnership working and collaboration, and the skills and approaches necessary to do this successfully"
+    },
+    {
+      "knowledgeId": "0c89c795-eda7-4a96-ab17-ed80d54eadb9",
+      "detail": "ways to determine the organisational relationships and inter-dependencies in the local field of operation; the boundaries of jurisdiction, accountability, and purpose; and where the opportunities for collaboration might lie"
+    },
+    {
+      "knowledgeId": "dda0b47c-1b13-48b6-8f78-435dd44c12d7",
+      "detail": "the different approaches to evaluating the effectiveness of existing partnerships"
+    },
+    {
+      "knowledgeId": "28915397-e57c-4f13-9ab0-d284bef90000",
+      "detail": "how health and care services are funded, the organisations responsible for the delivery of different services, and the tensions that arise from the availability of finite resources"
+    },
+    {
+      "knowledgeId": "b13e7106-0843-4a48-bfa7-e41a4f177eb0",
+      "detail": "the complexities of measuring health improvement when setting performance indicators for programmes and services in specifications and agreements"
+    },
+    {
+      "knowledgeId": "d0e7e8ba-e13d-4cb9-9731-81a2960edb0b",
+      "detail": "the legislation and regulations relating to procurement, commissioning models and theories of commissioning for outcomes"
+    },
+    {
+      "knowledgeId": "f3c829be-5511-4e26-8627-3f717fe2b305",
+      "detail": "how progress and deliverables against outcomes and processes agreed through a contract, service level agreement, or memorandum of understanding are managed and monitored"
+    },
+    {
+      "knowledgeId": "13d6c230-a8a7-44bf-a6f6-e50b35eb8ff8",
+      "detail": "the different organisations and agencies, both nationally and locally, that play a key role in the public’s health, their statutory duties and remits, and the leadership and other roles where key accountabilities lie"
+    },
+    {
+      "knowledgeId": "b0923784-3ad7-481b-9de6-898fd468c07d",
+      "detail": "ways to determine and overcome the challenges of making the business case for prevention against competing, and more immediate priorities, for key agencies positioned to promote and protect the public’s health"
+    },
+    {
+      "knowledgeId": "00aa8c2d-db50-481c-9b6e-318c04e7f640",
+      "detail": "the legislative framework and decision making, administrative and reporting processes that support political and democratic systems (e.g.: unitary and tiered local government structures and service accountabilities)"
+    },
+    {
+      "knowledgeId": "b7838c41-1eee-4924-a6f3-d900bb90c060",
+      "detail": "a critical awareness of the political and other tensions that impact on public service provision, and public protection, and ways to encourage a focus on the interests of the public’s health (including helping individuals and communities to have more control over decisions that affect them and promote health equity, equality and justice)"
+    },
+    {
+      "knowledgeId": "a569d43f-bf06-4b55-b864-78b1daf4e2cf",
+      "detail": "the theories and approaches that underpin the leadership and management culture within decision making organisations, including systems leadership approaches"
+    },
+    {
+      "knowledgeId": "a52db08b-b677-40c7-8e85-4a5453a0d59c",
+      "detail": "healthcare management systems and their applicability to public health systems (locally, regionally)"
+    },
+    {
+      "knowledgeId": "3f123c5d-7004-4061-8a7a-9082880a1ab5",
+      "detail": "leadership and management approaches that support the influencing role of public health practitioners in situations where they have some statutory authority, (e.g. through the statutory requirement for local authority public health teams to provide public healthcare advice to NHS commissioners), but also in situations when they do not have this authority"
+    },
+    {
+      "knowledgeId": "2033538a-10a8-4837-a592-e937560f4218",
+      "detail": "approaches to transformational change management within health and care systems"
+    },
+    {
+      "knowledgeId": "f1216922-42d7-406b-b769-0a7904234268",
+      "detail": "techniques and methods for communicating sometimes complex messages to different segments of the population to support choices and decisions made at an individual level that impact on health and wellbeing"
+    },
+    {
+      "knowledgeId": "83428470-bbac-487c-8a89-f98e435f23ae",
+      "detail": "the techniques and methods used to engage with the public and local communities, and to consult with the public in a meaningful way, with an understanding of best practice in the use and application of these methods"
+    },
+    {
+      "knowledgeId": "7d9d924f-a542-488d-9fe9-f986fb4acd77",
+      "detail": "theories underpinning health education in addressing the wider determinants of health, and the promotion of health for individuals, groups and communities"
+    },
+    {
+      "knowledgeId": "1105a965-36b3-4dca-9756-4081e49b1f88",
+      "detail": "the relevance and application of behavioural science, and the use of social marketing techniques, to deliver accessible messages to different segments of populations and communities, to support behaviours and choices that are made at an individual or community level that impact on health, wellbeing, and healthy life expectancy"
+    },
+    {
+      "knowledgeId": "874a2e26-1a78-40b5-b39f-33c2383fcee4",
+      "detail": "the principles of programme and project management, and an understanding of the models of project and programme management being used to deliver public health activity"
+    },
+    {
+      "knowledgeId": "40e7a5b5-cd0d-4a42-b26a-c8e20932e3af",
+      "detail": "the principles of corporate governance and accountability, and a recognition and understanding of the governance frameworks in place within your own organisation and through which public health action is delivered"
+    },
+    {
+      "knowledgeId": "c3ceaf1d-a4ff-4da3-8485-c3cfebf16064",
+      "detail": "the importance of evaluation, audit and quality assurance"
+    },
+    {
+      "knowledgeId": "d8616aa5-52bd-411d-a3c2-454aa2f7260a",
+      "detail": "how to identify opportunities to build capacity through the specialised and wider public health workforce to strengthen approaches to prevention, understanding  the impact of local system capacity on the delivery of public health services and interventions"
+    },
+    {
+      "knowledgeId": "badac802-546d-4f6f-9e2e-25643da3fa2f",
+      "detail": "the principles of corporate governance and accountability, and the importance of engaging with the organisational governance frameworks through which public health action is delivered"
+    },
+    {
+      "knowledgeId": "f9c19f92-6a93-481e-a8ac-58551ab03ce8",
+      "detail": "economic analysis of services and interventions using tools and techniques to determine cost effectiveness, return on investment and value for money to inform decision making"
+    },
+    {
+      "knowledgeId": "e409b8ef-fcf7-4dab-ab93-eb8b79d15326",
+      "detail": "the factors that affect the ability of individuals to learn and develop within a community or work environment; and how to provide accessible learning opportunities that enable people to develop both their own learning and the learning of others"
+    },
+    {
+      "knowledgeId": "0079e711-cd0d-4806-b1a4-23b8f8c6a0cb",
+      "detail": "theories informing the development of public health ethics and law, how these compare to medical ethics, and the different ethical theories that support different public health challenges"
+    },
+    {
+      "knowledgeId": "98176040-8b01-4f14-9b16-0fedd3257900",
+      "detail": "making the best use of a range of ethical frameworks to support decision making when faced with different ethical dilemmas in practice"
+    },
+    {
+      "knowledgeId": "2c37ab58-fb27-412a-a291-0d3168eb6cdd",
+      "detail": "a developed area of expertise in a particular area of public health (eg: the management of risk behaviours such as smoking, inactivity, poor nutrition; infectious disease prevention and control such as sexually transmitted infections, Tuberculosis (TB), or anti-microbial resistance (AMR); the implementation of immunisation and vaccination programmes; mental health and wellbeing; public health intelligence etc.)"
+    },
+    {
+      "knowledgeId": "caec46b0-034d-4f6c-a88e-68e1172f9420",
+      "detail": "a critical insight into the accessibility and availability of health, care and other public services for different groups in the population and the barriers that may exist to prevent the public from successfully receiving the care and support that they need."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "4421a11b-d53e-4adb-83bc-d902111ff498",
+      "detail": "promotes the ability of others to make informed decisions"
+    },
+    {
+      "behaviourId": "8dde1e4a-3ea0-4208-8f10-3de69e48fc6a",
+      "detail": "acknowledges the importance of data confidentiality and disclosure and use of data sharing protocols"
+    },
+    {
+      "behaviourId": "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+      "detail": "acts in ways that are consistent with legislation, policies, governance frameworks and systems"
+    },
+    {
+      "behaviourId": "7487714d-7332-4cff-b3b5-e6d609683af1",
+      "detail": "recognises peoples expressed beliefs and preferences"
+    },
+    {
+      "behaviourId": "125bd41e-7db6-4c8b-87e8-db625198b947",
+      "detail": "promotes equality and diversity"
+    },
+    {
+      "behaviourId": "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae",
+      "detail": "recognises the need for, and makes use of, opportunities for personal and others’ development while recognising different approaches and preferences for learning"
+    },
+    {
+      "behaviourId": "fcae1d01-4890-41f5-8260-940ad0752b29",
+      "detail": "recognises ethical dilemmas or issues and addresses them appropriately e.g.:  through the use of ethical frameworks"
+    },
+    {
+      "behaviourId": "a7a752db-4379-47d6-9fa3-4f012cd0829c",
+      "detail": "recognises and acts within the limits of own competence seeking advice when needed"
+    },
+    {
+      "behaviourId": "e0573e8f-4498-4c5a-8a85-c66c958f6ea0",
+      "detail": "contributes to the development and improvement of own and others' practice in public health by the application of evidence in improving own area of work"
+    },
+    {
+      "behaviourId": "b6a53bcf-5b58-4dfe-b810-718fa5f51b63",
+      "detail": "objectively and constructively contributes to reviewing the effectiveness of own area of work"
+    },
+    {
+      "behaviourId": "abdb45cd-74d8-4640-b59d-0714eca50bd1",
+      "detail": "values people as individuals"
+    },
+    {
+      "behaviourId": "4b7ce3b0-a52e-43cd-9a77-12dddfcc758a",
+      "detail": "continually develops own practice by reflecting on own behaviour and role, identifying where improvements can be made"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "2a708d5e-26e7-4853-a83c-d26be82c0623",
+      "detail": "analyse a range of data sets to draw informed conclusions about local public health needs and use of services, contributing to strategic needs assessments and operational service planning"
+    },
+    {
+      "skillId": "b959c20d-4e26-45f1-b023-993d99eb7a8f",
+      "detail": "provide and present public health information, analysis, interpretation and insight to support decision making, business planning, policy and strategy development, performance monitoring, and quality assurance"
+    },
+    {
+      "skillId": "507db28f-5ebb-479b-b066-57075338b1c1",
+      "detail": "manage data and information in compliance with policy and protocol and assess and manage risks associated with using and sharing data and information, data security and intellectual property"
+    },
+    {
+      "skillId": "64e69733-5f82-4a45-964c-46e79f3b660a",
+      "detail": "work with communities to facilitate their engagement and participation in needs assessments, service design and delivery, including action to improve access to, and navigation of, local services"
+    },
+    {
+      "skillId": "2ba558ed-c33b-414b-8c6c-a8b62860c1a2",
+      "detail": "recognise where health inequalities prevail; determine how they will influence the planning of public health interventions and services; and to apply the evidence appropriately to make the most impact in alleviating these inequalities"
+    },
+    {
+      "skillId": "055b99a9-f412-4d18-9edd-0f310e9dc0f6",
+      "detail": "apply behavioural insights and information about community needs to support healthy choices that individuals might wish to make, and provide individuals, groups and communities with the capabilities to make changes to their behaviours (eg: increasing levels of physical activity), in the context of a wider set of interventions and actions"
+    },
+    {
+      "skillId": "f9c5f2ae-c083-4f3d-8445-1c777096c973",
+      "detail": "participate effectively in the assessment and management of outbreaks, incidents, and single cases of contamination and communicable disease, locally and across boundaries"
+    },
+    {
+      "skillId": "7be7e8ae-705a-4284-8d70-73bc5c8202ee",
+      "detail": "apply protocol and standard operating procedures related to the management of infectious disease, and in response to civil emergencies and unscheduled events, within the scope of the role"
+    },
+    {
+      "skillId": "85d9dd01-8830-4c68-9731-4fc7eb379897",
+      "detail": "help to identify, analyse and manage the local impact of longer-term hazards and risks to health that may play out at a global, national or local level"
+    },
+    {
+      "skillId": "a6e1dfec-4973-4bf7-be8b-857430b4f94d",
+      "detail": "communicate the risks and benefits of immunisation and screening programmes to a range of audiences eg: health professionals, parents, people from a range of cultures"
+    },
+    {
+      "skillId": "b73abb00-7453-4eef-9d0b-54ccf7e12216",
+      "detail": "use appropriate methods to access and appraise evidence gained through systematic methods and through engagement with the wider research community"
+    },
+    {
+      "skillId": "d73de6ee-ca42-4cb1-b275-56bc3c9fe835",
+      "detail": "critique published and unpublished research, synthesise the evidence and draw appropriate conclusions"
+    },
+    {
+      "skillId": "3b6b520e-135a-47bf-8306-dd30d4454d99",
+      "detail": "report and advise on the implications of the evidence base for the most effective practice; to define problems and shape solutions; and to help in the delivery of value for money"
+    },
+    {
+      "skillId": "7971bd65-96a6-4725-920c-2bbfa8ea2fb7",
+      "detail": "present an evidence based narrative that is suitably adjusted to inform different types of audiences with different levels of health literacy"
+    },
+    {
+      "skillId": "ae0910ef-e8f3-4fe5-8b34-b5c2bd64948f",
+      "detail": "use and adapt appropriate research techniques and principles to evaluate local services and interventions to contribute to the local evidence-base for effectiveness"
+    },
+    {
+      "skillId": "02878cb3-e7cf-4425-b87e-8c8cafc320a8",
+      "detail": "monitor, evaluate and disseminate (report) the impact of health and care projects, services and interventions, including quality impact"
+    },
+    {
+      "skillId": "55825d04-e22b-40ed-975b-233fbe1c4797",
+      "detail": "engage stakeholders (including service users) in service design and development, to deliver accessible and equitable person-centred services"
+    },
+    {
+      "skillId": "2f328018-5ff8-453c-a5e8-b11766c5097e",
+      "detail": "implement standards, protocols and procedures, incorporating national ‘best practice’ guidance into local delivery systems"
+    },
+    {
+      "skillId": "1c9df11d-f5ac-43ad-a74e-8cee97456d2e",
+      "detail": "appraise and implement government-led policies and strategies locally (eg: ensuring the equitable and effective implementation of winter fuel schemes to prevent deaths from cold; the implementation of the NHS Health Check programme)"
+    },
+    {
+      "skillId": "9aac31a5-df5a-4ac1-bfc6-fe281ae863c0",
+      "detail": "assess the impact and benefits of health and other policies and strategies on the public’s health and health inequalities (eg: using health impact assessment approaches or tools)"
+    },
+    {
+      "skillId": "f3849d8a-0d17-4ae2-bd18-1f9f54f214cf",
+      "detail": "develop or implement actions plans, with, and for, specific groups and communities, to deliver outcomes identified in strategies and policies"
+    },
+    {
+      "skillId": "2899293c-6f88-4f2b-802a-ba5ec34905c8",
+      "detail": "evaluate one’s own interpersonal skills, and adapt to different situations through a developed proficiency in negotiation, influencing, diplomacy, mediation, facilitation"
+    },
+    {
+      "skillId": "05b56ba9-fb29-4571-a479-b062c108c64e",
+      "detail": "use appropriate methods to establish and sustain effective working relationships with local partners in order to bring about positive outcomes in the health and wellbeing of the local population"
+    },
+    {
+      "skillId": "cf3cef5d-ac0e-408a-8fc5-f8b91d76aa12",
+      "detail": "work collaboratively with colleagues across a broad range of partnership organisations to identify local needs, agree priorities, and deliver on action plans for joint health improvement programmes or services across the area"
+    },
+    {
+      "skillId": "706c9d88-9a0c-47ca-b4d7-b2f1d50961c2",
+      "detail": "interact with other specialists and colleagues to improve health and reduce health inequalities through the development, monitoring and review of public health programmes, including the commissioning and delivery of these programmes"
+    },
+    {
+      "skillId": "ad3103cd-6d8b-4439-8b9a-5c7289774da7",
+      "detail": "ensure, where relevant, that tendering and procurement processes are managed appropriately and within policy and legislative requirements when commissioning, planning or providing a range of services to bring about improvements in the public’s health (including the drawing up and negotiation of service specifications and performance indicators)"
+    },
+    {
+      "skillId": "2fb2c88c-0aa7-41df-b61b-05fc7e6f8c90",
+      "detail": "facilitate positive contractual relationships understanding how disagreements and changes can be managed within legislative and operational frameworks"
+    },
+    {
+      "skillId": "3aa2230c-4980-4c48-9dbd-d9faea6f7656",
+      "detail": "Operate appropriately within the decision making, administrative and reporting processes that support political and democratic systems"
+    },
+    {
+      "skillId": "ee066dcb-3193-4d3d-addc-2164914a7728",
+      "detail": "present a compelling case for action to improve health and wellbeing and reduce inequalities, using appropriate methods to capture and interpret the evidence"
+    },
+    {
+      "skillId": "f306679d-ba1e-430c-9292-1a2fec4c7f6d",
+      "detail": "use appropriate community engagement techniques to support individuals and communities to have more control over decisions that affect them while promoting health equity, equality and justice"
+    },
+    {
+      "skillId": "b9e11ad8-75b4-4291-92a7-ccf1bf23852c",
+      "detail": "respond constructively to political and other tensions while encouraging a focus on the interests of the public’s health"
+    },
+    {
+      "skillId": "83238872-d986-49e5-a394-19057a03d143",
+      "detail": "to engender trust by acting reliably with integrity, consistency and purpose"
+    },
+    {
+      "skillId": "418291e6-d31a-47b8-8283-734937872617",
+      "detail": "work effectively within a team that is collectively responsible for leading and managing areas of public health business including the management or supervision of staff, resources or finances"
+    },
+    {
+      "skillId": "5b9731a0-488b-4f52-ad0d-c25900597d68",
+      "detail": "use appropriate leadership skills to engage others, build relationships, manage conflict, encourage contribution and sustain commitment to deliver shared objectives"
+    },
+    {
+      "skillId": "ec819273-3a0d-48af-b780-43d9b436b6f0",
+      "detail": "adapt to change, manage uncertainty, solve problems, and align clear goals with lines of accountability in complex and unpredictable environments"
+    },
+    {
+      "skillId": "7644b1b8-df26-49c7-a312-f4e770fe2aa9",
+      "detail": "communicate complex information and concepts, including health outcomes, inequalities and life expectancy, to a range of different audiences using different methods (e.g.: exploiting the evolving opportunities of digital capability and dependency, and the associated need for some audiences to be assisted with digital communications)"
+    },
+    {
+      "skillId": "fbaa4864-bda5-4bd7-b0ad-786dce5d46b3",
+      "detail": "work with communities to facilitate their engagement and participation in action to improve access to, and navigation of, local services and interventions, and to improve health literacy where it is a barrier to access"
+    },
+    {
+      "skillId": "c93661f2-2ac0-423a-bb35-7350d60b31f0",
+      "detail": "apply a range of tools and technologies to improve health literacy where it is creating a barrier to accessing services and information"
+    },
+    {
+      "skillId": "137fec3b-037d-4417-9148-f2d9160763be",
+      "detail": "manage public perception of health risks or solutions, and convey key messages using a range of media processes"
+    },
+    {
+      "skillId": "822f3dff-7ae3-45b8-b1c3-5a8ecdd96806",
+      "detail": "consult, and listen to individuals, groups and communities likely to be affected by planned intervention or change"
+    },
+    {
+      "skillId": "8dab33f7-09f8-4aaf-bee2-505d32002cc2",
+      "detail": "engage stakeholders and work collaboratively with colleagues across a broad range of partnership organisations to identify local needs, agree priorities and develop action plans for joint public health programmes across boundaries"
+    },
+    {
+      "skillId": "0b33f41e-9da4-42c2-a0af-7ba55a9dac44",
+      "detail": "support the development, monitoring and review of public health programmes; identifying risks to delivery and the appropriate risk and issue reporting mechanisms; and re-assessing delivery schedules and methods to respond constructively to change"
+    },
+    {
+      "skillId": "c6fd96f7-47cc-4e19-9d8a-acc40e320a6c",
+      "detail": "develop projects and plans with key stakeholders and partner agencies to address local public health needs and bring about improvements in identified areas. Lead or contribute to delivery of these projects as appropriate within the scope of your role"
+    },
+    {
+      "skillId": "c6441fdc-c2be-4ef0-8ba7-a4d4964c5624",
+      "detail": "identify the resources needed to develop and deliver new public health activity, or to sustain public health services and interventions, and how these resources might be sourced"
+    },
+    {
+      "skillId": "94a2dad8-27de-4ec3-9173-5a3947febca4",
+      "detail": "help to determine shared priorities and action plans for public health programmes working with colleagues both from within the same organisation and across a range of other agencies"
+    },
+    {
+      "skillId": "a6213db1-c07d-4267-b713-5eaa28a5d82c",
+      "detail": "build capacity and capability across the field of operation to increase impact and effectiveness of public health programmes and interventions, engaging with professional colleagues, and other groups of workers or volunteers who make up the wider public health workforce"
+    },
+    {
+      "skillId": "3191b863-edac-48d0-a416-16d1aeb6fda8",
+      "detail": "use appropriate tools and methods to appraise ethical tensions and to make decisions that promote ethical practice"
+    },
+    {
+      "skillId": "d4d2c219-09a9-493f-8692-82c18719a26c",
+      "detail": "think and write reflectively about one’s own practice, lessons learned, and things that can be done differently for better outcomes eg: to keep a reflective log as part of one’s continuing professional development"
+    },
+    {
+      "skillId": "fc099bee-3841-4ec9-8580-573db786a697",
+      "detail": "demonstrate professional characteristics throughout the course of one’s work eg: engendering trust; assuring confidentiality where appropriate; understanding one’s own limitations in terms of capability, accountability and expertise; the addressing of risks and issues in a timely and appropriate manner"
+    },
+    {
+      "skillId": "096340fc-d7fa-44b7-b13a-260ea4090933",
+      "detail": "demonstrate awareness of personal impact on others, both fellow professionals, external partners and members of the public"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2019-09-30T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0302",
+  "tbMainContact": "PHWorkforceStrategy@dhsc.gov.uk",
+  "involvedEmployers": "London Borough of Greenwich, Public Health England, Barts Health NHS Trust, Lincolnshire County Council, Kent Community Health Foundation Trust, Livewell South West, Evolve, Yorkshire MESMAC, Derbyshire Community Health Services NHS Foundation Trust, Leeds City Council",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Accident prevention officer",
+    "Cardiovascular disease (cvd) prevention lead",
+    "Community development worker",
+    "Community engagement officer",
+    "Health and wellbeing coordinator",
+    "Health improvement practitioner",
+    "Health protection practitioner",
+    "Healthy lifestyles coordinator",
+    "Immunisation programme coordinator",
+    "Public health data analyst",
+    "Public health intelligence officer",
+    "Public health practitioner",
+    "Public health project manager",
+    "Tobacco control lead",
+    "Workplace health advisor"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health Professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
+  "createdDate": "2024-05-20T13:35:59 +00:00",
+  "lastUpdated": "2024-05-20T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0631",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0631-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0631-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "2d28ab69-4b55-4869-b962-3755e3f7f995",
+      "title": "BSc (Honours) Public Health",
+      "level": "SixIntegratedDegree",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "870d9eeb-c375-437a-a9a8-918b7bcf4837",
+      "title": "BSc (Honours) Public Health and Health Promotion",
+      "level": "SixIntegratedDegree",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "59b9d5c5-aeb2-41e1-8ade-66cb5dea75f4",
+      "title": "BSc (Honours) Health and Wellbeing",
+      "level": "SixIntegratedDegree",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "UK Public Health Register",
+      "level": "6",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "5c1b4210-7620-4f70-b22d-b9a86b4e5fc6",
+      "dutyDetail": "measure, monitor and report population health and wellbeing; health needs, risks, and inequalities; and the use of services",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4421a11b-d53e-4adb-83bc-d902111ff498",
+        "8dde1e4a-3ea0-4208-8f10-3de69e48fc6a",
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc"
+      ],
+      "mappedKnowledge": [
+        "6af8afbf-cfca-4431-91ff-5e7cfe23abd7",
+        "8afbab25-67e9-44a8-a764-0f58df113bd6",
+        "416fefdd-6ef8-497e-b621-ec5bb14acc46",
+        "3a277d34-7829-4c6c-a87e-0572ea4e0b47",
+        "6c21648d-6cd5-44e5-be45-1e32885c217b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2a708d5e-26e7-4853-a83c-d26be82c0623",
+        "b959c20d-4e26-45f1-b023-993d99eb7a8f",
+        "507db28f-5ebb-479b-b066-57075338b1c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8004460d-826d-4565-b3b8-29d1516ac560",
+      "dutyDetail": "promote population and community health and wellbeing, addressing the wider determinants of health and health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7487714d-7332-4cff-b3b5-e6d609683af1",
+        "125bd41e-7db6-4c8b-87e8-db625198b947",
+        "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae"
+      ],
+      "mappedKnowledge": [
+        "2a628cd1-2f95-48ea-a936-5175f44f378b",
+        "9ec4f2db-e396-4ef2-bb56-cc279259497e",
+        "f8289ee9-fc70-4859-9185-8ca042af2544",
+        "99f137a5-fbeb-4db8-9459-bceed57423e0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "64e69733-5f82-4a45-964c-46e79f3b660a",
+        "2ba558ed-c33b-414b-8c6c-a8b62860c1a2",
+        "055b99a9-f412-4d18-9edd-0f310e9dc0f6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ec757b35-47c2-4ba4-a32d-5ff9c1da65cf",
+      "dutyDetail": "protect the public from environmental hazards, communicable disease, and other health risks, while addressing inequalities in risk exposure and outcomes",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4421a11b-d53e-4adb-83bc-d902111ff498",
+        "fcae1d01-4890-41f5-8260-940ad0752b29",
+        "a7a752db-4379-47d6-9fa3-4f012cd0829c"
+      ],
+      "mappedKnowledge": [
+        "d86efd64-b4c9-4997-9ad3-565903f335e1",
+        "e8066682-0893-4928-b109-c076845ba28c",
+        "1abbc0c2-76cb-4a52-9995-4c566d2f3796",
+        "be8eefd1-56e2-4457-ae41-a120744b001b",
+        "30207207-0495-4f8e-bad9-310af3cacb29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9c5f2ae-c083-4f3d-8445-1c777096c973",
+        "7be7e8ae-705a-4284-8d70-73bc5c8202ee",
+        "85d9dd01-8830-4c68-9731-4fc7eb379897",
+        "a6e1dfec-4973-4bf7-be8b-857430b4f94d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2659d6fd-1bde-4c64-8c4c-e9bca94a9055",
+      "dutyDetail": "access and use the evidence base, conduct research and provide informed advice",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4421a11b-d53e-4adb-83bc-d902111ff498",
+        "e0573e8f-4498-4c5a-8a85-c66c958f6ea0",
+        "b6a53bcf-5b58-4dfe-b810-718fa5f51b63"
+      ],
+      "mappedKnowledge": [
+        "547d547e-fb60-4f9d-8d60-35fd5c5320fd",
+        "7ca1abd6-81b9-4bd2-a11b-88350d7f21a2",
+        "de1bff2e-8e17-4cfe-b73f-2c3cb16daff1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b73abb00-7453-4eef-9d0b-54ccf7e12216",
+        "d73de6ee-ca42-4cb1-b275-56bc3c9fe835",
+        "3b6b520e-135a-47bf-8306-dd30d4454d99",
+        "7971bd65-96a6-4725-920c-2bbfa8ea2fb7",
+        "ae0910ef-e8f3-4fe5-8b34-b5c2bd64948f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e4b2eb9e-aefc-4ebd-8af1-0d68928529d0",
+      "dutyDetail": "audit, evaluate and re-design services and interventions to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+        "7487714d-7332-4cff-b3b5-e6d609683af1",
+        "fcae1d01-4890-41f5-8260-940ad0752b29"
+      ],
+      "mappedKnowledge": [
+        "52d0291f-8a86-4fab-8ea3-efb4166ddb0c",
+        "7b9c61dc-477f-4c8f-8cac-fa4bd05ea74e",
+        "beabc478-672d-4057-88c1-a22452d23861",
+        "caec46b0-034d-4f6c-a88e-68e1172f9420"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "02878cb3-e7cf-4425-b87e-8c8cafc320a8",
+        "55825d04-e22b-40ed-975b-233fbe1c4797",
+        "2f328018-5ff8-453c-a5e8-b11766c5097e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc096076-64b4-49ec-90bb-5268bbcc5ab4",
+      "dutyDetail": "work with, and through, policies and strategies to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "125bd41e-7db6-4c8b-87e8-db625198b947",
+        "a7a752db-4379-47d6-9fa3-4f012cd0829c",
+        "e0573e8f-4498-4c5a-8a85-c66c958f6ea0"
+      ],
+      "mappedKnowledge": [
+        "b15443f6-9520-4e47-b0a3-49309fe90d63",
+        "183dd1f9-887d-40b6-89e4-c41ec0d5f5ca",
+        "b6611b7e-3e1d-4ba5-a484-bcee35691754",
+        "596652b8-5dc0-4fd3-b7a5-bba5e7346bcf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1c9df11d-f5ac-43ad-a74e-8cee97456d2e",
+        "9aac31a5-df5a-4ac1-bfc6-fe281ae863c0",
+        "f3849d8a-0d17-4ae2-bd18-1f9f54f214cf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb44f3f3-7223-43d2-8562-9e2138f64e1e",
+      "dutyDetail": "work collaboratively across agencies and boundaries to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7487714d-7332-4cff-b3b5-e6d609683af1",
+        "abdb45cd-74d8-4640-b59d-0714eca50bd1",
+        "4b7ce3b0-a52e-43cd-9a77-12dddfcc758a"
+      ],
+      "mappedKnowledge": [
+        "b9ad852c-0338-46b9-8bdc-6f27d571570e",
+        "0c89c795-eda7-4a96-ab17-ed80d54eadb9",
+        "dda0b47c-1b13-48b6-8f78-435dd44c12d7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2899293c-6f88-4f2b-802a-ba5ec34905c8",
+        "05b56ba9-fb29-4571-a479-b062c108c64e",
+        "cf3cef5d-ac0e-408a-8fc5-f8b91d76aa12"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3d6ded97-6c4e-4112-b46c-5b429a7e67a6",
+      "dutyDetail": "work in a commissioning based culture to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+        "125bd41e-7db6-4c8b-87e8-db625198b947",
+        "b6a53bcf-5b58-4dfe-b810-718fa5f51b63"
+      ],
+      "mappedKnowledge": [
+        "28915397-e57c-4f13-9ab0-d284bef90000",
+        "b13e7106-0843-4a48-bfa7-e41a4f177eb0",
+        "d0e7e8ba-e13d-4cb9-9731-81a2960edb0b",
+        "f3c829be-5511-4e26-8627-3f717fe2b305"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "706c9d88-9a0c-47ca-b4d7-b2f1d50961c2",
+        "ad3103cd-6d8b-4439-8b9a-5c7289774da7",
+        "2fb2c88c-0aa7-41df-b61b-05fc7e6f8c90"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "37603e19-55dc-4cb7-9974-bd92b85ba0c1",
+      "dutyDetail": "work within political and democratic systems and with a range of organisational cultures to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+        "125bd41e-7db6-4c8b-87e8-db625198b947",
+        "fcae1d01-4890-41f5-8260-940ad0752b29",
+        "e0573e8f-4498-4c5a-8a85-c66c958f6ea0"
+      ],
+      "mappedKnowledge": [
+        "13d6c230-a8a7-44bf-a6f6-e50b35eb8ff8",
+        "b0923784-3ad7-481b-9de6-898fd468c07d",
+        "00aa8c2d-db50-481c-9b6e-318c04e7f640",
+        "b7838c41-1eee-4924-a6f3-d900bb90c060"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3aa2230c-4980-4c48-9dbd-d9faea6f7656",
+        "ee066dcb-3193-4d3d-addc-2164914a7728",
+        "f306679d-ba1e-430c-9292-1a2fec4c7f6d",
+        "b9e11ad8-75b4-4291-92a7-ccf1bf23852c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a12e3236-0a95-451b-b3cf-2712d8e52386",
+      "dutyDetail": "provide leadership to drive improvement in health outcomes and the reduction of health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7487714d-7332-4cff-b3b5-e6d609683af1",
+        "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae",
+        "a7a752db-4379-47d6-9fa3-4f012cd0829c"
+      ],
+      "mappedKnowledge": [
+        "a569d43f-bf06-4b55-b864-78b1daf4e2cf",
+        "a52db08b-b677-40c7-8e85-4a5453a0d59c",
+        "3f123c5d-7004-4061-8a7a-9082880a1ab5",
+        "2033538a-10a8-4837-a592-e937560f4218"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "83238872-d986-49e5-a394-19057a03d143",
+        "418291e6-d31a-47b8-8283-734937872617",
+        "5b9731a0-488b-4f52-ad0d-c25900597d68",
+        "ec819273-3a0d-48af-b780-43d9b436b6f0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c4dc8414-f5af-4be4-b83f-ba18d0bffdc2",
+      "dutyDetail": "communicate with others to improve health outcomes and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4421a11b-d53e-4adb-83bc-d902111ff498",
+        "7487714d-7332-4cff-b3b5-e6d609683af1",
+        "125bd41e-7db6-4c8b-87e8-db625198b947",
+        "abdb45cd-74d8-4640-b59d-0714eca50bd1"
+      ],
+      "mappedKnowledge": [
+        "f1216922-42d7-406b-b769-0a7904234268",
+        "83428470-bbac-487c-8a89-f98e435f23ae",
+        "7d9d924f-a542-488d-9fe9-f986fb4acd77",
+        "1105a965-36b3-4dca-9756-4081e49b1f88"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7644b1b8-df26-49c7-a312-f4e770fe2aa9",
+        "fbaa4864-bda5-4bd7-b0ad-786dce5d46b3",
+        "c93661f2-2ac0-423a-bb35-7350d60b31f0",
+        "137fec3b-037d-4417-9148-f2d9160763be",
+        "822f3dff-7ae3-45b8-b1c3-5a8ecdd96806"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5e922efc-b669-46d2-96f3-44352e944949",
+      "dutyDetail": "design and manage programmes and projects to improve health and reduce health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+        "a7a752db-4379-47d6-9fa3-4f012cd0829c",
+        "b6a53bcf-5b58-4dfe-b810-718fa5f51b63"
+      ],
+      "mappedKnowledge": [
+        "874a2e26-1a78-40b5-b39f-33c2383fcee4",
+        "40e7a5b5-cd0d-4a42-b26a-c8e20932e3af",
+        "c3ceaf1d-a4ff-4da3-8485-c3cfebf16064"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8dab33f7-09f8-4aaf-bee2-505d32002cc2",
+        "0b33f41e-9da4-42c2-a0af-7ba55a9dac44",
+        "c6fd96f7-47cc-4e19-9d8a-acc40e320a6c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f5aca772-9386-4891-81d6-5b8e67ee90b4",
+      "dutyDetail": "prioritise and manage resources at a population/systems level to achieve equitable health outcomes and return on investment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "29b291bb-3b44-4a5b-8d10-e6ef472135bc",
+        "f6c91866-f528-4bf7-bb46-3d1b2a79a7ae",
+        "abdb45cd-74d8-4640-b59d-0714eca50bd1"
+      ],
+      "mappedKnowledge": [
+        "d8616aa5-52bd-411d-a3c2-454aa2f7260a",
+        "badac802-546d-4f6f-9e2e-25643da3fa2f",
+        "f9c19f92-6a93-481e-a8ac-58551ab03ce8",
+        "e409b8ef-fcf7-4dab-ab93-eb8b79d15326"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c6441fdc-c2be-4ef0-8ba7-a4d4964c5624",
+        "94a2dad8-27de-4ec3-9173-5a3947febca4",
+        "a6213db1-c07d-4267-b713-5eaa28a5d82c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "78a796b8-5b29-422b-bb54-109bbf84a8e8",
+      "dutyDetail": "work within ethical and professional boundaries while promoting population health and wellbeing, and addressing health inequalities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fcae1d01-4890-41f5-8260-940ad0752b29",
+        "a7a752db-4379-47d6-9fa3-4f012cd0829c",
+        "4b7ce3b0-a52e-43cd-9a77-12dddfcc758a"
+      ],
+      "mappedKnowledge": [
+        "0079e711-cd0d-4806-b1a4-23b8f8c6a0cb",
+        "98176040-8b01-4f14-9b16-0fedd3257900",
+        "2c37ab58-fb27-412a-a291-0d3168eb6cdd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3191b863-edac-48d0-a416-16d1aeb6fda8",
+        "d4d2c219-09a9-493f-8692-82c18719a26c",
+        "fc099bee-3841-4ec9-8580-573db786a697",
+        "096340fc-d7fa-44b7-b13a-260ea4090933"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-05-20T00:00:00"
+}
