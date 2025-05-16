@@ -1,60 +1,749 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 752,
   "referenceNumber": "ST0682",
+  "learningAimClassCode": "",
   "title": "Digital device repair technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2020-12-18T00:00:00",
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0682",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-02-19T00:00:00",
+  "earliestStartDate": "2024-02-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "To manage the process of repairs to digital devices and replace device parts from end to end.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 3,
+  "typicalDuration": 21,
+  "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "digital device repair technician",
+    "digital",
+    "device",
+    "repair technician",
+    "faults"
+  ],
+  "jobRoles": [
+    "Digital engineer",
+    "Digital support advisor",
+    "Digital technician",
+    "Hardware engineer",
+    "Digital device refurbishment technician",
+    "Mobile device repair technician",
+    "Mobile phone repair technician",
+    "Smartphone device repair technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0682-v1-0?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.1 Medicine and dentistry",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The digital device technician occupation is found in the digital, retail and public sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is...&#160;&lt;/p&gt;\n&lt;p&gt;To manage the process of repairs to digital devices and replace device parts from end to end. This includes but is not limited to:&#160;&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; r&lt;/span&gt;eceiving and booking in faulty devices&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; a&lt;/span&gt;ccurately diagnosing and identifying faults, carrying out full software and technical repairs to consumer digital devices and providing updates on the repairs process, ensuring the repaired device is dispatched safely to the customer.&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; m&lt;/span&gt;anaging and maintaining stock items. They will be responsible for accurately recording all work completed within internal systems such as customer relationship management systems or a customer database.&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; d&lt;/span&gt;ealing with customer enquiries and supporting customers face to face and through various digital communication channels including phone, Email, SMS or Live Chat.&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; d&lt;/span&gt;ealing with mobile device service centres, suppliers and handling warranty returns from service centres.&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; h&lt;/span&gt;igh focus on sustainability, conduct research and usage of green production techniques, processes, and the use of recycled materials.&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; s&lt;/span&gt;afe disposal of component parts or devices where beyond economical repair.&lt;/p&gt;\n&lt;p&gt;• working in-line with organisational SLA’s and processes.&lt;/p&gt;\n&lt;p&gt;• provide documentation and or notes for works completed before escalating the job.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with…&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; c&lt;/span&gt;ustomers&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; c&lt;/span&gt;olleagues&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; D&lt;/span&gt;evice Service Centres&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; D&lt;/span&gt;igital Devices Manufacturers&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; d&lt;/span&gt;igital devices parts suppliers.&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; l&lt;/span&gt;ogistics – products in and out&#160;&lt;/p&gt;\n&lt;p&gt;•&lt;span style=&quot;white-space: pre;&quot;&gt; o&lt;/span&gt;utsourced agencies – example Capita&#160;&lt;/p&gt;\n&lt;p&gt;Digital device repair technicians could work in a variety of environments such as mobile phone retail stores, repair shops, large scale repair centres or field based.&#160; They could work on one or more battery powered digital devices, such as mobile phones, headsets, tablets, laptops, and or drones.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for...&#160;&lt;/p&gt;\n&lt;p&gt;Managing the device software and hardware repair process from end to end, ensuring devices are safely dispatched to their customers in good condition. This could include receiving and booking in faulty devices and then diagnosing faults for routine and non-routine service requests, repairs and tests. These duties are not always supervised, and the employee can work independently; guidance and advice will be given if dealing with a particularly challenging situation such as difficult repairs or unhappy customers. The digital device repair technician will typically report to a digital device repair supervisor or a line manager, depending on the size of the organisation and structure.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "1406074c-dd14-47a0-a90d-66c95b35d656",
+      "detail": "UK legislation and regulations concerning data protection and the importance of secure handling and destruction of consumer data and ethical data use including the associated risks."
+    },
+    {
+      "knowledgeId": "f3353ef1-741f-4ef5-a41f-9c597b5adc73",
+      "detail": "Process maps or standard operating procedures. "
+    },
+    {
+      "knowledgeId": "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+      "detail": "Principles of effective communication with internal and external stakeholders including how service level expectations are set, escalation routes, and the importance of following these expectations."
+    },
+    {
+      "knowledgeId": "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+      "detail": "Principles of the support process, including customer service, diagnosis, fault identification, software and or hardware replacement and quality control. "
+    },
+    {
+      "knowledgeId": "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+      "detail": "Approaches to multifunctional teamworking utilising digital tools and platforms."
+    },
+    {
+      "knowledgeId": "cbd0ceff-b575-4142-9499-a48579296758",
+      "detail": "Approaches to ensuring accessibility for all users and recognising the diversity of user needs when providing a service. "
+    },
+    {
+      "knowledgeId": "c287bff3-0189-42ad-8f34-4f556d133dc6",
+      "detail": "Current legislation impacts upon the occupation, including all relevant Health and Safety legislation, control of substances hazardous to health COSHH, and how it is put into practice in all areas of the workplace."
+    },
+    {
+      "knowledgeId": "db429c29-951b-4fb7-bcfa-fcfe9f2cced8",
+      "detail": "Risk assessments, procedures and protocols."
+    },
+    {
+      "knowledgeId": "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+      "detail": "Process required when a battery is replaced. "
+    },
+    {
+      "knowledgeId": "8343c20d-db40-4a48-9f0f-c5e6a2624824",
+      "detail": "Digital devices available in the marketplace."
+    },
+    {
+      "knowledgeId": "f18f8621-d1c7-468d-98c7-e2bb9e7ba731",
+      "detail": "Types of repair equipment, what they are used for and how they should be stored."
+    },
+    {
+      "knowledgeId": "a49507bd-0495-448b-91aa-2e4fc1416bab",
+      "detail": "Prevention of Electro-Static Discharge ESD, what it is and how to manage ESD Protected Areas EPA."
+    },
+    {
+      "knowledgeId": "fe20c8df-fbf4-4432-835a-692d2de7788a",
+      "detail": "Understand safe handling and maintenance practices and when stakeholders should be informed or educated."
+    },
+    {
+      "knowledgeId": "47f376e6-23eb-4fe7-b3d4-b72af030d9ba",
+      "detail": "Diagnosis process including the techniques for the use of diagnostic tools."
+    },
+    {
+      "knowledgeId": "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+      "detail": "Categorisation of digital device faults and how to identify them."
+    },
+    {
+      "knowledgeId": "b3726557-57a7-480b-bd1f-6a0e65e0807c",
+      "detail": "Techniques for carrying out effective visual and physical inspections. "
+    },
+    {
+      "knowledgeId": "17d5b2dc-608a-487c-a69a-6c5af496dde6",
+      "detail": "Sources of official diagnostic and repair guidelines for digital devices and how to follow them. "
+    },
+    {
+      "knowledgeId": "447a3e0f-f0a6-4ddb-bc62-8bf49c256994",
+      "detail": "Waste disposal and recycling legislation and company processes, policies and procedures, including safe data disposal."
+    },
+    {
+      "knowledgeId": "92067a9f-a54c-48cb-93e6-162fdc8b32e2",
+      "detail": "Typical repair timeframes and how to access this information."
+    },
+    {
+      "knowledgeId": "241bb005-c629-4356-8d0d-da4d53e3940f",
+      "detail": "Manufacturers documentation and standards. "
+    },
+    {
+      "knowledgeId": "c4ad3dc1-69d9-4c34-a1c5-534c01ff9af9",
+      "detail": "The process and implications of replacing a main Printed Circuit Board PCB. "
+    },
+    {
+      "knowledgeId": "b9cac73b-b2ac-4d05-8090-b70147f27d70",
+      "detail": "Principles of digital device repair and refurbishment including approaches to the replacement of faulty physical components of devices. "
+    },
+    {
+      "knowledgeId": "3164aedc-cc54-4bca-b4ec-488669c8eb60",
+      "detail": "Best practice and fault finding, techniques and components parts when repairing or refurbishing a digital device."
+    },
+    {
+      "knowledgeId": "5346633a-f252-4c0a-98cb-4423d713df40",
+      "detail": "The difference between operating systems, software and firmware and the implications of modifying these such as updating, downgrading or rooting."
+    },
+    {
+      "knowledgeId": "7f16bdc2-126a-4ef3-a0d5-eb45612d22b4",
+      "detail": "Testing and calibration techniques, manual and systematic, such as water resistance testing and calibration of parts such as screens, speakers and cameras."
+    },
+    {
+      "knowledgeId": "71db4959-1401-412d-a436-53e0c41a76b3",
+      "detail": "Quality assurance processes."
+    },
+    {
+      "knowledgeId": "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+      "detail": "The stages within the digital device lifecycle and their role within it."
+    },
+    {
+      "knowledgeId": "571ac026-a577-49ae-a86f-394a37681e3d",
+      "detail": "The impact of keeping technology alive for longer. "
+    },
+    {
+      "knowledgeId": "b45b794a-4039-4d16-8608-6208bde4a1d9",
+      "detail": "Process required for parts harvesting. "
+    },
+    {
+      "knowledgeId": "a8bc83ee-575d-479e-b50e-0574db74d866",
+      "detail": "Principles of sustainability including green production techniques, processes and the use of recycled materials. "
+    },
+    {
+      "knowledgeId": "16d5b48a-a338-458b-a943-5dfd7248259f",
+      "detail": "Time management techniques: Planning, prioritising, work scheduling, workflow management."
+    },
+    {
+      "knowledgeId": "254b6616-5b6c-4b35-b5f3-4c6742e6e51b",
+      "detail": "Principles and techniques of continuous improvement. "
+    },
+    {
+      "knowledgeId": "f49292cd-49a5-4772-a88d-ddcfcffebbbd",
+      "detail": "How the occupation fits into the wider digital landscape and any current regulatory requirements. "
+    },
+    {
+      "knowledgeId": "33e86f46-abaf-43dd-8149-16f338911722",
+      "detail": "Data back up and the implications this has on the repair, including cloud verses local backup. "
+    },
+    {
+      "knowledgeId": "4b0b91e5-b507-4daa-95c1-450300a5c091",
+      "detail": "The process and implications of replacing common user-repairable components in devices. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "a92913fd-a82e-4a69-b3a4-02c4e2c4c660",
+      "detail": "Professional and customer service focussed - shows commitment to putting the customer first by delivering quality work. "
+    },
+    {
+      "behaviourId": "a032ff80-5f2d-4723-afa3-5ac826642eb8",
+      "detail": "Collaboration the ability to work with colleagues whilst contributing to a supportive and inclusive workplace, respectful of different views."
+    },
+    {
+      "behaviourId": "4037f023-f2e7-4610-b050-8fe6f9a1351b",
+      "detail": "Safety mindset - ensures all work processes are carried out safely and report any concerns or risks."
+    },
+    {
+      "behaviourId": "e6f7a722-5065-431e-a78a-3fcc03ab056b",
+      "detail": "Responsive and flexible - able to work at pace within deadlines and multitask "
+    },
+    {
+      "behaviourId": "06888c87-a2a1-4d15-be80-4a4ab7d1a584",
+      "detail": "Seeks learning opportunities and continuous professional development."
+    },
+    {
+      "behaviourId": "56ac7c38-7efc-437d-aae3-fb5c5f36788c",
+      "detail": "Environmental awareness -Take personal responsibility for their own sustainable working practices."
+    },
+    {
+      "behaviourId": "660557a8-c61f-470a-bfd4-191c766838f7",
+      "detail": "Gathers stakeholders feedback to show the success of the repair."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+      "detail": "Use communication methods such as written, verbal or electronic, using industry terminology. "
+    },
+    {
+      "skillId": "583f8863-6428-4a36-9935-ba1e67797af8",
+      "detail": "Extract key information to undertake repair process.\u00A0\u00A0"
+    },
+    {
+      "skillId": "25ec60cf-ec73-4348-b19b-bfa2d39e72e6",
+      "detail": "Follow all guidelines in line with relevant data protection legislation, ensuring all safety precautions are taken with consumer data."
+    },
+    {
+      "skillId": "87350a53-2495-4a57-90c3-90cb2d4d0c64",
+      "detail": "Manage customer expectations. "
+    },
+    {
+      "skillId": "bde374b6-c669-453d-9b2c-72070a9113c0",
+      "detail": "Comply with health and safety and environmental legislation, policies and procedures."
+    },
+    {
+      "skillId": "c34fb0da-db56-43ef-883e-39c3beac6f39",
+      "detail": "Comply with procedures for usage of equipment in accordance with usage guidelines."
+    },
+    {
+      "skillId": "b7f6fa23-4afb-4f23-a71d-e03e2a08c3f5",
+      "detail": "Assess and interpret risk to inform safe working practices."
+    },
+    {
+      "skillId": "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+      "detail": "Analyse, evaluate and advise the client about options for keeping technology alive for longer."
+    },
+    {
+      "skillId": "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+      "detail": "Apply environmental and sustainability procedures in compliance with regulations and standards for example, segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "bba3b4f3-a3fe-43d6-920b-29939b181b37",
+      "detail": "Research industry updates, select and implement for the device and provide updates to stakeholders affected by the change."
+    },
+    {
+      "skillId": "6deb18ff-0cb8-4229-8416-f2dcb7cac520",
+      "detail": "Install relevant software or firmware. "
+    },
+    {
+      "skillId": "2d3ae156-80e9-4c1f-8680-077349eea8d5",
+      "detail": "Use continuous improvement principles and techniques, to make recommendations and share good practice."
+    },
+    {
+      "skillId": "5308bcb6-c711-45df-a828-25fc8971a057",
+      "detail": "Comply with processes in place to reduce Electro-Static Discharge ESD. "
+    },
+    {
+      "skillId": "c8457de1-8058-4e1b-aebe-51a1bf00e82d",
+      "detail": "Maintain own workstation. "
+    },
+    {
+      "skillId": "05f246c0-611c-4684-999f-772c5488b744",
+      "detail": "Use diagnostic tools to interpret faults, including no fault devices."
+    },
+    {
+      "skillId": "19ac5aa5-4341-46a4-902f-efd677753923",
+      "detail": "Record required information with accuracy."
+    },
+    {
+      "skillId": "236ece52-28ee-4a21-af1a-f6f86dd522cd",
+      "detail": "Interpret manufacturers official repair guidance to decide on the most effective or practical fix for specific devices and shares with stakeholders."
+    },
+    {
+      "skillId": "2a6baa73-a46b-4350-9afd-02c998bc502e",
+      "detail": "Identify physical indicators of fault causes."
+    },
+    {
+      "skillId": "e9a23253-9e3a-4f57-a471-41c532cee2ae",
+      "detail": "Replace a main PCB Printed Circuit Board."
+    },
+    {
+      "skillId": "9730ed9b-2158-4ac1-bd87-4825b1d0a59f",
+      "detail": "Plan and prioritise own workload using time management techniques."
+    },
+    {
+      "skillId": "9f5fc56b-4553-49ed-82f0-8ffbf96b0cd0",
+      "detail": "Comply with repair and refurbishment quality assurance standards. "
+    },
+    {
+      "skillId": "e6a0afdc-498c-478b-a152-4d95c2ec6d19",
+      "detail": "Repair a digital device by applying repair practices and techniques. "
+    },
+    {
+      "skillId": "e3f0288b-b43c-4fd8-abe6-894669a71b70",
+      "detail": "Replace common user-repairable components in devices. "
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-02-19T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "jassen@crclondon.co.uk",
-  "involvedEmployers": "Samsung Electronics UK, Digital Skills Solutions Ltd, CRC (London), Sienna Communications, Amsys Technology Holdings Ltd, Adam CEX Ltd, The Repair Station LTD, Commsense LTD, Samsung Repairs Romford, Amsys Mobitech Ltd, We Buy LTD (CEX), Backstage Aftermarket Services  Ltd",
+  "tbReference": "TB0257",
+  "tbMainContact": "Laura-Jane.Wootton@tmtfirst.co.uk",
+  "involvedEmployers": "TMT First Limited, Pro Tech Your Data UK Ltd, Likewize, Timpsons, Wefix, Tech Geek UK, Sienna Communications, Amsys Mobitech Ltd, Adam CEX Ltd, The Repair Station LTD, Commsense LTD, Samsung Repairs Romford, We Buy LTD, Samsung electronics, Estio, West thames college, The education and skills partnership, and BCS.",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "typicalJobTitles": [
+    "Digital engineer",
+    "Digital support advisor",
+    "Digital technician",
+    "Hardware engineer",
+    "Digital device refurbishment technician",
+    "Mobile device repair technician",
+    "Mobile phone repair technician",
+    "Smartphone device repair technician"
+  ],
+  "greenJobTitles": [
+    "Digital device refurbishment technician",
+    "Mobile device repair technician",
+    "Mobile phone repair technician",
+    "Smartphone device repair technician"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
-  "cluster": "IT Support and Services Technician",
-  "createdDate": "2018-11-16T14:58:43 +00:00",
-  "lastUpdated": "2018-11-16T14:58:43 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-device-repair-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-device-repair-technician",
+  "cluster": "IT support and services technician",
+  "clusterId": "187",
+  "clusterDescription": null,
+  "createdDate": "2024-02-19T11:35:58 +00:00",
+  "lastUpdated": "2024-02-19T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-02-19T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0682",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0682-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0682-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "RITTech — the registration for IT technicians",
+      "level": "Associate Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "00dadca9-e66b-4b65-9531-c245ec894bc5",
+      "dutyDetail": "Gather and record information to enable the initial assessment of the repair or refurbishment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "660557a8-c61f-470a-bfd4-191c766838f7"
+      ],
+      "mappedKnowledge": [
+        "f3353ef1-741f-4ef5-a41f-9c597b5adc73",
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "f18f8621-d1c7-468d-98c7-e2bb9e7ba731",
+        "b3726557-57a7-480b-bd1f-6a0e65e0807c",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "33e86f46-abaf-43dd-8149-16f338911722",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+        "583f8863-6428-4a36-9935-ba1e67797af8",
+        "19ac5aa5-4341-46a4-902f-efd677753923",
+        "236ece52-28ee-4a21-af1a-f6f86dd522cd",
+        "2a6baa73-a46b-4350-9afd-02c998bc502e",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06adb7b9-1989-4eae-9721-bb457b23341b",
+      "dutyDetail": "Comply with data protection policies and legislation to minimise risk to customers’ data. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a92913fd-a82e-4a69-b3a4-02c4e2c4c660"
+      ],
+      "mappedKnowledge": [
+        "1406074c-dd14-47a0-a90d-66c95b35d656",
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+        "f18f8621-d1c7-468d-98c7-e2bb9e7ba731",
+        "47f376e6-23eb-4fe7-b3d4-b72af030d9ba",
+        "447a3e0f-f0a6-4ddb-bc62-8bf49c256994",
+        "f49292cd-49a5-4772-a88d-ddcfcffebbbd",
+        "33e86f46-abaf-43dd-8149-16f338911722",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+        "583f8863-6428-4a36-9935-ba1e67797af8",
+        "25ec60cf-ec73-4348-b19b-bfa2d39e72e6",
+        "bde374b6-c669-453d-9b2c-72070a9113c0",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "6deb18ff-0cb8-4229-8416-f2dcb7cac520",
+        "2d3ae156-80e9-4c1f-8680-077349eea8d5",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "e9a23253-9e3a-4f57-a471-41c532cee2ae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "007ef4dd-ef71-4cc6-ba43-ac65690c4897",
+      "dutyDetail": "Communicate with stakeholders throughout the process, managing expectations whilst providing an excellent and inclusive service, advise when a digital device is beyond economical repair. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a92913fd-a82e-4a69-b3a4-02c4e2c4c660",
+        "a032ff80-5f2d-4723-afa3-5ac826642eb8"
+      ],
+      "mappedKnowledge": [
+        "1406074c-dd14-47a0-a90d-66c95b35d656",
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "47f376e6-23eb-4fe7-b3d4-b72af030d9ba",
+        "447a3e0f-f0a6-4ddb-bc62-8bf49c256994",
+        "92067a9f-a54c-48cb-93e6-162fdc8b32e2",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "16d5b48a-a338-458b-a943-5dfd7248259f",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+        "583f8863-6428-4a36-9935-ba1e67797af8",
+        "87350a53-2495-4a57-90c3-90cb2d4d0c64",
+        "19ac5aa5-4341-46a4-902f-efd677753923",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc968326-1824-4bc7-a154-ef11db38405d",
+      "dutyDetail": "Ensure compliance with all current and relevant health and safety legislation. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4037f023-f2e7-4610-b050-8fe6f9a1351b"
+      ],
+      "mappedKnowledge": [
+        "f3353ef1-741f-4ef5-a41f-9c597b5adc73",
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "cbd0ceff-b575-4142-9499-a48579296758",
+        "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+        "f18f8621-d1c7-468d-98c7-e2bb9e7ba731",
+        "fe20c8df-fbf4-4432-835a-692d2de7788a",
+        "f49292cd-49a5-4772-a88d-ddcfcffebbbd",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bde374b6-c669-453d-9b2c-72070a9113c0",
+        "c34fb0da-db56-43ef-883e-39c3beac6f39",
+        "b7f6fa23-4afb-4f23-a71d-e03e2a08c3f5",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "6deb18ff-0cb8-4229-8416-f2dcb7cac520",
+        "2d3ae156-80e9-4c1f-8680-077349eea8d5",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "e3f0288b-b43c-4fd8-abe6-894669a71b70"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "97666525-a407-48fb-8781-815b3bec1d66",
+      "dutyDetail": "Focus on sustainability, research and development of green production techniques, processes and the use of recycled materials whilst complying with environmental practices and policies for recycling or disposal routes. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "06888c87-a2a1-4d15-be80-4a4ab7d1a584",
+        "56ac7c38-7efc-437d-aae3-fb5c5f36788c"
+      ],
+      "mappedKnowledge": [
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+        "571ac026-a577-49ae-a86f-394a37681e3d",
+        "b45b794a-4039-4d16-8608-6208bde4a1d9",
+        "a8bc83ee-575d-479e-b50e-0574db74d866",
+        "254b6616-5b6c-4b35-b5f3-4c6742e6e51b",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "080b1512-2376-41f1-b146-32382a7dbab0",
+      "dutyDetail": "Maintain equipment and the workspace, and store tools in line with the settings standards and health and safety requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4037f023-f2e7-4610-b050-8fe6f9a1351b"
+      ],
+      "mappedKnowledge": [
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "db429c29-951b-4fb7-bcfa-fcfe9f2cced8",
+        "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+        "8343c20d-db40-4a48-9f0f-c5e6a2624824",
+        "a49507bd-0495-448b-91aa-2e4fc1416bab",
+        "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c34fb0da-db56-43ef-883e-39c3beac6f39",
+        "b7f6fa23-4afb-4f23-a71d-e03e2a08c3f5",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "2d3ae156-80e9-4c1f-8680-077349eea8d5",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "c8457de1-8058-4e1b-aebe-51a1bf00e82d",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1bcb041-13fa-40f5-bdbf-1cef4f61e28a",
+      "dutyDetail": "Recognise and identify faults to digital devices using diagnostic tools. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "cbd0ceff-b575-4142-9499-a48579296758",
+        "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+        "a49507bd-0495-448b-91aa-2e4fc1416bab",
+        "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+        "b3726557-57a7-480b-bd1f-6a0e65e0807c",
+        "b9cac73b-b2ac-4d05-8090-b70147f27d70",
+        "7f16bdc2-126a-4ef3-a0d5-eb45612d22b4",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "05f246c0-611c-4684-999f-772c5488b744",
+        "2a6baa73-a46b-4350-9afd-02c998bc502e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "60e77682-ad45-4faf-9c1e-5e4a269f61ab",
+      "dutyDetail": "Plan and prepare digital device repair balancing customers and business needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a032ff80-5f2d-4723-afa3-5ac826642eb8",
+        "e6f7a722-5065-431e-a78a-3fcc03ab056b"
+      ],
+      "mappedKnowledge": [
+        "f3353ef1-741f-4ef5-a41f-9c597b5adc73",
+        "17d5b2dc-608a-487c-a69a-6c5af496dde6",
+        "241bb005-c629-4356-8d0d-da4d53e3940f",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "571ac026-a577-49ae-a86f-394a37681e3d",
+        "16d5b48a-a338-458b-a943-5dfd7248259f",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3c003bad-38c2-49c0-96f7-98ddccdcf331",
+      "dutyDetail": "Repair, refurbish or bring into use damaged or obsolete digital devices.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e6f7a722-5065-431e-a78a-3fcc03ab056b"
+      ],
+      "mappedKnowledge": [
+        "0eaf9aaf-d462-4239-a0df-fbc63409ae95",
+        "cbd0ceff-b575-4142-9499-a48579296758",
+        "c287bff3-0189-42ad-8f34-4f556d133dc6",
+        "db429c29-951b-4fb7-bcfa-fcfe9f2cced8",
+        "8bf9d37c-fa9f-4583-a11b-e1e06de2ed66",
+        "8343c20d-db40-4a48-9f0f-c5e6a2624824",
+        "fe20c8df-fbf4-4432-835a-692d2de7788a",
+        "b9cac73b-b2ac-4d05-8090-b70147f27d70",
+        "3164aedc-cc54-4bca-b4ec-488669c8eb60",
+        "5346633a-f252-4c0a-98cb-4423d713df40",
+        "7f16bdc2-126a-4ef3-a0d5-eb45612d22b4",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "571ac026-a577-49ae-a86f-394a37681e3d",
+        "b45b794a-4039-4d16-8608-6208bde4a1d9",
+        "a8bc83ee-575d-479e-b50e-0574db74d866",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c34fb0da-db56-43ef-883e-39c3beac6f39",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "05f246c0-611c-4684-999f-772c5488b744",
+        "19ac5aa5-4341-46a4-902f-efd677753923",
+        "236ece52-28ee-4a21-af1a-f6f86dd522cd",
+        "e9a23253-9e3a-4f57-a471-41c532cee2ae",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f",
+        "9f5fc56b-4553-49ed-82f0-8ffbf96b0cd0",
+        "e3f0288b-b43c-4fd8-abe6-894669a71b70"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fcfcafcf-e818-47e5-8b1b-4203e4863478",
+      "dutyDetail": "Install, configure, and update software and firmware on digital devices, including testing and calibration, according to manufacturers standard. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1406074c-dd14-47a0-a90d-66c95b35d656",
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "c287bff3-0189-42ad-8f34-4f556d133dc6",
+        "a49507bd-0495-448b-91aa-2e4fc1416bab",
+        "47f376e6-23eb-4fe7-b3d4-b72af030d9ba",
+        "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+        "5346633a-f252-4c0a-98cb-4423d713df40",
+        "7f16bdc2-126a-4ef3-a0d5-eb45612d22b4",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c34fb0da-db56-43ef-883e-39c3beac6f39",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "d93a78c6-f23f-453a-8361-4b8848c9d0c9",
+        "6deb18ff-0cb8-4229-8416-f2dcb7cac520",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "05f246c0-611c-4684-999f-772c5488b744",
+        "e9a23253-9e3a-4f57-a471-41c532cee2ae",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f",
+        "e6a0afdc-498c-478b-a152-4d95c2ec6d19"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ba169f9-7edd-448d-be74-bf96122d47fc",
+      "dutyDetail": "Quality assure repair or refurbishment activities using diagnostic and test equipment.   ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a92913fd-a82e-4a69-b3a4-02c4e2c4c660",
+        "660557a8-c61f-470a-bfd4-191c766838f7"
+      ],
+      "mappedKnowledge": [
+        "1406074c-dd14-47a0-a90d-66c95b35d656",
+        "fba85ea9-cd27-4470-9d8c-153b66f2b8c2",
+        "33aa289b-42ef-4d56-961b-d1b5ae17ed49",
+        "cbd0ceff-b575-4142-9499-a48579296758",
+        "47f376e6-23eb-4fe7-b3d4-b72af030d9ba",
+        "92067a9f-a54c-48cb-93e6-162fdc8b32e2",
+        "c4ad3dc1-69d9-4c34-a1c5-534c01ff9af9",
+        "7f16bdc2-126a-4ef3-a0d5-eb45612d22b4",
+        "71db4959-1401-412d-a436-53e0c41a76b3",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "571ac026-a577-49ae-a86f-394a37681e3d",
+        "a8bc83ee-575d-479e-b50e-0574db74d866",
+        "254b6616-5b6c-4b35-b5f3-4c6742e6e51b",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c34fb0da-db56-43ef-883e-39c3beac6f39",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "05f246c0-611c-4684-999f-772c5488b744",
+        "19ac5aa5-4341-46a4-902f-efd677753923",
+        "236ece52-28ee-4a21-af1a-f6f86dd522cd",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "984388e5-93cb-4f1d-9c09-89a997078cbe",
+      "dutyDetail": "Maintain an awareness of the lifecycle of digital devices and how technology can be kept alive for longer thus contributing to sustainability.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a92913fd-a82e-4a69-b3a4-02c4e2c4c660"
+      ],
+      "mappedKnowledge": [
+        "c287bff3-0189-42ad-8f34-4f556d133dc6",
+        "db429c29-951b-4fb7-bcfa-fcfe9f2cced8",
+        "dfebea36-bfc1-43f1-ab9b-0b59049023f2",
+        "c4ad3dc1-69d9-4c34-a1c5-534c01ff9af9",
+        "4d73b516-8c87-4db9-888a-4f2b136ceac4",
+        "571ac026-a577-49ae-a86f-394a37681e3d",
+        "b45b794a-4039-4d16-8608-6208bde4a1d9",
+        "a8bc83ee-575d-479e-b50e-0574db74d866",
+        "f49292cd-49a5-4772-a88d-ddcfcffebbbd",
+        "4b0b91e5-b507-4daa-95c1-450300a5c091"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "565599df-1a3d-494e-a5b5-ab934b8f62ee",
+        "f6c10bce-2bff-438b-a6f9-06ee7cfbb087",
+        "bba3b4f3-a3fe-43d6-920b-29939b181b37",
+        "6deb18ff-0cb8-4229-8416-f2dcb7cac520",
+        "5308bcb6-c711-45df-a828-25fc8971a057",
+        "236ece52-28ee-4a21-af1a-f6f86dd522cd",
+        "9730ed9b-2158-4ac1-bd87-4825b1d0a59f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-19T00:00:00"
 }
