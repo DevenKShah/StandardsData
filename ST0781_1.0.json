@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 409,
   "referenceNumber": "ST0781",
+  "learningAimClassCode": "",
   "title": "Registered nurse degree (NMC 2018)",
   "status": "Retired",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/409",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0781",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery. The funding band for this standard has been reviewed and remains at £27000 (2018-11-07).",
-  "changedDate": "2021-02-19T00:00:00",
+  "changedDate": "2022-09-21T00:00:00",
   "earliestStartDate": "2019-02-13T00:00:00",
   "latestStartDate": "2021-02-18T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Giving care, advice and support to sick, injured or disabled people",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Nurse",
@@ -32,12 +38,11 @@
     "Registered nurse (child)"
   ],
   "entryRequirements": "&lt;p&gt;Prior to commencement apprentices will have their numeracy, literacy and digital skills assessed by the NMC Approved Education Institution to ensure the apprentice has the necessary skills at a minimum of Level 2 to meet the requirements of the programme.&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4278/st0781_registered_nurse_l6_epa-adjustment-for-publication_27052020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4278/st0781_registered_nurse_l6_epa-adjustment-for-publication_27052020.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in every sector. Registered nurses work in the public, independent and voluntary sector. Registered nurses are a statutorily regulated profession and the standards for proficiency are set by the Nursing and Midwifery Council (NMC) and successful completion of this apprenticeship will meet the education requirements to see registration with the NMC. This standard covers the NMC Standards for Proficiency and Annexes A &amp;amp; B for registered nurses (May 2018) and covers the four fields of practice that are Adult, Mental Health, Learning Disability and Child. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to play a vital role in providing, leading, coordinating and evaluating care that is compassionate, evidence based, and person centred. They are accountable for their own actions and those who they delegate to and must be able to work autonomously, or as an equal partner with a range of other professionals. They provide nursing care for people across the whole lifespan who could have complex and concurrent mental, physical, cognitive and behavioural care needs and for people at the end of their life.&lt;br /&gt;&lt;br /&gt;Registered nurses make an important contribution to the promotion of health, health protection and the prevention of ill health. They do this by empowering people, communities and populations to exercise choice, take control of their own health decisions and behaviours and by supporting people to manage their own care where possible.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a variety of service users, families and carers, and with an extensive range of health and care professionals and other agencies including social services, police, probation, prisons, housing, education, language interpreters and third sector agencies. They will also work with, support and facilitate the learning of a range of learners from across health and care professions. They might be working in a hospital, someone’s home, the community, social care or public health and may work various shift patterns which enable care to be provided 24 hours per day, seven days per week, 365 days of the year. Registered nurses are a key part of the multidisciplinary teams that meet the integrated health and care needs of patients and service users. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for providing leadership in the delivery of care for people of all ages and from different backgrounds, cultures and beliefs. They must be able to care for people in their own home, in the community or hospital or in any health care settings where their needs are supported and managed. All registered nurses work as part of a team but on a day to day basis may be working alone when seeing people in their own homes or in the community. They work in the context of continual change, challenging environments, different models of care delivery, an older and more diverse population, innovation and rapidly evolving technologies. Increasing integration of health and social care services will require registered nurses to negotiate boundaries and play a proactive role in multidisciplinary teams. The confidence and ability to think critically, apply knowledge and skills and provide expert, evidence based, direct nursing care therefore lies at the centre of all registered nursing practice. In order to respond to the impact and demands of professional nursing practice, they must be emotionally intelligent and resilient individuals, able to manage their own personal health and wellbeing, and know when and how to access support.&lt;br /&gt;&lt;br /&gt;Registered nurses may have responsibility for delegating work to other members of the nursing team and take accountability for the delegated activity.&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;",
   "knowledges": [
     {
@@ -521,25 +526,28 @@
       "detail": "Use a range of digital technologies to access, input, share and apply information and data within teams and between agencies"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "Nicholson House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL <br>BS34 8SR",
-    "contactEmail": "regulation@officeforstudents.org.uk",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
     "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-02-13T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0315",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Barking, Havering and Redbridge University Hospital NHS Trust, Birmingham and Solihull Mental Health NHS Foundation Trust, Central London Community Healthcare NHS Trust, Elysium Healthcare, Greater Manchester Combined Authority, Hillingdon Hospitals NHS Trust, Kings College Hospitals NHS Foundation Trust, Lincolnshire Community Health Services NHS Trust, North West Anglia NHS Foundation Trust, Oxford University Hospitals NHS Foundation Trust, Portsmouth Hospitals NHS Trust, Southern Health NHS Foundation Trust, University Hospital Southampton NHS Foundation Trust, Wren Hall Nursing Home, Health Education England, University of Derby, University of Bedfordshire, University of Cumbria, Nursing and Midwifery Council, Council of Deans of Health, Skills for Health",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Nursing and Midwifery Council",
   "coreAndOptions": false,
@@ -549,32 +557,42 @@
     "Registered nurse (learning disability)",
     "Registered nurse (child)"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
   "cluster": "Midwifery and Nursing Professional",
+  "clusterId": "211",
+  "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2019-09-30T13:27:14 +00:00",
-  "lastUpdated": "2020-05-28T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-(nmc-2018)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/registered-nurse-degree-(nmc-2018)-v1-0",
+  "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-02-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0781",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0781-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0781-v1-0",
   "qualifications": [
     {
       "qualificationId": "aac6240e-3894-43e5-a36c-829dbcb6f00e",
       "title": "Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "a87ac7ea-3ab3-4320-8960-015d3769f73e",
       "title": " Degree in Nursing or L7 qualification approved by the NMC where the apprentice already holds a Level 6 degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "7 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Nursing and Midwifery Council / Minimum Level 6",
-      "level": "0",
+      "level": "6",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -596,7 +614,7 @@
         "dba5fa11-dc2f-449f-a397-6d48d5e10c2a",
         "3e8056de-eb09-4ac8-97cb-51d3e45abced"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "61f125d7-ada5-4f66-86a4-22c33c989e11",
         "409f0e46-f26e-40f1-b116-03280f27d39a",
@@ -621,7 +639,7 @@
         "724d8c53-ecf3-4c37-8b4c-ca8e5a7d633c",
         "fba8e974-5b7e-4840-935c-2a94d6dd088f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d41c91d2-435b-4f67-9c66-fe2e4b31a7f9",
         "0dbb7682-bd5b-4fd7-ae25-6a6aeea0a991",
@@ -649,7 +667,7 @@
         "83088ac0-bca7-4eed-883e-1cdab419e8f8",
         "00fe90cb-f5bb-4b74-9306-a1d24ef93eef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cb613ea-9ae8-47bb-b3c0-52dc31611327",
         "6b7a0635-a059-46c8-a88b-7dc549e0eab2",
@@ -681,7 +699,7 @@
         "fbb6ec43-0061-4df5-bde0-45197973a740",
         "b571a001-d440-41b2-8556-373936280d8c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "95c5f6a4-1ed5-49d9-99b3-80e861d3d962",
         "4c257e7c-6e08-486f-bd05-21110b72a75e",
@@ -718,7 +736,7 @@
         "37d7bb7a-8f59-4727-9990-22dcae126fce",
         "5828e792-89e4-4098-9945-bde2d2e5b6d8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df10ed70-ca02-42c3-85fb-de74e41f89dd",
         "0a413cca-382a-4b45-a19e-b39a1ad43647",
@@ -751,7 +769,7 @@
         "59096a4c-f505-46df-803f-22bf3ac0abc0",
         "fc31d6f6-2dce-45f3-b359-595fd352bc3a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a8381c94-f237-4e60-9655-c239a97792a9",
         "79329201-fce5-45dc-a10a-42801506fac1",
@@ -774,7 +792,7 @@
         "0adbdac1-585d-47a0-adf4-ab68a1de25fb",
         "2b2cdb81-18a6-4f18-988d-ab55f9076152"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6d54153f-2797-45a1-ba3d-81200c97c3d1",
         "ef5d44d5-65a9-4e4c-a3e9-1970825b5643",
@@ -804,7 +822,7 @@
         "6e79037a-ac44-4b59-a4f4-c6ebf61521c8",
         "a5cf542e-69f0-4b71-81f9-f2a486dc85d9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "40790c2a-86b2-43ab-9af8-addcc08d7f8d",
         "8cf61eaf-a2ae-4d8d-9b93-4a485ba47924",
@@ -825,7 +843,7 @@
         "2823894b-5702-4374-9848-9c091c20e602",
         "732f193d-80cd-4d61-9792-ccb85162ac29"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41d18b1c-7e4f-495c-a434-9d95cf267c4b",
         "d43e283c-563b-48e8-b72d-6b2e0ea0143c",
@@ -849,7 +867,7 @@
         "b838a3ae-7bea-4365-a2de-1108edaaf34a",
         "24e579fe-5506-419d-9be0-8b1e82e1199c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "50affeb7-7414-4ed7-a607-7beef01978ea",
         "bc1acb8c-3335-48b0-a372-75e5dd7ef990",
@@ -859,10 +877,16 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-09-21T00:00:00"
 }
