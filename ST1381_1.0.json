@@ -1,0 +1,730 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 759,
+  "referenceNumber": "ST1381",
+  "learningAimClassCode": "",
+  "title": "Advanced robotics engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1381",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-04-26T00:00:00",
+  "earliestStartDate": "2024-04-26T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "To invent, design and implement new robotic solutions for challenges that have not currently been solved using new scientific advanced engineering methods and techniques.",
+  "level": 7,
+  "ePALength": 9,
+  "typicalDuration": 36,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "advanced robotics engineer",
+    "robotic solutions",
+    "robot",
+    "engineering",
+    "design"
+  ],
+  "jobRoles": [
+    "Advanced robotics engineer",
+    "AI research engineer",
+    "Computer vision research engineer - robotics",
+    "Machine learning research engineer",
+    "Research engineer",
+    "Research engineer - coordinated multi robot systems",
+    "Robotic systems application engineer",
+    "Robotics research engineer",
+    "Robotics software engineer",
+    "Robotics specialist",
+    "Senior control and software engineer",
+    "Senior robotics engineer",
+    "Senior robotics research engineer",
+    "Senior software engineer",
+    "Visualisation systems engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1381-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;h&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of sectors, such as manufacturing, transport and logistics, construction, space, automotive, medical, and health. These may include potentially hazardous environments such as defence, off-shore oil and gas and nuclear, and complex environments like sterile manufacturing in pharma, medicines, and clean rooms in electronics manufacturing.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to invent, design and implement new robotic solutions for challenges that have not currently been solved using new scientific advanced engineering methods and techniques. The advanced robotics engineer will operate in a field where robotics is an emerging technology that can advance automation in complex and unstructured environments, which is not possible when using existing solutions. The responsibilities of the advanced robotics engineer include designing prototypes, testing machines and mechanical frameworks, developing algorithms, and building control systems. The engineer will also conduct research in various robotics fields, make recommendations, design processes and prototypes to build robotic solutions, and test robotics systems or solutions.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a range of stakeholders who can be both internal and external, including robot technicians, software engineers, project and product managers, the senior leadership team, management representatives, end users, installation teams, shop floor and warehouse staff, communications and marketing team members and a multi-disciplinary project team. The working locations will vary depending on the nature of application and range from office, warehouse, robot labs, manufacturing sites, outdoor such as construction sites, to remote robotic deployment locations for example off-shore sites or underwater sites.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for providing technical leadership, design and input in a multi-disciplinary project team. They will have a high degree of skills and experience in robotics, mathematics, systems and software and will be responsible for ensuring the design of sustainable, ethical and safe robotic systems.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "7e803c2d-7a11-4994-a7eb-97866863314e",
+      "detail": "Robot and computer hardware design: structure, concepts, and systems architecture for complex robotics applications."
+    },
+    {
+      "knowledgeId": "167d6d32-9bcc-477f-9980-3e8e5b4a11aa",
+      "detail": "Mathematical principles for modelling complex robotic systems and their embedded multiple subsystems. Concepts of mathematics to establish algorithmic connection between the perception and action of the robotic systems."
+    },
+    {
+      "knowledgeId": "16074609-6416-40ce-b6f9-c8f8dda3a429",
+      "detail": "Artificial intelligence: algorithms and techniques for symbolic programming and task planning for robotics applications. Programming concepts to train Artificial Intelligence (AI) models, also considering ethical aspects, for robotics applications."
+    },
+    {
+      "knowledgeId": "da020436-f21d-4857-80b1-73528410aab1",
+      "detail": "Machine Learning (ML): algorithms and techniques for embedding decision-making capabilities, also considering the ethical aspects, in robotic applications."
+    },
+    {
+      "knowledgeId": "ca9c406f-4971-4d96-bc71-bcec28b4623d",
+      "detail": "Robotic system architecture and integration principles to design, plan and execute the complex interactions of the robot system within the subsystems of the robot system, with the complex, unstructured and dynamic environment and with other robot systems."
+    },
+    {
+      "knowledgeId": "0d2ddea2-e685-494c-ab28-e48dc9b2f074",
+      "detail": "Principles of sustainability and product lifecycle engineering to design systems, products and processes that maximise energy and material efficiency and minimise the environmental impact."
+    },
+    {
+      "knowledgeId": "b2ae53c8-2aa3-4041-bcba-edfab3ed8ddf",
+      "detail": "Requirements analysis techniques to capture technical, user and environmental system requirements."
+    },
+    {
+      "knowledgeId": "4b52027f-4542-47c1-a783-29092131c709",
+      "detail": "Data engineering principles for data sourcing, transformation and analysis techniques."
+    },
+    {
+      "knowledgeId": "8680d8e5-d029-45bc-8ca9-2645a72d9e95",
+      "detail": "System performance monitoring technologies needed for identifying and continuously monitoring the performance-based metrics of the robotic system."
+    },
+    {
+      "knowledgeId": "3aa6cd19-d378-488d-a499-c53d216efbe2",
+      "detail": "Collaborative human-robot interface design principles needed for designing intuitive, user-friendly, safe and ethical systems."
+    },
+    {
+      "knowledgeId": "beebfc90-d729-4886-b299-d33efeac5cf9",
+      "detail": "Reliability engineering principles to design and build reliable, robust, trustworthy and maintainable robotics systems."
+    },
+    {
+      "knowledgeId": "bcceb8d6-8ec6-4565-ba70-29e012a044b3",
+      "detail": "Machine vision (2D and 3D) principles for image processing techniques for scene evaluation, path planning and obstacle avoidance in dynamic and unstructured environments."
+    },
+    {
+      "knowledgeId": "adadbf2e-da63-493c-8b07-9d0995f11792",
+      "detail": "Sensor fusion principles for acquiring and combining data from multiple sensors in different components of the robotic system. Sensor Signal Processing (SSP) and Digital Signal Processing (DSP) techniques for analysing sensor data."
+    },
+    {
+      "knowledgeId": "b30d06e0-f4a0-4cb5-ac48-ba3674dae633",
+      "detail": "Critical thinking and problem-solving techniques."
+    },
+    {
+      "knowledgeId": "1d1f8614-b7d3-491f-aa9c-3270cc7b7680",
+      "detail": "Systems engineering principles for root cause and fault analysis."
+    },
+    {
+      "knowledgeId": "6eaec8b7-f4a3-4b7e-ae5d-9665277c7a65",
+      "detail": "Hazard identification: principles for defining the risks, their probability, ethical implications, frequency, and severity. Risk assessment principles for evaluating the consequences of risks, their impact and mitigation strategies as required by health and safety documentation."
+    },
+    {
+      "knowledgeId": "2fe98921-e245-4622-af70-f607fbf512d2",
+      "detail": "Autonomous systems principles for motion and path planning in complex, unstructured and dynamic environments for multi-robot systems."
+    },
+    {
+      "knowledgeId": "101b14ad-3176-4fc5-a00f-fe5fd4ccdc3c",
+      "detail": "Systems engineering principles for designing safety compliant systems considering health and safety requirements for the operating environment."
+    },
+    {
+      "knowledgeId": "5c69861c-20fd-4c9c-9f72-1ee51305a653",
+      "detail": "Robotics control: kinematics, dynamic systems modelling, and design of control algorithms for trajectory, force, impedance and admittance control."
+    },
+    {
+      "knowledgeId": "dfb1c517-851b-43ba-8e3a-f7735271ac2b",
+      "detail": "Principles of robotic manipulation required for designing end-effectors to handle challenging objects."
+    },
+    {
+      "knowledgeId": "39e2c044-ddf2-4f26-b1ae-fe4282a24df7",
+      "detail": "Verification and validation engineering principles for quality control, testing and performance evaluation of the robotic systems."
+    },
+    {
+      "knowledgeId": "00d50ea2-0d01-4220-ac9d-914f12ff09c6",
+      "detail": "Robot programming frameworks, simulation tools, benchmarking methodologies, and proprietary robot programming languages."
+    },
+    {
+      "knowledgeId": "ebc888db-1b53-4b48-aa70-fce24c143a5c",
+      "detail": "Software engineering, software architecture, compilers, programming languages and networking principles, object-oriented programming, version control, protocols and interface methods for software systems integration in robotic systems."
+    },
+    {
+      "knowledgeId": "51ca63a3-e93f-4c9b-9c2d-dcbf235941df",
+      "detail": "Written communication techniques. Plain English principles. Engineering terminology. Report writing."
+    },
+    {
+      "knowledgeId": "96cda103-3a2c-4eb4-8763-b74e4a51ce05",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. Barriers in communication and ways to overcome them."
+    },
+    {
+      "knowledgeId": "c670d432-3688-41de-adc5-c094e8d09618",
+      "detail": "Technical documentation. User, system, deployment, data logging, risk register and maintenance manuals. Content and usage."
+    },
+    {
+      "knowledgeId": "9dcc599d-8a46-4850-8f6f-1700a2dee052",
+      "detail": "Project management principles: planning, scheduling, budgeting, risk management and resource management."
+    },
+    {
+      "knowledgeId": "cb61e116-a70a-4989-bc3d-ade165004146",
+      "detail": "Personal and professional development techniques to keep up to date with advances in robotics and related technologies."
+    },
+    {
+      "knowledgeId": "2d040839-b8b9-4222-8a2c-68c93b8bedab",
+      "detail": "Data governance principles: transparency, accountability, privacy, fairness, ethics, GDPR and cybersecurity."
+    },
+    {
+      "knowledgeId": "dd0424c1-983f-4c2e-b2f5-e7b7355f0702",
+      "detail": "Research techniques required for system and solution design and development."
+    },
+    {
+      "knowledgeId": "f72811bf-b2b6-40d7-b427-875db22dea1e",
+      "detail": "Industry trends in robotics engineering to keep track of technology advancements, standards and market trends."
+    },
+    {
+      "knowledgeId": "e6a01f20-7e46-4d88-b345-3223a46cc559",
+      "detail": "Design thinking, product and user-centred methodology used when developing user interfaces for targeted end-users."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
+      "detail": "Act as a role model and advocate for health and safety across the team."
+    },
+    {
+      "behaviourId": "646fd708-20e1-42fb-86b1-53909e8c0f09",
+      "detail": "Act in a professional and ethical manner."
+    },
+    {
+      "behaviourId": "dbe4ca86-3651-43bb-b696-08581d5982f3",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "a654f955-c114-4cda-93cd-2bc76efbc72b",
+      "detail": "Commit to their own and support others’ professional development."
+    },
+    {
+      "behaviourId": "81e648ae-974b-4399-a442-efac4a6d4560",
+      "detail": "Lead by example to promote innovation."
+    },
+    {
+      "behaviourId": "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
+      "detail": "Lead by example to promote accessibility, equality, diversity and inclusion."
+    },
+    {
+      "behaviourId": "42657fb7-b963-4568-b1d3-9865283d3b27",
+      "detail": "Adapt to challenging or changing situations."
+    },
+    {
+      "behaviourId": "f923501a-00af-4288-9266-4c703244db15",
+      "detail": "Act as a role model and advocate environmental and sustainable practices."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "4671321f-fadd-46b3-a74f-c1e41751035f",
+      "detail": "Plan and lead research and development activities."
+    },
+    {
+      "skillId": "b4b4dc33-2a48-422f-8662-9607cf392f55",
+      "detail": "Determine feasibility and applicability of complex robotic solutions."
+    },
+    {
+      "skillId": "b9001c38-4e50-4c33-9067-51c0460a973a",
+      "detail": "Complete requirements gathering, such as, user, technical and environmental and prioritise key areas."
+    },
+    {
+      "skillId": "b99915e6-83f4-4934-b424-4dc6d4a69030",
+      "detail": "Design, simulate and optimise processes and parts using tools and methodologies such as Computer Aided Design (CAD) and simulation tools."
+    },
+    {
+      "skillId": "f1f07743-3e4d-4c11-95eb-370142a95432",
+      "detail": "Identify tools and evaluate them using benchmarking methodologies to identify their limitations and capabilities for carrying out the design and simulation of robotic processes."
+    },
+    {
+      "skillId": "ce50c0f0-5d59-44ab-88fb-0e418b398fc1",
+      "detail": "Build condition based continuous performance monitoring into robotic systems considering interacting factors."
+    },
+    {
+      "skillId": "2387498d-0911-4632-9011-884179737037",
+      "detail": "Design and implement robotic systems, and architecture considering technical requirements and standards."
+    },
+    {
+      "skillId": "35b935b4-3ee1-4f19-a7ea-e0c6a7387555",
+      "detail": "Design and implement robotic systems and components with consideration to the whole product lifecycle including sustainability and environmental impact for both short-term and long-term."
+    },
+    {
+      "skillId": "a179c860-5da7-48d4-a00f-cad527e689d8",
+      "detail": "Design and develop intuitive and collaborative human-robot interfaces considering design thinking, product and user-centred methodology, ethical, safety, trust, fear and acceptance criteria."
+    },
+    {
+      "skillId": "41fc7b21-9964-45d3-9491-f2d969728fe2",
+      "detail": "Apply design thinking, product and user-centred methodology in developing user interfaces for targeted end-users."
+    },
+    {
+      "skillId": "5393e900-0a67-4aa8-98ce-620b9a26f97a",
+      "detail": "Use advanced techniques such as Sensor Signal Processing (SSP), Digital Signal Processing (DSP), intelligent signal classification and interpretation, to collect, process and analyse data from sensors and cameras."
+    },
+    {
+      "skillId": "e5f2d860-eb4a-4a7e-b8be-845b016620a3",
+      "detail": "Analyse data and use outcomes to make recommendations and formulate action plans."
+    },
+    {
+      "skillId": "91adf984-d9ec-479e-948e-e3a1c001db47",
+      "detail": "Communicate verbally to stakeholders through mechanisms such as presentations, digital media and discussions."
+    },
+    {
+      "skillId": "fac2b966-03b0-4404-bda9-aeb24a4bf71c",
+      "detail": "Assess robot system safety compliance through hazard identification, safety risk assessment and risk mitigation."
+    },
+    {
+      "skillId": "f01fd2d0-13da-4067-93e2-568422907d4a",
+      "detail": "Design and implement robotic software according to software engineering principles and practices with the aid of software integration tools."
+    },
+    {
+      "skillId": "9c7dbd02-3dec-4ed6-9f41-c04679762f6d",
+      "detail": "Collaborate with colleagues and stakeholders both internal and external to the organisation. Strategically manage differing and competing interests with stakeholders."
+    },
+    {
+      "skillId": "2695c259-2b9b-46be-8a4c-e959fc41fe63",
+      "detail": "Manage projects with consideration for various interacting factors such as people and resources, budget, risks, organisational, time and task management, legal, contractual and statutory requirements."
+    },
+    {
+      "skillId": "11b52614-8b1e-48fa-8bc1-0a8868f5d17c",
+      "detail": "Demonstrate prototypes and finished products to end-users and stakeholders."
+    },
+    {
+      "skillId": "30798bac-defc-44fa-95c1-51d0e74d9f95",
+      "detail": "Select and use tools for tasks such as integration, fabrication, construction, and manufacturing."
+    },
+    {
+      "skillId": "70c44565-33bd-4bf8-a6a4-803c348c1124",
+      "detail": "Written communication using design models, drawings, specifications, reports and technical documentation such as data logging and risk registers."
+    },
+    {
+      "skillId": "68d8aa7e-df9d-4e2c-8364-a9c4160f67e8",
+      "detail": "Identify and complete opportunities for personal and professional development. Mentor and guide colleagues on the technical aspects of robotics and related technologies."
+    },
+    {
+      "skillId": "b3215a48-31ca-4716-a396-27647896c496",
+      "detail": "Apply current state-of-the-art technologies in solution design and development."
+    },
+    {
+      "skillId": "947f9ba9-9f5f-40a2-bb43-2fa100cc7853",
+      "detail": "Apply structured problem-solving, critical thinking and analytical skills."
+    },
+    {
+      "skillId": "5eb0aa70-a40c-4ec6-afa7-3ae955d8fc30",
+      "detail": "Use advanced technologies to carry out regular system inspection, critical evaluation, quality control, testing and maintenance procedures."
+    },
+    {
+      "skillId": "957efb23-11d0-46d3-9e7f-ec8b8093c16f",
+      "detail": "Apply and promote policies and practices to support equity, diversity and inclusion."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2024-04-26T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "",
+  "tbReference": "TB0853",
+  "tbMainContact": "radhika.gudipati@ocado.com",
+  "involvedEmployers": "Ocado Technology, SMC Pneumatics, CMR Surgical, Airbus Operations Ltd, The Manufacturing Technology Centre, Rockwell Automation, Expert Technologies Group, \tAWE, Veolia Nuclear Solutions, Extend Robotics\n\n",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Advanced robotics engineer",
+    "AI research engineer",
+    "Computer vision research engineer - robotics",
+    "Machine learning research engineer",
+    "Research engineer",
+    "Research engineer - coordinated multi robot systems",
+    "Robotic systems application engineer",
+    "Robotics research engineer",
+    "Robotics software engineer",
+    "Robotics specialist",
+    "Senior control and software engineer",
+    "Senior robotics engineer",
+    "Senior robotics research engineer",
+    "Senior software engineer",
+    "Visualisation systems engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Design and Development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": null,
+  "createdDate": "2024-04-26T08:37:29 +00:00",
+  "lastUpdated": "2024-04-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-04-26T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) is in place. Once an EPAO is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC1381",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1381-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1381-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "5a0c13ea-5fcb-497e-8eb1-602ee55f8b00",
+      "title": "Masters degree in robotics that fully aligns with the KSBs within the apprenticeship standard",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Mechanical Engineers (IMechE)",
+      "level": "Chartered Engineer (CEng)",
+      "isPartial": "partial",
+      "partialFreeText": "This programme has been designed to align with the requirements of the engineering profession. This does not guarantee recognition by either the Engineering Council or the professional engineering institutions (PEIs) it licenses, unless the programme has been formally recognised (approved or accredited) by one or more PEIs and listed on the Engineering Council’s recognised course search database which can be found on their website.  Anyone seeking professional registration or further advice is advised to contact the appropriate PEI to discuss their application."
+    },
+    {
+      "bodyName": "Institution of Engineering and Technology (IET)",
+      "level": "Incorporated Engineer (IEng)",
+      "isPartial": "partial",
+      "partialFreeText": "This programme has been designed to align with the requirements of the engineering profession. This does not guarantee recognition by either the Engineering Council or the professional engineering institutions (PEIs) it licenses, unless the programme has been formally recognised (approved or accredited) by one or more PEIs and listed on the Engineering Council’s recognised course search database which can be found on their website.  Anyone seeking professional registration or further advice is advised to contact the appropriate PEI to discuss their application."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "2ac642d2-d693-4610-8dc3-e4ac89404578",
+      "dutyDetail": "Initiate, design, plan and lead research activities to determine feasibility and applicability of complex robotic solutions including the use of AI (Artificial Intelligence) and ML (Machine Learning).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "81e648ae-974b-4399-a442-efac4a6d4560"
+      ],
+      "mappedKnowledge": [
+        "16074609-6416-40ce-b6f9-c8f8dda3a429",
+        "da020436-f21d-4857-80b1-73528410aab1",
+        "ca9c406f-4971-4d96-bc71-bcec28b4623d",
+        "96cda103-3a2c-4eb4-8763-b74e4a51ce05",
+        "dd0424c1-983f-4c2e-b2f5-e7b7355f0702"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4671321f-fadd-46b3-a74f-c1e41751035f",
+        "b4b4dc33-2a48-422f-8662-9607cf392f55",
+        "91adf984-d9ec-479e-948e-e3a1c001db47",
+        "b3215a48-31ca-4716-a396-27647896c496"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2f278ad-a5aa-4eeb-89cd-67f3b6d50ab4",
+      "dutyDetail": "Use appropriate evaluation methodologies, benchmarking and acceptance criteria to capture technical, user and environmental requirements and identify constraints. Identify and design suitable architectures for robotic systems to meet the target requirements, performance and sustainability criteria.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dbe4ca86-3651-43bb-b696-08581d5982f3",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
+        "f923501a-00af-4288-9266-4c703244db15"
+      ],
+      "mappedKnowledge": [
+        "7e803c2d-7a11-4994-a7eb-97866863314e",
+        "167d6d32-9bcc-477f-9980-3e8e5b4a11aa",
+        "0d2ddea2-e685-494c-ab28-e48dc9b2f074",
+        "b2ae53c8-2aa3-4041-bcba-edfab3ed8ddf",
+        "5c69861c-20fd-4c9c-9f72-1ee51305a653",
+        "dfb1c517-851b-43ba-8e3a-f7735271ac2b",
+        "00d50ea2-0d01-4220-ac9d-914f12ff09c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9001c38-4e50-4c33-9067-51c0460a973a",
+        "f1f07743-3e4d-4c11-95eb-370142a95432",
+        "2387498d-0911-4632-9011-884179737037",
+        "35b935b4-3ee1-4f19-a7ea-e0c6a7387555"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "267e5fe3-1f0e-4a41-bebc-deb6a17f05c8",
+      "dutyDetail": "Design, simulate and optimise robotic processes and parts using appropriate methodologies and tools (such as Computer Aided Engineering Design and simulation tools) and evaluate using appropriate means. Analyse and account for any limitations in the tools being used.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dbe4ca86-3651-43bb-b696-08581d5982f3",
+        "42657fb7-b963-4568-b1d3-9865283d3b27"
+      ],
+      "mappedKnowledge": [
+        "beebfc90-d729-4886-b299-d33efeac5cf9",
+        "2fe98921-e245-4622-af70-f607fbf512d2",
+        "00d50ea2-0d01-4220-ac9d-914f12ff09c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99915e6-83f4-4934-b424-4dc6d4a69030",
+        "f1f07743-3e4d-4c11-95eb-370142a95432",
+        "30798bac-defc-44fa-95c1-51d0e74d9f95"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b2f633d-1857-4903-b273-1a0e4bfa1623",
+      "dutyDetail": "Design and implement sustainable robotic solutions to fulfil customer and technical requirements and relevant standards. Build condition based monitoring into the robotic system for continuous monitoring of performance. Consider the whole product lifecycle and environmental impact in the course of system and component design.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "81e648ae-974b-4399-a442-efac4a6d4560",
+        "42657fb7-b963-4568-b1d3-9865283d3b27",
+        "f923501a-00af-4288-9266-4c703244db15"
+      ],
+      "mappedKnowledge": [
+        "7e803c2d-7a11-4994-a7eb-97866863314e",
+        "167d6d32-9bcc-477f-9980-3e8e5b4a11aa",
+        "0d2ddea2-e685-494c-ab28-e48dc9b2f074",
+        "5c69861c-20fd-4c9c-9f72-1ee51305a653",
+        "dfb1c517-851b-43ba-8e3a-f7735271ac2b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2387498d-0911-4632-9011-884179737037",
+        "35b935b4-3ee1-4f19-a7ea-e0c6a7387555"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "369a95f2-4ab9-4f12-ba85-d6beecffdd98",
+      "dutyDetail": "Establish categories of target end-users, apply design thinking, User Experience (UX) and product design skills in developing and integrating intuitive or collaborative human-robot interfaces, taking into account the ethical and human experience such as safety, trust, fear and acceptance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "dbe4ca86-3651-43bb-b696-08581d5982f3",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709"
+      ],
+      "mappedKnowledge": [
+        "7e803c2d-7a11-4994-a7eb-97866863314e",
+        "167d6d32-9bcc-477f-9980-3e8e5b4a11aa",
+        "3aa6cd19-d378-488d-a499-c53d216efbe2",
+        "6eaec8b7-f4a3-4b7e-ae5d-9665277c7a65",
+        "5c69861c-20fd-4c9c-9f72-1ee51305a653",
+        "dfb1c517-851b-43ba-8e3a-f7735271ac2b",
+        "f72811bf-b2b6-40d7-b427-875db22dea1e",
+        "e6a01f20-7e46-4d88-b345-3223a46cc559"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2387498d-0911-4632-9011-884179737037",
+        "a179c860-5da7-48d4-a00f-cad527e689d8",
+        "41fc7b21-9964-45d3-9491-f2d969728fe2",
+        "fac2b966-03b0-4404-bda9-aeb24a4bf71c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b1d1e085-9a6d-4250-a688-065ca77edd18",
+      "dutyDetail": "Collect and analyse data from robot sensors and cameras using advanced techniques. Formulate actions and recommendations based on the patterns identified.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dbe4ca86-3651-43bb-b696-08581d5982f3",
+        "81e648ae-974b-4399-a442-efac4a6d4560",
+        "42657fb7-b963-4568-b1d3-9865283d3b27"
+      ],
+      "mappedKnowledge": [
+        "4b52027f-4542-47c1-a783-29092131c709",
+        "bcceb8d6-8ec6-4565-ba70-29e012a044b3",
+        "adadbf2e-da63-493c-8b07-9d0995f11792"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5393e900-0a67-4aa8-98ce-620b9a26f97a",
+        "e5f2d860-eb4a-4a7e-b8be-845b016620a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bdf4187e-faaf-471e-8458-c8cb1c8d052f",
+      "dutyDetail": "Apply engineering and scientific knowledge and problem-solving skills in investigating the root cause of faults and exercise broad autonomy, judgement and leadership in implementing appropriate solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a654f955-c114-4cda-93cd-2bc76efbc72b",
+        "81e648ae-974b-4399-a442-efac4a6d4560",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709"
+      ],
+      "mappedKnowledge": [
+        "b30d06e0-f4a0-4cb5-ac48-ba3674dae633",
+        "1d1f8614-b7d3-491f-aa9c-3270cc7b7680",
+        "39e2c044-ddf2-4f26-b1ae-fe4282a24df7",
+        "f72811bf-b2b6-40d7-b427-875db22dea1e",
+        "e6a01f20-7e46-4d88-b345-3223a46cc559"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41fc7b21-9964-45d3-9491-f2d969728fe2",
+        "947f9ba9-9f5f-40a2-bb43-2fa100cc7853",
+        "5eb0aa70-a40c-4ec6-afa7-3ae955d8fc30"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "75ddddee-2a28-4a57-a6e0-1da6db92234f",
+      "dutyDetail": "Initiate and undertake hazard identification and risk assessment considering the impact on users and the environment. Critically evaluate the results and their short-term and long-term implications to recommend and implement effective mitigation strategies as an ongoing vigilance throughout the product life cycle.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
+        "42657fb7-b963-4568-b1d3-9865283d3b27"
+      ],
+      "mappedKnowledge": [
+        "6eaec8b7-f4a3-4b7e-ae5d-9665277c7a65",
+        "c670d432-3688-41de-adc5-c094e8d09618",
+        "9dcc599d-8a46-4850-8f6f-1700a2dee052"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fac2b966-03b0-4404-bda9-aeb24a4bf71c",
+        "2695c259-2b9b-46be-8a4c-e959fc41fe63",
+        "70c44565-33bd-4bf8-a6a4-803c348c1124"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6438fecd-958e-428e-8071-1d5a3c35d29c",
+      "dutyDetail": "Identify interacting factors contributing to system safety compliance and liaise with accredited safety engineers in complex compliance verification procedures. Ensure compliance with relevant standards and quality processes during design and development.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "f923501a-00af-4288-9266-4c703244db15"
+      ],
+      "mappedKnowledge": [
+        "8680d8e5-d029-45bc-8ca9-2645a72d9e95",
+        "1d1f8614-b7d3-491f-aa9c-3270cc7b7680",
+        "39e2c044-ddf2-4f26-b1ae-fe4282a24df7",
+        "9dcc599d-8a46-4850-8f6f-1700a2dee052",
+        "2d040839-b8b9-4222-8a2c-68c93b8bedab"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce50c0f0-5d59-44ab-88fb-0e418b398fc1",
+        "2695c259-2b9b-46be-8a4c-e959fc41fe63",
+        "5eb0aa70-a40c-4ec6-afa7-3ae955d8fc30",
+        "957efb23-11d0-46d3-9e7f-ec8b8093c16f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0a68f201-c75f-4e22-a6c2-77c607edbde5",
+      "dutyDetail": "Develop software and algorithms in collaboration with other contributors. Use, share and manage access control, version control, software feature requests, tasks, continuous integration and wikis for projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "dbe4ca86-3651-43bb-b696-08581d5982f3",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709"
+      ],
+      "mappedKnowledge": [
+        "ebc888db-1b53-4b48-aa70-fce24c143a5c",
+        "51ca63a3-e93f-4c9b-9c2d-dcbf235941df",
+        "96cda103-3a2c-4eb4-8763-b74e4a51ce05",
+        "c670d432-3688-41de-adc5-c094e8d09618",
+        "9dcc599d-8a46-4850-8f6f-1700a2dee052",
+        "f72811bf-b2b6-40d7-b427-875db22dea1e",
+        "e6a01f20-7e46-4d88-b345-3223a46cc559"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41fc7b21-9964-45d3-9491-f2d969728fe2",
+        "91adf984-d9ec-479e-948e-e3a1c001db47",
+        "f01fd2d0-13da-4067-93e2-568422907d4a",
+        "9c7dbd02-3dec-4ed6-9f41-c04679762f6d",
+        "2695c259-2b9b-46be-8a4c-e959fc41fe63",
+        "70c44565-33bd-4bf8-a6a4-803c348c1124"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33e396af-3b88-4e48-a2ef-f9233a650397",
+      "dutyDetail": "Build, integrate and test functional robots or robotic systems (multiple robots working in coordination) taking into account hazards and risks in complex and unstructured environments. Take a leading role in demonstrating prototypes and finished products to customers or stakeholders and explain operating procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5845fb90-4a20-4ab3-8158-a8686ef9f5d0",
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "42657fb7-b963-4568-b1d3-9865283d3b27"
+      ],
+      "mappedKnowledge": [
+        "2fe98921-e245-4622-af70-f607fbf512d2",
+        "101b14ad-3176-4fc5-a00f-fe5fd4ccdc3c",
+        "51ca63a3-e93f-4c9b-9c2d-dcbf235941df"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9c7dbd02-3dec-4ed6-9f41-c04679762f6d",
+        "11b52614-8b1e-48fa-8bc1-0a8868f5d17c",
+        "30798bac-defc-44fa-95c1-51d0e74d9f95"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fbed1db3-f16a-4985-9a56-1f345f6ee776",
+      "dutyDetail": "Develop technical reports, presentations and system documents such as tracking project progress, assessing sustainability and technical performance, deployment and maintenance manuals, architecture description, system and user manuals, requirements specification, risks and issue logging.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709",
+        "f923501a-00af-4288-9266-4c703244db15"
+      ],
+      "mappedKnowledge": [
+        "51ca63a3-e93f-4c9b-9c2d-dcbf235941df",
+        "96cda103-3a2c-4eb4-8763-b74e4a51ce05",
+        "c670d432-3688-41de-adc5-c094e8d09618",
+        "2d040839-b8b9-4222-8a2c-68c93b8bedab"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "91adf984-d9ec-479e-948e-e3a1c001db47",
+        "9c7dbd02-3dec-4ed6-9f41-c04679762f6d",
+        "70c44565-33bd-4bf8-a6a4-803c348c1124",
+        "957efb23-11d0-46d3-9e7f-ec8b8093c16f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ce6dc3f5-4620-4e2f-a7a9-f13ba47fe416",
+      "dutyDetail": "Maintain an active approach to continuous technical and personal development. Provide technical leadership and guidance to colleagues in the relevant areas of expertise.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "646fd708-20e1-42fb-86b1-53909e8c0f09",
+        "a654f955-c114-4cda-93cd-2bc76efbc72b",
+        "a063a5eb-67ec-4f3c-a910-5ddd4450a709"
+      ],
+      "mappedKnowledge": [
+        "16074609-6416-40ce-b6f9-c8f8dda3a429",
+        "da020436-f21d-4857-80b1-73528410aab1",
+        "51ca63a3-e93f-4c9b-9c2d-dcbf235941df",
+        "96cda103-3a2c-4eb4-8763-b74e4a51ce05",
+        "cb61e116-a70a-4989-bc3d-ade165004146",
+        "dd0424c1-983f-4c2e-b2f5-e7b7355f0702",
+        "f72811bf-b2b6-40d7-b427-875db22dea1e",
+        "e6a01f20-7e46-4d88-b345-3223a46cc559"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4671321f-fadd-46b3-a74f-c1e41751035f",
+        "41fc7b21-9964-45d3-9491-f2d969728fe2",
+        "91adf984-d9ec-479e-948e-e3a1c001db47",
+        "9c7dbd02-3dec-4ed6-9f41-c04679762f6d",
+        "68d8aa7e-df9d-4e2c-8364-a9c4160f67e8",
+        "b3215a48-31ca-4716-a396-27647896c496"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-04-26T00:00:00"
+}
