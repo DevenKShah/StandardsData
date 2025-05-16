@@ -1,0 +1,922 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 454,
+  "referenceNumber": "ST0624",
+  "learningAimClassCode": "",
+  "title": "Food and drink engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0624",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Standard and end-point assessment plan revised",
+  "changedDate": "2023-01-10T00:00:00",
+  "earliestStartDate": "2023-01-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Maintaining, managing and installing a diverse range of specialist equipment and technology used in the manufacture of food and drink products.",
+  "level": 5,
+  "ePALength": 6,
+  "typicalDuration": 36,
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "manufacturing",
+    "food industry",
+    "food businesses",
+    "food safety",
+    "food and drink production"
+  ],
+  "jobRoles": [
+    "Continuous improvement food and drink engineer",
+    "Food and drink electrical engineer",
+    "Food and drink mechanical engineer",
+    "Food and drink reliability engineer"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set their own entry requirements in terms of prior academic qualifications and vocational experience. Typically candidates will have 2 A-levels at Grade B or equivalent, including A-level in maths or equivalent and at least one further STEM based subject and 5 GCSEs including English and maths (grade C or above). The food and drink maintenance engineer level 3 apprenticeship provides a preparation route for this apprenticeship.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6798/st0624_food-drink-engineer_l5_ap-for-publication_4jan23.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Food and drink is one of the largest, most dynamic and fastest growing sectors of industry. Food and drink engineers maintain, manage and install a diverse range of specialist equipment and technology used in the manufacture of food and drink products. Combining engineering competence with an understanding of the principles of food safety, science and technology, their focus is on managing, maintaining and continuously improving existing assets. They operate within the confines and unique challenges of the sector. These include the variability of the product itself, the legal and regulatory framework, environment factors and customer and consumer expectations and standards.&lt;/p&gt;\n&lt;p&gt;They fulfil a variety of functions within food businesses, dealing with mechanical engineering, electrical engineering, process development and project engineering.&lt;/p&gt;\n&lt;p&gt;They usually work as part of a team including other engineers and will interact with other functions and teams within their own company, such as manufacturing, production planning, health and safety and quality. They are responsible for their own work and may be responsible for teams.&lt;/p&gt;\n&lt;p&gt;This is a core and options apprenticeship. Apprentices must complete the core and one option relevant to their role. There are two options:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;mechanical&lt;/li&gt;\n&lt;li&gt;electrical&lt;/li&gt;\n&lt;/ul&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+      "detail": "Legislative, regulatory and ethical requirements, such as Dangerous Substances and Explosive Atmospheres (DSEAR) and Atmospheres and Explosives (ATEX) regulations, and their application to food engineering processes; food safety, hazard analysis and critical control points (HACCP), health & safety and environmental considerations."
+    },
+    {
+      "knowledgeId": "181038fc-ead9-48aa-bb27-bf590a6480fe",
+      "detail": "Food science and technology; how engineering is used in food and drink production: heating processing, packaging, modified atmosphere packaging (MAP), preservation, chilling, freezing, sterilisation."
+    },
+    {
+      "knowledgeId": "df1a731a-b46b-4ba7-9397-1751123410c1",
+      "detail": "Engineering processes and equipment including automation and controls to make and deliver products to market: shaping forming equipment, ovens, chillers, freezers, sterilisers, MAP packing machines, check weighers, temperers, washing/cleaning, fillers, extruders, bulk solid handling & distribution and liquid systems process validation, sieving, filtration, metal detection, bar code verification metal detection wrapping and palletising."
+    },
+    {
+      "knowledgeId": "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+      "detail": "Engineering theory and techniques to develop processes i.e. thermodynamic and thermo-fluid analysis heat transfer can be applied to design of baking, cooling, preserving, freezing, chilling systems."
+    },
+    {
+      "knowledgeId": "74a05be7-b01f-4218-a00a-93b3c8901c23",
+      "detail": "Hygienic engineering principles relating to type of material, machine assembly, design and practice; and their importance to delivering food hygiene and safety and employee health and safety requirements in a food and drink process."
+    },
+    {
+      "knowledgeId": "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+      "detail": "Packing materials in food; inter-relationships with food ingredients, final product and their effects on safety, quality and performance through the supply chain i.e. how to engineer correct seals on film, cardboard, tins, stable transportation, moisture barriers."
+    },
+    {
+      "knowledgeId": "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+      "detail": "Problem solving tools to analyse e.g. Define, Measure, Analyse, Improve Control (DMAIC) principles."
+    },
+    {
+      "knowledgeId": "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+      "detail": "Interpretation and evaluation techniques."
+    },
+    {
+      "knowledgeId": "d161cf6b-0375-4c61-8257-21750d53ba2b",
+      "detail": "Overall Equipment Efficiencies (OEE), for example Smart Reliability Driven Maintenance approaches including Reliability Centred Maintenance (RCM)/ Failure mode, effects, and critical analysis (FMECA), Condition Monitoring Techniques and applications, Single minute change of Die (SMED), Line balance."
+    },
+    {
+      "knowledgeId": "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+      "detail": "Risk management techniques, reliability/criticality tools and how they are used to reduce operational losses/wastage operations."
+    },
+    {
+      "knowledgeId": "01c1e938-74ae-4c34-8810-5f29098d339e",
+      "detail": "Life Cycle Asset Management (LCAM), Criticality Analysis & Technology Selection (CATS), Intelligent Maintenance, Repair and Operations (inventory) (MRO) Optimisation."
+    },
+    {
+      "knowledgeId": "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+      "detail": "Product, machinery specifications: how they are used to set capability measurement, performance testing and maintenance requirements to deliver a standard set of operating conditions for consistent product delivery."
+    },
+    {
+      "knowledgeId": "1412b761-41ab-430a-9ab8-416ed808546f",
+      "detail": "Effective planning and scheduling, including effective communication, team working and project management techniques."
+    },
+    {
+      "knowledgeId": "6605e199-f56f-458f-82f4-8ba171ca8670",
+      "detail": "Customer/food trade association standards, such as British Retail Consortium, Retailer and Engineering standards."
+    },
+    {
+      "knowledgeId": "61d5507f-4967-41a7-8a80-425a054e3902",
+      "detail": "General manufacturing services: steam, pneumatics and hydraulics, electrical supply, refrigeration, water supply and effluent."
+    },
+    {
+      "knowledgeId": "381415f0-03d0-4312-8ec0-6c113913df7f",
+      "detail": "Manufacturing services specific to food: air filtration, oil free compressors, cleanliness of steam for food, sieving of materials, use of food grade lubricant, primary secondary cooling chemicals for food, MAP gases and generation i.e. Nitrogen."
+    },
+    {
+      "knowledgeId": "e279888c-5445-420f-b541-099d3bdc4e0b",
+      "detail": "Factory digitisation/optimisation (Iot, Factory 2020 principles), for example principles of control engineering, logic controllers and data communication systems, sensors and devices, drives and transmissions, pumps and distribution systems, safety circuit systems, computer aided design, shop floor data gathering, PC use and computerised maintenance."
+    },
+    {
+      "knowledgeId": "07cf7471-66f1-47e9-b89c-1fa9a250dcf2",
+      "detail": "Digitisation: 4.0, modelling of lines/process, 3d modelling scanning and printing, product dimensional measurement, rheology measurement."
+    },
+    {
+      "knowledgeId": "549b7c8a-a2a1-47cb-9b99-4a2ce27ee9a9",
+      "detail": "Mechanical design, mechanical analysis (static) performance of components, mechanisms and systems; study of friction wear; the science of interacting surfaces in relative motion (tribology)."
+    },
+    {
+      "knowledgeId": "d9a56612-fb6f-4d91-8f0a-ec93b5921902",
+      "detail": "Laws of thermodynamics and its applications within a hygienic food and drink environment: the fundamentals of heat transfer, thermo-fluid analysis, entropy, energy efficiency; conservation and sustainability."
+    },
+    {
+      "knowledgeId": "437e21d6-45c2-430c-9bc1-0066ee2c3763",
+      "detail": "Steam fundamentals such as fuel types, combustion, feedwater, boiler controls and instrumentation, operation of boilers, safety and legal requirements and boiler efficiency."
+    },
+    {
+      "knowledgeId": "4d744518-d276-4490-829f-0cdd04f10eae",
+      "detail": "Heat recovery systems and energy management including the requirements of efficient best practice."
+    },
+    {
+      "knowledgeId": "6f3692fa-035d-40dd-9461-1012a8efec94",
+      "detail": "Electrical and electronic systems, design techniques and their applications to British Standards."
+    },
+    {
+      "knowledgeId": "e36e6854-db57-4ef3-8008-4e2b1c693e7a",
+      "detail": "Installation of systems and supply systems following food safety standards e.g. tray work."
+    },
+    {
+      "knowledgeId": "acb87f7a-a88c-465e-9d52-395b71c50b1c",
+      "detail": "Advanced electrical principles (low voltage (LV) to high voltage (HV))."
+    },
+    {
+      "knowledgeId": "f318eeb3-1928-4e00-85c1-825efc1b00d2",
+      "detail": "Instrumentation and calibration techniques for systems, for example thermo, weights and flow."
+    },
+    {
+      "knowledgeId": "8a7ced87-e7d5-45af-863a-abf2b797ecfb",
+      "detail": "Automation and control systems primarily with the following low voltage systems, i.e. building automation systems, heating, ventilation and air conditioning (HVAC) controls, access control systems, data cabling and fiber optic cable installation and termination."
+    },
+    {
+      "knowledgeId": "73361b60-a6b4-4bac-bfd8-b090dd7b63dd",
+      "detail": "Supervisory control and data acquisition (SCADA) and network systems"
+    },
+    {
+      "knowledgeId": "f56e638a-a0fd-491f-a97e-c42324a83df4",
+      "detail": "Electrical safety systems and smart solutions."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+      "detail": "Safe working, for example promotes a culture of food safety and safe working practices."
+    },
+    {
+      "behaviourId": "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+      "detail": "Takes ownership of work, for example takes responsibility and ownership of decision making for good food practice; is proactive, and demonstrates initiative; plans work: dependable; works autonomously within own sphere of responsibility."
+    },
+    {
+      "behaviourId": "10039f71-0d83-4100-8ffd-e791ac7165ad",
+      "detail": "Shows pride in work, for example strong work ethic; displays a positive mind set; pays attention to detail; looks for new ways of working that improve outcomes and results."
+    },
+    {
+      "behaviourId": "41432276-5437-45b7-871c-40ec96445395",
+      "detail": "Committed to self-development, for example seeks learning, drives the development of self and others; maintains and enhances own practice through continuing professional development activity."
+    },
+    {
+      "behaviourId": "f9b1a577-314d-4c27-a796-49017f697f37",
+      "detail": "Shows integrity and respect, for example promotes integrity in process and site standards, respects others, promotes good communication at all levels, adapts personal style to meet work needs."
+    },
+    {
+      "behaviourId": "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+      "detail": "Team player, for example drives good relationships with others, works collaboratively, contributes ideas and challenges appropriately."
+    },
+    {
+      "behaviourId": "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+      "detail": "Responsive to change, for example flexible to changing working environment and demands; resilient under pressure."
+    },
+    {
+      "behaviourId": "48754d1f-fda3-44d2-b483-297497a20f5c",
+      "detail": "Shows company/industry perspective, for example promotes the position of the business in relation to market and competition, keeps up to date with industry and market advancement, commercially aware."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+      "detail": "Use engineering principles to deliver products/packaged food."
+    },
+    {
+      "skillId": "833907c3-7408-48b3-b8a2-13c812182728",
+      "detail": "Comply with standard operating procedures, company, legal and regulatory requirements and customer/consumer and engineering standards."
+    },
+    {
+      "skillId": "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+      "detail": "Plan, for example labour and engineering materials."
+    },
+    {
+      "skillId": "c951380a-177b-4ccb-808e-44184a4a404f",
+      "detail": "Influence and communicate with colleagues and others, such as engineers, other functions and teams."
+    },
+    {
+      "skillId": "d53be783-b443-4d1e-8ccc-145727f33095",
+      "detail": "Assess team and individual performance, provide feedback to improve; coach and mentor."
+    },
+    {
+      "skillId": "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+      "detail": "Use continuous improvement techniques, for example apply quality management principles, participate in failure investigations and contribute to and implement practical engineering solutions for efficiency and/or profitability."
+    },
+    {
+      "skillId": "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+      "detail": "Use IT, digitisation and manual methods to collect data from systems to support engineering activity within the business."
+    },
+    {
+      "skillId": "c2962b30-2968-4927-a211-3b645fc3a7cb",
+      "detail": "Use and develop planned preventative maintenance (PPM) strategies, incorporate appropriate proactive maintenance routines, such as vibration analysis, thermography, simple visual/part measurement."
+    },
+    {
+      "skillId": "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+      "detail": "Analyse operational performance, specification and data."
+    },
+    {
+      "skillId": "89853c69-e527-4de2-8983-0dee4f1ea7be",
+      "detail": "Evaluate possible failure modes and identify strategy, for example technical risk assessment methods, PPM to RCM techniques."
+    },
+    {
+      "skillId": "a9355f6b-c763-4071-afd7-12820ccf5bf3",
+      "detail": "Contribute to the construction and commissioning of equipment and machinery used for producing preserved/fresh and safe food and drink products."
+    },
+    {
+      "skillId": "56a71cfa-19c1-4758-bfa1-96207e8c5b1c",
+      "detail": "Design, produce, and operate mechanical machinery."
+    },
+    {
+      "skillId": "7071c7b6-2262-420d-94d0-f91065c50e83",
+      "detail": "Design power circuits, utilising software and calculation."
+    },
+    {
+      "skillId": "e5f5b395-9e0b-4c05-ba86-b3dcd5f897a4",
+      "detail": "Apply specialist reliability engineering techniques to prevent or reduce the likelihood or frequency of failures i.e. vibration analysis, oil sampling, heat mapping, non-destructive testing."
+    },
+    {
+      "skillId": "75fd7cdf-3ccf-4c13-b276-9a30902eccf0",
+      "detail": "Apply thermodynamic theory to more complex engineering systems, for example tempering chocolate, cleaning systems, sterilisation, vacuum cooling."
+    },
+    {
+      "skillId": "c8cd9ec6-ff17-4e4b-8b4f-a30186818e33",
+      "detail": "Design and improve systems, for example steam, water or air."
+    },
+    {
+      "skillId": "6313168e-6ba5-4853-ab3d-5f9a5903614a",
+      "detail": "Design and configure electrical systems i.e. add distribution boards to circuits."
+    },
+    {
+      "skillId": "0143acff-9690-48d3-83d6-0274fc2b4419",
+      "detail": "Modell dynamic systems utilising software tools."
+    },
+    {
+      "skillId": "7fda4d0e-f113-454e-9d3b-1462c7ccc91b",
+      "detail": "Design and modify electrical control engineering systems i.e.: Engineering LAN/ network."
+    },
+    {
+      "skillId": "d35e8cfa-0bfb-44b8-b683-d36dcb3f4bc9",
+      "detail": "Diagnose faults on complex control systems."
+    },
+    {
+      "skillId": "4da9148a-6363-4ea7-8697-d46cd3ef67bc",
+      "detail": "Decipher complex programme sequences in higher and lower level languages."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2019-05-10T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0200",
+  "tbMainContact": "secretariat@nsafd.co.uk",
+  "involvedEmployers": "ABP Foods, Champion Reeves, Faccenda, KP Foods, Kraft Heinz, Muller, Nestlé, OAL, Pladis, Premier Foods, Princes",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Continuous improvement food and drink engineer",
+    "Food and drink electrical engineer",
+    "Food and drink mechanical engineer",
+    "Food and drink reliability engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Manufacturing, Plant and Process Technologist",
+  "clusterId": "265",
+  "clusterDescription": "Develop and improve technology of the manufacturing plant and equipment for a whole process",
+  "createdDate": "2023-01-10T09:22:35 +00:00",
+  "lastUpdated": "2023-01-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0624",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0624-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0624-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Relevant professional institutions",
+      "level": "Incorporated engineer",
+      "isPartial": "partial",
+      "partialFreeText": "Additional experiential evidence may be required."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "88d7076e-4506-47a2-a524-2fec081570ad",
+      "dutyDetail": "Co-ordinate site-based engineering activities using site standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0f71812-b803-4258-81ac-61c245cf4604",
+      "dutyDetail": "Implement and operate engineering activities within regulatory requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "65f4a079-6496-4de2-80ed-bc34e5572899",
+      "dutyDetail": "Assist the site/company to deliver operational targets, achieving optimal operational efficiency at the lowest cost.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db810c8e-571b-4937-8b39-e7e2d87f2b7c",
+      "dutyDetail": "Support the transition from a reactive to proactive approach to engineering.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a3606509-22e0-4aaa-951f-dea199431b74",
+      "dutyDetail": "Maintain and optimise the performance of current food and drink manufacturing equipment and machinery.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b00024d7-747d-4a7b-9e7f-537bdc7d35ef",
+      "dutyDetail": "Design and install new process lines to meet emerging business needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bd605712-69df-4ced-9d60-d3d9f3b3ff87",
+      "dutyDetail": "Embed reliability centred maintenance strategies and techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "39fad8f5-cc22-49ea-91fe-8857b260d4a6",
+      "dutyDetail": "Identify the root causes of process and equipment failure and addressing through the implementation of continuous improvement techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ace6eec-ffc6-4130-9f3d-b56974cc2417",
+      "dutyDetail": "Lead the development of systems to drive planning and control focussed improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ced9cc38-2a82-4181-985b-1c6e67c0a44c",
+      "dutyDetail": "Lead the efficient and effective delivery of asset care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+        "181038fc-ead9-48aa-bb27-bf590a6480fe",
+        "df1a731a-b46b-4ba7-9397-1751123410c1",
+        "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+        "74a05be7-b01f-4218-a00a-93b3c8901c23",
+        "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+        "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+        "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+        "d161cf6b-0375-4c61-8257-21750d53ba2b",
+        "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+        "01c1e938-74ae-4c34-8810-5f29098d339e",
+        "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+        "1412b761-41ab-430a-9ab8-416ed808546f",
+        "6605e199-f56f-458f-82f4-8ba171ca8670",
+        "61d5507f-4967-41a7-8a80-425a054e3902",
+        "381415f0-03d0-4312-8ec0-6c113913df7f",
+        "e279888c-5445-420f-b541-099d3bdc4e0b",
+        "07cf7471-66f1-47e9-b89c-1fa9a250dcf2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+        "833907c3-7408-48b3-b8a2-13c812182728",
+        "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+        "c951380a-177b-4ccb-808e-44184a4a404f",
+        "d53be783-b443-4d1e-8ccc-145727f33095",
+        "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+        "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+        "c2962b30-2968-4927-a211-3b645fc3a7cb",
+        "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+        "89853c69-e527-4de2-8983-0dee4f1ea7be",
+        "a9355f6b-c763-4071-afd7-12820ccf5bf3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "75cf718b-8676-46b3-99c3-07f0101aca22",
+      "dutyDetail": "Option 1.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "549b7c8a-a2a1-47cb-9b99-4a2ce27ee9a9",
+        "d9a56612-fb6f-4d91-8f0a-ec93b5921902",
+        "437e21d6-45c2-430c-9bc1-0066ee2c3763",
+        "4d744518-d276-4490-829f-0cdd04f10eae"
+      ],
+      "mappedOptions": [
+        "e5463730-3442-41e0-ae35-8beec0769516"
+      ],
+      "mappedSkills": [
+        "56a71cfa-19c1-4758-bfa1-96207e8c5b1c",
+        "7071c7b6-2262-420d-94d0-f91065c50e83",
+        "e5f5b395-9e0b-4c05-ba86-b3dcd5f897a4",
+        "75fd7cdf-3ccf-4c13-b276-9a30902eccf0",
+        "c8cd9ec6-ff17-4e4b-8b4f-a30186818e33"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "692b5caa-268e-49aa-9771-1f9cff60fde4",
+      "dutyDetail": "Option 2.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+        "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+        "10039f71-0d83-4100-8ffd-e791ac7165ad",
+        "41432276-5437-45b7-871c-40ec96445395",
+        "f9b1a577-314d-4c27-a796-49017f697f37",
+        "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+        "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+        "48754d1f-fda3-44d2-b483-297497a20f5c"
+      ],
+      "mappedKnowledge": [
+        "6f3692fa-035d-40dd-9461-1012a8efec94",
+        "e36e6854-db57-4ef3-8008-4e2b1c693e7a",
+        "acb87f7a-a88c-465e-9d52-395b71c50b1c",
+        "f318eeb3-1928-4e00-85c1-825efc1b00d2",
+        "8a7ced87-e7d5-45af-863a-abf2b797ecfb",
+        "73361b60-a6b4-4bac-bfd8-b090dd7b63dd",
+        "f56e638a-a0fd-491f-a97e-c42324a83df4"
+      ],
+      "mappedOptions": [
+        "d094619e-384d-4e35-95c7-82b320b1f290"
+      ],
+      "mappedSkills": [
+        "6313168e-6ba5-4853-ab3d-5f9a5903614a",
+        "0143acff-9690-48d3-83d6-0274fc2b4419",
+        "7fda4d0e-f113-454e-9d3b-1462c7ccc91b",
+        "d35e8cfa-0bfb-44b8-b683-d36dcb3f4bc9",
+        "4da9148a-6363-4ea7-8697-d46cd3ef67bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e5463730-3442-41e0-ae35-8beec0769516",
+      "title": "Mechanical food and drink engineer",
+      "occupationCode": "OCC0624B"
+    },
+    {
+      "optionId": "d094619e-384d-4e35-95c7-82b320b1f290",
+      "title": "Electrical food and drink engineer",
+      "occupationCode": "OCC0624A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-01-10T00:00:00"
+}
