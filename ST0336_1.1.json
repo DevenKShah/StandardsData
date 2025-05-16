@@ -1,20 +1,26 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 100,
   "referenceNumber": "ST0336",
+  "learningAimClassCode": "",
   "title": "Transport planning technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/100",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0336",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, Funding and End-point assessment plan revised.",
-  "changedDate": "2020-08-24T00:00:00",
+  "changedDate": "2021-11-24T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Providing technical support to transport planners to help manage and improve transport services and systems.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 13000,
-  "route": "Transport and logistics",
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
   "keywords": [
     "highways",
     "transport",
@@ -31,14 +37,13 @@
     "Assistant technician",
     "Assistant planner"
   ],
-  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprentices, but many will be seeking candidates with an aptitude for handling data and have a desire to work in transport planning with a passion for helping develop creative solutions.&lt;/p&gt;\r\n&lt;p&gt;Apprentice candidates will typically have at least 5 GCSEs at Grades A*-C / 9-4 including Maths, English and Science or their equivalent.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4442/st0336_transport-planning-technician_l3_ap_for_publication_17820.pdf",
-  "ssa1": "4 Engineering and Manufacturing Technologies",
-  "ssa2": "4.1 Engineering",
+  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprentices, but many will be seeking candidates with an aptitude for handling data and have a desire to work in transport planning with a passion for helping develop creative solutions.&lt;/p&gt;\n&lt;p&gt;Apprentice candidates will typically have at least 5 GCSEs at Grades A*-C / 9-4 including Maths, English and Science or their equivalent.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5321/st0336_transport-planning-technician_l3_ap_for-publication-adj-02082021.pdf",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "2436",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in small specialist firms to large multi-national and multi-disciplinary consultancies and contractors, to local authorities, Government departments and agencies. Transport planning technicians may be found in academia, research organisations, in providers of infrastructure and transport, and with developers and financing companies with transport interests &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide technical support in the planning, design, implementation or assessment of transport planning policies, plans and projects. Transport planning technicians will use their broad knowledge and skills base to support the delivery of, or improvement to, local, regional, national or international transport systems or services that are appropriately risk assessed and sustainable. They will also use data analysis and digital technologies to model and forecast the demand for transport or travel, enabling technicians to identify how they may influence choice, or assess and appraise various modes of transport or travel. Transport planning technicians connect transport with land use planning to support economic growth, protect the environment and support social cohesion through consideration of security, safety and inclusion &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with members of their own team, each contributing to the delivery of transport projects, processes and/or policies. Transport planning technicians may communicate and work with other professionals across their organisation, including those involved in planning, environmental assessment, engineering and construction, but they could also liaise with a wide range of stakeholders including the general public and regulatory bodies. The majority of their time will be spent working in an office environment, with the potential for occasional work visiting sites, clients, customers or suppliers &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for initiating and completing assigned transport planning tasks to defined specifications within agreed timescales and budget, following best practice and policy and regulatory requirements, whilst maintaining high levels of professional conduct, ethical behaviour and integrity. Transport planning technicians will typically be working with a more senior transport planning professional, providing technical input on transport planning projects which can be challenging, complex and non-routine&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in small specialist firms to large multi-national and multi-disciplinary consultancies and contractors, to local authorities, Government departments and agencies. Transport planning technicians may be found in academia, research organisations, in providers of infrastructure and transport, and with developers and financing companies with transport interests &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to provide technical support in the planning, design, implementation or assessment of transport planning policies, plans and projects. Transport planning technicians will use their broad knowledge and skills base to support the delivery of, or improvement to, local, regional, national or international transport systems or services that are appropriately risk assessed and sustainable. They will also use data analysis and digital technologies to model and forecast the demand for transport or travel, enabling technicians to identify how they may influence choice, or assess and appraise various modes of transport or travel. Transport planning technicians connect transport with land use planning to support economic growth, protect the environment and support social cohesion through consideration of security, safety and inclusion &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with members of their own team, each contributing to the delivery of transport projects, processes and/or policies. Transport planning technicians may communicate and work with other professionals across their organisation, including those involved in planning, environmental assessment, engineering and construction, but they could also liaise with a wide range of stakeholders including the general public and regulatory bodies. The majority of their time will be spent working in an office environment, with the potential for occasional work visiting sites, clients, customers or suppliers &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for initiating and completing assigned transport planning tasks to defined specifications within agreed timescales and budget, following best practice and policy and regulatory requirements, whilst maintaining high levels of professional conduct, ethical behaviour and integrity. Transport planning technicians will typically be working with a more senior transport planning professional, providing technical input on transport planning projects which can be challenging, complex and non-routine&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "e07ae520-e72a-4fb0-8bc0-51d7752e4ed8",
@@ -169,25 +174,28 @@
       "detail": "Plan, undertake, record and review their own professional competence, regularly updating their CPD to improve performance."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-05-11T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0524",
   "tbMainContact": "csudworth@acenet.co.uk",
   "involvedEmployers": "Atkins, Arup, London Borough of Hackney, CH2MHill, Curtins, Highways Agency, Hyder Consulting, Leeds City Council, Mott MacDonald, Odyssey Markides, Parsons Brinckerhoff, Peter Brett Associates, Transport for London, WSP, Chartered Institute of Highways & Transportation, Transport Planning Society",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -198,32 +206,40 @@
     "Assistant technician",
     "Assistant planner"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "",
-  "pathway": "Transport",
-  "cluster": "Transport Operations Operative/Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Design, Surveying & Planning",
+  "cluster": "Design and surveying technician",
+  "clusterId": "54",
+  "clusterDescription": null,
   "createdDate": "2020-08-24T14:27:29 +00:00",
-  "lastUpdated": "2020-08-24T14:27:29 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/transport-planning-technician-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/transport-planning-technician-v1-1",
+  "lastUpdated": "2021-11-24T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-05-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0336",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0336-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0336-v1-1",
   "qualifications": [
     {
       "qualificationId": "a613e9ee-84ad-4761-9dc8-550e195229d6",
       "title": "Pearson BTEC Level 3 Diploma in Transport Planning",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Chartered Institution of Highways and Transportation (CIHT)",
-      "level": "0",
+      "level": "Engineering Technician (EngTech) ",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Transport Planning Society (TPS)",
-      "level": "0",
+      "level": "Transport Planning Technician (TPTech) ",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -232,7 +248,7 @@
     {
       "dutyID": "1de513c0-4063-4c13-b66e-8d2011e99208",
       "dutyDetail": "Assist in the planning, design, implementation or assessment of transport planning solutions, by carrying out data collection, analysis and evaluation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "f84764dd-7291-4134-a20b-a91b396a46e0",
@@ -244,7 +260,7 @@
         "f5c27e69-789e-4ffa-86e9-2b9f99376c66",
         "34b7a869-c404-4f18-8431-d071df10607a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2844c78-aae6-4caa-8e3c-86b692cb1d02",
         "28ab248a-6614-4566-aace-caa802d39e76",
@@ -257,7 +273,7 @@
     {
       "dutyID": "f2256de4-4f59-44b2-84f2-663615017749",
       "dutyDetail": "Ensure safe systems of work are applied, hazards and risks are identified and mitigated in their own work and demonstrate compliance with industry standards, and with health, safety and environmental regulations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae"
@@ -268,7 +284,7 @@
         "8c7658e8-f59b-4304-af74-9ee1440909a5",
         "34b7a869-c404-4f18-8431-d071df10607a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b16c98e-dc12-4729-a86b-99b584ea8899",
         "c1541b4e-6da3-4bfc-9d8d-fac247c0dc9a",
@@ -282,7 +298,7 @@
     {
       "dutyID": "b1bc55ba-ac6c-4de0-ac22-fac3bebf9752",
       "dutyDetail": "Communicate effectively with a range of audiences, such as internal and external stakeholders, through the preparation of written reports and presentations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "a6a1146f-aad2-460d-84ef-90849697df62",
@@ -293,7 +309,7 @@
         "1b6452a9-ebab-4856-8985-a2b6635167c7",
         "8c7658e8-f59b-4304-af74-9ee1440909a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1af12604-8698-4adc-b70d-9f752b90212f",
         "b3873cf2-768a-4091-9d00-10420b82f5a6",
@@ -307,7 +323,7 @@
     {
       "dutyID": "9a3ae668-abf8-4e4d-878c-89ad5cc8aacd",
       "dutyDetail": "Undertake planning for transport and travel in a way that influences travel behaviours and improves sustainability, safety, security and inclusion.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae",
@@ -320,7 +336,7 @@
         "f5c27e69-789e-4ffa-86e9-2b9f99376c66",
         "43edc655-5c13-42d4-ad58-823eb372b668"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2844c78-aae6-4caa-8e3c-86b692cb1d02",
         "28ab248a-6614-4566-aace-caa802d39e76",
@@ -333,7 +349,7 @@
     {
       "dutyID": "ae6e88a4-47ef-47b7-a59a-78439c530394",
       "dutyDetail": "Contribute to the modelling of transport and traffic systems, by preparing and producing models using digital technologies to agreed specifications, industry codes, policies and regulations, standards and procedures.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "06c00227-cf4c-4d63-919b-920591bed0ae",
@@ -348,7 +364,7 @@
         "43edc655-5c13-42d4-ad58-823eb372b668",
         "34b7a869-c404-4f18-8431-d071df10607a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2844c78-aae6-4caa-8e3c-86b692cb1d02",
         "8b16c98e-dc12-4729-a86b-99b584ea8899",
@@ -365,7 +381,7 @@
     {
       "dutyID": "23b1a3f1-b80d-4035-b0a9-7c6aa265a974",
       "dutyDetail": "Collect, interpret and analyse inter-related and often dynamic technical information and data, to inform the development of policies, plans or projects.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4"
@@ -376,7 +392,7 @@
         "16eba83b-793b-49e2-bda2-03bb2d6b2167",
         "f5c27e69-789e-4ffa-86e9-2b9f99376c66"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a2844c78-aae6-4caa-8e3c-86b692cb1d02",
         "8b16c98e-dc12-4729-a86b-99b584ea8899",
@@ -389,7 +405,7 @@
     {
       "dutyID": "889f911e-f918-400d-a54b-f63594566a42",
       "dutyDetail": "Participate in community, or stakeholder engagement, or public consultations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "a6a1146f-aad2-460d-84ef-90849697df62",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4",
@@ -400,7 +416,7 @@
         "1b6452a9-ebab-4856-8985-a2b6635167c7",
         "bab25b58-e4bf-4c20-b4ee-e3d37f4675d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3873cf2-768a-4091-9d00-10420b82f5a6",
         "6c36cad3-44ea-49cc-81aa-51973f7425d5"
@@ -410,7 +426,7 @@
     {
       "dutyID": "381f67a9-5f4d-4e33-b962-f86e417630ec",
       "dutyDetail": "Use the quality management and assurance systems available to, proactively plan and, manage tasks which and contribute to the delivery of larger work programmes of work.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "a6a1146f-aad2-460d-84ef-90849697df62",
@@ -420,7 +436,7 @@
         "43edc655-5c13-42d4-ad58-823eb372b668",
         "8c7658e8-f59b-4304-af74-9ee1440909a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1c6dd9ab-980c-453e-853b-696d433d0396",
         "8f8cf822-4f42-4f2c-93c0-df025716db2d",
@@ -432,7 +448,7 @@
     {
       "dutyID": "a4ec6fb4-7abb-48d4-867d-2fccd09033ac",
       "dutyDetail": "Undertake transport planning with consideration for, and application of, ethical principles.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "efc11ec3-e8a5-4d20-b304-03328813f484",
         "69f74a3c-d45f-409f-bc16-01f953c84d32",
@@ -442,7 +458,7 @@
         "1b6452a9-ebab-4856-8985-a2b6635167c7",
         "bab25b58-e4bf-4c20-b4ee-e3d37f4675d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3873cf2-768a-4091-9d00-10420b82f5a6",
         "c1541b4e-6da3-4bfc-9d8d-fac247c0dc9a",
@@ -454,7 +470,7 @@
     {
       "dutyID": "1031af9d-8b92-4b78-bef2-acfcbfa89065",
       "dutyDetail": "Maintain their own learning and skills development by carrying out continuing professional development in line with professional codes of conduct and/or industry specifications and obligations.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "06c00227-cf4c-4d63-919b-920591bed0ae",
         "be09ac27-75e2-4be0-8f92-d7a2992daac4",
@@ -464,7 +480,7 @@
       "mappedKnowledge": [
         "df731ff8-2fae-4255-904b-9bd493f88624"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "476825e7-2e56-4bf8-a251-b8e0ff9a12d3",
         "580ac300-55e9-40d7-ab22-79a220265c81"
@@ -472,5 +488,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-11-24T00:00:00"
 }
