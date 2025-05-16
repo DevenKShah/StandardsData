@@ -1,0 +1,625 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 746,
+  "referenceNumber": "ST1386",
+  "learningAimClassCode": "",
+  "title": "Data engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1386",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-12-11T00:00:00",
+  "earliestStartDate": "2023-12-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Build systems that collect, manage, and convert data into usable information for data scientists, data analysts and business intelligence analysts to interpret.",
+  "level": 5,
+  "ePALength": 4,
+  "typicalDuration": 24,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "data engineer",
+    "data",
+    "analysts",
+    "business intelligence analyst",
+    "data scientists",
+    "data analyst"
+  ],
+  "jobRoles": [
+    "Data engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1386-v1-0?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of public and private sector organisations who work with large data sets including Government departments, NHS, financial and professional services, IT companies, retail and sales and education providers. &lt;br /&gt;&lt;br /&gt;The purpose of the occupation is to build systems that collect, manage, and convert data into usable information for data scientists, data analysts and business intelligence analysts to interpret. A data engineer’s main aim is to make data accessible and valid so that an organisation can use it to evaluate and optimise their performance. The role of the data engineer is pivotal to any organisation; it ensures that data pipelines are established to support data scientists and other business stakeholders.&lt;/p&gt;\n&lt;p&gt;A data engineer will build and implement data flows to connect operational systems, and re-engineer manual data flows to enable scalable and repeatable use. They integrate, support and manage the build of data streaming systems, writing extract transform and load scripts that perform in line with business requirements.&#160;&lt;/p&gt;\n&lt;p&gt;They are responsible for providing high quality, transparent data that enables effective governance and smart business decisions. They will analyse the performance indicators of the data systems that provide clean, regular, and accurate data. A data engineer will understand how data and an organisation’s data architecture is essential to business outcomes.&lt;/p&gt;\n&lt;p&gt;A data engineer will be able to gather requirements for data solutions, and they demonstrate and articulate data solutions to stakeholders in a way that can be easily understood. Data engineering encompasses a range of activities from collecting data to employing various data processing frameworks, including but not limited to ETL (Extract, Transform, Load), and collaborating with data scientists and other data-centric roles. Data engineers may work in an office or work remotely depending on the sector they work in and location of the employer.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation will work&#160; autonomously or collaboratively with clients, in the business and or data team. A data engineer will work with data analysts, Data scientists and data architects and liaise with other teams and internal and external stakeholders to ensure their data requirements are captured and managed to the specified standard. They will also work closely with machine learning engineer (Ops), software engineers, software developers and technology teams.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for completing their own work to specification, , ensuring they meet set deadlines. A data engineer contributes towards, engineering designs, plans, execution and evaluation working to time, cost and quality targets. They deliver to the product roadmap and are responsible for meeting quality requirements and working in accordance with health and safety and environmental considerations. They will work according to organisational procedures and policies, to maintain security and compliance.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "6a6be7ad-9f86-4805-a288-a4657875dead",
+      "detail": "Processes to monitor and optimise the performance of the availability, management and performance of data product."
+    },
+    {
+      "knowledgeId": "86bc741f-aff2-400e-8a98-76ee5ee88da1",
+      "detail": "Methodologies for moving data from one system to another for storage and further handling."
+    },
+    {
+      "knowledgeId": "c9357dbe-0b5c-4c04-bb84-9696d82aadff",
+      "detail": "Data normalisation principles and the advantages they achieve in databases for data protection, redundancy, and inconsistent dependency."
+    },
+    {
+      "knowledgeId": "ee98be17-17eb-4d5c-a684-3b3ab970dd44",
+      "detail": "Frameworks for data quality, covering dimensions such as accuracy, completeness, consistency, timeliness, and accessibility."
+    },
+    {
+      "knowledgeId": "0b4a38ec-9b3a-4e7d-976e-de16c0b3fb57",
+      "detail": "The inherent risks of data such as incomplete data, ethical data sources and how to ensure data quality."
+    },
+    {
+      "knowledgeId": "bf8f6f0d-70d5-46e9-a960-f3a2bcc9a0e2",
+      "detail": "Software development principles for data products, including debugging, version control, and testing."
+    },
+    {
+      "knowledgeId": "0adff82a-94e6-4d91-a330-1c3c019847b0",
+      "detail": "Principles of sustainable data products and organisational responsibilities for environmental social governance."
+    },
+    {
+      "knowledgeId": "55aa9533-5655-490c-98b5-ee22d8f42734",
+      "detail": "Deployment approaches for new data pipelines and automated processes."
+    },
+    {
+      "knowledgeId": "eaf5e69c-32bd-41fd-9e1a-257a267beaef",
+      "detail": "How to build a data product that complies with regulatory requirements."
+    },
+    {
+      "knowledgeId": "2fd3c14a-6a73-43b5-99ea-0411cc93854b",
+      "detail": "Concepts of data governance, including regulatory requirements, data privacy, security, and quality control. Legislation and its application to the safe use of data."
+    },
+    {
+      "knowledgeId": "6bad3110-a2d1-4407-a7e8-5b3228891460",
+      "detail": "Data and information security standards, ethical practices, policies and procedures relevant to data management activities such as data lineage and metadata management."
+    },
+    {
+      "knowledgeId": "e63fc452-edf3-41fd-98aa-eeeec4ffe60b",
+      "detail": "How to cost and build a system whilst ensuring that organisational strategies for sustainable, net zero technologies are considered."
+    },
+    {
+      "knowledgeId": "3f8ddd29-978a-4461-9978-141c21797f78",
+      "detail": "The implications of financial, strategic and compliance regarding to security, scalability, compliance and cost of local, remote or distributed solutions. "
+    },
+    {
+      "knowledgeId": "a7db50cb-79dc-4f48-b8ff-5986b19ef5ec",
+      "detail": "The uses of on-demand Cloud computing platform(s) in a public or private environment such as Amazon AWS, Google Cloud, Hadoop,  IBM Cloud, Salesforce and Microsoft Azure."
+    },
+    {
+      "knowledgeId": "a14cc415-5a53-4707-a394-34dd9afbbc92",
+      "detail": "Data warehousing principles, including techniques such as star schemas, data lakes, and data marts."
+    },
+    {
+      "knowledgeId": "18757d9b-97a8-4d5f-b5cc-9578d110ad67",
+      "detail": "Principles of data, including open and public data, administrative data, and research data including the value of external data sources that can be used to enrich internal data. Examples of how business use direct data acquisition to support or augment business operations."
+    },
+    {
+      "knowledgeId": "60f1e6c6-c0eb-40c8-9812-5ababa1f666e",
+      "detail": "Approaches to data integration and how combining disparate data sources delivers value to an organisation."
+    },
+    {
+      "knowledgeId": "1cebf1d2-9b60-4875-9bcc-c1d5b9406fe4",
+      "detail": "How to use streaming, batching and on-demand services to move data from one location to another."
+    },
+    {
+      "knowledgeId": "1ca15c55-1ce7-4f30-ac89-c4a4ecd45586",
+      "detail": "Differences between structured, semi-structured, and unstructured data."
+    },
+    {
+      "knowledgeId": "9a464540-0263-404b-8dbc-fe945f9ad779",
+      "detail": "Types and uses of data engineering tools and applications in own organisation."
+    },
+    {
+      "knowledgeId": "62417901-476d-4958-90d2-3909e3336417",
+      "detail": "Policies and strategies to ensure business continuity for operations, particularly in relation to data provision."
+    },
+    {
+      "knowledgeId": "4fa95f52-04a0-4dd7-82be-d31dbff61171",
+      "detail": "Technology and service management best practice including configuration, change and incident management."
+    },
+    {
+      "knowledgeId": "e77b8456-6682-431f-85cf-a91687d8e724",
+      "detail": "How to undertake analysis and root cause investigation."
+    },
+    {
+      "knowledgeId": "197ff008-7a4c-423a-b8d0-bbf561782663",
+      "detail": "Processes for evaluating prototypes and taking them to implementation within a production environment."
+    },
+    {
+      "knowledgeId": "d3f92f18-54b1-4b7b-9409-0ef10ccf9efe",
+      "detail": "The lifecycle of implementing data solutions in a business, from scoping, though prototyping, development, production, and continuous improvement."
+    },
+    {
+      "knowledgeId": "40502c72-8051-4e7f-b1f5-094d592de752",
+      "detail": "Data development frameworks and approved organisational architectures."
+    },
+    {
+      "knowledgeId": "32250229-fb39-4838-b7c3-8c535493331e",
+      "detail": "The principles of descriptive, predictive and prescriptive analytics."
+    },
+    {
+      "knowledgeId": "613c4c43-ab6b-44db-b498-ebbff1554ca2",
+      "detail": "Continuous improvement including how to: capture good practice and lessons learned."
+    },
+    {
+      "knowledgeId": "827e172e-d286-4b46-82a5-30bcd1f2a140",
+      "detail": "Strategies for keeping up to date with new ways of working and technological developments in data science, data engineering and AI."
+    },
+    {
+      "knowledgeId": "8b5d39e3-644a-4e50-8423-4ef56250325a",
+      "detail": "The methods and techniques used to communicate messages to meet the needs of the audience."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "69758fed-f271-478e-8773-552b2b9b4e9c",
+      "detail": "Acts proactively and takes accountability adapting positively to changing work priorities, ensuring deadlines are met."
+    },
+    {
+      "behaviourId": "37b50b16-9575-499a-94d2-fa9489b71797",
+      "detail": "Works collaboratively with stakeholders and colleagues, developing strong working relationships to achieve common goals. Support an inclusive culture and treat technical and non- technical colleagues and stakeholders with respect. "
+    },
+    {
+      "behaviourId": "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+      "detail": "Quality focus that promotes continuous improvement utilising peer review techniques, innovation and creativity to the data system development process to improve processes and address business challenges."
+    },
+    {
+      "behaviourId": "129a2fc2-8415-4b02-9137-324875714544",
+      "detail": "Takes personal responsibility towards net zero and prioritises environmental sustainability outcomes in how they carry out the duties of their role."
+    },
+    {
+      "behaviourId": "7d6be63c-bcc3-49d5-bdc2-f56fcf8774ee",
+      "detail": "Use initiative and innovation to problem solve and trouble shoot, providing creative solutions."
+    },
+    {
+      "behaviourId": "6071541d-5dd0-4ae8-b719-568127403588",
+      "detail": "Keeps abreast of developments in emerging, contemporary and advanced technologies to optimise sustainable data products and services.  "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "41475e76-2fc2-4f16-844e-cbaafcdeeb42",
+      "detail": "Collate, evaluate and refine user requirements to design the data product."
+    },
+    {
+      "skillId": "3562700c-4ce6-45bc-9ba2-5b0dca82f60a",
+      "detail": "Collate, evaluate and refine business requirements including cost, resourcing, and accessibility to design the data product."
+    },
+    {
+      "skillId": "8b54e6e8-aab2-4cf1-a831-d2db91f1000b",
+      "detail": "Design a data product to serve multiple needs and with scalability, efficiency, and security in mind."
+    },
+    {
+      "skillId": "97e53e24-8dab-4ffc-9c07-6ca1ea9a11f0",
+      "detail": "Automate data pipelines such as batch, real-time, on demand and other processes using programming languages and data integration platforms with graphical user interfaces."
+    },
+    {
+      "skillId": "a7158bbd-5e2d-439b-8052-f4783a9b9fd2",
+      "detail": "Produce and maintain technical documentation explaining the data product, that meets organisational, technical and non-technical user requirements, retaining critical information."
+    },
+    {
+      "skillId": "b7556858-a8e8-47af-87f1-c9433cecc4c8",
+      "detail": "Systematically clean, validate, and describe data at all stages of extract, transform, load (ETL)."
+    },
+    {
+      "skillId": "da6e99c8-2dd1-4c94-a61d-1796094b2d0f",
+      "detail": "Work with different types of data stores, such as SQL, NoSQL, and distributed file system. "
+    },
+    {
+      "skillId": "746cee65-a625-4af7-bbff-ea54cd5f094b",
+      "detail": "Identify and troubleshoot issues with data processing pipelines."
+    },
+    {
+      "skillId": "fee1a8ba-57dd-474b-b4a3-fc792a3ed480",
+      "detail": "Query and manipulate data using tools and programming such as SQL and Python. Manage database access, and implement automated validation checks."
+    },
+    {
+      "skillId": "9765f464-18ac-4426-9e33-0dfb2e4d2405",
+      "detail": "Communicate downtime and issues with database access to stakeholders to mitigate the operational impact of unforeseen issues."
+    },
+    {
+      "skillId": "4af43023-ab96-4de7-979c-5bb720bc7904",
+      "detail": "Evaluate opportunities to extract value from existing data products through further development, considering costs, environmental impact and potential operational benefits."
+    },
+    {
+      "skillId": "4a1dcca7-ac11-4059-baa1-517ea4f7fbc7",
+      "detail": "Maintain a working knowledge of data use cases within organisations. "
+    },
+    {
+      "skillId": "d26c47a9-fcfa-45ab-862d-da2de3fbef95",
+      "detail": "Use data systems securely to meet requirements and in line with organisational procedures and legislation."
+    },
+    {
+      "skillId": "1d700b3c-9fa8-45ac-be4e-f59e8eb4d086",
+      "detail": "Identify new tools and technologies and recommend potential opportunities for use in own department or organisation."
+    },
+    {
+      "skillId": "c57e4b43-3dde-4720-b47d-031cd7d0d6b9",
+      "detail": "Optimise data ingestion processes by making use of appropriate data ingestion frameworks such as batch, streaming and on-demand."
+    },
+    {
+      "skillId": "6b292064-0bd8-4577-b0f5-2e2650604ecf",
+      "detail": "Develop algorithms and processes to extract structured data from unstructured sources."
+    },
+    {
+      "skillId": "605dca07-ca94-4a1f-8438-672f4c5504e7",
+      "detail": "Apply and advocate for software development best practice when working with other data professionals throughout the business. Contribute to standards and ways of working that support software development principles."
+    },
+    {
+      "skillId": "245ab732-83ab-4aa7-8766-a42e6179d4b5",
+      "detail": "Develop simple forecasts and monitoring tools to anticipate or respond immediately to outages and incidents. "
+    },
+    {
+      "skillId": "41b3d413-ea72-428f-955c-5152769a3ae4",
+      "detail": "Identify and escalate risks with suggested mitigation/resolutions as appropriate."
+    },
+    {
+      "skillId": "f188d62c-1909-4e53-9f8c-f8f4f65df851",
+      "detail": "Investigate and respond to incidents, identifying the root cause and resolution with internal and external stakeholders."
+    },
+    {
+      "skillId": "1b105cc2-7ac6-43d9-b90f-3993a7382b1e",
+      "detail": "Identify and remediate technical debt, assess for updates and obsolescence as part of continuous improvement."
+    },
+    {
+      "skillId": "ff8582d2-0b3f-4f6b-aa5b-73f67b516b68",
+      "detail": "Develop, maintain collaborative relationships using adaptive business methodology with stakeholders such as, business users, data scientists, data analysts and business intelligence teams."
+    },
+    {
+      "skillId": "79050f73-0e2e-469a-8a3f-94b755f3a98e",
+      "detail": "Present, communicate, and disseminate messages about the data product, tailoring the message and medium to the needs of the audience."
+    },
+    {
+      "skillId": "7a03b56b-1117-4398-b668-7057fd33ac48",
+      "detail": "Evaluate the strengths and weaknesses of prototype data products and how these integrate within an organisation’s overarching data infrastructure."
+    },
+    {
+      "skillId": "b1a30767-a7e7-411e-836b-93456c0f9857",
+      "detail": "Assess and identify gaps in existing tools and technologies in respect of implementing changes required. "
+    },
+    {
+      "skillId": "06b7d775-b79d-4b7e-b1cb-79252d797f70",
+      "detail": "Identify data quality metrics and track them to ensure the quality, accuracy and reliability of the data product."
+    },
+    {
+      "skillId": "d0bb0855-7312-4c3b-a978-973607332677",
+      "detail": "Selects and apply sustainable solutions to contribute to net zero and environmental strategies across the various stages of product and service delivery.   "
+    },
+    {
+      "skillId": "75f03ec4-245b-4b5b-80a3-1021996ec8b8",
+      "detail": "Horizon scanning to identify new technologies that offer increased performance of data products."
+    },
+    {
+      "skillId": "94bfe033-45a9-4f7a-96f5-387ed1cabcb3",
+      "detail": "Implement personal strategies to keep up to date with new technology and ways of working."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-12-11T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0843",
+  "tbMainContact": "carly.hinds@education.gov.uk",
+  "involvedEmployers": "BBC, Ministry of Defence (MOD), Corndel, EasyJet, Aviva, Compare the Market (BGL Group), British Airways Ltd, Birmingham City University, British Airways, Sainsbury’s Supermarkets Ltd, Ministry of Justice",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Data engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Data analyst advanced technician",
+  "clusterId": "189",
+  "clusterDescription": null,
+  "createdDate": "2024-04-26T08:20:41 +00:00",
+  "lastUpdated": "2023-12-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-12-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1386",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1386-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1386-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "62abf2cb-683b-4dcc-a757-ba40eb9c9ea3",
+      "dutyDetail": "Build and optimise automated data systems and pipelines considering data quality, description, cataloguing, data cleaning, validation, technical documentation and requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "69758fed-f271-478e-8773-552b2b9b4e9c",
+        "37b50b16-9575-499a-94d2-fa9489b71797",
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835"
+      ],
+      "mappedKnowledge": [
+        "6a6be7ad-9f86-4805-a288-a4657875dead",
+        "86bc741f-aff2-400e-8a98-76ee5ee88da1",
+        "c9357dbe-0b5c-4c04-bb84-9696d82aadff",
+        "ee98be17-17eb-4d5c-a684-3b3ab970dd44",
+        "0b4a38ec-9b3a-4e7d-976e-de16c0b3fb57",
+        "bf8f6f0d-70d5-46e9-a960-f3a2bcc9a0e2",
+        "0adff82a-94e6-4d91-a330-1c3c019847b0",
+        "55aa9533-5655-490c-98b5-ee22d8f42734",
+        "eaf5e69c-32bd-41fd-9e1a-257a267beaef",
+        "2fd3c14a-6a73-43b5-99ea-0411cc93854b",
+        "6bad3110-a2d1-4407-a7e8-5b3228891460",
+        "e63fc452-edf3-41fd-98aa-eeeec4ffe60b",
+        "40502c72-8051-4e7f-b1f5-094d592de752"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41475e76-2fc2-4f16-844e-cbaafcdeeb42",
+        "3562700c-4ce6-45bc-9ba2-5b0dca82f60a",
+        "8b54e6e8-aab2-4cf1-a831-d2db91f1000b",
+        "97e53e24-8dab-4ffc-9c07-6ca1ea9a11f0",
+        "a7158bbd-5e2d-439b-8052-f4783a9b9fd2",
+        "b7556858-a8e8-47af-87f1-c9433cecc4c8",
+        "da6e99c8-2dd1-4c94-a61d-1796094b2d0f",
+        "746cee65-a625-4af7-bbff-ea54cd5f094b",
+        "d26c47a9-fcfa-45ab-862d-da2de3fbef95"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "78a45319-0894-41ae-8a42-619b64ce3068",
+      "dutyDetail": "Integrate, support and manage data using standalone, distributed and cloud-based platforms. To ensure efficient, sustainable and effective provision of data storage solutions. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "37b50b16-9575-499a-94d2-fa9489b71797",
+        "129a2fc2-8415-4b02-9137-324875714544"
+      ],
+      "mappedKnowledge": [
+        "c9357dbe-0b5c-4c04-bb84-9696d82aadff",
+        "ee98be17-17eb-4d5c-a684-3b3ab970dd44",
+        "2fd3c14a-6a73-43b5-99ea-0411cc93854b",
+        "6bad3110-a2d1-4407-a7e8-5b3228891460",
+        "3f8ddd29-978a-4461-9978-141c21797f78",
+        "a7db50cb-79dc-4f48-b8ff-5986b19ef5ec",
+        "a14cc415-5a53-4707-a394-34dd9afbbc92"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41475e76-2fc2-4f16-844e-cbaafcdeeb42",
+        "3562700c-4ce6-45bc-9ba2-5b0dca82f60a",
+        "8b54e6e8-aab2-4cf1-a831-d2db91f1000b",
+        "da6e99c8-2dd1-4c94-a61d-1796094b2d0f",
+        "fee1a8ba-57dd-474b-b4a3-fc792a3ed480",
+        "9765f464-18ac-4426-9e33-0dfb2e4d2405"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "778ef096-1b8f-44bd-82e6-f5618ed5e440",
+      "dutyDetail": "Support the identification and evaluation of opportunities for data acquisition and data enrichment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "37b50b16-9575-499a-94d2-fa9489b71797",
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835"
+      ],
+      "mappedKnowledge": [
+        "2fd3c14a-6a73-43b5-99ea-0411cc93854b",
+        "6bad3110-a2d1-4407-a7e8-5b3228891460",
+        "18757d9b-97a8-4d5f-b5cc-9578d110ad67",
+        "60f1e6c6-c0eb-40c8-9812-5ababa1f666e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4af43023-ab96-4de7-979c-5bb720bc7904",
+        "4a1dcca7-ac11-4059-baa1-517ea4f7fbc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bf5e1b75-343a-4c69-9dbd-27fe1619fd24",
+      "dutyDetail": "Select and use appropriate tools to process data in any format, such as structured and unstructured data and in any mode of delivery, such as streaming or batching. Adapt to legacy systems as required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "129a2fc2-8415-4b02-9137-324875714544"
+      ],
+      "mappedKnowledge": [
+        "1cebf1d2-9b60-4875-9bcc-c1d5b9406fe4",
+        "1ca15c55-1ce7-4f30-ac89-c4a4ecd45586",
+        "9a464540-0263-404b-8dbc-fe945f9ad779"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fee1a8ba-57dd-474b-b4a3-fc792a3ed480",
+        "1d700b3c-9fa8-45ac-be4e-f59e8eb4d086",
+        "c57e4b43-3dde-4720-b47d-031cd7d0d6b9",
+        "6b292064-0bd8-4577-b0f5-2e2650604ecf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9443c8b0-d9a2-4c2b-8820-e0a72c496260",
+      "dutyDetail": "Ensure resilience is built into data products against business continuity and disaster recovery plans, and document change management to limit service outages. Support and respond to incidents through the application of technology and service management best practice including configuration, change and incident management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "37b50b16-9575-499a-94d2-fa9489b71797",
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+        "7d6be63c-bcc3-49d5-bdc2-f56fcf8774ee"
+      ],
+      "mappedKnowledge": [
+        "62417901-476d-4958-90d2-3909e3336417",
+        "4fa95f52-04a0-4dd7-82be-d31dbff61171",
+        "e77b8456-6682-431f-85cf-a91687d8e724"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9765f464-18ac-4426-9e33-0dfb2e4d2405",
+        "245ab732-83ab-4aa7-8766-a42e6179d4b5",
+        "41b3d413-ea72-428f-955c-5152769a3ae4",
+        "f188d62c-1909-4e53-9f8c-f8f4f65df851",
+        "1b105cc2-7ac6-43d9-b90f-3993a7382b1e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "158fb973-073b-4a0e-8aea-724b4c057333",
+      "dutyDetail": "Analyse requirements, research scope and options and present recommendations for solutions to stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "37b50b16-9575-499a-94d2-fa9489b71797",
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+        "129a2fc2-8415-4b02-9137-324875714544"
+      ],
+      "mappedKnowledge": [
+        "e63fc452-edf3-41fd-98aa-eeeec4ffe60b",
+        "8b5d39e3-644a-4e50-8423-4ef56250325a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3562700c-4ce6-45bc-9ba2-5b0dca82f60a",
+        "8b54e6e8-aab2-4cf1-a831-d2db91f1000b",
+        "4af43023-ab96-4de7-979c-5bb720bc7904",
+        "ff8582d2-0b3f-4f6b-aa5b-73f67b516b68",
+        "79050f73-0e2e-469a-8a3f-94b755f3a98e",
+        "d0bb0855-7312-4c3b-a978-973607332677"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c7c1982a-91de-4e0c-83c1-6fe1ef0e056f",
+      "dutyDetail": "Support the implementation of prototype or proof-of-concept data products within a production environment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+        "129a2fc2-8415-4b02-9137-324875714544"
+      ],
+      "mappedKnowledge": [
+        "bf8f6f0d-70d5-46e9-a960-f3a2bcc9a0e2",
+        "55aa9533-5655-490c-98b5-ee22d8f42734",
+        "197ff008-7a4c-423a-b8d0-bbf561782663",
+        "8b5d39e3-644a-4e50-8423-4ef56250325a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "605dca07-ca94-4a1f-8438-672f4c5504e7",
+        "ff8582d2-0b3f-4f6b-aa5b-73f67b516b68",
+        "7a03b56b-1117-4398-b668-7057fd33ac48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f7bb02bc-128e-448a-a816-471a66078456",
+      "dutyDetail": "Maintain data solutions as continually evolving products, to service the organisation, user or client requirements. Collaborate with technical support teams and stakeholders from implementation to management. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "69758fed-f271-478e-8773-552b2b9b4e9c",
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+        "129a2fc2-8415-4b02-9137-324875714544"
+      ],
+      "mappedKnowledge": [
+        "bf8f6f0d-70d5-46e9-a960-f3a2bcc9a0e2",
+        "d3f92f18-54b1-4b7b-9409-0ef10ccf9efe",
+        "8b5d39e3-644a-4e50-8423-4ef56250325a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "41475e76-2fc2-4f16-844e-cbaafcdeeb42",
+        "3562700c-4ce6-45bc-9ba2-5b0dca82f60a",
+        "8b54e6e8-aab2-4cf1-a831-d2db91f1000b",
+        "4af43023-ab96-4de7-979c-5bb720bc7904",
+        "4a1dcca7-ac11-4059-baa1-517ea4f7fbc7",
+        "1b105cc2-7ac6-43d9-b90f-3993a7382b1e",
+        "ff8582d2-0b3f-4f6b-aa5b-73f67b516b68",
+        "b1a30767-a7e7-411e-836b-93456c0f9857"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9c2ec9c0-a258-46bb-a4ea-a150009f9293",
+      "dutyDetail": "Working within compliance and contribute towards data governance, organisational policies, standards, and guidelines for data engineering. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835"
+      ],
+      "mappedKnowledge": [
+        "c9357dbe-0b5c-4c04-bb84-9696d82aadff",
+        "ee98be17-17eb-4d5c-a684-3b3ab970dd44",
+        "bf8f6f0d-70d5-46e9-a960-f3a2bcc9a0e2",
+        "2fd3c14a-6a73-43b5-99ea-0411cc93854b",
+        "6bad3110-a2d1-4407-a7e8-5b3228891460"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a7158bbd-5e2d-439b-8052-f4783a9b9fd2",
+        "d26c47a9-fcfa-45ab-862d-da2de3fbef95",
+        "605dca07-ca94-4a1f-8438-672f4c5504e7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a94b42db-103f-48ed-ba7f-3bc379067e0f",
+      "dutyDetail": "Monitor the data system to meet service requirements to enable solutions such as data analysis, dashboards, data products, pipelines, and storage solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9f554ea7-7c1f-4872-bd53-829ef14ee835",
+        "7d6be63c-bcc3-49d5-bdc2-f56fcf8774ee"
+      ],
+      "mappedKnowledge": [
+        "32250229-fb39-4838-b7c3-8c535493331e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "245ab732-83ab-4aa7-8766-a42e6179d4b5",
+        "41b3d413-ea72-428f-955c-5152769a3ae4",
+        "06b7d775-b79d-4b7e-b1cb-79252d797f70"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ddd759fb-1ee9-4242-bd61-0a6d48e6b6b3",
+      "dutyDetail": "Keep up to date with engineering developments to advance own skills and knowledge.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6071541d-5dd0-4ae8-b719-568127403588"
+      ],
+      "mappedKnowledge": [
+        "613c4c43-ab6b-44db-b498-ebbff1554ca2",
+        "827e172e-d286-4b46-82a5-30bcd1f2a140"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4a1dcca7-ac11-4059-baa1-517ea4f7fbc7",
+        "75f03ec4-245b-4b5b-80a3-1021996ec8b8",
+        "94bfe033-45a9-4f7a-96f5-387ed1cabcb3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-12-11T00:00:00"
+}
