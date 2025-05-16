@@ -1,21 +1,35 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 512,
   "referenceNumber": "ST0744",
+  "learningAimClassCode": "",
   "title": "Fenestration fabricator",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/512",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0744",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-15T00:00:00",
   "earliestStartDate": "2019-09-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-11-05T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manufacturing fenestration products such as windows, doors, shop fronts and walls.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "manufacturing",
+    "fenestration",
+    "Fabricator",
+    "engineering and manufacturing",
+    "welding",
+    "windows",
+    "doors"
+  ],
   "jobRoles": [
     "Aluminium/uPVC Fabricator",
     "Double Glazing Window Factory Fabricator",
@@ -24,13 +38,12 @@
     "Windows/Doors Fabricator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3336/st0744_fenestration_fabricator_l2_ap_for_publication-23july19.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7288/st0744_fenestration_fabricator_l2_ap_for_publication-23july19em.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction sector. Fenestration refers to the design, construction, or presence of openings in a building it can include windows, doors, louvres, vents, wall panels, skylights, storefronts, curtain walls, and slope glazed systems. Fabricators may supply directly to homeowners (retail/domestic market), the new-build market (house builders) or the commercial and public sector (local authorities, offices, shops, schools and hospitals etc). They can also supply the commercial refurbishment market.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;The broad purpose of this occupation is to manufacture finished fenestration products such as conservatory roofing, curtain walls, glazed doors, glazed screening, roof lanterns, roof lights, patent/slope glazing, secondary glazing, shop fronts and windows. They usually specialise in a particular material – aluminium, timber, steel or uPVC and a range of products. They cut and assemble profiles together. Depending on the product they may add glass units, ancillary items for example, fixings and fastening, handles, hinges, locks and louvers, along with weatherproofing for example, gaskets, seals, membranes and sealants. Regardless of the product or material, it involves working to a specification, in line with quality standards, health and safety and environmental considerations.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the production/general manager whom they report to and depending on the size of the organisation customers (internal/external), other fabricators, delivery personnel, design office, internal stores and suppliers.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing their own work, with minimal supervision, ensuring they meet set deadlines. They may work as part of a team, with responsibility for a specific aspect of the fabricator process, contributing to the production of the overall product.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction sector. Fenestration refers to the design, construction, or presence of openings in a building it can include windows, doors, louvres, vents, wall panels, skylights, storefronts, curtain walls, and slope glazed systems. Fabricators may supply directly to homeowners (retail/domestic market), the new-build market (house builders) or the commercial and public sector (local authorities, offices, shops, schools and hospitals etc). They can also supply the commercial refurbishment market.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;The broad purpose of this occupation is to manufacture finished fenestration products such as conservatory roofing, curtain walls, glazed doors, glazed screening, roof lanterns, roof lights, patent/slope glazing, secondary glazing, shop fronts and windows. They usually specialise in a particular material – aluminium, timber, steel or uPVC and a range of products. They cut and assemble profiles together. Depending on the product they may add glass units, ancillary items for example, fixings and fastening, handles, hinges, locks and louvers, along with weatherproofing for example, gaskets, seals, membranes and sealants. Regardless of the product or material, it involves working to a specification, in line with quality standards, health and safety and environmental considerations.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the production/general manager whom they report to and depending on the size of the organisation customers (internal/external), other fabricators, delivery personnel, design office, internal stores and suppliers.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing their own work, with minimal supervision, ensuring they meet set deadlines. They may work as part of a team, with responsibility for a specific aspect of the fabricator process, contributing to the production of the overall product.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "9422c20d-6b49-4d17-9b69-1de5194e6999",
@@ -229,25 +242,28 @@
       "detail": "Report work outcomes and problems."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0036",
   "tbMainContact": "katie@thewinco.co.uk",
   "involvedEmployers": "The Window Company Ltd, Sunray Construction, UK Glass Force, Nationwide Windows, Anglian Home Improvements, Eurocell, Synseal/Global Glass, Rehau, Saint Gobain, Prentice Glass, Independent Network (Veka), Cornwall Glass & Glazing, Everest, SAS (Senior Architectural Systems), VPS Evander, Continental Installations, Comar Architectural Aluminium Systems (Parkside Group), Safestyle, Emplas Window Systems Ltd, Glazerite UK Group Limited",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -258,14 +274,20 @@
     "Production Operative",
     "Windows/Doors Fabricator"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This standard will be reviewed after three years.</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Fabrication and Welding Operative/Technician",
+  "cluster": "Fabrication and welding operative or technician",
+  "clusterId": "259",
+  "clusterDescription": null,
   "createdDate": "2019-06-28T09:01:14 +00:00",
-  "lastUpdated": "2019-09-27T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/fenestration-fabricator-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/fenestration-fabricator-v1-0",
+  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0744",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0744-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0744-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -286,7 +308,7 @@
         "b6d7864c-38df-4c9e-b70c-918c3d9747d3",
         "67f81e8c-0bfd-4767-bfdb-da97b406046a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f35a4d2-4eb6-4bbf-94ea-e1c70e68eaa9",
         "29428466-0a98-4d6f-bf7c-75114c174c83",
@@ -315,7 +337,7 @@
         "cf6e9b9c-10fd-4150-85ff-6794eb1bcaf4",
         "0282c89b-a0d2-4c5e-bf69-5f0b48881d95"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7f276a9-c806-499e-8bb6-448c664c0051",
         "07180d87-2fdb-4493-ba4d-7969f9163518",
@@ -339,7 +361,7 @@
         "d8fb5dc2-7fa9-4ad1-8059-198f3c072a2a",
         "f4621414-8ce3-4f4e-93a6-f419c51d9cb2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "301408dc-a510-46b9-8baf-69a77e462e21",
         "f9b12399-2161-4edb-80b1-65fd1d9c18e2",
@@ -370,7 +392,7 @@
         "24de990a-98be-4e0c-8b68-95f87c90bf35",
         "35a7cad1-89ee-4caa-92ee-be1a3cffb0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07180d87-2fdb-4493-ba4d-7969f9163518",
         "857dc7c7-dc9a-4cb7-a697-4e7332c27bda",
@@ -409,7 +431,7 @@
         "90e6d4ff-6f1b-4457-8dad-626854c096c0",
         "35a7cad1-89ee-4caa-92ee-be1a3cffb0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07180d87-2fdb-4493-ba4d-7969f9163518",
         "f9b12399-2161-4edb-80b1-65fd1d9c18e2",
@@ -444,7 +466,7 @@
         "8d74c9df-d438-4852-b1f2-c73ed97e6d98",
         "90e6d4ff-6f1b-4457-8dad-626854c096c0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07180d87-2fdb-4493-ba4d-7969f9163518",
         "e919ee68-3fe6-4109-876b-f8fbf07026eb",
@@ -478,7 +500,7 @@
         "269bddac-ccd8-4bb2-96ac-774df13a10ea",
         "8d74c9df-d438-4852-b1f2-c73ed97e6d98"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7f276a9-c806-499e-8bb6-448c664c0051",
         "07180d87-2fdb-4493-ba4d-7969f9163518",
@@ -514,7 +536,7 @@
         "35a7cad1-89ee-4caa-92ee-be1a3cffb0c1",
         "cf6e9b9c-10fd-4150-85ff-6794eb1bcaf4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07180d87-2fdb-4493-ba4d-7969f9163518",
         "4f35a4d2-4eb6-4bbf-94ea-e1c70e68eaa9",
@@ -545,7 +567,7 @@
         "24de990a-98be-4e0c-8b68-95f87c90bf35",
         "35a7cad1-89ee-4caa-92ee-be1a3cffb0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7f276a9-c806-499e-8bb6-448c664c0051",
         "07180d87-2fdb-4493-ba4d-7969f9163518",
@@ -576,7 +598,7 @@
         "67f81e8c-0bfd-4767-bfdb-da97b406046a",
         "35a7cad1-89ee-4caa-92ee-be1a3cffb0c1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e7f276a9-c806-499e-8bb6-448c664c0051",
         "07180d87-2fdb-4493-ba4d-7969f9163518",
@@ -610,7 +632,7 @@
         "cf6e9b9c-10fd-4150-85ff-6794eb1bcaf4",
         "d0212362-0b53-430e-8167-223d2de1bbd5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "07180d87-2fdb-4493-ba4d-7969f9163518",
         "4f35a4d2-4eb6-4bbf-94ea-e1c70e68eaa9",
@@ -622,5 +644,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-11-05T00:00:00"
 }
