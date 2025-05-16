@@ -1,21 +1,33 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 426,
   "referenceNumber": "ST0659",
+  "learningAimClassCode": "",
   "title": "Materials process engineer (degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/426",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0659",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2024-10-14T00:00:00",
   "earliestStartDate": "2019-03-22T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-10-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Controlling and managing the complex manufacturing processes for different materials",
   "level": 7,
+  "ePALength": 9,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "Material process engineer",
+    "engineering",
+    "maufacturing",
+    "materials",
+    "processing"
+  ],
   "jobRoles": [
     "Process engineer",
     "Technologist",
@@ -31,13 +43,12 @@
     "Engineer e.g. Welding engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3527/materials-process-engineer-assessment-plan.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3527/materials-process-engineer-assessment-plan.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide variety of Thermal Process related fields including Casting, Forging, Machining, Coating, Heat treatment and Surface Finishing processes. These specialist areas are also found in a wide range of industries where materials and their processes are fundamental to the technology . Industries as diverse as Medical, Defence, Energy, Oil and Gas, Aerospace and Nuclear all incorporate the skills of Materials Process Engineers.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to perform a role which is unique to the materials/manufacturing community, controlling and managing the complex manufacturing processes and support services that are applied to products for the automotive, aerospace, medical, energy and construction sectors. They do this by collecting and organising all the information needed to understand the whole problem, exploring it from all angles, and then finding the most appropriate solution for integration into a sustainable product life cycle. A Materials Process Engineer might typically work in either the problem definition or solution provider environments, making critical decisions in the process and utilities to produce high-quality, cost-effective parts and systems, then testing and accepting the designed solutions. They provide essential support to their associated businesses providing guidance and leadership in improving company metrics of quality, delivery, new product introduction and support key financial and business decisions.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with all departments within the companies they work for and at a range of levels within the departments depending on the project in which they are engaged. Their main focus will be with the Engineering team and they will also have strong links in support of the Operations team. However to fulfil many of the projects, links to finance, supply chain and customer support will be a day to day occurrence and as the activities broaden there will be strong communication to the wider external customer base both in a sales support activity and during technical project discussions.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for implementing new products and processes and for many cost reduction and process improvement initiatives. They have direct responsibility for defining the methods of manufacture of complex engineering systems and the asset base and services which are used to produce high value manufactured products. In many cases weekly and monthly reports will be required at both team level and to senior members of the company.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide variety of Thermal Process related fields including Casting, Forging, Machining, Coating, Heat treatment and Surface Finishing processes. These specialist areas are also found in a wide range of industries where materials and their processes are fundamental to the technology . Industries as diverse as Medical, Defence, Energy, Oil and Gas, Aerospace and Nuclear all incorporate the skills of Materials Process Engineers.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to perform a role which is unique to the materials/manufacturing community, controlling and managing the complex manufacturing processes and support services that are applied to products for the automotive, aerospace, medical, energy and construction sectors. They do this by collecting and organising all the information needed to understand the whole problem, exploring it from all angles, and then finding the most appropriate solution for integration into a sustainable product life cycle. A Materials Process Engineer might typically work in either the problem definition or solution provider environments, making critical decisions in the process and utilities to produce high-quality, cost-effective parts and systems, then testing and accepting the designed solutions. They provide essential support to their associated businesses providing guidance and leadership in improving company metrics of quality, delivery, new product introduction and support key financial and business decisions.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with all departments within the companies they work for and at a range of levels within the departments depending on the project in which they are engaged. Their main focus will be with the Engineering team and they will also have strong links in support of the Operations team. However to fulfil many of the projects, links to finance, supply chain and customer support will be a day to day occurrence and as the activities broaden there will be strong communication to the wider external customer base both in a sales support activity and during technical project discussions.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for implementing new products and processes and for many cost reduction and process improvement initiatives. They have direct responsibility for defining the methods of manufacture of complex engineering systems and the asset base and services which are used to produce high value manufactured products. In many cases weekly and monthly reports will be required at both team level and to senior members of the company.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "8a58b8c2-9406-4030-9e39-67741341a81b",
@@ -264,50 +275,28 @@
       "detail": "Correct use of product life cycle concepts"
     }
   ],
-  "options": [
-    {
-      "optionId": "dfd7a1dc-b5b6-4a8d-bf92-f4eafcd38e5d",
-      "title": " Casting"
-    },
-    {
-      "optionId": "8119ac85-7291-4446-b370-162a423b5a81",
-      "title": " Coatings"
-    },
-    {
-      "optionId": "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40",
-      "title": " Welding"
-    },
-    {
-      "optionId": "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce",
-      "title": " Brazing"
-    },
-    {
-      "optionId": "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3",
-      "title": " Heat Treatment"
-    },
-    {
-      "optionId": "8971cc3f-027c-498c-ad9c-557a3d4160ce",
-      "title": " Surface Treatment"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-03-22T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0010 ",
   "tbMainContact": "AWilliams@chromalloy.com",
   "involvedEmployers": "Chromalloy, Permastore Ltd, TRL9 Ltd, The Manufacturing Technology Centre, Turbine Surfaces Technology, Euspen, Siemens, Oerlikon Metco UK Ltd, Ashton and Moore Ltd, Praxair Surface Technologies Ltd, Rolls Royce, Pilkington (NSG) Group, Daido Metal Co Ltd, Wallwork Cambridge, Swinton Electroplating and SEA, Advance Forming Research Centre, Praxair Surface Technologies Ltd, NPL, Indestructible Paint Ltd, KH Consultancy, Crown Packaging Manufacturing UK Ltd, KTN, Poeton Industries, Hardide Coatings Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -325,56 +314,64 @@
     "Senior(domain specialist)",
     "Engineer e.g. Welding engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Engineering, Manufacturing, Process and Control",
   "cluster": "Plant and Process Engineer",
+  "clusterId": "266",
+  "clusterDescription": "Develop and improve the operation and development of manufacturing processes and systems and enable them to operate safely and efficiently",
   "createdDate": "2019-09-30T11:56:55 +00:00",
-  "lastUpdated": "2019-12-17T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-process-engineer-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-process-engineer-(degree)-v1-0",
+  "lastUpdated": "2024-10-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-03-22T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0659",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0659-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0659-v1-0",
   "qualifications": [
     {
-      "qualificationId": "",
+      "qualificationId": "7894d4c6-949c-4355-952c-ba1d7c294688",
       "title": "Manufacturing Technology and Management MSc",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Institute of Materials, Minerals and Mining ",
-      "level": "0",
+      "level": " C.Eng",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Institution of Mechanical Engineers ",
-      "level": "0",
+      "level": "C Eng",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Chartered Society of Designers",
-      "level": "0",
+      "level": "Chartered Designer",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Institute of Metal Finishing ",
-      "level": "0",
+      "level": " Chartered and Incorporated Engineers",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Institute of Cast Metal Engineers ",
-      "level": "0",
+      "level": "Chartered and Incorporated Engineers",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "NSIR",
-      "level": "0",
+      "level": "CEng",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -401,7 +398,7 @@
         "bd88ae32-6490-49f5-8344-6629029d58bf",
         "a1fd1c34-8d96-4c49-81ab-d282d03796e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -424,7 +421,7 @@
         "c983e4f0-5f87-436f-a373-518274285c1f",
         "658af487-b6cb-49a7-ae2d-8cceb23deca2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -452,7 +449,7 @@
         "9040a5c8-2067-4852-b6f2-9b8638da37f0",
         "12baf0df-470c-4480-8d78-2f31cefbacfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -479,7 +476,7 @@
         "b49d4266-66f6-415f-8eaa-784d46effda0",
         "5aa5f9d2-f6f8-4530-870a-fb559746c450"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -507,7 +504,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -531,7 +528,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "85add7dc-10dd-45e5-95be-8495833416b0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "38851139-519e-4da7-9e42-0e62d76a2e57",
@@ -559,7 +556,7 @@
         "5aa5f9d2-f6f8-4530-870a-fb559746c450",
         "7176098f-bd76-400e-8673-5460fad97df6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -585,7 +582,7 @@
         "12baf0df-470c-4480-8d78-2f31cefbacfe",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -613,7 +610,7 @@
         "b49d4266-66f6-415f-8eaa-784d46effda0",
         "5eef13b3-07de-40d5-a00f-660263c6fa26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -641,7 +638,7 @@
         "658af487-b6cb-49a7-ae2d-8cceb23deca2",
         "12baf0df-470c-4480-8d78-2f31cefbacfe"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -668,7 +665,7 @@
         "9040a5c8-2067-4852-b6f2-9b8638da37f0",
         "b49d4266-66f6-415f-8eaa-784d46effda0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -694,7 +691,7 @@
         "85add7dc-10dd-45e5-95be-8495833416b0",
         "5819f27b-20ce-42af-a514-b7f191333040"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "38851139-519e-4da7-9e42-0e62d76a2e57",
         "39fdacab-2399-4c96-97d0-e95b0884e66a",
@@ -723,7 +720,7 @@
         "f26c6efd-1960-40ff-9b13-749464014c14",
         "77a5f896-92be-42fe-9ec7-7c8676493a77"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "dc2d9284-5ba3-40c7-ad19-bf84f09805d0",
@@ -747,7 +744,7 @@
         "56d4e5a1-36b6-4346-8a2b-3b7ce958e3e7",
         "7864e1c7-96a4-464a-bd13-06f12feed9d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b"
       ],
@@ -769,7 +766,7 @@
         "12baf0df-470c-4480-8d78-2f31cefbacfe",
         "56d4e5a1-36b6-4346-8a2b-3b7ce958e3e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
         "8df90529-8738-4f7b-b02d-7f612e6ee1b9"
@@ -793,7 +790,7 @@
         "5819f27b-20ce-42af-a514-b7f191333040",
         "93da6787-91d8-4390-bea7-36cd566b53a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "022aaaa3-8279-4e7c-9183-cf1c0d3433a2",
         "bfc950f7-11dd-4bb7-a5bd-51abd7e0786b",
@@ -921,7 +918,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "8119ac85-7291-4446-b370-162a423b5a81"
       ],
@@ -984,7 +981,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40"
       ],
@@ -1047,7 +1044,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce"
       ],
@@ -1110,7 +1107,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3"
       ],
@@ -1173,7 +1170,7 @@
         "5f11fea3-c15e-4826-9b9b-ffb9e56f9d7d",
         "65de1480-01c1-4a41-800e-c85f42046233"
       ],
-      "mappedKnowledge": null,
+      "mappedKnowledge": [],
       "mappedOptions": [
         "8971cc3f-027c-498c-ad9c-557a3d4160ce"
       ],
@@ -1183,5 +1180,41 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "dfd7a1dc-b5b6-4a8d-bf92-f4eafcd38e5d",
+      "title": " Casting",
+      "occupationCode": "OCC0659B"
+    },
+    {
+      "optionId": "8119ac85-7291-4446-b370-162a423b5a81",
+      "title": " Coatings",
+      "occupationCode": "OCC0659C"
+    },
+    {
+      "optionId": "47cc1fc2-8b66-4cc0-bc24-45c5314a9e40",
+      "title": " Welding",
+      "occupationCode": "OCC0659F"
+    },
+    {
+      "optionId": "25ca94b5-e37f-4e18-8b97-1e77e83aa5ce",
+      "title": " Brazing",
+      "occupationCode": "OCC0659A"
+    },
+    {
+      "optionId": "67bf31a4-cd0a-4d43-96ca-5bfa4d4637e3",
+      "title": " Heat Treatment",
+      "occupationCode": "OCC0659D"
+    },
+    {
+      "optionId": "8971cc3f-027c-498c-ad9c-557a3d4160ce",
+      "title": " Surface Treatment",
+      "occupationCode": "OCC0659E"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-10-14T00:00:00"
 }
