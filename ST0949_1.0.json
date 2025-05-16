@@ -1,60 +1,591 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 663,
   "referenceNumber": "ST0949",
+  "learningAimClassCode": "",
   "title": "Applications support lead",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0949",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2021-11-19T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Provide tactical advice, training and support on core technology applications.",
   "level": 4,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 6,
+  "typicalDuration": 24,
+  "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "ICT",
+    "Digital",
+    "technology",
+    "applications",
+    "IT"
+  ],
+  "jobRoles": [
+    "Applications Analyst",
+    "Application Support Analyst"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2hrbyoih/st0949_application-support-lead_l4_ap-for-publication_20210818.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the IT teams of a variety of different types of organisations where software applications are inextricably part of the client/customer product/service delivery model and their clients/customers are generally, but not exclusively, business customers; these include but are not limited to law firms, accountancy firms, financial services organisations, technology providers and public sector.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide tactical advice, training and support on core technology applications (both hardware and software) to internal colleagues and external clients and customers to enhance and enable the delivery of application-based products and services. This includes any IT based environment providing a customer-facing service such as websites and mobile applications. An application support lead&#160; delivers the roll-out of upgrades to existing technologies, implement new technologies for use by colleagues and provide change management support to them. They will implement and operate a support desk function. They assist with the planning of IT application and infrastructure change projects, implementing, testing and rolling out software and hardware relating to these change projects. They will build, implement and support the creation of remote working environments and collaborative working platforms for colleagues and external clients and customers.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with senior stakeholders directly, both internally and externally, and as part of both the ‘front of house’ external client/customer facing team and the ‘back of house’ internal delivery team alongside, for example, learning and development and business information services colleagues. They report to IT service delivery leads but are expected to prioritise their workload and act without supervision or approval of their day-to-day work product.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for their own workload and will be expected to problem solve and prioritise independently. They will deliver a ‘first line fix’ service in many cases to both internal colleagues and external clients and customers. They will maintain ownership of issues (vis-a-vis the internal user/external client) even where elements are escalated to subject matter experts.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "53288c34-3358-42c4-9ac4-c2ca78ea435f",
+      "detail": "awareness of the legal requirements relating to the use of data as set out in the GDPR 2016/679 and the Data Protection Act 2018"
+    },
+    {
+      "knowledgeId": "1738a349-a402-42d0-98d2-ae7ac2604afa",
+      "detail": "awareness of the legal requirements related to the provision of application support services including the Malicious Communications Act 1988, the Copyright, Designs and Patents Act 1988, the Computer Misuse Act 1990, the Copyright (Computer Programs) Regulations 1992 and the Privacy and Electronic Communications (EC Directive) (Amendment) Regulations 2011"
+    },
+    {
+      "knowledgeId": "a34f9b75-a535-4f46-b62d-d6fec11252c1",
+      "detail": "organisational data and information security standards, policies and procedures relevant to data management activities"
+    },
+    {
+      "knowledgeId": "8f8f1b7c-f96f-4885-b048-916c14079f3a",
+      "detail": "the differences between structured and unstructured data"
+    },
+    {
+      "knowledgeId": "496e32ee-2204-4e46-bee1-85bb371c1b65",
+      "detail": "principal approaches to defining customer requirements for data analysis"
+    },
+    {
+      "knowledgeId": "0bddc5a8-3b11-4c57-814e-3d474b65528f",
+      "detail": "approaches to combining data from different sources"
+    },
+    {
+      "knowledgeId": "0c2bb1cb-cdc6-4283-9eb4-4ea615924876",
+      "detail": "approaches to data tools and methods for data analysis"
+    },
+    {
+      "knowledgeId": "e330c0b5-4b9e-4e52-90dd-fd900d957b81",
+      "detail": "how to use data ethically and the implications of data use for wider society"
+    },
+    {
+      "knowledgeId": "5725e825-6b25-4631-85b1-0e41a5b2a857",
+      "detail": "the principles and processes of the systems lifecycle, for example ITIL (IT Information Library)"
+    },
+    {
+      "knowledgeId": "3baee3cb-f3e1-4acf-b8e4-bf2c43f7d174",
+      "detail": "change and release management processes that support effective planning and implementation of system and application changes"
+    },
+    {
+      "knowledgeId": "b7f0d197-dc74-4286-ac5b-554e93638485",
+      "detail": "project management principles and processes, including the principle of Agile"
+    },
+    {
+      "knowledgeId": "121b9b6c-88de-48b9-80d2-aa286ab66ed2",
+      "detail": "remote working and collaborative platforms and tools, that are used by organisations for internal and external communications and digital working practices including approaches to usability and accessibility"
+    },
+    {
+      "knowledgeId": "654c3d17-fb15-4ed2-8c91-dbefd3240fbd",
+      "detail": "defect management processes"
+    },
+    {
+      "knowledgeId": "700d45b8-6e13-4cb9-873c-b9df92a04d0d",
+      "detail": "the distinction between the root cause of a defect and its effects"
+    },
+    {
+      "knowledgeId": "e901ccac-86ae-4453-b0cb-73c02c1394c6",
+      "detail": "principles of testing methodologies (manual and automated) including the importance of clear supporting documentation"
+    },
+    {
+      "knowledgeId": "22ab5328-4a70-4fc0-8470-c488abc1c241",
+      "detail": "the role of software testing within the context of project and product risk reduction in the systems development life cycle, including regression testing"
+    },
+    {
+      "knowledgeId": "17d58569-6677-4859-b25d-77616e251512",
+      "detail": "security vulnerabilities and approaches to security testing including penetration testing"
+    },
+    {
+      "knowledgeId": "6d18f6cd-4eae-47fe-bdf2-74c6d5cf6938",
+      "detail": "the process of transition from software development and testing into production and live support"
+    },
+    {
+      "knowledgeId": "933d913a-0ba8-48de-8cd1-e56dddbcb562",
+      "detail": "roles within a multidisciplinary team and the interfaces with other areas of an organisation"
+    },
+    {
+      "knowledgeId": "6e96e431-2c40-4a2c-92b5-b6d0523d3831",
+      "detail": "awareness of how their role fits into their stakeholders’ wider technology environment"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "fd0e2830-d570-4dbd-925e-ba2f2450e6d3",
+      "detail": "Works independently and takes responsibility. For example, has a disciplined and responsible approach to risk, and stays motivated and committed when facing challenges"
+    },
+    {
+      "behaviourId": "4940e0bd-2f41-49dd-a3ce-611376370454",
+      "detail": "Logical approach – uses valid reasoning and follows guidelines set out by the organisation "
+    },
+    {
+      "behaviourId": "122dc51d-a5fd-44d0-9c8f-6d1593187d51",
+      "detail": "Ethical and security mindset - follows the guidelines on secure working and the ethical codes of conduct for the sector/organisation’"
+    },
+    {
+      "behaviourId": "52500164-9f18-4ec9-a94c-6c47fd635167",
+      "detail": "Collaborative- works with a wide range of people in different roles, internally and externally, with a positive attitude to inclusion & diversity"
+    },
+    {
+      "behaviourId": "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d",
+      "detail": "Shows initiative for solving problems within their own remit, being resourceful when faced with a problem to solve. "
+    },
+    {
+      "behaviourId": "2398bce4-d1ae-41d1-9028-a3e2bab2620d",
+      "detail": "Innovative - shows curiosity to explore new opportunities, and techniques; the tenacity to improve methods and maximise performance of the solution; and creativity in their approach to solutions."
+    },
+    {
+      "behaviourId": "a6993d7c-2939-4815-abeb-59d4d8ad79f1",
+      "detail": "Committed to continued professional development of self and others."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "84c0a1fe-a7d4-4bf7-acf4-5acd3ed6755b",
+      "detail": "use data systems securely to meet requirements and in line with organisational procedures and legislation, including principles of Privacy by Design"
+    },
+    {
+      "skillId": "09e165a7-1836-4ae0-b945-9ae13be4648f",
+      "detail": "implement the stages of the application lifecycle ensuring that principles of usability and accessibility are embedded in the approach at every stage"
+    },
+    {
+      "skillId": "5f439cbe-9ebb-4bfc-b8c5-11650c05646b",
+      "detail": "assess the impact on user experience and domain context on the data analysis activity"
+    },
+    {
+      "skillId": "367d12ba-77de-4a56-8fc1-1295464947c3",
+      "detail": "communicate verbally and non-verbally to a range of internal and external stakeholders using a range of technical and non-technical language to provide an effective interface between internal or external users and suppliers"
+    },
+    {
+      "skillId": "2e2d52ac-099e-48dd-8032-468ef0522e92",
+      "detail": "take a ‘customer focused’ approach to service delivery, underpinned by active listening"
+    },
+    {
+      "skillId": "bafe9bbc-90f8-4045-bcab-8b59dd88a07d",
+      "detail": "adapt to changing contexts within the scope of a project and continually review project output to ensure alignment with customer and organisational needs for example within a DevOps environment"
+    },
+    {
+      "skillId": "59970e13-8370-46f3-8003-93ba4073fd65",
+      "detail": "collate and interpret data and convert into useable formats such as infographics, reports, tables, dashboards or graphs"
+    },
+    {
+      "skillId": "cbc3a256-d453-447d-a98a-f631e6eed073",
+      "detail": "select and apply the most appropriate data tools to deliver application support outcomes"
+    },
+    {
+      "skillId": "54784710-5995-4fe0-98cb-de92a40a7584",
+      "detail": "use manual or automated test tools"
+    },
+    {
+      "skillId": "ed32476e-fb24-495d-b2da-9664fbcd38a7",
+      "detail": "adapt and apply testing activities according to industry standard development methodologies (sequential and iterative) including maintenance of clear supporting documentation"
+    },
+    {
+      "skillId": "15550cce-70cb-49b7-a060-7782ab72339b",
+      "detail": "apply specific industry standards where appropriate (for example GDPR, health informatics and safety critical) related to software testing"
+    },
+    {
+      "skillId": "8d143d73-091a-488e-a6b2-f020c9bf6cae",
+      "detail": "use formal and informal techniques that will demonstrate software and systems are fit for purpose"
+    },
+    {
+      "skillId": "c2dca3f5-a23e-49d8-af4d-7eb6a8da2150",
+      "detail": "use relevant training methods to support internal and external stakeholders with core software applications and hardware ensuring that principles of usability and accessibility are embedded in the approach"
+    },
+    {
+      "skillId": "3b464591-93b5-4702-ab24-ab63e704280a",
+      "detail": "communicate applications support information by ensuring continuity of user understanding through use of training notes, user guides and other collateral sources"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0516",
-  "tbMainContact": "barry.matthews@meggitt.com, Tony.mckenna@howardkennedy.com",
-  "involvedEmployers": "",
+  "tbMainContact": "Barry.matthews@lexjamconsulting.com",
+  "involvedEmployers": "Fliplet UK\n\nHoward Kennedy\n\nkimbleapps\n\nLaw Society\n\nMacfarlanes\n\nMeggitt\n\nMex Technology\n\nMilbank LLP\n\nPwC\n\nReed Smith\n\nRoyal Sun Alliance\n\nSackers & Partners\n\nSlaughter and May\n\nWeightmans",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-06-26T10:46:31 +00:00",
-  "lastUpdated": "2020-06-26T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/applications-support-lead#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/applications-support-lead",
+  "typicalJobTitles": [
+    "Applications Analyst",
+    "Application Support Analyst"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Support and Services",
+  "cluster": "IT systems technician",
+  "clusterId": "188",
+  "clusterDescription": null,
+  "createdDate": "2021-08-20T12:14:01 +00:00",
+  "lastUpdated": "2021-11-19T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0949",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0949-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0949-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "4",
+      "level": "British Computer Society",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "c99c9e6d-bb7c-401b-abdb-60d596208c34",
+      "dutyDetail": "Maintain application support processes, for example developing workflow plans/technical specification road maps",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "52500164-9f18-4ec9-a94c-6c47fd635167"
+      ],
+      "mappedKnowledge": [
+        "a34f9b75-a535-4f46-b62d-d6fec11252c1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09e165a7-1836-4ae0-b945-9ae13be4648f",
+        "8d143d73-091a-488e-a6b2-f020c9bf6cae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "30b4f85b-4a1b-4a37-a3a8-85363c24a86e",
+      "dutyDetail": "Document and implement policy and procedures, for example on-boarding and leaver policies, and remote working procedures using a support desk operating platform",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0c2bb1cb-cdc6-4283-9eb4-4ea615924876"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "367d12ba-77de-4a56-8fc1-1295464947c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4f3cc9fb-eba7-425c-9954-816e92640289",
+      "dutyDetail": "Diagnose, resolve and recommend improvements to address hardware and software problems and compatibility issues experienced by external clients and customers, including liaison with third party vendors",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d",
+        "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
+      ],
+      "mappedKnowledge": [
+        "0c2bb1cb-cdc6-4283-9eb4-4ea615924876"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "59970e13-8370-46f3-8003-93ba4073fd65"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3a49edfe-2ff8-4e67-99b0-f22253aeefd9",
+      "dutyDetail": "Lead and manage upgrades and new technology implementations taking opportunities to speed up deployment through automation and process efficiency",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4940e0bd-2f41-49dd-a3ce-611376370454"
+      ],
+      "mappedKnowledge": [
+        "17d58569-6677-4859-b25d-77616e251512"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "15550cce-70cb-49b7-a060-7782ab72339b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b7e78718-d094-4f70-b98b-fb26d7bb736f",
+      "dutyDetail": "Monitor systems performance, investigate issues, collect performance statistics and create reports using application management software and tools",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4940e0bd-2f41-49dd-a3ce-611376370454",
+        "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d"
+      ],
+      "mappedKnowledge": [
+        "8f8f1b7c-f96f-4885-b048-916c14079f3a",
+        "496e32ee-2204-4e46-bee1-85bb371c1b65"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "54784710-5995-4fe0-98cb-de92a40a7584",
+        "ed32476e-fb24-495d-b2da-9664fbcd38a7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26b60a38-2989-4502-bf17-f54c9b0bc50a",
+      "dutyDetail": "Provide first fix unassisted strategic technical advice both in person or with remote desktop support tools by using the correct tool to provide analysis, diagnosis and resolution.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fd0e2830-d570-4dbd-925e-ba2f2450e6d3"
+      ],
+      "mappedKnowledge": [
+        "5725e825-6b25-4631-85b1-0e41a5b2a857"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09e165a7-1836-4ae0-b945-9ae13be4648f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad2e1fbd-94c1-4b68-bb58-184e670ff904",
+      "dutyDetail": "Categorise and prioritise incoming applications support requests",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4940e0bd-2f41-49dd-a3ce-611376370454"
+      ],
+      "mappedKnowledge": [
+        "0bddc5a8-3b11-4c57-814e-3d474b65528f",
+        "e330c0b5-4b9e-4e52-90dd-fd900d957b81"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5f439cbe-9ebb-4bfc-b8c5-11650c05646b",
+        "15550cce-70cb-49b7-a060-7782ab72339b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e8bfc9f-1099-4ce2-8375-da513d8555dd",
+      "dutyDetail": "Monitor systems and software cycles to identify need for upgrades and patching with timely deployment  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "fd0e2830-d570-4dbd-925e-ba2f2450e6d3"
+      ],
+      "mappedKnowledge": [
+        "5725e825-6b25-4631-85b1-0e41a5b2a857"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "09e165a7-1836-4ae0-b945-9ae13be4648f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "74b95bc6-5c03-441c-b1c9-f194e0b49c7f",
+      "dutyDetail": "Identify trends and solve systemic issues using analytical tools. Work alongside the support team to address systemic issues, involving relevant in-house teams or third-party vendors where necessary",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "122dc51d-a5fd-44d0-9c8f-6d1593187d51",
+        "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
+      ],
+      "mappedKnowledge": [
+        "5725e825-6b25-4631-85b1-0e41a5b2a857"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "367d12ba-77de-4a56-8fc1-1295464947c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4023dc2e-358e-47c4-a9dc-606781fe9b48",
+      "dutyDetail": "Ensure that all requests for application support are dealt with according to agreed framework and procedures, recommending and implementing support team improvements  where necessary.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "3baee3cb-f3e1-4acf-b8e4-bf2c43f7d174"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2e2d52ac-099e-48dd-8032-468ef0522e92"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "931d240e-1e88-4739-8c08-2b7d317b6e8a",
+      "dutyDetail": "Co-create and deliver training to colleagues, clients and customers  of all levels of seniority, working with learning and development colleagues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "52500164-9f18-4ec9-a94c-6c47fd635167",
+        "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
+      ],
+      "mappedKnowledge": [
+        "6d18f6cd-4eae-47fe-bdf2-74c6d5cf6938"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3b464591-93b5-4702-ab24-ab63e704280a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4fe2982e-1cb0-444f-9b1e-2c9b1175772e",
+      "dutyDetail": "Identify how services will be delivered to clients/customers including use of technology, process and individual delivery responsibilities, working as part of the external client delivery team (with direct influence over the chosen solution) alongside commercial colleagues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "17d58569-6677-4859-b25d-77616e251512"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "367d12ba-77de-4a56-8fc1-1295464947c3",
+        "3b464591-93b5-4702-ab24-ab63e704280a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9531f9d1-5f46-4850-80f5-859540fb8ef3",
+      "dutyDetail": "Liaise with internal compliance and, in some instances, regulators to provide data to such regulators in accordance with the employer organisation’s compliance obligations",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "53288c34-3358-42c4-9ac4-c2ca78ea435f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84c0a1fe-a7d4-4bf7-acf4-5acd3ed6755b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7500b62-359d-40df-b63a-c44ec72da80b",
+      "dutyDetail": "Ensure work product complies with applicable regulation and legislation including data privacy, cyber security and anti-money laundering laws",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
+      ],
+      "mappedKnowledge": [
+        "1738a349-a402-42d0-98d2-ae7ac2604afa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "84c0a1fe-a7d4-4bf7-acf4-5acd3ed6755b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d9f22510-48f3-4bc5-998f-75251a9d55f3",
+      "dutyDetail": "Devise plans to implement and improve IT infrastructure and application change projects, for example, identifying organisational need for new applications and design and development of existing applications.  Accepting ownership of changes that embody the DevOps culture with focus on user experience.   Create project plans and assume or designate project management responsibilities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2398bce4-d1ae-41d1-9028-a3e2bab2620d"
+      ],
+      "mappedKnowledge": [
+        "700d45b8-6e13-4cb9-873c-b9df92a04d0d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bafe9bbc-90f8-4045-bcab-8b59dd88a07d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8a0b5edf-33ac-4efc-be36-2f17994114cd",
+      "dutyDetail": "Lead and manage the physical implementation of software (including updates/upgrades) and hardware relating to IT infrastructure (including routine back up processes of data) and application change projects directly with colleagues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "e901ccac-86ae-4453-b0cb-73c02c1394c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2dca3f5-a23e-49d8-af4d-7eb6a8da2150"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "29327e05-9e7a-4d6c-97d3-a7620632f905",
+      "dutyDetail": "Conduct software and hardware testing relating to IT infrastructure and application change projects, for example FAT (Factory Acceptance Testing) SAT (Site Acceptance Testing) and UAT (User Acceptance Testing)",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "52500164-9f18-4ec9-a94c-6c47fd635167"
+      ],
+      "mappedKnowledge": [
+        "654c3d17-fb15-4ed2-8c91-dbefd3240fbd",
+        "22ab5328-4a70-4fc0-8470-c488abc1c241"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "59970e13-8370-46f3-8003-93ba4073fd65"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b9e2547f-9643-400b-93e0-8d61d6207fce",
+      "dutyDetail": "Provide first line ‘day 1 go-live’ floorwalking and deskside support to colleagues in respect of IT infrastructure and application change projects",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0b101a32-e6f5-4940-9bac-eb0ecd67bf7d"
+      ],
+      "mappedKnowledge": [
+        "933d913a-0ba8-48de-8cd1-e56dddbcb562"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "367d12ba-77de-4a56-8fc1-1295464947c3",
+        "3b464591-93b5-4702-ab24-ab63e704280a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a636950b-021f-401c-a0fe-fc69c4c4b7d7",
+      "dutyDetail": "Build, implement and support the creation of remote working environments and collaborative working platforms for colleagues and external clients and customers",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b7f0d197-dc74-4286-ac5b-554e93638485",
+        "121b9b6c-88de-48b9-80d2-aa286ab66ed2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cbc3a256-d453-447d-a98a-f631e6eed073"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92f697f4-68f9-442e-bc6f-664921cb054b",
+      "dutyDetail": "Practise continuous self-learning to keep up to date with technological developments to enhance relevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a6993d7c-2939-4815-abeb-59d4d8ad79f1"
+      ],
+      "mappedKnowledge": [
+        "6e96e431-2c40-4a2c-92b5-b6d0523d3831"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-11-19T00:00:00"
 }
