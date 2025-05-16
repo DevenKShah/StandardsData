@@ -1,0 +1,863 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 281,
+  "referenceNumber": "ST0493",
+  "learningAimClassCode": "",
+  "title": "Podiatrist",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0493",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.3",
+  "change": "Standard, end-point assessment plan and funding band have been revised but funding remains the same.",
+  "changedDate": "2023-09-01T00:00:00",
+  "earliestStartDate": "2023-09-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Diagnose and treat foot, ankle and leg problems.",
+  "level": 6,
+  "ePALength": 0,
+  "typicalDuration": 48,
+  "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "podiatrist",
+    "degree",
+    "feet",
+    "diagnose",
+    "foot",
+    "ankle",
+    "leg",
+    "nursing",
+    "medicine"
+  ],
+  "jobRoles": [
+    "Podiatrist"
+  ],
+  "entryRequirements": "&lt;p&gt;Typically 3 A levels, a BTEC National Extended Diploma or equivalent access qualification&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/ln3ozqdr/st0493_podiatrist_l6_stat_integrated_epa_for-publication_06072023.pdf",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
+  "version": "1.3",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Podiatrists (also known as chiropodists) are registered healthcare professionals who specialise in the lower limb (feet, ankles, legs), and provide high quality clinical care to people of all ages. A podiatrist’s job is to provide preventative advice, care, assessment, diagnosis and treatment of a range of problems affecting the lower limb. Keeping mobile and retaining independence affects the quality of people’s lives. Podiatrists aim to reduce the impact of disability and dysfunction and support rehabilitation.&lt;/p&gt;\n&lt;p&gt;They play a pivotal part in reducing the risk of amputation, infection, pain, deformity and hospital admissions. They will undertake a range of podiatry interventions including wound care, routine skin and nail care, nail surgery, scalpel work, or care for long term conditions.&lt;/p&gt;\n&lt;p&gt;They provide musculoskeletal assessment covering force management to help maintain tissue viability together with foot and ankle pain.&lt;span&gt;&#160;&lt;/span&gt;They instigate a treatment plan to improve or enhance movement or reduce pain. They also prescribe functional insoles for the management of foot / lower limb conditions together with gait re-education where indicated.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "feace981-6d0b-4ae0-8c6c-a5e81d9c327f",
+      "detail": "The importance of continuing professional development throughout own career."
+    },
+    {
+      "knowledgeId": "ca52051c-8cb9-49ca-a946-5901bd45b9f5",
+      "detail": "The importance of safeguarding, signs of abuse and relevant safeguarding processes."
+    },
+    {
+      "knowledgeId": "de1b54eb-0984-4f7e-b254-1526fbce3692",
+      "detail": "What is required of them by the Health and Care Professions Council, including but not limited to the Standards of conduct, performance and ethics."
+    },
+    {
+      "knowledgeId": "749feca4-68c8-482e-a731-a9acf84325b8",
+      "detail": "That relationships with service users, carers and others should be based on mutual respect and trust."
+    },
+    {
+      "knowledgeId": "4cda75de-8e04-4cd7-849e-0af008bc0042",
+      "detail": "The importance of valid consent."
+    },
+    {
+      "knowledgeId": "35f07535-881e-4373-a31f-304012cbe67c",
+      "detail": "The importance of capacity in the context of delivering care and treatment."
+    },
+    {
+      "knowledgeId": "833502f1-9c65-495e-8dd2-f533dfc50fbf",
+      "detail": "The scope of a professional duty of care."
+    },
+    {
+      "knowledgeId": "5b53ce18-f315-4c56-9ea5-ff05feb605a1",
+      "detail": "Legislation, policies and guidance relevant to own profession and scope of practice."
+    },
+    {
+      "knowledgeId": "912527c9-4377-4293-9601-83608264f5e1",
+      "detail": "The importance of own mental and physical health and wellbeing strategies in maintaining fitness to practise."
+    },
+    {
+      "knowledgeId": "b54d5aa3-9870-4441-bd2a-3898e59a9bf0",
+      "detail": "How to take appropriate action if own health may affect own ability to practise safely and effectively, including seeking help and support when necessary."
+    },
+    {
+      "knowledgeId": "c010f686-9dde-4564-9d46-7de39fc8a7b9",
+      "detail": "The need for active participation in training, supervision and mentoring in supporting high standards of practice, and personal and professional conduct, and the importance of demonstrating this in practice."
+    },
+    {
+      "knowledgeId": "2075fd64-f671-4f91-bef6-d350814bacb6",
+      "detail": "Equality legislation and how to apply it to own practice."
+    },
+    {
+      "knowledgeId": "72dfffab-7ea9-4002-a212-95d42cc263a4",
+      "detail": "The duty to make reasonable adjustments in practice."
+    },
+    {
+      "knowledgeId": "e4da2a97-dc1d-4359-bb02-2edc6e18c56f",
+      "detail": "The characteristics and consequences of barriers to inclusion, including for socially isolated groups."
+    },
+    {
+      "knowledgeId": "724e86a8-0274-45f0-9ea0-17f733b1ebe7",
+      "detail": "That regard to equality, diversity and inclusion needs to be embedded in the application of all HCPC standards and across all areas of practice."
+    },
+    {
+      "knowledgeId": "9cb1d287-a857-4908-9d4f-2979c5677bd6",
+      "detail": "When disclosure of confidential information may be required."
+    },
+    {
+      "knowledgeId": "4a05dd0b-40e5-4425-a66b-7d763aab60ba",
+      "detail": "The principles of information and data governance and be aware of the safe and effective use of health, social care and other relevant information."
+    },
+    {
+      "knowledgeId": "e2f08b3a-e527-4a67-85d5-4f5022b1d40f",
+      "detail": "The need to ensure confidentiality is maintained in all situations in which service users rely on additional communication support, such as interpreters or translators."
+    },
+    {
+      "knowledgeId": "38147197-7bea-4ad3-a1fb-2e246a13f435",
+      "detail": "That the concepts of confidentiality and informed consent extend to all mediums, including illustrative clinical records such as photography, video and audio recordings and digital platforms."
+    },
+    {
+      "knowledgeId": "98232317-3e85-4d20-9434-3720e7aebddc",
+      "detail": "The characteristics and consequences of verbal and non-verbal communication and how these can be affected by difference of any kind including, but not limited to, protected characteristics, intersectional experiences and cultural differences."
+    },
+    {
+      "knowledgeId": "5e9367e6-e697-446a-a842-c628602ea6ab",
+      "detail": "The need to support the communication needs of service users and carers, such as through the use of an appropriate interpreter."
+    },
+    {
+      "knowledgeId": "ad7c1d90-e0b0-46bb-8f7a-e098df4aafb4",
+      "detail": "The need to provide service users or people acting on own behalf with the information necessary in accessible formats to enable them to make informed decisions."
+    },
+    {
+      "knowledgeId": "d197fbde-9f50-4772-ae0e-79dcb2fe2af6",
+      "detail": "The need to empower service users to manage own foot health and related issues."
+    },
+    {
+      "knowledgeId": "65ce9db9-7503-4acc-bc78-c708757b800e",
+      "detail": "The principles and practices of other health and care professionals and systems and how they interact with their own profession."
+    },
+    {
+      "knowledgeId": "33427b60-79de-4e18-86ed-d8d8fed0d644",
+      "detail": "The need to build and sustain professional relationships as both an autonomous practitioner and collaboratively as a member of a team."
+    },
+    {
+      "knowledgeId": "b7069ee5-60fe-4a53-b116-a6bd850d9786",
+      "detail": "The qualities, behaviours and benefits of leadership."
+    },
+    {
+      "knowledgeId": "6e4200de-60dc-4cec-a553-eabd0c1819fb",
+      "detail": "That leadership is a skill all professionals can demonstrate."
+    },
+    {
+      "knowledgeId": "8b36d4a1-4499-474d-8c5a-0325cbeed6e6",
+      "detail": "The need to engage service users and carers in planning and evaluating diagnostics, and therapeutic interventions to meet their needs and goals."
+    },
+    {
+      "knowledgeId": "133e77d4-9cf2-425a-a624-c524ba6969f7",
+      "detail": "The value of reflective practice and the need to record the outcome of such reflection to support continuous improvement."
+    },
+    {
+      "knowledgeId": "b4bfcd74-3770-4d29-b858-59117013ea4b",
+      "detail": "The value of multi-disciplinary reviews, case conferences and other methods of review."
+    },
+    {
+      "knowledgeId": "fed334c6-8fda-4251-a881-e9cca319fee1",
+      "detail": "The value of gathering and using data for quality assurance and improvement programmes."
+    },
+    {
+      "knowledgeId": "f317ea16-e731-429b-9857-71c82b54b291",
+      "detail": "The structure and function of the human body, together with knowledge of physical and mental health, disease, disorder and dysfunction relevant to their profession."
+    },
+    {
+      "knowledgeId": "19e16dbe-3f8e-4843-9621-414f37789659",
+      "detail": "The role(s) of other professions in health and social care and how they may relate to the role of chiropodist/podiatrist."
+    },
+    {
+      "knowledgeId": "729b5972-1cf4-406e-8644-806157751454",
+      "detail": "The structure and function of health, care and social care systems and services in the UK."
+    },
+    {
+      "knowledgeId": "8ecf6ae4-229e-4589-8189-1300f6a158d3",
+      "detail": "The theoretical basis of, and the variety of approaches to assessment and intervention."
+    },
+    {
+      "knowledgeId": "52f07902-02a8-4aec-8d17-cb2840eef40e",
+      "detail": "In the context of chiropody and podiatry:– anatomy and human locomotion– behavioural sciences – foot health promotion, education and support– histology– immunology – pharmacology – physiology – psychology– podiatric orthopaedics and biomechanics – podiatric therapeutic sciences – local pathology."
+    },
+    {
+      "knowledgeId": "5d5993b0-187a-4f1b-bcda-ec0ba027b1dc",
+      "detail": "A range of research methodologies relevant to their role."
+    },
+    {
+      "knowledgeId": "d6742b1a-2a99-4eef-a9d5-60bda6427d7e",
+      "detail": "The value of research to the critical evaluation of practice."
+    },
+    {
+      "knowledgeId": "5a2c5100-3e42-4e58-9b63-171249a6a54f",
+      "detail": "The need to maintain the safety of themself and others, including service users, carers and colleagues."
+    },
+    {
+      "knowledgeId": "c9519eef-73a0-4839-bed4-6c61f420b83e",
+      "detail": "Relevant health and safety legislation and local operational procedures and policies."
+    },
+    {
+      "knowledgeId": "cf6a3515-aff5-4d35-b6d6-3e10a4f4e7ce",
+      "detail": "Appropriate moving and handling techniques."
+    },
+    {
+      "knowledgeId": "b121f993-da5f-4c3b-b1af-ae8a5a3aeae2",
+      "detail": "The correct principles and applications of disinfectants, methods for sterilisation and decontamination, and for dealing with waste and spillages."
+    },
+    {
+      "knowledgeId": "940e3768-cdba-4557-b48c-0d485fac03e8",
+      "detail": "The role of the profession in health promotion, health education and preventing ill health."
+    },
+    {
+      "knowledgeId": "1108e808-f6ec-417b-a09e-5f6b783379a7",
+      "detail": "How social, economic and environmental factors (wider determinants of health) can influence a person’s health and well-being."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "61be9d75-62ea-4507-baaf-78bee61ec01a",
+      "detail": "Treat people with dignity, respecting individual's diversity, beliefs, culture, needs, values, privacy and preferences."
+    },
+    {
+      "behaviourId": "cdc6d90f-f166-4233-9e0a-a5416c2640eb",
+      "detail": "Show respect and empathy for those you work with, have the courage to challenge areas of concern and work to evidence based best practice."
+    },
+    {
+      "behaviourId": "57d34829-6bbb-4895-a4c2-9094346296e1",
+      "detail": "Be adaptable, reflective, reliable and consistent, show discretion, resilience, self-awareness and demonstrate leadership."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "8b6c8331-e585-4a71-8f8d-357287428b5f",
+      "detail": "Identify the limits of own practice and when to seek advice or refer to another professional or service."
+    },
+    {
+      "skillId": "004604ca-b7b7-4833-9f56-a54db5ab4972",
+      "detail": "Recognise the need to manage own workload and resources safely and effectively, including managing the emotional burden that comes with working in a pressured environment."
+    },
+    {
+      "skillId": "24d2af5d-a26b-41d3-b360-ff8ae907c8df",
+      "detail": "Keep own skills and knowledge up to date."
+    },
+    {
+      "skillId": "4094cb69-e2b3-47b6-9708-0a157f35892a",
+      "detail": "Maintain high standards of personal and professional conduct."
+    },
+    {
+      "skillId": "f69e57ad-c65e-400f-aefa-8fc55c344d39",
+      "detail": "Engage in safeguarding processes where necessary."
+    },
+    {
+      "skillId": "6dc76a99-b79f-45e5-b109-d2d7882f2a32",
+      "detail": "Promote and protect the service user’s interests at all times."
+    },
+    {
+      "skillId": "1dd7b9d9-eaf5-4696-afcc-ceb1485c02c6",
+      "detail": "Respect and uphold the rights, dignity, values, and autonomy of service users, including own role in the assessment, diagnostic, treatment and/or therapeutic process."
+    },
+    {
+      "skillId": "851a6f1f-c561-41f8-b8e3-a163b259e9e6",
+      "detail": "Maintain high standards of care in all circumstances."
+    },
+    {
+      "skillId": "c3cfbcda-f957-459e-9e08-bc075abdbe29",
+      "detail": "Obtain valid consent, which is voluntary and informed, has due regard to capacity, is proportionate to the circumstances and is appropriately documented."
+    },
+    {
+      "skillId": "a42914d4-c85b-4b30-a89c-702a9791b6eb",
+      "detail": "Exercise a duty of care."
+    },
+    {
+      "skillId": "2bdc4297-7d50-421e-81a1-47409294ee1f",
+      "detail": "Apply legislation, policies and guidance relevant to own profession and scope of practice."
+    },
+    {
+      "skillId": "416d26b1-f310-4407-a3f3-8256eaaebf9e",
+      "detail": "Recognise the power imbalance which comes with being a health care professional, and ensure it is not used for personal gain."
+    },
+    {
+      "skillId": "f10ace85-3437-4af7-bdda-9b16a51ac5d2",
+      "detail": "Identify own anxiety and stress and recognise the potential impact on own practice."
+    },
+    {
+      "skillId": "1cab2e3c-d634-4eea-9204-6eed8234a940",
+      "detail": "Develop and adopt clear strategies for physical and mental self-care and self-awareness, to maintain a high standard of professional effectiveness and a safe working environment."
+    },
+    {
+      "skillId": "bb9471cb-aefa-43b4-82d5-e656fe950033",
+      "detail": "Recognise that they are personally responsible for, and must be able to, justify their decisions and actions."
+    },
+    {
+      "skillId": "d651caa1-ba81-490a-bd0d-64a5e728e08a",
+      "detail": "Use own skills, knowledge and experience, and the information available, to make informed decisions and / or take action where necessary."
+    },
+    {
+      "skillId": "0dd2aa72-5905-46e0-908b-39998ef76ce7",
+      "detail": "Make reasoned decisions to initiate, continue, modify or cease treatment or the use of techniques or procedures, and record the decisions and reasoning appropriately."
+    },
+    {
+      "skillId": "b82604e4-b1c7-4095-9468-9777286764bf",
+      "detail": "Make and receive appropriate referrals, where necessary."
+    },
+    {
+      "skillId": "9d90a3fb-b21e-4c49-8b13-011a1c728a75",
+      "detail": "Exercise personal initiative."
+    },
+    {
+      "skillId": "903b0b9c-e021-4f8e-8e2d-1cbc8f261e7b",
+      "detail": "Demonstrate a logical and systematic approach to problem solving."
+    },
+    {
+      "skillId": "9a722d0e-8acd-4fff-ace4-e8663dac4590",
+      "detail": "Use research, reasoning and problem-solving skills when determining appropriate actions."
+    },
+    {
+      "skillId": "4a98fe64-9665-434b-b01b-b337101624ab",
+      "detail": "Respond appropriately to the needs of all different groups and individuals in practice, recognising this can be affected by difference of any kind including, but not limited to, protected characteristics, intersectional experiences and cultural differences."
+    },
+    {
+      "skillId": "ac5a5c80-4424-4802-a42c-e4d3ec06c66e",
+      "detail": "Recognise the potential impact of own values, beliefs and personal biases (which may be unconscious) on practice and take personal action to ensure all service users and carers are treated appropriately with respect and dignity."
+    },
+    {
+      "skillId": "95cf9c21-b34c-4f5c-84a2-221a5ee99acf",
+      "detail": "Make and support reasonable adjustments in owns and others’ practice."
+    },
+    {
+      "skillId": "4c7ceed9-4a5c-4b56-befd-9566a002d991",
+      "detail": "Actively challenge barriers to inclusion, supporting the implementation of change wherever possible."
+    },
+    {
+      "skillId": "162d80ea-97a5-4914-9a02-2f2ed5ba021a",
+      "detail": "Adhere to the professional duty of confidentiality."
+    },
+    {
+      "skillId": "69d167ff-1245-4966-8b62-2dcb3c62e4a0",
+      "detail": "Recognise and respond in a timely manner to situations where it is necessary to share information to safeguard service users, carers and/or the wider public and recognise situations where it is necessary to share information to safeguard service users, carers and/or the wider public."
+    },
+    {
+      "skillId": "b76de25b-e0a5-452e-8632-07ba014ff413",
+      "detail": "Use effective and appropriate verbal and non-verbal skills to communicate with service users, carers, colleagues and others."
+    },
+    {
+      "skillId": "e5225b8c-93b0-43d5-8974-2d6fdaa4ef13",
+      "detail": "Communicate in English to the required standard for the profession."
+    },
+    {
+      "skillId": "53e0be1a-19db-4001-853b-b50da56c7690",
+      "detail": "Work with service users and / or own carers to facilitate the service user’s preferred role in decision-making, and provide service users and carers with the information they may need where appropriate."
+    },
+    {
+      "skillId": "4a5bd541-1633-4fe9-a4e4-93f8e91db4ea",
+      "detail": "Modify own means of communication to address the individual communication needs and preferences of service users and carers, and remove any barriers to communication where possible."
+    },
+    {
+      "skillId": "d0feeef9-2dc8-4b3b-8a84-a298a01d2566",
+      "detail": "Use information, communication and digital technologies appropriate to own practice."
+    },
+    {
+      "skillId": "ca2e4eef-6d9f-4af6-a686-4e7c7b01af27",
+      "detail": "Recognise the need to provide advice to the service user on self-treatment where appropriate."
+    },
+    {
+      "skillId": "9a085256-77f3-4cdd-9679-eeb98308e952",
+      "detail": "Keep full, clear and accurate records in accordance with applicable legislation, protocols and guidelines."
+    },
+    {
+      "skillId": "9aa801dd-e352-4e19-ba40-f7e33b2d02f9",
+      "detail": "Manage records and all other information in accordance with applicable legislation, protocols and guidelines."
+    },
+    {
+      "skillId": "c008f0e0-8e96-4b4c-a1ea-5fc76a453806",
+      "detail": "Use digital record keeping tools, where required."
+    },
+    {
+      "skillId": "897fd610-2c97-40a4-9c9b-e401c43b6150",
+      "detail": "Work in partnership with service users, carers, colleagues and others."
+    },
+    {
+      "skillId": "0018a95f-a529-4e60-bc99-0ace124692df",
+      "detail": "Contribute effectively to work undertaken as part of a multi-disciplinary team."
+    },
+    {
+      "skillId": "4a91f033-99c4-4a70-b900-2ce850156ae4",
+      "detail": "Identify anxiety and stress in service users, carers and colleagues, adapting own practice and providing support where appropriate."
+    },
+    {
+      "skillId": "d61c959d-7bed-4ee1-8d09-d38f0ac27a94",
+      "detail": "Identify own leadership qualities, behaviours and approaches, taking into account the importance of equality, diversity and inclusion."
+    },
+    {
+      "skillId": "304f0782-3e88-4149-9eec-544e980179c3",
+      "detail": "Demonstrate leadership behaviours appropriate to own practice."
+    },
+    {
+      "skillId": "51756836-5e74-48be-9b48-41b7b3ebc9e2",
+      "detail": "Act as a role model for others."
+    },
+    {
+      "skillId": "85bb6f4f-5b79-47df-ac2d-f2ebc82ba1f1",
+      "detail": "Promote and engage in the learning of others."
+    },
+    {
+      "skillId": "f33161d0-644c-46f7-a7e5-3303c3d9752d",
+      "detail": "Engage in evidence-based practice."
+    },
+    {
+      "skillId": "dc43c51b-2448-451e-a807-878841b026ab",
+      "detail": "Gather and use feedback and information, including qualitative and quantitative data, to evaluate the responses of service users to own care."
+    },
+    {
+      "skillId": "df502665-1b66-4ed6-aed8-67c6ef8d238a",
+      "detail": "Monitor and systematically evaluate the quality of practice, and maintain an effective quality management and quality assurance process working towards continual improvement."
+    },
+    {
+      "skillId": "9d118735-e389-4a03-bd1a-30c6b515af50",
+      "detail": "Participate in quality management, including quality control, quality assurance, clinical governance and the use of appropriate outcome measures."
+    },
+    {
+      "skillId": "a4b1b795-d412-4ef4-96df-4467cf2cecaa",
+      "detail": "Evaluate care plans or intervention plans using recognised and appropriate outcome measures, in conjunction with the service user where possible, and revise the plans as necessary."
+    },
+    {
+      "skillId": "38f57422-a328-4834-8a42-15bb323fa8f8",
+      "detail": "Demonstrate awareness of the principles and applications of scientific enquiry, including the evaluation of treatment efficacy and the research process."
+    },
+    {
+      "skillId": "c1b711d4-425b-4f8c-9ab5-e57953e1b6d8",
+      "detail": "Use a variety of approaches to assessment and intervention in practice."
+    },
+    {
+      "skillId": "4eb7512b-14b1-4dc1-b03b-9d205053191c",
+      "detail": "Change own practice as needed to take account of new developments, technologies and changing contexts."
+    },
+    {
+      "skillId": "adbd493a-0e31-481c-b0f2-589f6c14b585",
+      "detail": "Gather appropriate information."
+    },
+    {
+      "skillId": "7096c891-bef0-4f32-9bde-999b27f38a79",
+      "detail": "Analyse and critically evaluate the information collected."
+    },
+    {
+      "skillId": "f0712e66-820a-4f26-8e77-9c87341db6f1",
+      "detail": "Select and use appropriate assessment techniques and equipment."
+    },
+    {
+      "skillId": "c811f8d4-0114-4240-b493-03947cf00892",
+      "detail": "Undertake and record a thorough, sensitive, and detailed assessment."
+    },
+    {
+      "skillId": "76b81e2a-e179-416e-8008-4c4dc6b2be07",
+      "detail": "Undertake or arrange investigations as appropriate."
+    },
+    {
+      "skillId": "d47b8889-36ec-4544-9c73-e6ff69ba09d6",
+      "detail": "Conduct appropriate assessment or monitoring procedures, treatment, therapy or other actions safely and effectively."
+    },
+    {
+      "skillId": "ed4b340f-9253-40a3-bf3e-8478d9bbcf2b",
+      "detail": "Critically evaluate research and other evidence to inform own practice."
+    },
+    {
+      "skillId": "41b1ba05-cd77-48a9-a666-dba8e27ac564",
+      "detail": "Engage service users in research as appropriate."
+    },
+    {
+      "skillId": "704df6ec-e1f8-478c-96f7-a26044441f0c",
+      "detail": "Formulate specific and appropriate management plans including the setting of timescales."
+    },
+    {
+      "skillId": "a3e43ed7-1a1d-47b5-b08d-3f5ebf3d0985",
+      "detail": "Conduct neurological, vascular, biomechanical, dermatological and podiatric assessments in the context of chiropody and podiatry."
+    },
+    {
+      "skillId": "01bc9385-182e-475e-a171-25ad356d0332",
+      "detail": "Use a systematic approach to formulate and test a preferred diagnosis."
+    },
+    {
+      "skillId": "aeff648f-0704-4125-8d69-10c0c7e620fa",
+      "detail": "Use basic life support skills and to deal safely with clinical emergencies."
+    },
+    {
+      "skillId": "243b98f4-b4b7-47c6-8e14-594a5827ad5b",
+      "detail": "Interpret the signs and symptoms of systemic disorders as they manifest in the lower limb and foot with particular reference to cardiovascular disorders, dermatological disorders, developmental disorders, diabetes mellitus, infections, malignancy, neurological disorders, renal disorders, rheumatoid arthritis and other arthropathies."
+    },
+    {
+      "skillId": "6bf492b9-311f-45c6-a47b-7b1f28b3cba2",
+      "detail": "Carry out the following techniques safely and effectively: – administer relevant prescription only medicines, interpret any relevant pharmacological history and recognise potential consequences for service user treatment – apply local anaesthesia techniques – carry out suitable or relevant debridement of intact and ulcerated skin – carry out surgical procedures for skin and nail conditions – make and use chair-side foot orthoses – manage dermatological and nail disorders – prescribe foot orthoses – use appropriate physical and chemical therapies."
+    },
+    {
+      "skillId": "21c36d47-861a-49ad-bc4e-de9ea8c73f15",
+      "detail": "Demonstrate awareness of relevant health and safety legislation and comply with all local operational procedures and policies."
+    },
+    {
+      "skillId": "7d85df75-ee83-4f5d-9bb7-25bf36f2defa",
+      "detail": "Work safely, including being able to select appropriate hazard control and risk management, reduction or elimination techniques in a safe manner and in accordance with health and safety legislation."
+    },
+    {
+      "skillId": "396be539-8238-41bd-9c65-c056e6e06977",
+      "detail": "Select appropriate personal protective equipment and use it correctly."
+    },
+    {
+      "skillId": "1a3f0f6e-7b7b-49e3-a7ca-0d8af1fedfdc",
+      "detail": "Establish safe environments for practice, which appropriately manages risk."
+    },
+    {
+      "skillId": "c90a63e9-a65f-457e-ba24-65707f6c2904",
+      "detail": "Apply appropriate moving and handling techniques."
+    },
+    {
+      "skillId": "397ac1d0-66ca-4ecf-a539-033b3b77b1e1",
+      "detail": "Position or immobilise service users correctly for safe and effective interventions."
+    },
+    {
+      "skillId": "4ddd82f1-ed8f-4e9c-b695-c1cad10862db",
+      "detail": "Empower and enable individuals (including service users and colleagues) to play a part in managing own health."
+    },
+    {
+      "skillId": "1e49a3a7-9164-4e39-a70f-b28e3f8b3004",
+      "detail": "Engage in occupational health, including being aware of immunisation requirements."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2018-05-14T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0284",
+  "tbMainContact": "healthcare.trailblazer@skillsforhealth.org.uk",
+  "involvedEmployers": "Birmingham Community Healthcare NHS Foundation Trust, City Healthcare Partnership CIC, Harrogate and District NHS Foundation Trust, North East London NHS Foundation Trust, Oxleas NHS Foundation Trust, Shropshire Community Health NHS Trust",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Health and Care Professions Council",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Podiatrist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": null,
+  "createdDate": "2023-07-12T08:49:51 +00:00",
+  "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-05-14T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0493",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0493-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0493-v1-3",
+  "qualifications": [
+    {
+      "qualificationId": "6734a013-ff41-4831-b3f0-78256d6aa374",
+      "title": "BSc (Honours) in Podiatry",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "a14e84d4-842d-42e3-acd3-e9a75f3ec8b4",
+      "title": "A pre-registration MSc in Podiatry where the apprentice already holds a level 6 degree",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "7b0c17f4-c6cd-4f66-8c5c-5fb87e1f546b",
+      "dutyDetail": "Practise safely and effectively within the scope of practice and within the legal and ethical boundaries of the profession.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "57d34829-6bbb-4895-a4c2-9094346296e1"
+      ],
+      "mappedKnowledge": [
+        "feace981-6d0b-4ae0-8c6c-a5e81d9c327f",
+        "ca52051c-8cb9-49ca-a946-5901bd45b9f5",
+        "de1b54eb-0984-4f7e-b254-1526fbce3692",
+        "749feca4-68c8-482e-a731-a9acf84325b8",
+        "4cda75de-8e04-4cd7-849e-0af008bc0042",
+        "35f07535-881e-4373-a31f-304012cbe67c",
+        "833502f1-9c65-495e-8dd2-f533dfc50fbf",
+        "5b53ce18-f315-4c56-9ea5-ff05feb605a1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8b6c8331-e585-4a71-8f8d-357287428b5f",
+        "004604ca-b7b7-4833-9f56-a54db5ab4972",
+        "24d2af5d-a26b-41d3-b360-ff8ae907c8df",
+        "4094cb69-e2b3-47b6-9708-0a157f35892a",
+        "f69e57ad-c65e-400f-aefa-8fc55c344d39",
+        "6dc76a99-b79f-45e5-b109-d2d7882f2a32",
+        "1dd7b9d9-eaf5-4696-afcc-ceb1485c02c6",
+        "851a6f1f-c561-41f8-b8e3-a163b259e9e6",
+        "c3cfbcda-f957-459e-9e08-bc075abdbe29",
+        "a42914d4-c85b-4b30-a89c-702a9791b6eb",
+        "2bdc4297-7d50-421e-81a1-47409294ee1f",
+        "416d26b1-f310-4407-a3f3-8256eaaebf9e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5bbc7fb9-9887-4023-9abe-03e9f8b879e9",
+      "dutyDetail": "Look after own health and wellbeing, seeking appropriate support where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "57d34829-6bbb-4895-a4c2-9094346296e1"
+      ],
+      "mappedKnowledge": [
+        "912527c9-4377-4293-9601-83608264f5e1",
+        "b54d5aa3-9870-4441-bd2a-3898e59a9bf0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f10ace85-3437-4af7-bdda-9b16a51ac5d2",
+        "1cab2e3c-d634-4eea-9204-6eed8234a940"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "21ed7025-ce71-4c83-8260-7e60537c820c",
+      "dutyDetail": "Practise as an autonomous professional, exercising professional judgement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "57d34829-6bbb-4895-a4c2-9094346296e1"
+      ],
+      "mappedKnowledge": [
+        "c010f686-9dde-4564-9d46-7de39fc8a7b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bb9471cb-aefa-43b4-82d5-e656fe950033",
+        "d651caa1-ba81-490a-bd0d-64a5e728e08a",
+        "0dd2aa72-5905-46e0-908b-39998ef76ce7",
+        "b82604e4-b1c7-4095-9468-9777286764bf",
+        "9d90a3fb-b21e-4c49-8b13-011a1c728a75",
+        "903b0b9c-e021-4f8e-8e2d-1cbc8f261e7b",
+        "9a722d0e-8acd-4fff-ace4-e8663dac4590"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a31d4e56-7bc6-4a6b-b311-42cf0fd10f13",
+      "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "61be9d75-62ea-4507-baaf-78bee61ec01a"
+      ],
+      "mappedKnowledge": [
+        "2075fd64-f671-4f91-bef6-d350814bacb6",
+        "72dfffab-7ea9-4002-a212-95d42cc263a4",
+        "e4da2a97-dc1d-4359-bb02-2edc6e18c56f",
+        "724e86a8-0274-45f0-9ea0-17f733b1ebe7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4a98fe64-9665-434b-b01b-b337101624ab",
+        "ac5a5c80-4424-4802-a42c-e4d3ec06c66e",
+        "95cf9c21-b34c-4f5c-84a2-221a5ee99acf",
+        "4c7ceed9-4a5c-4b56-befd-9566a002d991"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "30a42428-91fe-4700-8059-6899dacce258",
+      "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "9cb1d287-a857-4908-9d4f-2979c5677bd6",
+        "4a05dd0b-40e5-4425-a66b-7d763aab60ba",
+        "e2f08b3a-e527-4a67-85d5-4f5022b1d40f",
+        "38147197-7bea-4ad3-a1fb-2e246a13f435",
+        "98232317-3e85-4d20-9434-3720e7aebddc",
+        "5e9367e6-e697-446a-a842-c628602ea6ab",
+        "ad7c1d90-e0b0-46bb-8f7a-e098df4aafb4",
+        "d197fbde-9f50-4772-ae0e-79dcb2fe2af6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "162d80ea-97a5-4914-9a02-2f2ed5ba021a",
+        "69d167ff-1245-4966-8b62-2dcb3c62e4a0",
+        "b76de25b-e0a5-452e-8632-07ba014ff413",
+        "e5225b8c-93b0-43d5-8974-2d6fdaa4ef13",
+        "53e0be1a-19db-4001-853b-b50da56c7690",
+        "4a5bd541-1633-4fe9-a4e4-93f8e91db4ea",
+        "d0feeef9-2dc8-4b3b-8a84-a298a01d2566",
+        "ca2e4eef-6d9f-4af6-a686-4e7c7b01af27",
+        "9a085256-77f3-4cdd-9679-eeb98308e952",
+        "9aa801dd-e352-4e19-ba40-f7e33b2d02f9",
+        "c008f0e0-8e96-4b4c-a1ea-5fc76a453806"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f4c0319-0a4b-4cb4-abce-d5e270b89c8e",
+      "dutyDetail": "Work appropriately with others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdc6d90f-f166-4233-9e0a-a5416c2640eb",
+        "57d34829-6bbb-4895-a4c2-9094346296e1"
+      ],
+      "mappedKnowledge": [
+        "65ce9db9-7503-4acc-bc78-c708757b800e",
+        "33427b60-79de-4e18-86ed-d8d8fed0d644",
+        "b7069ee5-60fe-4a53-b116-a6bd850d9786",
+        "6e4200de-60dc-4cec-a553-eabd0c1819fb",
+        "8b36d4a1-4499-474d-8c5a-0325cbeed6e6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "897fd610-2c97-40a4-9c9b-e401c43b6150",
+        "0018a95f-a529-4e60-bc99-0ace124692df",
+        "4a91f033-99c4-4a70-b900-2ce850156ae4",
+        "d61c959d-7bed-4ee1-8d09-d38f0ac27a94",
+        "304f0782-3e88-4149-9eec-544e980179c3",
+        "51756836-5e74-48be-9b48-41b7b3ebc9e2",
+        "85bb6f4f-5b79-47df-ac2d-f2ebc82ba1f1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "837a12be-344b-4bac-8477-cbd15cc10fdc",
+      "dutyDetail": "Reflect on, review and assure the quality of own practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdc6d90f-f166-4233-9e0a-a5416c2640eb"
+      ],
+      "mappedKnowledge": [
+        "133e77d4-9cf2-425a-a624-c524ba6969f7",
+        "b4bfcd74-3770-4d29-b858-59117013ea4b",
+        "fed334c6-8fda-4251-a881-e9cca319fee1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f33161d0-644c-46f7-a7e5-3303c3d9752d",
+        "dc43c51b-2448-451e-a807-878841b026ab",
+        "df502665-1b66-4ed6-aed8-67c6ef8d238a",
+        "9d118735-e389-4a03-bd1a-30c6b515af50",
+        "a4b1b795-d412-4ef4-96df-4467cf2cecaa"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c149252b-3ffc-4a87-8742-7db95cecd1b2",
+      "dutyDetail": "Draw on appropriate knowledge and skills to inform practice and apply the key concepts of the knowledge base relevant to the profession.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cdc6d90f-f166-4233-9e0a-a5416c2640eb"
+      ],
+      "mappedKnowledge": [
+        "f317ea16-e731-429b-9857-71c82b54b291",
+        "19e16dbe-3f8e-4843-9621-414f37789659",
+        "729b5972-1cf4-406e-8644-806157751454",
+        "8ecf6ae4-229e-4589-8189-1300f6a158d3",
+        "52f07902-02a8-4aec-8d17-cb2840eef40e",
+        "5d5993b0-187a-4f1b-bcda-ec0ba027b1dc",
+        "d6742b1a-2a99-4eef-a9d5-60bda6427d7e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "38f57422-a328-4834-8a42-15bb323fa8f8",
+        "c1b711d4-425b-4f8c-9ab5-e57953e1b6d8",
+        "4eb7512b-14b1-4dc1-b03b-9d205053191c",
+        "adbd493a-0e31-481c-b0f2-589f6c14b585",
+        "7096c891-bef0-4f32-9bde-999b27f38a79",
+        "f0712e66-820a-4f26-8e77-9c87341db6f1",
+        "c811f8d4-0114-4240-b493-03947cf00892",
+        "76b81e2a-e179-416e-8008-4c4dc6b2be07",
+        "d47b8889-36ec-4544-9c73-e6ff69ba09d6",
+        "ed4b340f-9253-40a3-bf3e-8478d9bbcf2b",
+        "41b1ba05-cd77-48a9-a666-dba8e27ac564",
+        "704df6ec-e1f8-478c-96f7-a26044441f0c",
+        "a3e43ed7-1a1d-47b5-b08d-3f5ebf3d0985",
+        "01bc9385-182e-475e-a171-25ad356d0332",
+        "aeff648f-0704-4125-8d69-10c0c7e620fa",
+        "243b98f4-b4b7-47c6-8e14-594a5827ad5b",
+        "6bf492b9-311f-45c6-a47b-7b1f28b3cba2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d152ec79-63bd-4dc2-87fa-f06ca2498d2c",
+      "dutyDetail": "Establish and maintain a safe practice environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5a2c5100-3e42-4e58-9b63-171249a6a54f",
+        "c9519eef-73a0-4839-bed4-6c61f420b83e",
+        "cf6a3515-aff5-4d35-b6d6-3e10a4f4e7ce",
+        "b121f993-da5f-4c3b-b1af-ae8a5a3aeae2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "21c36d47-861a-49ad-bc4e-de9ea8c73f15",
+        "7d85df75-ee83-4f5d-9bb7-25bf36f2defa",
+        "396be539-8238-41bd-9c65-c056e6e06977",
+        "1a3f0f6e-7b7b-49e3-a7ca-0d8af1fedfdc",
+        "c90a63e9-a65f-457e-ba24-65707f6c2904",
+        "397ac1d0-66ca-4ecf-a539-033b3b77b1e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5cf8ed09-2373-4442-8be9-a38df441cdc0",
+      "dutyDetail": "Promote public health and prevent ill health.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "940e3768-cdba-4557-b48c-0d485fac03e8",
+        "1108e808-f6ec-417b-a09e-5f6b783379a7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4ddd82f1-ed8f-4e9c-b695-c1cad10862db",
+        "1e49a3a7-9164-4e39-a70f-b28e3f8b3004"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training Provider",
+      "webLink": "",
+      "approved": true
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": true
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-09-01T00:00:00"
+}
