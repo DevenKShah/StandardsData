@@ -1,60 +1,628 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 700,
   "referenceNumber": "ST0916",
+  "learningAimClassCode": "",
   "title": "Scenic artist",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0916",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-28T00:00:00",
+  "earliestStartDate": "2023-02-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Discuss the scenic art requirements with the designer or scenic manager to translate their vision into the reality of what the audience sees.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 3,
+  "typicalDuration": 21,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "scenic",
+    "artist",
+    "vision",
+    "designer",
+    "creative",
+    "theatre"
+  ],
+  "jobRoles": [
+    "Scenic artist",
+    "Scenic construction worker",
+    "Scenic painter",
+    "Set decorator",
+    "Set painter"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0916-v1-0?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in theatres, animation, TV, film and commercial workshops who undertake work for these organisations. &lt;br&gt;&lt;br&gt;Scenic artists, depending on the employer requirements and contracts, also undertake work to develop exhibitions, support festivals and immersive theatre events, work for interior decorators, theme parks and site-specific events. The broad purpose of the occupation is to discuss the scenic art requirements with the designer or scenic manager to translate their vision into the reality of what the audience sees. These discussions may also include health, safety and environmental considerations, schedule, budget, and practical issues e.g. touring. In film and TV productions, the construction workers, which include scenic artists, play a vital role in determining the look of the production; they are responsible for building, painting and plastering sets for productions.&lt;br&gt;&lt;br&gt;They may work from scale models, and pictorial references including technical drawings provided by the designer, photographs, textiles, and other items which convey aspects of the design concept. The scenic artist will then work to produce samples of the various scenic finishes needed, such as colour, textures, and style of painting. Once approved by the designer and if within budget, the scenic requirements can then be fully realised in collaboration with the production team.&lt;br&gt;&lt;br&gt;Scenic artists ensure finish, repair and modification is correctly and efficiently carried out in accordance with safe working and manufacturing practices. They may be required to modify and complete works during performances or productions if alterations or repairs are required.&lt;br&gt;&lt;br&gt;Scenic artists are largely based in a workshop environment which could include, small and large commercial workshops, and theatre companies. They may work in various other working venues and environments including outdoor work. They will also be required to work onstage or on-site, during rehearsals and at other specific times. This may mean working unsociable hours such as evenings, weekends and overnight during fit up, production and live event periods.&lt;br&gt;&lt;br&gt;They use a wide variety of equipment such as drawing materials, power tools and paintbrushes. They are expected to work individually as well as within teams depending on the organisation’s size and structure. Scenic artists may at times be required to manoeuvre heavy objects, and work at height. In their daily work, an employee in this occupation interacts with members of the creative team which includes production managers, set designers, design assistants, scenic managers and directors. In TV and film, scenic artists are part of the construction department.&lt;br&gt;&lt;br&gt;They typically report to the head of department, workshop manager or their deputies.&lt;br&gt;&lt;br&gt;A scenic artist will liaise with other members of technical departments such as construction (if not part of the same department), props masters, wardrobe, sound and lighting and stage supervisors. In a wider context, they may interact with producers, site managers, contractors, and potentially with occupational health, human resources, IT and health and safety. An employee in this occupation will be responsible for preparing and finishing scenery to meet the design brief. They must work from designs and pictorial references provided by a set designer. &lt;br&gt;&lt;br&gt;Scenic artists will either work independently or with others to achieve the objectives of the project, including timescales and costings. They must adhere to health, safety, environmental and sustainability policies, procedures and regulations including the safe use of materials. They will effectively control personal material use, taking into account material sustainability and environmental impact to minimise waste and increase efficiency. They must maintain and update their knowledge regarding all matters concerning materials, products and technique.&lt;br&gt;&lt;br&gt;They will adapt their approach to ensure they select the most efficient method of attaining the project outcome. They are trusted to work unsupervised under the brief of their supervisor.&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "cbebb995-f2fd-4888-a636-0e24037c90d0",
+      "detail": "Colour theory- identify and fully understand the main categories in colour theory. The colour wheel, that consists of primary, secondary and tertiary, colour harmony, and provides the context of how colour is used within the role, for example accurate colour matching."
+    },
+    {
+      "knowledgeId": "61695dd2-299f-473b-bf5f-94e7412977f2",
+      "detail": "Painting theory for example colour mixing, product use, wood-graining, marbling, sign writing, trompe l’oeil, spray techniques, painting on various materials, appliques and cut-cloths, faux finishes, peeling and cracked paint. "
+    },
+    {
+      "knowledgeId": "0275fe6b-daa8-4416-9a61-76012125472f",
+      "detail": "Basic geometry, namely sizes, shapes, positions, angles and dimensions of objects such as squares, circles and triangles."
+    },
+    {
+      "knowledgeId": "9fa6cc76-cea5-4183-b5cc-cc70069bf198",
+      "detail": "Art history - recognise the differences in styles and periods in the story of world art, including that of notable historical and contemporary individual artists."
+    },
+    {
+      "knowledgeId": "551bff74-bab3-4f78-b31a-65323932f816",
+      "detail": "History of architecture and interiors - recognise the different styles and periods , including that of notable buildings and interiors."
+    },
+    {
+      "knowledgeId": "43b96464-2da0-43cf-a76f-292a7509a958",
+      "detail": "Principles of portraiture - understand the processes of portrait artists including anatomical drawing of the human figure, painting techniques such as fresco or oil painting in order to reproduce in scenic terms."
+    },
+    {
+      "knowledgeId": "54b66f2d-3ab9-4610-98bb-a96ede98046a",
+      "detail": "Carving and sculptural techniques for example polycarving and scrimming. "
+    },
+    {
+      "knowledgeId": "b322742e-0338-4621-a99a-17676abba938",
+      "detail": "Texture techniques for example different texture products, additives and adhesives, accurate replication of given building materials, rendering of natural and man-made surfaces, ageing and distressing."
+    },
+    {
+      "knowledgeId": "f2e8822e-a8bf-4962-b1e8-e52a52a0832e",
+      "detail": "Recognise the differences in preparation for and working on a variety of surfaces."
+    },
+    {
+      "knowledgeId": "5e7e836e-8304-4d91-aa8b-c8e04886b4fb",
+      "detail": "The rules of perspective drawing to suggest three dimensions on a two-dimensional surface."
+    },
+    {
+      "knowledgeId": "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+      "detail": "Understand design requirements, from discussion with the head of department, production manager and designer or director, including those related to concept and finish, using drawings, photographs or models."
+    },
+    {
+      "knowledgeId": "594ce92b-0d70-4daa-9424-09b73cc3824c",
+      "detail": "The design process including model boxes and scale."
+    },
+    {
+      "knowledgeId": "494ae75e-2ea3-468d-b939-8e7978216494",
+      "detail": "Recognise materials and products, for example paints, glazes, textures, adhesives, canvases."
+    },
+    {
+      "knowledgeId": "604b57d9-561a-4f31-b180-9ef1009e90be",
+      "detail": "Impact of health and safety legislation, regulations, policies and procedures including, safe working practice COSHH regulations, manual handling and risk assessments."
+    },
+    {
+      "knowledgeId": "a72479eb-b861-4edf-a108-b1b86c8a3402",
+      "detail": "Impact of environmental legislation - the importance of environmental responsibilities within the role for example the Refuse Disposal Act 1978 and Control of Pollution (Amendment) Act 1989 and the sustainability of resources."
+    },
+    {
+      "knowledgeId": "a0c9c75e-2861-48ad-a2c1-c3f17853c02c",
+      "detail": "CAD (computer aided design) and creative software to develop and create images and adapt those provided by the designer or design brief."
+    },
+    {
+      "knowledgeId": "60135b60-1b59-43ad-a500-66949100ad31",
+      "detail": "Research techniques to be able to identify requirements from the design brief."
+    },
+    {
+      "knowledgeId": "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856",
+      "detail": "Project management principles to supervise projects including costing processes."
+    },
+    {
+      "knowledgeId": "20dce25a-9772-4d43-9bcc-097c2021ebec",
+      "detail": "The broad intent of the organisation or productions policies and procedures including diversity and inclusivity."
+    },
+    {
+      "knowledgeId": "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+      "detail": "The objectives and requirements of other craft skills and activities in theatre stages and art departments and their relationship with scenery and props."
+    },
+    {
+      "knowledgeId": "29e06c25-8767-4e4c-82e7-fd8eda1bf032",
+      "detail": "Maintenance and storage requirements of tools and equipment used to create the scenery or set for example mobile access equipment, hand tools, hoists and lifts."
+    },
+    {
+      "knowledgeId": "588b39cc-0104-44ad-a20c-8c0c2864098a",
+      "detail": "The safe use of tools and equipment  for example hand tools, hoists and lifts."
+    },
+    {
+      "knowledgeId": "41b2c215-dff9-4257-a348-336c22d34caf",
+      "detail": "Approaches to keeping knowledge up to and sharing skills with work colleagues. "
+    },
+    {
+      "knowledgeId": "e9082f03-c951-498e-8f5d-42583475f637",
+      "detail": "Accurate industry terminology."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+      "detail": "Puts safety first."
+    },
+    {
+      "behaviourId": "8d3f5466-a813-4991-a11f-b8534962ec01",
+      "detail": "Takes ownership and responsibility for actions."
+    },
+    {
+      "behaviourId": "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+      "detail": "Positively adapts to change, is flexible and looks for the benefits when changes occur."
+    },
+    {
+      "behaviourId": "f0760a45-a9f7-4101-9244-d154a8d3030b",
+      "detail": "Is organised and timely in work delivery."
+    },
+    {
+      "behaviourId": "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+      "detail": "Solves problems within own area of responsibility."
+    },
+    {
+      "behaviourId": "08c29546-20c0-4ec8-afe7-6a73c097414e",
+      "detail": "Remains focused, balancing competing priorities to achieve required outcomes.  "
+    },
+    {
+      "behaviourId": "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+      "detail": "Team-focused and works effectively with colleagues and others."
+    },
+    {
+      "behaviourId": "169fcb41-71ec-4a22-bb6a-266aeae80493",
+      "detail": "Committed to keeping up to date with employer needs, industry best practice and own professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+      "detail": "Liaise with designers and production managers to create or adapt work in accordance with requirements."
+    },
+    {
+      "skillId": "3bf800c7-aded-4ad7-90f5-726d2b312db4",
+      "detail": "Use drawing equipment including a scale rule, measuring stick, straight edge, stencil making, pounce making and projection."
+    },
+    {
+      "skillId": "1114337b-5049-4360-b2aa-3ef78279e05e",
+      "detail": "Draw using methods such as plotting, gridding, freehand and figurative."
+    },
+    {
+      "skillId": "cab8b525-ba06-46c6-8997-755937008c41",
+      "detail": "Use painting theory for example colour mixing, product use, wood-graining, marbling, sign writing, trompe l’oeil, spray techniques, painting on various materials, appliques and cut-cloths, faux finishes, peeling and cracked paint."
+    },
+    {
+      "skillId": "226bc3ac-4cfe-4539-a390-c1cfded97fbe",
+      "detail": "Use carving and sculptural techniques for example polycarving, scrimming."
+    },
+    {
+      "skillId": "60876e1e-c224-4fa5-aa57-cf9ed2059da9",
+      "detail": "Apply texture techniques for example different texture products, additives and adhesives, accurate replication of given building materials, rendering of natural and man-made surfaces, ageing and distressing."
+    },
+    {
+      "skillId": "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+      "detail": "Use industry practices including accurate industry terminology and safe working practices."
+    },
+    {
+      "skillId": "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+      "detail": "Interpret the design process including model boxes and scale."
+    },
+    {
+      "skillId": "f57abfff-c814-4006-896f-7a2e648067d0",
+      "detail": "Use tools and equipment for example hand tools, hoists and lifts."
+    },
+    {
+      "skillId": "d4fa9130-e6fe-4fca-bbb9-a3625bc9c7c4",
+      "detail": "Operate and use mobile access equipment."
+    },
+    {
+      "skillId": "2ee45ca0-5b46-45b0-a56e-e001ce3598df",
+      "detail": "Undertake work on different surfaces."
+    },
+    {
+      "skillId": "92a5ab43-f211-4b76-b886-48f1fc565412",
+      "detail": "Undertake the hanging and stretching out of cloths and wallpaper."
+    },
+    {
+      "skillId": "164d7512-7ca7-43ac-ac95-420848cf7f15",
+      "detail": "Undertake repair and modification, and finish activities as required and in accordance with safe working and manufacturing practices."
+    },
+    {
+      "skillId": "05d9803b-521c-4ada-ad06-104fbd88d244",
+      "detail": "Modify any completed works during production if alterations are required by the director or designer."
+    },
+    {
+      "skillId": "92cb27bd-a24c-4fc3-8673-74e697ba4d77",
+      "detail": "Demonstrate and share best practice with the team."
+    },
+    {
+      "skillId": "6e76b4d9-1bc7-493c-a0ce-9071f26f4fef",
+      "detail": "Use IT systems to facilitate administrative, communications and online requirements for example diaries, blogs, schedules, budgets, costings and progress reports."
+    },
+    {
+      "skillId": "8cbf81be-83ba-40d7-a658-c98325e111dd",
+      "detail": "Communicate with others including understanding and responding to instructions and briefings."
+    },
+    {
+      "skillId": "3de03c32-79a4-4fec-a9b5-0800c6234c06",
+      "detail": "Develop drawings, paintings, colour samples etc. in accordance with a design concept."
+    },
+    {
+      "skillId": "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc",
+      "detail": "Maintain safe working practices and efficient use of hand tools, machinery, materials and resources."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-02-28T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0640",
-  "tbMainContact": "Emma.troubridge@roh.org.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "Lynne.LADA@gmail.com",
+  "involvedEmployers": "Belgrade Theatre, Birmingham Repertory Theatre, Cardiff Theatrical Services, Disney, LADA/CC Skills, Maya Kazmarski (Freelance), National Theatre, Royal Exchange, Royal Opera House, Royal Shakespeare Company, Souvenir, The Really Useful Group, Welsh National Opera",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-11-06T09:00:50 +00:00",
-  "lastUpdated": "2020-11-06T09:00:50 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-artist#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-artist",
+  "typicalJobTitles": [
+    "Scenic artist",
+    "Scenic construction worker",
+    "Scenic painter",
+    "Set decorator",
+    "Set painter"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Craft and Design",
+  "cluster": "Design technician",
+  "clusterId": "232",
+  "clusterDescription": null,
+  "createdDate": "2022-12-05T15:30:28 +00:00",
+  "lastUpdated": "2023-02-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-02-28T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0916",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0916-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0916-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "c8ae0b13-941e-47a0-a8f2-01cb8f474707",
+      "dutyDetail": "Interpret the creative design brief and consider how to implement to deliver the scenery or set in line with the production requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "f0760a45-a9f7-4101-9244-d154a8d3030b",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4"
+      ],
+      "mappedKnowledge": [
+        "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+        "594ce92b-0d70-4daa-9424-09b73cc3824c",
+        "494ae75e-2ea3-468d-b939-8e7978216494",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "a72479eb-b861-4edf-a108-b1b86c8a3402",
+        "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "e9082f03-c951-498e-8f5d-42583475f637"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a627a4d1-f3f2-4495-acb9-e7a8dbf28dcf",
+      "dutyDetail": "Undertake research (for example period architectural detailing, genre, artist styles and methods) to support the delivery of the design brief.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "08c29546-20c0-4ec8-afe7-6a73c097414e"
+      ],
+      "mappedKnowledge": [
+        "9fa6cc76-cea5-4183-b5cc-cc70069bf198",
+        "551bff74-bab3-4f78-b31a-65323932f816",
+        "43b96464-2da0-43cf-a76f-292a7509a958",
+        "60135b60-1b59-43ad-a500-66949100ad31"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "cab8b525-ba06-46c6-8997-755937008c41",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a7d9c785-be03-4f14-a8f6-a361a8501c55",
+      "dutyDetail": "Interpret the design requirements and demonstrate draughting skills using a range of techniques including scaling up, technical and freehand drawing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "08c29546-20c0-4ec8-afe7-6a73c097414e",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "0275fe6b-daa8-4416-9a61-76012125472f",
+        "f2e8822e-a8bf-4962-b1e8-e52a52a0832e",
+        "5e7e836e-8304-4d91-aa8b-c8e04886b4fb",
+        "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+        "594ce92b-0d70-4daa-9424-09b73cc3824c",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "a0c9c75e-2861-48ad-a2c1-c3f17853c02c",
+        "41b2c215-dff9-4257-a348-336c22d34caf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3bf800c7-aded-4ad7-90f5-726d2b312db4",
+        "1114337b-5049-4360-b2aa-3ef78279e05e",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "3de03c32-79a4-4fec-a9b5-0800c6234c06"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d8fcf10-ed6b-4acb-85d9-2a0f03ee6d31",
+      "dutyDetail": "Develop working samples from designs, technical drawings and pictorial references provided by the set designer, in collaboration with the creative team, in order to produce the finished set.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "f0760a45-a9f7-4101-9244-d154a8d3030b",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "cbebb995-f2fd-4888-a636-0e24037c90d0",
+        "61695dd2-299f-473b-bf5f-94e7412977f2",
+        "0275fe6b-daa8-4416-9a61-76012125472f",
+        "551bff74-bab3-4f78-b31a-65323932f816",
+        "54b66f2d-3ab9-4610-98bb-a96ede98046a",
+        "b322742e-0338-4621-a99a-17676abba938",
+        "f2e8822e-a8bf-4962-b1e8-e52a52a0832e",
+        "494ae75e-2ea3-468d-b939-8e7978216494",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "588b39cc-0104-44ad-a20c-8c0c2864098a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "3bf800c7-aded-4ad7-90f5-726d2b312db4",
+        "1114337b-5049-4360-b2aa-3ef78279e05e",
+        "cab8b525-ba06-46c6-8997-755937008c41",
+        "226bc3ac-4cfe-4539-a390-c1cfded97fbe",
+        "60876e1e-c224-4fa5-aa57-cf9ed2059da9",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "f57abfff-c814-4006-896f-7a2e648067d0",
+        "2ee45ca0-5b46-45b0-a56e-e001ce3598df",
+        "92a5ab43-f211-4b76-b886-48f1fc565412",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "3de03c32-79a4-4fec-a9b5-0800c6234c06",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6c89d0a6-4972-42b1-b23e-c42c095f9a6c",
+      "dutyDetail": "Undertake the realisation of all scenic finishes required using a wide range of techniques, materials and processes. These include, faux finishes, 3D textures and painting.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "f0760a45-a9f7-4101-9244-d154a8d3030b",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "08c29546-20c0-4ec8-afe7-6a73c097414e",
+        "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "cbebb995-f2fd-4888-a636-0e24037c90d0",
+        "61695dd2-299f-473b-bf5f-94e7412977f2",
+        "0275fe6b-daa8-4416-9a61-76012125472f",
+        "54b66f2d-3ab9-4610-98bb-a96ede98046a",
+        "b322742e-0338-4621-a99a-17676abba938",
+        "f2e8822e-a8bf-4962-b1e8-e52a52a0832e",
+        "494ae75e-2ea3-468d-b939-8e7978216494",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "588b39cc-0104-44ad-a20c-8c0c2864098a",
+        "41b2c215-dff9-4257-a348-336c22d34caf",
+        "e9082f03-c951-498e-8f5d-42583475f637"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "3bf800c7-aded-4ad7-90f5-726d2b312db4",
+        "1114337b-5049-4360-b2aa-3ef78279e05e",
+        "cab8b525-ba06-46c6-8997-755937008c41",
+        "226bc3ac-4cfe-4539-a390-c1cfded97fbe",
+        "60876e1e-c224-4fa5-aa57-cf9ed2059da9",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "2ee45ca0-5b46-45b0-a56e-e001ce3598df",
+        "92a5ab43-f211-4b76-b886-48f1fc565412",
+        "164d7512-7ca7-43ac-ac95-420848cf7f15"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "89cad9c7-8a5b-451e-9d40-f1c8b7af1d6a",
+      "dutyDetail": "Maintain and update tools and equipment in line with manufacturer’s specifications and regulation requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "29e06c25-8767-4e4c-82e7-fd8eda1bf032",
+        "588b39cc-0104-44ad-a20c-8c0c2864098a",
+        "41b2c215-dff9-4257-a348-336c22d34caf",
+        "e9082f03-c951-498e-8f5d-42583475f637"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "f57abfff-c814-4006-896f-7a2e648067d0",
+        "92cb27bd-a24c-4fc3-8673-74e697ba4d77",
+        "6e76b4d9-1bc7-493c-a0ce-9071f26f4fef",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c9a7b535-74a5-45ec-8246-8381c8174c0b",
+      "dutyDetail": "Repair, refurbish and maintain scenery during a production, and restore it to the original design brief wherever possible and as required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "588b39cc-0104-44ad-a20c-8c0c2864098a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "d4fa9130-e6fe-4fca-bbb9-a3625bc9c7c4",
+        "164d7512-7ca7-43ac-ac95-420848cf7f15",
+        "05d9803b-521c-4ada-ad06-104fbd88d244",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5b0f78a5-c7dd-450c-9b99-ee2fdb30b523",
+      "dutyDetail": "Collaborate with scenic carpenters and scenic metalworkers to ensure the production schedule is achieved within the timescale.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "f0760a45-a9f7-4101-9244-d154a8d3030b",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "08c29546-20c0-4ec8-afe7-6a73c097414e",
+        "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856",
+        "20dce25a-9772-4d43-9bcc-097c2021ebec",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "e9082f03-c951-498e-8f5d-42583475f637"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "f57abfff-c814-4006-896f-7a2e648067d0",
+        "d4fa9130-e6fe-4fca-bbb9-a3625bc9c7c4",
+        "05d9803b-521c-4ada-ad06-104fbd88d244",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5dffd790-cc99-4212-8a1d-4e13fabf7eb8",
+      "dutyDetail": "Contribute to the costing processes for new projects and refurbishments of existing ones.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "8d3f5466-a813-4991-a11f-b8534962ec01",
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "f0760a45-a9f7-4101-9244-d154a8d3030b",
+        "41b9facb-bf9e-489b-b29b-cd52182b21e4",
+        "08c29546-20c0-4ec8-afe7-6a73c097414e",
+        "614d4aab-b5fe-4687-a44d-fbc32a4e6db5",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "551bff74-bab3-4f78-b31a-65323932f816",
+        "b0c65e28-5cc0-4a22-8c3b-75b80f0e11c0",
+        "594ce92b-0d70-4daa-9424-09b73cc3824c",
+        "494ae75e-2ea3-468d-b939-8e7978216494",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "a0c9c75e-2861-48ad-a2c1-c3f17853c02c",
+        "ce7a654b-d9cf-49ec-a8d3-1bba3beb4856"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f9a08be4-c98a-40c0-93cd-134e7ea681cb",
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "8ca8dffa-dd72-40b2-998a-48f9fe27575f",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "3de03c32-79a4-4fec-a9b5-0800c6234c06",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "516cbf3e-72e8-4fb5-a052-87901d13677b",
+      "dutyDetail": "Maintain knowledge about new and improved methods, materials or working practices up to date.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "599bd4df-8a68-44f2-ab1e-dbe65bf5c85b",
+        "a341d86b-be3c-42f6-8ffc-04fe70d78242",
+        "169fcb41-71ec-4a22-bb6a-266aeae80493"
+      ],
+      "mappedKnowledge": [
+        "494ae75e-2ea3-468d-b939-8e7978216494",
+        "604b57d9-561a-4f31-b180-9ef1009e90be",
+        "3aa63617-0625-479f-9f9c-5ed9f1041b99",
+        "588b39cc-0104-44ad-a20c-8c0c2864098a",
+        "41b2c215-dff9-4257-a348-336c22d34caf",
+        "e9082f03-c951-498e-8f5d-42583475f637"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cac5a595-8aaa-40ee-8237-a7341e94e8a2",
+        "d4fa9130-e6fe-4fca-bbb9-a3625bc9c7c4",
+        "92cb27bd-a24c-4fc3-8673-74e697ba4d77",
+        "6e76b4d9-1bc7-493c-a0ce-9071f26f4fef",
+        "8cbf81be-83ba-40d7-a658-c98325e111dd",
+        "92f4cf43-aa86-4e31-aa96-adaec9ffe7fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-28T00:00:00"
 }
