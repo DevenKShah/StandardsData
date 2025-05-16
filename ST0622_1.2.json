@@ -1,0 +1,711 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 339,
+  "referenceNumber": "ST0622",
+  "learningAimClassCode": "",
+  "title": "Bicycle mechanic",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0622",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan and standard revised",
+  "changedDate": "2023-07-11T00:00:00",
+  "earliestStartDate": "2023-07-11T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Building, repairing and servicing all kinds of bicycles.",
+  "level": 2,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "bicycle",
+    "repair",
+    "building",
+    "servicing",
+    "bicycle mechanic"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/gwwj1toy/st0622_bicycle-mechanic_l2_epa-plan_adjustment_for-publication_6july23.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the bicycle industry, which in the United Kingdom employs several thousand people. Bicycle mechanics may work in independent bicycle shops, hire centres, bicycle workshops and larger non-specialist retailers, as well as for sports clubs, race teams and bicycle-tour operators and other bicycle related organisations. Cycling is on the increase as a means of transport and as a leisure activity, with an increasing range of bicycles on offer – some with complex technology, making it an exciting and varied industry to work in. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to build, repair and service all kinds of bicycles – for example road, mountain, hybrid, recumbent, disabled adapted, electric and other human powered road and off-road vehicles. As a definition, bicycles are human powered road vehicles with a varying number of wheels; this can include uni-cycles, tricycles, quadricycles and so on. Electric bicycles are electrically assisted or adapted bicycles as opposed to electric motorcycles. They work in bicycle shops, dedicated workshops, in the field for bicycle racing teams or independently as mobile mechanics and other areas where bicycles play a prominent part. &lt;br /&gt;&lt;br /&gt;When a bicycle is brought in for repair or service or when an ‘in-house’ bicycle needs to built, rebuilt or repaired, they run diagnostic tests to determine the cause of the problem, and then take the necessary steps to fix it. When parts aren’t available to hand, they will instigate the order for them to be obtained from a distributor or manufacturer. Sometimes bicycle repairs can be as simple as replacing cables or tyres, but sometimes they can require more complicated procedures like adjusting a frame or repairing brakes and gears. They may build bicycles or wheels from scratch. Whether a repair or build they need to complete safety checks. They may or may not interact with customers depending on the workplace, this may include talking to the customer to help identify the fault, providing estimates – recommending when it is economically viable to repair,&#160; and the handover of the built or repaired bicycle with an explanation of the work completed. They will need to complete documentation for example, relating to the work completed or warranty claims. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with other bicycle mechanics depending on size of operation and suppliers; interacting with customers or clients is usually part of the role.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for responsible for completing work under the supervision of a senior mechanic or other management structure depending on the organisation. The work can be physically demanding and involves using various tools and chemicals, like cleaning products and greasing agents. Working in a manner that ensures the health and safety of self and others is essential.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+      "detail": "The types, applications and unique characteristics of all types of bicycles, tricycles, recumbent and other pedal, hand and electrically-assisted powered bicycles (e-bikes), other derivatives and the associated technology."
+    },
+    {
+      "knowledgeId": "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+      "detail": "Diagnostic and assessment principles required to service, repair and modify the mechanical aspects of bicycles to meet manufacturer specifications and customers’ or clients’ requirements."
+    },
+    {
+      "knowledgeId": "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+      "detail": "The latest developments to bicycles, bicycle components and tools and equipment."
+    },
+    {
+      "knowledgeId": "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+      "detail": "Legislation and required compliance within the bicycle industry, including bicycle Regulations (for example, BS ISO 4210.2 (2015), standard for electric bikes EN15194 (2015), and all future modifications or updates; the safe disposal and recycling of associated waste (including waste oils, cleaning fluids, batteries, tyres, etc)."
+    },
+    {
+      "knowledgeId": "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
+      "detail": "Bicycle repair shop operations including ordering, stock control, correct use of documentation such as receipts, order forms, repair forms."
+    },
+    {
+      "knowledgeId": "45187331-307f-4775-aa71-68090692b9b9",
+      "detail": "Types of customer interaction and customer service techniques including when to contact the customer, the tone that should be adopted, appropriately timed and follow up communication – both verbal and well written; adjusting approach to take account of customers’ or clients’ needs including cultural requirements."
+    },
+    {
+      "knowledgeId": "22403dce-92c0-4260-aa13-952f3aa0655f",
+      "detail": "Principles of selling and upselling bicycle and bicycle products and calculating discounts."
+    },
+    {
+      "knowledgeId": "2aa59d85-a694-4905-8ed6-b1312e9c1328",
+      "detail": "Health and safety legislation, policy and practice; manual handling, Control of Substances Hazardous to Health (COSHH); how to ensure the safety of customers and mechanics (risk and hazard identification); correct use of Personal Protective Equipment (PPE)."
+    },
+    {
+      "knowledgeId": "0fc2643d-ec06-41bf-9c70-99ee68851b5c",
+      "detail": "Operation of manual and computer booking systems and EPOS (Electronic Point Of Sale) systems."
+    },
+    {
+      "knowledgeId": "8862abb0-dd4b-45da-bd1c-d76e5f11ab8f",
+      "detail": "The rights and responsibilities of an employee and employer, including awareness of Equality and Diversity Legislation."
+    },
+    {
+      "knowledgeId": "1caf94ca-86c5-4bfd-a770-00f1f4e1c4bd",
+      "detail": "Costing principles, cost hierarchy of appropriate parts, assessment of component compatibility, time required to fix; summarising in a quote."
+    },
+    {
+      "knowledgeId": "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7",
+      "detail": "Manufacturer specifications - when and where to use them."
+    },
+    {
+      "knowledgeId": "ffb1a45e-3923-4276-b0d1-8fd92e4d16d1",
+      "detail": "Principles of handling hazardous goods including Lithium ion batteries, their safe handling, storage and shipping of damaged items, emergency procedures, knowing when to ask for third party advice."
+    },
+    {
+      "knowledgeId": "f5ee8e7e-3329-4809-ada8-5ee0d0e9d6be",
+      "detail": "Standard operating functions of bicycles in normal use, when failed or is not fit for purpose, such as parts that regularly break or go missing and need to be replaced, including chain wear features."
+    },
+    {
+      "knowledgeId": "ab9aa19b-0413-45c6-8e48-4b6af25bf700",
+      "detail": "Duty care to customers for example, health and safety."
+    },
+    {
+      "knowledgeId": "bcd45083-0a80-4e11-83eb-670ca94de71e",
+      "detail": "Information technology applications used in the bicycle workshop environment, including  excel, databases and search engines."
+    },
+    {
+      "knowledgeId": "25873f0f-e466-4bd5-a924-8a4272340998",
+      "detail": "Manufacturers’ and organisations’ warranty policies, what they cover and what they don’t and procedures that must be followed."
+    },
+    {
+      "knowledgeId": "7cb9197f-8175-491f-9354-4fea5f5c66ea",
+      "detail": "Project management techniques; planning and the importance of meeting project deadlines."
+    },
+    {
+      "knowledgeId": "4d73e3ce-3281-453d-aa13-22c249061b5b",
+      "detail": "Investigating causes of defects and maintenance issues; problem solving."
+    },
+    {
+      "knowledgeId": "911f255a-1a6d-483c-8b33-541939bf2acf",
+      "detail": "Who to contact about common defects and how to address them."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+      "detail": "Have a safety first behaviour – always use appropriate safety equipment and PPE and has customers’ safety in mind."
+    },
+    {
+      "behaviourId": "641a5e52-af89-4c89-9168-8cb13d64c54e",
+      "detail": "Work efficiently as a member of the workshop team; takes account of deadlines; takes responsibility to deal with or report issues."
+    },
+    {
+      "behaviourId": "03ada9be-40cd-4f9d-b666-38593291e96c",
+      "detail": "Behave in a manner that aligns with the company ethos, including prompt timekeeping, smart presentation of self and working area and good personal hygiene."
+    },
+    {
+      "behaviourId": "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+      "detail": "Takes responsibility for keeping own knowledge and skills up to date."
+    },
+    {
+      "behaviourId": "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+      "detail": "Act with integrity, honestly advising customers; demonstrates a passion for bicycles."
+    },
+    {
+      "behaviourId": "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+      "detail": "Acts as a responsible advocate for the business."
+    },
+    {
+      "behaviourId": "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+      "detail": "Results–driven attitude, working in an effective and efficient manner in order to comply with contractual terms and customer expectations."
+    },
+    {
+      "behaviourId": "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f",
+      "detail": "Receptive to constructive feedback from peers and management and proactive in giving appropriate feedback to others."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+      "detail": "Use specialist bicycle diagnostic equipment to identify fault and formulate a plan to solve the problems; identifying when it is uneconomical to proceed."
+    },
+    {
+      "skillId": "571557df-1c4e-4376-ab3d-b8d418006b90",
+      "detail": "Use cycle workstand correctly to safely and securely hold a bicycle on the appropriate part of the frame."
+    },
+    {
+      "skillId": "95c5f992-6fe7-433f-9c48-037b9890e1ce",
+      "detail": "Service a cup and cone type hub, identifying worn parts and correct replacements."
+    },
+    {
+      "skillId": "c1f6ad18-f1a9-4341-a054-9bf46d9f3e82",
+      "detail": "Remove and replace sealed cartridge bearings using appropriate tools."
+    },
+    {
+      "skillId": "5945792e-0b2c-415a-b665-90198c00b0c4",
+      "detail": "Service cable operated brake systems, correctly sizing and routing cabling using the correct spare parts and torque settings."
+    },
+    {
+      "skillId": "b99474db-9c74-4d05-8894-fc11bd02e0e0",
+      "detail": "Bleed hydraulic brake systems."
+    },
+    {
+      "skillId": "c78009aa-70f9-4a37-b785-5fa74037753c",
+      "detail": "Service derailleur gear systems, correctly sizing and routing cabling using correct spare parts and torque settings; straighten a derailleur hanger."
+    },
+    {
+      "skillId": "0e75158c-d926-4314-96dd-3f0307366cf1",
+      "detail": "Tap the crank arm threads."
+    },
+    {
+      "skillId": "6167816b-b916-4d2a-a26d-6258651a3341",
+      "detail": "Identify the different standards of cranks and bottom brackets; remove and replace crank arms, bottom brackets and tap and face the bottom bracket shell."
+    },
+    {
+      "skillId": "6b1520ea-c596-4375-95c7-c667df08e799",
+      "detail": "Identify chain wear; assess compatibility issues, taking account of chain line and correctly split and install a quick link based chain."
+    },
+    {
+      "skillId": "2f58f9ed-d2f4-43fa-b294-2ad41c5c56cf",
+      "detail": "Tape road handlebars."
+    },
+    {
+      "skillId": "a262c312-518d-4044-8525-e811fa8ac082",
+      "detail": "Remove and replace a set of forks, taking account of the correct way to cut a fork steering column to size.  Hydraulic fork servicing, disassemble and clean stations and cartridges and re-grease properly."
+    },
+    {
+      "skillId": "451b6288-2fc3-46a6-8955-c5def3f91c94",
+      "detail": "Remove, replace and service a headset, taking account of sizing standards."
+    },
+    {
+      "skillId": "c70fc161-305a-4422-84d2-83e2ecf5e4e2",
+      "detail": "Perform alignment checks to a bicycle frame."
+    },
+    {
+      "skillId": "2518d18c-24af-47f9-954a-f5998454f5b9",
+      "detail": "Hand-build a wheel of differing complexities (for example, from simple 3-cross to manufacturer specific wheel systems) in the patterns required for non-disc, front disc and rear disc to the required tolerance and correctly dished and tensioned."
+    },
+    {
+      "skillId": "f7383730-d9c8-4cc5-b2e6-a56db4e1b4c0",
+      "detail": "Set up and adjustment of internal gears."
+    },
+    {
+      "skillId": "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+      "detail": "Conduct quality assurance check of build or repair work completed."
+    },
+    {
+      "skillId": "d4fcde80-a8d9-4b58-a8d0-34b1af22264e",
+      "detail": "Complete handover once completed build or repair is finished, including advising on further and future work required, changes to operation, required on-going maintenance and complete paperwork as appropriate."
+    },
+    {
+      "skillId": "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+      "detail": "Serve customers or clients on any required area of the store; refer them on to a more senior colleague or to ask for help; seek after market sales."
+    },
+    {
+      "skillId": "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+      "detail": "Communicate via suitable means with customers (telephone, text, email, social media) in order to ensure good service is maintained."
+    },
+    {
+      "skillId": "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+      "detail": "Use catalogues (hard copy and online) to identify parts and order to fulfil customers needs."
+    },
+    {
+      "skillId": "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+      "detail": "Use manual system and workshop diary and complete any associated paperwork."
+    },
+    {
+      "skillId": "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+      "detail": "Deal with complaints, following employer and manufacturers policies."
+    },
+    {
+      "skillId": "444f13d8-01ee-42ba-b3bc-10a29db86fe3",
+      "detail": "Identify when something has failed or is not fit for purpose."
+    },
+    {
+      "skillId": "9d402f69-343e-4066-a57f-c9f5f10a0dbf",
+      "detail": "Maintain proper tool maintenance and general workshop cleanliness and tidiness."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0102",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
+  "involvedEmployers": "Bay Cycles, Bicycle Rehab, Bournemouth Cycleworks, Cycle-R, Cycle Surgery, Cycle Tech Oldham, Cotswold Outdoor, Decathlon, Evans Cycles, Madison, Isla Bicycles, Recycle Bicycles, Serco (UK)",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Bicycle mechanic",
+    "Bike mechanic",
+    "Cycle mechanic"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, Installation & Repair",
+  "cluster": "Service, repair and or or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": null,
+  "createdDate": "2023-07-11T09:25:30 +00:00",
+  "lastUpdated": "2023-07-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-22T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0622",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "f11c32b2-a9af-45a5-b593-3e3cc3ec5bef",
+      "dutyDetail": "Build a bicycle from scratch to a customer’s or client’s specification.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+        "571557df-1c4e-4376-ab3d-b8d418006b90",
+        "95c5f992-6fe7-433f-9c48-037b9890e1ce",
+        "c1f6ad18-f1a9-4341-a054-9bf46d9f3e82",
+        "5945792e-0b2c-415a-b665-90198c00b0c4",
+        "b99474db-9c74-4d05-8894-fc11bd02e0e0",
+        "c78009aa-70f9-4a37-b785-5fa74037753c",
+        "0e75158c-d926-4314-96dd-3f0307366cf1",
+        "6167816b-b916-4d2a-a26d-6258651a3341",
+        "6b1520ea-c596-4375-95c7-c667df08e799",
+        "a262c312-518d-4044-8525-e811fa8ac082",
+        "451b6288-2fc3-46a6-8955-c5def3f91c94",
+        "c70fc161-305a-4422-84d2-83e2ecf5e4e2",
+        "2518d18c-24af-47f9-954a-f5998454f5b9",
+        "f7383730-d9c8-4cc5-b2e6-a56db4e1b4c0",
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "d4fcde80-a8d9-4b58-a8d0-34b1af22264e",
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b8230ce3-41ce-4ed9-892a-6b39282d4fc7",
+      "dutyDetail": "Identify problems with a bicycle and discuss solutions with the customer or client.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
+        "45187331-307f-4775-aa71-68090692b9b9",
+        "22403dce-92c0-4260-aa13-952f3aa0655f",
+        "2aa59d85-a694-4905-8ed6-b1312e9c1328",
+        "0fc2643d-ec06-41bf-9c70-99ee68851b5c",
+        "8862abb0-dd4b-45da-bd1c-d76e5f11ab8f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+        "444f13d8-01ee-42ba-b3bc-10a29db86fe3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fd51274a-fe05-40a0-90df-b28b5a327c88",
+      "dutyDetail": "Estimate the cost of repairs and give quotes; advising on economic viability.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
+        "1caf94ca-86c5-4bfd-a770-00f1f4e1c4bd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+        "444f13d8-01ee-42ba-b3bc-10a29db86fe3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "30834d30-6a53-4348-8e16-7e0fc219c562",
+      "dutyDetail": "Carry out a bicycle service and safety checks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+        "571557df-1c4e-4376-ab3d-b8d418006b90",
+        "95c5f992-6fe7-433f-9c48-037b9890e1ce",
+        "c1f6ad18-f1a9-4341-a054-9bf46d9f3e82",
+        "5945792e-0b2c-415a-b665-90198c00b0c4",
+        "b99474db-9c74-4d05-8894-fc11bd02e0e0",
+        "c78009aa-70f9-4a37-b785-5fa74037753c",
+        "0e75158c-d926-4314-96dd-3f0307366cf1",
+        "6167816b-b916-4d2a-a26d-6258651a3341",
+        "6b1520ea-c596-4375-95c7-c667df08e799",
+        "2f58f9ed-d2f4-43fa-b294-2ad41c5c56cf",
+        "a262c312-518d-4044-8525-e811fa8ac082",
+        "451b6288-2fc3-46a6-8955-c5def3f91c94",
+        "c70fc161-305a-4422-84d2-83e2ecf5e4e2",
+        "2518d18c-24af-47f9-954a-f5998454f5b9",
+        "f7383730-d9c8-4cc5-b2e6-a56db4e1b4c0",
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "d4fcde80-a8d9-4b58-a8d0-34b1af22264e",
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3ab6dc44-7bc7-4def-a288-9f43a9956ae5",
+      "dutyDetail": "Carry out repairs and replace parts for example, changing brake cables and chains.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+        "571557df-1c4e-4376-ab3d-b8d418006b90",
+        "95c5f992-6fe7-433f-9c48-037b9890e1ce",
+        "c1f6ad18-f1a9-4341-a054-9bf46d9f3e82",
+        "5945792e-0b2c-415a-b665-90198c00b0c4",
+        "b99474db-9c74-4d05-8894-fc11bd02e0e0",
+        "c78009aa-70f9-4a37-b785-5fa74037753c",
+        "0e75158c-d926-4314-96dd-3f0307366cf1",
+        "6167816b-b916-4d2a-a26d-6258651a3341",
+        "6b1520ea-c596-4375-95c7-c667df08e799",
+        "2f58f9ed-d2f4-43fa-b294-2ad41c5c56cf",
+        "a262c312-518d-4044-8525-e811fa8ac082",
+        "451b6288-2fc3-46a6-8955-c5def3f91c94",
+        "c70fc161-305a-4422-84d2-83e2ecf5e4e2",
+        "2518d18c-24af-47f9-954a-f5998454f5b9",
+        "f7383730-d9c8-4cc5-b2e6-a56db4e1b4c0",
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "d4fcde80-a8d9-4b58-a8d0-34b1af22264e",
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+        "444f13d8-01ee-42ba-b3bc-10a29db86fe3",
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2f70cf3c-a392-4cb6-9e27-0bfceedf8d4b",
+      "dutyDetail": "Clean, degrease and lubricate bicycle parts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "2aa59d85-a694-4905-8ed6-b1312e9c1328",
+        "ffb1a45e-3923-4276-b0d1-8fd92e4d16d1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2a34b05a-0a7d-4d3e-a92c-b9deccd7e6b4",
+      "dutyDetail": "Give advice to customers or clients, including the sale of bikes, parts and accessories.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "45187331-307f-4775-aa71-68090692b9b9",
+        "8862abb0-dd4b-45da-bd1c-d76e5f11ab8f",
+        "ffb1a45e-3923-4276-b0d1-8fd92e4d16d1",
+        "f5ee8e7e-3329-4809-ada8-5ee0d0e9d6be",
+        "ab9aa19b-0413-45c6-8e48-4b6af25bf700"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+        "444f13d8-01ee-42ba-b3bc-10a29db86fe3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "48185759-6a44-4d82-a07e-bfe9e9978ba9",
+      "dutyDetail": "Take bookings for repairs and process paperwork via paper or computerised systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
+        "45187331-307f-4775-aa71-68090692b9b9",
+        "22403dce-92c0-4260-aa13-952f3aa0655f",
+        "bcd45083-0a80-4e11-83eb-670ca94de71e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "82cb25c2-7ef2-457a-8807-710c940c5150",
+      "dutyDetail": "Support retail or contractual processes and warranty claims.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "0e3cf2b2-f8ba-4873-a3c7-dc9d9dcd56e1",
+        "d9ff0f72-a98e-4658-bdeb-2ec2f59aa6c2",
+        "8551633e-a82d-4360-9c51-7dbcc482e2d9",
+        "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
+        "25873f0f-e466-4bd5-a924-8a4272340998"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1eb414f1-24e9-4e6e-adb9-4a352711a610",
+        "571557df-1c4e-4376-ab3d-b8d418006b90",
+        "95c5f992-6fe7-433f-9c48-037b9890e1ce",
+        "c1f6ad18-f1a9-4341-a054-9bf46d9f3e82",
+        "5945792e-0b2c-415a-b665-90198c00b0c4",
+        "b99474db-9c74-4d05-8894-fc11bd02e0e0",
+        "c78009aa-70f9-4a37-b785-5fa74037753c",
+        "0e75158c-d926-4314-96dd-3f0307366cf1",
+        "6167816b-b916-4d2a-a26d-6258651a3341",
+        "6b1520ea-c596-4375-95c7-c667df08e799",
+        "2f58f9ed-d2f4-43fa-b294-2ad41c5c56cf",
+        "a262c312-518d-4044-8525-e811fa8ac082",
+        "451b6288-2fc3-46a6-8955-c5def3f91c94",
+        "c70fc161-305a-4422-84d2-83e2ecf5e4e2",
+        "2518d18c-24af-47f9-954a-f5998454f5b9",
+        "f7383730-d9c8-4cc5-b2e6-a56db4e1b4c0",
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "d4fcde80-a8d9-4b58-a8d0-34b1af22264e",
+        "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
+        "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
+        "9ad36533-e60e-4f2d-8ae0-0e2d033827e7",
+        "11220cb4-e0a7-4a17-a846-8553e77da7f8",
+        "c13f6bac-7d5e-44a1-9d23-5cb2bca88f7d",
+        "444f13d8-01ee-42ba-b3bc-10a29db86fe3",
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0cc717d7-a30e-4082-82c1-7f8ff31ad223",
+      "dutyDetail": "Maintain and adhere to the industry standards and best practice for quality control over their own work and take an active role in general workshop quality control.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2",
+        "e5599b8e-22a0-4e88-8b08-dcef15f1e1cb",
+        "5b184a3a-e28a-49be-a9d0-0ca3b1f50256",
+        "c2d0e826-670d-4f3e-ad86-59b5210ff499",
+        "1187c8e9-10bb-4cd3-99fd-0da0d7f9c85f"
+      ],
+      "mappedKnowledge": [
+        "25873f0f-e466-4bd5-a924-8a4272340998",
+        "7cb9197f-8175-491f-9354-4fea5f5c66ea",
+        "4d73e3ce-3281-453d-aa13-22c249061b5b",
+        "911f255a-1a6d-483c-8b33-541939bf2acf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a6939907-f585-4d95-a4eb-9fccbdd68d54",
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a5aa6667-c84f-47f1-ac82-ad8be2515bff",
+      "dutyDetail": "Maintain bicycle mechanic tools and equipment; and workshop tidiness.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "abb6ecd8-ca37-4cd0-a1f7-8a716c85b186",
+        "641a5e52-af89-4c89-9168-8cb13d64c54e",
+        "03ada9be-40cd-4f9d-b666-38593291e96c",
+        "9af05fc9-171d-4007-abd3-1d127b2b9fa2"
+      ],
+      "mappedKnowledge": [
+        "2aa59d85-a694-4905-8ed6-b1312e9c1328"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-07-11T00:00:00"
+}
