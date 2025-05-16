@@ -1,60 +1,815 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 722,
   "referenceNumber": "ST0860",
-  "title": "Asset management professional",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Infrastructure asset management professional",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0860",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-04-05T00:00:00",
+  "earliestStartDate": "2023-08-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Lead the asset management function within an organisation.",
   "level": 7,
-  "typicalDuration": 0,
-  "maxFunding": 0,
-  "route": "Business and administration",
-  "keywords": [],
+  "ePALength": 6,
+  "typicalDuration": 24,
+  "maxFunding": 20000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "asset",
+    "infrastucture",
+    "management",
+    "professional",
+    "development"
+  ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0860-v1-0?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.3 Business management",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;,&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of industries that manage physical assets including energy and utilities, manufacturing, petrochemical, buildings, and transport. They may be employed by asset owning companies, outsourced services companies, or asset management consultants. Companies may range in size from small to large.&lt;/p&gt;\n&lt;p&gt;Physical assets are defined as an item, thing or entity that has value to a business or service. Examples include buildings, bridges, digital hardware, flood defences, gas fiscal metering, pipelines (water/gas), plant (cranes), rail track, reservoirs, roads, retail space, runways, and wind turbines. ISO 55000 defines asset management as ‘the co-ordinated activity of an organisation to realise value from assets.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to lead the asset management function within an organisation. This involves formulation and leading the development of the asset management policy, strategy, plans, and objectives to ensure physical assets are managed in a way to achieve the organisation’s objectives, including resolving multiple competing goals and clarification of risk appetite. They ensure the necessary resources, competence, asset management information, suppliers and culture are in place to achieve this, along with audit and assurance.&lt;/p&gt;\n&lt;p&gt;Infrastructure asset management professionals lead the creation of short, medium and long term asset investment plans using optimisation and prioritisation developed through testing plans against multiple business scenarios. They oversee the asset investment business cases and define and establish the parameters for asset investment decision making, risk quantification, and mitigation plans. They will evaluate and report on performance and drive continuous improvement. A key part of the role is to lead stakeholder engagement. They will work primarily in the office.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the wider business and executives in the organisation. In order to support their work, they will liaise with external and internal stakeholders. These could include senior executives, investment groups, policy teams, capital delivery, and customer services to ensure the asset management function aligns with customer, stakeholder, and organisational requirements. They are likely to routinely come into contact with representatives from other organisations or external bodies such as clients, funding agencies, regulators, and suppliers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for ensuring asset management complies with legal frameworks and legislation, including public health, health &amp;amp; safety, economic and environmental. They need to ensure they and others keep up to date with asset management requirements and best practice. They typically work to deadlines without supervision, being self-managing. They will have established a budget. They are likely to lead teams and be responsible for organisational functions.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+      "detail": "Communication and influencing techniques and strategies, both written and oral."
+    },
+    {
+      "knowledgeId": "0880b523-be7f-4135-84e9-010056d911a6",
+      "detail": "Decision making principles and techniques used in Infrastructure asset management."
+    },
+    {
+      "knowledgeId": "64798198-68f8-4b2e-8934-1e3f97a1bccd",
+      "detail": "Learning and development strategies, including personal and professional development."
+    },
+    {
+      "knowledgeId": "b19ec406-b358-4c21-a98d-3e4f516e712e",
+      "detail": "Change management models and the link to organisational culture."
+    },
+    {
+      "knowledgeId": "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+      "detail": "How culture and organisation structure impact the delivery of required performance."
+    },
+    {
+      "knowledgeId": "037a23fe-fb01-4488-ae2e-08a745bb8a30",
+      "detail": "Asset management standards such as ISO55000, British Standard Institute (BSI), Publicly Available Specification (PAS) 55."
+    },
+    {
+      "knowledgeId": "f352ccbd-00b1-450f-952d-096597f79505",
+      "detail": "Stakeholder mapping and engagement approaches."
+    },
+    {
+      "knowledgeId": "fa832f59-b417-422c-9fd6-069a15902734",
+      "detail": "Asset life cycle activities such as acquire/create, operate, maintain, and renew/dispose."
+    },
+    {
+      "knowledgeId": "05f2854a-6dfb-43af-94c7-035d81e0619b",
+      "detail": "Sustainability development goals and impact on asset investments."
+    },
+    {
+      "knowledgeId": "eacde52b-a3b9-4410-a929-877fcd16bfa2",
+      "detail": "Principles of maintenance and reliability engineering."
+    },
+    {
+      "knowledgeId": "8e5539e7-c8bd-4c4c-9e1e-ab1868560961",
+      "detail": "Portfolio management models and approaches."
+    },
+    {
+      "knowledgeId": "49f6a14f-d777-4fb6-800f-f2ab17e7dcea",
+      "detail": "Procurement and supply chain strategies and delivery management."
+    },
+    {
+      "knowledgeId": "cb439ae0-2214-40ab-b64f-ce9b1be92d24",
+      "detail": "The use of horizon scanning techniques in the infrastructure asset management environment."
+    },
+    {
+      "knowledgeId": "ba9ffca5-c3b8-43c4-971d-397e02cb7920",
+      "detail": "Performance monitoring of asset life cycle activities."
+    },
+    {
+      "knowledgeId": "371a32be-ef95-489d-a078-ced0255d1d10",
+      "detail": "Techniques to critically analyse asset management non-conformities such as causes and effects; Failure Mode Event/Effects Critically Analysis (FMEA/FMECA), and Root cause analysis."
+    },
+    {
+      "knowledgeId": "499b2077-0451-4bdf-9994-92a4ed004f64",
+      "detail": "The application of contingency plans in the infrastructure asset management environment."
+    },
+    {
+      "knowledgeId": "1287544e-78cc-47ce-8eba-f1acb575accc",
+      "detail": "Risk management and its application to infrastructure asset management: risk assessment, quantification, mitigation, and impact."
+    },
+    {
+      "knowledgeId": "8b935bc2-3b6f-4460-8d09-f5cf48c1be9b",
+      "detail": "The application of system engineering and infrastructure models, tools, and frameworks e.g., Defra 4R’s approach to resilience."
+    },
+    {
+      "knowledgeId": "0ed501ff-74d6-4c9d-837f-063be1e16804",
+      "detail": "The importance of prioritisation and multi criteria optimisation techniques and tools (prescriptive analytics)."
+    },
+    {
+      "knowledgeId": "ba26088b-0fdb-4ec2-9a20-c058309050d8",
+      "detail": "The application of decision-making frameworks."
+    },
+    {
+      "knowledgeId": "09b03974-4706-4d53-b6d7-fb2ddb5dec3a",
+      "detail": "Application of uncertainty analysis on outcomes and outputs."
+    },
+    {
+      "knowledgeId": "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
+      "detail": "Understanding of balance sheets, profit and loss, and the difference between companies."
+    },
+    {
+      "knowledgeId": "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+      "detail": "Asset and project costing and valuation techniques; cost estimation (maintenance, operation, renewal, disposal), depreciation, whole life costing, and social, environmental, safety and reputational cost."
+    },
+    {
+      "knowledgeId": "f8072e3b-9eff-4480-a811-21692f3b48d1",
+      "detail": "The requirements for an integrated infrastructure asset and investment management enterprise-wide approach and the high-level user case."
+    },
+    {
+      "knowledgeId": "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+      "detail": "Information technology systems and processes such as asset registers, work management systems, word processing, spreadsheets, email, presentation."
+    },
+    {
+      "knowledgeId": "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08",
+      "detail": "Critical data analysis and interpretation techniques; and data presentation techniques (charts, diagrams, and tables)."
+    },
+    {
+      "knowledgeId": "cbf570a8-e4ca-4f34-bf45-931c12efd936",
+      "detail": "Range of asset and investment management tools. "
+    },
+    {
+      "knowledgeId": "bc873159-e1d2-4ef6-bf2a-d3b6e1d743ed",
+      "detail": "The sources and types of funding for infrastructure asset management activities."
+    },
+    {
+      "knowledgeId": "a9a38851-de86-47ab-9ec9-6986747538ef",
+      "detail": "Problem solving techniques and their application. "
+    },
+    {
+      "knowledgeId": "1d8f96ad-c2ad-457c-846d-3c7ab0186c70",
+      "detail": "Regulatory, legislative and policy/standards requirements such as data protection, cyber security, Environmental emissions limits, Pressure Systems Safety Regulations (PSSR), Construction, Design and Management Regulations (CDM), and Control of Major Accident Hazards (COMAH)."
+    },
+    {
+      "knowledgeId": "6d9b2cdc-e98a-49b5-82f9-96cfef3e5ce9",
+      "detail": "Principles of policy and strategic development in Infrastructure asset management."
+    },
+    {
+      "knowledgeId": "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
+      "detail": "The different stages of projects including the principles of planning, scheduling, and sequencing."
+    },
+    {
+      "knowledgeId": "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c",
+      "detail": "The ways of managing, influencing, and controlling outcomes through the application of project management techniques."
+    },
+    {
+      "knowledgeId": "591ece5d-2f3b-4d62-a552-b23c31351f29",
+      "detail": "Different, inclusive leadership styles and models, how to develop diverse teams and support people using coaching and mentoring."
+    },
+    {
+      "knowledgeId": "5d8ef1f9-b75c-4717-b15c-94985ab073f5",
+      "detail": "Commissioning and facilitating research and development activities.  "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "79b36028-6160-446d-806f-5d0fdc0ac5a5",
+      "detail": "Takes accountability and ownership of their tasks and workload."
+    },
+    {
+      "behaviourId": "d6e00865-989f-413c-b014-8e36e25b0224",
+      "detail": "Role models collaborative and inclusive working across organisational and cultural boundaries, driving diversity."
+    },
+    {
+      "behaviourId": "8ff3dc3e-c931-4e6f-b2a3-df82dc46f4c4",
+      "detail": "Seeks continuous professional development opportunities for self and wider team."
+    },
+    {
+      "behaviourId": "a20858f5-804a-422f-a4a8-c5c6b9839447",
+      "detail": "Acts in a professional manner with integrity and confidentiality."
+    },
+    {
+      "behaviourId": "6193dbcb-54a1-443b-8ed2-1fe42a821332",
+      "detail": "Champions infrastructure asset management and influences its development."
+    },
+    {
+      "behaviourId": "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b",
+      "detail": "Committed to compliance with legislation, asset management standards and company policies."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "165bd6b8-0640-45f7-8fb5-d18262ebe1c0",
+      "detail": "Apply a consistent approach to asset risk management, risk assessed inspection, and maintenance programmes."
+    },
+    {
+      "skillId": "8aabfa2e-7960-405b-b977-ce4ce88b844e",
+      "detail": "Use quantitative methods in the research, critical analysis and interpretation of complex data."
+    },
+    {
+      "skillId": "c0318860-a4da-44ad-98d9-954566dbf892",
+      "detail": "Adapt communication technique when communicating with others."
+    },
+    {
+      "skillId": "ee4d97fc-8ba0-4be8-82d8-f829b77982b8",
+      "detail": "Specify and influence data and information requirements."
+    },
+    {
+      "skillId": "e452de56-a665-454e-a3d0-2d44e2004492",
+      "detail": "Use decision making principles and techniques in the infrastructure asset management environment."
+    },
+    {
+      "skillId": "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
+      "detail": "Optimise and prioritise projects and programmes in a portfolio of work in the infrastructure asset management environment."
+    },
+    {
+      "skillId": "ee39df0e-8774-4a0a-beeb-902e7c3100a0",
+      "detail": "Lead and manage the optimum delivery of life cycle activities and resources."
+    },
+    {
+      "skillId": "ea662a68-6844-404f-a17b-d4cb4d7ebb54",
+      "detail": "Apply systems engineering models, tools, and frameworks within the infrastructure asset management environment."
+    },
+    {
+      "skillId": "bfd0554c-2ccf-4825-b93a-402dfecf7c4b",
+      "detail": "Develop and evaluate options within a decision-making framework."
+    },
+    {
+      "skillId": "e2a56265-dabe-4bfa-9b87-34bd548b82d8",
+      "detail": "Monitor and report on the performance of asset and infrastructure asset management."
+    },
+    {
+      "skillId": "d0bfbfbb-5803-41e9-b303-e3dff3d8bc57",
+      "detail": "Procure, build, and manage relationships with the supply chain."
+    },
+    {
+      "skillId": "5bdbec71-cc64-4b93-becf-976771172e33",
+      "detail": "Lead, commission, and facilitate research and development activities, innovation, change and organisational development. "
+    },
+    {
+      "skillId": "f596d4c3-d1a5-402c-83b4-a74848c0b578",
+      "detail": "Apply leadership skills."
+    },
+    {
+      "skillId": "d53351a9-b932-45f5-840b-d6feb2b71aae",
+      "detail": "Develop and promote proposals and business cases."
+    },
+    {
+      "skillId": "665ae972-90cb-416d-8b20-7ec998073832",
+      "detail": "Identify and manage stakeholder needs and expectations."
+    },
+    {
+      "skillId": "d99c119c-fa8f-454d-9334-afab710e6079",
+      "detail": "Identify learning requirements and improvement opportunities for self and others."
+    },
+    {
+      "skillId": "0f84966b-1118-4b2a-9cf1-24ac3b776d60",
+      "detail": "Lead and encourage collaboration across the asset management life cycle stages."
+    },
+    {
+      "skillId": "35042238-bd84-45db-9bbe-374dbca7331d",
+      "detail": "Implement and create infrastructure asset management strategies and plans. "
+    },
+    {
+      "skillId": "08ec97fc-0c35-4e22-8b84-699b5b15ac6b",
+      "detail": "Challenge and provide feedback: colleagues and stakeholders."
+    },
+    {
+      "skillId": "2ad05c91-1133-4240-a3f3-381d46d0a49d",
+      "detail": "Use horizon scanning techniques in the asset management environment."
+    },
+    {
+      "skillId": "be5065ea-843e-4e6c-9f2b-79e9afa4fa64",
+      "detail": "Manage team resources to deliver the infrastructure asset management resource strategy."
+    },
+    {
+      "skillId": "7fcd6a8d-227e-48b9-a230-a315b9278e3b",
+      "detail": "Create long term investment plans aligned with organisational objectives."
+    },
+    {
+      "skillId": "04c7539c-18b4-4db7-9fbd-31aa9e875f44",
+      "detail": "Create, implement, and monitor Infrastructure asset management policy and strategic plans."
+    },
+    {
+      "skillId": "674a7cbd-e0ea-4099-a64b-3d35369ce286",
+      "detail": "Manage the balance between quality, costs, and time. "
+    },
+    {
+      "skillId": "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+      "detail": "Apply contingency planning in Infrastructure asset management plans."
+    },
+    {
+      "skillId": "a6e64b53-cf9a-4760-9481-356bdb3ec3a9",
+      "detail": "Demonstrate fiscal rigour in Infrastructure asset management plans."
+    },
+    {
+      "skillId": "cb206ccf-b1b6-4744-8a87-d73e7f0bf8c6",
+      "detail": "Use project management and planning techniques. Monitor progress towards project goals and identify corrective actions."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-08-29T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "",
+  "integration": null,
+  "integratedDegree": "non-degree qualification",
   "tbReference": "TB0464",
-  "tbMainContact": "cRoyce@anglianwater.co.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
+  "involvedEmployers": "AMCL, Anglian Water, Arups, BMT Consulting, Cadent Gas, Environment Agency, Jacobs, Manchester Airports Group (MAG), Mott Mac Donald, National Grid, Network Rail, Northern Gas Networks, NWG (Northumbrian Water), RWE Generation UK plc, Severn Trent, The Woodhouse Partnership, UK Power Networks\r\n",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-02-19T09:18:55 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/asset-management-professional#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/asset-management-professional",
+  "greenJobTitles": [
+    "Asset management consultant",
+    "Asset manager",
+    "Director of asset management",
+    "Head of asset management",
+    "Head of asset planning"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Quality improvement, health and safety professional",
+  "clusterId": "257",
+  "clusterDescription": null,
+  "createdDate": "2023-09-28T10:40:07 +00:00",
+  "lastUpdated": "2024-04-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0860",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0860-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0860-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Asset Management",
+      "level": "Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "274cbb74-c9f7-4543-83ac-4b58083fe8e2",
+      "dutyDetail": "Formulate and lead the development of organisation asset management policy, strategy, plans, and objectives including resolving of multiple competing organisational goals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6193dbcb-54a1-443b-8ed2-1fe42a821332",
+        "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "1287544e-78cc-47ce-8eba-f1acb575accc",
+        "ba26088b-0fdb-4ec2-9a20-c058309050d8",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "1d8f96ad-c2ad-457c-846d-3c7ab0186c70",
+        "6d9b2cdc-e98a-49b5-82f9-96cfef3e5ce9",
+        "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35042238-bd84-45db-9bbe-374dbca7331d",
+        "04c7539c-18b4-4db7-9fbd-31aa9e875f44",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5934278c-3f23-422b-b58d-6f5b6538f958",
+      "dutyDetail": "Manage the implementation of organisation asset management policy, strategy, plans, objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6193dbcb-54a1-443b-8ed2-1fe42a821332",
+        "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "037a23fe-fb01-4488-ae2e-08a745bb8a30",
+        "8e5539e7-c8bd-4c4c-9e1e-ab1868560961",
+        "ba26088b-0fdb-4ec2-9a20-c058309050d8",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "bc873159-e1d2-4ef6-bf2a-d3b6e1d743ed",
+        "1d8f96ad-c2ad-457c-846d-3c7ab0186c70",
+        "6d9b2cdc-e98a-49b5-82f9-96cfef3e5ce9",
+        "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "165bd6b8-0640-45f7-8fb5-d18262ebe1c0",
+        "35042238-bd84-45db-9bbe-374dbca7331d",
+        "04c7539c-18b4-4db7-9fbd-31aa9e875f44",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "37b07cb5-70d2-4c81-babe-d5c8e536c8a3",
+      "dutyDetail": "Formulate the asset management resource strategy, including the development of capabilities (resources, competencies, logistics etc.) and supply chain dependencies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6193dbcb-54a1-443b-8ed2-1fe42a821332",
+        "132a9e0e-61b4-4a4f-a155-3f4da6ecc82b"
+      ],
+      "mappedKnowledge": [
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "64798198-68f8-4b2e-8934-1e3f97a1bccd",
+        "05f2854a-6dfb-43af-94c7-035d81e0619b",
+        "ba26088b-0fdb-4ec2-9a20-c058309050d8",
+        "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "bc873159-e1d2-4ef6-bf2a-d3b6e1d743ed",
+        "a9a38851-de86-47ab-9ec9-6986747538ef",
+        "591ece5d-2f3b-4d62-a552-b23c31351f29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ea662a68-6844-404f-a17b-d4cb4d7ebb54",
+        "e2a56265-dabe-4bfa-9b87-34bd548b82d8",
+        "be5065ea-843e-4e6c-9f2b-79e9afa4fa64"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dd8b125b-96b4-449d-bd37-a3499a3a4be1",
+      "dutyDetail": "Create and implement asset data and information strategy and standards to ensure consistency and/or effectiveness of asset management information across asset portfolio and its life-cycles.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "6193dbcb-54a1-443b-8ed2-1fe42a821332"
+      ],
+      "mappedKnowledge": [
+        "05f2854a-6dfb-43af-94c7-035d81e0619b",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26f41136-51ec-491b-8d82-79051c7089dd",
+      "dutyDetail": "Create and implement plans to ensure effective, ethical, and sustainable lifecycle plans, from demand identification, through creation, and operation and maintenance, to disposal, of the assets and systems of assets with the overall asset portfolio.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "b19ec406-b358-4c21-a98d-3e4f516e712e",
+        "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+        "fa832f59-b417-422c-9fd6-069a15902734",
+        "cb439ae0-2214-40ab-b64f-ce9b1be92d24",
+        "ba9ffca5-c3b8-43c4-971d-397e02cb7920",
+        "371a32be-ef95-489d-a078-ced0255d1d10",
+        "499b2077-0451-4bdf-9994-92a4ed004f64",
+        "ba26088b-0fdb-4ec2-9a20-c058309050d8",
+        "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "165bd6b8-0640-45f7-8fb5-d18262ebe1c0",
+        "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
+        "ee39df0e-8774-4a0a-beeb-902e7c3100a0",
+        "e2a56265-dabe-4bfa-9b87-34bd548b82d8",
+        "0f84966b-1118-4b2a-9cf1-24ac3b776d60",
+        "2ad05c91-1133-4240-a3f3-381d46d0a49d",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "586b32e9-6cf1-4b1b-bd85-362c485f21ae",
+      "dutyDetail": "Define, establish, implement, and review frameworks for risk quantification and proactive asset decision making balancing performance, risk, and cost across the asset life cycle with risk appetite and tolerance boundaries.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "b19ec406-b358-4c21-a98d-3e4f516e712e",
+        "037a23fe-fb01-4488-ae2e-08a745bb8a30",
+        "371a32be-ef95-489d-a078-ced0255d1d10",
+        "1287544e-78cc-47ce-8eba-f1acb575accc",
+        "8b935bc2-3b6f-4460-8d09-f5cf48c1be9b",
+        "0ed501ff-74d6-4c9d-837f-063be1e16804",
+        "ba26088b-0fdb-4ec2-9a20-c058309050d8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e452de56-a665-454e-a3d0-2d44e2004492",
+        "674a7cbd-e0ea-4099-a64b-3d35369ce286"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bf7cd7fb-cc05-4922-b03b-03f3464e0e0b",
+      "dutyDetail": "Set and manage strategic mitigation plans to ensure long term resilience of asset systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "b19ec406-b358-4c21-a98d-3e4f516e712e",
+        "fa832f59-b417-422c-9fd6-069a15902734",
+        "ba9ffca5-c3b8-43c4-971d-397e02cb7920",
+        "1287544e-78cc-47ce-8eba-f1acb575accc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ee39df0e-8774-4a0a-beeb-902e7c3100a0",
+        "ea662a68-6844-404f-a17b-d4cb4d7ebb54"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "114f4a1e-fe46-4065-9df9-75f9216f6efe",
+      "dutyDetail": "Lead and support a culture of collaboration between stakeholders and across disciplines to achieve asset management objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79b36028-6160-446d-806f-5d0fdc0ac5a5",
+        "d6e00865-989f-413c-b014-8e36e25b0224",
+        "a20858f5-804a-422f-a4a8-c5c6b9839447"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "64798198-68f8-4b2e-8934-1e3f97a1bccd",
+        "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+        "f352ccbd-00b1-450f-952d-096597f79505",
+        "591ece5d-2f3b-4d62-a552-b23c31351f29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0318860-a4da-44ad-98d9-954566dbf892",
+        "f596d4c3-d1a5-402c-83b4-a74848c0b578",
+        "665ae972-90cb-416d-8b20-7ec998073832"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "14e78405-615d-4fda-8cec-dbfc259b3b11",
+      "dutyDetail": "Initiate the audit and assurance of the asset management activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79b36028-6160-446d-806f-5d0fdc0ac5a5"
+      ],
+      "mappedKnowledge": [
+        "037a23fe-fb01-4488-ae2e-08a745bb8a30",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f543b9fd-5de7-4b59-a848-6e697b447174",
+      "dutyDetail": "Evaluate and report on the effectiveness of the asset management activity and drive continuous improvement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8ff3dc3e-c931-4e6f-b2a3-df82dc46f4c4"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "64798198-68f8-4b2e-8934-1e3f97a1bccd",
+        "b19ec406-b358-4c21-a98d-3e4f516e712e",
+        "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+        "037a23fe-fb01-4488-ae2e-08a745bb8a30",
+        "ba9ffca5-c3b8-43c4-971d-397e02cb7920",
+        "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "a9a38851-de86-47ab-9ec9-6986747538ef",
+        "591ece5d-2f3b-4d62-a552-b23c31351f29",
+        "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bfd0554c-2ccf-4825-b93a-402dfecf7c4b",
+        "5bdbec71-cc64-4b93-becf-976771172e33",
+        "d99c119c-fa8f-454d-9334-afab710e6079",
+        "08ec97fc-0c35-4e22-8b84-699b5b15ac6b",
+        "674a7cbd-e0ea-4099-a64b-3d35369ce286"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2b153c3-1a0b-4e72-a8fd-bb5ad7db951f",
+      "dutyDetail": "Report on asset and/or service performance, delivery of asset management plans, emerging risks to external or internal stakeholders for example regulators, investors, and shareholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0ed501ff-74d6-4c9d-837f-063be1e16804",
+        "09b03974-4706-4d53-b6d7-fb2ddb5dec3a",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68",
+        "cbf570a8-e4ca-4f34-bf45-931c12efd936"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9",
+        "cb206ccf-b1b6-4744-8a87-d73e7f0bf8c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fef0d410-8c24-4222-8f3e-4ac2658bb126",
+      "dutyDetail": "Lead the creation of long-term investment plans using appropriate optimisation and prioritisation methods taking into account complexity and business significance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79b36028-6160-446d-806f-5d0fdc0ac5a5"
+      ],
+      "mappedKnowledge": [
+        "cb439ae0-2214-40ab-b64f-ce9b1be92d24",
+        "09b03974-4706-4d53-b6d7-fb2ddb5dec3a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
+        "2ad05c91-1133-4240-a3f3-381d46d0a49d",
+        "7fcd6a8d-227e-48b9-a230-a315b9278e3b",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fad1c36e-8eae-4bbd-be5b-df74248ab329",
+      "dutyDetail": "Assure the delivery of programmes and portfolios of work to meet the objectives of the asset management strategy and plans.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+        "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+        "f8072e3b-9eff-4480-a811-21692f3b48d1",
+        "cbf570a8-e4ca-4f34-bf45-931c12efd936",
+        "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
+        "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "edd28313-6bae-4b04-b0d9-0e42683c9600",
+      "dutyDetail": "Oversight and acceptance of asset investment business cases across the asset portfolio, in line with organisational decision framework and governance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
+        "1736ac2d-630c-433c-bc6d-6ef2be30a1be",
+        "f8072e3b-9eff-4480-a811-21692f3b48d1",
+        "3446f66a-5b1a-4561-86b2-68c260d3ed68"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d53351a9-b932-45f5-840b-d6feb2b71aae",
+        "7fcd6a8d-227e-48b9-a230-a315b9278e3b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ecaa4843-9f3a-45d1-a0e5-72c7db2308d7",
+      "dutyDetail": "Develop robust proposals for clients and internal stakeholders for the development and delivery of management of the portfolios of assets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d6e00865-989f-413c-b014-8e36e25b0224"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "f352ccbd-00b1-450f-952d-096597f79505",
+        "eacde52b-a3b9-4410-a929-877fcd16bfa2",
+        "499b2077-0451-4bdf-9994-92a4ed004f64",
+        "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
+        "1d8f96ad-c2ad-457c-846d-3c7ab0186c70",
+        "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
+        "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0318860-a4da-44ad-98d9-954566dbf892",
+        "8f2a7d43-7c3a-4a34-8d4f-427d74ede9fc",
+        "d53351a9-b932-45f5-840b-d6feb2b71aae",
+        "665ae972-90cb-416d-8b20-7ec998073832"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fdeb86d0-3767-4176-bd5f-aace68eb1b4b",
+      "dutyDetail": "Procure and manage projects, products, and services from external suppliers, setting of objectives for suppliers and performance measurement of suppliers in line with organisations asset management approach. Use Through Life Service providers to support the process for specific asset groups.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79b36028-6160-446d-806f-5d0fdc0ac5a5",
+        "d6e00865-989f-413c-b014-8e36e25b0224",
+        "a20858f5-804a-422f-a4a8-c5c6b9839447"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "f352ccbd-00b1-450f-952d-096597f79505",
+        "49f6a14f-d777-4fb6-800f-f2ab17e7dcea",
+        "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
+        "f8072e3b-9eff-4480-a811-21692f3b48d1",
+        "bc873159-e1d2-4ef6-bf2a-d3b6e1d743ed",
+        "1d8f96ad-c2ad-457c-846d-3c7ab0186c70",
+        "5bfa244e-4f58-4957-bfb4-cd4d510b9122",
+        "d6d360ac-9d97-4447-abe5-9ad5f9dcfa9c",
+        "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0318860-a4da-44ad-98d9-954566dbf892",
+        "ee4d97fc-8ba0-4be8-82d8-f829b77982b8",
+        "d0bfbfbb-5803-41e9-b303-e3dff3d8bc57",
+        "f596d4c3-d1a5-402c-83b4-a74848c0b578",
+        "665ae972-90cb-416d-8b20-7ec998073832",
+        "dee7ee29-057a-4c6f-9cf3-b515b505d003",
+        "a6e64b53-cf9a-4760-9481-356bdb3ec3a9",
+        "cb206ccf-b1b6-4744-8a87-d73e7f0bf8c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8f1b98af-ec8a-4b0b-a7ad-3c99065a5f92",
+      "dutyDetail": "Engage and manage customers and stakeholder (clients, shareholders, regulators and/or investors) relationships across diverse organisational contexts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d6e00865-989f-413c-b014-8e36e25b0224"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "f352ccbd-00b1-450f-952d-096597f79505",
+        "49f6a14f-d777-4fb6-800f-f2ab17e7dcea"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c0318860-a4da-44ad-98d9-954566dbf892",
+        "d0bfbfbb-5803-41e9-b303-e3dff3d8bc57",
+        "665ae972-90cb-416d-8b20-7ec998073832",
+        "0f84966b-1118-4b2a-9cf1-24ac3b776d60"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c2524b3a-accc-48f9-a8a5-a6083c4a8da2",
+      "dutyDetail": "Lead on research, development, and innovation activities within the business to enable the achievement of asset management objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "79b36028-6160-446d-806f-5d0fdc0ac5a5"
+      ],
+      "mappedKnowledge": [
+        "c55e3f91-cf76-46ff-a8bf-5947749be65f",
+        "0880b523-be7f-4135-84e9-010056d911a6",
+        "64798198-68f8-4b2e-8934-1e3f97a1bccd",
+        "77f1d65b-cd4d-4ca8-82ae-adb9c71dddbf",
+        "cb439ae0-2214-40ab-b64f-ce9b1be92d24",
+        "d9c9ce9c-1050-4880-a42b-fdd5d45fe1bc",
+        "71cad93a-fb04-4d4d-8a5e-70fb25e5cb08",
+        "5d8ef1f9-b75c-4717-b15c-94985ab073f5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8aabfa2e-7960-405b-b977-ce4ce88b844e",
+        "ee4d97fc-8ba0-4be8-82d8-f829b77982b8",
+        "ea662a68-6844-404f-a17b-d4cb4d7ebb54",
+        "5bdbec71-cc64-4b93-becf-976771172e33",
+        "f596d4c3-d1a5-402c-83b4-a74848c0b578",
+        "2ad05c91-1133-4240-a3f3-381d46d0a49d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-04-05T00:00:00"
 }
