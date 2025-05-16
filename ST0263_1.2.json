@@ -1,0 +1,967 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 240,
+  "referenceNumber": "ST0263",
+  "learningAimClassCode": "",
+  "title": "Craft carpentry and joinery",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0263",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "Standard, end-point assessment plan and funding band revised",
+  "changedDate": "2025-01-13T00:00:00",
+  "earliestStartDate": "2023-08-19T00:00:00",
+  "latestStartDate": "2025-01-12T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Working with building materials (most often wood) to create and install building components.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 15,
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "Joinery",
+    "Architectural joiner",
+    "SIte carpenter",
+    "Carpentry",
+    "Building"
+  ],
+  "jobRoles": [
+    "Advanced architectural joiner",
+    "Advanced site carpenter"
+  ],
+  "entryRequirements": "&lt;p&gt;It is expected that anyone starting this apprenticeship will have already achieved the corresponding Level 2 apprenticeship standard in Carpentry and Joinery.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0263-v1-2?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;This occupation is found in both the new build and refurbishment construction sector. The construction industry is central to creating the homes, schools, hospitals, energy and transport infrastructure society needs.&amp;nbsp;There is growing demand for carpenters and joiners to help meet the need for the transition to modern methods of construction, heritage projects and sustainability. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;The broad purpose of the occupation is working with wood-based materials and associated products to create and install complex building components.&amp;nbsp;This typically involves shaping and cutting materials, installing finished materials like complex or decorative components. All work needs to be carried out safely, using the appropriate tools and to the quality specified.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;This occupation includes two different options and people will either work on a construction site as an Advanced Site Carpenter or in a workshop as an Advanced Architectural Joiner.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Advanced Site Carpenters work on building sites in the construction of domestic and commercial properties, preparing and installing complex and bespoke building components. They prepare, construct and erect irregular and complex roof structures.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Advanced Architectural Joiners are employed in a workshop creating complex building components by setting out, marking out and create assembled products requiring advanced skilled work including the full range of woodworking machines. There will often be a need for refurbishment or repair work of bespoke pieces. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;In their daily work, an employee in this occupation liaises with other construction roles such as bricklayers, plasterers and plumbers, supervisors, site management, architects, designers, contractors and customers. &lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;An employee in this occupation will be responsible for working in a team, lead others, using machinery and tools to create, refurbish or repair structures or components. Having attained this level of competence, they could progress further in the industry as team leaders, trade forepersons, contract or works managers.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+      "detail": "Awareness of health, safety and welfare regulations, standards, and guidance and impact on role of the team and other construction trades . Employer and employee responsibilities. Control of Substances Hazardous to Health (CoSHH). Fire safety and Fire door legislation. Health and Safety at Work Act. Asbestos awareness. Manual handling. Signage and notices. Fire extinguishers. Situational awareness. Slips, trips, and falls. Working in confined spaces. Working at height. Electrical safety. Reporting injuries, diseases and dangerous occurrences regulations (RIDDOR), Provision and use of work equipment regulations (PUWER) & near miss reporting."
+    },
+    {
+      "knowledgeId": "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+      "detail": "Types incidents - accidents, near misses. Mitigation methods. Incident management techniques."
+    },
+    {
+      "knowledgeId": "ea6fead8-42d0-4cb6-b127-1fc4754fc377",
+      "detail": "Safe systems of work, control measure implementation and monitoring techniques."
+    },
+    {
+      "knowledgeId": "e1ba74bc-a774-484d-aea5-5178acc725e3",
+      "detail": "Safety Control equipment and safety techniques: Personal protective equipment (PPE), respiratory protective equipment (RPE) and local exhaust ventilation (LEV)."
+    },
+    {
+      "knowledgeId": "5218d751-677c-4782-879d-339be46fe87e",
+      "detail": "Environmental management systems and standards. Environmental Protection Act, types of pollution and control measures: water, noise, air pollution, smells, spills, waste and disposal of hazardous waste."
+    },
+    {
+      "knowledgeId": "06ce0792-c7a7-4b02-8280-7b561ed2385c",
+      "detail": "The principles of building construction: Fire safety, fire doors and linings, fire stopping, water ingress. Staircases, security requirements for external doors and windows. Vapour barriers, breathable membranes and sound proofing."
+    },
+    {
+      "knowledgeId": "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+      "detail": "Methods of interpreting information from drawings, specifications, the production plan and producing work instructions, utilising traditional and digital methods."
+    },
+    {
+      "knowledgeId": "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
+      "detail": "Resource quantity calculation techniques, costing, wastage and recycling allowance."
+    },
+    {
+      "knowledgeId": "d5e79385-f45d-49df-92da-48e43d53bd47",
+      "detail": "The importance and considerations of the environment: U values, R Values, thermal bridging, airtightness, acoustic performance and thermal performance requirements of carpentry and joinery components."
+    },
+    {
+      "knowledgeId": "c136c5c7-9607-404c-aad1-d3fa14574b69",
+      "detail": "Standards and regulations associated with carpentry and joinery: British standards, building regulations, warranty provider standards."
+    },
+    {
+      "knowledgeId": "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+      "detail": "Written communication techniques. Plain English principles."
+    },
+    {
+      "knowledgeId": "db69853d-ec3c-4720-a765-8db64efc06b2",
+      "detail": "Documentation methods and requirements - digital and paper based."
+    },
+    {
+      "knowledgeId": "65f7d8db-dd4e-488a-be51-23fafb9aafad",
+      "detail": "Different energy efficiencies of insulation products and common construction methods sustainable principles associated with timber, manufactured timber-based products and associated materials."
+    },
+    {
+      "knowledgeId": "95ba04f1-d4dc-4d82-b590-15c7cc0cd92a",
+      "detail": "Purpose and use of digital design and modelling systems in carpentry and joinery."
+    },
+    {
+      "knowledgeId": "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20",
+      "detail": "The principles of heritage building, considerations, like for like replacement and other techniques applicable to the carpenter and joiner."
+    },
+    {
+      "knowledgeId": "2a8e11bb-27eb-4e08-ae71-343ce37abd5c",
+      "detail": "Planning, work scheduling, and time management techniques for self and others."
+    },
+    {
+      "knowledgeId": "3cd7770f-901d-4e04-a159-253f293c72af",
+      "detail": "Quality assurance requirements and monitoring techniques."
+    },
+    {
+      "knowledgeId": "c21fda31-8985-4afb-952d-af5bbedf2d6f",
+      "detail": "Stock, material stock and considerations: Availability, stock lead times. Correct handling to prevent damage. Stock value. Faulty stock and returns process, stock rotation and quality control."
+    },
+    {
+      "knowledgeId": "976d5e27-34c8-45b8-9c44-2f234e01c966",
+      "detail": "Well-being: Mental and physical health considerations in self and others and how to access support."
+    },
+    {
+      "knowledgeId": "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
+      "detail": "Inclusion, equity and diversity in the workplace."
+    },
+    {
+      "knowledgeId": "3f151d0c-fcfe-4230-9161-22f7be1df20f",
+      "detail": "Hand and portable power tools for non-standard and angled carpentry and joinery work."
+    },
+    {
+      "knowledgeId": "41c29e39-c0b8-4a11-b119-8a071a332b94",
+      "detail": "CSC: Complex first fixing techniques: 1. fire door linings, 2. floor coverings with non-standard angle returns and 3. structural partitions. "
+    },
+    {
+      "knowledgeId": "7d245d44-299f-40d5-ac2e-af49d415a706",
+      "detail": "CSC: Complex second fixing techniques: 1. bespoke wall and floor units (commissioned order with features or like for like replacement), 2. worktops with masons mitre, 3. cornices and fitments, 4. spindles and handrails to stairs with turns, 5. hang fire doors. 6. service encasements with access panels."
+    },
+    {
+      "knowledgeId": "e291990b-301f-45ba-8b10-74a7661c95f4",
+      "detail": "CSC: Complex first fixing techniques carpentry techniques: Stud partitions with standard and non standard (non-90 degree) turns."
+    },
+    {
+      "knowledgeId": "74d554c8-9e4f-4ab7-b90f-8fe4016173a1",
+      "detail": "CSC: Complex second fixing techniques carpentry techniques: Double side hung doors with linings and associated ironmongery. Non-standard mouldings."
+    },
+    {
+      "knowledgeId": "14ffba67-01a8-4654-a0d0-dc56b26a381e",
+      "detail": "CSC: Complex roofing techniques: Form dormer windows to roofs and how to construct traditional cut roofs and prefabricated (trusses) with hips and valleys."
+    },
+    {
+      "knowledgeId": "e345e0a5-5b4f-487f-b86c-0387880ab750",
+      "detail": "CSC:  Carpentry maintenance and repair techniques: External doors and frames, structural timbers, sash window cords, timber guttering and fixings, window frames and glazing."
+    },
+    {
+      "knowledgeId": "9fb54847-3fb6-4db6-82f3-17c08d30d4f9",
+      "detail": "CSC: Non-standard (non – 90 degree) joint forming techniques."
+    },
+    {
+      "knowledgeId": "34ee481e-9dcc-416e-9f51-d9672dd2433e",
+      "detail": "CAJ: Computer numerically controlled (CNC) machinery: Setting up and operating method and techniques."
+    },
+    {
+      "knowledgeId": "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
+      "detail": "CAJ: Manufacture and assembly techniques for bespoke windows with shaped joints, curves and non standard (non – 90 degree) window bars. "
+    },
+    {
+      "knowledgeId": "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+      "detail": "CAJ: Manufacture and assembly techniques for complex timber second fix products: 1. fire doors 2. shaped, non-standard doors 3. bespoke wall and floor units (commissioned order with features or like for like replacement)."
+    },
+    {
+      "knowledgeId": "24bab70e-27d2-455c-80f8-b7cc39fc2717",
+      "detail": "CAJ: Manufacture and assembly techniques for complex timber first fix products: 1. staircases with turns 2. fire door linings, 3. bespoke windows with non standard (non-90 degree) angles, 4. shaped non standard door linings."
+    },
+    {
+      "knowledgeId": "5797de7b-6a65-4d51-b501-d00190f9881d",
+      "detail": "CAJ: Techniques to create shaped work using specialist jigs and fixed machinery. "
+    },
+    {
+      "knowledgeId": "f06b164d-92e7-4a84-adc4-bebcd85a145e",
+      "detail": "CAJ: Techniques for forming shaped woodworking joints."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+      "detail": "Take personal responsibility for their own health and safety."
+    },
+    {
+      "behaviourId": "d42f5d36-aa75-4bfd-b526-2320ff7362fe",
+      "detail": "Support an inclusive culture."
+    },
+    {
+      "behaviourId": "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+      "detail": "Take responsibility for the quality of work and encourage others to work to high standards."
+    },
+    {
+      "behaviourId": "c3f478f4-162a-4d7a-ae6a-28a6d7be14b1",
+      "detail": "Collaborate and promote teamwork across disciplines and external stakeholders."
+    },
+    {
+      "behaviourId": "d5548404-f151-4c23-9c61-fac77c6e3fde",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "behaviourId": "c6d14d6e-9ad2-45ce-9167-36f05aa9c48d",
+      "detail": "Promotes health, safety, environment and sustainability principles to others."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+      "detail": "Comply with health and safety regulations, standards, and guidance."
+    },
+    {
+      "skillId": "fad563e3-7fb2-4667-bdeb-af727da93112",
+      "detail": "Identify and use safety control equipment including RPE, dust suppression, PPE and LEV."
+    },
+    {
+      "skillId": "6224d884-579e-4eed-be15-140db8b3be53",
+      "detail": "Implement and monitor safe systems of work and control measures."
+    },
+    {
+      "skillId": "03f1c606-4447-4565-b111-214bc4f51caa",
+      "detail": "Interpret and extract information using paper based or digital techniques from drawings, specifications and provide work instructions."
+    },
+    {
+      "skillId": "fa329393-d489-49d6-b72b-042f80154b92",
+      "detail": "Calculate resource and cost quantities from site measurements."
+    },
+    {
+      "skillId": "df945fd9-8981-42b8-9a9f-2d974ecf86e1",
+      "detail": "Apply environmental and sustainable principles in compliance with regulations, standards and systems for example segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "a9cdcf32-9c7f-4647-ac96-6056e038788c",
+      "detail": "Apply planning, work scheduling and time management techniques to identify and agree production plan targets."
+    },
+    {
+      "skillId": "a8954e35-0dd4-426d-9c4f-6d1591612268",
+      "detail": "Apply quality assurance procedures."
+    },
+    {
+      "skillId": "a45e50d4-49e2-4c5b-a789-4ac86e407cd5",
+      "detail": "Select, check and use hand and power tools. "
+    },
+    {
+      "skillId": "fd9cda07-feef-4c09-83d9-5fdfd684b58b",
+      "detail": "Complete documentation - paper based or digital. For example, job sheets, time sheets, risk assessments, method statements, equipment service records, handover documents, work sheets, checklists, incident reports, requisition sheets, quality records."
+    },
+    {
+      "skillId": "2dbfb23b-52cf-41c3-84ee-f6412047deba",
+      "detail": "Communicate and report in written form any issues against the production plan and contribute to the solutions.\u00A0"
+    },
+    {
+      "skillId": "afa69d28-0c3a-4856-9881-5d2d427c796f",
+      "detail": "Obtain, monitor and rotate stock and supplies."
+    },
+    {
+      "skillId": "edf85618-e15c-42f1-a90f-49606d97b99c",
+      "detail": "CSC: Apply craft site first fix carpentry techniques and practices to install timber stud partitions with standard and non-standard (non–90 degree) turns."
+    },
+    {
+      "skillId": "9f68576c-e101-451c-855d-f69cb438b177",
+      "detail": "CSC: Apply craft site carpentry techniques and practices to install complex first fix elements: 1. fire door linings, 2. floor coverings with non-standard (non–90 degree) returns and 3. structural partitions."
+    },
+    {
+      "skillId": "70d2bb8d-c82a-4b2e-8662-c48603910015",
+      "detail": "CSC: Apply craft site second fix carpentry techniques and practices to install double side hung doors  with associated ironmongery and lining. Non-standard (non–90 degree) mouldings. "
+    },
+    {
+      "skillId": "1c3d57c6-eba4-49b1-8b69-58777cb477d0",
+      "detail": "CSC: Apply craft site carpentry techniques and practices to install complex second fix elements: 1. bespoke wall and floor units (commissioned order with features or like for like replacement), 2. worktops with masons mitre, 3. cornices and fitments, 4. spindles and handrails to stairs with turns, 5. fire doors. 6. service encasements with access panels, 7. non-standard (non-90 degree) door linings."
+    },
+    {
+      "skillId": "57f444db-7d8d-4409-bc39-c0f7af607a46",
+      "detail": "CSC: Apply craft site carpentry techniques and practices to erect trussed or traditional roofs rafter roofs with hips, valleys and dormers. "
+    },
+    {
+      "skillId": "1fb8b5ec-cf8f-4b4f-bad5-60cafd6c64b8",
+      "detail": "CSC: Form non-standard (non–90 degree) joints."
+    },
+    {
+      "skillId": "995e69b3-67c8-4d84-bc2b-4ccb92f7220f",
+      "detail": "CSC: Replace or repair carpentry work, for example, structural timbers doors, glazing, window frames and sills, mouldings, timber guttering and fixings or sash window cords."
+    },
+    {
+      "skillId": "f3da6c83-0615-4793-b90f-583da2abe2ef",
+      "detail": "CAJ: Set out, mark out and form curved joinery products."
+    },
+    {
+      "skillId": "53438c91-b024-45ee-8044-43cd5541649e",
+      "detail": "CAJ: Form shaped wood working joints. "
+    },
+    {
+      "skillId": "59b26ec6-6c7e-4771-87b9-ec334113f12f",
+      "detail": "CAJ: Set up and use CNC machinery to produce joinery products."
+    },
+    {
+      "skillId": "531bfc44-df90-46e6-bace-63cc2d2bc142",
+      "detail": "CAJ: Apply craft architectural joinery techniques to manufacture and assemble a window frame with, curved head and non-standard (non–90 degree) window bars."
+    },
+    {
+      "skillId": "736a32aa-ebbc-446a-abdd-a7e9744cfaed",
+      "detail": "CAJ: Apply craft architectural joinery techniques and practices to manufacture and assemble complex timber second fix products: 1. fire doors 2. shaped , non-standard doors 3. bespoke wall and floor units (commissioned order with features or like for like replacement)."
+    },
+    {
+      "skillId": "74ca5f2f-9a97-429a-a64e-f37166db1f13",
+      "detail": "CAJ: Apply craft architectural joinery techniques and practices to manufacture and assemble complex timber first fix products: 1. staircases with turns 2. fire door linings, 3. bespoke windows with non-standard (non–90 degree) angles, 4. shaped, non-standard door linings."
+    },
+    {
+      "skillId": "57b842fd-cc99-4a00-b48a-9d226fb3b20f",
+      "detail": "CAJ: Apply craft architectural techniques to create shaped work using specialist jigs and fixed machinery."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0035",
+  "tbMainContact": "tyson@lignumassociates.com",
+  "involvedEmployers": "Cambridge Regional College, Beal-Homes, Brian Fell (Level) Ltd, British Woodwork Federation, CITB, H&H Joiners and Builders, Houghtons of York, Leeds College of Building (LCB) , Levens, Lignum Associates, North York Moors, York College",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Advanced architectural joiner",
+    "Advanced site carpenter"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Onsite Construction",
+  "cluster": "Core Building Tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
+  "createdDate": "2024-02-06T14:36:34 +00:00",
+  "lastUpdated": "2025-01-13T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0263",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0263-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0263-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "b7dc6c99-3661-41ac-a4c4-fbdf3e09a9e4",
+      "title": "BWF approved SiteRight Fire Door Installation Awareness delivered by an NOCN approved provider or Level 3 Award in Fire Door Safety delivery by a City and Guilds approved provider",
+      "level": "Two",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "3786a408-f4f2-4577-a98d-10d9ee0951e2",
+      "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "d42f5d36-aa75-4bfd-b526-2320ff7362fe",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde",
+        "c6d14d6e-9ad2-45ce-9167-36f05aa9c48d"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+        "ea6fead8-42d0-4cb6-b127-1fc4754fc377",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "5218d751-677c-4782-879d-339be46fe87e",
+        "06ce0792-c7a7-4b02-8280-7b561ed2385c",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
+        "d5e79385-f45d-49df-92da-48e43d53bd47",
+        "c136c5c7-9607-404c-aad1-d3fa14574b69",
+        "976d5e27-34c8-45b8-9c44-2f234e01c966",
+        "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
+        "3f151d0c-fcfe-4230-9161-22f7be1df20f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "fad563e3-7fb2-4667-bdeb-af727da93112",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dd63d272-1afc-4bd9-8bbc-4c65c27a28d4",
+      "dutyDetail": "Interpret technical specifications including digital information, identify requirements, develop the work programme and schedule, plan their own work and that of the team accordingly, ensuring this is communicated clearly to colleagues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "5218d751-677c-4782-879d-339be46fe87e",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+        "db69853d-ec3c-4720-a765-8db64efc06b2",
+        "95ba04f1-d4dc-4d82-b590-15c7cc0cd92a",
+        "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "fa329393-d489-49d6-b72b-042f80154b92",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1",
+        "a9cdcf32-9c7f-4647-ac96-6056e038788c",
+        "fd9cda07-feef-4c09-83d9-5fdfd684b58b",
+        "2dbfb23b-52cf-41c3-84ee-f6412047deba",
+        "afa69d28-0c3a-4856-9881-5d2d427c796f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76f3b18e-6193-4d05-aecf-afc32d140e0b",
+      "dutyDetail": "Select the required quantity and quality of resources required for carrying out complex and non-standard work, including timber, tools and fixings.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "5218d751-677c-4782-879d-339be46fe87e",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "d5e79385-f45d-49df-92da-48e43d53bd47",
+        "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c",
+        "c21fda31-8985-4afb-952d-af5bbedf2d6f",
+        "3f151d0c-fcfe-4230-9161-22f7be1df20f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "fad563e3-7fb2-4667-bdeb-af727da93112",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "fa329393-d489-49d6-b72b-042f80154b92",
+        "a8954e35-0dd4-426d-9c4f-6d1591612268",
+        "afa69d28-0c3a-4856-9881-5d2d427c796f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7a68b0fe-65e1-44b6-9df4-066551f6a207",
+      "dutyDetail": "Plan and organise the work site including setting out the work site, materials, tools and equipment appropriate to the project for self and others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+        "ea6fead8-42d0-4cb6-b127-1fc4754fc377",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "06ce0792-c7a7-4b02-8280-7b561ed2385c",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "c136c5c7-9607-404c-aad1-d3fa14574b69",
+        "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+        "65f7d8db-dd4e-488a-be51-23fafb9aafad",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c",
+        "c21fda31-8985-4afb-952d-af5bbedf2d6f",
+        "3f151d0c-fcfe-4230-9161-22f7be1df20f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "fa329393-d489-49d6-b72b-042f80154b92",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1",
+        "a9cdcf32-9c7f-4647-ac96-6056e038788c",
+        "a45e50d4-49e2-4c5b-a789-4ac86e407cd5",
+        "afa69d28-0c3a-4856-9881-5d2d427c796f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7b7ac7d2-533e-484d-b2b1-da27e490c74b",
+      "dutyDetail": "Plan the work to obtain optimum environmental, quality and schedule performance from the team",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
+        "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+        "db69853d-ec3c-4720-a765-8db64efc06b2",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "fa329393-d489-49d6-b72b-042f80154b92",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1",
+        "a9cdcf32-9c7f-4647-ac96-6056e038788c",
+        "a8954e35-0dd4-426d-9c4f-6d1591612268"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8af75fd6-28e9-4a5d-b263-05886c1f7c48",
+      "dutyDetail": "Complete work of fire door systems in accordance with current legislation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "06ce0792-c7a7-4b02-8280-7b561ed2385c",
+        "c136c5c7-9607-404c-aad1-d3fa14574b69"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "fad563e3-7fb2-4667-bdeb-af727da93112",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8ca0f383-d2f8-4776-82e4-c5abde41680d",
+      "dutyDetail": "Carry out their work in compliance with all current and relevant building regulations and quality standards, where appropriate checking the work of others for compliance including the installation of fire door system ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+        "e1ba74bc-a774-484d-aea5-5178acc725e3",
+        "06ce0792-c7a7-4b02-8280-7b561ed2385c",
+        "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e861ff-e973-4c68-bbe7-3c9f53a575ee",
+        "fad563e3-7fb2-4667-bdeb-af727da93112",
+        "6224d884-579e-4eed-be15-140db8b3be53",
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1",
+        "a8954e35-0dd4-426d-9c4f-6d1591612268"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1163f32-b903-41d9-aef6-5a6bce1ffe5b",
+      "dutyDetail": "Take a lead when working in a team, especially when complex or non-standard work is involved",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "d42f5d36-aa75-4bfd-b526-2320ff7362fe",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "c3f478f4-162a-4d7a-ae6a-28a6d7be14b1",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "ab12cbbe-75fc-4f1a-9db6-f1d6f04adff5",
+        "38e83e0b-4d60-44e3-8fd6-c173aa285e38",
+        "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
+        "d5e79385-f45d-49df-92da-48e43d53bd47",
+        "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "a9cdcf32-9c7f-4647-ac96-6056e038788c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb0c93f8-e937-4a37-b77f-628af02e45c3",
+      "dutyDetail": "Utilise a range of advanced skills which allow them to carry out complex carpentry or joinery work to demanding tolerances and industry standards including measuring, marking out, fitting, cutting, splicing, finishing, positioning and securing",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "0e5847cb-12a7-4a9b-b8e0-f8cfe1183e20"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fad563e3-7fb2-4667-bdeb-af727da93112"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "24717f38-5b7b-4add-af23-cba0fdde479d",
+      "dutyDetail": "Collaborate with stakeholders, clients and other construction roles, including programming and technical matters",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "d42f5d36-aa75-4bfd-b526-2320ff7362fe",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "c3f478f4-162a-4d7a-ae6a-28a6d7be14b1"
+      ],
+      "mappedKnowledge": [
+        "59380a9c-5c8f-4b83-bdb2-ae121d37384c",
+        "db69853d-ec3c-4720-a765-8db64efc06b2",
+        "95ba04f1-d4dc-4d82-b590-15c7cc0cd92a",
+        "2a8e11bb-27eb-4e08-ae71-343ce37abd5c",
+        "976d5e27-34c8-45b8-9c44-2f234e01c966",
+        "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "a9cdcf32-9c7f-4647-ac96-6056e038788c",
+        "fd9cda07-feef-4c09-83d9-5fdfd684b58b",
+        "2dbfb23b-52cf-41c3-84ee-f6412047deba"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c35684e0-5394-44bf-a89c-9c28d61c210e",
+      "dutyDetail": "Carry out quality checks of own and others work against specification and take action where required, providing remedial work instructions to others",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde"
+      ],
+      "mappedKnowledge": [
+        "3cd7770f-901d-4e04-a159-253f293c72af"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "03f1c606-4447-4565-b111-214bc4f51caa",
+        "a8954e35-0dd4-426d-9c4f-6d1591612268",
+        "fd9cda07-feef-4c09-83d9-5fdfd684b58b",
+        "2dbfb23b-52cf-41c3-84ee-f6412047deba"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "722b0281-f2aa-42a9-8460-b904e4e61e23",
+      "dutyDetail": "Lead by example and promote sustainable building practices",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d42f5d36-aa75-4bfd-b526-2320ff7362fe",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "c3f478f4-162a-4d7a-ae6a-28a6d7be14b1",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde",
+        "c6d14d6e-9ad2-45ce-9167-36f05aa9c48d"
+      ],
+      "mappedKnowledge": [
+        "5218d751-677c-4782-879d-339be46fe87e",
+        "a86495bc-8bb5-48c0-9ea1-b03e1afd0f7c",
+        "d5e79385-f45d-49df-92da-48e43d53bd47",
+        "65f7d8db-dd4e-488a-be51-23fafb9aafad"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "df945fd9-8981-42b8-9a9f-2d974ecf86e1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "730d43e9-6224-461a-8bd7-4da5495b5727",
+      "dutyDetail": "Carry out pre-use checks of all tools and equipment to be used for the project by self and colleagues, providing training and instruction where necessary",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871",
+        "c857b1eb-b9f7-45a7-8e29-fa12a1e88f9f",
+        "d5548404-f151-4c23-9c61-fac77c6e3fde",
+        "c6d14d6e-9ad2-45ce-9167-36f05aa9c48d"
+      ],
+      "mappedKnowledge": [
+        "2e2b3a2f-8128-4e4c-936a-7b7824d7cc9e",
+        "ea6fead8-42d0-4cb6-b127-1fc4754fc377"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2dbfb23b-52cf-41c3-84ee-f6412047deba"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2be53d7-a786-47d6-b1d5-c54d2ce2ce72",
+      "dutyDetail": "Install complex and non-standard doors and window frames, shaped door and hatch linings, partitions with changes of direction and staircases with turns.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "2ef80070-8aa6-4fd6-801f-c7fdb3ae9871"
+      ],
+      "mappedKnowledge": [
+        "e291990b-301f-45ba-8b10-74a7661c95f4",
+        "74d554c8-9e4f-4ab7-b90f-8fe4016173a1",
+        "14ffba67-01a8-4654-a0d0-dc56b26a381e",
+        "e345e0a5-5b4f-487f-b86c-0387880ab750",
+        "9fb54847-3fb6-4db6-82f3-17c08d30d4f9"
+      ],
+      "mappedOptions": [
+        "a19a8891-c291-4442-a1a9-4980eca21c41"
+      ],
+      "mappedSkills": [
+        "9f68576c-e101-451c-855d-f69cb438b177",
+        "70d2bb8d-c82a-4b2e-8662-c48603910015"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "64a860dd-07f8-4f8e-be27-f4971615dea1",
+      "dutyDetail": "Carry out complex site carpentry tasks conforming to all current and relevant building regulations, quality standards and specifications",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "41c29e39-c0b8-4a11-b119-8a071a332b94",
+        "7d245d44-299f-40d5-ac2e-af49d415a706",
+        "e291990b-301f-45ba-8b10-74a7661c95f4",
+        "74d554c8-9e4f-4ab7-b90f-8fe4016173a1",
+        "9fb54847-3fb6-4db6-82f3-17c08d30d4f9"
+      ],
+      "mappedOptions": [
+        "a19a8891-c291-4442-a1a9-4980eca21c41"
+      ],
+      "mappedSkills": [
+        "edf85618-e15c-42f1-a90f-49606d97b99c",
+        "9f68576c-e101-451c-855d-f69cb438b177",
+        "70d2bb8d-c82a-4b2e-8662-c48603910015",
+        "995e69b3-67c8-4d84-bc2b-4ccb92f7220f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1b6d56b1-137e-4bdf-80a2-99d517e115e6",
+      "dutyDetail": "Install accessible service encasements, bespoke wall and floor units, fitments, panelling and stair components (e.g. balustrades, handrails and spindles to staircases with turns)",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "41c29e39-c0b8-4a11-b119-8a071a332b94",
+        "7d245d44-299f-40d5-ac2e-af49d415a706",
+        "74d554c8-9e4f-4ab7-b90f-8fe4016173a1"
+      ],
+      "mappedOptions": [
+        "a19a8891-c291-4442-a1a9-4980eca21c41"
+      ],
+      "mappedSkills": [
+        "edf85618-e15c-42f1-a90f-49606d97b99c",
+        "9f68576c-e101-451c-855d-f69cb438b177",
+        "70d2bb8d-c82a-4b2e-8662-c48603910015",
+        "1c3d57c6-eba4-49b1-8b69-58777cb477d0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8744bdce-534f-4739-83ae-1750246794ec",
+      "dutyDetail": "Erect inclined roofs with gables, roof verges and eaves, including finishings, joists and roof coverings, dormers and features",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "14ffba67-01a8-4654-a0d0-dc56b26a381e"
+      ],
+      "mappedOptions": [
+        "a19a8891-c291-4442-a1a9-4980eca21c41"
+      ],
+      "mappedSkills": [
+        "1c3d57c6-eba4-49b1-8b69-58777cb477d0",
+        "57f444db-7d8d-4409-bc39-c0f7af607a46"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "913061a2-68df-49b2-9da7-a63bc6dea248",
+      "dutyDetail": "Repair, modify, maintain and or replace frames, mouldings, floor or flat roof joist coverings, door and window ironmongery, window components, structural joists and rafters, window components, guttering and downpipes",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d51f8dc5-1ffe-4b9a-a69d-bbb2e6f6a47a",
+        "e291990b-301f-45ba-8b10-74a7661c95f4",
+        "14ffba67-01a8-4654-a0d0-dc56b26a381e",
+        "e345e0a5-5b4f-487f-b86c-0387880ab750"
+      ],
+      "mappedOptions": [
+        "a19a8891-c291-4442-a1a9-4980eca21c41"
+      ],
+      "mappedSkills": [
+        "edf85618-e15c-42f1-a90f-49606d97b99c",
+        "1fb8b5ec-cf8f-4b4f-bad5-60cafd6c64b8",
+        "995e69b3-67c8-4d84-bc2b-4ccb92f7220f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cb1b9ccb-ce83-4003-bc47-d408d0964fcc",
+      "dutyDetail": "Carry out complex architectural carpentry tasks conforming to all current and relevant building regulations, quality standards and specifications. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "24bab70e-27d2-455c-80f8-b7cc39fc2717"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "59b26ec6-6c7e-4771-87b9-ec334113f12f",
+        "736a32aa-ebbc-446a-abdd-a7e9744cfaed",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "113ce9b2-7799-494a-9c29-e3486c3a1f13",
+      "dutyDetail": "Fit and assemble non-standard complex timber products ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "24bab70e-27d2-455c-80f8-b7cc39fc2717"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "53438c91-b024-45ee-8044-43cd5541649e",
+        "736a32aa-ebbc-446a-abdd-a7e9744cfaed",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d23b2e30-ba6c-4621-8c5f-8f8294576543",
+      "dutyDetail": "Set out complex work tasks for non-standard architectural joinery products, including complex door sets, doors, windows, units and fitments, staircases (straight and with turns) and products with single/double curvature features",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "34ee481e-9dcc-416e-9f51-d9672dd2433e",
+        "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "24bab70e-27d2-455c-80f8-b7cc39fc2717",
+        "5797de7b-6a65-4d51-b501-d00190f9881d"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "f3da6c83-0615-4793-b90f-583da2abe2ef",
+        "531bfc44-df90-46e6-bace-63cc2d2bc142",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13",
+        "57b842fd-cc99-4a00-b48a-9d226fb3b20f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ebe48ab2-a6cf-4dad-8e34-890d5508f9bb",
+      "dutyDetail": "Mark out accurately from setting out details for the manufacture of complex and shaped (circular and circular on circular) doors, opening windows, units and fitments and staircases",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "34ee481e-9dcc-416e-9f51-d9672dd2433e",
+        "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "24bab70e-27d2-455c-80f8-b7cc39fc2717"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "f3da6c83-0615-4793-b90f-583da2abe2ef",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13",
+        "57b842fd-cc99-4a00-b48a-9d226fb3b20f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "979cdf7d-b228-462e-b781-867ee7935ec4",
+      "dutyDetail": "Create complex, decorative and shaped (circular and circular on circular) architectural joinery products including doors, windows with opening lights, units and fitments, panelling/cladding, staircases (straight and with turns) and veneers",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "6a288c3f-8251-42cf-b2e8-539b52d4ed20",
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "5797de7b-6a65-4d51-b501-d00190f9881d",
+        "f06b164d-92e7-4a84-adc4-bebcd85a145e"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "59b26ec6-6c7e-4771-87b9-ec334113f12f",
+        "531bfc44-df90-46e6-bace-63cc2d2bc142",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "355d35da-8110-4aa2-8264-19bf6044fc57",
+      "dutyDetail": "Use and maintain marking tools, hand tools, power tools and associated equipment required for complex work",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f0d82a04-07b3-4f5d-9e7e-3622f7976c37",
+        "24bab70e-27d2-455c-80f8-b7cc39fc2717",
+        "5797de7b-6a65-4d51-b501-d00190f9881d"
+      ],
+      "mappedOptions": [
+        "def59af7-b586-4caf-81f7-2ee54b86c5c5"
+      ],
+      "mappedSkills": [
+        "59b26ec6-6c7e-4771-87b9-ec334113f12f",
+        "531bfc44-df90-46e6-bace-63cc2d2bc142",
+        "74ca5f2f-9a97-429a-a64e-f37166db1f13"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "a19a8891-c291-4442-a1a9-4980eca21c41",
+      "title": "Craft Site Carpenter",
+      "occupationCode": "OCC0263B"
+    },
+    {
+      "optionId": "def59af7-b586-4caf-81f7-2ee54b86c5c5",
+      "title": "Craft Architectural Joiner",
+      "occupationCode": "OCC0263A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-01-13T00:00:00"
+}
