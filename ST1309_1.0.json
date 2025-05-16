@@ -1,0 +1,717 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 687,
+  "referenceNumber": "ST1309",
+  "learningAimClassCode": "",
+  "title": "Mine management",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1309",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-12-07T00:00:00",
+  "earliestStartDate": "2022-09-29T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Lead and manage underground mining operations.",
+  "level": 6,
+  "ePALength": 6,
+  "typicalDuration": 48,
+  "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "mines",
+    "mining",
+    "engineering",
+    "managament",
+    "manufacturing",
+    "underground mines"
+  ],
+  "jobRoles": [
+    "Engineer manager",
+    "Head of operations",
+    "Head of technical services",
+    "Mine manager",
+    "Operations engineering manager",
+    "Operations manager",
+    "Operations superintendent",
+    "Planning manager",
+    "Principal mining engineer",
+    "Production manager",
+    "Production superintendent",
+    "Shift manager",
+    "Shift superintendent",
+    "Technical services manager"
+  ],
+  "entryRequirements": "&lt;p&gt;There are no specific entry requirements for the apprenticeship, however some candidates that undertake this apprenticeship will have most likely worked at other levels within the organisation and are ready to progress as part of a longer-term succession plan, however other candidates will be new entrants to the sector, who would typically come from a STEM background at A-Level or equivalent.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1309-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;d&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in underground mining operations across the whole of the UK mining sector. The occupation is relevant to small and large operations, and applicable regardless of the mineral produced. The employers range in size from large multi-nationals, employing more than 10,000 people to small privately owned operations who employ fewer than 10 people. Apprentices will have transferrable skills that can be used across organisations, these organisations are not limited to mine operations, but can expand to include key suppliers, specialist consultants and those with the responsibilities for other services such as mines rescue (required under Regulation 53 of the Mines Regulations 2014) &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to lead and manage underground mining operations, in a way that is safe, sustainable, ecologically, and socially acceptable, recognising the essential part that these raw materials have on maintaining and improving the fabric of society and everyday lives. This includes ensuring the operation is managed in line with strict regulatory requirements using appropriate technical mining competencies. Underground mine management is managing the extraction of minerals from mines for commercial purposes.&#160;&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of internal departments and individuals. These can include safety managers, production managers, development managers, transport and infrastructure managers, product preparation or processing managers, finance managers, HR managers, owners or directors, shafts and winding engineers, engineering managers and mechanical engineering or electrical engineering functions. The occupation can also include interaction with specialist roles (for example geotechnical engineering, ventilation engineering, geologists and surveyors), ensuring that necessary support and advice is available and utilised as part of the mine planning and safe operating process. The apprentice may also be required to interact with various external organisations, such as suppliers (including specialist service organisations), trade organisations, engineering service providers, engineering manufacturers, regulators, and the emergency services. In this role the apprentice would be both office and site based within the mine on a frequent basis. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for the management of a highly regulated major hazard sector for people, projects, operations, and the hazards which are unique to an underground environment to deliver long term organisational business success, with the professional recognition of their ability to deliver impact, whilst acting in a sound ecological and socially acceptable way.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "23efe949-d046-4a8e-b907-5eefd695b1b7",
+      "detail": "The mining life cycle including the key regulations, standards and guidance that influence the design, construction and operations and closure of mining operations."
+    },
+    {
+      "knowledgeId": "1b67db96-3684-4190-bd28-9a059a58bfdf",
+      "detail": "Physical geology on the mine environment, including the physical properties of rock, soil and mineral deposits and the impact of weathering, plate tectonics and geomorphic features."
+    },
+    {
+      "knowledgeId": "0b7275ce-909c-4a96-9395-a79baa1a8042",
+      "detail": "The impact of structural geology, including features such as dip, faulting, rock strength and the principles of elasticity."
+    },
+    {
+      "knowledgeId": "0871b78e-4054-4288-8985-7659ff4138bc",
+      "detail": "Design principles of mines and layout including geology and geomechanics, layout, size and position of mine entries and roadways, and the systems and equipment used for extraction and mine support."
+    },
+    {
+      "knowledgeId": "c6758cb1-0cbc-4ab8-ace0-2725ba8bc4a5",
+      "detail": "Stress analysis in the mine environment, including the means of measuring pre-mining stress, induced mining stress and stress redistribution."
+    },
+    {
+      "knowledgeId": "b562f37c-d4c5-42af-b19d-5865fddad5de",
+      "detail": "Types of support systems, considering the design, intended life, suitability of support systems and strata reinforcement."
+    },
+    {
+      "knowledgeId": "9184257e-736e-4b78-8c98-0db04084e3af",
+      "detail": "Rock mechanics and the impact on mine design and the surrounding environment."
+    },
+    {
+      "knowledgeId": "51bd4bbc-c6b6-4b8b-be11-fb809c5d9821",
+      "detail": "The influence and requirements of mechanical and electrical engineering principles and procedures have on the safe, efficient operation of the mine."
+    },
+    {
+      "knowledgeId": "83cd59f2-2823-42e4-b1ab-2caed82353ed",
+      "detail": "Mine surveying techniques for measuring and mapping of mine workings, including the recording of information and the use of analytical measures to verify the results."
+    },
+    {
+      "knowledgeId": "5571bded-b117-43b6-bf64-95d7c7251c01",
+      "detail": "Mineral preparation, processing, and waste management techniques including the use of separation techniques, methods of concentrating and further refining, the handling and transport of bulk solids and the safe, sustainable disposal of mineral waste and tailings."
+    },
+    {
+      "knowledgeId": "e13be03d-2315-4679-9ff0-10147af5cb64",
+      "detail": "How to design the operation to extract the reserves in a legislatively compliant, economic, ecological, sustainable, and socially acceptable manner."
+    },
+    {
+      "knowledgeId": "864d95b3-3137-45e8-9b0a-52ce154466e9",
+      "detail": "The influence and requirements of legislation on the principles of risk management and the methods that are used to deal with major and occupational hazards, operational, safety, health, financial and environmental risks. The evaluation and implementation of appropriate control measures to reduce risk to As Low as Reasonably Practicable (ALARP)."
+    },
+    {
+      "knowledgeId": "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
+      "detail": "The principles of major hazard control, and the impact that preventative and mitigating control failure had have on elevating the propensity for mine disasters."
+    },
+    {
+      "knowledgeId": "d53bf5a5-714d-449d-a9ee-8990efa37f31",
+      "detail": "The principles of scenario planning to recognise the factors that influence the implementation of mine emergency plans including suitable considerations for self-escape and the use of mines rescue. The use of data collected through simulated exercises to improve the planned response. "
+    },
+    {
+      "knowledgeId": "85815698-b2d2-47a1-81e6-0c59579a1e1b",
+      "detail": "The factors controlling the planning and deployment of automated and digital technologies in mine environments to improve operational efficiency, productivity, safety and sustainability."
+    },
+    {
+      "knowledgeId": "60f28f77-e938-4659-b82b-b48aabe36f05",
+      "detail": "The different stages of projects including the principles of planning, scheduling, and sequencing to ensure effective life of mine plans. The ways of managing, influencing, and controlling outcomes. through the application of project management techniques."
+    },
+    {
+      "knowledgeId": "4009244c-7d3e-4595-b895-352cef575b0d",
+      "detail": "Underground mining management principles, including the role that mine ventilation systems and ventilation techniques have on the release and presence of toxic, noxious, and explosive gasses through the mining process. The generation and control of inhalable and respirable dust and increased levels of heat and humidity."
+    },
+    {
+      "knowledgeId": "410453e3-4a4d-4fdb-8552-eea12b3776f0",
+      "detail": "The mine environment and the impact that it has on operational performance, safety, and long-term health of employees."
+    },
+    {
+      "knowledgeId": "5705c4a7-5d32-4e32-93c2-83265479d257",
+      "detail": "The principles of mine closure and legacy risk management."
+    },
+    {
+      "knowledgeId": "33cd3731-b9c0-4efc-8ca7-663b997cdf67",
+      "detail": "The impact of a mining operation through its life cycle using the principles of asset integrity, environmental and social impact assessment methodologies and the application of current industry best practice to support an environmentally robust and sustainable operation."
+    },
+    {
+      "knowledgeId": "de59265a-3dcc-458d-a2bb-bec17cba887a",
+      "detail": "Financial and economic strategies, including budgets, financial management and accounting. The influence of commodity prices, feasibility studies, financial reports incorporating cash flow, capital, profit and loss."
+    },
+    {
+      "knowledgeId": "2b958a75-6dcd-49d3-942b-839a7e082178",
+      "detail": "Approaches to costing and procurement, contracting, sales, marketing, and the route to market, including consideration of any legal requirements."
+    },
+    {
+      "knowledgeId": "885c1cd4-777f-47d0-aeef-79cbc55405a1",
+      "detail": "Communication techniques, including written, verbal, nonverbal and digital, and different types of interpersonal skills including questioning and listening."
+    },
+    {
+      "knowledgeId": "b888a136-8fcb-454d-8944-0a78819dc821",
+      "detail": "Different, inclusive leadership styles and models, how to develop diverse teams and support people using coaching and mentoring."
+    },
+    {
+      "knowledgeId": "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
+      "detail": "Approaches to stakeholder, customer, and supplier management."
+    },
+    {
+      "knowledgeId": "63b65b57-3bb7-4d2b-8c40-a91596dcb2ae",
+      "detail": "Time management, how to set SMART targets, prioritise activities and undertake forward planning in a business environment. "
+    },
+    {
+      "knowledgeId": "71b2bfee-2435-4790-9e14-f8b0ed56bf7f",
+      "detail": "Data analysis techniques used to examine complex and interacting issues, to assist in developing appropriate solutions solving and support the decision-making process."
+    },
+    {
+      "knowledgeId": "d2497831-f88a-4bd0-9b57-a4f7d3a9feb4",
+      "detail": "How to develop and implement operational strategy and plans including approaches to identify and classify mineral reserves."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "223ecb96-40a7-4462-861d-5961d20d6e67",
+      "detail": "Act as a role model and advocate for health and safety across the team."
+    },
+    {
+      "behaviourId": "10f3dc9f-37c7-4885-b0fe-937119ff3685",
+      "detail": "Act as a role model and advocate environmental, ethical, and sustainable practices."
+    },
+    {
+      "behaviourId": "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "b1105309-d796-4e42-88d3-401553b9837e",
+      "detail": "Adapt and is resilient to challenging or changing situations."
+    },
+    {
+      "behaviourId": "f4212ebb-ac93-4b20-995a-eb788d03032f",
+      "detail": "Lead by example to promote accessibility, diversity and inclusion."
+    },
+    {
+      "behaviourId": "e5a1aacd-0f93-4042-9387-6421bf71d504",
+      "detail": "Commit to their own and support others’ professional development."
+    },
+    {
+      "behaviourId": "636454cc-4591-4f0b-93c1-46526059c89f",
+      "detail": "Take responsibility for their own actions and challenge the behaviours and actions of others."
+    },
+    {
+      "behaviourId": "f5dcfbdc-3afa-4666-a5d2-91be42896ab6",
+      "detail": "Recognise the limits of their capabilities and authorisation and work to those limits."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "d41d1ae3-8bb3-46ef-9cec-ef6100e108bc",
+      "detail": "Specify the system for supporting the excavation, using information such as the characteristics of the geology, rock formations, data from modelling and measurements taken."
+    },
+    {
+      "skillId": "05a03af9-1a8e-48e1-93c6-c3ca0bc727d7",
+      "detail": "Undertake the mine design process, incorporating elements such as mine layout, roadway design, scheduling, resourcing and ventilation. Determine the impact that these decisions have on the safe, efficient, and sustainable operation of the mine."
+    },
+    {
+      "skillId": "806c6054-48b9-40c5-922e-c9833b18a19a",
+      "detail": "Undertake mine surveys and use the information to evaluate mine development against the agreed layout and design."
+    },
+    {
+      "skillId": "a314671b-39ed-4346-943f-9daa5b3ba75f",
+      "detail": "Collect, analyse and use data from mining and asset management systems to review the impact of the operation, using outputs to improve safety, sustainability and the efficiency and effectiveness of mining systems."
+    },
+    {
+      "skillId": "3a786c0c-6811-462c-99f1-26a01bed83f0",
+      "detail": "Develop and implement operational mine plans that have SMART targets and are supported by key performance indicators."
+    },
+    {
+      "skillId": "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+      "detail": "Use project management and planning techniques. Allocate resource requirements. Monitor progress towards project goals and identify corrective actions."
+    },
+    {
+      "skillId": "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+      "detail": "Identify and utilise risk assessment techniques appropriate for the identified hazards such as major mining hazards with the use of Bowtie methodology. Use these techniques to identify and implement key controls and use safety performance indicators to monitor the effectiveness of those controls."
+    },
+    {
+      "skillId": "11aae62a-51e0-4a3c-93a8-19796c53d969",
+      "detail": "Plan and manage emergency arrangements, including simulated exercises. Determine the effectiveness of those emergency arrangements, and to inform potential improvements."
+    },
+    {
+      "skillId": "e776e57a-0c17-497b-8e62-af058ea07508",
+      "detail": "Undertake ventilation surveys such as measuring airflow, heat and dust to identify how the mine environment is being maintained. "
+    },
+    {
+      "skillId": "daa72b7a-4485-42dd-b816-15371cddea7d",
+      "detail": "Identify the statutory and company requirements for monitoring and maintaining records and plans and complete a suitable audit and evaluation to ensure compliance."
+    },
+    {
+      "skillId": "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
+      "detail": "Manage and adapt budgets and control expenditure. Review and produce financial reports that provide analysis and draw conclusions on financial risk and evaluation of short and long term mine strategies."
+    },
+    {
+      "skillId": "a63cb276-23ae-4df7-81ad-0699ca1cc571",
+      "detail": "Review quality control standards and ensure that these are effectively and consistently applied and where necessary take corrective action."
+    },
+    {
+      "skillId": "46c7846f-35be-41ea-b146-0d75f03d513a",
+      "detail": "Communicate with colleagues, stakeholders and other interested parties using a range of different methods and techniques, challenging, influencing, and negotiating where appropriate."
+    },
+    {
+      "skillId": "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+      "detail": "Build teams, empower, mentor, coach, motivate and delegate to others, providing clear guidance and ensuring inclusivity."
+    },
+    {
+      "skillId": "7a27ff15-4e13-469e-b0a5-14beda510a94",
+      "detail": "Developing others; taking account of diversity, equality and inclusivity. "
+    },
+    {
+      "skillId": "404b55ad-1020-47ed-9d73-4d8b4463f46b",
+      "detail": "Work collaboratively with all stakeholders, including regulators (Health and Safety Executive), customers, suppliers, and trade unions."
+    },
+    {
+      "skillId": "b0f42579-1de6-437f-b148-51b5f15d4ec1",
+      "detail": "Manage and lead others including conflict management."
+    },
+    {
+      "skillId": "c48e91ff-d944-4c38-a163-e5b1a225d525",
+      "detail": "Plan and manage own time."
+    },
+    {
+      "skillId": "959e0ab9-d102-4081-a22c-fa7373abb0c6",
+      "detail": "Use evidence-based tools, qualitive and quantitative analysis techniques to demonstrate an ethical approach to problem solving and making decisions that improve the safety, operational and environmental performance of the underground operation."
+    },
+    {
+      "skillId": "885a8d8a-0adf-4952-8d81-fbf4b5d4e7f1",
+      "detail": "Specify the machinery and equipment to support the overall safety and production."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2022-09-29T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0699",
+  "tbMainContact": "james.davies@saint-gobain.com",
+  "involvedEmployers": "Albion Stone PLC, British Fluorspar Ltd, British Gypsum Ltd, Cleveland Potash Ltd, Compass Minerals UK Ltd, Energybuild Ltd, Schlumberger Oilfield UK PLC (MI UK Division), Anglo American Woodside Project (York Potash Ltd)",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Engineer manager",
+    "Head of operations",
+    "Head of technical services",
+    "Mine manager",
+    "Operations engineering manager",
+    "Operations manager",
+    "Operations superintendent",
+    "Planning manager",
+    "Principal mining engineer",
+    "Production manager",
+    "Production superintendent",
+    "Shift manager",
+    "Shift superintendent",
+    "Technical services manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, Manufacturing, Process and Control",
+  "cluster": "Manufacturing engineer",
+  "clusterId": "263",
+  "clusterDescription": null,
+  "createdDate": "2022-12-07T16:50:01 +00:00",
+  "lastUpdated": "2022-12-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-09-29T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1309",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1309-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1309-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "dde4eb4f-54f0-451a-95d7-5b69cbf44885",
+      "title": "BEng (Hons) Mining Engineering and Management",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Incorporated Engineer (IEng)",
+      "level": "Institute of Minerals, Mining and Metallurgy",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "789a379c-6cd5-4473-bc23-ea417833d52d",
+      "dutyDetail": "Lead in securing the safety and health of all persons and operations at the site through the exercise of management, supervision, inspection, leadership, teamwork, the application of technical mining competencies and suitable and sufficient risk assessment to ensure regulatory compliance with the Safety at Work Act, Mines Regulations 2014 and other relevant legislation and guidance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "223ecb96-40a7-4462-861d-5961d20d6e67",
+        "10f3dc9f-37c7-4885-b0fe-937119ff3685",
+        "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+        "b1105309-d796-4e42-88d3-401553b9837e",
+        "f4212ebb-ac93-4b20-995a-eb788d03032f",
+        "636454cc-4591-4f0b-93c1-46526059c89f",
+        "f5dcfbdc-3afa-4666-a5d2-91be42896ab6"
+      ],
+      "mappedKnowledge": [
+        "0b7275ce-909c-4a96-9395-a79baa1a8042",
+        "0871b78e-4054-4288-8985-7659ff4138bc",
+        "c6758cb1-0cbc-4ab8-ace0-2725ba8bc4a5",
+        "51bd4bbc-c6b6-4b8b-be11-fb809c5d9821",
+        "e13be03d-2315-4679-9ff0-10147af5cb64",
+        "864d95b3-3137-45e8-9b0a-52ce154466e9",
+        "d53bf5a5-714d-449d-a9ee-8990efa37f31",
+        "4009244c-7d3e-4595-b895-352cef575b0d",
+        "410453e3-4a4d-4fdb-8552-eea12b3776f0",
+        "b888a136-8fcb-454d-8944-0a78819dc821",
+        "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d41d1ae3-8bb3-46ef-9cec-ef6100e108bc",
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+        "11aae62a-51e0-4a3c-93a8-19796c53d969",
+        "e776e57a-0c17-497b-8e62-af058ea07508",
+        "daa72b7a-4485-42dd-b816-15371cddea7d",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "b0f42579-1de6-437f-b148-51b5f15d4ec1",
+        "885a8d8a-0adf-4952-8d81-fbf4b5d4e7f1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e8a3be7b-8c78-4373-aa3d-5aa06365d8cb",
+      "dutyDetail": "Identify and implement changes within their function that supports the achievement of organisational objectives in line with a suitable change management process. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "223ecb96-40a7-4462-861d-5961d20d6e67",
+        "10f3dc9f-37c7-4885-b0fe-937119ff3685",
+        "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+        "b1105309-d796-4e42-88d3-401553b9837e",
+        "636454cc-4591-4f0b-93c1-46526059c89f"
+      ],
+      "mappedKnowledge": [
+        "b562f37c-d4c5-42af-b19d-5865fddad5de",
+        "9184257e-736e-4b78-8c98-0db04084e3af",
+        "51bd4bbc-c6b6-4b8b-be11-fb809c5d9821",
+        "e13be03d-2315-4679-9ff0-10147af5cb64",
+        "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
+        "85815698-b2d2-47a1-81e6-0c59579a1e1b",
+        "33cd3731-b9c0-4efc-8ca7-663b997cdf67",
+        "de59265a-3dcc-458d-a2bb-bec17cba887a",
+        "2b958a75-6dcd-49d3-942b-839a7e082178",
+        "b888a136-8fcb-454d-8944-0a78819dc821",
+        "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
+        "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "806c6054-48b9-40c5-922e-c9833b18a19a",
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "3a786c0c-6811-462c-99f1-26a01bed83f0",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+        "e776e57a-0c17-497b-8e62-af058ea07508",
+        "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
+        "a63cb276-23ae-4df7-81ad-0699ca1cc571",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e8a10d3c-0182-4fc4-8a7d-c8e95e9d1f34",
+      "dutyDetail": "Ensure the life of mine plan is adequately developed, incorporating stakeholder input and ensuring that the plan considers the sustainability of the operation, giving adequate consideration of sequencing, resourcing, engineering, and capital required to deliver in an ecologically sound, environmentally sustainable way.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+        "f4212ebb-ac93-4b20-995a-eb788d03032f",
+        "636454cc-4591-4f0b-93c1-46526059c89f",
+        "f5dcfbdc-3afa-4666-a5d2-91be42896ab6"
+      ],
+      "mappedKnowledge": [
+        "1b67db96-3684-4190-bd28-9a059a58bfdf",
+        "0b7275ce-909c-4a96-9395-a79baa1a8042",
+        "0871b78e-4054-4288-8985-7659ff4138bc",
+        "c6758cb1-0cbc-4ab8-ace0-2725ba8bc4a5",
+        "b562f37c-d4c5-42af-b19d-5865fddad5de",
+        "9184257e-736e-4b78-8c98-0db04084e3af",
+        "51bd4bbc-c6b6-4b8b-be11-fb809c5d9821",
+        "83cd59f2-2823-42e4-b1ab-2caed82353ed",
+        "e13be03d-2315-4679-9ff0-10147af5cb64",
+        "60f28f77-e938-4659-b82b-b48aabe36f05",
+        "885c1cd4-777f-47d0-aeef-79cbc55405a1",
+        "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d41d1ae3-8bb3-46ef-9cec-ef6100e108bc",
+        "05a03af9-1a8e-48e1-93c6-c3ca0bc727d7",
+        "806c6054-48b9-40c5-922e-c9833b18a19a",
+        "3a786c0c-6811-462c-99f1-26a01bed83f0",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6030a0de-3b58-40fc-b5ba-b156a11c21f6",
+      "dutyDetail": "Manage the delivery of the organisational objectives to meet defined operational, technical, financial and time parameters.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+        "e5a1aacd-0f93-4042-9387-6421bf71d504",
+        "f5dcfbdc-3afa-4666-a5d2-91be42896ab6"
+      ],
+      "mappedKnowledge": [
+        "60f28f77-e938-4659-b82b-b48aabe36f05",
+        "33cd3731-b9c0-4efc-8ca7-663b997cdf67",
+        "de59265a-3dcc-458d-a2bb-bec17cba887a",
+        "2b958a75-6dcd-49d3-942b-839a7e082178",
+        "885c1cd4-777f-47d0-aeef-79cbc55405a1",
+        "b888a136-8fcb-454d-8944-0a78819dc821",
+        "d2497831-f88a-4bd0-9b57-a4f7d3a9feb4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "806c6054-48b9-40c5-922e-c9833b18a19a",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94",
+        "404b55ad-1020-47ed-9d73-4d8b4463f46b",
+        "b0f42579-1de6-437f-b148-51b5f15d4ec1",
+        "c48e91ff-d944-4c38-a163-e5b1a225d525",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7e95ca74-8c45-459a-953e-1629009bfb81",
+      "dutyDetail": "Complete vetting and reviews of others employed in the organisation to ensure only suitably qualified and competent persons are appointed to the management structure and those persons maintain their professional currency.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "223ecb96-40a7-4462-861d-5961d20d6e67",
+        "a2dbd177-dd47-4881-88a5-c45398dab7d1",
+        "f4212ebb-ac93-4b20-995a-eb788d03032f",
+        "e5a1aacd-0f93-4042-9387-6421bf71d504",
+        "f5dcfbdc-3afa-4666-a5d2-91be42896ab6"
+      ],
+      "mappedKnowledge": [
+        "23efe949-d046-4a8e-b907-5eefd695b1b7",
+        "de59265a-3dcc-458d-a2bb-bec17cba887a",
+        "b888a136-8fcb-454d-8944-0a78819dc821",
+        "babede84-4a0f-47f4-a5f7-e0940ba6a52e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ca63a4e-8b0e-4305-afdc-cc74b9fbe7f6",
+      "dutyDetail": "Ensure that a range of information is recorded in sufficient detail to demonstrate that any management duties are effectively being discharged.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "10f3dc9f-37c7-4885-b0fe-937119ff3685",
+        "b1105309-d796-4e42-88d3-401553b9837e"
+      ],
+      "mappedKnowledge": [
+        "23efe949-d046-4a8e-b907-5eefd695b1b7",
+        "9184257e-736e-4b78-8c98-0db04084e3af",
+        "5571bded-b117-43b6-bf64-95d7c7251c01",
+        "e13be03d-2315-4679-9ff0-10147af5cb64",
+        "864d95b3-3137-45e8-9b0a-52ce154466e9",
+        "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
+        "410453e3-4a4d-4fdb-8552-eea12b3776f0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "806c6054-48b9-40c5-922e-c9833b18a19a",
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "3a786c0c-6811-462c-99f1-26a01bed83f0",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+        "11aae62a-51e0-4a3c-93a8-19796c53d969",
+        "e776e57a-0c17-497b-8e62-af058ea07508",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "c48e91ff-d944-4c38-a163-e5b1a225d525",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2087e1f9-c2f6-4e11-a0ff-1301d98f4a3d",
+      "dutyDetail": "Ensure that the facilities and equipment used as part of the mining and preparation process are adequately scoped using where appropriate the latest technologies to ensure that they allow for safe construction and remain safe whilst in operation or undergoing maintenance activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "223ecb96-40a7-4462-861d-5961d20d6e67",
+        "b1105309-d796-4e42-88d3-401553b9837e"
+      ],
+      "mappedKnowledge": [
+        "0871b78e-4054-4288-8985-7659ff4138bc",
+        "b562f37c-d4c5-42af-b19d-5865fddad5de",
+        "83cd59f2-2823-42e4-b1ab-2caed82353ed",
+        "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
+        "4009244c-7d3e-4595-b895-352cef575b0d",
+        "2b958a75-6dcd-49d3-942b-839a7e082178"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "e154af0b-82d1-4a9c-9e75-f5fd14047957",
+        "11aae62a-51e0-4a3c-93a8-19796c53d969",
+        "daa72b7a-4485-42dd-b816-15371cddea7d",
+        "a63cb276-23ae-4df7-81ad-0699ca1cc571",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6",
+        "885a8d8a-0adf-4952-8d81-fbf4b5d4e7f1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b7e51578-c221-469d-85ba-682e4aa91a52",
+      "dutyDetail": "Plan and manage schemes that ensure that equipment is installed to an agreed standard and is commissioned and recorded as part of the planned maintenance scheme prior to use, and then subjected to a defined inspection and maintenance regime to ensure it remains safe for use.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "10f3dc9f-37c7-4885-b0fe-937119ff3685"
+      ],
+      "mappedKnowledge": [
+        "23efe949-d046-4a8e-b907-5eefd695b1b7",
+        "9184257e-736e-4b78-8c98-0db04084e3af",
+        "83cd59f2-2823-42e4-b1ab-2caed82353ed",
+        "5571bded-b117-43b6-bf64-95d7c7251c01",
+        "864d95b3-3137-45e8-9b0a-52ce154466e9",
+        "c6fdfe9e-dca1-452f-b074-77b5d85ac5e1",
+        "d53bf5a5-714d-449d-a9ee-8990efa37f31",
+        "2b958a75-6dcd-49d3-942b-839a7e082178"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "daa72b7a-4485-42dd-b816-15371cddea7d",
+        "ed87ed53-56d5-48a3-8fd1-5a2e508b413a",
+        "a63cb276-23ae-4df7-81ad-0699ca1cc571",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "caac90f7-dad2-4ed8-afd3-0e0d768e42c4",
+      "dutyDetail": "Ensure that the product is produced to the required customer specification and quality.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "636454cc-4591-4f0b-93c1-46526059c89f"
+      ],
+      "mappedKnowledge": [
+        "0871b78e-4054-4288-8985-7659ff4138bc",
+        "9184257e-736e-4b78-8c98-0db04084e3af",
+        "83cd59f2-2823-42e4-b1ab-2caed82353ed",
+        "5571bded-b117-43b6-bf64-95d7c7251c01",
+        "2b958a75-6dcd-49d3-942b-839a7e082178",
+        "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
+        "d2497831-f88a-4bd0-9b57-a4f7d3a9feb4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a63cb276-23ae-4df7-81ad-0699ca1cc571",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94",
+        "404b55ad-1020-47ed-9d73-4d8b4463f46b",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31b31cc5-8d0a-43df-9484-0aba1c43e73d",
+      "dutyDetail": "Manage the planning, implementation and testing of robust and effective emergency arrangements and ensure that relevant persons are trained to implement the emergency arrangements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "223ecb96-40a7-4462-861d-5961d20d6e67",
+        "b1105309-d796-4e42-88d3-401553b9837e",
+        "f5dcfbdc-3afa-4666-a5d2-91be42896ab6"
+      ],
+      "mappedKnowledge": [
+        "51bd4bbc-c6b6-4b8b-be11-fb809c5d9821",
+        "e13be03d-2315-4679-9ff0-10147af5cb64",
+        "864d95b3-3137-45e8-9b0a-52ce154466e9",
+        "d53bf5a5-714d-449d-a9ee-8990efa37f31",
+        "85815698-b2d2-47a1-81e6-0c59579a1e1b",
+        "60f28f77-e938-4659-b82b-b48aabe36f05",
+        "2b958a75-6dcd-49d3-942b-839a7e082178",
+        "babede84-4a0f-47f4-a5f7-e0940ba6a52e",
+        "63b65b57-3bb7-4d2b-8c40-a91596dcb2ae",
+        "71b2bfee-2435-4790-9e14-f8b0ed56bf7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "05a03af9-1a8e-48e1-93c6-c3ca0bc727d7",
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "9fbd933b-fa05-4f92-ad6f-02b94f86ac7b",
+        "11aae62a-51e0-4a3c-93a8-19796c53d969",
+        "daa72b7a-4485-42dd-b816-15371cddea7d",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e5fa1601-4f0e-454e-b24d-9c68468cdf7c",
+      "dutyDetail": "Consult and engage with communities or other interested parties to ensure they are engaged and informed of the mining operation and that the environment is protected.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "10f3dc9f-37c7-4885-b0fe-937119ff3685",
+        "f4212ebb-ac93-4b20-995a-eb788d03032f"
+      ],
+      "mappedKnowledge": [
+        "5705c4a7-5d32-4e32-93c2-83265479d257",
+        "33cd3731-b9c0-4efc-8ca7-663b997cdf67",
+        "2b958a75-6dcd-49d3-942b-839a7e082178",
+        "885c1cd4-777f-47d0-aeef-79cbc55405a1",
+        "babede84-4a0f-47f4-a5f7-e0940ba6a52e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a314671b-39ed-4346-943f-9daa5b3ba75f",
+        "daa72b7a-4485-42dd-b816-15371cddea7d",
+        "46c7846f-35be-41ea-b146-0d75f03d513a",
+        "df4e68f0-9dfa-4625-a1f8-3bb64974c664",
+        "7a27ff15-4e13-469e-b0a5-14beda510a94",
+        "404b55ad-1020-47ed-9d73-4d8b4463f46b",
+        "959e0ab9-d102-4081-a22c-fa7373abb0c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-12-07T00:00:00"
+}
