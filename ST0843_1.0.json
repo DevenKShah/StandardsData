@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 532,
   "referenceNumber": "ST0843",
+  "learningAimClassCode": "",
   "title": "Healthcare cleaning operative",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/532",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0843",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2024-01-02T00:00:00",
   "earliestStartDate": "2020-02-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-12-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing a hygienically clean healthcare environment in which service users, staff and other users can thrive, work and develop.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "healthcare",
+    "science",
+    "cleaning",
+    "hygiene manager",
+    "operative",
+    "health"
+  ],
   "jobRoles": [
     "Care hygiene operatives",
     "Housekeepers",
@@ -23,12 +36,11 @@
     "Cleaning services operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3921/st0843_healthcare_cleaning_operative_l2_ap_for_publication_03022020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/o2ajx53n/st0843_healthcare_cleaning_operative_l2_ap_for_publication_06122022em.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "9233 - Cleaners and domestics",
   "occupationalSummary": "&lt;p&gt;healthcare and hygiene environments that require specific attention to infection control, safety and sanitation for the health and wellbeing of service users. This includes a range of both public and private sector environments that require high levels of cleanliness to avoid the growth of bacteria and the spread of diseases and viruses. The Healthcare Cleaning Operative may also work in establishments that require cleaning to a healthcare standard to prevent adverse effects on the health of high-risk service users.&lt;/p&gt;\n&lt;p&gt;For those undertaking this apprenticeship, their role must solely be for the purpose of cleaning such areas and they must be able to achieve the full breadth of the knowledge, skills and behaviours required to successfully complete this apprenticeship within their everyday role.&lt;/p&gt;\n&lt;p&gt;Establishments this apprenticeship &lt;strong&gt;is&lt;/strong&gt; suitable for include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hospitals&lt;/li&gt;\n&lt;li&gt;Care homes where the operative uses a range of cleaning methods&lt;/li&gt;\n&lt;li&gt;Doctors / dentist surgeries where the operative role includes the cleaning of service user equipment&lt;/li&gt;\n&lt;li&gt;Healthcare settings within prisons and schools where a range of cleaning methods are used and equipment used for providing a healthcare service is also cleaned&lt;/li&gt;\n&lt;li&gt;Large childcare settings where cleaning operatives are responsible for deep cleans and cleaning service user equipment such as children’s toys&lt;/li&gt;\n&lt;li&gt;Leisure facilities where the operative cleans areas, including the poolside and changing rooms&lt;/li&gt;\n&lt;li&gt;Large first aid facilities in establishments such as airports where the cleaning operative has a broad range of duties&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Establishments this Apprenticeship &lt;strong&gt;is&lt;/strong&gt; &lt;strong&gt;not&lt;/strong&gt; suitable for include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Hotels&lt;/li&gt;\n&lt;li&gt;Restaurants&lt;/li&gt;\n&lt;li&gt;Offices&lt;/li&gt;\n&lt;li&gt;School areas unrelated to healthcare settings&lt;/li&gt;\n&lt;li&gt;Any healthcare setting where the operative is not able to achieve the full breadth of knowledge, skills and behaviours required to successfully complete this Apprenticeship within their everyday role&lt;/li&gt;\n&lt;/ul&gt;",
   "knowledges": [
     {
@@ -216,25 +228,28 @@
       "detail": "Portray a positive Corporate image (e.g. customer service, smart appearance)"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0455",
   "tbMainContact": "lisa.hylton@exclusivecontracts.co.uk",
   "involvedEmployers": "3EEE, Wamitab, Fidelis, Sodexo, Birmingham and Solihull Mental Health NHS Foundation Trust, Bristol NHS Trust, Excel Care Holdings, Royal College of Nursing, Serco, Nuffield Health, Vision Homes, NHS Property, University of Northampton, Connect 2 care, HEE, Killis",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -244,14 +259,20 @@
     "Domestic assistant",
     "Cleaning services operative"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Healthcare Science",
   "cluster": "Healthcare Cleaning & Hygiene Operatives",
+  "clusterId": "274",
+  "clusterDescription": "Provide hygienically clean healthcare environments for service users.",
   "createdDate": "2019-10-03T13:58:50 +00:00",
-  "lastUpdated": "2020-02-07T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/healthcare-cleaning-operative-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/healthcare-cleaning-operative-v1-0",
+  "lastUpdated": "2024-01-02T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0843",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0843-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0843-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -270,7 +291,7 @@
         "361c4648-36a3-42a7-831b-49734d7d7f82",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "48e5ba04-b5bf-4170-80a2-89ada6d922b1",
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
@@ -293,7 +314,7 @@
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "5e8f07b6-b453-44d5-a83c-5354b96a9d36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "014d6464-c118-4043-8433-829fdc39e9f4",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -306,12 +327,12 @@
       "dutyID": "1bab7b23-e09a-463b-8bff-4886c279c434",
       "dutyDetail": "Distinguish and demonstrate between cleaning and disinfection procedures to comply with processes to match requirements",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "5e8f07b6-b453-44d5-a83c-5354b96a9d36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -332,7 +353,7 @@
         "1c6248a0-a360-4c9f-9304-5eebb219a841",
         "c41071f1-a423-4f06-9a33-abb97050546f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "014d6464-c118-4043-8433-829fdc39e9f4",
         "9c0b5724-3739-4ee1-98be-18e15b06a1bb",
@@ -352,7 +373,7 @@
         "1db76bfa-d953-4c83-a651-1c2c7049c135",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c0b5724-3739-4ee1-98be-18e15b06a1bb",
         "c49edc17-3b67-4076-ad69-41dce0b8683f"
@@ -370,7 +391,7 @@
         "b50bec73-1a74-42b3-a255-ff3eac460e40",
         "ade0ef04-0307-4d3d-9f09-d0ff9ceae317"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
         "6525a3ab-1ec3-4f4f-8e16-5dc63a2ce9d9",
@@ -389,7 +410,7 @@
         "361c4648-36a3-42a7-831b-49734d7d7f82",
         "6dc4ee38-47c5-478f-a086-c070f3398b06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6525a3ab-1ec3-4f4f-8e16-5dc63a2ce9d9",
         "a91bbbdc-b98f-42bc-8ba9-6a2a75192091",
@@ -408,7 +429,7 @@
         "6ec5988f-e690-48b7-b749-8a8da1f9ff5f",
         "6dc4ee38-47c5-478f-a086-c070f3398b06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3c527400-0052-4ce4-9755-e963527235f0"
       ],
@@ -425,7 +446,7 @@
         "bb681841-64b8-45c3-b11c-55d88878c5c7",
         "1c6248a0-a360-4c9f-9304-5eebb219a841"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4eb9f99c-50cf-4d2f-aa9e-375324c47e2f"
       ],
@@ -444,7 +465,7 @@
         "4344c4b7-5dcd-4602-85cc-b989084ef62e",
         "8e7b04e9-db29-4208-8af3-de44e03c8aa9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b313adfa-0049-43e3-bc67-51507f900679",
         "bdf71ef3-998a-4b3b-adda-6ebb2030620a",
@@ -465,7 +486,7 @@
         "645e6898-f7fa-4ad8-834e-9241fbe8b52e",
         "b9489fcc-ed7a-4892-b5fe-7eebad482c4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a7aa8c21-5d9a-4f2c-8774-81498f1774d5",
         "66f8b43d-fce3-4da8-8ee0-4d5e7c30053c",
@@ -484,7 +505,7 @@
       "mappedKnowledge": [
         "b491c49c-afbd-4eea-81cc-969699ac2af4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3f81f46a-81c9-46a0-b51d-2eac03a21526"
       ],
@@ -500,12 +521,17 @@
       "mappedKnowledge": [
         "b475ae38-29ce-403d-8372-5a7bfcb2f92b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d91193da-13e7-4d8d-80fd-7eeb2605dc66"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-01-02T00:00:00"
 }
