@@ -1,0 +1,996 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 730,
+  "referenceNumber": "ST1359",
+  "learningAimClassCode": "",
+  "title": "Animal care and welfare manager",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1359",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-10-16T00:00:00",
+  "earliestStartDate": "2023-10-16T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Plan and manage the husbandry needs of domestic or wild animals in their care.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 18,
+  "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Agriculture, environmental and animal care",
+  "keywords": [
+    "animal husbandry",
+    "animal care",
+    "animal care and welfare manager",
+    "wild animals",
+    "domestic animals"
+  ],
+  "jobRoles": [
+    "Animal collection officer",
+    "Animal day care supervisor",
+    "Animal welfare officer",
+    "Dog grooming stylist",
+    "Farm park supervisor",
+    "Kennel and cattery manager",
+    "Per retail manager",
+    "Senior animal technician",
+    "Wildlife rehabilitation officer",
+    "Pet retail manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1359-v1-0?view=epa",
+  "ssa1": "3 Agriculture, Horticulture and Animal Care",
+  "ssa2": "3.3 Animal care and veterinary science",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of settings within the animal care sector. Animal care and welfare managers may typically be employed by animal charities, pet care services, pet retailers, entertainment and education.&lt;/p&gt;\n&lt;p&gt;The work is carried out individually or as part of a team in places such as kennels and catteries, animal welfare centres, farm parks, grooming salons rehabilitation centres, retail outlets and during the transportation of animals.&lt;/p&gt;\n&lt;p&gt;They may work for small independent employers through to national pet businesses and could specialise in one or more species. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to plan and manage the husbandry needs of domestic and/ or wild animals in their care. They will problem solve and deal with issues arising relating to the animal’s welfare. They ensure that the welfare needs of individual animals are met and that colleagues are appropriately engaged. They will adapt and prepare for the needs of the individual animal, taking accounts of things such as their life stage, condition or behaviour.&lt;/p&gt;\n&lt;p&gt;The animal care and welfare manager will provide a customer service and deal with client complaints. They will gather information from the customer to support the care and provide advice when appropriate.&lt;/p&gt;\n&lt;p&gt;Typically, an animal care and welfare manager will provide the animals with sustainable, enriching environments and keep the animals in good physical and mental health. They plan and implement suitable groups to prevent conflict and ensure stress free environments, recognising where social contact is not appropriate.&lt;/p&gt;\n&lt;p&gt;An animal care and welfare manager will conduct welfare assessments and prepare plans to meet the bespoke needs of the animal. They ensure accommodation and husbandry requirements are met. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of stakeholders using a variety of communication styles. These may typically include customers, clients, veterinary professionals, licensing officers, service providers, product suppliers and manufacturers. They may also liaise with other animal care professionals and industry bodies. They will share technical knowledge with peers and will support newly appointed carers or volunteers.&#160;&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for providing care to animals in accordance with appropriate legislation, regulations and organisational policies. They oversee the day to day running of the business, working autonomously, planning and carrying out the daily working schedule. They support or supervise others on their team. They will report and maintain necessary records in relation to the animals, their welfare, and the maintenance of relevant equipment.&lt;/p&gt;\n&lt;p&gt;Often working with a variety of species or breeds, they are responsible for detailing nutritional and accommodation requirements which are implemented by colleagues.&lt;/p&gt;\n&lt;p&gt;They have a responsibility to operate in a sustainable manner, adopting environmentally sustainable working practices. They will maintain a professional and safe working environment in line with legislation and company policies and take responsibility for themselves, animals and others. They will be responsible for handling and storing equipment in accordance with company policy/ safety requirements. They will ensure that equipment is disinfected appropriately, and that cleanliness and bio security are maintained. They will dispose of waste materials in line with regulatory requirements.&lt;/p&gt;\n&lt;p&gt;An animal care and welfare manager will have responsibility for handling confidential data and may take payments for services provided. They will also deal with standard customer queries.&#160;&lt;/p&gt;\n&lt;p&gt;They will adhere to legal requirements relevant to their setting and including the Animal Welfare Act 2006, Vet Surgeons Act 1966. They have a responsibility to work safely in accordance with health and safety regulations and company policies.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+      "detail": "The Animal Welfare Act, Veterinary Surgeons Act, animal related legal and regulatory obligations and company policies how they are applied. "
+    },
+    {
+      "knowledgeId": "fd310654-dce5-4672-af80-d2820c372eaf",
+      "detail": "Planning the care of animals taking into account the species, individual requirements and the five animal welfare needs. "
+    },
+    {
+      "knowledgeId": "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+      "detail": "Impact of the animals' environment on animal care and welfare operations. "
+    },
+    {
+      "knowledgeId": "dd037cf1-873a-406e-a915-864ca63c8b8c",
+      "detail": "Sustainable approaches to feed, accommodation and waste management. "
+    },
+    {
+      "knowledgeId": "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+      "detail": "Species and breed characteristics, the common problems associated with them and how they influence the healthcare plan. "
+    },
+    {
+      "knowledgeId": "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+      "detail": "Techniques to interpret animal behaviour, and how animal behaviour affects animal health care plans. "
+    },
+    {
+      "knowledgeId": "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+      "detail": "Animal enrichment requirements and methods."
+    },
+    {
+      "knowledgeId": "1d8a5504-243d-489c-aee8-df8c8c0e70db",
+      "detail": "How the principles of animal learning can be applied in the workplace. "
+    },
+    {
+      "knowledgeId": "4b389b7d-cc67-4f04-b089-a8103278c710",
+      "detail": "Signs of pain, injury, disease and distress and how this information is used to inform and adapt care plan to ensure animal welfare of different breeds or species. "
+    },
+    {
+      "knowledgeId": "77750980-88a9-4434-b3e2-a191d26c7925",
+      "detail": "Preventative healthcare approaches for animals. "
+    },
+    {
+      "knowledgeId": "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+      "detail": "Methods used to assess the health and weight of the animal and how health and weight impact on feeding and care requirements. "
+    },
+    {
+      "knowledgeId": "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+      "detail": "Principles of planning feeding schedules (including appropriate feeds, frequency, and feeding methods). "
+    },
+    {
+      "knowledgeId": "e419b4d9-0837-4243-a246-38edc4b92331",
+      "detail": "Techniques used for handling, moving and transporting animals and their advantages and limitations. "
+    },
+    {
+      "knowledgeId": "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+      "detail": "Animal accommodation requirements and methods, including dimensions and setup costs."
+    },
+    {
+      "knowledgeId": "d19eb886-093e-4315-9b72-977448c32dcb",
+      "detail": "How to deal with animal health emergency situations. "
+    },
+    {
+      "knowledgeId": "dd35b4f7-de46-4f71-b140-1409d1f910e6",
+      "detail": " The limits of personal responsibility and when and where escalation is required."
+    },
+    {
+      "knowledgeId": "2723833d-825e-450d-8245-53b799b0ea3d",
+      "detail": "Risk assessment development, recording and monitoring  processes. "
+    },
+    {
+      "knowledgeId": "402249e6-dbe7-495a-8388-b271335524aa",
+      "detail": "The importance of biosecurity and how risks can be managed through disinfecting, cleaning and correct disposal of waste. "
+    },
+    {
+      "knowledgeId": "69d4b245-bab9-47e1-8c42-963d62e789dd",
+      "detail": "Strategies for delivering customer feedback and advice in relation to animal health, behaviour and welfare. "
+    },
+    {
+      "knowledgeId": "920d9c39-7fb9-4611-890e-754ce443a0b5",
+      "detail": "How to access credible and reliable sources of information to keep up to date with advances in working practices and technologies. "
+    },
+    {
+      "knowledgeId": "ad708770-d2a6-47e7-8918-053240ff815c",
+      "detail": "Legal and statutory health and safety obligations and how they impact on the organisation."
+    },
+    {
+      "knowledgeId": "9d29d718-d750-4447-8898-e2e26adb6caa",
+      "detail": "How to identify and recommend improvement opportunities for business working practices. "
+    },
+    {
+      "knowledgeId": "c651801f-2d3c-47ee-9692-f25b4dcd8e26",
+      "detail": "Project management techniques to monitor and allocate resources to deliver an efficient animal care service within budget constraints. "
+    },
+    {
+      "knowledgeId": "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+      "detail": "The importance of key performance indicators and how they are measured. "
+    },
+    {
+      "knowledgeId": "336f37f1-f2dd-4820-b533-9c8bb3f5b846",
+      "detail": "Approaches to build and maintain customer and stakeholder relationship and effective approaches to managing difficult conversations. "
+    },
+    {
+      "knowledgeId": "748725e1-4c1f-4d61-a460-af36634e267b",
+      "detail": "The suitability of different communication styles for different audiences and to meet the desired outcome."
+    },
+    {
+      "knowledgeId": "efeb29ea-6819-4135-8db1-38ac72afc013",
+      "detail": "People and team supervision strategies, including team dynamics, motivation,  coaching,  mentoring  and training techniques."
+    },
+    {
+      "knowledgeId": "64bcd093-6082-43f8-9327-ddbc2dd56130",
+      "detail": "How to conduct performance appraisals and develop personal actions plans."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+      "detail": "Animal welfare focussed, showing respect and empathy for animals in their care."
+    },
+    {
+      "behaviourId": "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+      "detail": "Takes ownership of work."
+    },
+    {
+      "behaviourId": "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+      "detail": "Puts safety first for self and others."
+    },
+    {
+      "behaviourId": "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+      "detail": "Committed to keeping up to date with industry best practice and source solutions to improve working processes."
+    },
+    {
+      "behaviourId": "0d041b03-734a-4fcd-a594-2e478832febb",
+      "detail": "Respectful of others."
+    },
+    {
+      "behaviourId": "9d6a6234-5a11-4ff9-8f8c-404e0cbfc8a4",
+      "detail": "Committed to personal Continual Professional Development (CPD) and applying learning to everyday practice."
+    },
+    {
+      "behaviourId": "4d8f2282-c58c-4631-a1ce-4456daddb809",
+      "detail": "Team focussed and works effectively with stakeholders."
+    },
+    {
+      "behaviourId": "9ac4989e-a71e-475f-bde1-557f7165203a",
+      "detail": "Embraces equality, diversity and inclusion."
+    },
+    {
+      "behaviourId": "c90c4d8b-b0dd-4bee-92c0-2551086aac16",
+      "detail": "Adapts communication style to the audience. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b9711290-f327-4243-a37d-6eb78f9809df",
+      "detail": "Provide care for animals to meet their welfare needs and in accordance with company policy, legal and regulatory obligations."
+    },
+    {
+      "skillId": "d71f9d48-caa5-4afb-8288-b291efb08515",
+      "detail": "Monitor and oversee animal care ensuring the five welfare needs are met and in accordance with company policy, legislation and regulations."
+    },
+    {
+      "skillId": "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+      "detail": "Evaluate animal behavioural characteristics in order to establish animal care requirements. "
+    },
+    {
+      "skillId": "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+      "detail": "Assess and evaluate animal health using the least invasive methods and use this to inform the care plan. "
+    },
+    {
+      "skillId": "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+      "detail": "Deliver medical and preventative treatments in accordance with company policies and following veterinary advice. "
+    },
+    {
+      "skillId": "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+      "detail": "Handle and move animals using the least invasive, minimally aversive methods suitable for the situation. "
+    },
+    {
+      "skillId": "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+      "detail": "Assess animal weight and carry out body condition scoring. "
+    },
+    {
+      "skillId": "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+      "detail": "Produce care plans to meet the welfare needs of the animal."
+    },
+    {
+      "skillId": "ac891525-d3d7-458c-858c-a6175fe7463e",
+      "detail": "Implement animal socialisation strategies to ensure animal health and welfare is maintained."
+    },
+    {
+      "skillId": "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+      "detail": "Select sustainable accommodation solutions that ensure the welfare, safety and security of animals. "
+    },
+    {
+      "skillId": "6ffba002-ba1f-416a-8bba-bebe54262013",
+      "detail": "Manage biosecurity risks by ensuring disinfecting, cleaning and waste disposal in line with company procedures and legislation. "
+    },
+    {
+      "skillId": "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+      "detail": "Complete health and safety risk assessments. "
+    },
+    {
+      "skillId": "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+      "detail": "Monitor compliance with risk assessments and provide feedback to support the development of health and safety policies. "
+    },
+    {
+      "skillId": "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+      "detail": "Resolve customer complaints. "
+    },
+    {
+      "skillId": "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+      "detail": "Collaborate with colleagues, supply chains and customers."
+    },
+    {
+      "skillId": "90c339a7-1561-4348-888c-93a26ed538db",
+      "detail": "Supervise the day to day running of the business (including the allocation of resources, ordering stock and scheduling workload). "
+    },
+    {
+      "skillId": "e99ca706-96fc-4677-8327-81d067848bc7",
+      "detail": "Keep up to date with advances in animal care working practices and technologies and identify opportunities for these to be applied."
+    },
+    {
+      "skillId": "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+      "detail": "Monitor the health and safety of animals and people in accordance with company policies and procedures."
+    },
+    {
+      "skillId": "e7bd4bc0-85aa-4761-b34b-86e7cc77b503",
+      "detail": "Support and mentor colleagues and provide constructive feedback. "
+    },
+    {
+      "skillId": "2e477521-2c2b-4e25-ad37-7182370e7f4c",
+      "detail": "Seek feedback and identify personal development needs. Undertake and apply learning from relevant continual professional development.  "
+    },
+    {
+      "skillId": "b2f49222-49f9-4792-b3df-08a28377a0b2",
+      "detail": "Provide operational information to inform team goals and objective setting."
+    },
+    {
+      "skillId": "9552cd0d-2320-496e-b6e0-90b63e59e15a",
+      "detail": "Monitor progress towards the achievement of team goals and objectives. "
+    },
+    {
+      "skillId": "ba7ad297-7bda-4869-925c-9d863d942bde",
+      "detail": "Assimilate information to make changes to the animal care provision."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-10-16T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0832",
+  "tbMainContact": "joanneangus@uwclub.net",
+  "involvedEmployers": "Animal Focused,  Look North Grooming, Scenterbarks, Babcock International Group, Best Friends Pets, Cats Protection, Dogs play daycare, Dogs Trust, EBC Pets, Four Paws Groom School, KennelPak, Haddon Training,Keits, Lantra, Noah's ark dog grooming , RSPCA,  Pets at Home, Redwings,   Sheldrake Training Ltd, Vetskill. Westmead Kennels,\n\n   ",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Animal collection officer",
+    "Animal day care supervisor",
+    "Animal welfare officer",
+    "Dog grooming stylist",
+    "Farm park supervisor",
+    "Kennel and cattery manager",
+    "Per retail manager",
+    "Senior animal technician",
+    "Wildlife rehabilitation officer",
+    "Pet retail manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Animal Care and Management",
+  "cluster": "Animal Care and Welfare Assistant",
+  "clusterId": "148",
+  "clusterDescription": "Routine and detailed care, handling and training of animals",
+  "createdDate": "2023-12-15T13:47:42 +00:00",
+  "lastUpdated": "2023-10-16T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-10-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1359",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1359-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1359-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "63fa798a-a8af-425d-ab8b-7144658c1c5a",
+      "dutyDetail": "Oversee and monitor the provision of care to animals in accordance with appropriate legislation, regulations and organisational policies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "1d8a5504-243d-489c-aee8-df8c8c0e70db",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "d19eb886-093e-4315-9b72-977448c32dcb",
+        "dd35b4f7-de46-4f71-b140-1409d1f910e6",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1ff6ebf0-762f-497b-8c71-7efa4c479cca",
+      "dutyDetail": "Assess and evaluate animal behaviour and health to establish care requirements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "1d8a5504-243d-489c-aee8-df8c8c0e70db",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6ef98cee-528d-422d-9b3b-405852a063ea",
+      "dutyDetail": "Provide animals with suitable social contact to prevent conflict and ensure stress free environments, recognising where social contact is not appropriate taking into account the individual requirements of the animal e.g. species, breed, animal life stage, health conditions. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "1d8a5504-243d-489c-aee8-df8c8c0e70db",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3de0d48c-0def-480c-bd51-40f31f8acbe5",
+      "dutyDetail": "Plan bespoke and sustainable accommodation to ensure animal welfare, safety and security.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9e7d51ea-3134-4141-8679-ca90ab8ef38b",
+      "dutyDetail": "Plan feeding to suit individual animal needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "823cb44a-698d-47e1-99a2-a289f8ab101e",
+      "dutyDetail": "Develop and implement tailored healthcare plans to meet individual animal needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "1d8a5504-243d-489c-aee8-df8c8c0e70db",
+        "4b389b7d-cc67-4f04-b089-a8103278c710",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "ea7b2d5a-ebf5-4806-9518-b13f960c4837",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "52c4ce81-e1f3-4533-ae4f-e273b7da21a8",
+      "dutyDetail": "Collaborate with stakeholders and manage difficult conversations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb",
+        "4d8f2282-c58c-4631-a1ce-4456daddb809",
+        "9ac4989e-a71e-475f-bde1-557f7165203a",
+        "c90c4d8b-b0dd-4bee-92c0-2551086aac16"
+      ],
+      "mappedKnowledge": [
+        "dd35b4f7-de46-4f71-b140-1409d1f910e6",
+        "69d4b245-bab9-47e1-8c42-963d62e789dd",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "336f37f1-f2dd-4820-b533-9c8bb3f5b846",
+        "748725e1-4c1f-4d61-a460-af36634e267b",
+        "efeb29ea-6819-4135-8db1-38ac72afc013",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "e7bd4bc0-85aa-4761-b34b-86e7cc77b503"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a4d872ac-e301-4339-98b2-1aeba24573cf",
+      "dutyDetail": "Contribute to the development of Health and Safety policies, carry out risk assessments and monitor and maintain biosecurity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "d19eb886-093e-4315-9b72-977448c32dcb",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df7bdd88-8584-41dc-aa78-fc57db9b6afc",
+      "dutyDetail": "Oversee the day-to-day running of the business and minimise the impact on the environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb",
+        "4d8f2282-c58c-4631-a1ce-4456daddb809",
+        "9ac4989e-a71e-475f-bde1-557f7165203a",
+        "c90c4d8b-b0dd-4bee-92c0-2551086aac16"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "d19eb886-093e-4315-9b72-977448c32dcb",
+        "dd35b4f7-de46-4f71-b140-1409d1f910e6",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "69d4b245-bab9-47e1-8c42-963d62e789dd",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "c651801f-2d3c-47ee-9692-f25b4dcd8e26",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "336f37f1-f2dd-4820-b533-9c8bb3f5b846",
+        "748725e1-4c1f-4d61-a460-af36634e267b",
+        "efeb29ea-6819-4135-8db1-38ac72afc013",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "b2f49222-49f9-4792-b3df-08a28377a0b2",
+        "9552cd0d-2320-496e-b6e0-90b63e59e15a",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bef37ba5-e518-4562-ab4b-c695280b1452",
+      "dutyDetail": "Supervise or support and mentor colleagues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb",
+        "4d8f2282-c58c-4631-a1ce-4456daddb809",
+        "9ac4989e-a71e-475f-bde1-557f7165203a",
+        "c90c4d8b-b0dd-4bee-92c0-2551086aac16"
+      ],
+      "mappedKnowledge": [
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "69d4b245-bab9-47e1-8c42-963d62e789dd",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "336f37f1-f2dd-4820-b533-9c8bb3f5b846",
+        "748725e1-4c1f-4d61-a460-af36634e267b",
+        "efeb29ea-6819-4135-8db1-38ac72afc013",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "e7bd4bc0-85aa-4761-b34b-86e7cc77b503",
+        "b2f49222-49f9-4792-b3df-08a28377a0b2",
+        "9552cd0d-2320-496e-b6e0-90b63e59e15a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e110fa7b-dbdf-4df7-8660-2b6ec79f022c",
+      "dutyDetail": "Keep up to date with advances in animal care working practices and emerging technologies. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "9d6a6234-5a11-4ff9-8f8c-404e0cbfc8a4"
+      ],
+      "mappedKnowledge": [
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "920d9c39-7fb9-4611-890e-754ce443a0b5",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "9d29d718-d750-4447-8898-e2e26adb6caa",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "e99ca706-96fc-4677-8327-81d067848bc7",
+        "2e477521-2c2b-4e25-ad37-7182370e7f4c",
+        "b2f49222-49f9-4792-b3df-08a28377a0b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bfe39df0-208a-47a5-a56d-2a27e159abda",
+      "dutyDetail": "Schedule activities and allocate resources based on the work environment and incoming work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb",
+        "4d8f2282-c58c-4631-a1ce-4456daddb809",
+        "9ac4989e-a71e-475f-bde1-557f7165203a"
+      ],
+      "mappedKnowledge": [
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "45a40fbb-bc46-4df7-9e6f-956af3b89316",
+        "b773096e-b22b-4a23-9c03-b076d6e4ec3c",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "63ff1246-dd01-4ce0-9bb9-0b53f6af05d6",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "c651801f-2d3c-47ee-9692-f25b4dcd8e26",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "748725e1-4c1f-4d61-a460-af36634e267b",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "9552cd0d-2320-496e-b6e0-90b63e59e15a",
+        "ba7ad297-7bda-4869-925c-9d863d942bde"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ebff426-3280-41c0-9d1e-331e5ca7d933",
+      "dutyDetail": "Maintain a professional, safe and welfare focussed working environment in line with legislation and company policies and take responsibility for themselves, animals and others.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d55c01e5-3b1c-4a7d-9233-bf6640df5074",
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "7eb1fbe0-58eb-442b-a541-d91d3d04942c",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "9d6a6234-5a11-4ff9-8f8c-404e0cbfc8a4",
+        "9ac4989e-a71e-475f-bde1-557f7165203a"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "fd310654-dce5-4672-af80-d2820c372eaf",
+        "d5baa1ed-a934-4052-858c-6cb45913f1bd",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "4d58c5a9-4044-4f06-a734-d6c674f8f748",
+        "77750980-88a9-4434-b3e2-a191d26c7925",
+        "e419b4d9-0837-4243-a246-38edc4b92331",
+        "5c8d82e0-411a-4998-9bc0-ed3dd61a924f",
+        "d19eb886-093e-4315-9b72-977448c32dcb",
+        "2723833d-825e-450d-8245-53b799b0ea3d",
+        "402249e6-dbe7-495a-8388-b271335524aa",
+        "69d4b245-bab9-47e1-8c42-963d62e789dd",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "748725e1-4c1f-4d61-a460-af36634e267b",
+        "efeb29ea-6819-4135-8db1-38ac72afc013"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "30eddf38-410b-45b2-b07e-81c1c7d959bb",
+        "d768d1ca-1081-4fd5-9b31-30a87b544e15",
+        "fd72b2f6-57f9-4f8f-800c-1a9d08f1152c",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "b0a99640-11e7-4abe-9128-abfa2f1737a4",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "6ffba002-ba1f-416a-8bba-bebe54262013",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba12ffa3-94e8-45f8-a6a4-448b355c5915",
+      "dutyDetail": "Identify and promote opportunities for continuous improvement to working practices and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2942a5db-ad49-41a7-8418-7a3b75db7a16",
+        "d1e40736-09aa-4c3e-8d57-76c6b2bb4f1e",
+        "0d041b03-734a-4fcd-a594-2e478832febb",
+        "9d6a6234-5a11-4ff9-8f8c-404e0cbfc8a4",
+        "9ac4989e-a71e-475f-bde1-557f7165203a",
+        "c90c4d8b-b0dd-4bee-92c0-2551086aac16"
+      ],
+      "mappedKnowledge": [
+        "8512daaa-1a48-4ca2-ace7-7eed7acae441",
+        "dd037cf1-873a-406e-a915-864ca63c8b8c",
+        "dd35b4f7-de46-4f71-b140-1409d1f910e6",
+        "920d9c39-7fb9-4611-890e-754ce443a0b5",
+        "ad708770-d2a6-47e7-8918-053240ff815c",
+        "9d29d718-d750-4447-8898-e2e26adb6caa",
+        "c651801f-2d3c-47ee-9692-f25b4dcd8e26",
+        "0508f64f-d2d9-4d0b-8c56-636dc12221bc",
+        "64bcd093-6082-43f8-9327-ddbc2dd56130"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b9711290-f327-4243-a37d-6eb78f9809df",
+        "d71f9d48-caa5-4afb-8288-b291efb08515",
+        "f0e891d0-38a9-4fc6-97f2-066779657c4d",
+        "a86e4287-b9ee-469d-8ca4-5e2206b77641",
+        "ac891525-d3d7-458c-858c-a6175fe7463e",
+        "b7511960-9aef-4b76-bae2-0fe4ab939e76",
+        "55427cd1-dfcc-45b4-8afd-d516974d27fd",
+        "39693e09-ebcc-42d5-9f80-1ae39829fc1c",
+        "258fffcd-efd3-4edb-8d74-4f474a6d2d07",
+        "4026d08a-7197-4a8b-bbb5-5b2eaf10da33",
+        "90c339a7-1561-4348-888c-93a26ed538db",
+        "e99ca706-96fc-4677-8327-81d067848bc7",
+        "73486ae9-2e1a-4ae0-b4ea-3d9592ce4083",
+        "e7bd4bc0-85aa-4761-b34b-86e7cc77b503",
+        "2e477521-2c2b-4e25-ad37-7182370e7f4c",
+        "b2f49222-49f9-4792-b3df-08a28377a0b2",
+        "9552cd0d-2320-496e-b6e0-90b63e59e15a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-10-16T00:00:00"
+}
