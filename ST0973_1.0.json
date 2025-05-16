@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 618,
   "referenceNumber": "ST0973",
+  "learningAimClassCode": "",
   "title": "Information communications technician",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/618",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0973",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-05-14T00:00:00",
   "earliestStartDate": "2021-05-04T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-05-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Deliver efficient operation and control of the IT.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "ICT",
@@ -43,12 +49,11 @@
     "IT Support Analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5092/st0973_information-communication-technician_l3_ap-for-publication_130521.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5092/st0973_information-communication-technician_l3_ap-for-publication_130521.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in organisations, large and small, in all sectors, and within public, private and voluntary organisations.&lt;br /&gt;&lt;br /&gt;Organisations increasingly rely on computer and communications systems in all areas of their operations and decision-making processes. It is therefore crucial to ensure the optimal performance and maintenance of systems. An Information Communication Technician (ICT) is critical to achieving this.&lt;br /&gt;&lt;br /&gt;The broad purpose of the ICT occupation is to deliver efficient operation and control of the IT and/or Telecommunications infrastructure (comprising physical or virtual hardware, software, network services and data storage) either on-premises or to end-users provisioned as cloud services that is required to deliver and support the information systems needs of an organisation.&lt;br /&gt;&lt;br /&gt;The occupation includes contributing to the preparation for new or changed services, operation of the change process, the maintenance of regulatory, legal and professional standards, the building and management of systems and components in virtualised and cloud computing environments and the monitoring of performance of systems and services in relation to their contribution to business performance, their security and their sustainability. &lt;br /&gt;&lt;br /&gt;The Information Communications Technician makes their contribution through the application of infrastructure management tools to automate the provisioning, testing, deployment and monitoring of infrastructure components.&lt;br /&gt;&lt;br /&gt;An Information Communications Technician (ICT) provides support to internal and/or external customers, by using tools or systems to problem solve and trouble-shoot routine and non-routine problems. This occupation supports clients/customers with their systems. They achieve this through monitoring and maintaining the systems and/or platforms to maximise productivity and user experience. &lt;br /&gt;&lt;br /&gt;An ICT could be installing and configuring computer systems, diagnosing hardware and/or software faults, solving technical and applications problems, either remotely or in person. Some examples of these issues are slow performance, connection problems, and an inability to access data.&lt;br /&gt;&lt;br /&gt;The work of an ICT involves undertaking a vast array of specialist roles supporting business critical requirements and focus on customer solutions. Networking, Server, IT Essentials, Secure Communications, programming, and databases are just an example of typical tasks and projects undertaken within the likely areas of employment.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide variety of internal or external users of digital systems, through digital channels, remotely and/or face to face. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for prioritising systems support tasks as they arise and for monitoring and maintaining system performance. They may work alone or as part of a team but will escalate problems in line with their organisation&#39;s policies and Service Level Agreements. For example, if the task may not be completed on premise, it may have to be referred to an external specialist.&lt;br /&gt;&lt;br /&gt;The Support Technician role is desk based resolving system user queries and resolving faults in a helpdesk environment. For example, a Support Technician in a Travel Agent would use a system to manage their customer bookings and when the system fails it needs rectifying rapidly in order to reduce the financial impact and damage to customer reputation. The business would contact a Support Technician to report the problem and either get it fixed or escalated to an engineer.&lt;br /&gt;&lt;br /&gt;A Network Technician role is usually desk based but may involve visits to client’s premises to resolve issues. For example, a Network Technician working in a university or a college they may be installing a computer lab as a training suite including cabling and hardware requirements. They may be required to install cloud services to support a business expansion and provide better network services. &lt;br /&gt;In a contact centre environment, they may use network management tools to collect and report on network load and performance statistics to improve commercial outcomes. &lt;br /&gt;In a retail bank they may contribute to the implementation of maintenance and installation work using standard procedures and tools to carry out defined system backups, restoring data where necessary.&lt;br /&gt;&lt;br /&gt;A Digital Communications Technician may be desk or field-based resolving faults and issues with communications systems. For example, working in a defence organisation operates as an Online Network Technician they would be at the heart of every mission solving complex issues, enabling the secure exchange of mission critical and often Top-Secret information. It would be their responsibility to administer and provide specialist communications and IT equipment including classified information and cryptographic material to guarantee Operational Capability is delivered to the Command.&lt;br /&gt;&lt;br /&gt;A digital communications technician working for a large telecom’s organisation could be involved in the build, test and integration of end-to-end customer solutions to support customer order delivery. Not to mention the build, test and maintenance of core and mobile radio access networks, working with both internal and external customers.&lt;br /&gt;&lt;br /&gt;A digital communications technician working for a large telecom’s organisation could be involved in the build, test and integration of end-to-end customer solutions to support customer order delivery. Not to mention the build, test and maintenance of core and mobile radio access networks, working with both internal and external customers.&lt;br /&gt;&lt;br /&gt;.&lt;/p&gt;",
   "knowledges": [
     {
@@ -372,38 +377,28 @@
       "detail": "Use information necessary to identify operational issues and rectify or escalate accordingly in line with policy"
     }
   ],
-  "options": [
-    {
-      "optionId": "9a8e541c-731e-4621-83ca-796eafe09cac",
-      "title": "Support Technician"
-    },
-    {
-      "optionId": "f8ebdf2b-f382-400e-afcd-0111d6fd1585",
-      "title": "Network Technician"
-    },
-    {
-      "optionId": "9e8302e9-4afb-4c1a-b331-d09654f19da5",
-      "title": "Digital Communications Technician"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2021-05-04T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0547",
   "tbMainContact": "Rebecca.plant@microsoft.com",
   "involvedEmployers": "Royal Air Force\r\nRoyal Navy\r\nVodafone\r\nVirgin Media\r\nVirgin Media\r\nBT\r\nLloyds Bank\r\nRisual Ltd\r\nHalifax\r\nUKRI\r\nT2000\r\nFirstFinance",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -424,19 +419,25 @@
     "Maintenance Support Technician",
     "IT Support Analyst"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
   "cluster": "IT Support and Services Technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2021-05-05T07:42:49 +00:00",
-  "lastUpdated": "2021-05-05T07:42:49 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/information-communications-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/information-communications-technician-v1-0",
+  "lastUpdated": "2021-05-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-04T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0973",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0973-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0973-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "RITTech",
-      "level": "0",
+      "level": "3",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -457,7 +458,7 @@
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e",
         "f7d8c4f5-9eb5-4335-9df7-fd241cec0a01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "927103fc-a48e-42c9-a385-a7a8ed896bdf",
@@ -483,7 +484,7 @@
         "22cf6ab1-1ed3-47fb-914e-6701fdb97c6d",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "60775906-94d7-4007-ab16-ce4e5d0e7f58",
@@ -506,7 +507,7 @@
         "40d6cdc7-9f29-4d45-ace1-4df402c1089a",
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -527,7 +528,7 @@
         "0aed0dab-9af9-42ee-b4a8-d77a51b30387",
         "7c92b16a-22c8-452d-8159-f5e4f449abe7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -554,7 +555,7 @@
         "7c92b16a-22c8-452d-8159-f5e4f449abe7",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -577,7 +578,7 @@
         "9279f293-f062-4416-bff9-c877ea34253b",
         "7f4d6a55-3c88-4de3-8f57-568bdf74063e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "927103fc-a48e-42c9-a385-a7a8ed896bdf",
@@ -605,7 +606,7 @@
         "7c92b16a-22c8-452d-8159-f5e4f449abe7",
         "c4b12f7d-7c7c-478b-aeb7-c502ea2b1892"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
         "8f4bb440-54f8-4432-970c-dbb1c5e4971d",
@@ -621,8 +622,8 @@
       "mappedBehaviour": [
         "11982ef9-0489-4eb3-8ced-53de2320bf2e"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "927103fc-a48e-42c9-a385-a7a8ed896bdf"
       ],
@@ -646,7 +647,7 @@
         "e6ca1d0c-535c-4abe-acd1-495f8671f023",
         "f7d8c4f5-9eb5-4335-9df7-fd241cec0a01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0646f4d9-d586-406c-ad13-0dc4ec5a053b",
         "30d07fd1-6e0e-4f28-9bfc-bf54f3e0fe12",
@@ -915,7 +916,7 @@
       "dutyID": "d6ee1d0b-d9c1-4508-9dbb-7fc5bd3297ed",
       "dutyDetail": "Research solutions to maintain network communication architectures",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "2820f7c6-56db-4978-84a8-3e3c9a479595",
         "687c2636-dc3b-4b2b-8f98-5cc05fead436",
@@ -935,7 +936,7 @@
       "dutyID": "fbd97494-03a0-4536-be99-95b79fbcb6bc",
       "dutyDetail": "Monitor and report telecommunications or communications systems performance to enable service delivery. ",
       "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "687c2636-dc3b-4b2b-8f98-5cc05fead436",
         "8194ced2-ab26-48bd-bc7a-4218e93a9a68",
@@ -951,5 +952,26 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "9a8e541c-731e-4621-83ca-796eafe09cac",
+      "title": "Support Technician",
+      "occupationCode": "OCC0973C"
+    },
+    {
+      "optionId": "f8ebdf2b-f382-400e-afcd-0111d6fd1585",
+      "title": "Network Technician",
+      "occupationCode": "OCC0973B"
+    },
+    {
+      "optionId": "9e8302e9-4afb-4c1a-b331-d09654f19da5",
+      "title": "Digital Communications Technician",
+      "occupationCode": "OCC0973A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2023-05-24T00:00:00"
 }
