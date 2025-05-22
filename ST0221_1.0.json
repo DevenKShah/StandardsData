@@ -1,19 +1,25 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 429,
   "referenceNumber": "ST0221",
+  "learningAimClassCode": "",
   "title": "Archaeological technician",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/429",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0221",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2022-08-24T00:00:00",
   "earliestStartDate": "2019-03-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-08-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing support during archaeological investigations, which may comprise surveys, excavations and post-excavation analysis.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Archaeologist",
@@ -25,51 +31,289 @@
     "Environmental Processor",
     "Environmental Technician"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Archaeological fieldwork technician",
+    "Archaeologist",
+    "Environmental processor",
+    "Environmental technician",
+    "Finds assistant",
+    "Finds processor",
+    "Finds technician",
+    "Site assistant"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2777/st0221_archaeological-technician_level-3_ap-ready-for-publishing_290319.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2777/st0221_archaeological-technician_level-3_ap-ready-for-publishing_290319.pdf",
   "ssa1": "10 History, Philosophy and Theology",
   "ssa2": "10.2 Archaeology and archaeological sciences",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;&lt;strong&gt;Apprenticeship Standard for Archaeological Technician&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Level 3&#160;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;1. Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Generic Job titles in the field of Archaeological Investigation include: Archaeologist; Site Assistant; Archaeological Fieldwork Technician; Finds Processor; Finds Technician; Finds Assistant; Environmental Processor; Environmental Technician.&lt;/p&gt;\r\n&lt;p&gt;Archaeological Technicians provide support to Archaeologists undertaking (usually commercially funded) Archaeological &lt;em&gt;Investigation&lt;/em&gt;, which may comprise surveys, excavations and post-excavation analysis. Those working within Archaeological &lt;em&gt;Investigation&lt;/em&gt; are responsible for the safe undertaking of surveys, excavations, analyses, publications and archiving, in accordance with industry standards and guidelines including, but not exclusive to, those of the Chartered Institute for Archaeologists (CIfA).&lt;/p&gt;\r\n&lt;p&gt;An Archaeological Technician may work on site or in a laboratory. Their work could involve contributing to intrusive and non-intrusive Archaeological &lt;em&gt;Investigation&lt;/em&gt; by: assisting with manual excavation of archaeological deposits; assisting with recovery of artefacts and environmental samples; assisting with data gathering tasks and site surveys; undertaking the processing of artefacts and soil samples; washing, labelling, bagging and cataloguing artefacts; processing and sorting environmental samples; data entry; archiving of materials, records and digital data. An Archaeological Technician could work in the private, public or charitable sector, and for organisations of all sizes.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;2. Requirements: Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 156px;&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 467px;&quot; width=&quot;467&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;The Archaeological Technician will know and understand:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Judgement and Ethics&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The limits of their own understanding, abilities and responsibilities, and how to practice within them (K5)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;4&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Research and Analyse&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The role and purpose of project specific Written Schemes of Investigations (WSIs) and Project or Research Designs (K6)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Sources and types of existing data, including records and collections held at museums, Historic England (HE) the National Monuments Record (NMR), local authority Historic Environment Records (HERs), the Archaeology Data Service (ADS), local and national libraries, the Environment Agency (K7)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The role and purpose of project specific finds and environmental specialist reports and typescript archaeological investigation reports (K4)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The fundamentals of British archaeological practice and chronology, including a broad understanding and recognition of archaeological site types, periods, artefacts and ecofacts (K1)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Maintain Compliance&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The fundamentals of the relevant Health and Safety legislation and construction site Health &amp;amp; Safety. For example, this may include gaining a relevant Construction Skills Certification Scheme (CSCS) qualification. (K2)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to recognise and report risks. (K3)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Their Employer’s Health and Safety Policy and Procedures and operational procedures, including risk assessment, technical manuals and recording systems, and how those relate to industry Chartered Institute for Archaeologists (CIfA) standards, including their Employer’s technical manuals, procedures and guidance for: fieldwork recording, survey, artefact and environmental sample collection and artefact/environmental sample processing and archiving. (K8)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Plan and Prepare for Work (K9)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How their work programme is determined and to whom they report to&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to select the appropriate tools and equipment for the job&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to identify milestones and targets&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;7&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Carry out work&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Archaeological site formation processes and&#160; stratigraphy (analysis of the order and position of layers of archaeological remains) (K10)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to identify and collect (and protect) appropriate artefacts and environmental samples (K11)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to adapt procedures and practices to suit different ground/soil/weather conditions, archaeological materials,&#160; logistical and Client requirements (K12)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to record and store data recovered from archaeological works, including contextual data, plan and digital data, artefactual and ecofactual data in accordance with the manuals, procedures and guidance of the Employer (K13)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Basic short-term artefact protection, stabilisation and storage principles, such as the safe recovery and bagging of fragile artefacts, correct labelling of artefacts and samples, and ensuring appropriate short-term storage and safe/secure transportation (K14)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to present and report results, including basic use of spreadsheets and databases (K15)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to prepare themselves appropriately for work in a range of environments and weather conditions (K16)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;4&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Identify and respond to customer/client needs (K17)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Where to find, and how to interpret, key project-specific documentation including sampling strategies and research objectives&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to access their Employer’s technical manuals and guidance&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to&#160; maintain honest and constructive colleague relationships&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Their role in the context of the project or material on which they are working&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Personal/Professional Development (K18)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to develop a personal action plan for learning and self-development with realistic but challenging objectives&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;How to select and apply appropriate learning techniques and methods&lt;/p&gt;\r\n&lt;p&gt;How to identify personal goals, expectations and priorities&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;The Archaeological Technician will be able to:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Judgement and Ethics&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Apply an awareness of professional judgement and ethical behaviour (S8)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Research and Analyse&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Research and assimilate appropriate background information, including that from project specific Written Schemes of Investigation, archaeological archives and reports, aerial photographic collections, LiDAR data, and geophysical and topographic surveys and local and national listings (S1)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Catalogue data recovered from archaeological excavations, including environmental and geological samples, artefacts and ecofacts (S2)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Maintain Compliance (S3)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Maintain their own safety, and that of others, by adhering to all applicable Health and Safety rules, policies and procedures&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Recognise and report risks in order to reduce the risk of incidents&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Conduct work in line with Employer’s and industry procedures and standards, specifically the CIfA Standards and Guidance for Archaeological Excavation, Watching Brief, Evaluation and Archives&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Plan and Prepare for Work (S4)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Establish the requirements upon them for forthcoming projects, including timescales, deadlines, work locations and supervisors&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Estimate resources and select appropriate equipment, including hand tools, survey, recording and measuring equipment, and artefact sampling, collection packaging, labelling and processing equipment&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;5&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Carry out work (S6)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Investigate and understand archaeological sites and heritage assets&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Recognise and be able to appropriately package and preserve fragile material evidence of past communities&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Compile catalogues and databases of archaeological context records, samples and finds&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Contribute to the preparation of archaeological site archives and materials for museum deposition&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Carry out work both indoors and outdoors in variable weather conditions, all year round&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;5&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Identify and respond to customer/client needs (S7)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Identify information required to achieve research objectives, for instance reference to project specific Written Schemes of Investigation for archaeological strategies, and to appropriate published regional, period or subject research agendas&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Follow correct procedures to access and use information, including Employer’s technical manuals, GIS systems and databases&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Validate/evaluate accuracy of&#160; information, including proof reading of data entry and reports&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Categorise and classify data appropriately, including creation of databases and stratigraphic matrices for archaeological excavations&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Present and report data using field records in appropriate form for various audiences, including plans, sections, pro-forma context recording sheets and databases&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;Personal and Professional Development (S5)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Contribute to advances in the body of knowledge and Historic Environment Practice&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Commit to continuous improvement and personal development&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Archaeological Technicians will be expected to:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td rowspan=&quot;6&quot; width=&quot;156&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Take reasonable care for the health and safety of themselves and of others who may be affected by their acts or omissions at work (B1)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Commit to quality and their continuous professional development (B5)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Focus and pay attention to detail (B4)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Work effectively individually and as part of a team &#160;(B2)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Be approachable and able to communicate with all levels of their own and other organisations, as well as the general public (B3)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Be sensitive to and aware of the cultural, historic and spiritual context of objects and structures (B6)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td colspan=&quot;2&quot; width=&quot;624&quot;&gt;\r\n&lt;h3&gt;&lt;strong&gt;Additional Information&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Level&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;This is a Level 3 Apprenticeship&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Duration&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;The duration for this apprenticeship is 12-18 months&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Entry Requirements&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved five A* to C GCSEs on entry&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Professional registration&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Completion of this standard will enable apprentices to register with the Chartered Institute for Archaeologists (CIfA) at Practitioner level&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Qualification&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;Prior to end point assessment there is a requirement to achieve Level 2 in English and Maths. For those with an education, health and care plan or a legacy statement, the apprenticeship English and maths minimum requirement is Entry Level 3, and British Sign Language qualifications are an alternative to English qualifications for those whom this is their primary language.&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;156&quot;&gt;\r\n&lt;p&gt;Review&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;467&quot;&gt;\r\n&lt;p&gt;This Apprenticeship Standard will be reviewed after 3 years&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;&lt;strong&gt;Apprenticeship Standard for Archaeological Technician&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Level 3&#160;&lt;/strong&gt;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;1. Occupational Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Generic Job titles in the field of Archaeological Investigation include: Archaeologist; Site Assistant; Archaeological Fieldwork Technician; Finds Processor; Finds Technician; Finds Assistant; Environmental Processor; Environmental Technician.&lt;/p&gt;\n&lt;p&gt;Archaeological Technicians provide support to Archaeologists undertaking (usually commercially funded) Archaeological &lt;em&gt;Investigation&lt;/em&gt;, which may comprise surveys, excavations and post-excavation analysis. Those working within Archaeological &lt;em&gt;Investigation&lt;/em&gt; are responsible for the safe undertaking of surveys, excavations, analyses, publications and archiving, in accordance with industry standards and guidelines including, but not exclusive to, those of the Chartered Institute for Archaeologists (CIfA).&lt;/p&gt;\n&lt;p&gt;An Archaeological Technician may work on site or in a laboratory. Their work could involve contributing to intrusive and non-intrusive Archaeological &lt;em&gt;Investigation&lt;/em&gt; by: assisting with manual excavation of archaeological deposits; assisting with recovery of artefacts and environmental samples; assisting with data gathering tasks and site surveys; undertaking the processing of artefacts and soil samples; washing, labelling, bagging and cataloguing artefacts; processing and sorting environmental samples; data entry; archiving of materials, records and digital data. An Archaeological Technician could work in the private, public or charitable sector, and for organisations of all sizes.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;2. Requirements: Knowledge, Skills and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 156px;&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 467px;&quot; width=&quot;467&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The Archaeological Technician will know and understand:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Judgement and Ethics&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The limits of their own understanding, abilities and responsibilities, and how to practice within them (K5)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;4&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Research and Analyse&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The role and purpose of project specific Written Schemes of Investigations (WSIs) and Project or Research Designs (K6)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Sources and types of existing data, including records and collections held at museums, Historic England (HE) the National Monuments Record (NMR), local authority Historic Environment Records (HERs), the Archaeology Data Service (ADS), local and national libraries, the Environment Agency (K7)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The role and purpose of project specific finds and environmental specialist reports and typescript archaeological investigation reports (K4)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The fundamentals of British archaeological practice and chronology, including a broad understanding and recognition of archaeological site types, periods, artefacts and ecofacts (K1)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Maintain Compliance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The fundamentals of the relevant Health and Safety legislation and construction site Health &amp;amp; Safety. For example, this may include gaining a relevant Construction Skills Certification Scheme (CSCS) qualification. (K2)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to recognise and report risks. (K3)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Their Employer’s Health and Safety Policy and Procedures and operational procedures, including risk assessment, technical manuals and recording systems, and how those relate to industry Chartered Institute for Archaeologists (CIfA) standards, including their Employer’s technical manuals, procedures and guidance for: fieldwork recording, survey, artefact and environmental sample collection and artefact/environmental sample processing and archiving. (K8)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Plan and Prepare for Work (K9)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How their work programme is determined and to whom they report to&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to select the appropriate tools and equipment for the job&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to identify milestones and targets&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;7&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Carry out work&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Archaeological site formation processes and&#160; stratigraphy (analysis of the order and position of layers of archaeological remains) (K10)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to identify and collect (and protect) appropriate artefacts and environmental samples (K11)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to adapt procedures and practices to suit different ground/soil/weather conditions, archaeological materials,&#160; logistical and Client requirements (K12)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to record and store data recovered from archaeological works, including contextual data, plan and digital data, artefactual and ecofactual data in accordance with the manuals, procedures and guidance of the Employer (K13)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Basic short-term artefact protection, stabilisation and storage principles, such as the safe recovery and bagging of fragile artefacts, correct labelling of artefacts and samples, and ensuring appropriate short-term storage and safe/secure transportation (K14)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to present and report results, including basic use of spreadsheets and databases (K15)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to prepare themselves appropriately for work in a range of environments and weather conditions (K16)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;4&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Identify and respond to customer/client needs (K17)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Where to find, and how to interpret, key project-specific documentation including sampling strategies and research objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to access their Employer’s technical manuals and guidance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to&#160; maintain honest and constructive colleague relationships&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Their role in the context of the project or material on which they are working&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Personal/Professional Development (K18)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to develop a personal action plan for learning and self-development with realistic but challenging objectives&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;How to select and apply appropriate learning techniques and methods&lt;/p&gt;\n&lt;p&gt;How to identify personal goals, expectations and priorities&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;&lt;strong&gt;The Archaeological Technician will be able to:&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Judgement and Ethics&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Apply an awareness of professional judgement and ethical behaviour (S8)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Research and Analyse&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Research and assimilate appropriate background information, including that from project specific Written Schemes of Investigation, archaeological archives and reports, aerial photographic collections, LiDAR data, and geophysical and topographic surveys and local and national listings (S1)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Catalogue data recovered from archaeological excavations, including environmental and geological samples, artefacts and ecofacts (S2)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;3&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Maintain Compliance (S3)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Maintain their own safety, and that of others, by adhering to all applicable Health and Safety rules, policies and procedures&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Recognise and report risks in order to reduce the risk of incidents&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Conduct work in line with Employer’s and industry procedures and standards, specifically the CIfA Standards and Guidance for Archaeological Excavation, Watching Brief, Evaluation and Archives&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Plan and Prepare for Work (S4)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Establish the requirements upon them for forthcoming projects, including timescales, deadlines, work locations and supervisors&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Estimate resources and select appropriate equipment, including hand tools, survey, recording and measuring equipment, and artefact sampling, collection packaging, labelling and processing equipment&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;5&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Carry out work (S6)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Investigate and understand archaeological sites and heritage assets&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Recognise and be able to appropriately package and preserve fragile material evidence of past communities&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Compile catalogues and databases of archaeological context records, samples and finds&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Contribute to the preparation of archaeological site archives and materials for museum deposition&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Carry out work both indoors and outdoors in variable weather conditions, all year round&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;5&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Identify and respond to customer/client needs (S7)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Identify information required to achieve research objectives, for instance reference to project specific Written Schemes of Investigation for archaeological strategies, and to appropriate published regional, period or subject research agendas&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Follow correct procedures to access and use information, including Employer’s technical manuals, GIS systems and databases&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Validate/evaluate accuracy of&#160; information, including proof reading of data entry and reports&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Categorise and classify data appropriately, including creation of databases and stratigraphic matrices for archaeological excavations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Present and report data using field records in appropriate form for various audiences, including plans, sections, pro-forma context recording sheets and databases&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;2&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;Personal and Professional Development (S5)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Contribute to advances in the body of knowledge and Historic Environment Practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Commit to continuous improvement and personal development&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Archaeological Technicians will be expected to:&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td rowspan=&quot;6&quot; width=&quot;156&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Take reasonable care for the health and safety of themselves and of others who may be affected by their acts or omissions at work (B1)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Commit to quality and their continuous professional development (B5)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Focus and pay attention to detail (B4)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Work effectively individually and as part of a team &#160;(B2)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Be approachable and able to communicate with all levels of their own and other organisations, as well as the general public (B3)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Be sensitive to and aware of the cultural, historic and spiritual context of objects and structures (B6)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;624&quot;&gt;\n&lt;h3&gt;&lt;strong&gt;Additional Information&lt;/strong&gt;&lt;/h3&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Level&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;This is a Level 3 Apprenticeship&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Duration&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;The duration for this apprenticeship is 12-18 months&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Entry Requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved five A* to C GCSEs on entry&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Professional registration&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Completion of this standard will enable apprentices to register with the Chartered Institute for Archaeologists (CIfA) at Practitioner level&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Qualification&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;Prior to end point assessment there is a requirement to achieve Level 2 in English and Maths. For those with an education, health and care plan or a legacy statement, the apprenticeship English and maths minimum requirement is Entry Level 3, and British Sign Language qualifications are an alternative to English qualifications for those whom this is their primary language.&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;156&quot;&gt;\n&lt;p&gt;Review&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;467&quot;&gt;\n&lt;p&gt;This Apprenticeship Standard will be reviewed after 3 years&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;",
+  "occupationalSummary": "&lt;p&gt;Archaeological Technicians provide support to Archaeologists undertaking (usually commercially funded) Archaeological Investigation, which may comprise surveys, excavations and post-excavation analysis. Those working within Archaeological Investigation are responsible for the safe undertaking of surveys, excavations, analyses, publications and archiving, in accordance with industry standards and guidelines including, but not exclusive to, those of the Chartered Institute for Archaeologists (CIfA). An Archaeological Technician may work on site or in a laboratory. Their work could involve contributing to intrusive and non-intrusive Archaeological Investigation by: assisting with manual excavation of archaeological deposits; assisting with recovery of artefacts and environmental samples; assisting with data gathering tasks and site surveys; undertaking the processing of artefacts and soil samples; washing, labelling, bagging and cataloguing artefacts; processing and sorting environmental samples; data entry; archiving of materials, records and digital data. An Archaeological Technician could work in the private, public or charitable sector, and for organisations of all sizes.&lt;/p&gt;\n&lt;p&gt;Providing support during archaeological investigations, which may comprise surveys, excavations and post-excavation analysis.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "9841f29b-0290-4027-9b46-0ae756bdfb2e",
+      "detail": "The limits of their own understanding, abilities and responsibilities, and how to practice within them."
+    },
+    {
+      "knowledgeId": "e14ec463-15e2-492e-a45c-bfa291b06e32",
+      "detail": "The role and purpose of project specific Written Schemes of Investigations (WSIs) and Project or Research Designs."
+    },
+    {
+      "knowledgeId": "6b540f3e-faab-4c64-93ac-3394c94d000e",
+      "detail": "Sources and types of existing data, including records and collections held at museums, Historic England (HE) the National Monuments Record (NMR), local authority Historic Environment Records (HERs), the Archaeology Data Service (ADS), local and national libraries, the Environment Agency."
+    },
+    {
+      "knowledgeId": "5d49b9a9-ab66-4f8c-a7de-f0f3c68c9e41",
+      "detail": "The role and purpose of project specific finds and environmental specialist reports and typescript archaeological investigation reports. "
+    },
+    {
+      "knowledgeId": "897a040e-22a5-4cd7-b45a-df008568c574",
+      "detail": "The fundamentals of British archaeological practice and chronology, including a broad understanding and recognition of archaeological site types, periods, artefacts and ecofacts."
+    },
+    {
+      "knowledgeId": "786f946d-84c9-4ca8-9068-d3900904f4e0",
+      "detail": "The fundamentals of the relevant Health and Safety legislation and construction site Health & Safety. For example, this may include gaining a relevant Construction Skills Certification Scheme (CSCS) qualification. "
+    },
+    {
+      "knowledgeId": "a059374a-248f-41b2-b5b2-b0c377df41dc",
+      "detail": "How to recognise and report risks. "
+    },
+    {
+      "knowledgeId": "77718d40-aac0-4d36-98f3-6b58ddeea46f",
+      "detail": "Their Employer’s Health and Safety Policy and Procedures and operational procedures, including risk assessment, technical manuals and recording systems, and how those relate to industry Chartered Institute for Archaeologists (CIfA) standards, including their Employer’s technical manuals, procedures and guidance for: fieldwork recording, survey, artefact and environmental sample collection and artefact/environmental sample processing and archiving. "
+    },
+    {
+      "knowledgeId": "2dba1af9-5e24-414e-aa30-8500f25d9ee5",
+      "detail": "How their work programme is determined and to whom they report to."
+    },
+    {
+      "knowledgeId": "9e4fb784-529b-415c-8e23-1fdbae5dfdfe",
+      "detail": "How to select the appropriate tools and equipment for the job."
+    },
+    {
+      "knowledgeId": "3b55893d-3c69-48de-93a2-173f087df437",
+      "detail": "How to identify milestones and targets."
+    },
+    {
+      "knowledgeId": "4a23ca95-66f1-4ce9-873a-3e989a2e877c",
+      "detail": "Archaeological site formation processes and\u00A0 stratigraphy (analysis of the order and position of layers of archaeological remains)."
+    },
+    {
+      "knowledgeId": "01be7b28-4a62-4c15-a0c5-b500250f91ff",
+      "detail": "How to identify and collect (and protect) appropriate artefacts and environmental samples."
+    },
+    {
+      "knowledgeId": "38fff77c-4235-4c1c-acbb-7f1b0be183bd",
+      "detail": "How to adapt procedures and practices to suit different ground/soil/weather conditions, archaeological materials,\u00A0 logistical and Client requirements."
+    },
+    {
+      "knowledgeId": "5336d742-b82b-4e95-925f-77074e159915",
+      "detail": "How to record and store data recovered from archaeological works, including contextual data, plan and digital data, artefactual and ecofactual data in accordance with the manuals, procedures and guidance of the Employer."
+    },
+    {
+      "knowledgeId": "4d4f9936-95d8-414d-a631-975112700320",
+      "detail": "Basic short-term artefact protection, stabilisation and storage principles, such as the safe recovery and bagging of fragile artefacts, correct labelling of artefacts and samples, and ensuring appropriate short-term storage and safe/secure transportation."
+    },
+    {
+      "knowledgeId": "36c33ba4-1df0-4302-b83e-535a4dcb7d31",
+      "detail": "How to present and report results, including basic use of spreadsheets and databases."
+    },
+    {
+      "knowledgeId": "e56cb67c-5e1b-4e82-9a3c-8fdc1c0725aa",
+      "detail": "How to prepare themselves appropriately for work in a range of environments and weather conditions."
+    },
+    {
+      "knowledgeId": "18d5f8f3-9311-413b-a399-fbcda4c53224",
+      "detail": "Where to find, and how to interpret, key project-specific documentation including sampling strategies and research objectives."
+    },
+    {
+      "knowledgeId": "9f8632c6-ea51-49bf-9212-6ec9e59b6f6b",
+      "detail": "How to access their Employer’s technical manuals and guidance."
+    },
+    {
+      "knowledgeId": "10b56b92-3180-4de5-bbec-ebfeaf65e9d0",
+      "detail": "How to\u00A0 maintain honest and constructive colleague relationships."
+    },
+    {
+      "knowledgeId": "3ca024e1-5001-4df0-a366-68d1e9cb6a37",
+      "detail": "Their role in the context of the project or material on which they are working."
+    },
+    {
+      "knowledgeId": "180b178f-34ad-42da-bc7b-78739053494a",
+      "detail": "How to develop a personal action plan for learning and self-development with realistic but challenging objectives."
+    },
+    {
+      "knowledgeId": "775379f8-be82-47be-9daf-757644fcfe63",
+      "detail": "How to select and apply appropriate learning techniques and methods."
+    },
+    {
+      "knowledgeId": "9c5acf82-014a-460e-a462-3fcfcb4e9aa4",
+      "detail": "How to identify personal goals, expectations and priorities."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f125ea9a-8def-432b-9a51-859c290bbda0",
+      "detail": "Take reasonable care for the health and safety of themselves and of others who may be affected by their acts or omissions at work."
+    },
+    {
+      "behaviourId": "0308e37a-ef2b-4f98-ae88-134c041089ba",
+      "detail": "Commit to quality and their continuous professional development."
+    },
+    {
+      "behaviourId": "6aaa5b1f-2bc2-43af-aa02-5a904e4ed84a",
+      "detail": "Focus and pay attention to detail."
+    },
+    {
+      "behaviourId": "7c695392-8c4f-4d0a-a1fc-4893653ccc26",
+      "detail": "Work effectively individually and as part of a team."
+    },
+    {
+      "behaviourId": "de694c41-a50a-4b1b-b274-9e4e2b9641ce",
+      "detail": "Be approachable and able to communicate with all levels of their own and other organisations, as well as the general public."
+    },
+    {
+      "behaviourId": "6c46694e-2bf4-450d-89c3-00d19a4c5f27",
+      "detail": "Be sensitive to and aware of the cultural, historic and spiritual context of objects and structures."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "cc47da7c-aaa9-405f-8169-0f3cbf331e77",
+      "detail": "Apply an awareness of professional judgement and ethical behaviour."
+    },
+    {
+      "skillId": "51d16b12-adda-44cd-ab07-ccfb9689836e",
+      "detail": "Research and assimilate appropriate background information, including that from project specific Written Schemes of Investigation, archaeological archives and reports, aerial photographic collections, LiDAR data, and geophysical and topographic surveys and local and national listings."
+    },
+    {
+      "skillId": "d0e25426-8fc2-47a0-9a09-73a42069c4fd",
+      "detail": "Catalogue data recovered from archaeological excavations, including environmental and geological samples, artefacts and ecofacts."
+    },
+    {
+      "skillId": "ddf2573d-9cf9-480e-9107-6ec154c97247",
+      "detail": "Maintain their own safety, and that of others, by adhering to all applicable Health and Safety rules, policies and procedures."
+    },
+    {
+      "skillId": "efc2d995-b469-4ed9-b84b-6fbd026477cb",
+      "detail": "Recognise and report risks in order to reduce the risk of incidents."
+    },
+    {
+      "skillId": "a037da27-7f81-46d1-9438-d258588f0f4a",
+      "detail": "Conduct work in line with Employer’s and industry procedures and standards, specifically the CIfA Standards and Guidance for Archaeological Excavation, Watching Brief, Evaluation and Archives."
+    },
+    {
+      "skillId": "1957efa9-e965-4720-8225-926384ab88a3",
+      "detail": "Establish the requirements upon them for forthcoming projects, including timescales, deadlines, work locations and supervisors."
+    },
+    {
+      "skillId": "2b1552dd-2a6b-406c-aa29-253af6b04816",
+      "detail": "Estimate resources and select appropriate equipment, including hand tools, survey, recording and measuring equipment, and artefact sampling, collection packaging, labelling and processing equipment."
+    },
+    {
+      "skillId": "bfaa02f8-1af4-4f65-aeed-b45cba49ccf0",
+      "detail": "Investigate and understand archaeological sites and heritage assets."
+    },
+    {
+      "skillId": "a8c5673a-b6f1-4dcb-ad3b-59d107487122",
+      "detail": "Recognise and be able to appropriately package and preserve fragile material evidence of past communities."
+    },
+    {
+      "skillId": "ba848ad5-2384-4f89-9f4b-f190b7d7dcaf",
+      "detail": "Compile catalogues and databases of archaeological context records, samples and finds."
+    },
+    {
+      "skillId": "10745ff1-f470-4958-818e-6f671f004821",
+      "detail": "Contribute to the preparation of archaeological site archives and materials for museum deposition."
+    },
+    {
+      "skillId": "b623b139-7ed8-46a5-be6a-10f0bd64fdda",
+      "detail": "Carry out work both indoors and outdoors in variable weather conditions, all year round."
+    },
+    {
+      "skillId": "c7e614f3-8e92-4dce-9177-1bb012a1011f",
+      "detail": "Identify information required to achieve research objectives, for instance reference to project specific Written Schemes of Investigation for archaeological strategies, and to appropriate published regional, period or subject research agendas."
+    },
+    {
+      "skillId": "ab7c0b9a-d138-406c-9d35-1044ca4fd443",
+      "detail": "Follow correct procedures to access and use information, including Employer’s technical manuals, GIS systems and databases."
+    },
+    {
+      "skillId": "83001df6-239e-4f42-8b38-cf5fc297394d",
+      "detail": "Validate/evaluate accuracy of\u00A0 information, including proof reading of data entry and reports."
+    },
+    {
+      "skillId": "62ddd6eb-dad6-4ecb-8be7-4f694fe10639",
+      "detail": "Categorise and classify data appropriately, including creation of databases and stratigraphic matrices for archaeological excavations."
+    },
+    {
+      "skillId": "13cd0896-50ea-4603-bd9f-58dc3892df24",
+      "detail": "Present and report data using field records in appropriate form for various audiences, including plans, sections, pro-forma context recording sheets and databases."
+    },
+    {
+      "skillId": "57c1ab24-3d5f-4afe-bf56-180ddcc7c8bd",
+      "detail": "Contribute to advances in the body of knowledge and Historic Environment Practice."
+    },
+    {
+      "skillId": "a07a2d0f-4d6c-4f23-a4b6-dff858b26b7e",
+      "detail": "Commit to continuous improvement and personal development."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-03-29T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
+  "tbReference": "TB0221",
   "tbMainContact": "philip.Pollard@HistoricEngland.org.uk ",
   "involvedEmployers": "Historic England, Museum of London Archaeology Oxford Archaeology, Cotswold Archaeology, Wessex Archaeology, Arup, National Parks, Albion Archaeology, Warwickshire County Council, Archaeological Services WYAS",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Archaeological fieldwork technician",
+    "Archaeologist",
+    "Environmental processor",
+    "Environmental technician",
+    "Finds assistant",
+    "Finds processor",
+    "Finds technician",
+    "Site assistant"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Cultural Heritage and Visitor Attractions",
-  "cluster": "Collections and Conservation Technician",
-  "createdDate": "2017-11-14T17:08:46 +00:00",
-  "lastUpdated": "2019-03-29T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/archaeological-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/archaeological-technician-v1-0",
+  "cluster": "Collections and conservation technician",
+  "clusterId": "4",
+  "clusterDescription": "Set-up exhibition collections and maximise the engagement of visitors",
+  "createdDate": "2022-04-11T13:57:41 +00:00",
+  "lastUpdated": "2022-08-24T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-03-29T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0221",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0221-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0221-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-08-24T00:00:00"
 }
