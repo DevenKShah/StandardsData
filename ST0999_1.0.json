@@ -1,60 +1,724 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 690,
   "referenceNumber": "ST0999",
+  "learningAimClassCode": "",
   "title": "Lead engineering maintenance technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0999",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-04-23T00:00:00",
+  "earliestStartDate": "2022-10-20T00:00:00",
+  "latestStartDate": "2024-04-22T00:00:00",
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Offer engineering support, technical leadership and expertise.",
   "level": 4,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 6,
+  "typicalDuration": 36,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "keywords": [
+    "engineering",
+    "maintenance",
+    "technician",
+    "leadership",
+    "technical"
+  ],
+  "jobRoles": [
+    "Installation technician",
+    "Process technician",
+    "Production support technician",
+    "Senior maintenance technician",
+    "Test and commissioning technician"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set their own recruitment and selection criteria for their Apprenticeships. In order to optimise success, candidates will typically have already completed a Level 3 vocational qualification in engineering, or hold A levels in maths and science subjects, or relevant T levels.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0999-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering and manufacturing sector. Sectors typically include maritime, maritime defence, automotive, energy, engineering construction and general engineering maintenance industries. Lead maintenance engineering technicians typically perform a multi-disciplinary role, managing or leading other technicians. They may specialise in areas such as mechanical, electronic, or electrical engineering. Employers range from small to large businesses who deliver or require maintenance support. They include major asset owners and operators, the supply chain, contractors and sub-contractors. Typical workplaces include private and public sector manufacturing factories. They can also include dockyards and shipyards, vehicle maintenance facilities, onboard operational vehicles and vessels. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to offer engineering support, technical leadership and expertise.&#160; Examples can include support for installation, refit, overhaul, alteration, upgrading, design and maintenance. They can also provide support for testing of significant assets, systems or machinery. They assist in the delivery of complex and critical asset management programmes. These asset management programmes are often to unique specifications involving complex maintenance and planning. They analyse technical information, plan schedules, co-ordinate, lead and deliver work on time. They ensure work is completed to the required quality, following product and personnel safety processes. They provide customer liaison, leadership, support and expertise to maintenance teams on technical issues. They deal with problems that occur using a structured and controlled approach. They carry out inspections on systems, equipment and components. They may lead on the commissioning back into operation after maintenance and overhaul. They can work in office environments while conducting research or maintenance design and scheduling activities. They can be in a workshop environment or outdoors conducting maintenance and commissioning activities. Depending on the organisation, they might be expected to work flexibly, including shift work.&#160; They may also be ‘on-call’, to meet customer requirements.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with operators and maintenance teams.&#160; They also interact with shift leaders, senior engineers, senior test engineers, design engineers, quality engineers. They may work with procedure writers, procurement managers and resource allocation colleagues. Externally they liaise with customers and suppliers at operational and senior levels. Depending on the industry, they may also interact with regulators.&#160;&#160;&lt;br /&gt;&lt;br /&gt;An employee in this occupation is responsible for the quality, safety and delivery of service. They ensure that work is delivered to the customer on time at the agreed cost. They must ensure their own work and the work of others is completed to specification.&#160; They must meet set deadlines. They must meet quality requirements and ensure that all relevant records are completed. They must work to health and safety and environmental regulations. They work alone and as part of a larger team on complex technical issues. These include supervisory duties and oversight of work completed. Depending on organisation size, they will support or lead a maintenance team.&#160; They are responsible for complying with regulatory and organisation requirements, civil or military as appropriate. For example, Office of Nuclear Regulation (ONR), Department of Environment, Maritime Pollution regulations (MARPOL).&#160; Health and Safety at Work Act, Provision and Use of Work Equipment Regulations (PUWER).&#160; United Kingdom Accreditation Service (UKAS) and the National Measurement Accreditation Service (NAMAS).&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "230d36fc-522d-4886-b3d0-89b8409eb230",
+      "detail": "Awareness of health and safety regulations, relevance to the occupation and the technician's responsibilities. Health and safety regulations."
+    },
+    {
+      "knowledgeId": "fa51460d-cab0-4a50-a8a0-705a2568af19",
+      "detail": "Risk identification, risk assessments, mitigations and safe systems of work."
+    },
+    {
+      "knowledgeId": "28d4014e-5a82-4816-9284-5bf00df39e6c",
+      "detail": "Awareness of environment and sustainability regulations, relevance to the occupation and the technician’s responsibilities. Environment and sustainability. Environmental Protection Act - responsibilities. Types of pollution and control measures: noise, smells, spills, and waste. Sustainability. Resource Management. Environmental permits. Waste management. Waste Electrical and Electronic Equipment Directive (WEEE). Hazardous waste regulations. Re-cyclable materials and waste disposal procedures. Energy consumption and usage profiling. Data logging to optimise energy performance. The Climate Change Agreements. Carbon Reduction Commitment (CRC). "
+    },
+    {
+      "knowledgeId": "88941ecc-66d0-46bf-85a8-84ec79b35145",
+      "detail": "Engineering mathematical and scientific principles: methods, techniques, graphical expressions, symbols, formulae and calculations. "
+    },
+    {
+      "knowledgeId": "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+      "detail": "Engineering materials: characteristics, properties and impact on use. "
+    },
+    {
+      "knowledgeId": "7faf264c-dbff-457f-8063-660bf6669573",
+      "detail": "Problem solving techniques: diagnostics, root cause analysis, 6 thinking hats, DMAIC (Define, Measure, Analyse, Improve, Control), PDCA (Plan Do Check Act). Fault finding techniques: root cause analysis, 5 Whys’, fishbone, half-split. "
+    },
+    {
+      "knowledgeId": "faad86d0-680f-4335-b3f6-ad58aaa0256a",
+      "detail": "Maintenance and engineering strategies, practices and techniques: planned, preventative, predictive and reactive. "
+    },
+    {
+      "knowledgeId": "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+      "detail": "Standard operating procedures and work instructions: rationale, review and updates. "
+    },
+    {
+      "knowledgeId": "82853614-d444-462a-8e11-ec6a1c62a59f",
+      "detail": "Engineering, manufacturing and maintenance technical information, related documentation, such as job records, service reports, checklists and condemn notices; representations, drawings, graphical information, visuals and symbols."
+    },
+    {
+      "knowledgeId": "a1a23be6-75a0-47df-811d-652c016f0bf5",
+      "detail": "Manufacturers’ instructions: what they are and how to use them. Warranties: what they are and impact on engineering maintenance work."
+    },
+    {
+      "knowledgeId": "ef83a24b-8698-4445-aa85-eacfd15402e2",
+      "detail": "Awareness of engineering international, national and regulatory standards, relevance to the occupation and technician’s responsibilities. British Standards (BS). International Organisation for Standardisation standards (ISO). European Norm (EN). "
+    },
+    {
+      "knowledgeId": "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+      "detail": "The function of an engineering maintenance department. Limits of autonomy and reporting channels. Different teams and functions involved in operation and interdependencies. "
+    },
+    {
+      "knowledgeId": "0e415432-e0ef-4fae-8e90-5d99993bbd9a",
+      "detail": "Leadership and management techniques: customer relationship management, negotiating, influencing, networking, commercial awareness, conflict management and assertiveness. "
+    },
+    {
+      "knowledgeId": "f0bf0a40-d5ca-4b39-8c8e-3da2c28e9cc2",
+      "detail": "Workplace training and development and competence assurance techniques in the workplace. How to pass on knowledge to colleagues and provide guidance to customers or stakeholders. "
+    },
+    {
+      "knowledgeId": "7be6001e-c15e-4620-878d-d036055e578a",
+      "detail": "Planning, prioritising, work scheduling, workflow and time management techniques. Work management systems. Work categorisation systems."
+    },
+    {
+      "knowledgeId": "82eacef2-54d1-4b34-91af-fb15f8cde469",
+      "detail": "Verbal communication techniques: Matching style to audience. Barriers in communication and how to overcome them. Engineering terminology."
+    },
+    {
+      "knowledgeId": "674dcd25-be27-4532-bdca-a1631f121675",
+      "detail": "Communication techniques: written. Writing using plain English principles. Report writing."
+    },
+    {
+      "knowledgeId": "cd9c9e88-4f26-4987-ab7d-b63666915f31",
+      "detail": "The engineering maintenance sector. Regulators. Types of employers. Clients. Supply chain. Stakeholders. Audits. "
+    },
+    {
+      "knowledgeId": "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+      "detail": "Resources: Human, physical, space, documentation, tooling, specialist equipment, spares and materials: Stock and services considerations. "
+    },
+    {
+      "knowledgeId": "6e81e075-3a81-4068-a788-35dc62a29592",
+      "detail": "Awareness of Quality Management Systems (QMS) and the principles of Quality Control and Assurance, principles and practice in a maintenance and engineering environment. Relevance to the occupation and the technician’s responsibilities."
+    },
+    {
+      "knowledgeId": "47798752-704f-4539-9163-9cc41b1cab28",
+      "detail": "Continuous improvement techniques: lean, 6-sigma, KAIZEN, 5 S (Sort, set, shine, standardise and sustain). "
+    },
+    {
+      "knowledgeId": "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+      "detail": "Project management techniques: Strengths, Weaknesses, Opportunities, Threats (SWOT), stakeholder matrices, risk mapping and summary risk profiles. "
+    },
+    {
+      "knowledgeId": "25e43aaf-7b6a-422e-943f-0226c7756975",
+      "detail": "Information technology: Management Information Systems (MIS), spreadsheets, presentation, word processing, email, virtual communication and learning platforms. General Data Protection Regulation (GDPR). Documentation and data collection: principles, methods and requirements - electronic and paper. Analytical data, job records, timekeeping, service reports, checklists and condemn notices. Technological development and innovation in the engineering sector. Industry 4.0. IT networking and digital twinning."
+    },
+    {
+      "knowledgeId": "b36f8506-be71-4f0f-8dd1-29e56d07e655",
+      "detail": "Business operation considerations: efficiency, customer satisfaction, competitiveness, minimising risks to operation, finance, business ethics and licenses."
+    },
+    {
+      "knowledgeId": "1c8ff2fc-ad89-4fc1-b668-a0aec074cd62",
+      "detail": "Equality, diversity and inclusion in the workplace."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "c5292135-47d9-4934-bceb-0ae51570de92",
+      "detail": "Prioritise and promote the environment and sustainability. "
+    },
+    {
+      "behaviourId": "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+      "detail": "Prioritise and promote health and safety."
+    },
+    {
+      "behaviourId": "e9ae493b-6476-4552-857b-9896c7f80ac3",
+      "detail": "Apply a professional approach."
+    },
+    {
+      "behaviourId": "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+      "detail": "Promote adoption of emerging and advanced engineering and maintenance technologies."
+    },
+    {
+      "behaviourId": "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+      "detail": "Committed to professional development of self and others"
+    },
+    {
+      "behaviourId": "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+      "detail": "Take responsibility for work."
+    },
+    {
+      "behaviourId": "6634810d-8055-4461-ac73-39f5fcfc62c7",
+      "detail": "Act ethically."
+    },
+    {
+      "behaviourId": "33c16229-7f10-4c72-8e9f-b9da2f084563",
+      "detail": "Collaborate within teams, across disciplines and external stakeholders."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "0cc7667f-c4a8-4036-9e2b-14fe97faef37",
+      "detail": "Comply with health and safety regulations and procedures. Apply safe systems of work."
+    },
+    {
+      "skillId": "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+      "detail": "Comply with environmental and sustainability regulations and procedures when using resources. Segregate resources for re-use, recycling and disposal applying sustainability principles."
+    },
+    {
+      "skillId": "618554dc-ed6d-449a-8763-7ea215bc057b",
+      "detail": "Follow manufacturers’ instructions and standard maintenance procedures. "
+    },
+    {
+      "skillId": "d780d884-8297-4737-a2e7-d44ddad21b75",
+      "detail": "Identify and document risks and hazards in the workplace. Advise on and apply control measures."
+    },
+    {
+      "skillId": "d7083ecf-afd2-4702-9bf5-baed4985d818",
+      "detail": "Record or enter information - paper based or electronic. For example, job sheets, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, waste environmental records and any legal reporting requirements."
+    },
+    {
+      "skillId": "b660119f-287b-477e-bba1-a470a3f5ab35",
+      "detail": "Plan and schedule tasks, projects or resources in the workplace."
+    },
+    {
+      "skillId": "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+      "detail": "Manage tasks, projects or resources in the workplace."
+    },
+    {
+      "skillId": "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+      "detail": "Evaluate tasks, projects or resources in the workplace"
+    },
+    {
+      "skillId": "77a8a911-788c-4a81-8d97-1844748da62c",
+      "detail": "Communicate with colleagues and stakeholders verbally. "
+    },
+    {
+      "skillId": "05b9d610-592c-4fe2-80c2-6bef919fbac1",
+      "detail": "Communicate in writing. "
+    },
+    {
+      "skillId": "c42c0e64-603b-460d-8078-601874c91536",
+      "detail": "Negotiate with colleagues or stakeholders. For example, to access equipment or arrange system outage. "
+    },
+    {
+      "skillId": "bff1d0f8-a212-44fa-88fb-34bc0c9e6edc",
+      "detail": "Identify potential conflicts and apply resolution strategies."
+    },
+    {
+      "skillId": "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+      "detail": "Identify training needs of team members in the workplace."
+    },
+    {
+      "skillId": "ac470353-28ea-4c09-8d28-1afab7403295",
+      "detail": "Provide technical leadership for maintenance practices and techniques."
+    },
+    {
+      "skillId": "cdbdd753-f582-4718-b4e7-ff9d0e065fcd",
+      "detail": "Provide technical leadership for repair practices and techniques."
+    },
+    {
+      "skillId": "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+      "detail": "Provide technical leadership for fault finding techniques and practices."
+    },
+    {
+      "skillId": "b35f5869-d892-41c4-b6d5-750971ab7899",
+      "detail": "Identify problems and apply methods to identify causes and solutions. Escalate issues or concerns."
+    },
+    {
+      "skillId": "7d015cba-220b-40d7-ac34-e47e6b12adc6",
+      "detail": "Comply with engineering standards and regulations. For example, ISO9001."
+    },
+    {
+      "skillId": "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+      "detail": "Interpret and use information from engineering data sources to apply changes. "
+    },
+    {
+      "skillId": "8b816c31-e993-49fc-bd6d-5d87d6de3553",
+      "detail": "Lead on continuous improvement projects. Apply continuous improvement techniques. Devise suggestions for improvement."
+    },
+    {
+      "skillId": "120850e9-07f0-4b0b-87b0-9122dd7ff13a",
+      "detail": "Manage technical handover of completed repair or maintenance activity."
+    },
+    {
+      "skillId": "0179dcef-203a-46b5-9b83-90b949be9113",
+      "detail": "Use information technology. For example, for document creation, communication, and information management in line with breakdown, repair and maintenance activities. Comply with GDPR."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-10-20T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbReference": "TB0616",
+  "tbMainContact": "gareth.kenward@babcockinternational.com",
+  "involvedEmployers": "Babcock International Group, BAE Systems, Bromford Housing Association, Cavendish Nuclear, First Group, MVV, Ministry of Defence, Pendennis Shipyard, Royal Navy, RWE Energy, Rolls Royce",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
-  "createdDate": "2021-03-15T16:14:02 +00:00",
-  "lastUpdated": "2021-03-15T16:14:02 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lead-engineering-maintenance-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lead-engineering-maintenance-technician",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "typicalJobTitles": [
+    "Installation technician",
+    "Process technician",
+    "Production support technician",
+    "Senior maintenance technician",
+    "Test and commissioning technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Installation, service, repair and/or overhaul advanced technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
+  "createdDate": "2022-10-20T13:56:50 +00:00",
+  "lastUpdated": "2024-04-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-10-20T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0999",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0999-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0999-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "c350d598-8e11-4dec-9d83-52557d2bcf05",
+      "title": "BTEC Higher National Certificate in Engineering (General Engineering) or BTEC Higher National Certificate in Engineering (Operations Engineering)",
+      "level": "4",
+      "anyAdditionalInformation": "Apprentices would be at significant disadvantage in the labour market without an HNC or similar level qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Institution of Engineering and Technology",
+      "level": "Engineering Technician (EngTech) ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "1e3fcbd5-ca0c-4b9c-9c44-2514e4865850",
+      "dutyDetail": "Define and implement safety control measures appropriate to each maintenance activity informing the relevant people.  Ensure the safe and efficient performance of every maintenance task in compliance with these measures. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c5292135-47d9-4934-bceb-0ae51570de92",
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "230d36fc-522d-4886-b3d0-89b8409eb230",
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "faad86d0-680f-4335-b3f6-ad58aaa0256a",
+        "82853614-d444-462a-8e11-ec6a1c62a59f",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "7be6001e-c15e-4620-878d-d036055e578a",
+        "82eacef2-54d1-4b34-91af-fb15f8cde469",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "47798752-704f-4539-9163-9cc41b1cab28",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cc7667f-c4a8-4036-9e2b-14fe97faef37",
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "c42c0e64-603b-460d-8078-601874c91536",
+        "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+        "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+        "8b816c31-e993-49fc-bd6d-5d87d6de3553",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e8e1f668-55c0-45dc-b375-0c11efdd70db",
+      "dutyDetail": "Collate, interpret and analyse all technical information. For example, work procedures, design briefs, and maintenance manuals. Operating specifications, maintenance equipment calibration records, asset performance and calibration data.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "230d36fc-522d-4886-b3d0-89b8409eb230",
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "28d4014e-5a82-4816-9284-5bf00df39e6c",
+        "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "faad86d0-680f-4335-b3f6-ad58aaa0256a",
+        "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+        "674dcd25-be27-4532-bdca-a1631f121675",
+        "cd9c9e88-4f26-4987-ab7d-b63666915f31",
+        "6e81e075-3a81-4068-a788-35dc62a29592",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "25e43aaf-7b6a-422e-943f-0226c7756975",
+        "b36f8506-be71-4f0f-8dd1-29e56d07e655"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "618554dc-ed6d-449a-8763-7ea215bc057b",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "b660119f-287b-477e-bba1-a470a3f5ab35",
+        "ac470353-28ea-4c09-8d28-1afab7403295",
+        "cdbdd753-f582-4718-b4e7-ff9d0e065fcd",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+        "7d015cba-220b-40d7-ac34-e47e6b12adc6",
+        "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+        "8b816c31-e993-49fc-bd6d-5d87d6de3553",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "07a89bed-d6b0-4adf-8840-3700e3015976",
+      "dutyDetail": "Plan maintenance activities to guide the maintenance team. Ensure that work instructions, permits, and safety briefings are available in advance of maintenance activities. Ensure that operating procedures, contact details for relevant people, materials and resources are available.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c5292135-47d9-4934-bceb-0ae51570de92",
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "230d36fc-522d-4886-b3d0-89b8409eb230",
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "88941ecc-66d0-46bf-85a8-84ec79b35145",
+        "faad86d0-680f-4335-b3f6-ad58aaa0256a",
+        "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+        "82853614-d444-462a-8e11-ec6a1c62a59f",
+        "a1a23be6-75a0-47df-811d-652c016f0bf5",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+        "f0bf0a40-d5ca-4b39-8c8e-3da2c28e9cc2",
+        "674dcd25-be27-4532-bdca-a1631f121675",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "6e81e075-3a81-4068-a788-35dc62a29592",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "25e43aaf-7b6a-422e-943f-0226c7756975",
+        "b36f8506-be71-4f0f-8dd1-29e56d07e655"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cc7667f-c4a8-4036-9e2b-14fe97faef37",
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "618554dc-ed6d-449a-8763-7ea215bc057b",
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "b660119f-287b-477e-bba1-a470a3f5ab35",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "77a8a911-788c-4a81-8d97-1844748da62c",
+        "05b9d610-592c-4fe2-80c2-6bef919fbac1",
+        "c42c0e64-603b-460d-8078-601874c91536",
+        "7d015cba-220b-40d7-ac34-e47e6b12adc6",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3db6dc25-e359-4a1f-86d2-b88acc7b7f98",
+      "dutyDetail": "Lead or undertake maintenance, modifications, repairs, upgrades, alterations and additions to systems, plant and equipment.  Provide technical and team leadership, where appropriate, to complete maintenance activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c5292135-47d9-4934-bceb-0ae51570de92",
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "88941ecc-66d0-46bf-85a8-84ec79b35145",
+        "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "faad86d0-680f-4335-b3f6-ad58aaa0256a",
+        "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+        "f0bf0a40-d5ca-4b39-8c8e-3da2c28e9cc2",
+        "6e81e075-3a81-4068-a788-35dc62a29592",
+        "b36f8506-be71-4f0f-8dd1-29e56d07e655"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "b660119f-287b-477e-bba1-a470a3f5ab35",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "05b9d610-592c-4fe2-80c2-6bef919fbac1",
+        "bff1d0f8-a212-44fa-88fb-34bc0c9e6edc",
+        "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+        "ac470353-28ea-4c09-8d28-1afab7403295",
+        "cdbdd753-f582-4718-b4e7-ff9d0e065fcd",
+        "7d015cba-220b-40d7-ac34-e47e6b12adc6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "21cd7916-d184-4cfd-8957-04827124a8be",
+      "dutyDetail": "Carry out inspection activities on equipment. For example, pressures, flows, temperatures, installation checks, material state and feasibility studies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c5292135-47d9-4934-bceb-0ae51570de92",
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "28d4014e-5a82-4816-9284-5bf00df39e6c",
+        "88941ecc-66d0-46bf-85a8-84ec79b35145",
+        "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "6e81e075-3a81-4068-a788-35dc62a29592"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "b660119f-287b-477e-bba1-a470a3f5ab35",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+        "c42c0e64-603b-460d-8078-601874c91536",
+        "bff1d0f8-a212-44fa-88fb-34bc0c9e6edc",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+        "b35f5869-d892-41c4-b6d5-750971ab7899",
+        "7d015cba-220b-40d7-ac34-e47e6b12adc6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5f05b33c-787e-489e-a2d0-2a7ac2e1057d",
+      "dutyDetail": "Inform teams of any significant maintenance and engineering technical issues as they occur. Provide technical and team leadership, advice and guidance as needed.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7",
+        "33c16229-7f10-4c72-8e9f-b9da2f084563"
+      ],
+      "mappedKnowledge": [
+        "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "1c8ff2fc-ad89-4fc1-b668-a0aec074cd62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "618554dc-ed6d-449a-8763-7ea215bc057b",
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+        "77a8a911-788c-4a81-8d97-1844748da62c",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+        "b35f5869-d892-41c4-b6d5-750971ab7899",
+        "120850e9-07f0-4b0b-87b0-9122dd7ff13a",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ad94e2ff-0a45-441a-80db-31fca40f6cab",
+      "dutyDetail": "Liaise with internal and external stakeholders ensuring that engineering and maintenance operations meet agreed timescales. Examples of stakeholders could include asset managers, equipment operatives, auditors, suppliers, customers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7",
+        "33c16229-7f10-4c72-8e9f-b9da2f084563"
+      ],
+      "mappedKnowledge": [
+        "a1a23be6-75a0-47df-811d-652c016f0bf5",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+        "0e415432-e0ef-4fae-8e90-5d99993bbd9a",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "25e43aaf-7b6a-422e-943f-0226c7756975",
+        "b36f8506-be71-4f0f-8dd1-29e56d07e655",
+        "1c8ff2fc-ad89-4fc1-b668-a0aec074cd62"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "618554dc-ed6d-449a-8763-7ea215bc057b",
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+        "77a8a911-788c-4a81-8d97-1844748da62c",
+        "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+        "ac470353-28ea-4c09-8d28-1afab7403295",
+        "cdbdd753-f582-4718-b4e7-ff9d0e065fcd",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+        "b35f5869-d892-41c4-b6d5-750971ab7899",
+        "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+        "8b816c31-e993-49fc-bd6d-5d87d6de3553",
+        "120850e9-07f0-4b0b-87b0-9122dd7ff13a",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cf8131ac-7b2b-479a-b06d-b33c96574a9e",
+      "dutyDetail": "Deal with problems that occur within the activity using a structured and controlled approach. For example, unexpected technical or process issues, team related issues, escalating as required. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "ebea08b2-8a96-425b-a48c-0ab6c5eb2aa3",
+        "da70ecdb-71a3-4b6a-8404-1ab05263e78a",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "3e2c28b5-b431-4bd7-ba02-d8039a0a77ba",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "a1a23be6-75a0-47df-811d-652c016f0bf5",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "5da6e506-3d3d-48b4-a678-6b6c728b0479",
+        "f0bf0a40-d5ca-4b39-8c8e-3da2c28e9cc2",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "47798752-704f-4539-9163-9cc41b1cab28",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "b36f8506-be71-4f0f-8dd1-29e56d07e655"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "618554dc-ed6d-449a-8763-7ea215bc057b",
+        "d780d884-8297-4737-a2e7-d44ddad21b75",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+        "77a8a911-788c-4a81-8d97-1844748da62c",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "524eeda3-67f0-4018-9d89-6d949de6e5a3",
+      "dutyDetail": "Generate documentation on completion of maintenance work to provide a complete record of the activity. Forward information required to support future asset maintenance planning. For example, test forms, defect reports, service records and handover reports.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "7faf264c-dbff-457f-8063-660bf6669573",
+        "5b8fd58e-c674-4971-bf60-c5ebeed1fa6a",
+        "cd9c9e88-4f26-4987-ab7d-b63666915f31",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "6e81e075-3a81-4068-a788-35dc62a29592",
+        "25e43aaf-7b6a-422e-943f-0226c7756975"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0cc7667f-c4a8-4036-9e2b-14fe97faef37",
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "c42c0e64-603b-460d-8078-601874c91536",
+        "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+        "ac470353-28ea-4c09-8d28-1afab7403295",
+        "cdbdd753-f582-4718-b4e7-ff9d0e065fcd",
+        "8694d65b-b4f1-4484-8946-79c5d1d4e1c6",
+        "b35f5869-d892-41c4-b6d5-750971ab7899",
+        "7d015cba-220b-40d7-ac34-e47e6b12adc6",
+        "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5a6588ce-b11e-4753-a06d-9cf713aa3d8d",
+      "dutyDetail": "Review engineering and maintenance procedures identifying potential improvements to processes, materials, resources or planning. For example, improvements on costs, efficiencies and quality. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12fabdc1-24b2-4e28-b464-c00e4198a9a2",
+        "e9ae493b-6476-4552-857b-9896c7f80ac3",
+        "b78a6fc8-228f-4b1f-b524-6b23227eeabc",
+        "6634810d-8055-4461-ac73-39f5fcfc62c7"
+      ],
+      "mappedKnowledge": [
+        "fa51460d-cab0-4a50-a8a0-705a2568af19",
+        "ef83a24b-8698-4445-aa85-eacfd15402e2",
+        "82eacef2-54d1-4b34-91af-fb15f8cde469",
+        "674dcd25-be27-4532-bdca-a1631f121675",
+        "cd9c9e88-4f26-4987-ab7d-b63666915f31",
+        "8eb2ed5e-9a00-4714-82bf-908d9fc38351",
+        "6e81e075-3a81-4068-a788-35dc62a29592",
+        "47798752-704f-4539-9163-9cc41b1cab28",
+        "30803980-0bbd-4648-9fbc-8b3ed8056ea4",
+        "25e43aaf-7b6a-422e-943f-0226c7756975"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "96edb88b-41b8-47fb-ab77-4cc7eb353e5a",
+        "d7083ecf-afd2-4702-9bf5-baed4985d818",
+        "aaaf76b3-bddd-43ee-99fb-d0461429f3ac",
+        "735d3577-ed5b-41bf-87c5-a8e0ac7399eb",
+        "2df5bf27-94ed-4654-b5bc-1e9b066d1995",
+        "b35f5869-d892-41c4-b6d5-750971ab7899",
+        "dfce7e3e-3bdf-4bcb-9f5b-d7dd5b0dc483",
+        "8b816c31-e993-49fc-bd6d-5d87d6de3553",
+        "0179dcef-203a-46b5-9b83-90b949be9113"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-04-23T00:00:00"
 }
