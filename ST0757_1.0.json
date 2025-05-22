@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 611,
   "referenceNumber": "ST0757",
+  "learningAimClassCode": "",
   "title": "Radio network technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/611",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0757",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-12-11T00:00:00",
+  "changedDate": "2025-03-18T00:00:00",
   "earliestStartDate": "2020-12-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensure that digital data and voice networks operate at an optimal level.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "radio",
@@ -32,12 +38,11 @@
     "Radio optimisation engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4710/st0757_radio-network-technician_l3_ap-for-publication_261120.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4710/st0757_radio-network-technician_l3_ap-for-publication_261120.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2124 - Electronics engineers",
   "occupationalSummary": "&lt;p&gt;This occupation is found in Telecommunications operators, Ministry of Defence and their vendors and suppliers responsible for broadcasting digital voice and data services via a mobile telecommunications network. This network will deliver these services to specific corporate, public, emergency services and military organisations. The broad purpose of the occupation is to ensure that digital data and voice networks operate at an optimal level. This is to provide the best possible service to their customers, working as part of a national or regional radio network team. The individual will set up, configure, maintain and monitor radio networks to deliver data services and operate processes for the design, installation, test, implementation, fault finding and optimisation of radio telecoms networks. In their daily work, an employee in this occupation interacts with internal and external customers, owners of potential new cell site locations, equipment suppliers, internal teams, and cross functional leaders. The occupation is a mix of office work, on site work and field-based work. An employee in this occupation will be responsible for managing radio network equipment to achieve network performance objectives in terms of service, coverage, quality and availability. They will initiate, own and complete processes, tasks and procedures, supporting wider team to deliver long-term and short-term project priorities. They will use their own initiative, work with minimal supervision, and report into a manager.&lt;/p&gt;",
   "knowledges": [
     {
@@ -265,25 +270,28 @@
       "detail": "Review own development needs"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-12-11T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0309",
   "tbMainContact": "Nick.Jeffreys@telefonica.com",
-  "involvedEmployers": "Telefonica, Army Air Corps, Royal Artillery, Royal Armoured Corp, Digital Skills UK, TC Partnership\r\nBabcock, Learning Curve",
+  "involvedEmployers": "Telefonica, Army Air Corps, Royal Artillery, Royal Armoured Corp, Digital Skills UK, TC Partnership\nBabcock, Learning Curve",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -294,25 +302,31 @@
     "Wireless systems engineer",
     "Radio optimisation engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
-  "cluster": "IT Support and Services Technician",
+  "cluster": "IT support and services technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2020-06-12T15:09:42 +00:00",
-  "lastUpdated": "2020-02-05T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/radio-network-technician-v1-0",
+  "lastUpdated": "2025-03-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-12-11T00:00:00 +00:00",
+  "banners": "A revised version of this standard and EPA plan has been approved and is available for information only at present until the funding band has been agreed.",
+  "occupationCode": "OCC0757",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "This apprenticeship is recognised for entry onto the BCS, The Chartered Institute for IT, Register of IT Technicians.",
-      "level": "0",
+      "level": "Confirms level 3 professional competence",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "The Institute of Telecommunications Professionals.",
-      "level": "0",
+      "level": "Those completing the apprenticeship are eligible for recognition at full membership",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -338,7 +352,7 @@
         "dda1fdeb-3197-4382-b746-8166c19ccb76",
         "87ca8a99-a2a7-41d5-b46a-179e20a92dd2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f016-dea4-41bf-8c6d-693896aa54e5",
         "30bf816a-f9bf-461b-add5-e10bd1b1243e",
@@ -368,7 +382,7 @@
         "f9c163e0-66cb-4d37-b5b1-ca35df352d80",
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2cdbdac6-54d1-4976-a3d0-d6dd6db93560",
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
@@ -397,7 +411,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -423,7 +437,7 @@
         "87ca8a99-a2a7-41d5-b46a-179e20a92dd2",
         "b4a9a850-f276-4b68-8ead-f5cc255c9948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e3764c3-420e-40f0-bd37-4cc9aeac1fc1",
         "7077a716-12c1-48cd-9301-d17ef2cef6c7"
@@ -446,7 +460,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "f4d0d6a9-209d-4451-9a12-66672505c947",
@@ -476,7 +490,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -505,7 +519,7 @@
         "7ca66831-7343-4e1e-b79b-1ec117f8b9d5",
         "b4a9a850-f276-4b68-8ead-f5cc255c9948"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "92e703a7-05fb-4721-b76c-62c9c4f4c594",
         "9349707c-10e7-4624-af74-87736f46e724",
@@ -534,7 +548,7 @@
         "3903a82b-4754-40cf-a86d-cc17c20cffdc",
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f016-dea4-41bf-8c6d-693896aa54e5",
         "30bf816a-f9bf-461b-add5-e10bd1b1243e",
@@ -564,7 +578,7 @@
         "4b5ff68e-c222-4f13-9673-2a79511b126c",
         "662418f3-203f-4abe-af4a-28e9c450b261"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4bf562a1-4f12-4d68-a28f-a98849937231",
         "a9109652-b5e3-4135-a396-6f436bc0f0f6",
@@ -585,7 +599,7 @@
       "mappedKnowledge": [
         "dda1fdeb-3197-4382-b746-8166c19ccb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0887157f-409a-4c67-a523-7129eb2fafe2",
         "8157c71f-1bf6-477d-a707-8089e7edf460",
@@ -605,7 +619,7 @@
         "d9e7098e-adff-43e7-9154-2e9590f46808",
         "f57777d2-a963-4917-815c-97bb94199aaf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a89bbfc5-2551-4a48-968f-ed369fd04ee2",
         "4863c2a5-e34e-4da1-9f3a-ea25e98f0b41",
@@ -625,7 +639,7 @@
       "mappedKnowledge": [
         "757a40fd-273f-4e1b-a76a-4e8bbe4a0e3f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9f166e09-ff87-4b4a-91ab-6c3b028e5f2e",
         "f4498d07-5a75-423f-9216-343ee54795b3"
@@ -643,7 +657,7 @@
         "cd1bc02b-a5df-4cfd-bea1-744800370eca",
         "af9581f6-0501-4745-9e4c-4d883f0ce10c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0887157f-409a-4c67-a523-7129eb2fafe2",
         "0ae1657f-1575-46d9-bcf6-3f369abb5340",
@@ -653,5 +667,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-18T00:00:00"
 }
