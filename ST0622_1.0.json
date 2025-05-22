@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 339,
   "referenceNumber": "ST0622",
+  "learningAimClassCode": "",
   "title": "Bicycle mechanic",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/339",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0622",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2023-03-10T00:00:00",
   "earliestStartDate": "2018-08-22T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-03-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building, repairing and servicing all kinds of bicycles.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "bike",
@@ -33,12 +39,11 @@
     "cycle mechanic"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/2135/st0622_bicycle-mechanic_l2_ap_for_publication_aug18.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5330/st0622_bicycle-mechanic_l2_ap_for_publication_aug21.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the bicycle industry, which in the United Kingdom employs several thousand people. Bicycle mechanics may work in independent bicycle shops, hire centres, bicycle workshops and larger non-specialist retailers, as well as for sports clubs, race teams and bicycle-tour operators and other bicycle related organisations. Cycling is on the increase as a means of transport and as a leisure activity, with an increasing range of bicycles on offer – some with complex technology, making it an exciting and varied industry to work in. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to build, repair and service all kinds of bicycles – for example road, mountain, hybrid, recumbent, disabled adapted, electric and other human powered road and off-road vehicles. As a definition, bicycles are human powered road vehicles with a varying number of wheels; this can include uni-cycles, tricycles, quadricycles and so on. Electric bicycles are electrically assisted or adapted bicycles as opposed to electric motorcycles. They work in bicycle shops, dedicated workshops, in the field for bicycle racing teams or independently as mobile mechanics and other areas where bicycles play a prominent part. &lt;br /&gt;&lt;br /&gt;When a bicycle is brought in for repair or service or when an ‘in-house’ bicycle needs to built, rebuilt or repaired, they run diagnostic tests to determine the cause of the problem, and then take the necessary steps to fix it. When parts aren’t available to hand, they will instigate the order for them to be obtained from a distributor or manufacturer. Sometimes bicycle repairs can be as simple as replacing cables or tyres, but sometimes they can require more complicated procedures like adjusting a frame or repairing brakes and gears. They may build bicycles or wheels from scratch. Whether a repair or build they need to complete safety checks. They may or may not interact with customers depending on the workplace, this may include talking to the customer to help identify the fault, providing estimates – recommending when it is economically viable to repair and/or the handover of the built/repaired bicycle with an explanation of the work completed. They will need to complete documentation, for example relating to the work completed or warranty claims. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with other bicycle mechanics (depending on size of operation) and suppliers; interacting with customers/clients is usually part of the role.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for responsible for completing work under the supervision of a senior mechanic or other management structure depending on the organisation. The work can be physically demanding and involves using various tools and chemicals, like cleaning products and greasing agents. Working in a manner that ensures the health and safety of self and others is essential.&lt;/p&gt;",
   "knowledges": [
     {
@@ -203,7 +208,7 @@
     },
     {
       "skillId": "a262c312-518d-4044-8525-e811fa8ac082",
-      "detail": "Remove and replace a set of forks, taking account of the correct way to cut a fork steering column to size.  Hydraulic fork servicing, disassemble/clean stations and cartridges and re-grease properly"
+      "detail": "Remove and replace a set of forks, taking account of the correct way to cut a fork steering column to size.  Hydraulic fork servicing, disassemble/clean stanchions and cartridges and re-grease properly"
     },
     {
       "skillId": "451b6288-2fc3-46a6-8955-c5def3f91c94",
@@ -258,25 +263,28 @@
       "detail": "Maintain proper tool maintenance and general workshop cleanliness and tidiness"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0102",
-  "tbMainContact": "Richard.lawrence@cycle-r.org.uk",
+  "tbMainContact": "russ.taylor@inovaplus.com",
   "involvedEmployers": "Bay Cycles, Bicycle Rehab, Bournemouth Cycleworks, Cycle-R, Cycle Surgery, Cycle Tech Oldham, Cotswold Outdoor, Decathlon, Evans Cycles, Madison, Isla Bicycles, Recycle Bicycles, Serco (UK)",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -285,14 +293,20 @@
     "bike mechanic",
     "cycle mechanic"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p><span>This standard will be reviewed after three years.</span></p>",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2020-01-07T15:56:36 +00:00",
-  "lastUpdated": "2020-01-07T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/bicycle-mechanic-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/bicycle-mechanic-v1-0",
+  "lastUpdated": "2023-03-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-22T00:00:00 +00:00",
+  "banners": "As of 1 August 2022, the English and maths requirements for on-programme and new apprentices undertaking level 2 apprenticeships have changed and are detailed as part of the apprenticeship funding rules. These requirements supersede the current wording in this apprenticeship standard and EPA plan.",
+  "occupationCode": "OCC0622",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -316,7 +330,7 @@
         "8551633e-a82d-4360-9c51-7dbcc482e2d9",
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -366,7 +380,7 @@
         "0fc2643d-ec06-41bf-9c70-99ee68851b5c",
         "8862abb0-dd4b-45da-bd1c-d76e5f11ab8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
@@ -397,7 +411,7 @@
         "a5a38d4e-a8b4-416c-b008-1b1956731ca5",
         "1caf94ca-86c5-4bfd-a770-00f1f4e1c4bd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -429,7 +443,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -478,7 +492,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "cd371cea-dbad-4eeb-a6e3-b2ce3a76f7b7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -529,7 +543,7 @@
         "2aa59d85-a694-4905-8ed6-b1312e9c1328",
         "ffb1a45e-3923-4276-b0d1-8fd92e4d16d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6939907-f585-4d95-a4eb-9fccbdd68d54",
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
@@ -560,7 +574,7 @@
         "f5ee8e7e-3329-4809-ada8-5ee0d0e9d6be",
         "ab9aa19b-0413-45c6-8e48-4b6af25bf700"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -591,7 +605,7 @@
         "22403dce-92c0-4260-aa13-952f3aa0655f",
         "bcd45083-0a80-4e11-83eb-670ca94de71e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5d2f7c5d-a04b-4d21-8c30-84f42bba781e",
         "9367a6cb-0b0a-4e6a-85a3-605dcc09ddfd",
@@ -620,7 +634,7 @@
         "09b6fb5a-1d4a-45c9-8b9d-997c795c3dcc",
         "25873f0f-e466-4bd5-a924-8a4272340998"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1eb414f1-24e9-4e6e-adb9-4a352711a610",
         "571557df-1c4e-4376-ab3d-b8d418006b90",
@@ -670,7 +684,7 @@
         "4d73e3ce-3281-453d-aa13-22c249061b5b",
         "911f255a-1a6d-483c-8b33-541939bf2acf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6939907-f585-4d95-a4eb-9fccbdd68d54",
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
@@ -690,12 +704,17 @@
       "mappedKnowledge": [
         "2aa59d85-a694-4905-8ed6-b1312e9c1328"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9d402f69-343e-4066-a57f-c9f5f10a0dbf"
       ],
       "criteriaForMeasuringPerformance": "Adherence to employer procedures\n\nAdherence to hazardous materials legislation\n\nAdherence to recycling rules and regulations"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-03-10T00:00:00"
 }
