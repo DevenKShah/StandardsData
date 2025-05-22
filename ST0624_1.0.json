@@ -1,66 +1,446 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 454,
   "referenceNumber": "ST0624",
+  "learningAimClassCode": "",
   "title": "Food and drink engineer",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/454",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0624",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2023-01-10T00:00:00",
   "earliestStartDate": "2019-05-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-01-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining, managing and installing a diverse range of specialist equipment and technology used in the manufacture of food and drink products.",
   "level": 5,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "manufacturing",
+    "food industry",
+    "food businesses",
+    "food safety",
+    "food and drink production"
+  ],
+  "jobRoles": [
+    "Food and Drink Mechanical Engineer",
+    "Food and Drink Electrical Engineer",
+    "Continuous Improvement Food and Drink Engineer and Food and Drink Reliability Engineer"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3050/st0624_food-drink-engineer_l5_ap-for-publication_26april19_pdf.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3050/st0624_food-drink-engineer_l5_ap-for-publication_26april19_pdf.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
-  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Section 1: Occupational Profile &lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Food and Drink is one of the largest, most dynamic and fastest growing sectors of industry. Food and Drink Engineers maintain, manage and install a diverse range of specialist equipment and technology used in the manufacture of food and drink products. Combining engineering competence with an understanding of the principles of food safety, science and technology, their focus is on managing, maintaining and continuously improving existing assets. They operate within the confines and unique challenges of the sector. These include the variability of the product itself, the legal and regulatory framework, environment factors and customer and consumer expectations and standards.&lt;/p&gt;\r\n&lt;p&gt;They fulfil a variety of functions within food businesses, dealing with mechanical engineering, electrical engineering, process development and project engineering.&lt;/p&gt;\r\n&lt;p&gt;Typical duties include:&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Co-ordinate site-based engineering activities using site standards&lt;/li&gt;\r\n&lt;li&gt;Implement and operate engineering activities within regulatory requirements&lt;/li&gt;\r\n&lt;li&gt;Assist the site/company to deliver operational targets, achieving optimal operational efficiency at the lowest cost&lt;/li&gt;\r\n&lt;li&gt;Support the transition from a reactive to proactive approach to engineering&lt;/li&gt;\r\n&lt;li&gt;Maintain and optimise the performance of current food and drink manufacturing equipment and machinery&lt;/li&gt;\r\n&lt;li&gt;Design and install new process lines to meet emerging business needs&lt;/li&gt;\r\n&lt;li&gt;Embed reliability centred maintenance strategies and techniques&lt;/li&gt;\r\n&lt;li&gt;Identify the root causes of process and equipment failure and addressing through the implementation of continuous improvement techniques&lt;/li&gt;\r\n&lt;li&gt;Lead the development of systems to drive planning and control focussed improvements&lt;/li&gt;\r\n&lt;li&gt;Lead the efficient and effective delivery of asset care&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;They usually work as part of a team including other engineers and will interact with other functions and teams within their own company, such as Manufacturing, Production Planning, Health and Safety and Quality. They are responsible for their own work and may be responsible for teams.&lt;/p&gt;\r\n&lt;p&gt;Food and Drink Engineers have core knowledge, skills and behaviours and knowledge and skills relating to one specialism, either mechanical or electrical.&lt;/p&gt;\r\n&lt;p&gt;Typical job titles include Food and Drink Mechanical Engineer, Food and Drink Electrical Engineer, Continuous Improvement Food and Drink Engineer and Food and Drink Reliability Engineer.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Section 2: The Requirements – Knowledge, Skills and Behaviours &lt;/strong&gt;&lt;/h3&gt;\r\n&lt;h4&gt;&#160;&lt;strong&gt;Knowledge:&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 570px;&quot; width=&quot;570&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Legislative, regulatory and ethical requirements, such as Dangerous Substances and Explosive Atmospheres (DSEAR) and Atmospheres and Explosives (ATEX) regulations, and their application to food engineering processes; food safety, hazard analysis and critical control points (HACCP), health &amp;amp; safety and environmental considerations&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Food science and technology; how engineering is used in food and drink production: heating processing, packaging, modified atmosphere packaging (MAP), preservation, chilling, freezing, sterilisation&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Engineering processes and equipment including automation and controls to make and deliver products to market: shaping forming equipment, ovens, chillers, freezers, sterilisers, MAP packing machines, check weighers, temperers, washing/cleaning, fillers, extruders, bulk solid handling &amp;amp; distribution and liquid systems process validation, sieving, filtration, metal detection, bar code verification metal detection wrapping and palletising&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Engineering theory and techniques to develop processes i.e. thermodynamic and thermo-fluid analysis heat transfer can be applied to design of baking, cooling, preserving, freezing, chilling systems&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Hygienic engineering principles relating to type of material, machine assembly, design and practice; and their importance to delivering food hygiene and safety and employee health and safety requirements in a food and drink process&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Packing materials in food; inter-relationships with food ingredients, final product and their effects on safety, quality and performance through the supply chain i.e. how to engineer correct seals on film, cardboard, tins, stable transportation, moisture barriers&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K7&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Problem solving tools to analyse e.g. Define, Measure, Analyse, Improve Control (DMAIC) principles&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K8&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Interpretation and evaluation techniques&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K9&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Overall Equipment Efficiencies (OEE), for example Smart Reliability Driven Maintenance approaches including Reliability Centred Maintenance (RCM)/ Failure mode, effects, and critical analysis (FMECA), Condition Monitoring Techniques and applications, Single minute change of Die (SMED), Line balance&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K10&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Risk management techniques, reliability/criticality tools and how they are used to reduce operational losses/wastage operations&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K11&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Life Cycle Asset Management (LCAM), Criticality Analysis &amp;amp; Technology Selection (CATS), Intelligent Maintenance, Repair and Operations (inventory) (MRO) Optimisation&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K12&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Product, machinery specifications: how they are used to set capability measurement, performance testing and maintenance requirements to deliver a standard set of operating conditions for consistent product delivery&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K13&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Effective planning and scheduling, including effective communication, team working and project management techniques&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K14&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Customer/food trade association standards, such as British Retail Consortium, Retailer and Engineering standards&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K15&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;General manufacturing services: steam, pneumatics and hydraulics, electrical supply, refrigeration, water supply and effluent&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K16&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Manufacturing services specific to food: air filtration, oil free compressors, cleanliness of steam for food, sieving of materials, use of food grade lubricant, primary secondary cooling chemicals for food, MAP gases and generation i.e. Nitrogen&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K17&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Factory digitisation/optimisation (Iot, Factory 2020 principles), for example principles of control engineering, logic controllers and data communication systems, sensors and devices, drives and transmissions, pumps and distribution systems, safety circuit systems, computer aided design, shop floor data gathering, PC use and computerised maintenance&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;44&quot;&gt;\r\n&lt;p&gt;K18&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;570&quot;&gt;\r\n&lt;p&gt;Digitisation: 4.0, modelling of lines/process, 3d modelling scanning and printing, product dimensional measurement, rheology measurement&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h4&gt;&lt;strong&gt;&lt;br /&gt;Skills:&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers will demonstrate the following skills and can&lt;/strong&gt;:&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Use engineering principles to deliver products/packaged food&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Comply with standard operating procedures, company, legal and regulatory requirements and customer/consumer and engineering standards&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Plan, for example labour and engineering materials&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Influence and communicate with colleagues and others, such as engineers, other functions and teams&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Assess team and individual performance, provide feedback to improve; coach and mentor&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Use continuous improvement techniques, for example apply quality management principles, participate in failure investigations and contribute to and implement practical engineering solutions for efficiency and/or profitability&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S7&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Use IT, digitisation and manual methods to collect data from systems to support engineering activity within the business&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S8&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Use and develop planned preventative maintenance (PPM) strategies, incorporate appropriate proactive maintenance routines, such as vibration analysis, thermography, simple visual/part measurement&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S9&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Analyse operational performance, specification and data&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S10&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Evaluate possible failure modes and identify strategy, for example technical risk assessment methods, PPM to RCM techniques&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;S11&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Contribute to the construction and commissioning of equipment and machinery used for producing preserved/fresh and safe food and drink products&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h4&gt;&lt;strong&gt;&lt;br /&gt;Behaviours:&lt;/strong&gt;&lt;/h4&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 560px;&quot; width=&quot;560&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers demonstrate the following behaviours&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Safe working, for example promotes a culture of food safety and safe working practices&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Takes ownership of work, for example takes responsibility and ownership of decision making for good food practice; is proactive, and demonstrates initiative; plans work: dependable; works autonomously within own sphere of responsibility&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Shows pride in work, for example strong work ethic; displays a positive mind set; pays attention to detail; looks for new ways of working that improve outcomes and results&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Committed to self-development, for example seeks learning, drives the development of self and others; maintains and enhances own practice through continuing professional development activity&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Shows integrity and respect, for example promotes integrity in process and site standards, respects others, promotes good communication at all levels, adapts personal style to meet work needs&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Team player, for example drives good relationships with others, works collaboratively, contributes ideas and challenges appropriately&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B7&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Responsive to change, for example flexible to changing working environment and demands; resilient under pressure&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;B8&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;560&quot;&gt;\r\n&lt;p&gt;Shows company/industry perspective, for example promotes the position of the business in relation to market and competition, keeps up to date with industry and market advancement, commercially aware&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Section 3: Additional Knowledge and Skills&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;In addition to the core knowledge, skills and behaviours, Food and Drink Engineers will demonstrate specialist additional knowledge and skills from either the mechanical or electrical options. All apprentices must complete the core plus &lt;strong&gt;one &lt;/strong&gt;of the options.&lt;/p&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Mechanical Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MK1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Mechanical design, mechanical analysis (static) performance of components, mechanisms and systems; study of friction wear; the science of interacting surfaces in relative motion (tribology)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MK2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Laws of thermodynamics and its applications within a hygienic food and drink environment: the fundamentals of heat transfer, thermo-fluid analysis, entropy, energy efficiency; conservation and sustainability&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MK3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Steam fundamentals such as fuel types, combustion, feedwater, boiler controls and instrumentation, operation of boilers, safety and legal requirements and boiler efficiency&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MK4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Heat recovery systems and energy management including the requirements of efficient best practice&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Mechanical Food and Drink Engineers will demonstrate the following skills and can&lt;/strong&gt;:&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MS1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Design, produce, and operate mechanical machinery&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MS2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Design power circuits, utilising software and calculation&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MS3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Apply specialist reliability engineering techniques to prevent or reduce the likelihood or frequency of failures i.e. vibration analysis, oil sampling, heat mapping, non-destructive testing&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MS4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Apply thermodynamic theory to more complex engineering systems, for example tempering chocolate, cleaning systems, sterilisation, vacuum cooling&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;46&quot;&gt;\r\n&lt;p&gt;MS5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Design and improve systems, for example steam, water or air&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Electrical Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Electrical and electronic systems, design techniques and their applications to British Standards&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Installation of systems and supply systems following food safety standards e.g. tray work&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Advanced electrical principles (low voltage (LV) to high voltage (HV))&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Instrumentation and calibration techniques for systems, for example thermo, weights and flow&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Automation and control systems primarily with the following low voltage systems, i.e. building automation systems, heating, ventilation and air conditioning (HVAC) controls, access control systems, data cabling and fiber optic cable installation and termination&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Supervisory control and data acquisition (SCADA) and network systems&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;EK7&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Electrical safety systems and smart solutions&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;table width=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Electrical Food and Drink Engineers will demonstrate the following skills, and can&lt;/strong&gt;:&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;ES1&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Design and configure electrical systems i.e. add distribution boards to circuits&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;ES2&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Modell dynamic systems utilising software tools&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;ES3&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Design and modify electrical control engineering systems i.e.: Engineering LAN/ network&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;ES4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Diagnose faults on complex control systems&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;45&quot;&gt;\r\n&lt;p&gt;ES5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;559&quot;&gt;\r\n&lt;p&gt;Decipher complex programme sequences in higher and lower level languages&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h3&gt;&lt;strong&gt;Section 4: Additional Information&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;h4&gt;Duration&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\r\n&lt;p&gt;Typically 3-years&lt;/p&gt;\r\n&lt;h4&gt;Typical Entry&#160; Requirements&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\r\n&lt;p&gt;Individual employers will set their own entry requirements in terms of prior academic qualifications and vocational experience. Typically candidates will have 2 A-levels at Grade B or equivalent, including A-level in maths or equivalent and at least one further STEM based subject and 5 GCSEs including English and maths (grade C or above). The Apprenticeship as a Food and Drink Maintenance Engineer provides a preparation route for this Apprenticeship.&lt;/p&gt;\r\n&lt;h4&gt;Level&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\r\n&lt;p&gt;5&lt;/p&gt;\r\n&lt;h4&gt;English and Maths&lt;/h4&gt;\r\n&lt;p&gt;Apprentices must achieve level 2 English and maths prior to taking end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3. British Sign Language qualification is an alternative to English qualifications for those whom this is their primary language.&lt;/p&gt;\r\n&lt;h4&gt;Qualification&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\r\n&lt;p&gt;Foundation Degree &#160;in Food Engineering&lt;/p&gt;\r\n&lt;h4&gt;Renewal&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\r\n&lt;p&gt;This apprenticeship standard will be reviewed after 2 years&lt;/p&gt;\r\n&lt;h4&gt;Professional Recognition&lt;/h4&gt;\r\n&lt;p&gt;Completion of the apprenticeship is designed to be recognised by the relevant professional institutions as contributing towards the appropriate level of professional registration (Incorporated Engineer). However, it is recognised that additional experiential evidence may be required.&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
-  "standardOccupationalCode": "",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Section 1: Occupational Profile &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Food and Drink is one of the largest, most dynamic and fastest growing sectors of industry. Food and Drink Engineers maintain, manage and install a diverse range of specialist equipment and technology used in the manufacture of food and drink products. Combining engineering competence with an understanding of the principles of food safety, science and technology, their focus is on managing, maintaining and continuously improving existing assets. They operate within the confines and unique challenges of the sector. These include the variability of the product itself, the legal and regulatory framework, environment factors and customer and consumer expectations and standards.&lt;/p&gt;\n&lt;p&gt;They fulfil a variety of functions within food businesses, dealing with mechanical engineering, electrical engineering, process development and project engineering.&lt;/p&gt;\n&lt;p&gt;Typical duties include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Co-ordinate site-based engineering activities using site standards&lt;/li&gt;\n&lt;li&gt;Implement and operate engineering activities within regulatory requirements&lt;/li&gt;\n&lt;li&gt;Assist the site/company to deliver operational targets, achieving optimal operational efficiency at the lowest cost&lt;/li&gt;\n&lt;li&gt;Support the transition from a reactive to proactive approach to engineering&lt;/li&gt;\n&lt;li&gt;Maintain and optimise the performance of current food and drink manufacturing equipment and machinery&lt;/li&gt;\n&lt;li&gt;Design and install new process lines to meet emerging business needs&lt;/li&gt;\n&lt;li&gt;Embed reliability centred maintenance strategies and techniques&lt;/li&gt;\n&lt;li&gt;Identify the root causes of process and equipment failure and addressing through the implementation of continuous improvement techniques&lt;/li&gt;\n&lt;li&gt;Lead the development of systems to drive planning and control focussed improvements&lt;/li&gt;\n&lt;li&gt;Lead the efficient and effective delivery of asset care&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;They usually work as part of a team including other engineers and will interact with other functions and teams within their own company, such as Manufacturing, Production Planning, Health and Safety and Quality. They are responsible for their own work and may be responsible for teams.&lt;/p&gt;\n&lt;p&gt;Food and Drink Engineers have core knowledge, skills and behaviours and knowledge and skills relating to one specialism, either mechanical or electrical.&lt;/p&gt;\n&lt;p&gt;Typical job titles include Food and Drink Mechanical Engineer, Food and Drink Electrical Engineer, Continuous Improvement Food and Drink Engineer and Food and Drink Reliability Engineer.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Section 2: The Requirements – Knowledge, Skills and Behaviours &lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;&#160;&lt;strong&gt;Knowledge:&lt;/strong&gt;&lt;/h4&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 570px;&quot; width=&quot;570&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Legislative, regulatory and ethical requirements, such as Dangerous Substances and Explosive Atmospheres (DSEAR) and Atmospheres and Explosives (ATEX) regulations, and their application to food engineering processes; food safety, hazard analysis and critical control points (HACCP), health &amp;amp; safety and environmental considerations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Food science and technology; how engineering is used in food and drink production: heating processing, packaging, modified atmosphere packaging (MAP), preservation, chilling, freezing, sterilisation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Engineering processes and equipment including automation and controls to make and deliver products to market: shaping forming equipment, ovens, chillers, freezers, sterilisers, MAP packing machines, check weighers, temperers, washing/cleaning, fillers, extruders, bulk solid handling &amp;amp; distribution and liquid systems process validation, sieving, filtration, metal detection, bar code verification metal detection wrapping and palletising&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Engineering theory and techniques to develop processes i.e. thermodynamic and thermo-fluid analysis heat transfer can be applied to design of baking, cooling, preserving, freezing, chilling systems&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Hygienic engineering principles relating to type of material, machine assembly, design and practice; and their importance to delivering food hygiene and safety and employee health and safety requirements in a food and drink process&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K6&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Packing materials in food; inter-relationships with food ingredients, final product and their effects on safety, quality and performance through the supply chain i.e. how to engineer correct seals on film, cardboard, tins, stable transportation, moisture barriers&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K7&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Problem solving tools to analyse e.g. Define, Measure, Analyse, Improve Control (DMAIC) principles&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K8&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Interpretation and evaluation techniques&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K9&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Overall Equipment Efficiencies (OEE), for example Smart Reliability Driven Maintenance approaches including Reliability Centred Maintenance (RCM)/ Failure mode, effects, and critical analysis (FMECA), Condition Monitoring Techniques and applications, Single minute change of Die (SMED), Line balance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K10&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Risk management techniques, reliability/criticality tools and how they are used to reduce operational losses/wastage operations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K11&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Life Cycle Asset Management (LCAM), Criticality Analysis &amp;amp; Technology Selection (CATS), Intelligent Maintenance, Repair and Operations (inventory) (MRO) Optimisation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K12&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Product, machinery specifications: how they are used to set capability measurement, performance testing and maintenance requirements to deliver a standard set of operating conditions for consistent product delivery&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K13&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Effective planning and scheduling, including effective communication, team working and project management techniques&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K14&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Customer/food trade association standards, such as British Retail Consortium, Retailer and Engineering standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K15&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;General manufacturing services: steam, pneumatics and hydraulics, electrical supply, refrigeration, water supply and effluent&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K16&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Manufacturing services specific to food: air filtration, oil free compressors, cleanliness of steam for food, sieving of materials, use of food grade lubricant, primary secondary cooling chemicals for food, MAP gases and generation i.e. Nitrogen&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K17&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Factory digitisation/optimisation (Iot, Factory 2020 principles), for example principles of control engineering, logic controllers and data communication systems, sensors and devices, drives and transmissions, pumps and distribution systems, safety circuit systems, computer aided design, shop floor data gathering, PC use and computerised maintenance&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;44&quot;&gt;\n&lt;p&gt;K18&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;570&quot;&gt;\n&lt;p&gt;Digitisation: 4.0, modelling of lines/process, 3d modelling scanning and printing, product dimensional measurement, rheology measurement&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h4&gt;&lt;strong&gt;&lt;br /&gt;Skills:&lt;/strong&gt;&lt;/h4&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers will demonstrate the following skills and can&lt;/strong&gt;:&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Use engineering principles to deliver products/packaged food&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Comply with standard operating procedures, company, legal and regulatory requirements and customer/consumer and engineering standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Plan, for example labour and engineering materials&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Influence and communicate with colleagues and others, such as engineers, other functions and teams&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Assess team and individual performance, provide feedback to improve; coach and mentor&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S6&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Use continuous improvement techniques, for example apply quality management principles, participate in failure investigations and contribute to and implement practical engineering solutions for efficiency and/or profitability&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S7&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Use IT, digitisation and manual methods to collect data from systems to support engineering activity within the business&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S8&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Use and develop planned preventative maintenance (PPM) strategies, incorporate appropriate proactive maintenance routines, such as vibration analysis, thermography, simple visual/part measurement&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S9&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Analyse operational performance, specification and data&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S10&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Evaluate possible failure modes and identify strategy, for example technical risk assessment methods, PPM to RCM techniques&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;S11&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Contribute to the construction and commissioning of equipment and machinery used for producing preserved/fresh and safe food and drink products&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h4&gt;&lt;strong&gt;&lt;br /&gt;Behaviours:&lt;/strong&gt;&lt;/h4&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 560px;&quot; width=&quot;560&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Food and Drink Engineers demonstrate the following behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Safe working, for example promotes a culture of food safety and safe working practices&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Takes ownership of work, for example takes responsibility and ownership of decision making for good food practice; is proactive, and demonstrates initiative; plans work: dependable; works autonomously within own sphere of responsibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Shows pride in work, for example strong work ethic; displays a positive mind set; pays attention to detail; looks for new ways of working that improve outcomes and results&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Committed to self-development, for example seeks learning, drives the development of self and others; maintains and enhances own practice through continuing professional development activity&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Shows integrity and respect, for example promotes integrity in process and site standards, respects others, promotes good communication at all levels, adapts personal style to meet work needs&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B6&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Team player, for example drives good relationships with others, works collaboratively, contributes ideas and challenges appropriately&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B7&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Responsive to change, for example flexible to changing working environment and demands; resilient under pressure&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;B8&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;560&quot;&gt;\n&lt;p&gt;Shows company/industry perspective, for example promotes the position of the business in relation to market and competition, keeps up to date with industry and market advancement, commercially aware&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Section 3: Additional Knowledge and Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;In addition to the core knowledge, skills and behaviours, Food and Drink Engineers will demonstrate specialist additional knowledge and skills from either the mechanical or electrical options. All apprentices must complete the core plus &lt;strong&gt;one &lt;/strong&gt;of the options.&lt;/p&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Mechanical Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MK1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Mechanical design, mechanical analysis (static) performance of components, mechanisms and systems; study of friction wear; the science of interacting surfaces in relative motion (tribology)&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MK2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Laws of thermodynamics and its applications within a hygienic food and drink environment: the fundamentals of heat transfer, thermo-fluid analysis, entropy, energy efficiency; conservation and sustainability&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MK3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Steam fundamentals such as fuel types, combustion, feedwater, boiler controls and instrumentation, operation of boilers, safety and legal requirements and boiler efficiency&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MK4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Heat recovery systems and energy management including the requirements of efficient best practice&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Mechanical Food and Drink Engineers will demonstrate the following skills and can&lt;/strong&gt;:&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MS1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Design, produce, and operate mechanical machinery&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MS2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Design power circuits, utilising software and calculation&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MS3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Apply specialist reliability engineering techniques to prevent or reduce the likelihood or frequency of failures i.e. vibration analysis, oil sampling, heat mapping, non-destructive testing&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MS4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Apply thermodynamic theory to more complex engineering systems, for example tempering chocolate, cleaning systems, sterilisation, vacuum cooling&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;46&quot;&gt;\n&lt;p&gt;MS5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Design and improve systems, for example steam, water or air&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Electrical Food and Drink Engineers have the following knowledge and understanding:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Electrical and electronic systems, design techniques and their applications to British Standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Installation of systems and supply systems following food safety standards e.g. tray work&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Advanced electrical principles (low voltage (LV) to high voltage (HV))&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Instrumentation and calibration techniques for systems, for example thermo, weights and flow&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Automation and control systems primarily with the following low voltage systems, i.e. building automation systems, heating, ventilation and air conditioning (HVAC) controls, access control systems, data cabling and fiber optic cable installation and termination&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK6&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Supervisory control and data acquisition (SCADA) and network systems&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;EK7&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Electrical safety systems and smart solutions&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;/td&gt;\n&lt;th style=&quot;width: 559px;&quot; width=&quot;559&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Electrical Food and Drink Engineers will demonstrate the following skills, and can&lt;/strong&gt;:&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;ES1&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Design and configure electrical systems i.e. add distribution boards to circuits&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;ES2&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Modell dynamic systems utilising software tools&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;ES3&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Design and modify electrical control engineering systems i.e.: Engineering LAN/ network&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;ES4&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Diagnose faults on complex control systems&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;45&quot;&gt;\n&lt;p&gt;ES5&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;559&quot;&gt;\n&lt;p&gt;Decipher complex programme sequences in higher and lower level languages&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Section 4: Additional Information&lt;/strong&gt;&lt;/h3&gt;\n&lt;h4&gt;Duration&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\n&lt;p&gt;Typically 3-years&lt;/p&gt;\n&lt;h4&gt;Typical Entry&#160; Requirements&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\n&lt;p&gt;Individual employers will set their own entry requirements in terms of prior academic qualifications and vocational experience. Typically candidates will have 2 A-levels at Grade B or equivalent, including A-level in maths or equivalent and at least one further STEM based subject and 5 GCSEs including English and maths (grade C or above). The Apprenticeship as a Food and Drink Maintenance Engineer provides a preparation route for this Apprenticeship.&lt;/p&gt;\n&lt;h4&gt;Level&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\n&lt;p&gt;5&lt;/p&gt;\n&lt;h4&gt;English and Maths&lt;/h4&gt;\n&lt;p&gt;Apprentices must achieve level 2 English and maths prior to taking end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3. British Sign Language qualification is an alternative to English qualifications for those whom this is their primary language.&lt;/p&gt;\n&lt;h4&gt;Qualification&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\n&lt;p&gt;Foundation Degree &#160;in Food Engineering&lt;/p&gt;\n&lt;h4&gt;Renewal&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&lt;/h4&gt;\n&lt;p&gt;This apprenticeship standard will be reviewed after 2 years&lt;/p&gt;\n&lt;h4&gt;Professional Recognition&lt;/h4&gt;\n&lt;p&gt;Completion of the apprenticeship is designed to be recognised by the relevant professional institutions as contributing towards the appropriate level of professional registration (Incorporated Engineer). However, it is recognised that additional experiential evidence may be required.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
   "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "knowledges": [
+    {
+      "knowledgeId": "676381c9-46a0-44f7-8f52-8398e6bb3c4f",
+      "detail": "C:Legislative, regulatory and ethical requirements, such as Dangerous Substances and Explosive Atmospheres (DSEAR) and Atmospheres and Explosives (ATEX) regulations, and their application to food engineering processes; food safety, hazard analysis and critical control points (HACCP), health & safety and environmental considerations."
+    },
+    {
+      "knowledgeId": "181038fc-ead9-48aa-bb27-bf590a6480fe",
+      "detail": "C:Food science and technology; how engineering is used in food and drink production: heating processing, packaging, modified atmosphere packaging (MAP), preservation, chilling, freezing, sterilisation."
+    },
+    {
+      "knowledgeId": "df1a731a-b46b-4ba7-9397-1751123410c1",
+      "detail": "C:Engineering processes and equipment including automation and controls to make and deliver products to market: shaping forming equipment, ovens, chillers, freezers, sterilisers, MAP packing machines, check weighers, temperers, washing/cleaning, fillers, extruders, bulk solid handling & distribution and liquid systems process validation, sieving, filtration, metal detection, bar code verification metal detection wrapping and palletising."
+    },
+    {
+      "knowledgeId": "d63451a1-5f2e-4c3d-9d6d-6c5b52da4f87",
+      "detail": "C:Engineering theory and techniques to develop processes i.e. thermodynamic and thermo-fluid analysis heat transfer can be applied to design of baking, cooling, preserving, freezing, chilling systems."
+    },
+    {
+      "knowledgeId": "74a05be7-b01f-4218-a00a-93b3c8901c23",
+      "detail": "C:Hygienic engineering principles relating to type of material, machine assembly, design and practice; and their importance to delivering food hygiene and safety and employee health and safety requirements in a food and drink process."
+    },
+    {
+      "knowledgeId": "fa1ba8bc-5a06-4ea8-8f1d-c57b26e55e98",
+      "detail": "C:Packing materials in food; inter-relationships with food ingredients, final product and their effects on safety, quality and performance through the supply chain i.e. how to engineer correct seals on film, cardboard, tins, stable transportation, moisture barriers."
+    },
+    {
+      "knowledgeId": "7921bb6e-9314-47dd-8977-bf9e0d87328a",
+      "detail": "C:Problem solving tools to analyse e.g. Define, Measure, Analyse, Improve Control (DMAIC) principles."
+    },
+    {
+      "knowledgeId": "e5a4bc25-3db7-4c96-b44e-7cb08ed60025",
+      "detail": "C:Interpretation and evaluation techniques."
+    },
+    {
+      "knowledgeId": "d161cf6b-0375-4c61-8257-21750d53ba2b",
+      "detail": "C:Overall Equipment Efficiencies (OEE), for example Smart Reliability Driven Maintenance approaches including Reliability Centred Maintenance (RCM)/ Failure mode, effects, and critical analysis (FMECA), Condition Monitoring Techniques and applications, Single minute change of Die (SMED), Line balance."
+    },
+    {
+      "knowledgeId": "1faecd22-6b7b-4fd2-b220-dc8f38febef4",
+      "detail": "C:Risk management techniques, reliability/criticality tools and how they are used to reduce operational losses/wastage operations."
+    },
+    {
+      "knowledgeId": "01c1e938-74ae-4c34-8810-5f29098d339e",
+      "detail": "C:Life Cycle Asset Management (LCAM), Criticality Analysis & Technology Selection (CATS), Intelligent Maintenance, Repair and Operations (inventory) (MRO) Optimisation."
+    },
+    {
+      "knowledgeId": "ce32dccb-82a6-4182-ad6f-adba6c6d976a",
+      "detail": "C:Product, machinery specifications: how they are used to set capability measurement, performance testing and maintenance requirements to deliver a standard set of operating conditions for consistent product delivery."
+    },
+    {
+      "knowledgeId": "1412b761-41ab-430a-9ab8-416ed808546f",
+      "detail": "C:Effective planning and scheduling, including effective communication, team working and project management techniques."
+    },
+    {
+      "knowledgeId": "6605e199-f56f-458f-82f4-8ba171ca8670",
+      "detail": "C:Customer/food trade association standards, such as British Retail Consortium, Retailer and Engineering standards."
+    },
+    {
+      "knowledgeId": "61d5507f-4967-41a7-8a80-425a054e3902",
+      "detail": "C:General manufacturing services: steam, pneumatics and hydraulics, electrical supply, refrigeration, water supply and effluent."
+    },
+    {
+      "knowledgeId": "381415f0-03d0-4312-8ec0-6c113913df7f",
+      "detail": "C:Manufacturing services specific to food: air filtration, oil free compressors, cleanliness of steam for food, sieving of materials, use of food grade lubricant, primary secondary cooling chemicals for food, MAP gases and generation i.e. Nitrogen."
+    },
+    {
+      "knowledgeId": "e279888c-5445-420f-b541-099d3bdc4e0b",
+      "detail": "C:Factory digitisation/optimisation (Iot, Factory 2020 principles), for example principles of control engineering, logic controllers and data communication systems, sensors and devices, drives and transmissions, pumps and distribution systems, safety circuit systems, computer aided design, shop floor data gathering, PC use and computerised maintenance."
+    },
+    {
+      "knowledgeId": "07cf7471-66f1-47e9-b89c-1fa9a250dcf2",
+      "detail": "C:Digitisation: 4.0, modelling of lines/process, 3d modelling scanning and printing, product dimensional measurement, rheology measurement."
+    },
+    {
+      "knowledgeId": "549b7c8a-a2a1-47cb-9b99-4a2ce27ee9a9",
+      "detail": "O1:Mechanical design, mechanical analysis (static) performance of components, mechanisms and systems; study of friction wear; the science of interacting surfaces in relative motion (tribology)."
+    },
+    {
+      "knowledgeId": "d9a56612-fb6f-4d91-8f0a-ec93b5921902",
+      "detail": "O1:Laws of thermodynamics and its applications within a hygienic food and drink environment: the fundamentals of heat transfer, thermo-fluid analysis, entropy, energy efficiency; conservation and sustainability."
+    },
+    {
+      "knowledgeId": "437e21d6-45c2-430c-9bc1-0066ee2c3763",
+      "detail": "O1:Steam fundamentals such as fuel types, combustion, feedwater, boiler controls and instrumentation, operation of boilers, safety and legal requirements and boiler efficiency."
+    },
+    {
+      "knowledgeId": "4d744518-d276-4490-829f-0cdd04f10eae",
+      "detail": "O1:Heat recovery systems and energy management including the requirements of efficient best practice."
+    },
+    {
+      "knowledgeId": "6f3692fa-035d-40dd-9461-1012a8efec94",
+      "detail": "O2:Electrical and electronic systems, design techniques and their applications to British Standards."
+    },
+    {
+      "knowledgeId": "e36e6854-db57-4ef3-8008-4e2b1c693e7a",
+      "detail": "O2:Installation of systems and supply systems following food safety standards e.g. tray work."
+    },
+    {
+      "knowledgeId": "acb87f7a-a88c-465e-9d52-395b71c50b1c",
+      "detail": "O2:Advanced electrical principles (low voltage (LV) to high voltage (HV))."
+    },
+    {
+      "knowledgeId": "f318eeb3-1928-4e00-85c1-825efc1b00d2",
+      "detail": "O2:Instrumentation and calibration techniques for systems, for example thermo, weights and flow."
+    },
+    {
+      "knowledgeId": "8a7ced87-e7d5-45af-863a-abf2b797ecfb",
+      "detail": "O2:Automation and control systems primarily with the following low voltage systems, i.e. building automation systems, heating, ventilation and air conditioning (HVAC) controls, access control systems, data cabling and fiber optic cable installation and termination."
+    },
+    {
+      "knowledgeId": "73361b60-a6b4-4bac-bfd8-b090dd7b63dd",
+      "detail": "O2:Supervisory control and data acquisition (SCADA) and network systems"
+    },
+    {
+      "knowledgeId": "f56e638a-a0fd-491f-a97e-c42324a83df4",
+      "detail": "O2:Electrical safety systems and smart solutions."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "400faa81-f7d8-4dcd-b65d-b5d0820999b5",
+      "detail": "Safe working, for example promotes a culture of food safety and safe working practices."
+    },
+    {
+      "behaviourId": "7fdc302e-6973-49f2-9a76-03f42b7ef98b",
+      "detail": "Takes ownership of work, for example takes responsibility and ownership of decision making for good food practice; is proactive, and demonstrates initiative; plans work: dependable; works autonomously within own sphere of responsibility."
+    },
+    {
+      "behaviourId": "10039f71-0d83-4100-8ffd-e791ac7165ad",
+      "detail": "Shows pride in work, for example strong work ethic; displays a positive mind set; pays attention to detail; looks for new ways of working that improve outcomes and results."
+    },
+    {
+      "behaviourId": "41432276-5437-45b7-871c-40ec96445395",
+      "detail": "Committed to self-development, for example seeks learning, drives the development of self and others; maintains and enhances own practice through continuing professional development activity."
+    },
+    {
+      "behaviourId": "f9b1a577-314d-4c27-a796-49017f697f37",
+      "detail": "Shows integrity and respect, for example promotes integrity in process and site standards, respects others, promotes good communication at all levels, adapts personal style to meet work needs."
+    },
+    {
+      "behaviourId": "bc05e5e0-5093-47e8-89a3-7a1fc9f4133e",
+      "detail": "Team player, for example drives good relationships with others, works collaboratively, contributes ideas and challenges appropriately."
+    },
+    {
+      "behaviourId": "ce87f8f8-0016-4e58-a2c8-b1506108c880",
+      "detail": "Responsive to change, for example flexible to changing working environment and demands; resilient under pressure."
+    },
+    {
+      "behaviourId": "48754d1f-fda3-44d2-b483-297497a20f5c",
+      "detail": "Shows company/industry perspective, for example promotes the position of the business in relation to market and competition, keeps up to date with industry and market advancement, commercially aware."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ce675eaf-ec59-466b-ae74-e10a43e8f894",
+      "detail": "C:Use engineering principles to deliver products/packaged food."
+    },
+    {
+      "skillId": "833907c3-7408-48b3-b8a2-13c812182728",
+      "detail": "C:Comply with standard operating procedures, company, legal and regulatory requirements and customer/consumer and engineering standards."
+    },
+    {
+      "skillId": "c6e563d2-7bbf-4384-a66b-0b79d8053f7c",
+      "detail": "C:Plan, for example labour and engineering materials."
+    },
+    {
+      "skillId": "c951380a-177b-4ccb-808e-44184a4a404f",
+      "detail": "C:Influence and communicate with colleagues and others, such as engineers, other functions and teams.\r\n"
+    },
+    {
+      "skillId": "d53be783-b443-4d1e-8ccc-145727f33095",
+      "detail": "C:Assess team and individual performance, provide feedback to improve; coach and mentor.\r\n"
+    },
+    {
+      "skillId": "027b3c3b-ed12-4009-aebf-d24085d1a53a",
+      "detail": "C:Use continuous improvement techniques, for example apply quality management principles, participate in failure investigations and contribute to and implement practical engineering solutions for efficiency and/or profitability."
+    },
+    {
+      "skillId": "d07b3ce3-a73a-4b95-aff9-99bc7ca924ee",
+      "detail": "C:Use IT, digitisation and manual methods to collect data from systems to support engineering activity within the business."
+    },
+    {
+      "skillId": "c2962b30-2968-4927-a211-3b645fc3a7cb",
+      "detail": "C:Use and develop planned preventative maintenance (PPM) strategies, incorporate appropriate proactive maintenance routines, such as vibration analysis, thermography, simple visual/part measurement."
+    },
+    {
+      "skillId": "ade12c99-48d2-4127-a52d-bffb3c6b80e5",
+      "detail": "C:Analyse operational performance, specification and data."
+    },
+    {
+      "skillId": "89853c69-e527-4de2-8983-0dee4f1ea7be",
+      "detail": "C:Evaluate possible failure modes and identify strategy, for example technical risk assessment methods, PPM to RCM techniques."
+    },
+    {
+      "skillId": "a9355f6b-c763-4071-afd7-12820ccf5bf3",
+      "detail": "C:Contribute to the construction and commissioning of equipment and machinery used for producing preserved/fresh and safe food and drink products."
+    },
+    {
+      "skillId": "56a71cfa-19c1-4758-bfa1-96207e8c5b1c",
+      "detail": "O1:Design, produce, and operate mechanical machinery."
+    },
+    {
+      "skillId": "7071c7b6-2262-420d-94d0-f91065c50e83",
+      "detail": "O1:Design power circuits, utilising software and calculation."
+    },
+    {
+      "skillId": "e5f5b395-9e0b-4c05-ba86-b3dcd5f897a4",
+      "detail": "O1:Apply specialist reliability engineering techniques to prevent or reduce the likelihood or frequency of failures i.e. vibration analysis, oil sampling, heat mapping, non-destructive testing."
+    },
+    {
+      "skillId": "75fd7cdf-3ccf-4c13-b276-9a30902eccf0",
+      "detail": "O1:Apply thermodynamic theory to more complex engineering systems, for example tempering chocolate, cleaning systems, sterilisation, vacuum cooling."
+    },
+    {
+      "skillId": "c8cd9ec6-ff17-4e4b-8b4f-a30186818e33",
+      "detail": "O1:Design and improve systems, for example steam, water or air."
+    },
+    {
+      "skillId": "6313168e-6ba5-4853-ab3d-5f9a5903614a",
+      "detail": "O2:Design and configure electrical systems i.e. add distribution boards to circuits."
+    },
+    {
+      "skillId": "0143acff-9690-48d3-83d6-0274fc2b4419",
+      "detail": "O2:Modell dynamic systems utilising software tools."
+    },
+    {
+      "skillId": "7fda4d0e-f113-454e-9d3b-1462c7ccc91b",
+      "detail": "O2:Design and modify electrical control engineering systems i.e.: Engineering LAN/ network."
+    },
+    {
+      "skillId": "d35e8cfa-0bfb-44b8-b683-d36dcb3f4bc9",
+      "detail": "O2:Diagnose faults on complex control systems."
+    },
+    {
+      "skillId": "4da9148a-6363-4ea7-8697-d46cd3ef67bc",
+      "detail": "O2:Decipher complex programme sequences in higher and lower level languages."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
+  "tbReference": "TB0007",
   "tbMainContact": "secretariat@nsafd.co.uk",
   "involvedEmployers": "ABP Foods, Champion Reeves, Faccenda, KP Foods, Kraft Heinz, Muller, Nestlé, OAL, Pladis, Premier Foods, Princes",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Food and Drink Mechanical Engineer",
+    "Food and Drink Electrical Engineer",
+    "Continuous Improvement Food and Drink Engineer and Food and Drink Reliability Engineer"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing, Plant and Process Technologist",
-  "createdDate": "2017-11-23T14:13:00 +00:00",
-  "lastUpdated": "2019-05-10T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-engineer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/food-and-drink-engineer-v1-0",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing, plant and process technologist",
+  "clusterId": "265",
+  "clusterDescription": "Develop and improve technology of the manufacturing plant and equipment for a whole process",
+  "createdDate": "2022-04-07T12:46:44 +00:00",
+  "lastUpdated": "2023-01-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0624",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0624-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0624-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "88d7076e-4506-47a2-a524-2fec081570ad",
+      "dutyDetail": "Co-ordinate site-based engineering activities using site standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0f71812-b803-4258-81ac-61c245cf4604",
+      "dutyDetail": "Implement and operate engineering activities within regulatory requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "65f4a079-6496-4de2-80ed-bc34e5572899",
+      "dutyDetail": "Assist the site/company to deliver operational targets, achieving optimal operational efficiency at the lowest cost.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db810c8e-571b-4937-8b39-e7e2d87f2b7c",
+      "dutyDetail": "Support the transition from a reactive to proactive approach to engineering.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a3606509-22e0-4aaa-951f-dea199431b74",
+      "dutyDetail": "Maintain and optimise the performance of current food and drink manufacturing equipment and machinery.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b00024d7-747d-4a7b-9e7f-537bdc7d35ef",
+      "dutyDetail": "Design and install new process lines to meet emerging business needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bd605712-69df-4ced-9d60-d3d9f3b3ff87",
+      "dutyDetail": "Embed reliability centred maintenance strategies and techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "39fad8f5-cc22-49ea-91fe-8857b260d4a6",
+      "dutyDetail": "Identify the root causes of process and equipment failure and addressing through the implementation of continuous improvement techniques.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0ace6eec-ffc6-4130-9f3d-b56974cc2417",
+      "dutyDetail": "Lead the development of systems to drive planning and control focussed improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ced9cc38-2a82-4181-985b-1c6e67c0a44c",
+      "dutyDetail": "Lead the efficient and effective delivery of asset care.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "e5463730-3442-41e0-ae35-8beec0769516",
+      "title": "Mechanical Food and Drink Engineer",
+      "occupationCode": ""
+    },
+    {
+      "optionId": "d094619e-384d-4e35-95c7-82b320b1f290",
+      "title": "Electrical Food and Drink Engineer",
+      "occupationCode": ""
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-01-10T00:00:00"
 }
