@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 526,
   "referenceNumber": "ST0476",
+  "learningAimClassCode": "",
   "title": "Assistant puppet maker",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/526",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0476",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-03-25T00:00:00",
+  "changedDate": "2022-02-25T00:00:00",
   "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting the design, manufacture and performance of puppets.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "craft",
@@ -22,7 +28,8 @@
     "design",
     "puppets",
     "performance",
-    "media"
+    "media",
+    "theatre"
   ],
   "jobRoles": [
     "Puppet Maker",
@@ -30,13 +37,12 @@
     "Puppet Technician"
   ],
   "entryRequirements": "&lt;p&gt;&lt;span&gt;Level 3 and above apprenticeships Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3709/st0476_assistant-puppet_maker_l3_ap.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3709/st0476_assistant-puppet_maker_l3_ap.pdf",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.2 Crafts, creative arts and design",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;Assistant Puppet Makers (APM) support the design, manufacture (making) and performance of puppets for theatre, film, TV, carnival, animation, applied puppetry and outdoor arts.&#160; They may work for a single Senior Puppet Maker or as part of a wider technical and performance team led by a Creative Director.&#160; They are responsible for contributing to the care of their puppets, including how they are handled, stored, transported and used during a performance/production.&#160; They must know how to undertake basic repairs to puppets and choose appropriate materials for manufacture to aid their preservation.&lt;/p&gt;\r\n&lt;p&gt;APMs must know how to design basic puppets suitable to the performance/production using appropriate technical drawing methods, and must be able to manufacture puppets to their own or others’ designs, selecting the most suitable materials for the conditions the puppet will be used in, for example: weather tolerant if used for outdoor performances, of sturdy structure if used for immersive/audience interactive performances, or resistant to heat and light damage if used in close proximity to theatre lighting.&#160; APMs must understand the best application and likely lifespan of different materials and be confident making puppets from a range of materials such as paper, wood, papier mache, foam, wire, metal, rubber, acrylic and soft materials.&#160; They must understand the required movement of puppets depending on the performance, and apply design and build methods to ensure said requirements can be met.&#160; This may include the application and use of traditional strings, robotics or digital programming.&lt;/p&gt;\r\n&lt;p&gt;APMs must be confident in the use and maintenance of hand and machine tools and materials relevant to their puppetry setting(s) such as those outlined above. They must meet minimum Health and Safety requirements associated with puppet making, including how to keep oneself and team members safe, in line with company policies.&lt;/p&gt;\r\n&lt;p&gt;Alongside the design and manufacture of puppets, APMs must also have awareness of the performance of puppets for live and recorded productions, and as such must have knowledge of creative performance principles to ensure puppets can be animated in line with performance scripts.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Assistant Puppet Makers (APM) support the design, manufacture (making) and performance of puppets for theatre, film, TV, carnival, animation, applied puppetry and outdoor arts.&#160; They may work for a single Senior Puppet Maker or as part of a wider technical and performance team led by a Creative Director.&#160; They are responsible for contributing to the care of their puppets, including how they are handled, stored, transported and used during a performance/production.&#160; They must know how to undertake basic repairs to puppets and choose appropriate materials for manufacture to aid their preservation.&lt;/p&gt;\n&lt;p&gt;APMs must know how to design basic puppets suitable to the performance/production using appropriate technical drawing methods, and must be able to manufacture puppets to their own or others’ designs, selecting the most suitable materials for the conditions the puppet will be used in, for example: weather tolerant if used for outdoor performances, of sturdy structure if used for immersive/audience interactive performances, or resistant to heat and light damage if used in close proximity to theatre lighting.&#160; APMs must understand the best application and likely lifespan of different materials and be confident making puppets from a range of materials such as paper, wood, papier mache, foam, wire, metal, rubber, acrylic and soft materials.&#160; They must understand the required movement of puppets depending on the performance, and apply design and build methods to ensure said requirements can be met.&#160; This may include the application and use of traditional strings, robotics or digital programming.&lt;/p&gt;\n&lt;p&gt;APMs must be confident in the use and maintenance of hand and machine tools and materials relevant to their puppetry setting(s) such as those outlined above. They must meet minimum Health and Safety requirements associated with puppet making, including how to keep oneself and team members safe, in line with company policies.&lt;/p&gt;\n&lt;p&gt;Alongside the design and manufacture of puppets, APMs must also have awareness of the performance of puppets for live and recorded productions, and as such must have knowledge of creative performance principles to ensure puppets can be animated in line with performance scripts.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "c13ba1cf-2c7f-4193-b933-665d88ffb4a9",
@@ -207,25 +213,28 @@
       "detail": " Organise workload effectively to ensure time is used wisely and tasks are completed in agreed priority order"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-12-18T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0307",
   "tbMainContact": "Samantha@littleangeltheatre.com",
   "involvedEmployers": "Little Angel Theatre, CC Skills, Little Angel Theatre, Horse and Bamboo, Norwich Puppet Theatre, Blind Summit, Theatre Rites, Theatre Rites, Green Ginger, Folded Feather, Silent Tide/Curious School of Puppetry, Significant Object Theatre Co, The Puppet Centre, Little Chair, Smoking Apples Theatre, City of Wolverhampton College, Sad Lucy.",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -234,24 +243,30 @@
     "Assistant Puppet Maker",
     "Puppet Technician"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Media, Broadcast and Production",
-  "cluster": "Production Arts Assistant",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Craft and Design",
+  "cluster": "Design technician",
+  "clusterId": "232",
+  "clusterDescription": "Apply creative skills and crafting techniques to the design and development of products and graphics.",
   "createdDate": "2020-02-28T10:13:47 +00:00",
-  "lastUpdated": "2020-02-28T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-puppet-maker-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-puppet-maker-v1-0",
+  "lastUpdated": "2022-02-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-12-18T00:00:00 +00:00",
+  "banners": "Starts on this apprenticeship are paused in the absence of an End Point Assessment Organisation (EPAO). Starts will be permitted again once a suitable EPAO is in place.",
+  "occupationCode": "OCC0476",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0476-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0476-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
     {
       "dutyID": "814f9602-1b64-4630-83a6-992b8e4c53e3",
       "dutyDetail": "Make puppets so they have the technical performance functions required to meet the production brief",
-      "isThisACoreDuty": 0,
-      "mappedBehaviour": null,
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "e933afbe-cbc1-4302-8caa-9ca2621716f9",
         "8e164bbb-23ac-4c1a-b3d4-8352fbf18069"
@@ -261,7 +276,7 @@
     {
       "dutyID": "bd7c3c3d-7a29-40c1-a06f-aa6880bed37c",
       "dutyDetail": "Make puppets from a range of materials suitable for the environment/type of performance they are intended for",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "3416f44e-7f85-48ec-abdd-e239a5da311d",
@@ -273,7 +288,7 @@
         "f40c268f-0e28-4daf-bbf1-be053240bfc4",
         "2f2c302d-0c23-4c9c-8a47-0faaf57ef017"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "046719d5-74a0-4599-bc2e-cb30f2883710",
         "8253dbc6-cfb4-4c41-be99-dd4df48a12ae",
@@ -287,7 +302,7 @@
     {
       "dutyID": "70d525db-82ee-4564-9e6a-565c32673add",
       "dutyDetail": "Design puppets in response to a given brief",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "3416f44e-7f85-48ec-abdd-e239a5da311d",
@@ -300,7 +315,7 @@
         "6173f265-4400-4416-bf12-4fc6fd53231d",
         "85000e65-51e5-4bef-b13b-497c52c4c4a9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3da5a0d5-5752-4b16-85d6-65b95e3cffbb",
         "458886a7-f687-4970-99e0-47657b9d0aa6"
@@ -310,7 +325,7 @@
     {
       "dutyID": "c7c4e5d1-4f77-4e0b-89c3-62307a966cf8",
       "dutyDetail": "Meet Health and Safety compliance requirements in line with company policies and procedures",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9365c722-0e40-4cbe-91f8-1c87ad2fad57",
         "bc584e44-6560-4dbb-8c4e-8d9e28d624be"
@@ -318,7 +333,7 @@
       "mappedKnowledge": [
         "feb3b3b0-eeec-423a-af7b-4b332a299368"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2a929019-bae8-4db1-86e6-eccf4c9daafc",
         "b4856ced-3140-4959-828d-9676029ab696",
@@ -329,7 +344,7 @@
     {
       "dutyID": "4c0cf7d8-e713-4ed2-a4ed-098f4474ba60",
       "dutyDetail": "Undertake basic repairs to puppets to aid their desired longevity and use",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ebb6e222-d981-46f2-9193-ba6cbbec434e",
         "bc584e44-6560-4dbb-8c4e-8d9e28d624be",
@@ -339,7 +354,7 @@
         "89f89865-0ad4-477e-90a4-10a0a08f44a5",
         "afa847b5-a228-4b3b-8ba3-ae53d1146790"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "407f1f7f-c695-4918-8e72-e3a200ecd05b",
         "cda23bf1-a46e-49ab-8799-4adb4cb43bb9"
@@ -349,12 +364,12 @@
     {
       "dutyID": "967aba92-25f1-4740-8e7b-3fd674de4f51",
       "dutyDetail": "Work as part of a team to agreed deadlines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "282ec19b-ce37-4e2e-ae40-9970a9ac9c8c"
       ],
-      "mappedKnowledge": null,
-      "mappedOptions": null,
+      "mappedKnowledge": [],
+      "mappedOptions": [],
       "mappedSkills": [
         "3b970d8a-e04e-4bc7-bba8-af0d5d0c229e",
         "1625cc86-2dc5-423f-a1b0-e05300daaf5f",
@@ -365,7 +380,7 @@
     {
       "dutyID": "14a5f407-45cf-4f52-85b0-45269d1e90a9",
       "dutyDetail": "Demonstrate knowledge and understanding about puppet making as a craft and puppetry as a creative performance aid",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9365c722-0e40-4cbe-91f8-1c87ad2fad57"
       ],
@@ -377,12 +392,17 @@
         "f39d3c89-9d45-4893-a1bf-4956062c1019",
         "698d0344-a45b-4ca4-9c18-aa21a306fe82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "98380f62-6cd9-4523-b570-c8a308382c42"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-02-25T00:00:00"
 }
