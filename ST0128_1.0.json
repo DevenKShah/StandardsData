@@ -1,19 +1,25 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 154,
   "referenceNumber": "ST0128",
+  "learningAimClassCode": "",
   "title": "Software development technician",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/154",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0128",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-04-05T00:00:00",
   "earliestStartDate": "2016-12-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-05-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building simple applications for use in larger software developments.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "software",
@@ -26,72 +32,240 @@
     "applications"
   ],
   "jobRoles": [
-    "Software Development Technician",
-    "Junior Developer",
-    "Junior Web Developer",
-    "Junior Application Developer",
-    "Junior Mobile App Developer",
-    "Junior Games Developer",
-    "Junior Software Developer",
-    "Junior Application Support Analyst",
-    "Junior Programmer",
-    "Assistant Programmer and Automated Test Developer"
+    "Assistant programmer and automated test developer",
+    "Junior application developer",
+    "Junior application support analyst",
+    "Junior developer",
+    "Junior games developer",
+    "Junior mobile app developer",
+    "Junior programmer",
+    "Junior software developer",
+    "Junior web developer",
+    "Software development technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1198/software_development_technician.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1198/software_development_technician.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Role profile&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;A Software Development Technician typically works as part of a software development team, to builds simple software components (whether web, mobile or desktop applications) to be used by other members of the team as part of larger software development projects. They will interpret simple design requirements for discrete components of the project under supervision. The approach will typically include implementing code, which other team members have developed, to produce the required component. . The Software Development Technician will also be engaged in testing that the specific component meets its intended functionality.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Typical job roles&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Software Development Technician&lt;strong&gt;, &lt;/strong&gt;Junior Developer, Junior Web Developer, Junior Application Developer, Junior Mobile App Developer, Junior Games Developer, Junior Software Developer, Junior Application Support Analyst, Junior Programmer, Assistant Programmer and Automated Test Developer.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;try requirements&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include 5 GCSEs (especially English, mathematics and a science or technology subject); other relevant qualifications and experience; or an aptitude test with a focus on IT skills.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Technical competencies&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Logic: writes simple code for discrete software components following an appropriate logical approach to agreed standards (whether for web, mobile or desktop applications)&lt;/li&gt;\r\n&lt;li&gt;Security: applies appropriate secure development principles to specific software components all stages of development&lt;/li&gt;\r\n&lt;li&gt;Development support: applies industry standard approaches for configuration management and version control to manage code during build and release&lt;/li&gt;\r\n&lt;li&gt;Data: makes simple connections between code and defined data sources as specified Test: functionally tests that the deliverables for that component have been met or not&lt;/li&gt;\r\n&lt;li&gt;Analysis: follows basic analysis models such as use cases and process maps&lt;/li&gt;\r\n&lt;li&gt;Development lifecycle: supports the Software Developers at the build and test stages of the software development lifecycle&lt;/li&gt;\r\n&lt;li&gt;Quality: follows organisational and industry good coding practices (including those for naming, commenting etc.)&lt;/li&gt;\r\n&lt;li&gt;Problem solving:&lt;/li&gt;\r\n&lt;li&gt;Solves logical problems, seeking assistance when required (including appropriate mathematical application)&lt;/li&gt;\r\n&lt;li&gt;Responds to the business environment and business issues related to software development&lt;/li&gt;\r\n&lt;li&gt;Communication: clearly articulates the role and function of software components to a variety of stakeholders (including end users, supervisors etc.)&lt;/li&gt;\r\n&lt;li&gt;Operates appropriately in their own business’s, their customers’ and the industry’s environments&lt;/li&gt;\r\n&lt;li&gt;User Interface: develops user interfaces as appropriate to the organisations development standards and the type of component being developed&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Technical knowledge and understanding&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Understands the business context and market environment for software development&lt;/li&gt;\r\n&lt;li&gt;Understands the structure of software applications&lt;/li&gt;\r\n&lt;li&gt;Understands all stages of the software development lifecycle&lt;/li&gt;\r\n&lt;li&gt;Understands the role of configuration management and version control systems and how to apply them&lt;/li&gt;\r\n&lt;li&gt;Understands how to test their code (e.g. unit testing)&lt;/li&gt;\r\n&lt;li&gt;Recognises that there are different methodologies that can be used for software development&lt;/li&gt;\r\n&lt;li&gt;Understands the particular context for the development platform (whether web, mobile, or desktop applications)&lt;/li&gt;\r\n&lt;li&gt;Understands their role within their software development team&lt;/li&gt;\r\n&lt;li&gt;Understands how to implement code following a logical approach&lt;/li&gt;\r\n&lt;li&gt;Understands how their code integrates into the wider project&lt;/li&gt;\r\n&lt;li&gt;Understands how to follow a set of functional and non-functional requirements&lt;/li&gt;\r\n&lt;li&gt;Understands the end user context for the software development activity&lt;/li&gt;\r\n&lt;li&gt;Understands how to connect their code to specified data sources&lt;/li&gt;\r\n&lt;li&gt;Understands database normalisation&lt;/li&gt;\r\n&lt;li&gt;Understands why there is a need to follow good coding practices&lt;/li&gt;\r\n&lt;li&gt;Understands the principles of good interface design&lt;/li&gt;\r\n&lt;li&gt;Understands the importance of building in security to software at the development stage&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Underpinning skills, attitudes and behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Logical and creative thinking skills&lt;/li&gt;\r\n&lt;li&gt;Problem solving skills&lt;/li&gt;\r\n&lt;li&gt;Ability to work independently and to take responsibility&lt;/li&gt;\r\n&lt;li&gt;Can use own initiative&lt;/li&gt;\r\n&lt;li&gt;A thorough and organised approach&lt;/li&gt;\r\n&lt;li&gt;Ability to work with a range of internal and external people&lt;/li&gt;\r\n&lt;li&gt;Ability to communicate effectively in a variety of situations&lt;/li&gt;\r\n&lt;li&gt;Maintains productive, professional and secure working environment&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Apprentices must achieve each of the Ofqual-regulated Knowledge Modules, as summarised below. Further details are available in the occupational brief available from the &lt;a href=&quot;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&quot;&gt;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&lt;/a&gt;&lt;/p&gt;\r\n&lt;p&gt;Knowledge Module 1: Software Development Context and Methodologies (for level 3 Software Development Technician)&lt;/p&gt;\r\n&lt;p&gt;Knowledge Module 2: Programming (for level 3 Software Development Technician)&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;g&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt;sh and Maths&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Level 2 English and Maths will need to be achieved, if not already, prior to taking the end point assessment.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Professional recognition&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship is recognised for entry onto the Register of IT Technicians upon confirming an appropriate SFIA level 3&lt;/p&gt;\r\n&lt;p&gt;professional competence and those completing the apprenticeship would then be eligible to apply for registration.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;ur&lt;/strong&gt;&lt;strong&gt;ation&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The duration of this apprenticeship is typically 18 months.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This is a level 3 Apprenticeship.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Review date&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This standard will be reviewed in two years.&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;&#160;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;A Software Development Technician typically works as part of a software development team, to builds simple software components (whether web, mobile or desktop applications) to be used by other members of the team as part of larger software development projects. They will interpret simple design requirements for discrete components of the project under supervision. The approach will typically include implementing code, which other team members have developed, to produce the required component. . The Software Development Technician will also be engaged in testing that the specific component meets its intended functionality.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical job roles&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Software Development Technician&lt;strong&gt;, &lt;/strong&gt;Junior Developer, Junior Web Developer, Junior Application Developer, Junior Mobile App Developer, Junior Games Developer, Junior Software Developer, Junior Application Support Analyst, Junior Programmer, Assistant Programmer and Automated Test Developer.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;try requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include 5 GCSEs (especially English, mathematics and a science or technology subject); other relevant qualifications and experience; or an aptitude test with a focus on IT skills.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Technical competencies&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Logic: writes simple code for discrete software components following an appropriate logical approach to agreed standards (whether for web, mobile or desktop applications)&lt;/li&gt;\n&lt;li&gt;Security: applies appropriate secure development principles to specific software components all stages of development&lt;/li&gt;\n&lt;li&gt;Development support: applies industry standard approaches for configuration management and version control to manage code during build and release&lt;/li&gt;\n&lt;li&gt;Data: makes simple connections between code and defined data sources as specified&lt;/li&gt;\n&lt;li&gt;Test: functionally tests that the deliverables for that component have been met or not&lt;/li&gt;\n&lt;li&gt;Analysis: follows basic analysis models such as use cases and process maps&lt;/li&gt;\n&lt;li&gt;Development lifecycle: supports the Software Developers at the build and test stages of the software development lifecycle&lt;/li&gt;\n&lt;li&gt;Quality: follows organisational and industry good coding practices (including those for naming, commenting etc.)&lt;/li&gt;\n&lt;li&gt;Problem solving: Solves logical problems, seeking assistance when required (including appropriate mathematical application)&lt;/li&gt;\n&lt;li&gt;Responds to the business environment and business issues related to software development&lt;/li&gt;\n&lt;li&gt;Communication: clearly articulates the role and function of software components to a variety of stakeholders (including end users, supervisors etc.)&lt;/li&gt;\n&lt;li&gt;Operates appropriately in their own business’s, their customers’ and the industry’s environments&lt;/li&gt;\n&lt;li&gt;User Interface: develops user interfaces as appropriate to the organisations development standards and the type of component being developed&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Technical knowledge and understanding&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understands the business context and market environment for software development&lt;/li&gt;\n&lt;li&gt;Understands the structure of software applications&lt;/li&gt;\n&lt;li&gt;Understands all stages of the software development lifecycle&lt;/li&gt;\n&lt;li&gt;Understands the role of configuration management and version control systems and how to apply them&lt;/li&gt;\n&lt;li&gt;Understands how to test their code (e.g. unit testing)&lt;/li&gt;\n&lt;li&gt;Recognises that there are different methodologies that can be used for software development&lt;/li&gt;\n&lt;li&gt;Understands the particular context for the development platform (whether web, mobile, or desktop applications)&lt;/li&gt;\n&lt;li&gt;Understands their role within their software development team&lt;/li&gt;\n&lt;li&gt;Understands how to implement code following a logical approach&lt;/li&gt;\n&lt;li&gt;Understands how their code integrates into the wider project&lt;/li&gt;\n&lt;li&gt;Understands how to follow a set of functional and non-functional requirements&lt;/li&gt;\n&lt;li&gt;Understands the end user context for the software development activity&lt;/li&gt;\n&lt;li&gt;Understands how to connect their code to specified data sources&lt;/li&gt;\n&lt;li&gt;Understands database normalisation&lt;/li&gt;\n&lt;li&gt;Understands why there is a need to follow good coding practices&lt;/li&gt;\n&lt;li&gt;Understands the principles of good interface design&lt;/li&gt;\n&lt;li&gt;Understands the importance of building in security to software at the development stage&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Underpinning skills, attitudes and behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Logical and creative thinking skills&lt;/li&gt;\n&lt;li&gt;Problem solving skills&lt;/li&gt;\n&lt;li&gt;Ability to work independently and to take responsibility&lt;/li&gt;\n&lt;li&gt;Can use own initiative&lt;/li&gt;\n&lt;li&gt;A thorough and organised approach&lt;/li&gt;\n&lt;li&gt;Ability to work with a range of internal and external people&lt;/li&gt;\n&lt;li&gt;Ability to communicate effectively in a variety of situations&lt;/li&gt;\n&lt;li&gt;Maintains productive, professional and secure working environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices must achieve each of the Ofqual-regulated Knowledge Modules, as summarised below. Further details are available in the occupational brief available from the &lt;a href=&quot;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&quot;&gt;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&lt;/a&gt;&lt;/p&gt;\n&lt;p&gt;Knowledge Module 1: Software Development Context and Methodologies (for level 3 Software Development Technician)&lt;/p&gt;\n&lt;p&gt;Knowledge Module 2: Programming (for level 3 Software Development Technician)&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;g&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt;sh and Maths&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Level 2 English and Maths will need to be achieved, if not already, prior to taking the end point assessment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Professional recognition&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship is recognised for entry onto the Register of IT Technicians upon confirming an appropriate SFIA level 3&lt;/p&gt;\n&lt;p&gt;professional competence and those completing the apprenticeship would then be eligible to apply for registration.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;ur&lt;/strong&gt;&lt;strong&gt;ation&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The duration of this apprenticeship is typically 18 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a level 3 Apprenticeship.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review date&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This standard will be reviewed in two years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;A Software Development Technician typically works as part of a software development team, to builds simple software components (whether web, mobile or desktop applications) to be used by other members of the team as part of larger software development projects. They will interpret simple design requirements for discrete components of the project under supervision. The approach will typically include implementing code, which other team members have developed, to produce the required component. . The Software Development Technician will also be engaged in testing that the specific component meets its intended functionality.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+      "detail": "Understands the business context and market environment for software development."
+    },
+    {
+      "knowledgeId": "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+      "detail": "Understands the structure of software applications."
+    },
+    {
+      "knowledgeId": "f470992d-2dd5-4e13-8559-63e7e61f081f",
+      "detail": "Understands all stages of the software development lifecycle."
+    },
+    {
+      "knowledgeId": "e774ef28-8700-4b82-96a5-86d336444e87",
+      "detail": "Understands the role of configuration management and version control systems and how to apply them."
+    },
+    {
+      "knowledgeId": "af9e2180-a541-43a9-a351-5fd65be23f65",
+      "detail": "Understands how to test their code (e.g. unit testing)."
+    },
+    {
+      "knowledgeId": "b729f5af-f948-4de3-89c1-f76f418e4559",
+      "detail": "Recognises that there are different methodologies that can be used for software development."
+    },
+    {
+      "knowledgeId": "dec92b10-0b1f-4111-a37b-02f7918ff475",
+      "detail": "Understands the particular context for the development platform (whether web, mobile, or desktop applications)."
+    },
+    {
+      "knowledgeId": "439d08a2-7838-4ef4-9c71-2ff8e418641f",
+      "detail": "Understands their role within their software development team."
+    },
+    {
+      "knowledgeId": "b864ee3c-adec-4959-9877-6dede3f1e150",
+      "detail": "Understands how to implement code following a logical approach."
+    },
+    {
+      "knowledgeId": "627bb029-47ed-4de3-a05a-125c96924070",
+      "detail": "Understands how their code integrates into the wider project."
+    },
+    {
+      "knowledgeId": "0d22bbd1-91f2-468b-8549-f1cf297a726e",
+      "detail": "Understands how to follow a set of functional and non-functional requirements."
+    },
+    {
+      "knowledgeId": "3e803779-0c08-4ed7-b4f0-497888e3d075",
+      "detail": "Understands the end user context for the software development activity."
+    },
+    {
+      "knowledgeId": "55667e21-7564-4644-87c2-8d30e223b2ad",
+      "detail": "Understands how to connect their code to specified data sources."
+    },
+    {
+      "knowledgeId": "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
+      "detail": "Understands database normalisation."
+    },
+    {
+      "knowledgeId": "5e63245b-cc69-4a3c-9802-53dc5103676d",
+      "detail": "Understands why there is a need to follow good coding practices."
+    },
+    {
+      "knowledgeId": "c4c1d63c-2221-48c0-807b-7ad0463f301c",
+      "detail": "Understands the principles of good interface design."
+    },
+    {
+      "knowledgeId": "64043232-42ea-434c-ad14-170ef1bfcced",
+      "detail": "Understands the importance of building in security to software at the development stage."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "20bdb494-9ce6-4692-920c-76d3aca49eae",
+      "detail": "Logical and creative thinking skills."
+    },
+    {
+      "behaviourId": "8dc99ed2-908e-4249-a572-34d9e714661e",
+      "detail": "Problem solving skills."
+    },
+    {
+      "behaviourId": "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+      "detail": "Ability to work independently and to take responsibility."
+    },
+    {
+      "behaviourId": "392cc524-452b-4933-bf70-77d7b62c8fd7",
+      "detail": "Can use own initiative."
+    },
+    {
+      "behaviourId": "0472b0d8-89e5-4adc-a2e3-3390b131b5ad",
+      "detail": "A thorough and organised approach."
+    },
+    {
+      "behaviourId": "a1c098c3-35ff-4fd8-bcf7-1a18934eb3e9",
+      "detail": "Ability to work with a range of internal and external people."
+    },
+    {
+      "behaviourId": "0ecd604a-6952-450a-8c73-f84dbacdd294",
+      "detail": "Ability to communicate effectively in a variety of situations."
+    },
+    {
+      "behaviourId": "30fbcd8c-8eb5-4589-8a2d-957da60f6fec",
+      "detail": "Maintains productive, professional and secure working environment."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ac542058-81e9-40a9-8383-cc72fc500748",
+      "detail": "Logic: writes simple code for discrete software components following an appropriate logical approach to agreed standards (whether for web, mobile or desktop applications)."
+    },
+    {
+      "skillId": "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
+      "detail": "Security: applies appropriate secure development principles to specific software components all stages of development."
+    },
+    {
+      "skillId": "fdae65d9-55d3-4928-a1b7-753964e1e984",
+      "detail": "Development support: applies industry standard approaches for configuration management and version control to manage code during build and release."
+    },
+    {
+      "skillId": "833f469e-39ce-419c-887f-e3a89ad34d09",
+      "detail": "Data: makes simple connections between code and defined data sources as specified."
+    },
+    {
+      "skillId": "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+      "detail": "Test: functionally tests that the deliverables for that component have been met or not."
+    },
+    {
+      "skillId": "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
+      "detail": "Analysis: follows basic analysis models such as use cases and process maps."
+    },
+    {
+      "skillId": "7de3edd1-88da-4cc5-92d7-f53d86b331a5",
+      "detail": "Development lifecycle: supports the Software Developers at the build and test stages of the software development lifecycle."
+    },
+    {
+      "skillId": "bdef89a9-3f94-4076-87f0-385495e25cba",
+      "detail": "Quality: follows organisational and industry good coding practices (including those for naming, commenting etc.)."
+    },
+    {
+      "skillId": "e26f566f-0b10-4d60-8cd1-2d92f18b243a",
+      "detail": "Problem solving: Solves logical problems, seeking assistance when required (including appropriate mathematical application."
+    },
+    {
+      "skillId": "a245e64e-4c71-42c9-8b96-0c21b0f10961",
+      "detail": "Responds to the business environment and business issues related to software development."
+    },
+    {
+      "skillId": "3225e04d-1918-4065-805a-d9392ed55088",
+      "detail": "Communication: clearly articulates the role and function of software components to a variety of stakeholders (including end users, supervisors etc.)."
+    },
+    {
+      "skillId": "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+      "detail": "Operates appropriately in their own business’s, their customers’ and the industry’s environments."
+    },
+    {
+      "skillId": "7a30ae78-23b5-4f26-8d21-1ff1f647bd0d",
+      "detail": "User Interface: develops user interfaces as appropriate to the organisations development standards and the type of component being developed."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-12-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "TB0456",
-  "tbMainContact": "Enquiries.IFA@education.gov.uk",
+  "tbReference": "TB0558",
+  "tbMainContact": "kevin.streater@forgerock.com",
   "involvedEmployers": "IBM, Cisco, Cap Gemini, Qinetiq, Accenture, Capp, Virgin Media, Fujitsu, The Royal Signals, The Royal Navy, The RAF, Lloyds Banking Group, John Lewis, BCS, Accenture, DSP Managed Solutions, Fujitsu, Integrated Payment Solutions, Invotra, Microsoft, QA, Real Asset Management, Terias Consulting, Virgin Media",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
-    "Software Development Technician",
-    "Junior Developer",
-    "Junior Web Developer",
-    "Junior Application Developer",
-    "Junior Mobile App Developer",
-    "Junior Games Developer",
-    "Junior Software Developer",
-    "Junior Application Support Analyst",
-    "Junior Programmer",
-    "Assistant Programmer and Automated Test Developer"
+    "Assistant programmer and automated test developer",
+    "Junior application developer",
+    "Junior application support analyst",
+    "Junior developer",
+    "Junior games developer",
+    "Junior mobile app developer",
+    "Junior programmer",
+    "Junior software developer",
+    "Junior web developer",
+    "Software development technician"
   ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
-  "cluster": "Software Development Technician",
-  "createdDate": "2017-09-22T14:24:06 +00:00",
-  "lastUpdated": "2016-12-16T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/software-development-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/software-development-technician-v1-0",
+  "cluster": "Software development technician",
+  "clusterId": "196",
+  "clusterDescription": "Build simple software components (web, mobile, desktop applications) as a part of larger software development project. Interpret simple design requirements and testing to ensure components meet their intended functionality",
+  "createdDate": "2022-04-05T15:41:39 +00:00",
+  "lastUpdated": "2022-04-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-12-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0128-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0128-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-15T00:00:00"
 }
