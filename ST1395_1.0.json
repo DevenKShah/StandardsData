@@ -1,0 +1,928 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 773,
+  "referenceNumber": "ST1395",
+  "learningAimClassCode": "",
+  "title": "Engineering and manufacturing support technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1395",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-09-07T00:00:00",
+  "earliestStartDate": "2024-08-21T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Engineering and manufacturing support technicians support the work of engineers by the provision of technical support and expertise for areas of the engineering and manufacturing function. This typically could include, engineering drawing, computer aided design (CAD), quality control, computerized numerical control programming (CNC), robotics, additive manufacturing, engineering or manufacturing software development and process engineering.",
+  "level": 3,
+  "ePALength": 6,
+  "typicalDuration": 42,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "support technician",
+    "technical support",
+    "engineering",
+    "manufacturing",
+    "computer aided design (CAD)",
+    "quality control"
+  ],
+  "jobRoles": [
+    "Aerospace inspection technician",
+    "Nuclear inspection technician",
+    "Quality compliance officer",
+    "Quality control technician",
+    "Technical support technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1395-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;Engineering and manufacturing support technicians are found in the engineering and manufacturing sector. This includes the advanced manufacturing fields of aerospace, automotive, maritime, defence and nuclear. Engineering and manufacturing support technicians support the work of engineers by the provision of technical support and expertise for areas of the engineering and manufacturing function. This typically could include, engineering drawing, computer aided design (CAD), quality control, computerized numerical control programming (CNC), robotics, additive manufacturing, engineering or manufacturing software development and process engineering. The support provided is often complex in nature. They will be proactive in finding solutions to problems and identifying areas for improving the business. They organise and co-ordinate services for internal and external stakeholders. They contribute to the planning of work and resources to enable work to be carried out. Stakeholders are informed of progress of development work. They have good communication skills. They may contribute to problem solving. They support continuous improvements. Others may be involved in the implementation of such solutions. They will use technical software packages, typically computer aided design (CAD), or other specialist software, to produce design solutions for equipment or services. They inspect and test equipment or services and produce data from test results. They write technical reports and carry out audits for equipment or services. &lt;br&gt;&lt;br&gt;The broad purpose of the engineering and manufacturing support technician is to provide the required level of technical assistance on areas of engineering or manufacturing. They report on processes and procedures using communications software, test analysis tools, measurement systems, offline programming, and quality control. They support production planning, scheduling, product technical applications and capability supporting continuous improvements. They support technical marketing sales and purchasing, product development and innovation. They investigate and review services, producing technical reports and documentation. They carry out inspections or tests to analyse products or services. Engineering and manufacturing support technicians typically work in engineering or manufacturing environments. They may also be required to work outdoors inspecting and testing products and processes. &lt;br&gt;&lt;br&gt;In their daily work, an engineering and manufacturing support technician interacts with other engineers and technicians. They also interact with various stakeholders. They typically report to an engineering or manufacturing team leader. They may also interact with customers, suppliers, colleagues, quality auditors and regulators. They will be able to work with minimum supervision.&lt;br&gt;&lt;br&gt;Engineering and manufacturing support technicians will be responsible for the quality, accuracy and timely completion of the work they undertake. They also must work efficiently. They must work both individually and as part of a larger team. They must work within the relevant health, safety, and environmental regulations and guidance. This includes the appropriate use of protective clothing and equipment.&amp;nbsp; All work must be completed in a safe and efficient manner as directed by supervisory staff.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "11834103-0da5-4205-9163-a3be82f8978a",
+      "detail": "The engineering or manufacturing function and role. Limits of autonomy and reporting channels. Different teams and functions involved within the operation and interdependencies. "
+    },
+    {
+      "knowledgeId": "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Awareness of working in confined spaces. Control of Substances Hazardous to Health (COSHH). Display Screen Equipment (DSE). Electrical safety and compliance. Fire safety. Health and Safety at Work Act. Lone working. Manual handling. Noise regulation. Personal Protective Equipment (PPE). Provision and Use of Work Equipment Regulations (PUWER). Reporting of Injuries, Disease, and Dangerous Occurrences Regulations (RIDDOR). Risk assessments. Slips, trips, and falls. Working at height. "
+    },
+    {
+      "knowledgeId": "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+      "detail": "Environmental and sustainability regulations and guidance. Environmental hazards that can arise from engineering or manufacturing operations. Environmental Protection Act. Environmental signage and notices. Types of pollution and control measures: noise, smells, spills, and waste. Environmental permits. Waste Electrical and Electronic Equipment Directive (WEEE). Energy consumption. The Climate Change Agreements. Carbon Reduction Commitment (CRC). "
+    },
+    {
+      "knowledgeId": "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+      "detail": "British standards for engineering representations, drawings, and graphical information. "
+    },
+    {
+      "knowledgeId": "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+      "detail": "Engineering standards and regulations, relevant to the occupation and technician's responsibilities. British Standards (BS). International Organisation for Standardisation standards (ISO). European Norm (EN)."
+    },
+    {
+      "knowledgeId": "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+      "detail": "Engineering mathematical techniques and scientific principles: calculations, conversions, graphical representation, rate of change, calculus, trigonometry, areas and volumes, mechanical and electrical principles, properties of materials."
+    },
+    {
+      "knowledgeId": "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+      "detail": "Digitisation and emerging technologies within the engineering and manufacturing sector: connectivity, advanced analytics, automation, advanced manufacturing technology, additive manufacturing, improvements in robotics and human-machine interaction and Industry 4.0."
+    },
+    {
+      "knowledgeId": "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+      "detail": "Problem solving techniques: diagnostics, root cause analysis."
+    },
+    {
+      "knowledgeId": "668f8800-2598-40c5-82c1-d14d7a706dcc",
+      "detail": "Resource management requirements including equipment availability, costs, security and safety."
+    },
+    {
+      "knowledgeId": "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+      "detail": "Planning, prioritising, work scheduling, workflow and time management techniques. Work management systems. Work categorisation systems."
+    },
+    {
+      "knowledgeId": "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+      "detail": "Engineering and manufacturing technical outputs: methods of representing technical information supporting organisational requirements - electronic and paper. "
+    },
+    {
+      "knowledgeId": "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+      "detail": "Requirements of supporting stakeholders for progress and handover of products or processes including status reports."
+    },
+    {
+      "knowledgeId": "3c6f250b-de6c-489b-a07d-8307efba9578",
+      "detail": "Documentation and recording information requirements."
+    },
+    {
+      "knowledgeId": "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+      "detail": "Standard operating procedures (SOP). What they are and why they are important. What they need to cover and why. Visuals and symbols used in SOP."
+    },
+    {
+      "knowledgeId": "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+      "detail": "Manufacturers’ instructions: what they are, why use them and how to use them. Warranties: what they are and impact on engineering or manufacturing work."
+    },
+    {
+      "knowledgeId": "6040a3f0-2112-4b54-a529-a542f9224323",
+      "detail": "Quality management standards. Quality assurance, quality control principles and practices. Record keeping."
+    },
+    {
+      "knowledgeId": "8f394422-33ad-441f-afcc-75d255b6a4eb",
+      "detail": "Continuous improvement techniques: lean, 6-sigma, KAIZEN, 5S plus safety (Sort, set, shine, standardise and sustain)."
+    },
+    {
+      "knowledgeId": "6b623228-31b1-4117-aa61-517c9c0561d4",
+      "detail": "Principles of team working."
+    },
+    {
+      "knowledgeId": "11c52588-f289-474a-905a-d8cef86b4cef",
+      "detail": "Written communication techniques. Engineering terminology. Report writing."
+    },
+    {
+      "knowledgeId": "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. "
+    },
+    {
+      "knowledgeId": "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+      "detail": "Information technology and digital: digital interfaces, email, Management Information Systems (MIS), spreadsheets, presentation, word processing, virtual communication, learning platforms, work collaboration platforms. General Data Protection Regulation (GDPR), cyber security."
+    },
+    {
+      "knowledgeId": "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+      "detail": "The Equality Act: requirements and impact on organisation. Principles of equity, diversity, and inclusion in the workplace and their impact on organisations and customers. "
+    },
+    {
+      "knowledgeId": "8491f0a1-fdce-4603-ae2e-f02dbe569e2d",
+      "detail": "Workplace training and development activities: continual professional development (CPD)."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+      "detail": "Take personal responsibility for and promote health and safety. "
+    },
+    {
+      "behaviourId": "88c217eb-22b4-4347-bc03-f60996407062",
+      "detail": "Considers the environment and sustainability. "
+    },
+    {
+      "behaviourId": "609df41a-60ce-4274-b4d8-c3c2e1de7702",
+      "detail": "Support diversity and social inclusion in the workplace."
+    },
+    {
+      "behaviourId": "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+      "detail": "Collaborate within teams, across disciplines and stakeholders. "
+    },
+    {
+      "behaviourId": "26815f9f-fe1f-45b0-804d-f2023ae28f6b",
+      "detail": "Seek learning and development opportunities, continual professional development (CPD)."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "d6848edb-8d25-47fb-81fc-849344461225",
+      "detail": "Follow health and safety regulations, standards, and guidance."
+    },
+    {
+      "skillId": "f164d874-237c-4ad6-a880-85e33fa79209",
+      "detail": "Follow procedures in line with environmental and sustainability regulations, standards, and guidance. For example, segregation of resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "f01b04b8-fd61-48bf-a331-33be898fd21f",
+      "detail": "Comply with engineering standards and regulations. For example, British Standards (BS), International Organisation for Standardisation standards (ISO). European Norm (EN)."
+    },
+    {
+      "skillId": "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+      "detail": "Analyse engineering and manufacturing data and information to support technical outputs. For example, read and interpret text, data, engineering drawings, work instructions, method statements, operation manuals."
+    },
+    {
+      "skillId": "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+      "detail": "Apply scientific, technical or engineering principles. "
+    },
+    {
+      "skillId": "03fb13e5-c87d-4a47-a224-252b958ff97e",
+      "detail": "Apply problem solving techniques to solutions for identified technical problems."
+    },
+    {
+      "skillId": "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+      "detail": "Organise, plan and prioritise workflow and scheduling of work with stakeholders."
+    },
+    {
+      "skillId": "dee86563-33a4-4074-9457-e925f5a7a60e",
+      "detail": "Identify, organise and use resources to complete tasks, considering cost, quality, safety, security and environmental impact."
+    },
+    {
+      "skillId": "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+      "detail": "Produce job specific technical outputs. For example, engineering drawings, quality control management, computer control programming, business improvement, adverse incident reports, technical investigations, equipment appraisals and specifications."
+    },
+    {
+      "skillId": "313ace7e-d9d3-46db-af17-213238ebceac",
+      "detail": "Provide support and guidance for handover of work to stakeholders. For example, checklists, product or process status, access to supporting documents."
+    },
+    {
+      "skillId": "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+      "detail": "Record information - paper based or electronic. For example, energy usage, equipment service records, test results, handover documents, checklists. "
+    },
+    {
+      "skillId": "3407b5b0-6198-47b5-8d7e-8780d40093d3",
+      "detail": "Follow standard operating procedures."
+    },
+    {
+      "skillId": "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+      "detail": "Follow manufacturer's instructions. For example, safe instructions for use of products, processes and machinery. "
+    },
+    {
+      "skillId": "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+      "detail": "Apply quality assurance and control principles and practices. For example, conduct physical checks, take samples, inspections or tests."
+    },
+    {
+      "skillId": "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+      "detail": "Apply continuous improvement techniques."
+    },
+    {
+      "skillId": "31c4ce25-312f-4694-906f-411da3f28162",
+      "detail": "Apply team working principles. "
+    },
+    {
+      "skillId": "2de19d5f-cf3f-46fe-a10f-833d750504af",
+      "detail": "Communicate in writing with others for example, stakeholders, colleagues, and managers. "
+    },
+    {
+      "skillId": "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+      "detail": "Use information and digital technology. Comply with GDPR and cyber security regulations and policies."
+    },
+    {
+      "skillId": "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+      "detail": "Carry out and record learning and development activities."
+    },
+    {
+      "skillId": "93848b9e-ed30-47d9-9008-9f0d3cfef31d",
+      "detail": "Apply equity, diversity and inclusion procedures."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-08-21T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0851",
+  "tbMainContact": "dgeorge@jaguarlandrover.com",
+  "involvedEmployers": "Apex Pumps, BAE Systems, City and Guilds, College of Sheffield, Collins Aerospace, CooperVision, EAL (EPAO), EasyJet, GTA England, IAE, J.C. Bamford Excavators Limited, JLR, McBraida, Mira showers, NFEC, Ontic, Scott Aerospace, Xtrac",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Aerospace inspection technician",
+    "Nuclear inspection technician",
+    "Quality compliance officer",
+    "Quality control technician",
+    "Technical support technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control technician",
+  "clusterId": "256",
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
+  "createdDate": "2025-03-04T16:47:01 +00:00",
+  "lastUpdated": "2024-09-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-08-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1395",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1395-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1395-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "f1a40461-3c13-4509-abe1-c7a2e0d55d12",
+      "title": "EAL Level 3 Diploma in Engineering and manufacturing support technologies (QAN 610/4353/9) OR Pearson BTEC Level 3 Diploma in Engineering and Manufacturing Support Technologies (QAN 610/5367/3)",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Engineering and Technology (IET) for Engineering Technician (EngTech)",
+      "level": "EngTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institute of Mechanical Engineers (IMechE) for Engineering Technician (EngTech)",
+      "level": "EngTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Royal Aeronautical Society (RAeS) for Engineering Technician (EngTech)",
+      "level": "EngTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "c2b87b9a-e6a9-4800-a9da-510b43ef53d2",
+      "dutyDetail": "Comply with statutory, quality, organisational, environmental, and health and safety regulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "609df41a-60ce-4274-b4d8-c3c2e1de7702",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "3407b5b0-6198-47b5-8d7e-8780d40093d3",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d9666f7d-e08f-4d79-ad47-0fefdcb20066",
+      "dutyDetail": "Receive, read, and interpret engineering data and documentation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ef30173c-802c-483f-a5e5-004f65799f90",
+      "dutyDetail": "Identify problems within the engineering or manufacturing activity and contribute to the resolution and suitable solutions. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c43739d-7afc-49ff-8314-771a65d30755",
+      "dutyDetail": "Organise engineering or manufacturing workflow, communicating with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "609df41a-60ce-4274-b4d8-c3c2e1de7702",
+        "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f795be1-2d93-4b81-bf0b-7645fcd3cc88",
+      "dutyDetail": "Plan work, and resources to enable implementation of engineering or manufacturing tasks and projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b9d0eeb2-deb9-4c6b-9d5c-df791e65032c",
+      "dutyDetail": "Use appropriate technical software supporting the operation of processes or equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c1ad11ee-8f97-4bb4-a63b-d90fc4c63731",
+      "dutyDetail": "Provide technical support operations in line with specific safe working practices and specification requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "609df41a-60ce-4274-b4d8-c3c2e1de7702",
+        "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "3407b5b0-6198-47b5-8d7e-8780d40093d3",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bf8bf404-b950-476f-ab84-0ac13c5e70b8",
+      "dutyDetail": "Complete technical support activities for equipment, components, systems or processes and contribute to their product output.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "3407b5b0-6198-47b5-8d7e-8780d40093d3",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8e019189-b5bf-461a-a81a-04a87c33f4a5",
+      "dutyDetail": "Produce technical documentation, data and information to support engineering or manufacturing activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "972ed0b1-e9e8-458c-86a4-5e4a34b1335d",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0609858b-a0b3-445f-8587-29f5dcbf17cc",
+      "dutyDetail": "Carry out quality checks during and after the technical support operation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "3733c32a-d746-45a6-aa7e-78e95a7663f7",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9a8b86d4-e922-40ed-99a2-4c68557085f3",
+      "dutyDetail": "Handover and provide technical advice to stakeholders for engineering equipment and services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "609df41a-60ce-4274-b4d8-c3c2e1de7702",
+        "7f862ee0-e431-4fda-819a-3b3b0a5147d6",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "11834103-0da5-4205-9163-a3be82f8978a",
+        "90ebd8bc-859e-4eff-8fd3-8260ee8ff7b1",
+        "c8b98b14-3e34-4f85-8e6b-1db5f6a34a1a",
+        "5d45b4e5-dd1c-48b7-a723-fb559eddacdb",
+        "91b1a797-aed8-4786-9d2f-c1a5da46120f",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "101e41d7-1e0f-4514-8bfd-d5d5ac0e369a",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "f01b04b8-fd61-48bf-a331-33be898fd21f",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "27a1f149-0161-415a-9c64-b7e4de51da68",
+      "dutyDetail": "Support continuous improvement activities to address business needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd50b4aa-271b-4f1b-a2db-7e4e57dc3a3b",
+        "88c217eb-22b4-4347-bc03-f60996407062",
+        "e47c71a8-fbdd-46bd-8921-ad1b33427905",
+        "26815f9f-fe1f-45b0-804d-f2023ae28f6b"
+      ],
+      "mappedKnowledge": [
+        "ccbdf88f-1aad-4ec6-bdc3-19dc93e4756c",
+        "9987dcc9-1495-4ffe-8a6e-81b1ee5ec4b5",
+        "0a040a37-ad78-445d-af6b-9b7ebff332bd",
+        "668f8800-2598-40c5-82c1-d14d7a706dcc",
+        "2ac7b156-5731-426b-99ef-a07eba38c9e2",
+        "878c5e96-c2c2-4a46-b4b7-9664e3bf8452",
+        "3c6f250b-de6c-489b-a07d-8307efba9578",
+        "6040a3f0-2112-4b54-a529-a542f9224323",
+        "8f394422-33ad-441f-afcc-75d255b6a4eb",
+        "6b623228-31b1-4117-aa61-517c9c0561d4",
+        "11c52588-f289-474a-905a-d8cef86b4cef",
+        "c51f883b-cde2-452b-9a56-e9c3fe26032e",
+        "4c44f1e2-060f-485a-a50d-4b26587ae7f3",
+        "803ef9f3-1200-4bd3-998d-25e4b0f72c2d",
+        "8491f0a1-fdce-4603-ae2e-f02dbe569e2d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d6848edb-8d25-47fb-81fc-849344461225",
+        "f164d874-237c-4ad6-a880-85e33fa79209",
+        "e4b5d190-c004-4261-8e3e-2d1252f3e296",
+        "b2ed93b1-01ac-4c6b-b92d-471ce5cf9e90",
+        "03fb13e5-c87d-4a47-a224-252b958ff97e",
+        "d03f3073-39a5-42cb-8c9e-69e11e246ae1",
+        "dee86563-33a4-4074-9457-e925f5a7a60e",
+        "2bbaf7e3-5666-4d58-858c-13bcdf4d0e31",
+        "313ace7e-d9d3-46db-af17-213238ebceac",
+        "6d1ff05e-980c-4df4-8779-b55209cc1a5b",
+        "3407b5b0-6198-47b5-8d7e-8780d40093d3",
+        "0b2da70a-d196-4c94-a2f9-afc348628d5d",
+        "27c2d801-c8ec-4660-bd16-145d4b8443b0",
+        "9433e2ed-4f97-45d6-9d35-2be3eb204251",
+        "31c4ce25-312f-4694-906f-411da3f28162",
+        "2de19d5f-cf3f-46fe-a10f-833d750504af",
+        "8b65d68e-1790-45ef-b68a-f29be7b5c8b2",
+        "85411ef3-35ac-4d48-a26e-ee5385d96fbb",
+        "eb0a22e5-fa9b-4860-bfd7-f21079c49335",
+        "93848b9e-ed30-47d9-9008-9f0d3cfef31d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-09-07T00:00:00"
+}
