@@ -1,33 +1,45 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 563,
   "referenceNumber": "ST0211",
+  "learningAimClassCode": "",
   "title": "Advanced beauty therapist",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/563",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0211",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2020-05-13T00:00:00",
   "earliestStartDate": "2020-05-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide, design and implement bespoke treatment plans.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Hair and beauty",
-  "keywords": [],
+  "keywords": [
+    "beauty",
+    "service",
+    "therapist",
+    "hair",
+    "nails",
+    "treatment"
+  ],
   "jobRoles": [
     "Advanced Beauty Therapist",
     "Senior Therapist",
     "Head Therapist"
   ],
-  "entryRequirements": "&lt;p&gt;Typical entry requirements would be following the study or completion of a Beauty Therapy Level 2 Apprenticeship Standard or equivalent to have the fundamental foundation of the job role&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4222/st0211_advanced-beauty-therapist_l3_ap-for-publication_qm_011520.pdf",
+  "entryRequirements": "&lt;p&gt;Typical entry requirements would be following the study or completion of a Beauty Therapy Level 2 Apprenticeship Standard or equivalent to have the fundamental foundation of the job role&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/ukvpbrba/st0211_advanced-beauty-therapist_l3_ap-for-publication_24112023.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a number of sector environments, varying in size style and ambiance. An advanced beauty therapist can be employed within the beauty industry, travel, leisure and health sectors, in a variety of salons, spas and aesthetic environments. &lt;br /&gt;&lt;br /&gt;The broad purpose of this occupation is to provide, design and implement bespoke treatment plans. These advanced treatments range from advanced manual therapies such as advanced massage techniques, technical therapies such as face and body electrical treatments, to meet and manage client needs and expectations. They implement organisational operations (salon business systems and processes, data protection) to comply with legal and regulatory requirements, contribute to financial the effectiveness of the business, maintaining and maximising resources, (people, equipment and consumables).&#160; &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a number of internal (e.g. other members of staff) and external (e.g. product brand, manufacturer representatives and other professionals) individuals, building exemplary relationships based on trust with clients, colleagues and organisations.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for working independently delivering treatments in a private, secure and safe environment. An advanced beauty therapist will also when required, supervise others to support team and business growth.&lt;/p&gt;",
   "knowledges": [
     {
@@ -347,25 +359,28 @@
       "detail": "manage own continuing professional development (CPD) incorporating research, professional practice and progression"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0045",
   "tbMainContact": "diane.hey@armonia.co.uk",
   "involvedEmployers": "Hammer Holdings / Urban Retreat, Armonia Health and Beauty, SAKS, Dermalogica, Guinot-Mary Cohr UK Ltd, Boots, Finishing Touch Health & Beauty Clinic, Beauty Time",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -374,14 +389,20 @@
     "Senior Therapist",
     "Head Therapist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Hair, Beauty and Aesthetics",
-  "cluster": "Beauty Therapist",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Hair, beauty and aesthetics",
+  "cluster": "Beauty therapist",
+  "clusterId": "271",
+  "clusterDescription": "Carry out detailed and confidential beauty consultations with clients to select the most appropriate services, treatments and products",
   "createdDate": "2020-05-07T15:02:20 +00:00",
   "lastUpdated": "2020-05-13T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/advanced-beauty-therapist-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/advanced-beauty-therapist-v1-0",
+  "occupationalStandardApprovalDate": "2020-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0211",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0211-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0211-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -416,7 +437,7 @@
         "89409861-2f28-47b1-a7a1-df2f0db62371",
         "39076fcb-0494-45a1-a1c7-6b720ec382ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fda09dfc-1347-4f84-b4ae-4cc327ce68ae",
         "9b9c2f12-9d3d-411a-b733-4d5bae503969",
@@ -476,7 +497,7 @@
         "9ad94b8e-854e-4f44-b193-830e1954a91d",
         "f9b56d1d-004d-4ea9-9d50-943b1fbdd6ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fda09dfc-1347-4f84-b4ae-4cc327ce68ae",
         "9b9c2f12-9d3d-411a-b733-4d5bae503969",
@@ -549,7 +570,7 @@
         "9ad94b8e-854e-4f44-b193-830e1954a91d",
         "f9b56d1d-004d-4ea9-9d50-943b1fbdd6ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fda09dfc-1347-4f84-b4ae-4cc327ce68ae",
         "9b9c2f12-9d3d-411a-b733-4d5bae503969",
@@ -620,7 +641,7 @@
         "9ad94b8e-854e-4f44-b193-830e1954a91d",
         "f9b56d1d-004d-4ea9-9d50-943b1fbdd6ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fda09dfc-1347-4f84-b4ae-4cc327ce68ae",
         "9b9c2f12-9d3d-411a-b733-4d5bae503969",
@@ -663,7 +684,7 @@
         "32bdbc36-a91d-4983-a598-75eb986b8473",
         "39076fcb-0494-45a1-a1c7-6b720ec382ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b9c2f12-9d3d-411a-b733-4d5bae503969",
         "22054007-e1e2-4d63-961d-a27f069e022d",
@@ -690,7 +711,7 @@
         "39076fcb-0494-45a1-a1c7-6b720ec382ce",
         "0f270e89-8010-4631-a868-a8a047f93281"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b2a8f278-dae1-4479-b99d-02d0c675ae48",
         "af4e611f-a714-469d-85d4-be9e483fc7fc",
@@ -724,7 +745,7 @@
         "68cdd35c-6271-4266-b50c-f03787c01776",
         "282f0327-da1c-4df8-85b0-1eaa4ca23efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "fda09dfc-1347-4f84-b4ae-4cc327ce68ae",
         "afb629d5-cfe9-4704-bf43-66307a731098",
@@ -753,7 +774,7 @@
         "16134421-da36-4905-9c27-e7471d0122d1",
         "282f0327-da1c-4df8-85b0-1eaa4ca23efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4fddb66-5550-4169-9f06-a4d4cd606068",
         "6e417ea2-8317-4267-a95f-5853af81acbe",
@@ -778,7 +799,7 @@
         "d785ee63-5047-4a4c-b85a-320e84cf1b98",
         "29b03ead-ae64-4ca9-a14b-96db3aa42379"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "69cc2c0f-0245-4349-b7a2-c8cf203757f1"
       ],
@@ -795,8 +816,8 @@
         "29b03ead-ae64-4ca9-a14b-96db3aa42379",
         "3ba09ee0-cd87-4897-90c9-d75be7f6bd72"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -817,7 +838,7 @@
         "e2832f63-bfb8-4653-a978-6e348506c5e5",
         "2659b13e-ba06-4db2-a32f-77ea8435b9e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4fddb66-5550-4169-9f06-a4d4cd606068",
         "6e417ea2-8317-4267-a95f-5853af81acbe"
@@ -836,7 +857,7 @@
         "4887b56f-f6d9-4dcd-8677-2380a3f6035e",
         "2780d61d-189f-4e8c-8504-34c9b73fcf42"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b4fddb66-5550-4169-9f06-a4d4cd606068",
         "bc183cc3-8234-44db-b1e6-f301e569a3d6"
@@ -859,7 +880,7 @@
         "0f270e89-8010-4631-a868-a8a047f93281",
         "282f0327-da1c-4df8-85b0-1eaa4ca23efa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7060f9a4-25b2-49a6-8cd9-1a7d3377fb9b",
         "0ade6de8-e8c8-404e-b501-9a81f2407235",
@@ -868,5 +889,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2020-05-13T00:00:00"
 }
