@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 445,
   "referenceNumber": "ST0620",
+  "learningAimClassCode": "",
   "title": "Therapeutic radiographer (integrated degree)",
   "status": "Retired",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/445",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0620",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2020-11-19T00:00:00",
+  "changedDate": "2022-07-12T00:00:00",
   "earliestStartDate": "2019-04-15T00:00:00",
   "latestStartDate": "2020-11-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing excellent care to patients diagnosed with cancer by delivering high quality and accurate radiotherapy.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Therapeutic Radiographer",
@@ -28,12 +34,11 @@
     "Therapeutic Radiographer"
   ],
   "entryRequirements": "&lt;p&gt;Entry requirements will be stipulated by Higher Education Institutions&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3566/st0620_theraputic-radiographer_l6_minor-amend_231019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3566/st0620_theraputic-radiographer_l6_minor-amend_231019.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the health and care sector and includes the NHS and private healthcare providers.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to provide excellent care to patients diagnosed with cancer by delivering high quality and accurate radiotherapy, taking into consideration patients’ emotional, psychological, and physical needs through the stages of their cancer treatment when at times they may be extremely vulnerable. You will be responsible for the patient from the time of referral for radiotherapy by a cancer specialist and will undertake pre-treatment preparation of radiotherapy patients, such as scanning and planning the patients’ radiotherapy. Therapeutic radiographers provide the highest standard of technical practice and patient care in order to treat and support adults, teenagers and children receiving radiotherapy (predominately for cancer) using a variety of forms such as:&lt;br /&gt;&lt;br /&gt;• external beam radiotherapy, a method for delivering a beam or several beams of high energy X-rays to a patient’s cancer;&lt;br /&gt;• brachytherapy, a form of radiotherapy where a sealed radiation source (eg in a needle or tube) is placed inside or next to the patient’s cancer;&lt;br /&gt;• stereotactic radiotherapy/radiosurgery which delivers multiple beams of focused radiation &lt;br /&gt;• proton therapy, a type of particle therapy that uses a beam of protons to deliver a radiation dose to a patient’s cancer; &lt;br /&gt;• superficial skin radiotherapy, which uses X-rays or electrons to deliver a radiation dose to a patient’s cancer.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with cancer patients, who may or may not be cured, their carer(s), members of the public and a range of healthcare professionals eg physicists, dosimetrists, doctors, nurses and dietitians, in a variety of settings such as hospitals and hospices. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for planning, checking and using imaging to deliver accurate radiotherapy in a compassionate and caring manner. As an autonomous practitioner, they will have responsibility for the patient from the time of referral for radiotherapy by a cancer specialist, through to aftercare and on-going support after radiotherapy. They will be accountable professionally and legally for their actions and those they are supervising.&lt;/p&gt;",
   "knowledges": [
     {
@@ -345,57 +350,68 @@
       "detail": "Apply data protection and patient confidentiality in daily clinical practice and complete relevant, concise, factual, treatment documentation."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-04-15T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0349",
   "tbMainContact": "healthcare.trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Leeds Cancer Centre Leeds Teaching Hospitals NHS Trust, The Newcastle Hospitals NHS Foundation Trust, Cambridge University Hospitals NHS Foundation Trust, Derby Teaching Hospitals NHS Foundation Trust, East and North Hertfordshire NHS Trust, Kingston University &St George’s University of London, Lancashire Teaching Hospitals NHS Foundation Trust, Newcastle Upon Tyne NHS Foundation Trust, Norfolk and Norwich University Hospitals NHS Foundation Trust, North West Anglia NHS Foundation Trust, Nottingham University Hospitals NHS Trust, Sheffield Teaching Hospitals NHS Found, Shrewsbury and Telford Hospital NHS Trust, South Tees NHS Foundation Trust, Southend University Hospital NHS Foundation Trust, The Royal Marsden NHS Foundation Trust, University Hospitals Bristol NHS Found, University Hospitals of North Midlands NHS Trust, Birmingham City University, Sheffield Hallam University, Society and College of Radiographers, University of Hertfordshire",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Health and Care Professions Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Therapeutic Radiographer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-23T11:46:24 +00:00",
-  "lastUpdated": "2020-01-06T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/therapeutic-radiographer-(integrated-degree)-v1-0",
+  "lastUpdated": "2022-07-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-04-15T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0620",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0620-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0620-v1-0",
   "qualifications": [
     {
       "qualificationId": "546e73e0-0111-4243-9694-53572b526ffe",
       "title": "Mandatory qualification 1: BSc (Hons) Therapeutic Radiography or (where the apprentice already holds a level 6 honours degree) a pre-registration MSc in Therapeutic Radiography.",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Society and College of Radiographers",
-      "level": "0",
+      "level": "Level 6 and  7",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Health and Care Professionals Council (HCPC)",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -419,7 +435,7 @@
         "3c65fb7a-0e3b-44e8-b798-9214dd186fbc",
         "0381afe1-4619-4448-86ff-d12b832d1f01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5447e487-c454-45a8-91c2-78944638495d",
         "8c8c6ddb-9450-4d90-b7cc-797a598a1dbb",
@@ -445,7 +461,7 @@
         "78d2677b-d66f-4ff3-b373-c79ec0702415",
         "c691f715-015d-4b42-959e-bb661e5b7a5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "16af249a-2b14-4741-a302-3868b8acafb6",
         "b69ea555-4eee-45b7-b5dd-50dac261146f",
@@ -472,7 +488,7 @@
         "d572c698-3aa6-43cd-9352-9f938d50195b",
         "c691f715-015d-4b42-959e-bb661e5b7a5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5447e487-c454-45a8-91c2-78944638495d",
         "962cfe71-710b-4d5d-8242-780360e7f783"
@@ -505,7 +521,7 @@
         "61ecc433-18ca-4819-9d2a-14658fcb50d6",
         "ebcc5bbc-bad7-4060-9c8c-1d9749f18dd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ceba6121-7272-407b-be98-294e7dcdf4c6",
         "ba3b175f-4e13-4483-8c5f-ea50779a0566",
@@ -545,7 +561,7 @@
         "61ecc433-18ca-4819-9d2a-14658fcb50d6",
         "ebcc5bbc-bad7-4060-9c8c-1d9749f18dd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f285e9a1-7df2-426d-9568-c0382f3ca0f1",
         "93d64452-bd1c-483a-88d9-8ddc23eb1ea1",
@@ -580,7 +596,7 @@
         "61ecc433-18ca-4819-9d2a-14658fcb50d6",
         "ebcc5bbc-bad7-4060-9c8c-1d9749f18dd3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8def7997-8bab-46a6-96c3-8c8f6101a629",
         "eebd4b58-251a-45db-b717-5830c769a7dd"
@@ -603,7 +619,7 @@
         "c691f715-015d-4b42-959e-bb661e5b7a5e",
         "e014adc1-1f73-455f-aa98-17390820a7dc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "196fe962-2c95-4cd1-9161-338d687881de",
         "5c6c12fe-689a-4cca-9dd4-25ef5c0d9972",
@@ -631,7 +647,7 @@
         "f31701df-bc0a-40d2-a54c-a1af88dcda40",
         "7cb4f014-1769-4650-9402-319919f1c1e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d897926-2af9-4b2f-a0ae-b628bbc935e9",
         "ddc9e4c7-6846-42f7-a371-5f1b74e474f7",
@@ -654,7 +670,7 @@
         "ac06794b-22c4-4f53-8a3a-08f5939ed029",
         "7c50c762-b439-4269-9a09-a69ff512db31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "196fe962-2c95-4cd1-9161-338d687881de",
         "0c1422e8-e252-49ff-a73a-bdb03deee2c8",
@@ -681,7 +697,7 @@
         "511ebc22-1da1-4129-929a-9f0cceaffaa4",
         "f7b3e92b-1988-491f-99af-28b5d5963be1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "196fe962-2c95-4cd1-9161-338d687881de",
         "7b312f74-1020-4f42-ac80-1b07358309e4"
@@ -705,7 +721,7 @@
         "5bb409c0-cd47-4cbf-b9ed-2df5b06a9cb9",
         "7316e8c1-0c14-44d1-9f35-44f07670db04"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "581004b8-356c-4397-a8c7-15aab0694435",
         "e01b6d15-f2f9-45d8-964d-b843fb4477c2",
@@ -733,7 +749,7 @@
         "511ebc22-1da1-4129-929a-9f0cceaffaa4",
         "506aec04-08ff-410c-b365-0de81d71970d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "962dd711-7a8d-45cf-9ef6-e189957a3c64",
         "196fe962-2c95-4cd1-9161-338d687881de",
@@ -759,7 +775,7 @@
         "f31701df-bc0a-40d2-a54c-a1af88dcda40",
         "7cb4f014-1769-4650-9402-319919f1c1e4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b578a80f-4524-44c8-a377-abf3d34687b7",
         "0c1422e8-e252-49ff-a73a-bdb03deee2c8",
@@ -772,14 +788,21 @@
       "criteriaForMeasuringPerformance": "Accuracy and completeness of record keeping \nRecord of attendance of relevant training \nAdherence to data protection or other relevant legislation and operation manuals"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-07-12T00:00:00"
 }
