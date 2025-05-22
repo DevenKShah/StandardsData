@@ -1,0 +1,770 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 650,
+  "referenceNumber": "ST0953",
+  "learningAimClassCode": "",
+  "title": "Game programmer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0953",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan revised.",
+  "changedDate": "2023-02-22T00:00:00",
+  "earliestStartDate": "2023-02-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Program reliable and efficient software.",
+  "level": 7,
+  "ePALength": 6,
+  "typicalDuration": 24,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "games",
+    "gaming",
+    "ICT",
+    "Digital",
+    "programmer",
+    "Digital design",
+    "Digital production",
+    "coding"
+  ],
+  "jobRoles": [
+    "Developer relations engineer",
+    "Game programmer",
+    "Game server programmer",
+    "Gameplay engineer",
+    "Gameplay programmer",
+    "Mobile game developer",
+    "Rendering / graphics engineer",
+    "Software development engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0953-v1-2?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;&lt;span class=&quot;highlight&quot;&gt;Rate and provide feedback for this webpage template &lt;a rel=&quot;noopener&quot; href=&quot;https://www.cognitoforms.com/InstituteForApprenticeships1/NewWebpageTemplateFeedbackForm&quot; target=&quot;_blank&quot;&gt;here&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the games and interactive entertainment industries where programmers create software designed for entertainment. This includes organisations which develop games for games consoles, desktop computers, mobile devices, websites and TVs. This is a core and options apprenticeship standard, which means that apprentices must complete the core, and one option out of Game software programmer or Game technology programmer. Companies which employ Game software programmers range from large, international studios employing hundreds of staff, to small indie studios made up of a few developers. Game technology programmers are often employed by hardware developers (e.g. console manufacturers), middleware providers (e.g. game engine developers) as well as large game studios, and would include specialists like server programmers in mobile game development companies.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to program reliable and efficient software within the&#160; constraints of real-time graphical environments running on contemporary gaming platforms. Such programmers lead the development of technical systems which feed directly or indirectly into the player experience of a game. These technical systems could range from gameplay mechanics (e.g. programming a system of different attack moves and their effect on enemies) to asset pipelines (e.g. engineering tools which process geometry data in order to support a character customisation system) and custom technologies (e.g. a new graphics rendering system for displaying realistic-looking dragon scales). They collaboratively plan and coordinate the delivery of their work within a larger team and provide technical insight to a broad spectrum of creative disciplines. They create and maintain appropriate technical standards and stay informed of the latest technical requirements for gaming platforms, exploring new technologies and their potential application within the business. They diagnose and fix problems in complex systems that involve many interacting factors, initiating changes to software architectures to support an evolving design. Game software programmers work on a specific gaming title and their audience are the consumers of that product (gamers). Game programmers select and apply game engines and tools to realise a game design. They are responsible for the development of bespoke asset pipelines and work collaboratively with other developers to maximise the collaborative value of the team’s effort to the player experience. Game technology programmers work on the technologies that underpin videogames and their audience are other game developers. Game technology programmers design and create libraries, engines and tools which target specific hardware architectures or gaming platforms. They initiate and lead the development of standardised technologies and work collaboratively with a wide user-base to inform and improve their design and documentation. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a diverse creative community of developers, providing technical authority and insight to Game programmers, Designers, Producers, Artists, Animators, Audio engineers, Quality Assurance (QA) staff and Project managers. They may also interact with external stakeholders, such as publishers, platform holders and external QA. They work independently and collaboratively as required, reporting to Development directors, Technical directors, Producers, and senior staff. This applies to both options. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for leading the design and development of bespoke technical systems which affect the allocation of significant project resources. They are responsible for planning and coordinating the delivery of work for themselves and junior programmers and provide technical insight and leadership to a range of creative disciplines within a larger team. They create and maintain technical standards across the organisation and its clients. This includes technical requirements needed to submit titles to console platforms. They lead research into new technologies, identifying potential opportunities for their application. They work under limited direct supervision, responsible for the quality and accuracy of their own work and sometimes the work of others. They ensure work is completed within agreed timescales and within budgets. As their work includes communicating with external stakeholders, they must present a professional image of their employer and themselves. This applies to both options.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "d762b5fb-7705-4de4-a862-df420d8ef692",
+      "detail": "How to approach the development of interactive, real-time applications for gaming platforms, including an awareness of industry-standard programming languages, application programming interfaces (APIs), tools, engines and frameworks."
+    },
+    {
+      "knowledgeId": "2091933a-12f1-4b40-a7c7-5214b76dc6fd",
+      "detail": "The syntax and structure of an industry-standard programming language (above and beyond visual programming languages) used for the development of games (for example C++, C#)."
+    },
+    {
+      "knowledgeId": "55dc6160-5791-4336-8645-d80f0552e308",
+      "detail": "The fundamental graphical and mathematical principles that underpin the operation of real-time graphics in two and three-dimensions."
+    },
+    {
+      "knowledgeId": "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+      "detail": "The characteristics of modern hardware platforms and how they support the efficient function of interactive, real-time graphical applications."
+    },
+    {
+      "knowledgeId": "71046fb6-1883-40c5-8763-55800eedf67f",
+      "detail": "Approaches to balancing quality and performance requirements to achieve, monitor and maintain acceptable frame rates and memory footprints for a real-time interactive application."
+    },
+    {
+      "knowledgeId": "9f46b02f-394f-45e5-ad25-5220cab468ef",
+      "detail": "How to use tools to identify and optimise performance bottlenecks in real-time applications."
+    },
+    {
+      "knowledgeId": "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+      "detail": "The role of  debugging tools, crash reports, automated testing and continuous integration workflows in creating robust software."
+    },
+    {
+      "knowledgeId": "23ff597b-4c2c-4500-bee5-056e72055502",
+      "detail": "The role of staged deployment, monitoring and analytics in releasing, tracking and refining games."
+    },
+    {
+      "knowledgeId": "f0575c92-078e-48e2-8d2e-f8305a6c86b8",
+      "detail": "Common principles of good software design applied in the games industry including contrasting approaches and priorities (e.g. object-oriented vs. data-oriented)"
+    },
+    {
+      "knowledgeId": "c4caf042-9114-4ec4-ae9b-f3593d102c19",
+      "detail": "How a complete asset pipeline for a game operates, including the technical requirements, processing stages and tools involved in bringing assets into the game. "
+    },
+    {
+      "knowledgeId": "84b9439c-f526-434c-b0a8-30c84dabf7c0",
+      "detail": "How to use version control and project management tools to plan and coordinate the delivery of development tasks."
+    },
+    {
+      "knowledgeId": "31e2ff78-d57d-4f2a-9729-343f55468cc0",
+      "detail": "Common development methodologies and how they are applied in game development. "
+    },
+    {
+      "knowledgeId": "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+      "detail": "The broad range of roles involved in the game development process, and the different strengths and perspectives that multi-disciplinary teams bring to the creative process."
+    },
+    {
+      "knowledgeId": "8b5d91ac-ecc6-4fe4-b398-07c51c25e78b",
+      "detail": "Where to find information on the latest technological innovations for the games industry."
+    },
+    {
+      "knowledgeId": "a005c970-ad86-4591-9812-205ddf474260",
+      "detail": "The role of rapid prototyping and agile approaches in innovation."
+    },
+    {
+      "knowledgeId": "7068b2c8-b78b-4743-9b3f-a9218135285a",
+      "detail": "The organisation’s standards with respect to coding, documentation and issue tracking, and how they relate to wider practice in the software industries."
+    },
+    {
+      "knowledgeId": "b62aaa7d-8afe-4868-9e40-04d4a4f0b3da",
+      "detail": "Publisher’s technical requirements for target platforms, where to obtain them and the tools and systems available to support developers to meet those requirements."
+    },
+    {
+      "knowledgeId": "d365d532-351f-4f1c-abf0-ffa275d65b85",
+      "detail": "The business stakeholders in a project and how multi-disciplinary development teams can generate value within the context of different business models."
+    },
+    {
+      "knowledgeId": "4f0db6d3-7f2e-4598-b1fd-a5614a5da6b2",
+      "detail": "Relevant data protection laws including GDPR. "
+    },
+    {
+      "knowledgeId": "7d967390-8f26-4a32-b739-6d4f9a3b5f9f",
+      "detail": "Security approaches to prevent products being compromised, and everyday good practice in security including password policies, phishing and use of VPNs."
+    },
+    {
+      "knowledgeId": "3c9b90db-74d8-4e1b-9318-bdfde4bf4498",
+      "detail": "The relative merits of different game engines, third-party frameworks and tools, and when to use them to speed up the development process."
+    },
+    {
+      "knowledgeId": "89d19d43-ef25-4f38-b031-9a20c10a811a",
+      "detail": "How to balance the requirements and availability of team resources (for example staff time, software licencing) with respect to the engineering and maintenance of a game’s asset pipeline."
+    },
+    {
+      "knowledgeId": "d9568bbb-7179-4fa4-8cfa-6fd0e7930eb8",
+      "detail": "The range of different disciplines involved in the development process and their typical skillsets and expectations in terms of technologies, tools and asset formats."
+    },
+    {
+      "knowledgeId": "48a2046c-0e8d-43f8-82f7-500a144a8541",
+      "detail": "The specialist operation of a specific hardware architecture or gaming platform and how to engineer efficient solutions which target its specific capabilities."
+    },
+    {
+      "knowledgeId": "368fb811-0314-4b2d-9124-9a4d74874f10",
+      "detail": "How to balance the requirements and availability of team resources (staff time, software licencing) with respect to providing the maximum benefit to their users."
+    },
+    {
+      "knowledgeId": "13925e16-66d8-474e-bd92-dc889ebae5c5",
+      "detail": "How to use externally facing support portals and project tracking tools in order to effectively track and document technologies for sharing with a wide user-base."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "374c7f75-5f70-494d-9f03-7d595dae7bee",
+      "detail": "Reliable, objective and capable of independent working."
+    },
+    {
+      "behaviourId": "41e13048-a716-4789-b92c-f453adbdbb8c",
+      "detail": "Initiative and personal responsibility to overcome challenges and take ownership for project solutions."
+    },
+    {
+      "behaviourId": "2aa61c78-f51b-49f2-90c6-05b0ec6c99fb",
+      "detail": "Respect for other disciplines and an understanding of the role of diverse experiences and backgrounds in a successful creative process."
+    },
+    {
+      "behaviourId": "6ca51240-7a89-40a2-8e6a-5ade9b9d9142",
+      "detail": "Commitment to continuous professional development; maintaining their knowledge and skills in relation to technology developments, and sharing best practice in their organisation around all aspects of game development. "
+    },
+    {
+      "behaviourId": "2f7d13f3-12f4-4fca-a932-f7aa3651713a",
+      "detail": "Maintains awareness of trends and innovations in the subject area, utilizing a range of academic literature, online sources, community interaction and conference attendance."
+    },
+    {
+      "behaviourId": "1b676f99-9d71-4b22-9931-da8278d4e191",
+      "detail": "Acts with integrity with respect to ethical, legal and regulatory ensuring the protection of personal data, safety and security. "
+    },
+    {
+      "behaviourId": "19bccbdd-e259-468f-a33a-91bef2d7f683",
+      "detail": "A strong work ethic and commitment in order to meet the standards required."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "65c82315-2326-4976-937d-ba18e41de80c",
+      "detail": "Program interactive, real-time applications for gaming platforms using an industry-standard programming language, incorporating APIs, tools, engines or frameworks appropriate to employer requirements. "
+    },
+    {
+      "skillId": "c99e0c71-8d53-4a4f-8165-9805abee9758",
+      "detail": "Implement and adapt contemporary real-time algorithms in two and three-dimensional games. "
+    },
+    {
+      "skillId": "e3214ea4-27f2-458d-bc95-eb932bdb196d",
+      "detail": "Use profiling tools and techniques to achieve, monitor and maintain an acceptable real-time framerate for an interactive game."
+    },
+    {
+      "skillId": "38d6fd7d-e8d7-4aa3-80ce-b98056b6d57b",
+      "detail": "Track memory usage and identify opportunities for reducing requirements."
+    },
+    {
+      "skillId": "4f4af709-7caf-4b78-862d-94c54d0af9f0",
+      "detail": "Write code informed by the characteristics of modern hardware platforms (e.g. shader programming, multi-threading). "
+    },
+    {
+      "skillId": "cded5ac4-0220-4fc5-bd00-fa940ebb9fcf",
+      "detail": "Use debugging tools and automated testing systems to develop robust code bases."
+    },
+    {
+      "skillId": "92a3b92c-2728-4267-81a0-7cb81d7d7d10",
+      "detail": "Use continuous integration workflow within the deployment lifecycle as part of a multi-disciplinary software team."
+    },
+    {
+      "skillId": "d8547692-891c-4259-9d9d-bd7cf3c5a2d4",
+      "detail": "Write robust, well-tested, maintainable code which is easy to adapt to changing requirements."
+    },
+    {
+      "skillId": "a7bf8d5b-0f62-4ac9-a9ad-4ddd11d0cb01",
+      "detail": "Use an industry-standard version control system."
+    },
+    {
+      "skillId": "b783b8cd-e3e8-4369-88a9-c71fecdcc02f",
+      "detail": "Use an industry-standard project management system from the perspective of a developer."
+    },
+    {
+      "skillId": "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+      "detail": "Adapt or extend existing tool chains to support new features and/or optimise workflows."
+    },
+    {
+      "skillId": "a78ade4a-fafc-4b4c-885f-baa0e5e6f5ec",
+      "detail": "Apply industry-standard development methodologies within day-to-day working practice."
+    },
+    {
+      "skillId": "e62e8b97-e558-400b-a4bb-4a5912383552",
+      "detail": "Manage complex relationships with diverse stakeholders and communicate information effectively to different audiences."
+    },
+    {
+      "skillId": "ec740bed-3787-43d0-bc90-69091b12d1e5",
+      "detail": "Provide technical leadership and direction with respect to the workflow of other team members."
+    },
+    {
+      "skillId": "43f30e11-6f3f-4b6a-9661-9de85e48e2ad",
+      "detail": "Research, document and articulate the opportunities and threats presented by new industry technologies."
+    },
+    {
+      "skillId": "257fa37b-cabe-48a5-8b01-080b4901a39e",
+      "detail": "Follow studio coding best-practices and participate in keeping them relevant and up to date."
+    },
+    {
+      "skillId": "f4377b6c-ca39-444a-911b-19fc935655da",
+      "detail": "Give and receive feedback in code reviews in an objective and professional manner."
+    },
+    {
+      "skillId": "35c9d855-6aab-40e9-b624-7f3ec54b0cf1",
+      "detail": "Develop games and/or prototypes using an industry-standard or in-house game engine."
+    },
+    {
+      "skillId": "918f1192-b44c-4e28-a281-ea15cab18f51",
+      "detail": "Make justified choices about the implementation of different features and tools and their effect on the overall workload of the team."
+    },
+    {
+      "skillId": "942aa60d-63d3-4576-b505-4f10c388cd15",
+      "detail": "Write software which contributes to the player experience while balancing the extensibility and performance requirements for an evolving game design."
+    },
+    {
+      "skillId": "5172de8e-7282-4dc4-b351-47237cf8cc62",
+      "detail": "Work as part of interdisciplinary teams."
+    },
+    {
+      "skillId": "e57192dc-fc65-432b-8e2b-fea27c5d1553",
+      "detail": "Create innovative game mechanics for which solutions are unknown."
+    },
+    {
+      "skillId": "89e3ce1b-7580-4f78-8639-6fdc8aa3d433",
+      "detail": "Develop reusable technologies targeting specific hardware architectures or gaming platforms."
+    },
+    {
+      "skillId": "6b4f2622-8586-4629-9764-1af2af70a954",
+      "detail": "Make justified decisions about the implementation of different features and their effect on quality and workload for their technology’s user base."
+    },
+    {
+      "skillId": "5f656936-12c5-4fb0-8d74-25b576592c30",
+      "detail": "Work as part of a user-focused product team, incorporating multi-disciplinary input from outside of the team, for example from game software programmers, artists, game designers and audio engineers."
+    },
+    {
+      "skillId": "b37ab6be-5961-439b-99d1-246e13139912",
+      "detail": "Communicate and evangelise technology solutions to promote engagement and uptake among the user-base."
+    },
+    {
+      "skillId": "d1657bb9-60a0-4c2b-b23d-462672a17c9a",
+      "detail": "Profile and optimise code created by their technology users."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2021-08-03T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0569",
+  "tbMainContact": "JHabgood@sumo-digital.com",
+  "involvedEmployers": "Sumo Digital Group PLC, Rare (Microsoft), PlayStation London Studio (Sony), Red Kite Games, Co-operative Innovations, The Chinese Room, Hutch Games, nDreams, Aardvark Swift",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Developer relations engineer",
+    "Game programmer",
+    "Game server programmer",
+    "Gameplay engineer",
+    "Gameplay programmer",
+    "Mobile game developer",
+    "Rendering / graphics engineer",
+    "Software development engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development professional",
+  "clusterId": "198",
+  "clusterDescription": "Software engineering covering modelling, simulation, human factors, systems engineering and influences upon product architecture throughout the whole product lifecycle",
+  "createdDate": "2024-01-09T10:08:11 +00:00",
+  "lastUpdated": "2023-02-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0953",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0953-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0953-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "da0bef2c-dae3-4f56-98a7-5df0a8e1aff0",
+      "dutyDetail": "Lead the development of technical systems governed by the principles and constraints of real-time graphical environments for contemporary gaming platforms (e.g. games consoles, desktop computers, tablets and phones).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "41e13048-a716-4789-b92c-f453adbdbb8c",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "d762b5fb-7705-4de4-a862-df420d8ef692",
+        "55dc6160-5791-4336-8645-d80f0552e308",
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "f0575c92-078e-48e2-8d2e-f8305a6c86b8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65c82315-2326-4976-937d-ba18e41de80c",
+        "c99e0c71-8d53-4a4f-8165-9805abee9758",
+        "4f4af709-7caf-4b78-862d-94c54d0af9f0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "373bbc0e-aef1-4aa4-9f41-9afa2de3f7ed",
+      "dutyDetail": "Engineer robust, performance-driven software using programming languages, game engines and frameworks appropriate to the requirements of the projects being developed (for example C++, C#). Conceptualise and address performance bottlenecks and optimize complex software systems and resource pipelines.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "d762b5fb-7705-4de4-a862-df420d8ef692",
+        "2091933a-12f1-4b40-a7c7-5214b76dc6fd",
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "9f46b02f-394f-45e5-ad25-5220cab468ef",
+        "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+        "23ff597b-4c2c-4500-bee5-056e72055502",
+        "f0575c92-078e-48e2-8d2e-f8305a6c86b8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65c82315-2326-4976-937d-ba18e41de80c",
+        "e3214ea4-27f2-458d-bc95-eb932bdb196d",
+        "38d6fd7d-e8d7-4aa3-80ce-b98056b6d57b",
+        "4f4af709-7caf-4b78-862d-94c54d0af9f0",
+        "cded5ac4-0220-4fc5-bd00-fa940ebb9fcf",
+        "d8547692-891c-4259-9d9d-bd7cf3c5a2d4",
+        "942aa60d-63d3-4576-b505-4f10c388cd15"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d75bbe56-6e4e-4a5b-8ee3-da4a7eb63840",
+      "dutyDetail": "Diagnose and fix errors in complex technical systems that involve many interacting factors, making use of automated testing systems to optimise workflows.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "2091933a-12f1-4b40-a7c7-5214b76dc6fd",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "9f46b02f-394f-45e5-ad25-5220cab468ef",
+        "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+        "23ff597b-4c2c-4500-bee5-056e72055502"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c99e0c71-8d53-4a4f-8165-9805abee9758",
+        "e3214ea4-27f2-458d-bc95-eb932bdb196d",
+        "cded5ac4-0220-4fc5-bd00-fa940ebb9fcf",
+        "d8547692-891c-4259-9d9d-bd7cf3c5a2d4",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "f4377b6c-ca39-444a-911b-19fc935655da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2dbf5d9d-b872-4296-aec4-130772397ca4",
+      "dutyDetail": "Lead the development of technical systems which feed directly or indirectly into the player experience, working iteratively to continuously adjust and refine their work. Initiate and implement modifications to software architectures to support future changes in design.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "41e13048-a716-4789-b92c-f453adbdbb8c",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "d762b5fb-7705-4de4-a862-df420d8ef692",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "23ff597b-4c2c-4500-bee5-056e72055502",
+        "31e2ff78-d57d-4f2a-9729-343f55468cc0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4f4af709-7caf-4b78-862d-94c54d0af9f0",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "942aa60d-63d3-4576-b505-4f10c388cd15"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4a59e364-7d0e-44ba-92d3-5e0896fc84c8",
+      "dutyDetail": "Plan and co-ordinate the delivery of work for themselves and junior programmers within a larger team, using appropriate version control and project management tools to manage software changes and track progress within the context of a wider development methodology.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+        "23ff597b-4c2c-4500-bee5-056e72055502",
+        "84b9439c-f526-434c-b0a8-30c84dabf7c0",
+        "31e2ff78-d57d-4f2a-9729-343f55468cc0",
+        "b62aaa7d-8afe-4868-9e40-04d4a4f0b3da",
+        "d365d532-351f-4f1c-abf0-ffa275d65b85"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a7bf8d5b-0f62-4ac9-a9ad-4ddd11d0cb01",
+        "b783b8cd-e3e8-4369-88a9-c71fecdcc02f",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "a78ade4a-fafc-4b4c-885f-baa0e5e6f5ec",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "04467b52-c661-432a-9cf3-3854d2e94fd5",
+      "dutyDetail": "Provide technical insight to a broad spectrum of creative disciplines from Game Programmers, Designers, Producers, Artists, Animators, Audio Engineers, QA staff, Project Managers, Analysts, Community Managers and Marketing  to communicate technical constraints and opportunities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "2aa61c78-f51b-49f2-90c6-05b0ec6c99fb",
+        "6ca51240-7a89-40a2-8e6a-5ade9b9d9142",
+        "2f7d13f3-12f4-4fca-a932-f7aa3651713a",
+        "1b676f99-9d71-4b22-9931-da8278d4e191",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+        "23ff597b-4c2c-4500-bee5-056e72055502",
+        "f0575c92-078e-48e2-8d2e-f8305a6c86b8",
+        "c4caf042-9114-4ec4-ae9b-f3593d102c19",
+        "84b9439c-f526-434c-b0a8-30c84dabf7c0",
+        "31e2ff78-d57d-4f2a-9729-343f55468cc0",
+        "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+        "8b5d91ac-ecc6-4fe4-b398-07c51c25e78b",
+        "b62aaa7d-8afe-4868-9e40-04d4a4f0b3da",
+        "d365d532-351f-4f1c-abf0-ffa275d65b85",
+        "4f0db6d3-7f2e-4598-b1fd-a5614a5da6b2",
+        "7d967390-8f26-4a32-b739-6d4f9a3b5f9f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3214ea4-27f2-458d-bc95-eb932bdb196d",
+        "92a3b92c-2728-4267-81a0-7cb81d7d7d10",
+        "a7bf8d5b-0f62-4ac9-a9ad-4ddd11d0cb01",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "a78ade4a-fafc-4b4c-885f-baa0e5e6f5ec",
+        "e62e8b97-e558-400b-a4bb-4a5912383552",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c6799924-26e4-4ed1-8955-af6c7dcd2f16",
+      "dutyDetail": "Create and maintain technical standards across the project, organisation and its clients and stay informed of the latest technical requirements for gaming platforms. Undertake reviews of code, documentation, testing processes and methodologies to maintain good technical practice across the business.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "6ca51240-7a89-40a2-8e6a-5ade9b9d9142",
+        "2f7d13f3-12f4-4fca-a932-f7aa3651713a",
+        "1b676f99-9d71-4b22-9931-da8278d4e191",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "02dba563-27c6-4cb2-a48b-cfb62d2241df",
+        "23ff597b-4c2c-4500-bee5-056e72055502",
+        "8b5d91ac-ecc6-4fe4-b398-07c51c25e78b",
+        "7068b2c8-b78b-4743-9b3f-a9218135285a",
+        "b62aaa7d-8afe-4868-9e40-04d4a4f0b3da",
+        "4f0db6d3-7f2e-4598-b1fd-a5614a5da6b2",
+        "7d967390-8f26-4a32-b739-6d4f9a3b5f9f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cded5ac4-0220-4fc5-bd00-fa940ebb9fcf",
+        "e62e8b97-e558-400b-a4bb-4a5912383552",
+        "f4377b6c-ca39-444a-911b-19fc935655da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0745647a-ee91-4d89-b8a3-1708115c9ccc",
+      "dutyDetail": "Lead research into new technologies and identify opportunities for their potential application within the business.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "41e13048-a716-4789-b92c-f453adbdbb8c",
+        "6ca51240-7a89-40a2-8e6a-5ade9b9d9142",
+        "2f7d13f3-12f4-4fca-a932-f7aa3651713a",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "a005c970-ad86-4591-9812-205ddf474260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "43f30e11-6f3f-4b6a-9661-9de85e48e2ad",
+        "257fa37b-cabe-48a5-8b01-080b4901a39e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4f67650f-d242-4fe7-8865-c03748ebee97",
+      "dutyDetail": "Practice continuous self-learning to keep up to date with latest industry developments, and support their effective communication within the organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2f7d13f3-12f4-4fca-a932-f7aa3651713a",
+        "1b676f99-9d71-4b22-9931-da8278d4e191",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "8b5d91ac-ecc6-4fe4-b398-07c51c25e78b",
+        "a005c970-ad86-4591-9812-205ddf474260"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "257fa37b-cabe-48a5-8b01-080b4901a39e",
+        "f4377b6c-ca39-444a-911b-19fc935655da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d6064725-c66f-4521-bcc9-7d15093f0fd8",
+      "dutyDetail": "Select and apply industry-standard game engines and tools to realise game design, employing industry-standard tools to accelerate the development process and avoid unnecessary replication of effort and resources.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "d762b5fb-7705-4de4-a862-df420d8ef692",
+        "55dc6160-5791-4336-8645-d80f0552e308",
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "9f46b02f-394f-45e5-ad25-5220cab468ef",
+        "3c9b90db-74d8-4e1b-9318-bdfde4bf4498"
+      ],
+      "mappedOptions": [
+        "f312b99f-27aa-49a1-801d-9fb36f4404d6"
+      ],
+      "mappedSkills": [
+        "4f4af709-7caf-4b78-862d-94c54d0af9f0",
+        "35c9d855-6aab-40e9-b624-7f3ec54b0cf1",
+        "942aa60d-63d3-4576-b505-4f10c388cd15",
+        "e57192dc-fc65-432b-8e2b-fea27c5d1553"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4a5b857b-1de7-4df6-b9b3-89b75f559538",
+      "dutyDetail": "Initiate and lead the development of bespoke asset pipelines, which affect the allocation of significant project resources, beyond the extent of their own tasks. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "41e13048-a716-4789-b92c-f453adbdbb8c",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "f0575c92-078e-48e2-8d2e-f8305a6c86b8",
+        "c4caf042-9114-4ec4-ae9b-f3593d102c19",
+        "31e2ff78-d57d-4f2a-9729-343f55468cc0",
+        "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+        "89d19d43-ef25-4f38-b031-9a20c10a811a"
+      ],
+      "mappedOptions": [
+        "f312b99f-27aa-49a1-801d-9fb36f4404d6"
+      ],
+      "mappedSkills": [
+        "38d6fd7d-e8d7-4aa3-80ce-b98056b6d57b",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5",
+        "918f1192-b44c-4e28-a281-ea15cab18f51",
+        "942aa60d-63d3-4576-b505-4f10c388cd15"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "409d93d2-9983-4c50-ace3-518f3097535b",
+      "dutyDetail": "Work collaboratively with other developers to maximise the combined value of the team’s effort to the player experience.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "2aa61c78-f51b-49f2-90c6-05b0ec6c99fb",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+        "d365d532-351f-4f1c-abf0-ffa275d65b85",
+        "d9568bbb-7179-4fa4-8cfa-6fd0e7930eb8"
+      ],
+      "mappedOptions": [
+        "f312b99f-27aa-49a1-801d-9fb36f4404d6"
+      ],
+      "mappedSkills": [
+        "92a3b92c-2728-4267-81a0-7cb81d7d7d10",
+        "e62e8b97-e558-400b-a4bb-4a5912383552",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5",
+        "35c9d855-6aab-40e9-b624-7f3ec54b0cf1",
+        "918f1192-b44c-4e28-a281-ea15cab18f51",
+        "942aa60d-63d3-4576-b505-4f10c388cd15",
+        "5172de8e-7282-4dc4-b351-47237cf8cc62"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dbc79710-08a5-4285-9ade-623168b2633e",
+      "dutyDetail": "Design and create libraries, engines  and tools which target specific hardware architectures or gaming platforms, applying both high and low-level approaches to their development and optimisation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "d762b5fb-7705-4de4-a862-df420d8ef692",
+        "55dc6160-5791-4336-8645-d80f0552e308",
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "9f46b02f-394f-45e5-ad25-5220cab468ef",
+        "48a2046c-0e8d-43f8-82f7-500a144a8541"
+      ],
+      "mappedOptions": [
+        "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291"
+      ],
+      "mappedSkills": [
+        "4f4af709-7caf-4b78-862d-94c54d0af9f0",
+        "89e3ce1b-7580-4f78-8639-6fdc8aa3d433"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a549afe2-d41b-4286-8836-711b258a61a1",
+      "dutyDetail": "Initiate and lead the development of standardised core technologies, software systems and workflows which affect the allocation of significant resources for the users of those technologies. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "41e13048-a716-4789-b92c-f453adbdbb8c",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "6bb4cfc7-1866-4cdf-8c2c-da42cc2433ee",
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "f0575c92-078e-48e2-8d2e-f8305a6c86b8",
+        "31e2ff78-d57d-4f2a-9729-343f55468cc0",
+        "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+        "368fb811-0314-4b2d-9124-9a4d74874f10"
+      ],
+      "mappedOptions": [
+        "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291"
+      ],
+      "mappedSkills": [
+        "38d6fd7d-e8d7-4aa3-80ce-b98056b6d57b",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5",
+        "6b4f2622-8586-4629-9764-1af2af70a954"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cb8bffb7-50f5-44f0-a0a3-924b1da86b30",
+      "dutyDetail": "Work collaboratively with a wide user-base to support their use of technologies and inform and improve their design and documentation.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "374c7f75-5f70-494d-9f03-7d595dae7bee",
+        "2aa61c78-f51b-49f2-90c6-05b0ec6c99fb",
+        "19bccbdd-e259-468f-a33a-91bef2d7f683"
+      ],
+      "mappedKnowledge": [
+        "71046fb6-1883-40c5-8763-55800eedf67f",
+        "c4caf042-9114-4ec4-ae9b-f3593d102c19",
+        "52a22dd0-7f19-4060-a4eb-91051f4bb404",
+        "d365d532-351f-4f1c-abf0-ffa275d65b85",
+        "13925e16-66d8-474e-bd92-dc889ebae5c5"
+      ],
+      "mappedOptions": [
+        "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291"
+      ],
+      "mappedSkills": [
+        "92a3b92c-2728-4267-81a0-7cb81d7d7d10",
+        "0b9adcd5-fd4a-4697-9c33-fb8f3b263a13",
+        "e62e8b97-e558-400b-a4bb-4a5912383552",
+        "ec740bed-3787-43d0-bc90-69091b12d1e5",
+        "6b4f2622-8586-4629-9764-1af2af70a954",
+        "5f656936-12c5-4fb0-8d74-25b576592c30",
+        "b37ab6be-5961-439b-99d1-246e13139912",
+        "d1657bb9-60a0-4c2b-b23d-462672a17c9a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "f312b99f-27aa-49a1-801d-9fb36f4404d6",
+      "title": "Game software programmer",
+      "occupationCode": "OCC0953A"
+    },
+    {
+      "optionId": "cc98d9c9-e9ce-4a24-804e-8c7d1ba11291",
+      "title": "Game technology programmer",
+      "occupationCode": "OCC0953B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-22T00:00:00"
+}
