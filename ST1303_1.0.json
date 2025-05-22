@@ -1,0 +1,793 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 698,
+  "referenceNumber": "ST1303",
+  "learningAimClassCode": "",
+  "title": "Accounting finance manager",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1303",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-23T00:00:00",
+  "earliestStartDate": "2023-02-21T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Manage and implement accounting, finance systems and processes.",
+  "level": 6,
+  "ePALength": 4,
+  "typicalDuration": 36,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Legal, finance and accounting",
+  "keywords": [
+    "Accountancy",
+    "finance",
+    "Manager",
+    "legislation",
+    "reporting"
+  ],
+  "jobRoles": [
+    "Accounting and finance manager",
+    "Accounts manager",
+    "Accounts semi-senior",
+    "Accounts senior",
+    "Company accountant",
+    "Credit controller",
+    "Finance manager",
+    "Financial accountant",
+    "Financial controller",
+    "Reporting accountant",
+    "Systems accountant"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1303-v1-0?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.1 Accounting and finance",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in organisations of all sizes (small, medium, large, and global), in public, private, and third sectors. They generally work in the accounts/finance department of an organisation or a professional accountancy firm. The broad purpose of the occupation is to manage and implement accounting, finance systems and processes that support decision-making in-line with strategy by applying technical and technological knowledge and skills to all aspects of accounting and finance within an organisation. This may include: managing operations of the accounting/finance function; supporting senior management/other departments by providing timely financial information and reports; ensuring compliance with: internal controls, HMRC, legislation, regulations, ethical and professional codes; monitoring the efficient, effective, and economical, working of all systems using the most appropriate technology; problem-solving, making recommendations, and giving advice to internal or/and external clients. In their daily work, an employee in this occupation interacts with a wide range of internal and external stakeholders, including directors and senior managers, clients and customers, suppliers, lenders, government agencies, auditors, and other professionals. A typical day could include being in an office environment overseeing data entry, control account reconciliations, budgeting and forecasting, trend analysis, monthly, quarterly, yearly reporting, researching and recommending solutions for decision makers. An Accounting and Finance manager will work both independently as well as working in or leading teams. They play a pivotal role in bridging the gap between strategic and operational levels of an organisation by employing a broad range of knowledge and skills: technical, technological, and interpersonal. An employee in this occupation will be responsible for contributing to and implementing business plans and strategy, as decided upon by senior management, as well as managing the systems and operations used to realise them. This involves: overseeing operations, monitoring, analysing, and controlling systems and procedures, ensuring the efficient, economic, and effective use of resources; managing the budgetary process, analysing variances, researching and explaining change, and making recommendations; the monitoring and controlling of cash flows, spotting trends, and forecasting requirements; and will be involved in training and recruiting staff in line with strategy. They will conduct regular and detailed analysis of data and provide regular financial and management information as required by internal and external stakeholders. &lt;br&gt;In a larger organisation the Accounting and finance manager may report to a finance director (a professional accountant), whereas in a smaller organisation they could be the most senior technical specialist, reporting to a (non-technical) senior manager such as a chief executive. In a professional practice environment, they may report to a senior manager, director or partner.&lt;br&gt;Typically they will be responsible for the accounting and finance function and oversee the operations thereof. This may mean they lead a team of accounts, finance and tax technicians managing day to day operations as required.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "670bfcf9-3a33-4a37-aaae-c851ae73b39c",
+      "detail": "The regulatory framework of financial accounting that apply to sole traders, partnerships, companies, charities, and public sector organisations."
+    },
+    {
+      "knowledgeId": "0b0127f3-e436-4444-b3be-147f9d7db2d5",
+      "detail": "Accounting concepts and standards in UK GAAP and IFRS as applicable to sole traders, partnerships, companies, charities, and public sector organisations."
+    },
+    {
+      "knowledgeId": "8790f498-afac-4fab-ac49-217b28200ea3",
+      "detail": "The technology available for financial accounting, reporting, and internal controls. For example, iXBRL"
+    },
+    {
+      "knowledgeId": "b53e0373-27aa-4490-8984-080e8881cf83",
+      "detail": "Approaches to analysing issues relating to competitors, stakeholders and market trends. For example ratio analysis, trend analysis, stakeholder analysis, competitor analysis."
+    },
+    {
+      "knowledgeId": "8884f364-0f32-4eb6-9e90-e426ab333a4b",
+      "detail": "Approaches to data analytics using technology to visualise findings from the analysis of financial and non-financial data from internal and external sources."
+    },
+    {
+      "knowledgeId": "fb16c95d-d041-4cc7-8587-1bbf1cf4e46e",
+      "detail": "The requirements of the data commissioner under GDPR, and other stakeholders."
+    },
+    {
+      "knowledgeId": "2d24db30-0ffe-4c1f-8bda-58e1131d7491",
+      "detail": "Digital technology and protocols to protect data from cyber attacks and data corruption."
+    },
+    {
+      "knowledgeId": "4d83bcee-e1c5-45b7-aee6-6fba6e0af359",
+      "detail": "The principles of legal, professional, and ethical frameworks including regulations regarding money laundering, criminal finance, data protection, health and safety, computer misuse and cybercrime."
+    },
+    {
+      "knowledgeId": "23079657-75b8-4d54-acf4-ae4355700382",
+      "detail": "The principles of digital systems management to ensure they are compliant with all relevant legal, professional and ethical frameworks."
+    },
+    {
+      "knowledgeId": "c2774d08-45e9-44af-a59b-4d74494936d4",
+      "detail": "The principles and significance of reconciling internal system records with external information sources such as banks and suppliers."
+    },
+    {
+      "knowledgeId": "7ad9e0b1-1e05-4113-9e71-e12e9f91a268",
+      "detail": "The purpose and techniques of budgeting and forecasting required to manage revenue, expenditure and cash flow."
+    },
+    {
+      "knowledgeId": "c6e0ccfa-4b2d-4d10-9c07-c0ab8647abe7",
+      "detail": "The use of digital technology to compile, manage and report on budgets"
+    },
+    {
+      "knowledgeId": "fd6eaaa8-5bd7-4111-9d4e-1452f76ab236",
+      "detail": "Approaches to creating cash flow forecasts."
+    },
+    {
+      "knowledgeId": "5b8ff916-a84e-47eb-ba6a-ed146f99c948",
+      "detail": "The use of digital technology to forecast, monitor and report on movements in an organisations' cash flows."
+    },
+    {
+      "knowledgeId": "79f3ee9b-a0ec-4ed3-b44c-c69bdacd729d",
+      "detail": "Approaches used to analyse the financial and non-financial impact of management decisions."
+    },
+    {
+      "knowledgeId": "6aa4d0e9-d25c-4bd2-8b45-7eefdd9ccc53",
+      "detail": "The use of digital technology to provide management reports to assist decision making."
+    },
+    {
+      "knowledgeId": "87274a77-313b-4638-9bd7-e8fa64b467d9",
+      "detail": "The importance of taxation in society and its impact on government policy.  "
+    },
+    {
+      "knowledgeId": "43598004-e8a7-4c86-9ff4-945809482733",
+      "detail": "The relationship of UK taxation to the accounting and finance function within organisations."
+    },
+    {
+      "knowledgeId": "37069512-4b1b-41f0-a3e1-9da49fa5ccbc",
+      "detail": "Implications for taxation reporting and obligations of organisational or client decision making."
+    },
+    {
+      "knowledgeId": "552cb48c-8045-43ca-8b58-4a0d234ba4ca",
+      "detail": "Principles of digital technology used to process data and fulfil organisational and HMRC digital taxation reporting requirements."
+    },
+    {
+      "knowledgeId": "2d5bca68-e3bb-4fce-b225-17e63b1a985f",
+      "detail": "The importance of the internal and external audit function and the significance of providing information requested from the audit teams to fulfil their duties."
+    },
+    {
+      "knowledgeId": "d389751f-b95e-470f-ab8d-9e962a5ea3e6",
+      "detail": "Strategic planning techniques that are used by organisations to analyse, develop, and implement strategy."
+    },
+    {
+      "knowledgeId": "4435d469-a9b0-402b-81da-9711c0d04b30",
+      "detail": "Approaches to digital technology used to analyse, communicate, monitor and report on implementing strategy and meeting strategic objectives."
+    },
+    {
+      "knowledgeId": "5896847d-6028-47a5-ad39-647f731b2607",
+      "detail": "Approaches to identify and evaluate quantitative and qualitative factors that influence business performance."
+    },
+    {
+      "knowledgeId": "23a7ff7a-0a0d-48f6-ae0c-982df78e7e99",
+      "detail": "The use of technology to collect, analyse and communicate quantitative and qualitative data."
+    },
+    {
+      "knowledgeId": "67a43d33-27e9-42b8-922b-4eaa984e656f",
+      "detail": "The sources of finance that are available to organisations."
+    },
+    {
+      "knowledgeId": "df66cce4-e506-460e-a938-a6859ba766fe",
+      "detail": "Approaches to using technology to identify and apply for finance and maintain credit relationships."
+    },
+    {
+      "knowledgeId": "3ef30af3-52b9-4a5f-b0bf-12e6e50b2ab8",
+      "detail": "The legal and organisational framework for managing receivables, credit control, and internal and external relationships."
+    },
+    {
+      "knowledgeId": "5e917ee2-9daa-4d84-a417-e342f722eb3c",
+      "detail": "Approaches to using technology that manages credit control for internal and external stakeholders."
+    },
+    {
+      "knowledgeId": "19be9561-e4c4-46ef-9ac1-3f4f56cbc468",
+      "detail": "The principles and practice of designing, implementing and maintaining internal controls that mitigate risk and prevent issues, such as with quality, accuracy, fraud, cyber-attacks, or other irregularity."
+    },
+    {
+      "knowledgeId": "b7f79f97-ebe0-4fb4-8f83-21a148b78619",
+      "detail": "Approaches to internal controls for both manual and digital systems and processes, with consideration for the control environment."
+    },
+    {
+      "knowledgeId": "0e42b18e-a96b-420e-8b0a-8d8fac7dcfd3",
+      "detail": "Approaches to managing external relationships that affect the organisation."
+    },
+    {
+      "knowledgeId": "f156ba66-4571-429e-8a7f-a723cc691dc0",
+      "detail": "Approaches to digital technology to produce relevant information for stakeholder reports such as Integrated Reporting or Environmental Social and Governance (ESG) reports."
+    },
+    {
+      "knowledgeId": "402ae423-d52a-49db-934e-30c37fb61fff",
+      "detail": "Principles of effective staff recruitment, training, appraisal, mentoring and management."
+    },
+    {
+      "knowledgeId": "1e0ab052-85f1-4a6c-a278-68db058925fd",
+      "detail": "Approaches to use of digital technologies to appraise, monitor and manage staff."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+      "detail": "Conscientious and diligent attention to detail that strives for completeness and accuracy."
+    },
+    {
+      "behaviourId": "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+      "detail": "Rigorous and empirical approach to the analysis of data and research the facts and gathering expert opinion before recommending action."
+    },
+    {
+      "behaviourId": "80807e06-b325-4120-86e8-658b4790b920",
+      "detail": "Committed to continuing professional development (CPD) by keeping up to date with the latest legislation, releases from standard setters,  the latest advances in, and applications of, digital technology as applicable to accounting and finance and guidance from HMRC."
+    },
+    {
+      "behaviourId": "02a900a4-aaba-463e-8d03-43782260b850",
+      "detail": "Objective and capable of independent and team working, committed to a reflective approach and therefore continuous improvement of internal and external relationships, including reviewing their own performance and performance of their team."
+    },
+    {
+      "behaviourId": "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
+      "detail": "Act with professional scepticism including a questioning mind, being alert to conditions which may indicate a possible misstatement due to error or fraud and a critical assessment of evidence."
+    },
+    {
+      "behaviourId": "672ebabd-d120-4eaa-8949-8f7aeaedc584",
+      "detail": "Act with professional judgment and values.  Apply ethical standards in making informed decisions about the courses of action that are appropriate to their business or their client including acting in the public interest."
+    },
+    {
+      "behaviourId": "34a20838-cf64-4a05-bcb3-d15ad305d332",
+      "detail": "Creative, innovative and enterprising when seeking solutions to business needs. Positive and adaptable, responding well to feedback and need for change. Open to new ways of working and new management theories."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "dd8d8ec8-ed1a-46f7-b538-828cb1dc7b5b",
+      "detail": "Prepare financial statements, or extracts thereof, in accordance with International Financial Reporting Standards (IFRS) and UK Generally Accepted Accounting Practice (GAAP)."
+    },
+    {
+      "skillId": "862e23f1-0c84-4c4d-8789-79535961a6ac",
+      "detail": "Identify and use appropriate digital technology to achieve desired outputs in the context of producing statutory of financial reports."
+    },
+    {
+      "skillId": "114bb925-1b0b-4a84-a71d-8123ad14a517",
+      "detail": "Analyse financial and non-financial internal data and compare with benchmark data such as from competitors, stakeholders, and market trends."
+    },
+    {
+      "skillId": "c61815b6-179e-4420-8258-82c92639038f",
+      "detail": "Use data analytics tools, visualise findings, make evidenced-based recommendations for future action and communicate them."
+    },
+    {
+      "skillId": "a7a572c5-cd22-40a4-8e50-6c3d1cf29e17",
+      "detail": "Interpret and implement the latest guidance on secure data management to satisfy the requirements of the Data Commissioner and GDPR."
+    },
+    {
+      "skillId": "654f9b3b-0000-446c-91d3-f79494589183",
+      "detail": "Implement protocols and technology that minimise risks to data integrity and cyber security."
+    },
+    {
+      "skillId": "e66c03cd-8c26-4703-b321-e9c479e07e1b",
+      "detail": "Evaluate internal and external factors relevant to the operational compliance of the organisation with all necessary legal, professional and ethical frameworks."
+    },
+    {
+      "skillId": "4a0bfdb1-a54e-42be-8ecb-fcf932f544df",
+      "detail": "Apply the principles of digital systems management to ensure continued compliance with all relevant frameworks applicable to the organisation."
+    },
+    {
+      "skillId": "7068adec-f46b-448d-905a-d7b1a96b0b1d",
+      "detail": "Analyse and interpret the reasons for differences between internal and external source documentation and produce reconciliations that clearly identify those differences and required actions."
+    },
+    {
+      "skillId": "c524c09e-0f4e-4416-a5e8-599905b4c7f9",
+      "detail": "Create budgets and forecasts using the most appropriate tools and techniques."
+    },
+    {
+      "skillId": "4e8493e4-334f-4908-af05-9f3b3710afd7",
+      "detail": "Interpret budget reports to evaluate the reliability of forecasts and to identify variances which require further action."
+    },
+    {
+      "skillId": "122654e1-d7c8-4d9d-a55d-a4e59b5252db",
+      "detail": "Calculate and interpret cash flow forecasts."
+    },
+    {
+      "skillId": "60fc5887-860a-4daf-840e-65214447b35d",
+      "detail": "Interpret cash flow reports and identify future action required to manage cash balances."
+    },
+    {
+      "skillId": "1bb89ade-d797-4520-896e-7a5f89e4ab93",
+      "detail": "Apply management accounting techniques to assist decision making within the organisation."
+    },
+    {
+      "skillId": "51d771a2-2369-477c-9ae4-347ab925244f",
+      "detail": "Interpret management reports, and utilise a variety of media, including verbal communication, to deliver advice that impacts management decisions."
+    },
+    {
+      "skillId": "1d91e7b4-4af1-4700-b3a9-cfb6e5ee60f3",
+      "detail": "Interpret and apply HMRC rules and guidance to produce tax calculations and statutory returns. "
+    },
+    {
+      "skillId": "1e6b9008-3f4c-4abe-ada1-71e824870b39",
+      "detail": "Implement and manage systems and processes that gather the information required by HMRC."
+    },
+    {
+      "skillId": "e7f8375a-ea48-4883-980d-1fc0afe73e60",
+      "detail": "Analyse and summarise organisational  or client  decision making  and the impact on taxation reporting and obligations."
+    },
+    {
+      "skillId": "ee89f09a-e13f-4031-8656-505b7de9c06d",
+      "detail": "Implement and manage the technology to satisfy HMRC reporting requirements for digital taxation."
+    },
+    {
+      "skillId": "f3df229e-a74a-48b6-b8ad-af5eb1f21272",
+      "detail": "Produce the information required by internal and external auditors in a clear format."
+    },
+    {
+      "skillId": "f045df29-569a-434b-9b13-355b4c0fa5a2",
+      "detail": "Evaluate strategic options, taking into consideration the impact of internal and external factors."
+    },
+    {
+      "skillId": "8a12cd65-8643-4746-a62b-f04be1618319",
+      "detail": "Develop, communicate, and deliver operational plans that meet strategic objectives; being able to set targets and KPIs, manage resources, and monitor and measure outcomes to establish operations effectively, efficiently and economically."
+    },
+    {
+      "skillId": "de9969fc-b99e-4c9d-a721-1cf58a71baa7",
+      "detail": "Ability to interpret quantitative and qualitative data in order to assess business performance, and utilise a variety of media, including verbal communication that demonstrates emotional intelligence, to make recommendations."
+    },
+    {
+      "skillId": "9b51b2a9-56c8-4c5b-bcee-1ed325d944ca",
+      "detail": "Analyse and interpret the process of how data is collected, extracted, analysed and reported."
+    },
+    {
+      "skillId": "fad234b4-fff0-4b93-89e3-6fd907a857ea",
+      "detail": "Evaluate the impact of different sources of finance on an organisation, including risk and recommend appropriate finance options."
+    },
+    {
+      "skillId": "dbaf63bf-869b-442c-aae6-92e823371ac3",
+      "detail": "Advise organisations and implement technology to raise finance and maintain credit relationships."
+    },
+    {
+      "skillId": "a1b47ba6-d326-40e3-bcbf-e97da2a86b62",
+      "detail": "Design and manage a compliant credit control system that meets strategic objectives regarding customers, insurers, and cash flow."
+    },
+    {
+      "skillId": "aac51972-e2e8-47a1-86f2-4ca5deecb70f",
+      "detail": "Implement technology that enables delivery of a credit control system that meets strategic objectives."
+    },
+    {
+      "skillId": "30e93301-3f4c-431e-a5a4-c4575abbfc2f",
+      "detail": "Analyse, design, implement, communicate, monitor and review internal control systems and processes that mitigate risk, including error, fraud, and cyber risks."
+    },
+    {
+      "skillId": "33e1866c-a0f1-45d0-8e52-21b41ff5e70b",
+      "detail": "Document organisational manual and digital internal controls, identify weaknesses, and make practical recommendations for improvement."
+    },
+    {
+      "skillId": "6cd35e80-9670-41f7-8524-daccdf5ca15a",
+      "detail": "Develop and maintain effective relationships with internal and external stakeholders."
+    },
+    {
+      "skillId": "fc8f2285-b15c-4f61-8051-42b2274e487f",
+      "detail": "Identify relevant information to be included in reports used by stakeholders."
+    },
+    {
+      "skillId": "e7f39ee8-11ab-4c0f-86e7-017e0612d263",
+      "detail": "Identify potential improvements to HR policies and activities such as recruitment, training, appraisal, mentoring or management."
+    },
+    {
+      "skillId": "249ac902-6142-4e70-9af4-eebe259cb8c8",
+      "detail": "Evaluate the effectiveness of digital technology used to appraise, monitor and manage staff."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2023-02-21T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0840",
+  "tbMainContact": "Jonathan@phoenixaccountancy.co.uk",
+  "involvedEmployers": "5 Star Estate Planning, Acc-Unique Solutions Ltd, Azets, BBC, BDT Group, Birmingham City University, Birmingham Community Healthcare NHS Foundation Trust, Central England Co-operative Limited, Certax, Coventry University, Devonports, Ernst and Young, Exeter University, Forest Phoenix Accountancy Ltd, Gloucestershire County Council, Golden Intelligence Ltd, HBBA Care Ltd, IBM, IBM UK Foundation Manager IBM UK Early Professional Programmes, Institute of Financial Accountants, Jaguar Land Rover, Kingsley Maybrook Ltd, Longhurst Group, Manex Accountancy, Morgan Reach Chartered Certified Accountants, Paton Turberfield Accountants, Right Check, Sage (UK) Limited, TaxWhizz, The Education and Skills Partnership Ltd, Thomson Reuters Professional (UK) Ltd, UK Dies Group Ltd, University of Portsmouth, University of West of England, Watts Accountancy, Wellbeing Residential Care Group, Xero",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Accounting and finance manager",
+    "Accounts manager",
+    "Accounts semi-senior",
+    "Accounts senior",
+    "Company accountant",
+    "Credit controller",
+    "Finance manager",
+    "Financial accountant",
+    "Financial controller",
+    "Reporting accountant",
+    "Systems accountant"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Accountancy",
+  "cluster": "Professional accountant",
+  "clusterId": "237",
+  "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
+  "createdDate": "2024-12-09T15:02:50 +00:00",
+  "lastUpdated": "2023-02-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-02-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1303",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1303-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1303-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "b694f83c-6801-448a-98e9-9b8976349c72",
+      "title": "Accounting Finance Manager Degree",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Financial Accountants",
+      "level": "Intermediate Level",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "487b5a14-e5cf-48e4-aa13-231bfcfeab10",
+      "dutyDetail": "Manage financial accounting, monitoring, and reporting systems, procedures, and internal controls in line with changes in technology including automation, artificial intelligence, cloud-based applications and making tax digital.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "670bfcf9-3a33-4a37-aaae-c851ae73b39c",
+        "0b0127f3-e436-4444-b3be-147f9d7db2d5",
+        "8790f498-afac-4fab-ac49-217b28200ea3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dd8d8ec8-ed1a-46f7-b538-828cb1dc7b5b",
+        "862e23f1-0c84-4c4d-8789-79535961a6ac"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "89d3107a-0168-4aa8-9f4e-7225d3433b84",
+      "dutyDetail": "Analyse financial and non-financial data on competitors, stakeholders, and market trends, and make recommendations for future action.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "b53e0373-27aa-4490-8984-080e8881cf83",
+        "8884f364-0f32-4eb6-9e90-e426ab333a4b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "114bb925-1b0b-4a84-a71d-8123ad14a517",
+        "c61815b6-179e-4420-8258-82c92639038f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "22910b7c-2ad3-44bc-8172-0ed2f86feba0",
+      "dutyDetail": "Manage accounting and financial systems for cyber security and data integrity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "02a900a4-aaba-463e-8d03-43782260b850"
+      ],
+      "mappedKnowledge": [
+        "fb16c95d-d041-4cc7-8587-1bbf1cf4e46e",
+        "2d24db30-0ffe-4c1f-8bda-58e1131d7491"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a7a572c5-cd22-40a4-8e50-6c3d1cf29e17",
+        "654f9b3b-0000-446c-91d3-f79494589183"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f0b1db2-d21a-4b26-aa1a-12dfca291a53",
+      "dutyDetail": "Ensure that all operations and systems are compliant with all relevant legislation, regulations, and codes of governance and professional ethics. Ensuring understanding of the duties and responsibilities of the Accounting and Finance Manager.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584"
+      ],
+      "mappedKnowledge": [
+        "4d83bcee-e1c5-45b7-aee6-6fba6e0af359",
+        "23079657-75b8-4d54-acf4-ae4355700382"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e66c03cd-8c26-4703-b321-e9c479e07e1b",
+        "4a0bfdb1-a54e-42be-8ecb-fcf932f544df"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "19433c47-c225-4231-bf21-91fe11e60639",
+      "dutyDetail": "Conduct periodic accounting and finance reconciliations, reviews and evaluations to ensure records are accurate and resources are used efficiently, effectively and economically.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "49bdbc7f-0788-4ff9-b0ad-a19797008e17"
+      ],
+      "mappedKnowledge": [
+        "c2774d08-45e9-44af-a59b-4d74494936d4"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7068adec-f46b-448d-905a-d7b1a96b0b1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d1befdcf-dc7b-413c-a11d-f49995cc9d34",
+      "dutyDetail": "Manage the budgetary process, analyse variances, research and explain change, and make recommendations accordingly.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "02a900a4-aaba-463e-8d03-43782260b850"
+      ],
+      "mappedKnowledge": [
+        "7ad9e0b1-1e05-4113-9e71-e12e9f91a268",
+        "c6e0ccfa-4b2d-4d10-9c07-c0ab8647abe7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c524c09e-0f4e-4416-a5e8-599905b4c7f9",
+        "4e8493e4-334f-4908-af05-9f3b3710afd7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "20f579c8-6993-4e5a-bace-4b21b398fc42",
+      "dutyDetail": "Proactively monitor, interpret, and control cash flows, spot trends and forecast requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "fd6eaaa8-5bd7-4111-9d4e-1452f76ab236",
+        "5b8ff916-a84e-47eb-ba6a-ed146f99c948"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "122654e1-d7c8-4d9d-a55d-a4e59b5252db",
+        "60fc5887-860a-4daf-840e-65214447b35d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d6bd74d9-4614-4084-984c-dd108481f5d1",
+      "dutyDetail": "Collate and produce accurate financial and accounting management reports to specific deadlines and support internal managers or external clients to understand financial information to facilitate decision making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "02a900a4-aaba-463e-8d03-43782260b850"
+      ],
+      "mappedKnowledge": [
+        "79f3ee9b-a0ec-4ed3-b44c-c69bdacd729d",
+        "6aa4d0e9-d25c-4bd2-8b45-7eefdd9ccc53"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1bb89ade-d797-4520-896e-7a5f89e4ab93",
+        "51d771a2-2369-477c-9ae4-347ab925244f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "56be97f9-1952-4d6d-a503-69dda910524d",
+      "dutyDetail": "Oversee and manage the production of tax computations and returns for HMRC in line with making tax digital (MTD) and advise internal managers and external clients of their obligations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584"
+      ],
+      "mappedKnowledge": [
+        "87274a77-313b-4638-9bd7-e8fa64b467d9",
+        "43598004-e8a7-4c86-9ff4-945809482733",
+        "37069512-4b1b-41f0-a3e1-9da49fa5ccbc",
+        "552cb48c-8045-43ca-8b58-4a0d234ba4ca"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1d91e7b4-4af1-4700-b3a9-cfb6e5ee60f3",
+        "1e6b9008-3f4c-4abe-ada1-71e824870b39",
+        "e7f8375a-ea48-4883-980d-1fc0afe73e60",
+        "ee89f09a-e13f-4031-8656-505b7de9c06d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26df0b72-70a4-4748-8ea1-49ade9516dc8",
+      "dutyDetail": "Liaise with internal and external auditors to ensure annual monitoring and reporting requirements are satisfied.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "02a900a4-aaba-463e-8d03-43782260b850"
+      ],
+      "mappedKnowledge": [
+        "2d5bca68-e3bb-4fce-b225-17e63b1a985f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f3df229e-a74a-48b6-b8ad-af5eb1f21272"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2b9bb5e-3e3e-4877-b1b9-d30cfcaff589",
+      "dutyDetail": "Contribute to the implementation of organisation strategy, business plans, and business planning, by using accounting and finance and system-wide applications to provide robust evidence for effective decision making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "d389751f-b95e-470f-ab8d-9e962a5ea3e6",
+        "4435d469-a9b0-402b-81da-9711c0d04b30"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f045df29-569a-434b-9b13-355b4c0fa5a2",
+        "8a12cd65-8643-4746-a62b-f04be1618319"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8559f257-49fb-4d98-85c9-24f3f47e94db",
+      "dutyDetail": "Analyse and interpret a wide range of financial information for internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b0d02795-0154-408c-9273-5ff805867943",
+      "dutyDetail": "Research, analyse, and report on factors influencing business performance, and make recommendations. For example: ways to reduce costs, improve profitability, improve quality, customer satisfaction, efficiency, productivity, and sustainabilty.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "5896847d-6028-47a5-ad39-647f731b2607",
+        "23a7ff7a-0a0d-48f6-ae0c-982df78e7e99"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de9969fc-b99e-4c9d-a721-1cf58a71baa7",
+        "9b51b2a9-56c8-4c5b-bcee-1ed325d944ca"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a329cd06-b8f2-4a4c-9aca-ad92a3f72b68",
+      "dutyDetail": "Research and identify sources of finance, demonstrate an awareness of risk, be able to assist in arranging new sources of finance, and maintaining existing lines of credit and credit relationships. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "cbf61b99-4af4-4fdb-a015-039aa3ceee93",
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "67a43d33-27e9-42b8-922b-4eaa984e656f",
+        "df66cce4-e506-460e-a938-a6859ba766fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fad234b4-fff0-4b93-89e3-6fd907a857ea",
+        "dbaf63bf-869b-442c-aae6-92e823371ac3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "affb8d0c-7a8b-423f-9b0c-2659b48f00b7",
+      "dutyDetail": "Manage the credit control function, which involves understanding the legal framework, maintaining receivables (Sales Ledger), cash flow, and customer relationships.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa"
+      ],
+      "mappedKnowledge": [
+        "3ef30af3-52b9-4a5f-b0bf-12e6e50b2ab8",
+        "5e917ee2-9daa-4d84-a417-e342f722eb3c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a1b47ba6-d326-40e3-bcbf-e97da2a86b62",
+        "aac51972-e2e8-47a1-86f2-4ca5deecb70f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7e6929f3-39b1-4c70-9bdc-5c761ec9b767",
+      "dutyDetail": "Develop and maintain internal controls that monitor and manage financial risk to safeguard the organisations assets and mitigate liabilities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c3a7055f-cd81-4cf0-93c9-cee2ef299faa",
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "19be9561-e4c4-46ef-9ac1-3f4f56cbc468",
+        "b7f79f97-ebe0-4fb4-8f83-21a148b78619"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "30e93301-3f4c-431e-a5a4-c4575abbfc2f",
+        "33e1866c-a0f1-45d0-8e52-21b41ff5e70b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "84c24b38-ee49-4f48-9d7d-9cc6415fc1ba",
+      "dutyDetail": "Understand the importance of external relationships to the organisation and be able to maintain them. These relationships could include: clients, customers, suppliers, auditors, solicitors, bankers and statutory organisations such as the HMRC, Companies House and the Financial Conduct Authority.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "80807e06-b325-4120-86e8-658b4790b920",
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "49bdbc7f-0788-4ff9-b0ad-a19797008e17",
+        "672ebabd-d120-4eaa-8949-8f7aeaedc584",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "0e42b18e-a96b-420e-8b0a-8d8fac7dcfd3",
+        "f156ba66-4571-429e-8a7f-a723cc691dc0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6cd35e80-9670-41f7-8524-daccdf5ca15a",
+        "fc8f2285-b15c-4f61-8051-42b2274e487f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6cae4df1-a929-4dd9-93a8-691e388fd7e8",
+      "dutyDetail": "Recruit, train, appraise, mentor and be responsible for the day-to-day management of their accounting and finance team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "02a900a4-aaba-463e-8d03-43782260b850",
+        "34a20838-cf64-4a05-bcb3-d15ad305d332"
+      ],
+      "mappedKnowledge": [
+        "402ae423-d52a-49db-934e-30c37fb61fff",
+        "1e0ab052-85f1-4a6c-a278-68db058925fd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7f39ee8-11ab-4c0f-86e7-017e0612d263",
+        "249ac902-6142-4e70-9af4-eebe259cb8c8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-23T00:00:00"
+}
