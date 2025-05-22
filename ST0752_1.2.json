@@ -1,0 +1,790 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 456,
+  "referenceNumber": "ST0752",
+  "learningAimClassCode": "",
+  "title": "Drinks dispense technician",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0752",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End-point assessment plan revised.",
+  "changedDate": "2024-12-13T00:00:00",
+  "earliestStartDate": "2024-04-18T00:00:00",
+  "latestStartDate": "2024-12-12T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Installing and maintaining drinks dispense systems.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "engineering",
+    "drinks",
+    "dispense",
+    "technician",
+    "service",
+    "repair"
+  ],
+  "jobRoles": [
+    "Technical services technician",
+    "Drinks dispense technician",
+    "Beer quality technician",
+    "Cellar technician",
+    "Technical representative",
+    "Softs drinks engneer",
+    "Customer technical engineer",
+    "Field service technician",
+    "coding"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/jqlaxd4t/st0752_drinks_dispense_technician_l3_v12_adjustment_for-publication_17_april24.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector working in the hospitality, retail, leisure and catering industries, in a variety of venues that serve soft-drinks and/or alcoholic beverages to the public on a daily basis, including public houses, bars, clubs, retail outlets, leisure centres, hotels, festivals/events, clubs, schools, cinemas, theatres, stadiums and many more. Drinks dispense technicians may work directly for a brand owner or brewery, or contractors that provide engineering services work on their behalf.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is responsibility for the installation and maintenance of drinks dispense systems. The aim is to build, install, maintain and repair complex drinks dispensing equipment to ensure that their customer can, in turn, deliver drinks of the right specification and quality to their customers. Some drinks dispense technicians will specialise in certain types of drinks and/or brands, whilst others will work across a wide spectrum, for example beer, wine, cider, nitrogenated coffee and soft-drinks. The role involves the application of a broad range of knowledge and skills; including fault-finding, plumbing, electrical, refrigeration, gas pressure systems and pipework. Tasks are often complex and non-routine requiring the technician to identify and initiate the appropriate solution; problem solving, use of diagnostic skills and own initiative will be needed to address out of specification issues that may be encountered. An essential part of the role is informing, educating and providing guidance to the customer in equipment use, beverage quality and delivery of the perfect pour. Product sampling may be required. Depending on the work required, they may spend the day at one venue or working across a number of outlets, working to deadlines. It will often involve working in confined spaces, such as a cellar. They may be working on the dispense system as a whole, or on certain parts, such as the python (pipework composite encompassing capacity for multiple product lines and temperature control), coolers or dispense fonts. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with venue staff for example managers, service staff and site security; other drinks dispense Technicians; colleagues, for example operations managers, call centre staff, quality managers and logistics managers; and members of the public. Technicians will self-manage work load and flow and will typically report to a Technical Manager. Depending on the size of the project Technicians may have responsibility for leading and supervising a team of Technicians. When working on new builds/renovations, they may interact with site supervisors and other trades for example plumbers and electricians. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for planning tasks and the resources required in response to schedules, ensuring the quality and accuracy of work carried out. They have the authority to determine the action required in relation to the drinks dispense system in a venue; including shut down. They will need to make informed judgements and decisions, taking account of the situation. They work autonomously, responsible for adhering to health &amp;amp; safety, current legislation, asbestos guidelines, working at height regulations and British Beer and Pub Association and British Soft Drinks Association Codes of Practice. They are responsible for asset management, including vehicle, tools, specialist equipment and devices. Typically, a driving licence will be required as they may be expected to drive to their place of work, using a company vehicle, and coordinate logistics for other technicians.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+      "detail": "Drinks Dispense System installation, commissioning and decommissioning requirements including site survey, system components, system limitations, testing."
+    },
+    {
+      "knowledgeId": "0876402e-f4f5-48f0-8a7e-7c46205a392e",
+      "detail": "Drinks Dispense System maintenance requirements and techniques including fault-finding, troubleshooting, diagnostic techniques, repair, total preventative maintenance, testing; common faults and causes."
+    },
+    {
+      "knowledgeId": "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+      "detail": "System Specifications for example, keg, cask, soft drinks, nitro coffee, frozen, carbonated, manufacturer specifications, temperature, gas type, flow speed, couplers, post-mix; what they are, the effects they have and how to use them."
+    },
+    {
+      "knowledgeId": "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+      "detail": "Brand/Drink Specifications including pipework and plumbing, temperature, gas pressures, fluid mechanics/dynamics, management, composition, characteristics, brewing process, ingredients, cask ale conditioning, manufacturers’ specification, stock rotation; what they are and how to use them."
+    },
+    {
+      "knowledgeId": "2e7a9741-5520-414d-859e-64cd869650d9",
+      "detail": "Electrical Systems including polarity testing, codes, Portable Appliance Testing (PAT), use of a multimeter; principles of electricity, voltage, types of current: Alternating Current/Direct Current (AC/DC)."
+    },
+    {
+      "knowledgeId": "034da3dd-1aa1-40b2-a23a-5074b12ec0ed",
+      "detail": "Refrigeration principles, types of refrigerant, integral and split systems, requirements relating to hydrochlorofluorocarbons (HCFCs), both gas and water cooled systems."
+    },
+    {
+      "knowledgeId": "7ad1882d-2ab8-4dd4-a16f-3b8a667d9353",
+      "detail": "Drinks Dispense System Pipework including different materials, joints and routing; requirements including length and building restrictions."
+    },
+    {
+      "knowledgeId": "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+      "detail": "Asset Management, including identification of equipment/parts, value of stock and equipment, correct handling of parts, salvageability of parts to be removed, returns process, disposal."
+    },
+    {
+      "knowledgeId": "24f3ac71-a74b-41ec-b5eb-87b7e374423f",
+      "detail": "Stock Management for example stock requirements, lead times, and stock management systems."
+    },
+    {
+      "knowledgeId": "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+      "detail": "Proper tool usage including hand tools, power tools, carbonation tester, refractometer, ratio cup, gas monitors, hygrometer, pressure gauges, CO2 monitors, correct/appropriate tool selection."
+    },
+    {
+      "knowledgeId": "747cfd67-54c3-4ccc-af9e-279fe1b10828",
+      "detail": "Cleaning (Line & Glass) including different systems, symptoms of infected/contaminated line, cleaning process, health and safety dangers, fault-finding, effect of bacteria in lines, the need for effective pest control around products and manufacturers guidelines."
+    },
+    {
+      "knowledgeId": "c1dfd11f-662f-4f89-ae5d-70ec7a1337e1",
+      "detail": "The Perfect Pour, for example how to create one, problem solving when pours are imperfect e.g. cleaning of vessels/glassware, operation of glasswashers and icemakers."
+    },
+    {
+      "knowledgeId": "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+      "detail": "Codes of Practice (COP) and guidelines, including British Soft Drinks Association, British Beer and Pub Association, Brewing Food & Beverage Industry Trade Association, Brand Dispense Association, British Soft Drinks Association electrical guidelines, British Beer and Pub Association electrical guidelines, brand matrix, Brands Dispense Association Drinks Installation Manual."
+    },
+    {
+      "knowledgeId": "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+      "detail": "Legal requirements and compliance including authority to work, trading standards, transport regulations (e.g. overloading, gas canisters), ullage (RBUS - Return Beer Unfit for Sale), General Data Protection Regulations, electric compliance, pressure systems compliance."
+    },
+    {
+      "knowledgeId": "7de2b06a-1578-40ec-9251-d277fc204544",
+      "detail": "Health and & Safety including Control Of Substances Hazardous to Health (COSHH), Risk Assessment, Method Statements, Manual Handling, Personal Protective Equipment, Asbestos, Confined Spaces, Working at Height, Construction Skills Certification Scheme Compliance, food hygiene, vehicle safety."
+    },
+    {
+      "knowledgeId": "9e7667f2-f4ad-4ed2-af2b-f3b6f84b4856",
+      "detail": "Environmental Considerations including Waste Electrical and Electronic Equipment Directive (WEEE), recycling, fluorinated greenhouse gas (F Gas)"
+    },
+    {
+      "knowledgeId": "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+      "detail": "Planning techniques including time management skills, work flow (e.g. job acquisition point)"
+    },
+    {
+      "knowledgeId": "4d900735-683e-443c-89f5-6ff6def23830",
+      "detail": "Improvement techniques including the 5 S’ (sort, set, shine, standardize and sustain), PDCA (Plan, Do, Check, Act)."
+    },
+    {
+      "knowledgeId": "daf255d4-f441-4b8c-98e1-a2d02eb19098",
+      "detail": "Training, mentoring and coaching techniques: how to pass on knowledge, and provide guidance to customer/stakeholder, in a clear, concise and easy to understand manner."
+    },
+    {
+      "knowledgeId": "83f735d0-f892-4129-a502-285a44a53843",
+      "detail": "Team leadership and management techniques."
+    },
+    {
+      "knowledgeId": "28f0400e-ed6d-4845-aeff-0f3b57909af3",
+      "detail": "Equality and diversity in the workplace considerations."
+    },
+    {
+      "knowledgeId": "790afb5e-e929-4cfa-b54b-237c0d898d82",
+      "detail": "Professional Relationships including Etiquette; expectations, responsibilities."
+    },
+    {
+      "knowledgeId": "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+      "detail": "Documentation requirements, for example job sheets, bar records, Written Scheme of Examination, vehicle safety checklist, cleaning logs."
+    },
+    {
+      "knowledgeId": "8118e87f-a6a0-4705-a999-6ad0b1c41095",
+      "detail": "Information Technology, for example processing software, email systems, handheld devices, job management systems, asset tracking systems."
+    },
+    {
+      "knowledgeId": "ac754824-d184-4148-9c6b-443596036102",
+      "detail": "Service Level Agreements for example employer/employee responsibilities, limitations, commercial contracts (e.g. expectations, response times)."
+    },
+    {
+      "knowledgeId": "5a603d1d-847d-46a6-ab61-3c5f1ae2eeb2",
+      "detail": "Industry Insight, for example appropriate timing, peak business hours, local geography, parking restrictions, access, dispense system ownership (Must Buy Must Sell system), position in supply chain, identity of stakeholders and motivations."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "3f6ccb52-326b-44e1-bda6-2566896a6792",
+      "detail": "Health & Safety first attitude."
+    },
+    {
+      "behaviourId": "d8b75165-6966-434b-b283-a0985881d3cc",
+      "detail": "Reliable, for example, acts with integrity, punctual, meticulous, trustworthy, honest, determined, perseveres."
+    },
+    {
+      "behaviourId": "eb05e312-722d-43a4-8b4b-d0cfb2d0a7d4",
+      "detail": "Adaptable, for example, responds to unforeseen circumstances, improvises in environment or time challenged conditions, resilient under pressure."
+    },
+    {
+      "behaviourId": "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+      "detail": "Takes responsibility for job, for example, a desire to see a job through from start to finish and verify that it has been completed to a high standard."
+    },
+    {
+      "behaviourId": "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+      "detail": "Quality focus for example attention to detail, accuracy, customer orientated, implements quality and lasting repairs."
+    },
+    {
+      "behaviourId": "8a1fab8a-f503-4328-b0d1-2694188cb62b",
+      "detail": "Professional, for example, represents themselves/employer well, presentable, passion for product, ambassadorial nature, instils confidence."
+    },
+    {
+      "behaviourId": "4a233395-4bc8-45eb-805b-b78a49a8ba12",
+      "detail": "Team player, for example works with others toward a common goal, with an obvious willingness and positive attitude, has regard for equality and diversity considerations"
+    },
+    {
+      "behaviourId": "1115cd2d-3899-4d8a-ad85-2bc913aadb34",
+      "detail": "Maintains a commitment to continuous professional development in order to ensure growth in ability and standards of work."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
+      "detail": "Interpret, follow and adhere to Service Level Agreements, legal requirements, COPs, specifications and customer needs."
+    },
+    {
+      "skillId": "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+      "detail": "Plan, organise and schedule own/others' work for example task delegation, work-flow, route planning, time management."
+    },
+    {
+      "skillId": "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
+      "detail": "Conduct site survey, including risk assessments."
+    },
+    {
+      "skillId": "191b36f2-6903-485a-b662-7ca658ac58ba",
+      "detail": "Interpret job requirements for example job specification, technical drawings, instruction booklets, identifying trends."
+    },
+    {
+      "skillId": "f720b76f-d3df-401f-af5e-2f14962ac370",
+      "detail": "Determine and source resources for example materials, time and equipment."
+    },
+    {
+      "skillId": "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
+      "detail": "Manage stock levels."
+    },
+    {
+      "skillId": "cc60a69f-c963-4f56-9a1a-78e4809addb2",
+      "detail": "Plumb pipework for drinks dispense equipment or components."
+    },
+    {
+      "skillId": "b3a144ce-e505-4d40-b21c-f5ce13c2d2cc",
+      "detail": "Conduct electrical installations or maintenance of drinks dispense equipment or components."
+    },
+    {
+      "skillId": "f93b81b1-7993-4cd0-ad1a-bb6ae8eca6da",
+      "detail": "Install or maintain refrigeration components for drinks dispense equipment."
+    },
+    {
+      "skillId": "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
+      "detail": "Install or maintain gas dispense pressure system."
+    },
+    {
+      "skillId": "d0977665-ed9d-4717-8562-ca7b2f5f146a",
+      "detail": "Operate tools and instruments for example drills, power tools, spirit levels, specialist tools/instruments."
+    },
+    {
+      "skillId": "c6097209-51b4-414f-a9ce-7a201a89a66b",
+      "detail": "Commission and connect specified equipment and/or components in adherence to Service Level Agreements, legal requirements, COPs, specifications and customer needs."
+    },
+    {
+      "skillId": "2f7a0f29-4593-4cf1-8d91-d1f010ce25b1",
+      "detail": "Assess condition of components and equipment and identifying action."
+    },
+    {
+      "skillId": "11209117-0b08-41a8-9fff-d07ceb84c8ac",
+      "detail": "Decommission and disconnect specified equipment or components in adherence to Service Level Agreements, legal requirements, COPs, specifications and customer needs."
+    },
+    {
+      "skillId": "6032ed4a-3bed-48f5-b31b-eaad916a4179",
+      "detail": "Diagnose dispense, product or equipment faults and identify solutions."
+    },
+    {
+      "skillId": "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+      "detail": "Test equipment and quality assure product dispensed, for example sampling final product."
+    },
+    {
+      "skillId": "a286292d-264d-47d1-a7e6-53630298a9b4",
+      "detail": "Clean lines, vessels and/or other equipment."
+    },
+    {
+      "skillId": "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
+      "detail": "Categorise decommissioned equipment for reuse, disposal or recycling."
+    },
+    {
+      "skillId": "cabbac8d-6df9-4ffb-ab62-bae88bd4e317",
+      "detail": "Pack decommissioned equipment to prevent further deterioration/damage."
+    },
+    {
+      "skillId": "ef207520-5330-4fd7-bfd8-7e613dc28e65",
+      "detail": "Isolate and document unsaleable product for return, destruction or further investigation."
+    },
+    {
+      "skillId": "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+      "detail": "Complete documentation for example asset management records, work sheets, waste environmental records."
+    },
+    {
+      "skillId": "f194f6ee-edca-40ea-8848-6c242a8f9e67",
+      "detail": "Collect, record and provide data, for example pressure readings, stock usage."
+    },
+    {
+      "skillId": "a74e6b45-9139-43eb-8da1-89c98bedc780",
+      "detail": "Communicate with stakeholders, internal or external for example customers, colleagues, managers, general public."
+    },
+    {
+      "skillId": "14187634-c50d-4633-bd12-4e2e78181dea",
+      "detail": "Provide information, guidance or training to colleagues and/or stakeholders."
+    },
+    {
+      "skillId": "65288c10-6583-48e6-866c-05c7a33942e9",
+      "detail": "Conduct all duties in adherence with health and safety directives and environmental policy and procedures."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2019-05-13T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0151",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
+  "involvedEmployers": "AB InBev, Asahi UK, Atlantic, Avani, BevEx/L’Isolante K-Flex, BRAINS Independent Family Brewers, Brewfitt, Britvic, Carlsberg, City Dispense, CML Technical Services, Durr Technik, Frederic Robinsons, Fuller, Smith & Turner, Green King, Heineken, Innserve (Co-chair), John Guest, Marston's (Co-chair), Molson Coors, Mitie, Shepherd Neame, T&J Install, Three Nations, VIMTO",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Technical services technician",
+    "Drinks dispense technician",
+    "Beer quality technician",
+    "Cellar technician",
+    "Technical representative",
+    "Softs drinks engneer",
+    "Customer technical engineer",
+    "Field service technician",
+    "coding"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2024-04-18T14:27:28 +00:00",
+  "lastUpdated": "2024-12-13T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0752",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0752-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0752-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "c823c707-2134-41bf-b5f3-6f3486494a64",
+      "dutyDetail": "Conduct surveys of sites to determine labour, equipment and processes required to complete specified tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "ac754824-d184-4148-9c6b-443596036102"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
+        "191b36f2-6903-485a-b662-7ca658ac58ba",
+        "f720b76f-d3df-401f-af5e-2f14962ac370",
+        "cc60a69f-c963-4f56-9a1a-78e4809addb2",
+        "2f7a0f29-4593-4cf1-8d91-d1f010ce25b1",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "f194f6ee-edca-40ea-8848-6c242a8f9e67",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "65288c10-6583-48e6-866c-05c7a33942e9"
+      ],
+      "criteriaForMeasuringPerformance": "Speed of response, length of time completing task, quality of customer service, accurate processing of data, completion of competent risk assessment, attention to detail and customer satisfaction."
+    },
+    {
+      "dutyID": "ffabe897-8fac-4959-8f44-be03f6d04d23",
+      "dutyDetail": "Install equipment required for the provision of a complete drinks dispense system; for example, installation of a drinks dispense system in a newly built outlet or refurbished outlet.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b",
+        "4a233395-4bc8-45eb-805b-b78a49a8ba12",
+        "1115cd2d-3899-4d8a-ad85-2bc913aadb34"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "2e7a9741-5520-414d-859e-64cd869650d9",
+        "034da3dd-1aa1-40b2-a23a-5074b12ec0ed",
+        "7ad1882d-2ab8-4dd4-a16f-3b8a667d9353",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "83f735d0-f892-4129-a502-285a44a53843",
+        "28f0400e-ed6d-4845-aeff-0f3b57909af3",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+        "ac754824-d184-4148-9c6b-443596036102"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "191b36f2-6903-485a-b662-7ca658ac58ba",
+        "cc60a69f-c963-4f56-9a1a-78e4809addb2",
+        "b3a144ce-e505-4d40-b21c-f5ce13c2d2cc",
+        "f93b81b1-7993-4cd0-ad1a-bb6ae8eca6da",
+        "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
+        "d0977665-ed9d-4717-8562-ca7b2f5f146a",
+        "c6097209-51b4-414f-a9ce-7a201a89a66b",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "14187634-c50d-4633-bd12-4e2e78181dea",
+        "65288c10-6583-48e6-866c-05c7a33942e9"
+      ],
+      "criteriaForMeasuringPerformance": "Speed of response, adherence to specifications, quality of workmanship, accuracy of asset recording, technical ability, compliance with legislation/code of practice, correct consideration of routing and protection of pipework and equipment and achievement within agreed specific customer service levels."
+    },
+    {
+      "dutyID": "c3fefb6f-93bd-46ee-b012-6e3ca2c982e3",
+      "dutyDetail": "Install additional equipment to dispense a product on an existing system; for example, an extra product line or a brand product change.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "7ad1882d-2ab8-4dd4-a16f-3b8a667d9353",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "28f0400e-ed6d-4845-aeff-0f3b57909af3",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+        "8118e87f-a6a0-4705-a999-6ad0b1c41095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "191b36f2-6903-485a-b662-7ca658ac58ba",
+        "cc60a69f-c963-4f56-9a1a-78e4809addb2",
+        "d0977665-ed9d-4717-8562-ca7b2f5f146a",
+        "c6097209-51b4-414f-a9ce-7a201a89a66b",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b"
+      ],
+      "criteriaForMeasuringPerformance": "Speed of response, adherence to specifications, quality of workmanship, accuracy of asset recording, technical ability, compliance with legislation/code of practice, achievement within agreed specific customer service levels, knowledge of other lines on system in times of peak loads - load on coolers, gas starvation, effects on system of adding lines, awareness of brand owner preferences."
+    },
+    {
+      "dutyID": "f9ef207f-2f77-482a-8811-d8581c9592d6",
+      "dutyDetail": "Remove and decommission redundant equipment, enabling asset management and reuse, refurbishment or disposal, as necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "9e7667f2-f4ad-4ed2-af2b-f3b6f84b4856",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "d0977665-ed9d-4717-8562-ca7b2f5f146a",
+        "11209117-0b08-41a8-9fff-d07ceb84c8ac",
+        "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
+        "cabbac8d-6df9-4ffb-ab62-bae88bd4e317",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "65288c10-6583-48e6-866c-05c7a33942e9"
+      ],
+      "criteriaForMeasuringPerformance": "Speed of response, adherence to specifications, quality of workmanship, accuracy of asset recording, technical ability, compliance with legislation/code of practice, achievement within agreed specific customer service levels, awareness of gas pressure systems and other lines on the system, safe handling of equipment, and knowledge of waste handling and transport regulations."
+    },
+    {
+      "dutyID": "9f6e35cf-d17c-4467-a502-74496621a54d",
+      "dutyDetail": "Conduct maintenance, servicing and repairs to drinks equipment ensuring continuity and quality of dispense, in line with brand owners’ specifications.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "eb05e312-722d-43a4-8b4b-d0cfb2d0a7d4",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b",
+        "4a233395-4bc8-45eb-805b-b78a49a8ba12",
+        "1115cd2d-3899-4d8a-ad85-2bc913aadb34"
+      ],
+      "mappedKnowledge": [
+        "0876402e-f4f5-48f0-8a7e-7c46205a392e",
+        "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "2e7a9741-5520-414d-859e-64cd869650d9",
+        "034da3dd-1aa1-40b2-a23a-5074b12ec0ed",
+        "7ad1882d-2ab8-4dd4-a16f-3b8a667d9353",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+        "c1dfd11f-662f-4f89-ae5d-70ec7a1337e1",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "83f735d0-f892-4129-a502-285a44a53843",
+        "28f0400e-ed6d-4845-aeff-0f3b57909af3",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+        "8118e87f-a6a0-4705-a999-6ad0b1c41095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
+        "cc60a69f-c963-4f56-9a1a-78e4809addb2",
+        "b3a144ce-e505-4d40-b21c-f5ce13c2d2cc",
+        "f93b81b1-7993-4cd0-ad1a-bb6ae8eca6da",
+        "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
+        "d0977665-ed9d-4717-8562-ca7b2f5f146a",
+        "c6097209-51b4-414f-a9ce-7a201a89a66b",
+        "2f7a0f29-4593-4cf1-8d91-d1f010ce25b1",
+        "6032ed4a-3bed-48f5-b31b-eaad916a4179",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "a286292d-264d-47d1-a7e6-53630298a9b4",
+        "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
+        "cabbac8d-6df9-4ffb-ab62-bae88bd4e317",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "65288c10-6583-48e6-866c-05c7a33942e9"
+      ],
+      "criteriaForMeasuringPerformance": "Speed of response, adherence to specifications, quality of workmanship, accuracy of asset recording, technical ability, compliance with legislation/code of practice, achievement within agreed specific customer service levels, accurate identification of faults on system and testing to ensure resolution of fault."
+    },
+    {
+      "dutyID": "df6577d8-c134-4c4d-8d3b-96ae29b00732",
+      "dutyDetail": "Provide information and guidance to key stakeholders and end-users of the system.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eb05e312-722d-43a4-8b4b-d0cfb2d0a7d4",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "0876402e-f4f5-48f0-8a7e-7c46205a392e",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "747cfd67-54c3-4ccc-af9e-279fe1b10828",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "4d900735-683e-443c-89f5-6ff6def23830"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
+        "191b36f2-6903-485a-b662-7ca658ac58ba",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "14187634-c50d-4633-bd12-4e2e78181dea"
+      ],
+      "criteriaForMeasuringPerformance": "Effective communications with customer, and ability to transfer technical expertise."
+    },
+    {
+      "dutyID": "8eab74b3-b145-4615-b980-fec43278194a",
+      "dutyDetail": "Build trusting relationships and offer excellent customer service to all key stakeholders; for example, Licensee, brewers, brand owner.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "0876402e-f4f5-48f0-8a7e-7c46205a392e",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "83f735d0-f892-4129-a502-285a44a53843",
+        "28f0400e-ed6d-4845-aeff-0f3b57909af3",
+        "8118e87f-a6a0-4705-a999-6ad0b1c41095"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "191b36f2-6903-485a-b662-7ca658ac58ba",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "14187634-c50d-4633-bd12-4e2e78181dea"
+      ],
+      "criteriaForMeasuringPerformance": "Effective communication with customer, customer relationship management, quality of customer service and customer satisfaction."
+    },
+    {
+      "dutyID": "8cdb2f46-ec04-4b9a-ae9f-d28ca9df7549",
+      "dutyDetail": "Complete documentation associated with the specified job and process or communicate in the correct manner/to the correct person; for example, complete of a job sheet.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb"
+      ],
+      "mappedKnowledge": [
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
+        "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
+        "b3a144ce-e505-4d40-b21c-f5ce13c2d2cc",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780",
+        "14187634-c50d-4633-bd12-4e2e78181dea"
+      ],
+      "criteriaForMeasuringPerformance": "Accuracy and speed in which data is recorded, up-to-date records held at all times, documentation returned to base in agreed time schedules."
+    },
+    {
+      "dutyID": "ecba48ff-61ae-40e1-9e9c-de79aff625c7",
+      "dutyDetail": "Plan daily tasks/schedule; for example, route planning; equipment and stock required, and carrying out of vehicle checks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "eb05e312-722d-43a4-8b4b-d0cfb2d0a7d4",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "24f3ac71-a74b-41ec-b5eb-87b7e374423f",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "508e0eba-0f77-451e-b268-57b3f92ce2c5",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+        "8118e87f-a6a0-4705-a999-6ad0b1c41095",
+        "ac754824-d184-4148-9c6b-443596036102"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "86e85302-eef3-4d88-8c1a-f693a9d243f6",
+        "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
+        "2f7a0f29-4593-4cf1-8d91-d1f010ce25b1",
+        "6032ed4a-3bed-48f5-b31b-eaad916a4179",
+        "f194f6ee-edca-40ea-8848-6c242a8f9e67"
+      ],
+      "criteriaForMeasuringPerformance": "Effective time management strategy, achievement of customer service levels, productive number of tasks achieved and the amount of emergency stock orders placed, accommodation of unforeseen changes to a specified plan."
+    },
+    {
+      "dutyID": "cadb882f-b0e3-4017-943c-8ec802a02735",
+      "dutyDetail": "Monitor and manage product and equipment, maintaining and promoting the quality of dispensed products; for example, destruction of unsaleable product.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b"
+      ],
+      "mappedKnowledge": [
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "24f3ac71-a74b-41ec-b5eb-87b7e374423f",
+        "6a664a7b-ec90-4004-b6fd-6cb5858668a7",
+        "747cfd67-54c3-4ccc-af9e-279fe1b10828",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
+        "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "ef207520-5330-4fd7-bfd8-7e613dc28e65"
+      ],
+      "criteriaForMeasuringPerformance": "Adherence to technical specifications, knowledge of product types, technical ability, and compliance with legislation/code of practice."
+    },
+    {
+      "dutyID": "8c3078c0-3b5f-4a26-83f0-db657ef92f69",
+      "dutyDetail": "Maintain product lines - removing foreign bodies and ensuring the quality of the product e.g. COSHH, PPE.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f6ccb52-326b-44e1-bda6-2566896a6792",
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b",
+        "4a233395-4bc8-45eb-805b-b78a49a8ba12"
+      ],
+      "mappedKnowledge": [
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "747cfd67-54c3-4ccc-af9e-279fe1b10828",
+        "607ab21e-b171-4fe9-b248-b395fb6fe8c8",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
+        "c6097209-51b4-414f-a9ce-7a201a89a66b",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "a286292d-264d-47d1-a7e6-53630298a9b4",
+        "ef207520-5330-4fd7-bfd8-7e613dc28e65",
+        "14187634-c50d-4633-bd12-4e2e78181dea",
+        "65288c10-6583-48e6-866c-05c7a33942e9"
+      ],
+      "criteriaForMeasuringPerformance": "Adherence to specifications, technical ability and compliance with legislation/code of practice, ensure safety of end-users and customers, by testing product lines after cleaning."
+    },
+    {
+      "dutyID": "1c2dbac2-b46f-48bf-ac1c-1d6ff46926ff",
+      "dutyDetail": "Keep an accurate record and control of company assets in transit and within the customer’s premises; for example, equipment, tools and vehicle.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d8b75165-6966-434b-b283-a0985881d3cc",
+        "cb92850c-cea0-4cc5-bd49-52fd93f11154",
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "5b4d0329-9944-4085-b6b3-c4ed7e7e3ca0",
+        "24f3ac71-a74b-41ec-b5eb-87b7e374423f",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
+        "ac754824-d184-4148-9c6b-443596036102"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
+        "ef207520-5330-4fd7-bfd8-7e613dc28e65",
+        "b7359c8c-7b31-482a-a5e6-67c8b0ccf13b",
+        "f194f6ee-edca-40ea-8848-6c242a8f9e67",
+        "a74e6b45-9139-43eb-8da1-89c98bedc780"
+      ],
+      "criteriaForMeasuringPerformance": "Accuracy of stock control records (including van stock), amount of emergency stock orders placed, stock reconciliation, upkeep of vehicle."
+    },
+    {
+      "dutyID": "7dc9ee0f-4f4b-4389-a114-5bf1427317a5",
+      "dutyDetail": "Test equipment and product, train the end user and complete documentation for handover to customer.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d018cf8e-6457-4e27-9c8c-5fe0da8fbaeb",
+        "8a1fab8a-f503-4328-b0d1-2694188cb62b",
+        "4a233395-4bc8-45eb-805b-b78a49a8ba12"
+      ],
+      "mappedKnowledge": [
+        "f8fd50ce-133f-4cfe-af19-fbd6e8af13b5",
+        "b7cf0fe9-4e97-4dba-9cdd-5dd0b8e1947c",
+        "804cf4d6-afd0-498e-bbde-f54214c0fc0b",
+        "c1dfd11f-662f-4f89-ae5d-70ec7a1337e1",
+        "ea60e71b-9c4c-4adb-9fa6-d3b4f14f77bf",
+        "7de2b06a-1578-40ec-9251-d277fc204544",
+        "4d900735-683e-443c-89f5-6ff6def23830",
+        "daf255d4-f441-4b8c-98e1-a2d02eb19098",
+        "790afb5e-e929-4cfa-b54b-237c0d898d82"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
+        "c6097209-51b4-414f-a9ce-7a201a89a66b",
+        "6032ed4a-3bed-48f5-b31b-eaad916a4179",
+        "f7a31079-cd48-4f79-a8dd-43a2437c37b6",
+        "14187634-c50d-4633-bd12-4e2e78181dea"
+      ],
+      "criteriaForMeasuringPerformance": "Technical ability and effective communication with the customer, knowledge of product, accuracy of product specification, handover documents completed and returned quickly and effectively."
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-12-13T00:00:00"
+}
