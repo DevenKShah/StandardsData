@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 456,
   "referenceNumber": "ST0752",
+  "learningAimClassCode": "",
   "title": "Drinks dispense technician",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/456",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0752",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-03-12T00:00:00",
   "earliestStartDate": "2019-05-13T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-03-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Installing and maintaining drinks dispense systems.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "engineering",
@@ -35,12 +41,11 @@
     "coding"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3434/st0752_drinks_dispense_technician_l3_ap_for_publication_30082019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3434/st0752_drinks_dispense_technician_l3_ap_for_publication_30082019.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector working in the hospitality, retail, leisure and catering industries, in a variety of venues that serve soft-drinks and/or alcoholic beverages to the public on a daily basis, including public houses, bars, clubs, retail outlets, leisure centres, hotels, festivals/events, clubs, schools, cinemas, theatres, stadiums and many more. Drinks dispense technicians may work directly for a brand owner or brewery, or contractors that provide engineering services work on their behalf.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is responsibility for the installation and maintenance of drinks dispense systems. The aim is to build, install, maintain and repair complex drinks dispensing equipment to ensure that their customer can, in turn, deliver drinks of the right specification and quality to their customers. Some drinks dispense technicians will specialise in certain types of drinks and/or brands, whilst others will work across a wide spectrum, for example beer, wine, cider, nitrogenated coffee and soft-drinks. The role involves the application of a broad range of knowledge and skills; including fault-finding, plumbing, electrical, refrigeration, gas pressure systems and pipework. Tasks are often complex and non-routine requiring the technician to identify and initiate the appropriate solution; problem solving, use of diagnostic skills and own initiative will be needed to address out of specification issues that may be encountered. An essential part of the role is informing, educating and providing guidance to the customer in equipment use, beverage quality and delivery of the perfect pour. Product sampling may be required. Depending on the work required, they may spend the day at one venue or working across a number of outlets, working to deadlines. It will often involve working in confined spaces, such as a cellar. They may be working on the dispense system as a whole, or on certain parts, such as the python (pipework composite encompassing capacity for multiple product lines and temperature control), coolers or dispense fonts. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with venue staff for example managers, service staff and site security; other drinks dispense Technicians; colleagues, for example operations managers, call centre staff, quality managers and logistics managers; and members of the public. Technicians will self-manage work load and flow and will typically report to a Technical Manager. Depending on the size of the project Technicians may have responsibility for leading and supervising a team of Technicians. When working on new builds/renovations, they may interact with site supervisors and other trades for example plumbers and electricians. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for planning tasks and the resources required in response to schedules, ensuring the quality and accuracy of work carried out. They have the authority to determine the action required in relation to the drinks dispense system in a venue; including shut down. They will need to make informed judgements and decisions, taking account of the situation. They work autonomously, responsible for adhering to health &amp;amp; safety, current legislation, asbestos guidelines, working at height regulations and British Beer and Pub Association and British Soft Drinks Association Codes of Practice. They are responsible for asset management, including vehicle, tools, specialist equipment and devices. Typically, a driving licence will be required as they may be expected to drive to their place of work, using a company vehicle, and coordinate logistics for other technicians.&lt;/p&gt;",
   "knowledges": [
     {
@@ -284,25 +289,28 @@
       "detail": "Conduct all duties in adherence with health and safety directives and environmental policy and procedures."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0151",
-  "tbMainContact": "rachel.mcdonald@innserveltd.com Joanne.Bradford@marstons.co.uk",
+  "tbMainContact": "rachel.mcdonald@innserveltd.com",
   "involvedEmployers": "AB InBev, Asahi UK, Atlantic, Avani, BevEx/L’Isolante K-Flex, BRAINS Independent Family Brewers, Brewfitt, Britvic, Carlsberg, City Dispense, CML Technical Services, Durr Technik, Frederic Robinsons, Fuller, Smith & Turner, Green King, Heineken, Innserve (Co-chair), John Guest, Marston's (Co-chair), Molson Coors, Mitie, Shepherd Neame, T&J Install, Three Nations, VIMTO",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -317,14 +325,20 @@
     "Field service technician",
     "coding"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2019-12-23T12:45:49 +00:00",
-  "lastUpdated": "2019-12-23T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/drinks-dispense-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/drinks-dispense-technician-v1-0",
+  "lastUpdated": "2024-03-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0752",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0752-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0752-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -346,7 +360,7 @@
         "508e0eba-0f77-451e-b268-57b3f92ce2c5",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
@@ -392,7 +406,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
@@ -436,7 +450,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "191b36f2-6903-485a-b662-7ca658ac58ba",
@@ -468,7 +482,7 @@
         "790afb5e-e929-4cfa-b54b-237c0d898d82",
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "d0977665-ed9d-4717-8562-ca7b2f5f146a",
@@ -516,7 +530,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
@@ -555,7 +569,7 @@
         "7de2b06a-1578-40ec-9251-d277fc204544",
         "4d900735-683e-443c-89f5-6ff6def23830"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
         "191b36f2-6903-485a-b662-7ca658ac58ba",
@@ -582,7 +596,7 @@
         "28f0400e-ed6d-4845-aeff-0f3b57909af3",
         "8118e87f-a6a0-4705-a999-6ad0b1c41095"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "191b36f2-6903-485a-b662-7ca658ac58ba",
         "a74e6b45-9139-43eb-8da1-89c98bedc780",
@@ -606,7 +620,7 @@
         "790afb5e-e929-4cfa-b54b-237c0d898d82",
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "b27bd8d4-b7f9-45d8-bd0d-2bbc9255b12c",
@@ -639,7 +653,7 @@
         "8118e87f-a6a0-4705-a999-6ad0b1c41095",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "86e85302-eef3-4d88-8c1a-f693a9d243f6",
         "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
@@ -669,7 +683,7 @@
         "7de2b06a-1578-40ec-9251-d277fc204544",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5c619904-b754-4aa7-bceb-2f77a05cc4b8",
         "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
@@ -697,7 +711,7 @@
         "4d900735-683e-443c-89f5-6ff6def23830",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e1ab5fc1-6783-40cf-b64b-1a399e81c2ff",
         "c6097209-51b4-414f-a9ce-7a201a89a66b",
@@ -726,7 +740,7 @@
         "52ab4d2f-1e13-4e81-8ef5-0459727270ce",
         "ac754824-d184-4148-9c6b-443596036102"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "06441b1f-d49b-4ed1-98b8-c95ebf6f8ad6",
         "ef207520-5330-4fd7-bfd8-7e613dc28e65",
@@ -756,7 +770,7 @@
         "daf255d4-f441-4b8c-98e1-a2d02eb19098",
         "790afb5e-e929-4cfa-b54b-237c0d898d82"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e8d3689c-75b8-48c0-8a75-13d34f6c0620",
         "c6097209-51b4-414f-a9ce-7a201a89a66b",
@@ -767,5 +781,10 @@
       "criteriaForMeasuringPerformance": "Technical ability and effective communication with the customer, knowledge of product, accuracy of product specification, handover documents completed and returned quickly and effectively."
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-03-12T00:00:00"
 }
