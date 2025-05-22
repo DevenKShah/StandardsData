@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 499,
   "referenceNumber": "ST0740",
+  "learningAimClassCode": "",
   "title": "Through life engineering services specialist (integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/499",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0740",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2021-12-09T00:00:00",
   "earliestStartDate": "2019-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop and deliver the support services that keep engineered assets working better and for longer.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "business",
@@ -35,13 +41,12 @@
     "Maintenance specialist"
   ],
   "entryRequirements": "&lt;p&gt;typically a Degree in a science, engineering, business or management discipline (2:1 or higher), or a minimum of two years relevant practical experience in a TES related area and/or industrial or other professional body qualifications.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3427/st0740_-through-life-engineering-services-specialist_l7_ap-for-publication_160819_.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3427/st0740_-through-life-engineering-services-specialist_l7_ap-for-publication_160819_.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "5235 - Aircraft maintenance and related trades - note - there is no occupational code that appropriately aligns with this occupation.",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector, working in industries where there is a strong dependency on long life, high reliability assets, with high support costs such as aerospace, defence, space, machine tools, transportation and built environment (buildings and infrastructure) etc. Assets may include helicopters, aircraft, engines, trains, ships, buildings etc. This occupation is found within asset manufacturers, asset support providers and asset user organisations.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to develop and deliver the support services that keep engineered assets working better, for longer at lower net cost of ownership. These services include asset design optimisation and upgrade, maintenance planning and provisioning, operational health monitoring, installed maintenance (reactive and preventative), fault finding and isolation, installation and removal, inspection, overhaul and repair, safety testing and ongoing safety compliance assurance, transportation, spares provisioning, support resource logistics and decommissioning TES-Specialists will undertake activity that spans the full scope of TES as defined in BSI publication PAS-280. This includes:&lt;/p&gt;\r\n&lt;p&gt;1) innovation of business strategy, proposals and commercial arrangements for viable TES offerings&lt;/p&gt;\r\n&lt;p&gt;2) creation and implementation of engineering services spanning avoidance of asset wear and tear, containment of operational impacts from asset deterioration, recovery of asset performance, health and useful life (maintenance and repair) and operational optimisation based upon asset performance monitoring&lt;/p&gt;\r\n&lt;p&gt;3) implementation and operation of the engineering support services created in 2) and&lt;/p&gt;\r\n&lt;p&gt;4) eventual retirement of those services.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with asset designers, manufacturers, owners (e.g. leasing companies), regulators, users and maintainers to deliver effective and commercially viable support services, ensuring safe, available, reliable and affordable long term asset operation. They may be office based, providing remote technical support, factory based providing operational maintenance services or customer based providing technical or physical services at the assets location.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for leading, coaching or supporting teams in the development, implementation and operation of complex engineering services. Developing and selling business cases for diverse stakeholders within supplier, integrator and customer organisations. Negotiating and managing budgets and resources. Technically leading programmes of work. Managing regulatory compliance including safety accountability.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering sector, working in industries where there is a strong dependency on long life, high reliability assets, with high support costs such as aerospace, defence, space, machine tools, transportation and built environment (buildings and infrastructure) etc. Assets may include helicopters, aircraft, engines, trains, ships, buildings etc. This occupation is found within asset manufacturers, asset support providers and asset user organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to develop and deliver the support services that keep engineered assets working better, for longer at lower net cost of ownership. These services include asset design optimisation and upgrade, maintenance planning and provisioning, operational health monitoring, installed maintenance (reactive and preventative), fault finding and isolation, installation and removal, inspection, overhaul and repair, safety testing and ongoing safety compliance assurance, transportation, spares provisioning, support resource logistics and decommissioning TES-Specialists will undertake activity that spans the full scope of TES as defined in BSI publication PAS-280. This includes:&lt;/p&gt;\n&lt;p&gt;1) innovation of business strategy, proposals and commercial arrangements for viable TES offerings&lt;/p&gt;\n&lt;p&gt;2) creation and implementation of engineering services spanning avoidance of asset wear and tear, containment of operational impacts from asset deterioration, recovery of asset performance, health and useful life (maintenance and repair) and operational optimisation based upon asset performance monitoring&lt;/p&gt;\n&lt;p&gt;3) implementation and operation of the engineering support services created in 2) and&lt;/p&gt;\n&lt;p&gt;4) eventual retirement of those services.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with asset designers, manufacturers, owners (e.g. leasing companies), regulators, users and maintainers to deliver effective and commercially viable support services, ensuring safe, available, reliable and affordable long term asset operation. They may be office based, providing remote technical support, factory based providing operational maintenance services or customer based providing technical or physical services at the assets location.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for leading, coaching or supporting teams in the development, implementation and operation of complex engineering services. Developing and selling business cases for diverse stakeholders within supplier, integrator and customer organisations. Negotiating and managing budgets and resources. Technically leading programmes of work. Managing regulatory compliance including safety accountability.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "a7e88782-01fe-4f1d-af33-3708e8ce3ed3",
@@ -196,25 +201,28 @@
       "detail": "Service change Management: plan and execute a programme of change within a complex service delivery system."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-08-21T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0350 ",
   "tbMainContact": "Andrew.Harrison@Rolls-Royce.com",
   "involvedEmployers": "Rolls-Royce, BAE Systems, Leonardo, Bombardier Transportation (rail), Babcock International Group, Strategy2Results, Si2Partners, UV Light Technology Limited, Ishida Europe, NICKLIN Transit Packaging, BAE Systems, IMechE, GAMBICA, HVM Catapult Centres, Lloyds Banking Group, MOD - Ministry of Defence",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -230,34 +238,42 @@
     "Life cycle engineer",
     "Maintenance specialist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Quality Improvement, Health & Safety Professional",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement, health and safety professional",
+  "clusterId": "257",
+  "clusterDescription": "Direct and manage overall product and process integrity and quality, and the health and safety of a whole workplace",
   "createdDate": "2019-12-23T12:06:14 +00:00",
-  "lastUpdated": "2019-12-23T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/through-life-engineering-services-specialist-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/through-life-engineering-services-specialist-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-12-09T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-08-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0740",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0740-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0740-v1-0",
   "qualifications": [
     {
       "qualificationId": "2d892210-d6d1-464e-ac1c-74990ddf4ef2",
       "title": "Through-Life Engineering Services Masters",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
-      "bodyName": "The Institution of Mechanical Engineers ",
-      "level": "0",
-      "isPartial": "",
-      "partialFreeText": ""
+      "bodyName": "The Institution of Engineering and Technology",
+      "level": "Chartered Engineer (CEng)",
+      "isPartial": "partial",
+      "partialFreeText": "The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for registration at this level."
     },
     {
-      "bodyName": "The Institution of Engineering and Technology",
-      "level": "0",
-      "isPartial": "",
-      "partialFreeText": ""
+      "bodyName": "The Institution of Mechanical Engineers",
+      "level": "Chartered Engineer (CEng)",
+      "isPartial": "partial",
+      "partialFreeText": "The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for registration at this level."
     }
   ],
   "duties": [
@@ -283,7 +299,7 @@
         "d648f735-8122-4885-90c3-479cf941566c",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -316,7 +332,7 @@
         "fe458e9c-0978-4a29-9b02-0e7a177caad9",
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -348,7 +364,7 @@
         "edb73b02-7130-4c7b-bc42-0331e3bc0cd8",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "3d57c8c5-9738-4b6b-834a-de488cb0c29e",
@@ -379,7 +395,7 @@
         "edb73b02-7130-4c7b-bc42-0331e3bc0cd8",
         "bbc68f08-71e9-4b85-a928-c4c2da39433c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "18905ce9-b6fb-4559-95a8-ff73b78a4fff",
@@ -407,7 +423,7 @@
         "6f9cfcb8-93b0-4820-a915-5167f5a0c081",
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -434,7 +450,7 @@
         "6f9cfcb8-93b0-4820-a915-5167f5a0c081",
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -465,7 +481,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b974c4d-c1b8-4771-82b0-053cb8e5c5dc",
         "1883ae53-ca7d-4302-a617-8c1afbe7a6ab",
@@ -495,7 +511,7 @@
         "fe458e9c-0978-4a29-9b02-0e7a177caad9",
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "18905ce9-b6fb-4559-95a8-ff73b78a4fff",
         "9dbf4fc0-cc0f-45e2-8d51-1748aacf8429",
@@ -539,7 +555,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -573,7 +589,7 @@
         "ae8dfc3e-0a97-408e-8bf2-14c3ab8cf2a6",
         "517426b9-8781-472c-bdd6-eb4153c057f9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9dbf4fc0-cc0f-45e2-8d51-1748aacf8429",
         "1883ae53-ca7d-4302-a617-8c1afbe7a6ab",
@@ -609,7 +625,7 @@
         "e92caa10-7071-45a5-90ad-d383f6d3295c",
         "fe458e9c-0978-4a29-9b02-0e7a177caad9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c3e35f7d-1217-4526-a746-00f7d5438672",
         "3d57c8c5-9738-4b6b-834a-de488cb0c29e",
@@ -635,7 +651,7 @@
         "03df82b7-d468-43c7-ba8e-842441333959",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -682,7 +698,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -731,7 +747,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -780,7 +796,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6f3bd478-18a3-41aa-a397-ec0c656c55f2",
         "6071bc60-8e8d-480a-88da-d19226018209",
@@ -829,8 +845,8 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
-      "mappedSkills": null,
+      "mappedOptions": [],
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": "Delivery performance: cost of support"
     },
     {
@@ -861,7 +877,7 @@
         "2cfdae6a-4f9d-4834-88fa-1bb1f6513b2a",
         "b9ac0b5e-9af8-4232-9b4e-94c2d1445bb3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6071bc60-8e8d-480a-88da-d19226018209",
         "c3e35f7d-1217-4526-a746-00f7d5438672",
@@ -873,5 +889,10 @@
       "criteriaForMeasuringPerformance": "Timeliness of capability, robustness of capability, cost effectiveness of capability"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-12-09T00:00:00"
 }
