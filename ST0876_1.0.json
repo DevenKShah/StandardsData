@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 593,
   "referenceNumber": "ST0876",
+  "learningAimClassCode": "",
   "title": "Water process operative",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/593",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0876",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-30T00:00:00",
+  "changedDate": "2023-02-15T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Carry out operations in a clean water or waste water treatment facility to ensure water safety.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Water process operative",
@@ -36,12 +42,11 @@
     "Sewage operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4309/st0876_water_process_operative_l2-_epa-plan_for-publication_270520.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7385/st0876_water_process_operative_l2-_epa-plan_publication-adj-_22072021em.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "8126 - Water and sewerage plant operatives",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the water industry, in clean water and waste water treatment. Water treatment operatives work for clean water and/or waste water treatment companies regulated by OFWAT - Office of Water Services (UK government), all of which are large organisations. Operatives typically work in only one type of water treatment. &lt;br /&gt;&lt;br /&gt;This is a core and options apprenticeship standard. Apprentices will complete the core requirements, plus one option: &lt;br /&gt;1. Clean water process operative. &lt;br /&gt;2. Waste water process operative.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is is to carry out operations in a clean water or waste water treatment facility to ensure water safety. In both environments they operate treatment work assets and take, monitor, record and interpret water samples to ensure treatment processes are working effectively. To support treatment processes, they receive and store chemical deliveries, assess and optimise energy on site and carry out site checks for safety, security and productivity purposes, reporting any faults, issues and concerns that need escalation. In waste water they are focused on safe effluent discharge and in clean water for maintaining water quality and hygiene standards.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues such as managers, water process technicians, engineers, maintenance engineer’s, delivery drivers, contractors, other treatment operatives and customers (internal/external). They may work as part of a small or large team, depending on the scale of the treatment facility. They will typically work under the supervision of a treatment works manager or senior water process technician. They will typically spend their time in a clean water or waste water treatment works.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring health and safety, and regulatory compliance, for example DWI (Drinking Water Inspectorate) and EA (Environment Agency); failure to do so could have serious consequences for self, public health and the environment. Ensuring optimisation of the treatment processes, balancing water quality against cost (energy and chemical usage). &lt;br /&gt;&lt;br /&gt;Recording daily activities and work completed for example, completion of the daily plant log. They are responsible for the safety and well-being of themselves, reporting site security and safety concerns in line with company procedures and demonstrating the expected behaviours of their organisation.&lt;br /&gt;&lt;br /&gt;Water treatment operatives must have a valid National Water Hygiene (Blue) card.&lt;/p&gt;",
   "knowledges": [
     {
@@ -317,34 +322,28 @@
       "detail": "Waste water. Apply waste water treatment processes."
     }
   ],
-  "options": [
-    {
-      "optionId": "4fc2cb5c-9fd8-4a6f-93b2-b3eb62fa93b2",
-      "title": "Clean water process operative"
-    },
-    {
-      "optionId": "35d3514e-1d48-403b-9e0c-8b6b75b027ca",
-      "title": "Waste water process operative"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-08-24T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0469",
-  "tbMainContact": "Amy.Barber@severntrent.co.uk ",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
   "involvedEmployers": "Affinity Water, Northumbrian Water Ltd, Severn Trent, Southern Water, South West Water, Sutton and East Surrey Water, Thames Water, United Utilities, Wessex Water, Yorkshire Water",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -360,14 +359,20 @@
     "Waste water process technician",
     "Sewage operative"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Quality Improvement and Project Control Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control technician",
+  "clusterId": "256",
+  "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2020-06-05T10:52:18 +00:00",
-  "lastUpdated": "2020-06-09T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-process-operative-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/water-process-operative-v1-0",
+  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0876",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0876-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0876-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -391,7 +396,7 @@
         "3f833a04-c47d-4a7a-9a73-176046de858b",
         "ebbe1045-9ea2-4c91-88a9-2ce8398454c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -422,7 +427,7 @@
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "a0155102-0b84-4ac1-9ebc-a9acb91f1bbe",
@@ -452,7 +457,7 @@
         "7440bce2-a49e-4174-9c53-f4a7df698748",
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -485,7 +490,7 @@
         "ebbe1045-9ea2-4c91-88a9-2ce8398454c5",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -518,7 +523,7 @@
         "e39ca7ae-2162-4aca-8cda-81e81d0fe223",
         "97729fb9-0903-49be-9f1b-aa652be1366e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -549,7 +554,7 @@
         "e1df1665-9dda-41d8-804e-dd6fce33c02e",
         "1f611297-3049-46f1-a1e9-7a4cd6dcd1de"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -581,7 +586,7 @@
         "751d6646-0528-4763-850d-2387c7dce3e6",
         "f5b5d261-f7c7-4027-a8ce-d34798f55d01"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f9d4f2b5-a328-42f6-b3f7-af0ab10bb23f",
         "e0e39789-2ef7-44a9-9af8-9a4ea6534d50",
@@ -874,5 +879,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "4fc2cb5c-9fd8-4a6f-93b2-b3eb62fa93b2",
+      "title": "Clean water process operative",
+      "occupationCode": "OCC0876A"
+    },
+    {
+      "optionId": "35d3514e-1d48-403b-9e0c-8b6b75b027ca",
+      "title": "Waste water process operative",
+      "occupationCode": "OCC0876B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-02-15T00:00:00"
 }
