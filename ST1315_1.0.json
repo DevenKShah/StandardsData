@@ -1,0 +1,846 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 762,
+  "referenceNumber": "ST1315",
+  "learningAimClassCode": "",
+  "title": "Aircraft maintenance technician",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1315",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-12-03T00:00:00",
+  "earliestStartDate": "2024-05-31T00:00:00",
+  "latestStartDate": "2024-12-02T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "To maintain and certify aircraft.",
+  "level": 3,
+  "ePALength": 3,
+  "typicalDuration": 36,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "aircraft maintenance technician",
+    "aircraft",
+    "certify",
+    "engineering",
+    "flight"
+  ],
+  "jobRoles": [
+    "Aircraft maintenance fitter",
+    "Aircraft maintenance technician (cat a licence certifying technician)",
+    "Aircraft mechanic",
+    "Aircraft weapons technician (military)",
+    "Aircraft workshop avionics fitter",
+    "Aircraft workshop mechanical fitter",
+    "Avionics components fitter",
+    "Avionics components technician",
+    "Mechanical components fitter",
+    "Mechanical components technician"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set the recruitment and selection criteria for their Apprenticeships. In order to optimise success, candidates will typically have 4 GCSEs at Grade C or at Grade 4 or equivalent, including mathematics, English and a science.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1315-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Aircraft maintenance technicians work in the civil and military engineering sector in the aviation industry. Aircraft maintenance is required to ensure the continuing airworthiness of an aircraft or aircraft component. Aircraft include small aeroplanes, airliners, jet fighters, helicopters, and other air vehicles. The sector is highly regulated, to ensure the safe and correct functioning of the aircraft. Employers range in size from small to large and include small airfield maintenance operators, large international commercial airlines, aircraft manufacturers and the military.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians maintain and certify aircraft. They check, repair, and modify mechanical, electrical and electronic aircraft components and systems. They conduct safety checks and select aircraft technical logs and work schedule information. They select and check tools and equipment to carry out aircraft component inspection. They perform scheduled and unscheduled maintenance. They rectify faults and communicate work carried out with stakeholders. They complete documentation, handover work and reinstate the work area. They may be required to work shifts, to work at height and in confined spaces. They may work in a range of environments including hangars, outdoors and workshops. They may be required to hold an Aircraft Maintenance Licence. Licences are issued by the Civil Aviation Authority (CAA), European Union Aviation Safety Agency (EASA) or Military equivalent.&lt;/p&gt;\n&lt;p&gt;Aircraft maintenance technicians interact with flight crew, cabin crew, customers, and engineering colleagues. They typically report to shift leaders, supervisors, or managers.&lt;/p&gt;\n&lt;p&gt;They are responsible for complying with civil and or military regulations. They must also meet organisational requirements. Work must comply with health, safety, environmental and sustainability rules and regulations. They must wear personal protective equipment. They must ensure the health and safety of themselves, their colleagues, and customers. They must complete tasks within defined timescales. They must work professionally and responsibly. They may be required to work on their own or as part of a team.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ec2cd7b9-b1a4-483c-96e2-a9975a7e510f",
+      "detail": "Awareness of health and safety regulations, standards, and guidance - their purpose and impact on role: Control of Substances Hazardous to Health (COSHH), good housekeeping, Health and Safety at work Act, manual handling, Personal Protective Equipment (PPE), risk assessments, Reporting of Injuries, Diseases, and Dangerous Occurrences Regulations (RIDDOR), safe systems of work, types of hazards. "
+    },
+    {
+      "knowledgeId": "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+      "detail": "Responsibilities of technician's role including near miss reporting and working at height procedures."
+    },
+    {
+      "knowledgeId": "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+      "detail": "Standard operating procedures (SOPs). What they are and why they are important."
+    },
+    {
+      "knowledgeId": "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+      "detail": "Engineering maintenance report of occurrences: processes and procedures for reporting and addressing unexpected issues. "
+    },
+    {
+      "knowledgeId": "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+      "detail": "Maintenance activities: approved methods and practices for aircraft and aircraft components."
+    },
+    {
+      "knowledgeId": "6a95baf7-dc1a-411b-b784-9dbc7e1e5a7c",
+      "detail": "Aircraft maintenance strategies and practices: planned, preventative and reactive methods and their frequency. "
+    },
+    {
+      "knowledgeId": "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+      "detail": "Aircraft visuals and symbols in the workplace."
+    },
+    {
+      "knowledgeId": "f1800e87-2ea1-4a02-a845-da02e276af84",
+      "detail": "Principles of aircraft systems. "
+    },
+    {
+      "knowledgeId": "1a03c77a-5814-487e-9b6c-059ecd6c9702",
+      "detail": "Properties and characteristics of aircraft materials."
+    },
+    {
+      "knowledgeId": "2fc8d216-584c-48db-88dd-4910a8f75906",
+      "detail": "Preparatory consideration for maintenance activity."
+    },
+    {
+      "knowledgeId": "db7e57a5-ff80-44ff-bc82-bc72d433eee0",
+      "detail": "Tools and equipment: types of tools and equipment, tool control. Calibrated equipment requirements including calibration certificates."
+    },
+    {
+      "knowledgeId": "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+      "detail": "Aircraft maintenance consumables: types of consumables, properties, characteristics, and impact of their use."
+    },
+    {
+      "knowledgeId": "a2583689-ec3b-429a-80e5-f352be0449ad",
+      "detail": "Operational considerations and impact of aircraft maintenance on the organisation or operation."
+    },
+    {
+      "knowledgeId": "9bf60430-c0f6-4566-9da3-6aa053d987c1",
+      "detail": "Aircraft maintenance environment: interdependencies and function between regulators and different teams, limits of responsibility and autonomy with the associated reporting channels."
+    },
+    {
+      "knowledgeId": "f2fb6115-a205-4b64-a100-e1130bc8463a",
+      "detail": "Engineering mathematical techniques and principles: calculations, conversions, graphical expressions, symbols, and formulae."
+    },
+    {
+      "knowledgeId": "29465671-5ab0-4536-9ce0-d9bba2353299",
+      "detail": "Problem solving principles: define the problem, collect evidence, analyse evidence, determine the cause and the maintenance activity. "
+    },
+    {
+      "knowledgeId": "ccb732b7-23e9-4315-88ba-d0e9ddbf4bc1",
+      "detail": "Written communication techniques. Aircraft maintenance engineering terminology. "
+    },
+    {
+      "knowledgeId": "cba6fb64-6e22-4759-8677-10467e5b609b",
+      "detail": "Documentation requirements: records, electronic or paper. "
+    },
+    {
+      "knowledgeId": "63874ff5-b534-4e3e-b646-30928249a2dc",
+      "detail": "Information technology: Management Information Systems (MIS), spreadsheets, presentation, word processing, email, virtual communication. General Data Protection Regulation (GDPR). Cyber security. "
+    },
+    {
+      "knowledgeId": "f9412add-85d3-4b60-b0cc-1fcc79c0af2e",
+      "detail": "Awareness of digital technologies and information systems: connected technologies in the aviation industry."
+    },
+    {
+      "knowledgeId": "c3742051-46a2-46df-a172-a3f148d78ca5",
+      "detail": "Verbal communication techniques: giving and receiving information, matching style to audience, barriers in communication and how to overcome them."
+    },
+    {
+      "knowledgeId": "52350092-268b-4819-8dc6-6eef56542b8f",
+      "detail": "Awareness of environmental and sustainability regulations, standards, and guidance:  Environmental Protection Act, sustainability, recyclable materials and waste disposal procedures. Climate change agreements. Carbon Reduction Commitment (CRC)."
+    },
+    {
+      "knowledgeId": "5a82b27d-adfd-4495-84e1-e909032f0ce6",
+      "detail": "The Equality Act: requirements and impact on organisation. Principles of equity, diversity, and inclusion in the workplace and their impact on organisations or stakeholders. Unconscious bias."
+    },
+    {
+      "knowledgeId": "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+      "detail": "Human factors: importance and potential consequences, features and limitations of human performance, factors affecting human performance."
+    },
+    {
+      "knowledgeId": "94ee4191-34d7-4f69-adc1-8513c673e88e",
+      "detail": "Workplace training and development activities: continual professional development."
+    },
+    {
+      "knowledgeId": "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+      "detail": "Quality assurance principles and practice."
+    },
+    {
+      "knowledgeId": "70c01965-3efa-4fe9-959d-396285b1d999",
+      "detail": "Team working principles: team integration, collaborative team working."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "76e339a9-52fc-4658-9794-ceb14f2dde06",
+      "detail": "Prioritise health and safety, flight safety and consider human factors."
+    },
+    {
+      "behaviourId": "bba3dd0b-e778-4961-af16-499b1d5ee807",
+      "detail": "Collaborate within teams, across disciplines and external stakeholders."
+    },
+    {
+      "behaviourId": "f247c5a9-0549-47aa-945f-f1c225faa02d",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "fb7db8b9-0890-4691-973c-dfbac2313e46",
+      "detail": "Committed to continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "behaviourId": "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+      "detail": "Takes responsibility for their own work."
+    },
+    {
+      "behaviourId": "a9914aeb-890f-4725-8832-df6dd3adc846",
+      "detail": "Consider the environment and sustainability."
+    },
+    {
+      "behaviourId": "21b44bad-deb8-4bf8-b265-661ea40eb3c1",
+      "detail": "Support a diverse and inclusive culture."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "154196a2-1a95-4125-bd4c-626ceeb23760",
+      "detail": "Collect and interpret information or data to perform maintenance tasks."
+    },
+    {
+      "skillId": "7aa080d0-cc4c-4b4b-ac53-37537fe3d239",
+      "detail": "Record or enter information: paper based or electronic. For example, job sheets, risk assessments, equipment service records, test results, handover documents and manufacturers' documentation, asset management records, work sheets, checklists, waste environmental records and any reporting requirements."
+    },
+    {
+      "skillId": "a58b896e-29c4-46bb-992b-8eb8743c8223",
+      "detail": "Comply with health and safety regulations and procedures. Apply safe systems of work. For example, risk assessments, COSHH, tool control and use of equipment and tools.  "
+    },
+    {
+      "skillId": "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+      "detail": "Identify problems, collect evidence, analyse evidence, and determine the cause and maintenance activity required."
+    },
+    {
+      "skillId": "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+      "detail": "Plan, organise and use resources to complete tasks."
+    },
+    {
+      "skillId": "1711ca09-4541-469e-8cd9-c9fc5c970257",
+      "detail": "Follow instructions. For example, manufacturers and maintenance procedures."
+    },
+    {
+      "skillId": "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+      "detail": "Follow standard operating procedures (SOPs)."
+    },
+    {
+      "skillId": "49f6946e-fa11-466b-bf66-247133ccb2f0",
+      "detail": "Apply mathematical techniques and engineering principles to solve engineering problems. "
+    },
+    {
+      "skillId": "cfb1da6c-41ae-43cf-9ab6-e2e405cda8c6",
+      "detail": "Apply maintenance methods and practices. For example, remove, refit, replace, repair, systems or components."
+    },
+    {
+      "skillId": "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+      "detail": "Test and check aircraft equipment or aircraft systems. For example, built in test equipment, flight control systems, line replacement units or items."
+    },
+    {
+      "skillId": "d1f94e28-7aae-4442-be33-d243aa1125d9",
+      "detail": "Assess condition of aircraft components and aircraft equipment. Identify action required. For example, visual inspections."
+    },
+    {
+      "skillId": "f62fa23b-40a4-432c-a37b-06bc52d10186",
+      "detail": "Select, check, use, store and control tools and equipment. For example, ground support equipment or test equipment."
+    },
+    {
+      "skillId": "3cde6859-4d75-409e-bc33-4fd41caac60a",
+      "detail": "Apply good housekeeping, for example, prior to, during and after completion of the activity to the work area."
+    },
+    {
+      "skillId": "bd76302b-1621-4815-afa4-9579e52282d9",
+      "detail": "Use information technology. For example, for document creation, communication, and information management. Comply with GDPR and cyber security."
+    },
+    {
+      "skillId": "2fc4823e-dc91-43e9-a0f6-42688f94fdfd",
+      "detail": "Comply with environmental and sustainability regulations and procedures. Segregate resources for reuse, recycling, and disposal."
+    },
+    {
+      "skillId": "7f6fca95-2607-4b3c-b57f-452e375a5f69",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "4c6947b1-ef65-4529-a337-ba17102308ce",
+      "detail": "Communicate in writing."
+    },
+    {
+      "skillId": "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+      "detail": "Consider the properties and characteristics of aircraft materials and the possibility of damage to aircraft whilst performing the activity. For example, barely visible impact damage."
+    },
+    {
+      "skillId": "dd964fdc-40b3-4425-b089-b7673ae505ff",
+      "detail": "Select aircraft consumables for carrying out maintenance activity."
+    },
+    {
+      "skillId": "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+      "detail": "Carry out pre-use checks of resources and ensure sufficient supplies of materials and consumables for maintenance activity. "
+    },
+    {
+      "skillId": "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+      "detail": "Carry out and record planned and unplanned learning and development activities."
+    },
+    {
+      "skillId": "c2d2a1b9-72f5-41bf-874b-36da0d8319fe",
+      "detail": "Apply equity, diversity and inclusion policies and procedures."
+    },
+    {
+      "skillId": "0dfe13cc-d8ba-44fc-8c4c-2d17dd3ae801",
+      "detail": "Apply quality assurance procedures. For example, completion of aircraft servicing schedules or aircraft technical logs."
+    },
+    {
+      "skillId": "7517af0f-c604-46dd-a959-98362991bf9b",
+      "detail": "Apply team working principles. "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-05-31T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0700",
+  "tbMainContact": "michael.maguire@ba.com",
+  "involvedEmployers": "British Airways Ltd, BAE Systems, BAE Systems plc , Harrods Aviation, Marshall Aerospace & Defence Group, Boeing, Babcock International Group, Ministry of Defence (MOD)",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Civil Aviation Authority (CAA) or European Aviation Safety Agency (EASA). Only Part 147 training providers must be approved by the regulator body. ",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Aircraft maintenance fitter",
+    "Aircraft maintenance technician (cat a licence certifying technician)",
+    "Aircraft mechanic",
+    "Aircraft weapons technician (military)",
+    "Aircraft workshop avionics fitter",
+    "Aircraft workshop mechanical fitter",
+    "Avionics components fitter",
+    "Avionics components technician",
+    "Mechanical components fitter",
+    "Mechanical components technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2024-10-02T14:30:34 +00:00",
+  "lastUpdated": "2024-12-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-05-31T00:00:00 +00:00",
+  "banners": "Option 3 of&nbsp;ST0457 Engineering technician&nbsp;is being replaced with this new apprenticeship and is now available for new starts with a funding band of £27,000. Pathway 3 of ST0457 will remain live for new starts until further notice when that option will be retired",
+  "occupationCode": "OCC1315",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1315-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1315-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "0f531506-1e39-4001-b46d-8fd480a07a0d",
+      "title": "Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) - Pearson BTEC; QAN 601/7165/0 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence) C&G No.4605-02; QAN 601/7310/5 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Military Foundation Competence) C&G No.4608-50; QAN 603/1388/2 -OR- Level 2 Diploma in Aerospace and Aviation Engineering (Foundation Competence);  EAL QAN 601/7289/7",
+      "level": "2",
+      "anyAdditionalInformation": "The CAA CAP 1814 mandates one foundation competence qualification at level 2.   ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "4bb306c5-c379-4c4c-a644-dcc7b2e8f71d",
+      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Competence)  601/9051/6 – Pearson BTEC -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) C&G No.4608-30; QAN  601/9036/X -OR- Level 3 Diploma in Aviation Maintenance (Development Competence) – Military C&G 4608-60;  QAN 603/2068/0 -OR- EAL Level 3 Diploma in Aviation Maintenance (Development Competence) – 603/0372/4   ",
+      "level": "3",
+      "anyAdditionalInformation": "The CAA CAP 1814 mandates one development competence qualification at level 3.   ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "7961e001-6c27-4e69-99e6-ced867d226b2",
+      "title": "Level 3 Diploma in Aerospace and Aviation Engineering (Development Technical Knowledge) 601/9063/2 – Pearson BTEC -OR- Level 3 Diploma in On-Aircraft Maintenance Category A C&G No. 2675-04; QAN 600/1927/X -OR- Level 3 Diploma in Aircraft Maintenance (Military) C&G No. 4708-30; QAN 603/1392/4",
+      "level": "3",
+      "anyAdditionalInformation": "The CAA CAP 1814 mandates one development knowledge qualification at level 3.   ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Royal Aeronautical Society",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Engineering and Technology (IET)",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Mechanical Engineers (IMechE)",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "8378efda-6976-4905-bb24-0d20fe0756f4",
+      "dutyDetail": "Conduct health and safety checks of the maintenance activity work area. For example, comply with risk assessments and safe systems of work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846"
+      ],
+      "mappedKnowledge": [
+        "ec2cd7b9-b1a4-483c-96e2-a9975a7e510f",
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "9bf60430-c0f6-4566-9da3-6aa053d987c1",
+        "52350092-268b-4819-8dc6-6eef56542b8f",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "7aa080d0-cc4c-4b4b-ac53-37537fe3d239",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "3cde6859-4d75-409e-bc33-4fd41caac60a",
+        "2fc4823e-dc91-43e9-a0f6-42688f94fdfd",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+        "7517af0f-c604-46dd-a959-98362991bf9b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90b7617c-2fcc-479d-8972-1a1057be49d6",
+      "dutyDetail": "Follow instructions for aircraft data, publications and maintenance documents required for the maintenance activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033"
+      ],
+      "mappedKnowledge": [
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "f1800e87-2ea1-4a02-a845-da02e276af84",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "f2fb6115-a205-4b64-a100-e1130bc8463a",
+        "29465671-5ab0-4536-9ce0-d9bba2353299",
+        "cba6fb64-6e22-4759-8677-10467e5b609b",
+        "63874ff5-b534-4e3e-b646-30928249a2dc",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "cfb1da6c-41ae-43cf-9ab6-e2e405cda8c6",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "f62fa23b-40a4-432c-a37b-06bc52d10186",
+        "bd76302b-1621-4815-afa4-9579e52282d9",
+        "2fc4823e-dc91-43e9-a0f6-42688f94fdfd",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c73e6b09-d269-4ec7-a69d-b1c66ea26c1a",
+      "dutyDetail": "Prepare for aircraft maintenance activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846",
+        "21b44bad-deb8-4bf8-b265-661ea40eb3c1"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "db7e57a5-ff80-44ff-bc82-bc72d433eee0",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "c3742051-46a2-46df-a172-a3f148d78ca5",
+        "52350092-268b-4819-8dc6-6eef56542b8f",
+        "5a82b27d-adfd-4495-84e1-e909032f0ce6",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "f62fa23b-40a4-432c-a37b-06bc52d10186",
+        "7f6fca95-2607-4b3c-b57f-452e375a5f69",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "56749c33-3471-4ed5-85a9-9f51fa3d70a4",
+      "dutyDetail": "Complete aircraft or aircraft component inspection activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "fb7db8b9-0890-4691-973c-dfbac2313e46",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "6a95baf7-dc1a-411b-b784-9dbc7e1e5a7c",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "f1800e87-2ea1-4a02-a845-da02e276af84",
+        "1a03c77a-5814-487e-9b6c-059ecd6c9702",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "49f6946e-fa11-466b-bf66-247133ccb2f0",
+        "cfb1da6c-41ae-43cf-9ab6-e2e405cda8c6",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e34c5190-360b-4cc0-a42b-6d9311695554",
+      "dutyDetail": "Conduct aircraft or aircraft component unscheduled maintenance activity. Reactive and breakdown maintenance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "fb7db8b9-0890-4691-973c-dfbac2313e46",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846",
+        "21b44bad-deb8-4bf8-b265-661ea40eb3c1"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "6a95baf7-dc1a-411b-b784-9dbc7e1e5a7c",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "f1800e87-2ea1-4a02-a845-da02e276af84",
+        "1a03c77a-5814-487e-9b6c-059ecd6c9702",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "a2583689-ec3b-429a-80e5-f352be0449ad",
+        "f2fb6115-a205-4b64-a100-e1130bc8463a",
+        "29465671-5ab0-4536-9ce0-d9bba2353299",
+        "f9412add-85d3-4b60-b0cc-1fcc79c0af2e",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "49f6946e-fa11-466b-bf66-247133ccb2f0",
+        "cfb1da6c-41ae-43cf-9ab6-e2e405cda8c6",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+        "0dfe13cc-d8ba-44fc-8c4c-2d17dd3ae801"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f493941-fa89-4d61-97dd-f53813d0e7b6",
+      "dutyDetail": "Perform aircraft or aircraft component scheduled maintenance activities. Planned and preventative maintenance or out of phase servicing (OOP).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "fb7db8b9-0890-4691-973c-dfbac2313e46",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846",
+        "21b44bad-deb8-4bf8-b265-661ea40eb3c1"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "6a95baf7-dc1a-411b-b784-9dbc7e1e5a7c",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "f1800e87-2ea1-4a02-a845-da02e276af84",
+        "1a03c77a-5814-487e-9b6c-059ecd6c9702",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "a2583689-ec3b-429a-80e5-f352be0449ad",
+        "f2fb6115-a205-4b64-a100-e1130bc8463a",
+        "f9412add-85d3-4b60-b0cc-1fcc79c0af2e",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "49f6946e-fa11-466b-bf66-247133ccb2f0",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+        "0dfe13cc-d8ba-44fc-8c4c-2d17dd3ae801"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0e78e4ba-5053-4f1b-962d-666a845e65a1",
+      "dutyDetail": "Rectify aircraft or component faults. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "fb7db8b9-0890-4691-973c-dfbac2313e46",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846",
+        "21b44bad-deb8-4bf8-b265-661ea40eb3c1"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "6a95baf7-dc1a-411b-b784-9dbc7e1e5a7c",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "f1800e87-2ea1-4a02-a845-da02e276af84",
+        "1a03c77a-5814-487e-9b6c-059ecd6c9702",
+        "2fc8d216-584c-48db-88dd-4910a8f75906",
+        "d128e888-fdf1-4b78-96a2-1e3171fb69fe",
+        "a2583689-ec3b-429a-80e5-f352be0449ad",
+        "f2fb6115-a205-4b64-a100-e1130bc8463a",
+        "29465671-5ab0-4536-9ce0-d9bba2353299",
+        "f9412add-85d3-4b60-b0cc-1fcc79c0af2e",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "154196a2-1a95-4125-bd4c-626ceeb23760",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "49f6946e-fa11-466b-bf66-247133ccb2f0",
+        "cfb1da6c-41ae-43cf-9ab6-e2e405cda8c6",
+        "b3f9e134-fa8f-4d2d-a825-15ffe5893202",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "47e425f0-a50c-4192-ae2b-27dca3c17de2",
+        "dd964fdc-40b3-4425-b089-b7673ae505ff",
+        "f4cfaa27-8bde-4fb5-a757-562dcd065088",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "95e790db-3209-44c0-ad26-efab321c04de",
+      "dutyDetail": "Inform stakeholders of aircraft maintenance work status. For example, engineers, supervisors, colleagues, contractors, and customers.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "f247c5a9-0549-47aa-945f-f1c225faa02d",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "21b44bad-deb8-4bf8-b265-661ea40eb3c1"
+      ],
+      "mappedKnowledge": [
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "bf635ee6-ad77-48d6-8796-10b27f57db4c",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "a2583689-ec3b-429a-80e5-f352be0449ad",
+        "9bf60430-c0f6-4566-9da3-6aa053d987c1",
+        "29465671-5ab0-4536-9ce0-d9bba2353299",
+        "ccb732b7-23e9-4315-88ba-d0e9ddbf4bc1",
+        "cba6fb64-6e22-4759-8677-10467e5b609b",
+        "63874ff5-b534-4e3e-b646-30928249a2dc",
+        "c3742051-46a2-46df-a172-a3f148d78ca5",
+        "5a82b27d-adfd-4495-84e1-e909032f0ce6",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7aa080d0-cc4c-4b4b-ac53-37537fe3d239",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "3cde6859-4d75-409e-bc33-4fd41caac60a",
+        "bd76302b-1621-4815-afa4-9579e52282d9",
+        "7f6fca95-2607-4b3c-b57f-452e375a5f69",
+        "4c6947b1-ef65-4529-a337-ba17102308ce",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+        "c2d2a1b9-72f5-41bf-874b-36da0d8319fe",
+        "0dfe13cc-d8ba-44fc-8c4c-2d17dd3ae801"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3110e52e-0387-4aca-8206-135f8d9df2e2",
+      "dutyDetail": "Complete aircraft documentation required for aircraft or aircraft component maintenance work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846"
+      ],
+      "mappedKnowledge": [
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "ca537870-a07f-41c7-a7be-bd9e79e3b3bf",
+        "a2583689-ec3b-429a-80e5-f352be0449ad",
+        "9bf60430-c0f6-4566-9da3-6aa053d987c1",
+        "ccb732b7-23e9-4315-88ba-d0e9ddbf4bc1",
+        "cba6fb64-6e22-4759-8677-10467e5b609b",
+        "63874ff5-b534-4e3e-b646-30928249a2dc",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "af25f20b-73d6-4f0a-b641-5e49e9a7c0db",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7aa080d0-cc4c-4b4b-ac53-37537fe3d239",
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "930ce0f7-008d-4c90-b4b3-d942f119fc79",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "bd76302b-1621-4815-afa4-9579e52282d9",
+        "2fc4823e-dc91-43e9-a0f6-42688f94fdfd",
+        "4c6947b1-ef65-4529-a337-ba17102308ce",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81",
+        "c2d2a1b9-72f5-41bf-874b-36da0d8319fe",
+        "0dfe13cc-d8ba-44fc-8c4c-2d17dd3ae801"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b43d0e0d-5925-4300-b47a-7175b8c477fe",
+      "dutyDetail": "Reinstate the work area on completion of maintenance activity. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "76e339a9-52fc-4658-9794-ceb14f2dde06",
+        "bba3dd0b-e778-4961-af16-499b1d5ee807",
+        "c8aa9b1c-67fa-422b-aa9c-306e0380a033",
+        "a9914aeb-890f-4725-8832-df6dd3adc846"
+      ],
+      "mappedKnowledge": [
+        "ec2cd7b9-b1a4-483c-96e2-a9975a7e510f",
+        "19416e65-75dd-4a5e-940b-c4ffd6afcf52",
+        "73edcb8d-1e3c-469c-84f9-6556f9940fa5",
+        "02cf47d8-7279-4f50-9701-3f48e1684cbd",
+        "db7e57a5-ff80-44ff-bc82-bc72d433eee0",
+        "52350092-268b-4819-8dc6-6eef56542b8f",
+        "4632a0b0-c41c-4376-8d52-ba4929dbc7e1",
+        "94ee4191-34d7-4f69-adc1-8513c673e88e",
+        "70c01965-3efa-4fe9-959d-396285b1d999"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a58b896e-29c4-46bb-992b-8eb8743c8223",
+        "01c045a1-3eb6-44cc-b3c9-7cbd506a0429",
+        "1711ca09-4541-469e-8cd9-c9fc5c970257",
+        "3b5a796c-6d6d-43e8-b680-5f575224d2af",
+        "d1f94e28-7aae-4442-be33-d243aa1125d9",
+        "f62fa23b-40a4-432c-a37b-06bc52d10186",
+        "3cde6859-4d75-409e-bc33-4fd41caac60a",
+        "2fc4823e-dc91-43e9-a0f6-42688f94fdfd",
+        "7f6fca95-2607-4b3c-b57f-452e375a5f69",
+        "1bac603c-5ab8-436d-ade6-9be664bd1d81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-12-03T00:00:00"
+}
