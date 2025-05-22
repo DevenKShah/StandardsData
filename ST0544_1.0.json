@@ -1,60 +1,1008 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 681,
   "referenceNumber": "ST0544",
+  "learningAimClassCode": "",
   "title": "Port agent",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0544",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2025-02-18T00:00:00",
+  "earliestStartDate": "2022-07-20T00:00:00",
+  "latestStartDate": "2025-02-12T00:00:00",
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Represent the vessel operators or owners to facilitate the efficient arrival, working, and departure of their vessels in a port.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 4,
+  "typicalDuration": 18,
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Transport",
+    "Operations",
+    "Maintenance",
+    "Boat",
+    "Vessels",
+    "port",
+    "logistic"
+  ],
+  "jobRoles": [
+    "Port Agent",
+    "Ships Agent",
+    "Boarding Clerk"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0544-v1-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
-  "version": "",
-  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\r\n&lt;p&gt;This occupation is found in the shipping industry and located in ports.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to represent the vessel operators / owners to facilitate the safe and efficient arrival, working, and departure of their vessels in a port.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, a Port Agent is appointed by a Principal, who might be the vessel owner or vessel operator, and could be situated anywhere in the world. The Port Agent must work to the overall instruction of the Principal. The Port Agent will liaise with the ship&#39;s Captain and crew who may be of any nationality. The scale and purpose of ports varies considerably, with each port effectively being unique. The Port Agent will identify and interact with all parties involved in each port such as importers and/or exporters, the port authority, terminal operator, stevedores, government authorities (HMRC, Border Force, Port Health, Maritime and Coastguard Agency and Immigration), Marine Pilots, Harbourmasters, Docking masters, company representatives, local ship providores, repairers and maritime equipment suppliers.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for safe and efficient arrival, working and departure of a vessel in the port, which may require out of hours working therefore their level of autonomy is generally very high although they report to their internal manager and to the vessel operator or owner. They may work alone at times and as a member of a team and the role will likely involve working unsociable hours. A Port Agent’s typical workplace includes working in and around the port in all weathers, and on-board vessels whilst they are in port as well as in the office. A Port Agent must deliver on the operational aspects of an agreed agency agreement but they are not typically required to negotiate an agency agreement or obtain new work for their organisation; this is instead the responsibility of a senior Port Agent or a sales/business development manager who form part of the wider team.&lt;/p&gt;\r\n&lt;h4&gt;Typical job titles&lt;/h4&gt;\r\n&lt;p&gt;Typical job titles include . Port Agent, ship&#39;s agent, boarding clerk&lt;/p&gt;\r\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will determine their own entry requirements; but due to the nature of the role requiring periods of physical exertion, safe travel to and within ports, it is expected that candidates will meet certain medical standards of physical health and it is highly likely they will hold a standard drivers licence.&lt;/p&gt;\r\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\r\n&lt;table width=&quot;100%&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;h4&gt;Duty&lt;/h4&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;h4&gt;KSBs&lt;/h4&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Following the agreed commercial agency agreement, book a vessel in and out of port, including co-ordinating the berthing plan with all parties involved such as the port authority&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K2 K3 K4 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S1&lt;span&gt; S2 S3 S4 S5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Arrange marine pilots and tugboat services, as appropriate, in order to ensure safe arrival and/or departure of the vessel; liaising with other key stakeholders as necessary in the individual Port, such as but not limited to Harbour Masters, Tug Boat operators, Marine Pilots, Docking Masters and company representatives&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K2 K3 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Report a vessel’s arrival and departure to vessel operator / owner and any other interested parties such as cargo interests&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K2 K4 K9 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S5&lt;span&gt; S6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ensure the vessel is compliant on arrival and/or departure by providing all required information on crew and passengers to local authorities such as Immigration, Border Force, Customs and Port Health&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K4 K5 K6 K7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S5&lt;span&gt; S6 S7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Meet legislative requirements and accountability by advising Customs of vessels arrival and departure and reporting cargo including all required documentation&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S1&lt;span&gt; S2 S6 S7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Co-ordinate a suitable terminal and stevedoring services for the type of vessel and cargo to ensure appropriate plans are in place for the safe and timely movement of cargo on and off the vessel&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K3&lt;span&gt; K4 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S5 S6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Liaise with all key stakeholders particular in the individual port to ensure co-ordination and agreement of a cargo plan between the ship and terminal/stevedore to ensure the safe loading / discharge of cargo&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K3&lt;span&gt; K4 K6 K8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S5 S6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Maintaining an overview of cargo loading or discharging operations in order to ensure that there are no delays, mitigate any issues that arise and report progress to the ship operator, charterer and/or owner, cargo interests, next agent and any other interested parties&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K3 K4 K6 K8 K9 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S5 S6 S8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 B5 B6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Arrange provision of stores, fuel, spare parts, drinking water or any other requirements for the vessel prior to arrival or during the port stay.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K4 K8 K10 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S5 S6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ensure the efficient running of the vessel by planning and organising any crew changes with the ship manager and Captain of the vessel, in line with relevant Customs regulations&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K4 K5 K6 K7 K10 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S2&lt;span&gt; S3 S5 S6 S7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Arrange cash from the ship operator / owner to the Captain to provide the Captain with a suitable cash float.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K6&lt;span&gt; K11 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S5&lt;span&gt; S6 S8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B4 B5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Continually update all interested parties and keep them informed on the prospects prior to arrival at port and on the progress of vessel / operations whilst in port to meet reporting formalities and allow for smooth next port arrangements.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K2 K3 K4 K7 K8 K10 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 B4 B6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Complete the “statement of fact” – keeping track of all activities concerning the ship from the moment it has arrived at port until the completion of all cargo operations and the departure of the ship, thereby accurately recording the vessels operations and any delays.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K3&lt;span&gt; K4 K12 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S6 S8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B2&lt;span&gt; B6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Complete the vessel’s disbursement account to the vessel operator / owner – compiling all the invoices incurred in the vessel’s call at the port&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K3 K4 K10 K11 K13 K14 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S6&lt;span&gt; S8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B2&lt;span&gt; B3 B4 B6 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;p&gt;&lt;span&gt;&#160;&lt;/span&gt;&lt;/p&gt;\r\n&lt;h2&gt;KSBs&lt;/h2&gt;\r\n&lt;h3&gt;Knowledge&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understand local agencies, regulatory authorities and their roles and potential requirements.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understand local port / harbour authority specific on-line vessel / port information systems and required (or expected) time frames of information requests (or flows).&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understand ship types, cargo types, stevedoring operations, applicable regulations and vessel class.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Type of Charter Party, agency agreements and terms relevant to each vessel and / or port visit.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Local customs clearance procedures, immigration processes and required documentation for vessel leavers / joiners.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Relevant health, safety and security regulations covered by The Health and Safety at Work Act 1974 and The International Ship and Port Facility Security Code;&#160; and how this is applied to local ports, facilities, harbours, terminal areas and berths.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The eight main “Data Protection Principles” regarding the use and storage of information as prescribed by the UK Government under the Data Protection Act 2018.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Local specialist roles such as Appointed Person, Port Facility Security Officer (PFSO), mooring services, health professionals and marine / cargo surveyors so that timely contact can be made to minimise chances of unnecessary delays being incurred.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Statutory powers of the relevant Port State, their responsibilities, duties and codes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How to source local suppliers such as engineers, chandlers, ministers, taxis, mobile communications to ensure any demand made can be satisfied without undue delay or costs.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Local / preferred banking procedures, cash availability, currency exchange rates, proof of receipt of payments and letters of credit.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Bills of lading, their function and importance in transactions.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Company policies and procedures regarding quotations, pro-forma documents and invoicing.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Charges, terms and conditions of subject port / harbour authority of each vessel call.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Skills&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Meet all requirements in completing the Consolidated European Reporting System (CERS) and local port system documentation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Can complete and / or verify all information required on International Maritime Organisation vessel / voyage information forms.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identifies, sources, negotiates with and influences all stakeholders connected to the Port to ensure all requirements surrounding any vessel under the Port Agents agency are provided for as efficiently and effectively as possible.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Proficient in the use of customer IT software systems and local port information systems, using and retaining data in accordance with the Data Protection Act 2018.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Comply fully with employer and port / harbour / terminal specific health, safety and security procedures and practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Applies basic project management techniques to tasks including administration, record keeping and stakeholder liaisons.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Uses the National Maritime Single Window on-line portal to accurately provide the UK Department for Transport with information required on International Maritime Organisation vessel / voyage information forms.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Preparing / creating disbursement&#160; accounts, statements of fact and formal pro-forma documents or quotations.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Behaviour&lt;/h3&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;br /&gt; &lt;strong&gt;B1:&lt;/strong&gt; Strive to achieve the best results in all they do; maintain a positive attitude and approach to their work even when priorities and working patterns change in time with the weather.&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B2:&lt;/strong&gt; Demonstrate integrity, credibility, honesty and personal drive; embody the organisation’s values, a belief in the services it offers and an interest in international seaborne trade.&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B3:&lt;/strong&gt; Be a supportive team member, to colleagues or a ships crew you have yet to meet, and be confident when working alone.&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B4:&lt;/strong&gt; Act as ambassador of the UK’s maritime trade, be professional and respectful in all situations.&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B5:&lt;/strong&gt; Take responsibility for their own and others’ health, safety and security at all times, on land and aboard vessels.&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B6:&lt;/strong&gt; Take ownership of own performance, professional maritime development and training, be an autonomous learner.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Qualifications&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&#160;&#160;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&#160;primary language is BSL.&#160;&lt;br /&gt; &lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Other qualifications&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Mandatory qualification 1: &lt;/span&gt;&lt;/strong&gt;Institute of Chartered Shipbrokers Foundation Diploma in Port Agency&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Level of qualification: &lt;/span&gt;&lt;/strong&gt;3&lt;/p&gt;\r\n&lt;h3&gt;Additional details&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 3&lt;br /&gt; &lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 18&lt;/p&gt;\r\n&lt;h3&gt;Review&lt;/h3&gt;\r\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;This occupation is found in the shipping industry and located in ports.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to represent the vessel operators / owners to facilitate the safe and efficient arrival, working, and departure of their vessels in a port.&lt;/p&gt;\n&lt;p&gt;In their daily work, a Port Agent is appointed by a Principal, who might be the vessel owner or vessel operator, and could be situated anywhere in the world. The Port Agent must work to the overall instruction of the Principal. The Port Agent will liaise with the ship&#39;s Captain and crew who may be of any nationality. The scale and purpose of ports varies considerably, with each port effectively being unique. The Port Agent will identify and interact with all parties involved in each port such as importers and/or exporters, the port authority, terminal operator, stevedores, government authorities (HMRC, Border Force, Port Health, Maritime and Coastguard Agency and Immigration), Marine Pilots, Harbourmasters, Docking masters, company representatives, local ship providores, repairers and maritime equipment suppliers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for safe and efficient arrival, working and departure of a vessel in the port, which may require out of hours working therefore their level of autonomy is generally very high although they report to their internal manager and to the vessel operator or owner. They may work alone at times and as a member of a team and the role will likely involve working unsociable hours. A Port Agent’s typical workplace includes working in and around the port in all weathers, and on-board vessels whilst they are in port as well as in the office. A Port Agent must deliver on the operational aspects of an agreed agency agreement but they are not typically required to negotiate an agency agreement or obtain new work for their organisation; this is instead the responsibility of a senior Port Agent or a sales/business development manager who form part of the wider team.&lt;/p&gt;\n&lt;h4&gt;Typical job titles&lt;/h4&gt;\n&lt;p&gt;Typical job titles include . Port Agent, ship&#39;s agent, boarding clerk&lt;/p&gt;\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\n&lt;p&gt;Individual employers will determine their own entry requirements; but due to the nature of the role requiring periods of physical exertion, safe travel to and within ports, it is expected that candidates will meet certain medical standards of physical health and it is highly likely they will hold a standard drivers licence.&lt;/p&gt;\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\n&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;h4&gt;Duty&lt;/h4&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;h4&gt;KSBs&lt;/h4&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Following the agreed commercial agency agreement, book a vessel in and out of port, including co-ordinating the berthing plan with all parties involved such as the port authority&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K2 K3 K4&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt;&amp;nbsp;S2 S3 S4 S5&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Arrange marine pilots and tugboat services, as appropriate, in order to ensure safe arrival and/or departure of the vessel; liaising with other key stakeholders as necessary in the individual Port, such as but not limited to Harbour Masters, Tug Boat operators, Marine Pilots, Docking Masters and company representatives&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K2 K3&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S4 S5&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Report a vessel’s arrival and departure to vessel operator / owner and any other interested parties such as cargo interests&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K2 K4 K9&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt;&amp;nbsp;S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3 B4&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Ensure the vessel is compliant on arrival and/or departure by providing all required information on crew and passengers to local authorities such as Immigration, Border Force, Customs and Port Health&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K4 K5 K6 K7&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt;&amp;nbsp;S6 S7&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B5&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Meet legislative requirements and accountability by advising Customs of vessels arrival and departure and reporting cargo including all required documentation&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K5&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S1&lt;span&gt;&amp;nbsp;S2 S6 S7&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Co-ordinate a suitable terminal and stevedoring services for the type of vessel and cargo to ensure appropriate plans are in place for the safe and timely movement of cargo on and off the vessel&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt;&amp;nbsp;K4&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S4 S5 S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Liaise with all key stakeholders particular in the individual port to ensure co-ordination and agreement of a cargo plan between the ship and terminal/stevedore to ensure the safe loading / discharge of cargo&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt;&amp;nbsp;K4 K6 K8&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S4 S5 S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B5&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Maintaining an overview of cargo loading or discharging operations in order to ensure that there are no delays, mitigate any issues that arise and report progress to the ship operator, charterer and/or owner, cargo interests, next agent and any other interested parties&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K3 K4 K6 K8 K9&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S4 S5 S6 S8&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3 B5 B6&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Arrange provision of stores, fuel, spare parts, drinking water or any other requirements for the vessel prior to arrival or during the port stay.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K4 K8 K10&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S5 S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3 B4 B5&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Ensure the efficient running of the vessel by planning and organising any crew changes with the ship manager and Captain of the vessel, in line with relevant Customs regulations&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K4 K5 K6 K7 K10&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S2&lt;span&gt;&amp;nbsp;S3 S5 S6 S7&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3 B4 B5&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Arrange cash from the ship operator / owner to the Captain to provide the Captain with a suitable cash float.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K6&lt;span&gt;&amp;nbsp;K11&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S5&lt;span&gt;&amp;nbsp;S6 S8&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B4 B5&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Continually update all interested parties and keep them informed on the prospects prior to arrival at port and on the progress of vessel / operations whilst in port to meet reporting formalities and allow for smooth next port arrangements.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K2 K3 K4 K7 K8 K10&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S6&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B1&lt;span&gt;&amp;nbsp;B2 B3 B4 B6&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Complete the “statement of fact” – keeping track of all activities concerning the ship from the moment it has arrived at port until the completion of all cargo operations and the departure of the ship, thereby accurately recording the vessels operations and any delays.&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K3&lt;span&gt;&amp;nbsp;K4 K12&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S3&lt;span&gt;&amp;nbsp;S4 S6 S8&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt;&amp;nbsp;B6&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;69%&quot;&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Complete the vessel’s disbursement account to the vessel operator / owner – compiling all the invoices incurred in the vessel’s call at the port&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;30%&quot;&gt;\n&lt;p&gt;K1&lt;span&gt;&amp;nbsp;K3 K4 K10 K11 K13 K14&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;S6&lt;span&gt;&amp;nbsp;S8&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;B2&lt;span&gt;&amp;nbsp;B3 B4 B6&lt;/span&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;&lt;/p&gt;\n&lt;h2&gt;KSBs&lt;/h2&gt;\n&lt;h3&gt;Knowledge&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Understand local agencies, regulatory authorities and their roles and potential requirements.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Understand local port / harbour authority specific on-line vessel / port information systems and required (or expected) time frames of information requests (or flows).&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Understand ship types, cargo types, stevedoring operations, applicable regulations and vessel class.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Type of Charter Party, agency agreements and terms relevant to each vessel and / or port visit.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Local customs clearance procedures, immigration processes and required documentation for vessel leavers / joiners.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Relevant health, safety and security regulations covered by The Health and Safety at Work Act 1974 and The International Ship and Port Facility Security Code;&amp;nbsp; and how this is applied to local ports, facilities, harbours, terminal areas and berths.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;The eight main “Data Protection Principles” regarding the use and storage of information as prescribed by the UK Government under the Data Protection Act 2018.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Local specialist roles such as Appointed Person, Port Facility Security Officer (PFSO), mooring services, health professionals and marine / cargo surveyors so that timely contact can be made to minimise chances of unnecessary delays being incurred.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Statutory powers of the relevant Port State, their responsibilities, duties and codes.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;How to source local suppliers such as engineers, chandlers, ministers, taxis, mobile communications to ensure any demand made can be satisfied without undue delay or costs.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Local / preferred banking procedures, cash availability, currency exchange rates, proof of receipt of payments and letters of credit.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Bills of lading, their function and importance in transactions.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Company policies and procedures regarding quotations, pro-forma documents and invoicing.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Charges, terms and conditions of subject port / harbour authority of each vessel call.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Skills&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Meet all requirements in completing the Consolidated European Reporting System (CERS) and local port system documentation.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Can complete and / or verify all information required on International Maritime Organisation vessel / voyage information forms.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Identifies, sources, negotiates with and influences all stakeholders connected to the Port to ensure all requirements surrounding any vessel under the Port Agents agency are provided for as efficiently and effectively as possible.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Proficient in the use of customer IT software systems and local port information systems, using and retaining data in accordance with the Data Protection Act 2018.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Comply fully with employer and port / harbour / terminal specific health, safety and security procedures and practice.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Applies basic project management techniques to tasks including administration, record keeping and stakeholder liaisons.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Uses the National Maritime Single Window on-line portal to accurately provide the UK Department for Transport with information required on International Maritime Organisation vessel / voyage information forms.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;Preparing / creating disbursement&amp;nbsp; accounts, statements of fact and formal pro-forma documents or quotations.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Behaviour&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;&lt;br&gt;&lt;strong&gt;B1:&lt;/strong&gt;&amp;nbsp;Strive to achieve the best results in all they do; maintain a positive attitude and approach to their work even when priorities and working patterns change in time with the weather.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B2:&lt;/strong&gt;&amp;nbsp;Demonstrate integrity, credibility, honesty and personal drive; embody the organisation’s values, a belief in the services it offers and an interest in international seaborne trade.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B3:&lt;/strong&gt;&amp;nbsp;Be a supportive team member, to colleagues or a ships crew you have yet to meet, and be confident when working alone.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B4:&lt;/strong&gt;&amp;nbsp;Act as ambassador of the UK’s maritime trade, be professional and respectful in all situations.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B5:&lt;/strong&gt;&amp;nbsp;Take responsibility for their own and others’ health, safety and security at all times, on land and aboard vessels.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;&lt;strong&gt;B6:&lt;/strong&gt;&amp;nbsp;Take ownership of own performance, professional maritime development and training, be an autonomous learner.&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&amp;nbsp;&amp;nbsp;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&amp;nbsp;primary language is BSL.&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;h3&gt;Other qualifications&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Mandatory qualification 1:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;Institute of Chartered Shipbrokers Foundation Diploma in Port Agency&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Level of qualification:&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;3&lt;/p&gt;\n&lt;h3&gt;Additional details&lt;/h3&gt;\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt;&amp;nbsp;3&lt;br&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt;&lt;span&gt;&amp;nbsp;&lt;/span&gt;18&lt;/p&gt;\n&lt;h3&gt;Review&lt;/h3&gt;\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the shipping industry and located in ports around the country. These ports range considerably in size, from major import/export centres through to much smaller and sometimes remote ports. Port agents work for commercial companies, that may be based in a port or off site.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to represent the vessel operators/owners to facilitate the efficient arrival, working, and departure of their vessels in a port. They do this by supporting vessel progress during a voyage (anywhere in the world) and by ensuring the vessel captain has the help and assistance they need. This support can be very wide-ranging, from making sure the vessel has the right permissions, and the correct crew complement, through to having enough provisions onboard.&lt;/p&gt;\n&lt;p&gt;Port agents spend a lot of their time communicating with other stakeholders to agree and coordinate activities, ensuring a safe and smooth voyage. While this occupation is often office based, port agents can expect to spend time working onboard vessels when moored in port. Typically, they may have a home port they work in most of the time, yet sometimes need to travel to different ports around the UK. A port agent must work flexibly, including some unsociable hours. And they can expect to be in and around the port in all weathers.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the vessel’s captain and crew who may be of any nationality. The scale and purpose of ports varies a lot, with each port being unique. The port agent will identify and interact with all parties involved in port operations, such as importers and/or exporters, the port authority, terminal operator, stevedores, government authorities (HMRC, Border Force, Port Health, Maritime and Coastguard Agency and Immigration), marine pilots, harbour masters, docking masters, company representatives, local ship providores, repairers and maritime equipment suppliers. A port agent is appointed by a Principal, who might be the vessel owner or vessel operator. A port agent must work to the overall instruction of the Principal.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for completing their own port agency work within the limits of their responsibility. They must follow instructions, by delivering on the agreed commercial arrangement between their own organisation and the vessel owner or vessel operator.&lt;/p&gt;\n&lt;p&gt;They are also responsible for providing advice and support to the vessel captain during the voyage, for providing financial services (including cash float) as instructed by vessel owner/operator, and for arranging and overseeing cargo operations when in port.&lt;/p&gt;\n&lt;p&gt;They will arrange crew, purchase supplies needed by the vessel, and negotiate any work needed with local port suppliers. They also help support the safety and security of vessel related operations. And they must submit any reports or applications needed to comply with port requirements.&lt;/p&gt;\n&lt;p&gt;They do not arrange an agency agreement themselves or win new work for their organisation; this is instead the responsibility of a senior port agent or a sales/business development manager. They are expected to respond to incidents that affect the vessel, by taking decisions that help bring the operation back on course. Although a port agent must try to resolve any problems themselves, they will escalate issues beyond their authority to a senior port agent or manager in their own organisation and the vessel owner/operator. When a voyage is completed, the port agent must provide their closing reports, including a financial summary.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+      "detail": "Local agencies and the regulatory authorities that impact Port Agency."
+    },
+    {
+      "knowledgeId": "6f94b881-bf50-49db-aec6-3c035d8c431c",
+      "detail": "Procedures for managing the vessel / port information systems."
+    },
+    {
+      "knowledgeId": "0f212b9e-ace7-4793-8af1-2399e76fb501",
+      "detail": "Regulations that apply to the different types of vessel class that may use Port Agency."
+    },
+    {
+      "knowledgeId": "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+      "detail": "A range of different cargo types."
+    },
+    {
+      "knowledgeId": "5efc8694-3ed8-4f52-8215-757f1a113e48",
+      "detail": "A range of stevedoring operations that can be used to load/unload cargo. "
+    },
+    {
+      "knowledgeId": "9b764513-76b3-466d-b99e-30ec95a7687e",
+      "detail": "Techniques for responding to the changing conditions that can commonly hinder vessel progress including changes to tidal and meteorological conditions."
+    },
+    {
+      "knowledgeId": "ed393cff-99f7-4f0d-8fba-be392901f293",
+      "detail": "Type of Charter Party, agency agreements and terms relevant to each vessel and / or port visit."
+    },
+    {
+      "knowledgeId": "f6e33153-47d2-4125-82f7-1409d0f75423",
+      "detail": "Local customs clearance procedures."
+    },
+    {
+      "knowledgeId": "74b29692-520b-4942-ab62-1d6634838e53",
+      "detail": "Immigration processes for vessel leavers / joiners."
+    },
+    {
+      "knowledgeId": "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+      "detail": "Relevant health and safety regulations and legislation."
+    },
+    {
+      "knowledgeId": "371534ae-44aa-4989-b88f-def212ce992b",
+      "detail": "The International Ship and Port Facility Security Code."
+    },
+    {
+      "knowledgeId": "6faf398b-406b-4ce8-9169-dda127671928",
+      "detail": "The principles for correct storing and sharing of data in accordance with the UK Government Data Protection legislation."
+    },
+    {
+      "knowledgeId": "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+      "detail": "The local specialist Maritime roles and how they support Port activity. This includes, for example, appointed Person, Port Facility Security Officer (PFSO), mooring services, health professionals and marine / cargo surveyors."
+    },
+    {
+      "knowledgeId": "9996af30-aaf9-451b-b643-f328b3089529",
+      "detail": "Statutory powers of the relevant Port State, their responsibilities, duties and codes."
+    },
+    {
+      "knowledgeId": "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+      "detail": "Negotiation techniques."
+    },
+    {
+      "knowledgeId": "1f0c116f-0680-4182-bdca-ba6a58d49765",
+      "detail": "The principles of stakeholder relationship management."
+    },
+    {
+      "knowledgeId": "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+      "detail": "Different forms of communication (written, verbal, electronic). "
+    },
+    {
+      "knowledgeId": "0ab9b267-6e91-482c-a599-9d27904977c8",
+      "detail": "The banking procedures that impact vessels and crew. This includes cash availability, currency exchange rates, proof of receipt of payments and letters of credit."
+    },
+    {
+      "knowledgeId": "ce3f7f9f-6aeb-44c2-a25e-f9fcdba361cd",
+      "detail": "Bills of lading, their function and importance in transactions."
+    },
+    {
+      "knowledgeId": "a99485b7-ccf6-42a5-8532-3f584a4acb55",
+      "detail": "Charges, terms and conditions of subject port / harbour authority of each vessel call."
+    },
+    {
+      "knowledgeId": "8a85371a-aeef-4ef1-adc2-56a86512faed",
+      "detail": "Principles of project management and a range of project planning tools."
+    },
+    {
+      "knowledgeId": "04252990-36c0-4f5c-8c86-2cc4142a24ff",
+      "detail": "Principles of Port Agency related budget management."
+    },
+    {
+      "knowledgeId": "8d9bb354-389e-4d41-96e3-88f313822cbb",
+      "detail": "Techniques for working alone and in a team. "
+    },
+    {
+      "knowledgeId": "fe849c7a-d8c4-4e3c-9933-6fdfa743355d",
+      "detail": "The range of sustainable practices applicable to Port Agency including in-house practices and partner policies."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+      "detail": "Sources solutions and seeks to continuously improve and develop."
+    },
+    {
+      "behaviourId": "6618c8e1-fbe8-4c28-a2e9-95079298f513",
+      "detail": "Resilient under pressure."
+    },
+    {
+      "behaviourId": "48177a04-78f0-42e1-908f-908d4de8f35b",
+      "detail": "Team-focused and works effectively with others."
+    },
+    {
+      "behaviourId": "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+      "detail": "Acts in a professional and ethical manner."
+    },
+    {
+      "behaviourId": "c486335e-c79d-4f8d-856b-fa20d9218530",
+      "detail": "Takes ownership of work."
+    },
+    {
+      "behaviourId": "0c9eff33-7e90-4102-bdfe-0595a723e831",
+      "detail": "Promotes sustainable practice."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "aacba502-06eb-4391-a5e2-ae85b4280379",
+      "detail": "Complete the required national and local reporting systems with required vessel and cargo data."
+    },
+    {
+      "skillId": "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+      "detail": "Identify and comply with all local, national and international regulations and legislation that apply."
+    },
+    {
+      "skillId": "0ef0a48b-e861-4eea-990f-d8794817832a",
+      "detail": "Interpret and complete information required on International Maritime Organisation vessel / voyage information forms."
+    },
+    {
+      "skillId": "0149dc3a-8690-4ffd-b842-093fcf4d040b",
+      "detail": "Identify the needs of the vessel (within limits of own authority)."
+    },
+    {
+      "skillId": "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+      "detail": "Source vessel services for the time and place when these are needed."
+    },
+    {
+      "skillId": "51f80f3a-430f-4ecd-a426-f734a590bed9",
+      "detail": "Coordinate crew arrivals/departures required to meet ships complement."
+    },
+    {
+      "skillId": "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+      "detail": "Negotiate a positive outcome for the vessel that meets the contractual arrangement."
+    },
+    {
+      "skillId": "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+      "detail": "Identify and apply sustainable practices."
+    },
+    {
+      "skillId": "476bde22-bd89-4955-a83a-fc69547582e4",
+      "detail": "Plan and prioritise workload to meet objectives."
+    },
+    {
+      "skillId": "6b33ef36-850e-4a98-a270-a30172dda89f",
+      "detail": "Identify and mitigate risks associated with the vessel and port operations."
+    },
+    {
+      "skillId": "ccedf678-f220-4aa0-973d-960dc8566d02",
+      "detail": "Respond to unexpected situations and incidents, offering an appropriate remedy."
+    },
+    {
+      "skillId": "f8941a25-c917-420b-b7e4-3c07ee667edb",
+      "detail": "Adopt a communication method that takes account of the audience and is suitable for the circumstances."
+    },
+    {
+      "skillId": "74055350-da86-49df-9a4e-fac138defdfe",
+      "detail": "Make informed recommendations that aid the vessels progress, prioritising  health, safety and security.  "
+    },
+    {
+      "skillId": "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+      "detail": "Maintain a network of stakeholders."
+    },
+    {
+      "skillId": "2382f818-2e5b-4f8a-bb29-093a623daf15",
+      "detail": "Utilise the strengths of teams to support vessel progress."
+    },
+    {
+      "skillId": "74249998-ab13-4809-9da9-d830d6bfea40",
+      "detail": "Apply relevant IT reporting solutions to assist vessel progress, for example using software required by a particular Government covering the ports jurisdiction."
+    },
+    {
+      "skillId": "dbb7c17e-6cd1-4ebf-a22e-5207181fbdda",
+      "detail": "Report on vessel progress, using the required format (e.g., Maritime pro formas)."
+    },
+    {
+      "skillId": "0b0802da-5bb8-432b-974d-a56438da1980",
+      "detail": "Store data correctly and only share data when it is permitted in accordance with legislation and regulation."
+    },
+    {
+      "skillId": "433f2e8c-5246-4582-a433-1a8121cabbe4",
+      "detail": "Comply with relevant health and safety procedures."
+    },
+    {
+      "skillId": "914ac556-4f0e-4343-90b8-9062a634aa66",
+      "detail": "Comply with relevant security procedures."
+    },
+    {
+      "skillId": "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+      "detail": "Monitor vessel progress against expected plans."
+    },
+    {
+      "skillId": "2ae62fbd-7b89-4665-8a57-83b6a5ab03fa",
+      "detail": "Create the required disbursement accounts."
+    },
+    {
+      "skillId": "75a6a21e-f1b7-42a8-9aa8-85a64131d21c",
+      "detail": "Create a required “Statement of Fact”."
+    },
+    {
+      "skillId": "cea8d06d-ce45-405b-9439-418c01595fa0",
+      "detail": "Match supplier quotations with the services/goods needed to support vessel operations."
+    },
+    {
+      "skillId": "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+      "detail": "Apply project management techniques needed to deliver port agency within budget."
+    },
+    {
+      "skillId": "1c506536-b4bc-49b4-8842-18ee58741787",
+      "detail": "Provide financial services that meet needs of the vessel (within limits of given authority)."
+    },
+    {
+      "skillId": "faff3112-89d2-4710-82b3-663091534060",
+      "detail": "Quality assure work in accordance with organisational requirements and contractual arrangements."
+    },
+    {
+      "skillId": "02c04abb-4b54-443d-a17d-c9ea30b87329",
+      "detail": "Handle complaints in line with organisational requirements."
+    },
+    {
+      "skillId": "10423cc9-7049-4f70-8c22-0f94fb2e2a41",
+      "detail": "Problem solves changes in circumstances impacting vessel progress."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-07-20T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
+  "tbReference": "TB0563",
   "tbMainContact": "federation@ics.org.uk",
   "involvedEmployers": "Denholm Group, Casper Shipping Ltd, Danbrit Shipping Ltd, Denholm Port Services Ltd, EMR Shipping Ltd, George Hammond PLC, J R Rix & Sons Ltd, Lacy & Middlemiss Ltd, Wainwright Bros & Co Ltd, Grange Shipping Ltd, Kestrel Liner Agencies Ltd, John Good Shipping",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "typicalJobTitles": [
+    "Port Agent",
+    "Ships Agent",
+    "Boarding Clerk"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Transport Operations Operative/Technician",
-  "createdDate": "2017-11-14T17:11:21 +00:00",
-  "lastUpdated": "2019-05-02T13:42:54 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/port-agent#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/port-agent",
-  "qualifications": [],
+  "cluster": "Transport operations operative or technician",
+  "clusterId": "16",
+  "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
+  "createdDate": "2022-05-05T07:50:22 +00:00",
+  "lastUpdated": "2025-02-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-07-20T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0544",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0544-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0544-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "e96b7ea3-35af-4c9e-b8bc-a7763ee8f216",
+      "title": "Institute of Chartered Shipbrokers Foundation Diploma in Port Agency",
+      "level": "3",
+      "anyAdditionalInformation": "The Institute approved this qualification for inclusion when approving the original Port Agency Standard.  There are elements of \"hard sift\" - ie it is far easier to gain employment with the foundation diploma. This is because ICA qualifications act as a passport to working in certain sectors. But it also allows for greater rigour and structure in the apprenticeship training - ie a \"type 2\" qualification. There has never been an apprenticeship in Port Agency before. As the sole professional body, ICS offers a well established qualification that will provide this structure, especially in the early years of apprenticeship delivery. This revision mainly affects the EPA, the standard has just been brought into line with the Institute's latest guidance on quality. Therefore the Trailblazer group considers there is a continued need for this qualification to remain mandatory. ",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "18b81fb8-2bb3-4770-88db-da8e22195e63",
+      "dutyDetail": "Deliver the commercial agreement between the port agency and the vessel owner or operator.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530"
+      ],
+      "mappedKnowledge": [
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "0ab9b267-6e91-482c-a599-9d27904977c8",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0149dc3a-8690-4ffd-b842-093fcf4d040b",
+        "476bde22-bd89-4955-a83a-fc69547582e4",
+        "6b33ef36-850e-4a98-a270-a30172dda89f",
+        "74055350-da86-49df-9a4e-fac138defdfe",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "faff3112-89d2-4710-82b3-663091534060",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cc06a40a-f062-4421-b947-28d7cb5e5b69",
+      "dutyDetail": "Monitor a vessels progress at sea and when in port. Provide updates to all affected stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "9b764513-76b3-466d-b99e-30ec95a7687e",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "0149dc3a-8690-4ffd-b842-093fcf4d040b",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "476bde22-bd89-4955-a83a-fc69547582e4",
+        "6b33ef36-850e-4a98-a270-a30172dda89f",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "74055350-da86-49df-9a4e-fac138defdfe",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "dbb7c17e-6cd1-4ebf-a22e-5207181fbdda",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "faff3112-89d2-4710-82b3-663091534060",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a0fd5f96-3af9-4560-bfd1-d3b4ef32fe7c",
+      "dutyDetail": "Provide recommendations to the vessels captain to aid progress on the journey.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "9b764513-76b3-466d-b99e-30ec95a7687e",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "0149dc3a-8690-4ffd-b842-093fcf4d040b",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "476bde22-bd89-4955-a83a-fc69547582e4",
+        "6b33ef36-850e-4a98-a270-a30172dda89f",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "74055350-da86-49df-9a4e-fac138defdfe",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "32044ec3-a060-499d-b12a-a29da64c265b",
+      "dutyDetail": "Book a vessel in and out of port. This includes co-ordinating the berthing plan with all parties involved, such as the port authority.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "0f212b9e-ace7-4793-8af1-2399e76fb501",
+        "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "634db0a5-a6da-4c6b-b1c9-2c4a227d039a",
+      "dutyDetail": "Arrange marine pilots and tugboat services to ensure safe arrival and/or departure of the vessel. Coordinate these activities with key stakeholders such as harbour masters, tug boat operators, marine pilots, docking masters and company representatives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "0f212b9e-ace7-4793-8af1-2399e76fb501",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e35c3b50-857b-4e61-a368-438735e6d254",
+      "dutyDetail": "Agree a cargo plan between the vessel and terminal/stevedore for the safe loading / discharge of cargo. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8ff1a196-8e4c-4bd3-a5c9-8d30d4787844",
+      "dutyDetail": "Identify and secure port terminal and stevedoring services for specific vessel and cargo types. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "0f212b9e-ace7-4793-8af1-2399e76fb501",
+        "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+        "5efc8694-3ed8-4f52-8215-757f1a113e48",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f2c331f5-6d89-443d-b635-2c2626e0ffcb",
+      "dutyDetail": "Oversee the delivery of cargo operations as planned. Mitigate any issues that arise and report progress to the vessel operator, charterer and/or owner, cargo interests, next agent, and any other interested parties.   ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+        "5efc8694-3ed8-4f52-8215-757f1a113e48",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "40f4aa91-fbed-41a2-baa7-2b394eeb246e",
+      "dutyDetail": "Report the details of cargo to the relevant customs authority.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "0f212b9e-ace7-4793-8af1-2399e76fb501",
+        "163f699e-5bd5-4931-b4fc-e8a677d00d66",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "f6e33153-47d2-4125-82f7-1409d0f75423",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aacba502-06eb-4391-a5e2-ae85b4280379",
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "0ef0a48b-e861-4eea-990f-d8794817832a",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "dbb7c17e-6cd1-4ebf-a22e-5207181fbdda",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b3c6f004-0d9b-47a8-9ebf-7da1ca5eb8c4",
+      "dutyDetail": "Plan and organise required changes of crew with the ship manager and captain of the vessel, in line with relevant customs regulations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "74b29692-520b-4942-ab62-1d6634838e53",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "51f80f3a-430f-4ecd-a426-f734a590bed9",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "58284355-7ef8-4501-97d3-d1acef3f60d3",
+      "dutyDetail": "Provide all required information on crew and passengers to local authorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "0f212b9e-ace7-4793-8af1-2399e76fb501",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "f6e33153-47d2-4125-82f7-1409d0f75423",
+        "74b29692-520b-4942-ab62-1d6634838e53",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aacba502-06eb-4391-a5e2-ae85b4280379",
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "0ef0a48b-e861-4eea-990f-d8794817832a",
+        "51f80f3a-430f-4ecd-a426-f734a590bed9",
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "dbb7c17e-6cd1-4ebf-a22e-5207181fbdda",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e0ff2c98-a63a-4975-93f3-3e3c976e93c8",
+      "dutyDetail": "Arrange provision of stores needed by the vessel prior to arrival or during the port stay. This includes fuel, spare parts, drinking water and any other bespoke requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "5a6f8aca-9cd5-4eb8-92d6-d51554dfd51d",
+        "9996af30-aaf9-451b-b643-f328b3089529",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e3d97103-4aa6-4cbb-a3ca-41cf0599350c",
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "813a9e03-627a-4402-b493-897b1143cbe1",
+      "dutyDetail": "Provide financial services for the vessel. In particular, arrange cash from the vessel operator/owner to  provide the vessel captain with a suitable cash float.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0"
+      ],
+      "mappedKnowledge": [
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "0ab9b267-6e91-482c-a599-9d27904977c8",
+        "ce3f7f9f-6aeb-44c2-a25e-f9fcdba361cd",
+        "a99485b7-ccf6-42a5-8532-3f584a4acb55",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "04252990-36c0-4f5c-8c86-2cc4142a24ff",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "fce7000c-ff49-4e1d-93c0-f42006a2e0f3",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "1c506536-b4bc-49b4-8842-18ee58741787"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dd4bc1d9-6fd7-4f4a-9624-0592410ca022",
+      "dutyDetail": "Complete the “statement of fact” – keeping track of all activities concerning the vessel from the moment it has arrived at port until the completion of all cargo operations and the departure of the ship, thereby accurately recording the vessels operations and any delays.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0"
+      ],
+      "mappedKnowledge": [
+        "d2f70963-9a24-45d9-94a4-d7a2d9484138",
+        "6f94b881-bf50-49db-aec6-3c035d8c431c",
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "0ab9b267-6e91-482c-a599-9d27904977c8",
+        "ce3f7f9f-6aeb-44c2-a25e-f9fcdba361cd",
+        "a99485b7-ccf6-42a5-8532-3f584a4acb55",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "04252990-36c0-4f5c-8c86-2cc4142a24ff",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "dbb7c17e-6cd1-4ebf-a22e-5207181fbdda",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "75a6a21e-f1b7-42a8-9aa8-85a64131d21c",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7650284d-9153-4911-af00-4adec8bd870b",
+      "dutyDetail": "Complete the vessels disbursement account to the vessel operator/owner – compiling all the invoices incurred in the vessels call at the port.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0"
+      ],
+      "mappedKnowledge": [
+        "ed393cff-99f7-4f0d-8fba-be392901f293",
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "0ab9b267-6e91-482c-a599-9d27904977c8",
+        "ce3f7f9f-6aeb-44c2-a25e-f9fcdba361cd",
+        "a99485b7-ccf6-42a5-8532-3f584a4acb55",
+        "8a85371a-aeef-4ef1-adc2-56a86512faed",
+        "04252990-36c0-4f5c-8c86-2cc4142a24ff",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "74249998-ab13-4809-9da9-d830d6bfea40",
+        "0b0802da-5bb8-432b-974d-a56438da1980",
+        "2ae62fbd-7b89-4665-8a57-83b6a5ab03fa",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6e7c1499-c0e6-4309-bf53-07ca8c6282a2",
+      "dutyDetail": "Identify incidents and emergencies that impact the vessel, its crew, or cargo. Provide a remedy (within limits of own role) or escalate to relevant stakeholder organisations. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "6618c8e1-fbe8-4c28-a2e9-95079298f513",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530",
+        "0c9eff33-7e90-4102-bdfe-0595a723e831"
+      ],
+      "mappedKnowledge": [
+        "9b764513-76b3-466d-b99e-30ec95a7687e",
+        "0dc1ce44-277d-48ff-a85a-92cbe86b9c6b",
+        "371534ae-44aa-4989-b88f-def212ce992b",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb",
+        "fe849c7a-d8c4-4e3c-9933-6fdfa743355d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "32b9e8e6-ccb8-40de-a2f3-926d8445dcd4",
+        "6b33ef36-850e-4a98-a270-a30172dda89f",
+        "ccedf678-f220-4aa0-973d-960dc8566d02",
+        "74055350-da86-49df-9a4e-fac138defdfe",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "433f2e8c-5246-4582-a433-1a8121cabbe4",
+        "914ac556-4f0e-4343-90b8-9062a634aa66",
+        "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eaf0678a-db0c-4144-8f00-08b566018540",
+      "dutyDetail": "Work to provide a profitable service for both your own organisation and the vessel operator. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530"
+      ],
+      "mappedKnowledge": [
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "ce3f7f9f-6aeb-44c2-a25e-f9fcdba361cd",
+        "a99485b7-ccf6-42a5-8532-3f584a4acb55",
+        "04252990-36c0-4f5c-8c86-2cc4142a24ff",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0149dc3a-8690-4ffd-b842-093fcf4d040b",
+        "c676bc0d-0dfe-48ab-a62c-b356df40a6dc",
+        "476bde22-bd89-4955-a83a-fc69547582e4",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "1b117400-1a6d-4ccb-afc0-e8d7968e04b4",
+        "cea8d06d-ce45-405b-9439-418c01595fa0",
+        "94fa27e1-1e66-4bdb-b928-a12e41de028c",
+        "faff3112-89d2-4710-82b3-663091534060"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c5a73bc-2591-460c-8713-557fe1b35506",
+      "dutyDetail": "Deal with any enquiries or complaints about the port agency services you are responsible for. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cc0202f6-f538-4ea9-a190-e7cfcb698c2e",
+        "6618c8e1-fbe8-4c28-a2e9-95079298f513",
+        "48177a04-78f0-42e1-908f-908d4de8f35b",
+        "7455760f-3a3a-4a0f-84bb-5359b74b53d0",
+        "c486335e-c79d-4f8d-856b-fa20d9218530"
+      ],
+      "mappedKnowledge": [
+        "6faf398b-406b-4ce8-9169-dda127671928",
+        "c2bc0e28-6f3d-4a99-a4e9-6e91cb7764fc",
+        "1f0c116f-0680-4182-bdca-ba6a58d49765",
+        "7ce6dc6f-3ce0-4fcc-83e5-8f1ccc94f908",
+        "8d9bb354-389e-4d41-96e3-88f313822cbb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f8941a25-c917-420b-b7e4-3c07ee667edb",
+        "fe67c84f-e649-4a4f-8b33-c8ddfcfb8dde",
+        "2382f818-2e5b-4f8a-bb29-093a623daf15",
+        "02c04abb-4b54-443d-a17d-c9ea30b87329",
+        "10423cc9-7049-4f70-8c22-0f94fb2e2a41"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-02-18T00:00:00"
 }
