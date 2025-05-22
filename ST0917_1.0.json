@@ -1,60 +1,805 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 754,
   "referenceNumber": "ST0917",
+  "learningAimClassCode": "",
   "title": "Scenic construction technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0917",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-02-28T00:00:00",
+  "earliestStartDate": "2024-02-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "To safely design and construct bespoke scenic elements.",
   "level": 3,
+  "ePALength": 3,
   "typicalDuration": 30,
-  "maxFunding": 0,
+  "maxFunding": 23000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "theatre",
+    "construct",
+    "scenic construction technician",
+    "design",
+    "stage"
+  ],
+  "jobRoles": [
+    "Cnc operator",
+    "Fabricator",
+    "Set carpenter",
+    "Sustainable set builder",
+    "Workshop technician",
+    "Workshop/carpentry/metalwork/draughting assistant"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0917-v1-0?view=epa",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.2 Crafts, creative arts and design",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in theatres, live events, film and TV and commercial workshops who undertake work for these organisations. &lt;br&gt;&lt;br&gt;Scenic Construction Technicians, depending on employer requirements and contracts, also undertake work in conference venues, theme parks, shop/restaurant displays, themed installations, festivals, corporate events and exhibitions. The broad purpose of the occupation is to safely design and construct bespoke scenic elements for example simple walled structures (flats), platforms, doors, stairs, windows and floors using a variety of techniques including using carpentry skills, metal fabrication skills and draughting skills. Scenic Construction Technicians follow the design specification of the designer and work within the parameters that various environments dictate for example working at height or within confined spaces. They may make their own basic technical drawings or use more complex ones provided by others. &lt;br&gt;&lt;br&gt;Scenic Construction Technicians pre-fit large assemblies of smaller components and break them down for transportation/storage or delivery to the client, checking materials for defects at all times. They may also be part of a construction team that fits up the scenic elements onstage/onsite, working closely with other departments such as the stage crews, rigging and automation department, lighting and sound departments. They undertake repairs and maintenance to the sets during the set lifetime as well as store, repair and maintain tools and equipment which they use. &lt;br&gt;&lt;br&gt;They are required to communicate with other stakeholders about the design. As required they will discuss the design specification, typically with the designer, offering alternative suggestions on materials, for example. They work efficiently and effectively to minimise the environmental impact of their work whilst maximising sustainability. This can be done by controlling personal material use and minimising waste.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with fellow team members such as carpenters, lead carpenter, metal fabricators, draughts people, the construction manager and their supervisor who may check process and provide guidance. They may also interact with designers in connection with the interpretation of their vision,&amp;nbsp; to make sure it is being interpreted accurately. They may interact with the client whilst they check progress but this occurs less frequently. &lt;br&gt;&lt;br&gt;Once the scenic element is constructed, they interact with scenic artists, production managers, stage supervisors, crew, directors, lighting designers, sound designers, video designers, choreographers, illusionists and prop makers to ensure that the scenic elements can be installed and finished as required.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for achieving the designer’s vision for the scenic elements by interpreting and working from more complex construction drawings, models and references created by others. Working to agreed specifications, they produce scenic elements, which may be bespoke,&amp;nbsp; creating their own basic construction drawings for example 2D, for basic wooden or metal frames. Prior to construction, they check materials for defects, informing others if appropriate, in accordance with procedure requirements. &lt;br&gt;&lt;br&gt;Scenic Construction Technicians will work with others to achieve the objectives of the project, including timescales and the interpretation of the designer’s vision. They must adhere to health, safety, environmental and sustainability policies, procedures and regulations including the safe use, required maintenance and safe storage of tools and equipment in accordance with local and manufacturer’s requirements. They will effectively control personal material use, taking into account material sustainability and environmental impact to minimise waste and increase efficiency.&lt;br&gt;&lt;br&gt;They will adapt their approach as the situation, circumstances and/or people change whilst achieving personal objectives set by their manager They are trusted to work unsupervised under the brief of their supervisor. They will be required to work during evenings and weekends during &#39;fit up&#39; and production periods.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+      "detail": "The production lifecycle for example, what finish will be applied, robust enough to withstand multiple installations when required. How finishes and choice of materials affect sustainability"
+    },
+    {
+      "knowledgeId": "af390089-2fa7-487d-b35c-018e6270e8a6",
+      "detail": "The range of technical processes required to achieve the finished scenic element for example reading the drawing, measuring and marking out, cutting, assembling and finishing using processes appropriate to the materials being used. How to choose the correct process"
+    },
+    {
+      "knowledgeId": "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+      "detail": "The range of Designer’s creative working processes and communication methods for example detailed scale model, mood boards and their impact on the scenic construction process for example, use of available / sustainable materials, and use of reference materials"
+    },
+    {
+      "knowledgeId": "d4cb3936-d321-4a7b-a8af-2fadb58ae49f",
+      "detail": "The range of design software for example, Computer Aided Design, Photoshop, digital visualisations which may be used and presented by Designers"
+    },
+    {
+      "knowledgeId": "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+      "detail": "Industry language to be able to understand others’ instructions and to convey appropriate information"
+    },
+    {
+      "knowledgeId": "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+      "detail": "The range of information contained within technical drawings for example, different projections, how to read dimensions, impact of specified notes."
+    },
+    {
+      "knowledgeId": "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+      "detail": "The range of written and verbal communication techniques and when they are used to best effect"
+    },
+    {
+      "knowledgeId": "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+      "detail": "Statutory, quality, organisational and health and safety regulations, including the Health and Safety at Work Act 1974, method statements and risk assessments, Control of Substances Hazardous to Health 2002, Lifting Operations and Lifting Equipment Regulations 1998, Provision and Use of Work Equipment Regulations 1998, and the Construction (Design and Management) Regulations 2015, ABTT Yellow Book and Theatre Green Book"
+    },
+    {
+      "knowledgeId": "81fd1c47-a6bd-4704-acb3-c9bd173cb066",
+      "detail": "Requirements of basic MIG coding welding to BS4872"
+    },
+    {
+      "knowledgeId": "402ec067-464b-469e-bcab-ca78525969aa",
+      "detail": "The processes for measuring, cutting, grinding, drilling and welding metal scenic structures/frameworks/assemblies"
+    },
+    {
+      "knowledgeId": "00f84a2e-3934-4bc6-bd7f-e3c280a4d12c",
+      "detail": "The processes for measuring, cutting, grinding, drilling and welding metal scenic components"
+    },
+    {
+      "knowledgeId": "8a24a35e-eb8f-488d-a380-b57a61891fa2",
+      "detail": "The processes for measuring, cutting  drilling and joining wood scenic structures/frameworks/assemblies"
+    },
+    {
+      "knowledgeId": "753ebc6e-2a23-4f41-9f84-041637f8b18c",
+      "detail": "The processes for measuring, cutting, drilling and joining wood scenic components"
+    },
+    {
+      "knowledgeId": "fac2ba80-49d2-4610-9619-06950407513c",
+      "detail": "The processes for measuring, cutting and fixing other sustainable materials which may include gluing paper-based materials to achieve scenic structures/frameworks/assemblies"
+    },
+    {
+      "knowledgeId": "a7bfb1ef-0daf-4074-9994-e786cdcf7c57",
+      "detail": "The processes for measuring, cutting and fixing other sustainable materials which may include gluing paper-based materials to achieve scenic components"
+    },
+    {
+      "knowledgeId": "805db79a-5743-498a-9f24-2abe5eac5b4c",
+      "detail": "The range of fixing methods used on scenic assemblies"
+    },
+    {
+      "knowledgeId": "17022e71-5081-42a0-a340-3c6e38805062",
+      "detail": "The processes to assemble individual scenic parts"
+    },
+    {
+      "knowledgeId": "7df3a8e9-3d32-4182-9038-50eacbd19b47",
+      "detail": "The processes to assemble scenic elements from individual parts including marking setting lines from a drawing to locate scenery in the correct place."
+    },
+    {
+      "knowledgeId": "c28a5d48-bb43-4138-b951-9838327c1ef5",
+      "detail": "The range of materials available, their applications and limits and how their potential use can impact upon the environment for example type of material, standard sheet sizes, material thicknesses, and fire resistance values. The choice of materials and finishes in relation to recycling and sustainability"
+    },
+    {
+      "knowledgeId": "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+      "detail": "Requirements and impacts of a range of working environments outside of the scenic workshop for example the range of lifting capacities available, different building or site induction processes, awkward access into a venue"
+    },
+    {
+      "knowledgeId": "4e87fb1c-482c-4561-a465-42724cc90072",
+      "detail": "The principles, legislation, and best working practice for suspending items above ground for example, the correct use of slings, hoists, steel wire ropes, and shackles"
+    },
+    {
+      "knowledgeId": "1c328aab-9a56-41da-96bb-856a12cf05e9",
+      "detail": "The principles, legislation and best working practice for working at height for example Work at Height Regulations"
+    },
+    {
+      "knowledgeId": "094f0c9d-bb2d-4bd7-a61c-ddd9ec26ea4e",
+      "detail": "The range of moving and securing equipment available and how to identify the correct equipment for each task for example, use of wheeled trolleys, pallet trucks, or forklifts to assist with moving and securing large scenic structures/frameworks/assemblies"
+    },
+    {
+      "knowledgeId": "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+      "detail": "The range of tools and machinery available and how to identify and use the correct one(s) for each task for example, measuring and marking tools, saws, drills, Computer Numerical Control (CNC) routers"
+    },
+    {
+      "knowledgeId": "513b6704-5035-45eb-a1ae-83cc978a57fe",
+      "detail": "The language used around sustainability for example what is meant by sustainability, recyclability, carbon footprint and the considerations around using sustainable materials and evaluating their impact "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+      "detail": "Maintains a clean and safe working environment"
+    },
+    {
+      "behaviourId": "e15475d3-4f95-484b-a780-79bcdf6ab422",
+      "detail": "Pays attention to detail and work is accurate"
+    },
+    {
+      "behaviourId": "29dad353-7268-4abb-8936-a9c3cd4916f6",
+      "detail": "Is pro-active and purposeful when working on their activities, applies the appropriate knowledge. Seeks support when it is needed from line-manager and reports changes and concerns at all times"
+    },
+    {
+      "behaviourId": "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+      "detail": "Establishes effective working relationships with co-workers, managers and other departments and helps others to achieve their objectives"
+    },
+    {
+      "behaviourId": "73334e5e-7a14-4288-b7e8-4649de250ef0",
+      "detail": "Works safely and is aware of key health, safety, and welfare issues and their impact on day to day activities"
+    },
+    {
+      "behaviourId": "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+      "detail": "Identifies unexpected challenges or deviation from the specifications and offers appropriate solutions or seeks appropriate guidance"
+    },
+    {
+      "behaviourId": "7d7c3503-6e27-4a25-a905-22e08615fda5",
+      "detail": "Committed to continued professional development"
+    },
+    {
+      "behaviourId": "dd7bac7c-2ae9-4639-bc8e-ab8719bba443",
+      "detail": "Seeks materials, working methods and construction techniques that support environmental sustainability"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "cb725748-0177-49e0-8370-132fef5e59da",
+      "detail": "Interpret the drawing or reference to deliver the Designer’s requirements"
+    },
+    {
+      "skillId": "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+      "detail": "Research and evaluate new technologies and sustainable materials that could contribute to the scenic production process and discuss them with others to identify possible changes"
+    },
+    {
+      "skillId": "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+      "detail": "Use industry language and terminology when communicating with others"
+    },
+    {
+      "skillId": "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+      "detail": "Interpret design requirements which may be presented using a range of software. This may include creating basic visualisation to help others see how designs are used practically."
+    },
+    {
+      "skillId": "d0f6f09c-af45-48ce-aca3-6473835be6e8",
+      "detail": "Produce 2-dimentional construction drawings to achieve the designer’s vision and in a format that enables the metal worker/carpenter/paper-board convertor to work from"
+    },
+    {
+      "skillId": "403f4f02-ca98-4d18-b386-4c3728f970bd",
+      "detail": "Use complex drawings i.e. greater number of elements or complex isometrics/geometry to create scenic elements to meet designer’s requirements"
+    },
+    {
+      "skillId": "e5b04364-4b79-4593-8f36-64c91a13eb7b",
+      "detail": "Measure, cut, grind, drill and weld metal to create scenic structures/frameworks/assemblies"
+    },
+    {
+      "skillId": "14c04133-36a3-49db-9852-1b1ac7f2b5e8",
+      "detail": "Measure, cut, grind, drill and weld metal to create scenic components"
+    },
+    {
+      "skillId": "f51a20f3-face-497c-80cf-be799c5014ba",
+      "detail": "Measure, cut drill and join wood to create scenic structures/frameworks/assembles"
+    },
+    {
+      "skillId": "a02661ae-47f8-4535-a84b-473922c02aac",
+      "detail": "Measure, cut drill and join wood to create scenic components"
+    },
+    {
+      "skillId": "a93ffef2-80d5-4228-8be2-4c89e88a9ace",
+      "detail": "Measure, cut and fix sustainable materials which may include paper-based materials to create scenic structures/frameworks/assemblies"
+    },
+    {
+      "skillId": "5ec101c2-8a7f-42c9-b0db-06cf7c7cf3ac",
+      "detail": "Measure, cut and fix sustainable materials which may include paper-based materials to create scenic components"
+    },
+    {
+      "skillId": "23a559ab-79e9-47ac-b1ef-7b2021efbdc3",
+      "detail": "Use a range of suitable fixing methods"
+    },
+    {
+      "skillId": "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+      "detail": "Use resources for example materials, efficiently and effectively to contribute to the smooth running of the workshop and installation on set and ensure it meets its resource constraints activities for example, choosing the correct material"
+    },
+    {
+      "skillId": "5eeeb636-a45d-4783-9422-1209c003ae34",
+      "detail": "Comply with statutory, quality, organisational and health and safety regulations when producing scenic elements including  undertaking risk assessments, working to method statements, reporting hazardous substances."
+    },
+    {
+      "skillId": "3d99f863-0f38-46d4-a91f-2c55894d1198",
+      "detail": "Seek additional advice or expertise from others to support activities"
+    },
+    {
+      "skillId": "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+      "detail": "Choose the correct material to produce/repair the scenic elements"
+    },
+    {
+      "skillId": "8169eb07-6b01-4946-a4f1-f05a9478bf97",
+      "detail": "Choose the correct process to apply the materials to the scenic elements which may include paint finishes/texturing/aging"
+    },
+    {
+      "skillId": "cd1e5a09-ddaf-4475-b8ed-be4a131024c5",
+      "detail": "Use mechanical or chemical fixings/bondings as appropriate to the situation"
+    },
+    {
+      "skillId": "4c384859-714e-45a0-8dfb-1a14ab42894c",
+      "detail": "Recycle and/or safely dispose of waste materials"
+    },
+    {
+      "skillId": "4a115edc-bbdf-4712-9a1e-8742344d7411",
+      "detail": "Follow written, pictorial and verbal instructions to deliver, locate and assemble and secure the scenic elements"
+    },
+    {
+      "skillId": "99dad9d4-d683-48b2-8606-404e1e9520f8",
+      "detail": "Hang scenic elements correctly using a range of appropriate equipment for example eye bolts, flying irons"
+    },
+    {
+      "skillId": "48efce62-9984-415b-b6f7-ea7d0ade8a28",
+      "detail": "Inspect, maintain, repair and store tools and equipment in-line with manufacturer, legislative and company requirements"
+    },
+    {
+      "skillId": "dd5c9cee-b190-45df-9193-ec8de40317f2",
+      "detail": "Operate workshop machinery, tools, and other equipment safely and efficiently to meet the design specification"
+    },
+    {
+      "skillId": "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd",
+      "detail": "Chose and use the appropriate tools/equipment for each task for example, measuring and marking tools, saws, drills, glue guns, Computer Numerical Control (CNC) routers"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-02-27T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0498",
-  "tbMainContact": "Rebecca.Cubitt@rsc.org.uk",
-  "involvedEmployers": "",
+  "tbMainContact": "kjohn@nationaltheatre.org.uk",
+  "involvedEmployers": "Belgrade Theatre, Disney, LADA/CC Skills, London Academy of Music and Dramatic Art, National Theatre, Royal Exchange, Royal Opera House, Royal Shakespeare Company, Souvenir, The Really Useful Group, Theatre Royal Plymouth, Welsh National Opera, Young Vic",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "Cnc operator",
+    "Fabricator",
+    "Set carpenter",
+    "Sustainable set builder",
+    "Workshop technician",
+    "Workshop/carpentry/metalwork/draughting assistant"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Media, Broadcast and Production",
-  "cluster": null,
-  "createdDate": "2020-05-19T14:59:10 +00:00",
-  "lastUpdated": "2020-05-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-construction-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/scenic-construction-technician",
+  "cluster": "Production arts assistant",
+  "clusterId": "60",
+  "clusterDescription": "Work from event/staging designs to create impactful and safe staging and lighting solutions along with props and costume support",
+  "createdDate": "2024-02-28T09:57:01 +00:00",
+  "lastUpdated": "2024-02-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-02-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0917",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0917-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0917-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "730c5457-27c3-4f50-8fc1-04994032bad1",
+      "dutyDetail": "Collaborate with the set designer(s) and/or other team members to understand, to accurately interpret and communicate a designer’s vision for example the scale of an object, to other stakeholders and team members. This may include offering alternative suggestions to the designer about materials for example",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29"
+      ],
+      "mappedKnowledge": [
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "d0f6f09c-af45-48ce-aca3-6473835be6e8",
+        "403f4f02-ca98-4d18-b386-4c3728f970bd",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "dd5c9cee-b190-45df-9193-ec8de40317f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f0f4b1b-0b7e-46fd-b63a-4e65d015452d",
+      "dutyDetail": "Produce two-dimensional construction drawings, using CAD for example, which show the plan and elevation of the object, materials and dimensions of simple scenic elements for example flats, lay them on a paper sheet in order to print them to the correct scale for the metal worker or carpenter to work from",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "d0f6f09c-af45-48ce-aca3-6473835be6e8",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "dd5c9cee-b190-45df-9193-ec8de40317f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "316c0928-7d7b-46df-9465-a8af4020f212",
+      "dutyDetail": "Using more complex construction drawings i.e. a greater number of elements or complex isometrics/geometry, manufacture the designer’s vision to meet the required specification",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29"
+      ],
+      "mappedKnowledge": [
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "403f4f02-ca98-4d18-b386-4c3728f970bd",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "dd5c9cee-b190-45df-9193-ec8de40317f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "acf5db71-a986-488a-82d7-e54cfb601fc6",
+      "dutyDetail": "Measure, cut, grind, drill and weld metal components to safely create scenic structures and frameworks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "7d7c3503-6e27-4a25-a905-22e08615fda5",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+        "d4cb3936-d321-4a7b-a8af-2fadb58ae49f",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "81fd1c47-a6bd-4704-acb3-c9bd173cb066",
+        "402ec067-464b-469e-bcab-ca78525969aa",
+        "00f84a2e-3934-4bc6-bd7f-e3c280a4d12c",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "e5b04364-4b79-4593-8f36-64c91a13eb7b",
+        "14c04133-36a3-49db-9852-1b1ac7f2b5e8",
+        "5ec101c2-8a7f-42c9-b0db-06cf7c7cf3ac",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01c5e41e-4004-437e-9b96-65d376502b7c",
+      "dutyDetail": "Measure, cut and drill wood components, using appropriate tools, equipment and materials as well as using a range of fixing methods (for example glue and screw), to safely create scenic structures and frameworks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "7d7c3503-6e27-4a25-a905-22e08615fda5",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+        "d4cb3936-d321-4a7b-a8af-2fadb58ae49f",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "8a24a35e-eb8f-488d-a380-b57a61891fa2",
+        "753ebc6e-2a23-4f41-9f84-041637f8b18c",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "f51a20f3-face-497c-80cf-be799c5014ba",
+        "a02661ae-47f8-4535-a84b-473922c02aac",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9b5937aa-00b5-43ee-9e1a-a04b65a4c84e",
+      "dutyDetail": "Measure, cut, fix and construct components, using sustainable materials which may include paper-based materials, using appropriate tools, equipment and materials as well as using a range of fixing and construction methods (for example hot glue and interlocking joints and folds), to safely create scenic structures and frameworks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "7d7c3503-6e27-4a25-a905-22e08615fda5",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+        "d4cb3936-d321-4a7b-a8af-2fadb58ae49f",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "fac2ba80-49d2-4610-9619-06950407513c",
+        "a7bfb1ef-0daf-4074-9994-e786cdcf7c57",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "a93ffef2-80d5-4228-8be2-4c89e88a9ace",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f5a2a94e-3306-4ef2-b953-2b64dffaa87e",
+      "dutyDetail": "Apply, bond or fix range of materials for example fabric or plastic on to wooden and/or metal structures, using mechanical or chemical fixings for example nails, screws, tape, adhesives",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "7d7c3503-6e27-4a25-a905-22e08615fda5",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "a6bce910-4791-4d6d-b9cf-d3d7bb22928a",
+        "d4cb3936-d321-4a7b-a8af-2fadb58ae49f",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "402ec067-464b-469e-bcab-ca78525969aa",
+        "00f84a2e-3934-4bc6-bd7f-e3c280a4d12c",
+        "8a24a35e-eb8f-488d-a380-b57a61891fa2",
+        "753ebc6e-2a23-4f41-9f84-041637f8b18c",
+        "fac2ba80-49d2-4610-9619-06950407513c",
+        "a7bfb1ef-0daf-4074-9994-e786cdcf7c57",
+        "805db79a-5743-498a-9f24-2abe5eac5b4c",
+        "c28a5d48-bb43-4138-b951-9838327c1ef5",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "7de8b2f5-16d1-4e49-96d9-d934612df92a",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "b62de7b6-f03c-42c6-8257-667bab6a9a2d",
+        "23a559ab-79e9-47ac-b1ef-7b2021efbdc3",
+        "9e18673c-9ccb-4f00-9019-539aa91cae8a",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "8169eb07-6b01-4946-a4f1-f05a9478bf97",
+        "cd1e5a09-ddaf-4475-b8ed-be4a131024c5",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7614f29b-d62b-4714-802d-0cb119e067ad",
+      "dutyDetail": "Assess, plan, move, load and secure large scenic elements for example heavy, large, awkward, unbalanced objects, safely using the appropriate tools, techniques and equipment between different internal/external spaces, in accordance with lifting plans, risk assessments and method statements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29"
+      ],
+      "mappedKnowledge": [
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "17022e71-5081-42a0-a340-3c6e38805062",
+        "7df3a8e9-3d32-4182-9038-50eacbd19b47",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "094f0c9d-bb2d-4bd7-a61c-ddd9ec26ea4e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "dd5c9cee-b190-45df-9193-ec8de40317f2",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bb514f42-ae09-4bec-b3c8-25ce21fa4963",
+      "dutyDetail": "Assemble individual scenic elements into completed structures either in the workshop or as part of an installation taking in to account the logistical parameters of the environment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "afc2b24b-baf9-4a34-8c6e-af27661c158b",
+        "af390089-2fa7-487d-b35c-018e6270e8a6",
+        "907d2ed0-a925-4fdc-89f8-5d4fe289d905",
+        "723935e1-4a2e-456f-881c-2fa1ba73bfd2",
+        "78ec7ab0-f995-43c3-82bd-1a0f1bbe6508",
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "805db79a-5743-498a-9f24-2abe5eac5b4c",
+        "17022e71-5081-42a0-a340-3c6e38805062",
+        "7df3a8e9-3d32-4182-9038-50eacbd19b47",
+        "4853fda8-479a-4939-a30b-548d0ee1c4a3",
+        "4e87fb1c-482c-4561-a465-42724cc90072",
+        "1c328aab-9a56-41da-96bb-856a12cf05e9",
+        "094f0c9d-bb2d-4bd7-a61c-ddd9ec26ea4e",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cb725748-0177-49e0-8370-132fef5e59da",
+        "ee10ecc5-5208-4d1e-9136-89e2b6c91e5b",
+        "5eeeb636-a45d-4783-9422-1209c003ae34",
+        "3d99f863-0f38-46d4-a91f-2c55894d1198",
+        "cd1e5a09-ddaf-4475-b8ed-be4a131024c5",
+        "4a115edc-bbdf-4712-9a1e-8742344d7411",
+        "99dad9d4-d683-48b2-8606-404e1e9520f8",
+        "dd5c9cee-b190-45df-9193-ec8de40317f2",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5f5513b1-b25b-43ef-b4b8-c884307f4b15",
+      "dutyDetail": "Undertake routine repairs and maintenance to tools and equipment for example replace saw blades, in accordance with policies and procedures, risk assessments and manufacturers’ instructions and ensure they are correctly stored",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "8c395b2b-3108-4ffd-83c8-fd30d2d5db66",
+        "cc2f1186-0cb8-4d9c-af46-9fbf8e752b45"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "14c04133-36a3-49db-9852-1b1ac7f2b5e8",
+        "a02661ae-47f8-4535-a84b-473922c02aac",
+        "5ec101c2-8a7f-42c9-b0db-06cf7c7cf3ac",
+        "48efce62-9984-415b-b6f7-ea7d0ade8a28"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46b350d5-09af-4f62-a66f-c569d7534c84",
+      "dutyDetail": "Undertake repairs and maintenance of sets, sympathetic to the designers brief, during and after performances as required to return them to the original design ensuring visual and structural integrity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "794c94c7-6fc8-4e4d-bc1d-5a7c6e28e549",
+        "e15475d3-4f95-484b-a780-79bcdf6ab422",
+        "29dad353-7268-4abb-8936-a9c3cd4916f6",
+        "b470cbcc-3778-4d5f-ae58-67bf6de4e133",
+        "73334e5e-7a14-4288-b7e8-4649de250ef0",
+        "9eb46d4a-c0f7-4515-a344-317c2a18aa29",
+        "dd7bac7c-2ae9-4639-bc8e-ab8719bba443"
+      ],
+      "mappedKnowledge": [
+        "402ec067-464b-469e-bcab-ca78525969aa",
+        "00f84a2e-3934-4bc6-bd7f-e3c280a4d12c",
+        "8a24a35e-eb8f-488d-a380-b57a61891fa2",
+        "753ebc6e-2a23-4f41-9f84-041637f8b18c",
+        "fac2ba80-49d2-4610-9619-06950407513c",
+        "a7bfb1ef-0daf-4074-9994-e786cdcf7c57",
+        "805db79a-5743-498a-9f24-2abe5eac5b4c",
+        "17022e71-5081-42a0-a340-3c6e38805062",
+        "7df3a8e9-3d32-4182-9038-50eacbd19b47",
+        "513b6704-5035-45eb-a1ae-83cc978a57fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e5b04364-4b79-4593-8f36-64c91a13eb7b",
+        "f51a20f3-face-497c-80cf-be799c5014ba",
+        "a93ffef2-80d5-4228-8be2-4c89e88a9ace",
+        "8e1eedf8-55cc-440c-88ce-95d612b796bd",
+        "8169eb07-6b01-4946-a4f1-f05a9478bf97",
+        "cd1e5a09-ddaf-4475-b8ed-be4a131024c5",
+        "4c384859-714e-45a0-8dfb-1a14ab42894c",
+        "85aa61a6-eecd-4963-8766-9e0bd4f1d8dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-28T00:00:00"
 }
