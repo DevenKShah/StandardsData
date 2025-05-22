@@ -1,0 +1,696 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 235,
+  "referenceNumber": "ST0395",
+  "learningAimClassCode": "",
+  "title": "Watchmaker",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0395",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "End-point assessment plan, standard and funding revised",
+  "changedDate": "2022-01-10T00:00:00",
+  "earliestStartDate": "2022-01-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Make, service and repair watches.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Creative and design",
+  "keywords": [
+    "watch",
+    "craft",
+    "repair",
+    "design",
+    "manufacturing",
+    "arts",
+    "watches"
+  ],
+  "jobRoles": [
+    "Watchmaker",
+    "Watch Repairer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5768/st0395_watchmaker_l3_epa_final.pdf",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.2 Crafts, creative arts and design",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;This occupation is found in &lt;/span&gt;&lt;span&gt;an &lt;/span&gt;&lt;span&gt;independent company servicing of a range of watch brands or a workshop maintained by a particular brand of watch. The independent company may be:&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span&gt;a small business such as a jeweller. In this setting, the watchmaker would service watches for their customers,&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span&gt;alternatively, the watchmaker may be employed by a large company focusing on servicing watches directly for the public and for other businesses.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span&gt;The broad purpose of the occupation is&lt;/span&gt;&amp;nbsp;to service quartz and mechanical watches (manual winding and automatic winding watches). The watchmaker will also complete part jobs whereby they replace components which are worn or damaged.&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;The work is skilled, precise, and delicate in nature and requires the use of:&lt;/span&gt;&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;&lt;span&gt;test equipment to assess the functioning of the watch and determine faults,&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span&gt;hand tools to dismantle, reassemble and adjust the watch,&lt;/span&gt;&lt;/li&gt;\n&lt;li&gt;&lt;span&gt;machine tools for cleaning watch components and case refurbishment.&lt;/span&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&lt;span&gt;An understanding of the principles involved in the functioning of both quartz and mechanical watch movements is important together with a background knowledge of timekeeping, history, and the watch industry.&lt;br&gt;&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;In their daily work, an employee in this occupation interacts with&lt;/span&gt;&lt;span&gt;&amp;nbsp;their employer, managers, other watchmakers, and team members. &lt;/span&gt;&lt;span&gt;The watchmaker may also interact with clients or customers and suppliers.&lt;/span&gt;&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;An employee in this occupation will be responsible for t&lt;/span&gt;he maintenance of their hand tools and the use of test equipment and machinery in accordance with relevant Health and Safety legislation. They are responsible for working ethically and disposing of waste materials and cleaning fluids in a sustainable manner.&lt;/p&gt;\n&lt;p&gt;&lt;span&gt;The watchmaker may progress to servicing more complex watches such as chronographs, and to restore watches for private individuals and the heritage sector. They may also manufacture watches.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+      "detail": "Health and safety legislation relating to common hazards within the working environment for watch servicing (Health and Safety at Work Act 1974, COSHH, PPE)."
+    },
+    {
+      "knowledgeId": "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+      "detail": "The importance of risk analysis to ensure the safety of self and others when using tools, equipment and materials for watch servicing.  "
+    },
+    {
+      "knowledgeId": "04330717-b992-4519-8770-b60c3ba56a21",
+      "detail": "The importance of safe disposal of all waste materials."
+    },
+    {
+      "knowledgeId": "3c5ab215-6fe7-4f30-bafc-9a13f3e56e6f",
+      "detail": "Ethical issues in watchmaking (counterfeit watches (fake and replica), watch customization, use of generic parts, the availability of watch parts to watchmakers). "
+    },
+    {
+      "knowledgeId": "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
+      "detail": "Construction, operational principles and maintenance of tools and equipment required for watch servicing. (hand tools required for watch servicing, test equipment and machines for case refinishing)."
+    },
+    {
+      "knowledgeId": "3df100b2-2bbb-4656-9162-f86951febb6d",
+      "detail": "Different types of quartz and mechanical watches, their basic function and construction."
+    },
+    {
+      "knowledgeId": "6187046a-6fd9-4c16-85d4-aafe9f997b79",
+      "detail": "The construction of watch cases, bracelets and straps."
+    },
+    {
+      "knowledgeId": "eaaa83a3-2403-4992-b2bd-a05ebfea0d91",
+      "detail": "Procedures for servicing and refinishing watch cases and bracelets."
+    },
+    {
+      "knowledgeId": "01e74419-a153-4503-a324-a3170aacdbda",
+      "detail": "Procedures for resealing and water resistance testing of watch cases."
+    },
+    {
+      "knowledgeId": "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+      "detail": "The construction and operational principles of quartz watch movements and their components."
+    },
+    {
+      "knowledgeId": "50f12e0f-a627-4f6a-817a-ec2032afdbbb",
+      "detail": "Procedures for using test equipment and observations to identify and correct operational faults in quartz watch movements. "
+    },
+    {
+      "knowledgeId": "fbec2e31-4349-4282-8b1d-09446863b478",
+      "detail": "Procedures for servicing quartz watch movements (disassembly, cleaning, reassembly); Procedures for servicing quartz watch movements (lubrication)."
+    },
+    {
+      "knowledgeId": "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+      "detail": "The construction and operational principles of mechanical watch movements and their components."
+    },
+    {
+      "knowledgeId": "46112708-86c5-4c59-9272-20b69d18b290",
+      "detail": "Procedures for using test equipment and observations to identify and correct operational faults in mechanical watch movements."
+    },
+    {
+      "knowledgeId": "e71ffb0d-2bb7-40d7-b135-bb1a54e27fc4",
+      "detail": "Procedures for servicing mechanical watch movements (disassembly, cleaning); Procedures for servicing mechanical watch movements (reassembly, lubrication and adjustment)."
+    },
+    {
+      "knowledgeId": "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
+      "detail": "The specification and estimation of the cost of replacement components for quartz and mechanical watch movements and their cases."
+    },
+    {
+      "knowledgeId": "f02a6911-5ffe-4a1c-ae63-0c0bce623dee",
+      "detail": "Manufacturer’s technical information and its use."
+    },
+    {
+      "knowledgeId": "43c695e1-b63d-42ff-8286-b1e7ecdee6ac",
+      "detail": "The watch servicing industry and associated trades (sequential servicing, watch technician, material dealer, dial restoration, watch restoration, case polishing and refurbishment, making watches, brands, independents)."
+    },
+    {
+      "knowledgeId": "efbfaaf9-4eb2-4ae3-93a4-3f359799c5e8",
+      "detail": "The history and development of time keeping (background to timekeeping, developments in quartz and mechanical watches, alternative escapements, older watches). "
+    },
+    {
+      "knowledgeId": "2352f501-8b29-4bd7-bb9a-f11f388b8489",
+      "detail": "The use of Information technology for record-keeping, self-learning and continuous development."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ecd02c77-b157-4b10-887b-d236be9c1c96",
+      "detail": "Promotes a positive safety culture; ensures work is carried out in a safe way that does not put themselves or others at risk. "
+    },
+    {
+      "behaviourId": "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+      "detail": "Maintains a tidy working environment and replaces equipment after use. "
+    },
+    {
+      "behaviourId": "a6194308-396e-434e-b4f4-5d88b3a490f6",
+      "detail": "Adheres to required work practices and completes work to meet deadlines. "
+    },
+    {
+      "behaviourId": "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+      "detail": "Shows attention to detail and accuracy during servicing and record keeping."
+    },
+    {
+      "behaviourId": "ad28b6ac-09db-4494-a2a1-db3b11e1c3db",
+      "detail": "Demonstrates a responsibility to complete routine work with minimal supervision."
+    },
+    {
+      "behaviourId": "9b3efe4f-3c91-43a6-8b14-58fa2f848ff2",
+      "detail": "Listens to others and respects alternative views and opinions."
+    },
+    {
+      "behaviourId": "994300dd-24fd-44e5-9a26-15800a0d0a6b",
+      "detail": "Prioritises an ethical approach and environmental sustainability in watch servicing."
+    },
+    {
+      "behaviourId": "fa65d78f-8c5e-4411-b11c-537d91a78cf3",
+      "detail": "Varies communication style appropriately during discussions and explanations with colleagues, clients and others."
+    },
+    {
+      "behaviourId": "b7ae03ce-71a3-435f-bd69-9b2cbae5288c",
+      "detail": "Recognises the opportunities from the use of information technology in watch servicing."
+    },
+    {
+      "behaviourId": "0097d6a8-bdfb-44db-9e1f-7fcc836c6a30",
+      "detail": "Keeps abreast of developments in the watch servicing industry."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "876eef8a-4a03-4479-8de1-6916e57277c5",
+      "detail": "Complies with health, safety and environmental legislation (Health and Safety at Work Act 1974, COSHH, PPE) relating to common hazards within the working environment for watch servicing."
+    },
+    {
+      "skillId": "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+      "detail": "Uses equipment safely in accordance with manufacturer's technical information and industry practice."
+    },
+    {
+      "skillId": "a05a2fe3-5535-4d1f-9412-863d7ded7ab2",
+      "detail": "Maintains tools in correct working order according to industry practice. "
+    },
+    {
+      "skillId": "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+      "detail": "Selects and uses appropriate tools in the servicing and repair of watches."
+    },
+    {
+      "skillId": "be35b62b-3653-4282-9887-d87333244968",
+      "detail": "Determines approach to open and service watch cases and remove watch movements."
+    },
+    {
+      "skillId": "614f8a3c-bdce-4a69-affd-1ef07994791d",
+      "detail": "Specifies replacement components required for servicing watch cases and bracelets/straps."
+    },
+    {
+      "skillId": "08265361-972f-4008-9fbf-44f458712b16",
+      "detail": "Ensures all watch case and bracelet/strap components are in a suitable condition for re-assembly (includes refinishing where necessary)."
+    },
+    {
+      "skillId": "fbb5d246-1e55-4a69-a202-8f94bf96071f",
+      "detail": "Reassembles watch cases and bracelets, refits movements and reseals watch cases."
+    },
+    {
+      "skillId": "7892e7bb-0677-4966-8c19-40dcf437048d",
+      "detail": "Uses test equipment to determine the water resistance of the watch (wet and dry testing, condensation test)."
+    },
+    {
+      "skillId": "1608a8a7-2015-4377-84d3-2127b1690e67",
+      "detail": "Uses suitable test procedures and observations for fault finding and to determine the approach for servicing quartz watch movements."
+    },
+    {
+      "skillId": "6440e6a2-48f2-41b4-b759-9da24fefc6a0",
+      "detail": "Dismantles quartz watch movements in accordance with industry practice."
+    },
+    {
+      "skillId": "9fd59c8a-bb1a-4bb7-b12d-e2512cc3b4ff",
+      "detail": "Specifies replacement components required for the servicing of quartz watch movements.  "
+    },
+    {
+      "skillId": "be4bbb5d-1106-45e2-9769-817372784be8",
+      "detail": "Ensures all components for quartz movements are in a suitable condition for re-assembly. "
+    },
+    {
+      "skillId": "a906f5b7-06f5-4df0-bbf3-93086a8dff03",
+      "detail": "Reassembles and lubricates quartz watch movements in accordance with manufacturer's technical information and industry practice."
+    },
+    {
+      "skillId": "b4733f5e-c925-42f4-84cc-8d5cb55bf52e",
+      "detail": "Uses suitable testing procedures and observations for fault finding and to determine the approach for servicing mechanical watch movements."
+    },
+    {
+      "skillId": "184e0cb8-fc0a-4546-9ddd-6d391f9092b8",
+      "detail": "Dismantles mechanical watch movements in accordance with industry practice."
+    },
+    {
+      "skillId": "55518483-873b-4438-b580-f3990ef6f3da",
+      "detail": "Specifies replacement components required for the servicing of mechanical watch movements. "
+    },
+    {
+      "skillId": "d1c035c2-4cf3-4ed9-9623-2b20bc09662b",
+      "detail": "Ensures components of mechanical movements are in a suitable condition for re-assembly. "
+    },
+    {
+      "skillId": "247379cc-70e2-4c82-b5f0-8e36d063b636",
+      "detail": "Reassembles, lubricates and adjusts mechanical watch movements in accordance with manufacturer's technical information and industry practice. "
+    },
+    {
+      "skillId": "bfbfeac1-8f87-49e8-9968-986221fbe045",
+      "detail": "Services watches within agreed commercial time scales. "
+    },
+    {
+      "skillId": "6d20fec9-e480-41c3-b862-4c62893bc82e",
+      "detail": "Uses information technology for record-keeping, self-learning and continuous development.\u2003"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2018-02-19T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0647",
+  "tbMainContact": "clocks@davidpoole.co.uk",
+  "involvedEmployers": "Watchfinder & Co\r\nBremont Watch Company Ltd \r\nF. Hinds Limited, \r\nPeter Roberts Watches (Horological Consultants) Ltd., \r\nSwiss Time Services Ltd, \r\nWatches of Switzerland Group Plc\r\nIn-Time Watch Services Ltd\r\nRotary Watches Ltd \r\nBreitling UK Ltd \r\nE.P. Mallory & Sons Ltd\r\n",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Watchmaker",
+    "Watch Repairer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Craft and Design",
+  "cluster": "Precision manufacturing craftsperson",
+  "clusterId": "72",
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
+  "createdDate": "2022-01-10T13:55:25 +00:00",
+  "lastUpdated": "2022-01-10T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-02-19T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) is in place. Once an EPAO is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0395",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0395-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0395-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "British Watch and Clock Makers’ Guild ",
+      "level": "Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ccc00a33-bea0-4609-8fe7-a8d30eb89df9",
+      "dutyDetail": "Liaise with customers and/or colleagues to determine their requirements and provide clear feedback on work undertaken.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db",
+        "9b3efe4f-3c91-43a6-8b14-58fa2f848ff2",
+        "994300dd-24fd-44e5-9a26-15800a0d0a6b",
+        "fa65d78f-8c5e-4411-b11c-537d91a78cf3",
+        "b7ae03ce-71a3-435f-bd69-9b2cbae5288c",
+        "0097d6a8-bdfb-44db-9e1f-7fcc836c6a30"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "04330717-b992-4519-8770-b60c3ba56a21",
+        "3c5ab215-6fe7-4f30-bafc-9a13f3e56e6f",
+        "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
+        "3df100b2-2bbb-4656-9162-f86951febb6d",
+        "6187046a-6fd9-4c16-85d4-aafe9f997b79",
+        "eaaa83a3-2403-4992-b2bd-a05ebfea0d91",
+        "01e74419-a153-4503-a324-a3170aacdbda",
+        "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+        "50f12e0f-a627-4f6a-817a-ec2032afdbbb",
+        "fbec2e31-4349-4282-8b1d-09446863b478",
+        "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+        "46112708-86c5-4c59-9272-20b69d18b290",
+        "e71ffb0d-2bb7-40d7-b135-bb1a54e27fc4",
+        "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
+        "f02a6911-5ffe-4a1c-ae63-0c0bce623dee",
+        "43c695e1-b63d-42ff-8286-b1e7ecdee6ac",
+        "efbfaaf9-4eb2-4ae3-93a4-3f359799c5e8",
+        "2352f501-8b29-4bd7-bb9a-f11f388b8489"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "be35b62b-3653-4282-9887-d87333244968",
+        "614f8a3c-bdce-4a69-affd-1ef07994791d",
+        "08265361-972f-4008-9fbf-44f458712b16",
+        "fbb5d246-1e55-4a69-a202-8f94bf96071f",
+        "7892e7bb-0677-4966-8c19-40dcf437048d",
+        "1608a8a7-2015-4377-84d3-2127b1690e67",
+        "6440e6a2-48f2-41b4-b759-9da24fefc6a0",
+        "9fd59c8a-bb1a-4bb7-b12d-e2512cc3b4ff",
+        "be4bbb5d-1106-45e2-9769-817372784be8",
+        "a906f5b7-06f5-4df0-bbf3-93086a8dff03",
+        "b4733f5e-c925-42f4-84cc-8d5cb55bf52e",
+        "184e0cb8-fc0a-4546-9ddd-6d391f9092b8",
+        "55518483-873b-4438-b580-f3990ef6f3da",
+        "d1c035c2-4cf3-4ed9-9623-2b20bc09662b",
+        "247379cc-70e2-4c82-b5f0-8e36d063b636",
+        "bfbfeac1-8f87-49e8-9968-986221fbe045",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7120951c-5d1c-4118-9dfe-1736792a7f96",
+      "dutyDetail": "Maintain tools in an appropriate condition to undertake servicing procedures for watchmaking.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "39f7685d-b9fe-4422-bed5-a6ae6fa83693"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "a05a2fe3-5535-4d1f-9412-863d7ded7ab2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f7f37e0d-c78e-489f-a605-5915f60a616a",
+      "dutyDetail": "Assess the condition of quartz and mechanical watches and their components using test equipment, visual assessment and observation. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
+        "3df100b2-2bbb-4656-9162-f86951febb6d",
+        "6187046a-6fd9-4c16-85d4-aafe9f997b79",
+        "eaaa83a3-2403-4992-b2bd-a05ebfea0d91",
+        "01e74419-a153-4503-a324-a3170aacdbda",
+        "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+        "50f12e0f-a627-4f6a-817a-ec2032afdbbb",
+        "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+        "46112708-86c5-4c59-9272-20b69d18b290"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+        "be35b62b-3653-4282-9887-d87333244968",
+        "614f8a3c-bdce-4a69-affd-1ef07994791d",
+        "7892e7bb-0677-4966-8c19-40dcf437048d",
+        "1608a8a7-2015-4377-84d3-2127b1690e67",
+        "b4733f5e-c925-42f4-84cc-8d5cb55bf52e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ff38a109-fa98-4d38-b5b4-aae5662d2ab4",
+      "dutyDetail": "Open watch cases and remove watch movements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
+        "6187046a-6fd9-4c16-85d4-aafe9f997b79",
+        "eaaa83a3-2403-4992-b2bd-a05ebfea0d91",
+        "01e74419-a153-4503-a324-a3170aacdbda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+        "be35b62b-3653-4282-9887-d87333244968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "88a9f98f-82e3-480a-b77b-36a59dc0030c",
+      "dutyDetail": "Identify faults in watch cases and bracelets and decide appropriate levels of intervention.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "39f7685d-b9fe-4422-bed5-a6ae6fa83693",
+        "6187046a-6fd9-4c16-85d4-aafe9f997b79"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "be35b62b-3653-4282-9887-d87333244968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d796d57-2f11-454a-a71c-12448365bd27",
+      "dutyDetail": "Specify replacement components for watch cases / bracelets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "614f8a3c-bdce-4a69-affd-1ef07994791d",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "251b74a1-f8af-4392-96c0-2be32b12de06",
+      "dutyDetail": "Refinish polished and grained surfaces of the watch case and bracelet; prepare and reassemble components (e.g., gaskets, glasses, pushers). ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "eaaa83a3-2403-4992-b2bd-a05ebfea0d91"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "a05a2fe3-5535-4d1f-9412-863d7ded7ab2",
+        "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+        "08265361-972f-4008-9fbf-44f458712b16",
+        "bfbfeac1-8f87-49e8-9968-986221fbe045",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0d0001ed-1953-41d7-8c77-59fec41423b7",
+      "dutyDetail": "Refit watch movements to watch cases, reseal and close watch cases and test watches for water resistance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "01e74419-a153-4503-a324-a3170aacdbda"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+        "7892e7bb-0677-4966-8c19-40dcf437048d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "641b68f3-ac40-4b56-915f-2220846e2bc1",
+      "dutyDetail": "Identify faults in quartz and mechanical watch movements and decide appropriate levels of intervention.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+        "50f12e0f-a627-4f6a-817a-ec2032afdbbb",
+        "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+        "46112708-86c5-4c59-9272-20b69d18b290"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "1608a8a7-2015-4377-84d3-2127b1690e67",
+        "b4733f5e-c925-42f4-84cc-8d5cb55bf52e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dfdc70e7-51bc-4374-bc5c-3ef26fb2e587",
+      "dutyDetail": "Specify replacement components for quartz and mechanical watch movements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
+        "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9fd59c8a-bb1a-4bb7-b12d-e2512cc3b4ff",
+        "55518483-873b-4438-b580-f3990ef6f3da",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dad17e5b-0b6c-460c-82e1-defd90b0f816",
+      "dutyDetail": "Service lubricate and adjust quartz and mechanical watch movements, to ensure the serviced movement meets the manufacturer’s specification and industry practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecd02c77-b157-4b10-887b-d236be9c1c96",
+        "95e8d7b1-0b05-42e9-825d-4d9e1f91eae7",
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db"
+      ],
+      "mappedKnowledge": [
+        "c2f89b8f-e119-4d5d-a858-e27d5e6289bb",
+        "66dfdcb0-8a6e-499b-8800-465ef98d63fa",
+        "04330717-b992-4519-8770-b60c3ba56a21",
+        "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+        "fbec2e31-4349-4282-8b1d-09446863b478",
+        "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+        "e71ffb0d-2bb7-40d7-b135-bb1a54e27fc4",
+        "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "876eef8a-4a03-4479-8de1-6916e57277c5",
+        "26585b83-c18c-43f8-9a8d-d5453e215ff1",
+        "9ab7aa33-5fe1-4424-976e-5b62a178de1d",
+        "6440e6a2-48f2-41b4-b759-9da24fefc6a0",
+        "be4bbb5d-1106-45e2-9769-817372784be8",
+        "a906f5b7-06f5-4df0-bbf3-93086a8dff03",
+        "184e0cb8-fc0a-4546-9ddd-6d391f9092b8",
+        "247379cc-70e2-4c82-b5f0-8e36d063b636",
+        "bfbfeac1-8f87-49e8-9968-986221fbe045",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "55c46031-0762-4cdc-a50f-eebbc5900065",
+      "dutyDetail": "Complete documentation, detailing initial condition of watches, work undertaken, test results, components and estimated cost of components required.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "a6194308-396e-434e-b4f4-5d88b3a490f6",
+        "e5ed53ed-7298-4f62-b0d2-b415141c36c3",
+        "ad28b6ac-09db-4494-a2a1-db3b11e1c3db",
+        "b7ae03ce-71a3-435f-bd69-9b2cbae5288c"
+      ],
+      "mappedKnowledge": [
+        "3df100b2-2bbb-4656-9162-f86951febb6d",
+        "6187046a-6fd9-4c16-85d4-aafe9f997b79",
+        "2f791cc8-33d3-42db-bdf0-ec52d5b1102d",
+        "50f12e0f-a627-4f6a-817a-ec2032afdbbb",
+        "fbec2e31-4349-4282-8b1d-09446863b478",
+        "9dc0b663-2f89-4971-b77a-a6107f5f596c",
+        "46112708-86c5-4c59-9272-20b69d18b290",
+        "e71ffb0d-2bb7-40d7-b135-bb1a54e27fc4",
+        "cb0d0d0a-be08-46fd-8e3e-fa795e96b77d",
+        "f02a6911-5ffe-4a1c-ae63-0c0bce623dee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7892e7bb-0677-4966-8c19-40dcf437048d",
+        "1608a8a7-2015-4377-84d3-2127b1690e67",
+        "9fd59c8a-bb1a-4bb7-b12d-e2512cc3b4ff",
+        "b4733f5e-c925-42f4-84cc-8d5cb55bf52e",
+        "55518483-873b-4438-b580-f3990ef6f3da",
+        "247379cc-70e2-4c82-b5f0-8e36d063b636",
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42b4e2d6-e829-4f20-adb9-4322514fee3d",
+      "dutyDetail": "Practise continuous self-learning to achieve an awareness of opportunities and developments in the watch industry.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7ae03ce-71a3-435f-bd69-9b2cbae5288c",
+        "0097d6a8-bdfb-44db-9e1f-7fcc836c6a30"
+      ],
+      "mappedKnowledge": [
+        "43c695e1-b63d-42ff-8286-b1e7ecdee6ac",
+        "2352f501-8b29-4bd7-bb9a-f11f388b8489"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6d20fec9-e480-41c3-b862-4c62893bc82e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-01-10T00:00:00"
+}
