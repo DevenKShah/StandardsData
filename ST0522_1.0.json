@@ -1,60 +1,651 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 675,
   "referenceNumber": "ST0522",
+  "learningAimClassCode": "",
   "title": "Youth worker",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0522",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-07-12T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Enable young people to develop and working with young people to facilitate personal, social and educational development.",
   "level": 6,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 20000,
+  "maxFundingAdditionalInformation": "",
   "route": "Care services",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "keywords": [
+    "children",
+    "youth",
+    "care",
+    "social care",
+    "health",
+    "education",
+    "young people"
+  ],
+  "jobRoles": [
+    "Youth Worker",
+    "Youth Work Manager"
+  ],
+  "entryRequirements": "&lt;p&gt;A satisfactory enhanced DBS check will be an entry requirement for the programme.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5747/st0522_youth-worker_l6_ap_for-publication_10122021.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
-  "version": "",
-  "standardInformation": "&lt;h3&gt;Occupation summary&lt;/h3&gt;\r\n&lt;p&gt;A youth worker is someone who uses positive relationships to engage with young people to promote their social, emotional, and personal development through informal education approaches.&lt;/p&gt;\r\n&lt;p&gt;This occupation can be found in a range of settings where young people are including: youth projects, educational settings, health environments.&#160; This may be in informal settings such as youth clubs, activity-based or social action projects; or more formal settings such as Local Authority Children&#39;s Services, hospitals, schools, alternative education provisions or youth custody. &#39;Youth&#39;, as referred to in the standard, is young people aged 11-19, or up to 25 for those with additional needs.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to enable young people to develop holistically, working with them to facilitate their personal, social and educational development; to enable them to develop their voice, influence and place in society; and to reach their individual and collective full potential.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with voluntary, charitable and statutory services such as youth services, education, health, social and community provisions. They will also engage with a range of other partners and stakeholders such as funders, families, and allied professionals.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for working with young people to plan, deliver and evaluate the youth work curriculum and programmes with individuals and groups. The employee will receive supervision from their line manager but will work autonomously and provide management for other staff through line management of teams including volunteers, youth support/assistants, youth support workers, peer mentors.&lt;/p&gt;\r\n&lt;p&gt;They may be responsible for building management such as youth clubs and youth project premises or mobile units depending on the organisational size or structure.&#160; They will be responsible for managing the operational budget of projects regardless of location and maintaining appropriate financial and other administrative records.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Typical job titles&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Typical job titles include Youth Worker, Youth Leader, Youth Development Manager, Youth Project Manager, Youth Work Practitioner, Senior Youth Worker, Project Worker, Key Worker, Young People’s Worker, Engagement Worker, Participation Worker (this list is not exhaustive).&lt;/p&gt;\r\n&lt;h3&gt;Entry requirements&lt;/h3&gt;\r\n&lt;p&gt;A satisfactory enhanced DBS check will be an entry requirement for the programme.&lt;/p&gt;\r\n&lt;h3&gt;Occupation duties&lt;/h3&gt;\r\n&lt;table width=&quot;100%&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;h4&gt;Duty&lt;/h4&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;h4&gt;KSBs&lt;/h4&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Effectively engage and develop informal relationships with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K1&lt;span&gt; K2 K3 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S1&lt;span&gt; S2 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B2 B3 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Lead on partnership work with other agencies to promote services for young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K4&lt;span&gt; K5 K6 K7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S3&lt;span&gt; S4 S5 S6 S7 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B4&lt;span&gt; B5 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Act as an informal education practitioner and lead work with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K8&lt;span&gt; K9 K10 K11 K12 K13 K14 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S8&lt;span&gt; S9 S10 S11 S12 S13 S14 S15 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B6 B7 B8 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Effectively plan for and evaluate high quality youth work experiences.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K15&lt;span&gt; K16 K17 K18 K19 K20 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S16&lt;span&gt; S17 S18 S19 S20 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B9 B10 B11 B12 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Facilitate active participation in service development by young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K21&lt;span&gt; K22 K23 K24 K25 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S21&lt;span&gt; S22 S23 S24 S25 S26 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B13&lt;span&gt; B14 B15 B16 B17 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Design, lead and implement youth work curriculum programmes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K26&lt;span&gt; K27 K28 K29 K30 K31 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S27&lt;span&gt; S28 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B18 B19 B20 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Provide a safe and stimulating environment for young people to explore and challenge their values, beliefs, ideas and issues.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K32&lt;span&gt; K33 K34 K35 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S29&lt;span&gt; S30 S31 S32 S33 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B21 B22 B23 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work with young people in promoting their rights.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K36&lt;span&gt; K37 K38 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S34&lt;span&gt; S35 S36 S37 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B3&lt;span&gt; B24 B25 B26 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Lead on work that enables young people to explore their wellbeing.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K39&lt;span&gt; K40 K41 K42 K43 K44 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S38&lt;span&gt; S39 S40 S41 S42 S43 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B25&lt;span&gt; B27 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Implement safeguarding duties and equal opportunities policies as required in the organisation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K45&lt;span&gt; K46 K47 K48 K49 K50 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S44&lt;span&gt; S45 S46 S47 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B28&lt;span&gt; B29 B30 B31 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work with young people individually.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K51&lt;span&gt; K52 K53 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S48&lt;span&gt; S49 S50 S51 S52 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B1&lt;span&gt; B32 B33 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work within the ethical professional boundaries of youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K54&lt;span&gt; K55 K56 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S53&lt;span&gt; S54 S55 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B34&lt;span&gt; B35 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Develop youth work strategies and plans.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K57&lt;span&gt; K58 K59 K60 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S36&lt;span&gt; S37 S38 S56 S57 S58 S59 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out administrative duties and health and safety requirements in line with role and organisational requirements.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K61&lt;span&gt; K62 K63 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S60&lt;span&gt; S61 S62 S63 S64 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B39&lt;span&gt; B40 B41 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Produce reports, evaluations and summary data for commissioners, funders, senior managers and other stakeholders.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K64&lt;span&gt; K65 K66 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S65&lt;span&gt; S66 S67 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B42&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 16&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Lead a team of staff and complete associated duties (such as recruitment, professional development and supervision).&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K67&lt;span&gt; K68 K69 K70 K71 K72 K73 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S68&lt;span&gt; S69 S70 S71 S72 S73 S74 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B43&lt;span&gt; B44 B45 B46 B47 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;69%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Duty 17&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Be a reflective practitioner.&lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;30%&quot;&gt;\r\n&lt;p&gt;K74&lt;span&gt; K75 K76 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;S75&lt;span&gt; S76 S77 &lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;B48&lt;span&gt; B49 &lt;/span&gt;&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h2&gt;&lt;br /&gt;KSBs&lt;/h2&gt;\r\n&lt;h3&gt;Knowledge&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K1:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The importance of building trust and rapport, and methods for achieving this with diverse groups of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Effective written and oral communication strategies that are appropriate when working with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Barriers to communication, their causes, both personal and structural and ways to overcome them, drawing on research and theoretical understandings.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Inter-disciplinary and collaborative working including the nature of applicable approaches and inter-professional approaches in youth work and multi-agency settings.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; A range of organisations where youth workers are employed including Third Sector, Statutory sector, faith-based, and social enterprise organisations together with understanding of practice in new and emergent sect&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Critical understanding of local, national and&#160; international policies and strategies that influence young people’s lives.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Funding issues and strategies that affect partnership working.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Self-awareness in promoting anti-oppressive practices.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Professional approaches to informal education with individuals and groups, and understandings of pertinent factors on practice including group needs and dynamics, together with a critical appreciation of theoretical underpinnings and their application to practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Informal education pedagogy, critical dialogue and experiential learning methodologies.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The context, development and management of own role as a critical, autonomous and accountable professional.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The development and evaluation of team work principles and practices and their application in planning implementing and reviewing effective informal education projects.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The importance of negotiating&#160; and managing goals, boundaries and behaviours for youth workers and young people in collaborative&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Methods, strategies and interventions used to develop informal education through group activities and dialogue, and ways of working with others to evaluate and develop practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K15:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Methods and tools of planning, monitoring and evaluating group work and the success of groups.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K16:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Range of qualitative and quantitative research methods appropriate to evaluating the outcomes and success of youth work&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K17:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Current research on effective approaches to supporting young people to learn and develop theories of learning and development within an informal education setting.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K18:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Research and best practice in relation to recording outcomes and measuring change in a youth work setting.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K19:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The importance of the designing activities that take account of the preferred learning styles and diverse needs of those participating and how to apply this knowledge in practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K20:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Range of models for encouraging and enabling young people to participate in an inclusive manner.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K21:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Models of participation and engagement with young people, and how to overcome barriers to participation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K22:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Processes and techniques for designing and developing activities with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K23:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Local community and ways in which young people might become involved.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K24:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Democratic structures, local elected members, potential partner organisations.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K25:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; National, international and local factors that impact on young people’s scope for engagement in decision making.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K26:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories and models of informal and non-formal education and how they can be applied to youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K27:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Critical understanding of formal, informal and non-formal educational approaches to facilitate the learning and development needs of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K28:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories and models for programme planning and development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K29:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The key purpose and principles expressed in the theory of youth work and different models of youth work delivery.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K30:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The wider social and political context for issues which impact young people and ways in which these might be included in curriculum.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K31:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Social policy locally, nationally and globally that affects young people and their impact on current programme development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K32:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; What is meant by values and beliefs and why it is important to encourage young people to explore their own values and beliefs.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K33:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Different contexts, cultures and perspectives operating within young people’s communities, wider society, nationally and internationally.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K34:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Key sociological and psychological concepts that impact on young people’s lives and development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K35:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Social policy and legislation locally, nationally, internationally that affects the lives of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K36:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How anti-oppressive practice relates to and impacts on the principles and delivery of youth work, and how to apply this knowledge in professional practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K37:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; A critical understanding of the rights and responsibilities of young people, including relevant legislation and codes of practice in the local, social and political context.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K38:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The role of the United Nations Convention on the rights of the child.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K39:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Models and meaning of development through adolescence and links between education and development, critique of normative and deficit models of development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K40:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understanding of human growth and development theories relevant to youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K41:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Legal requirements and best practice in relation to confidentiality and safeguarding.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K42:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Knowledge of current social, economic and political issues likely to impact on the well-being of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K43:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Knowledge of local plans and strategies to which this work may contribute.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K44:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understanding of contemporary issues and research regarding young people’s mental health, wellbeing and development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K45:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Safeguarding and information sharing procedures and duties for safeguarding young people across professional boundaries.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K46:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Safeguarding leads within service/organisation, and when to involve them.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K47:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Current legislation and guidance relevant to own role and those of team members regarding safeguarding and equal opportunities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K48:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Processes of early intervention work with young people including multi agency casework meetings; understanding assessments and thresholds; step up and step down processes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K49:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Understanding the indicators for abuse and exploitation and when to take appropriate action, utilising professional judgement.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K50:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; DBS procedure and requirements with regard to safe recruitment of staff and volunteers.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K51:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Casework approaches underpinned by youth work in a range of settings.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K52:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Recording and data protection legislation relevant to the setting and safeguarding procedures.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K53:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories and models applicable to direct work with young people to enhance practice utilising a strengths based approach.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K54:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How the code of youth work ethics impacts on youth work delivery and own practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K55:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The importance of enabling and supporting work with young people in accordance with youth work values and principles.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K56:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ethical dilemmas in work with young people and how these can impact on individuals, teams and organisations (including appropriate ways to address and critically examine these).&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K57:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Legal, regulatory and ethical requirements impacting upon the provision of youth work activities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K58:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Methods of obtaining feedback from young people, relevant agencies and stakeholders.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K59:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How to engage young people in communities in order to develop strategies for education and change including investigations of models of work with young people and practice such as: •&#160; Outreach •&#160;&#160;&#160;&#160;&#160;&#160;&#160; Detached •&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; Project based work&#160; •&#160;&#160; Participatory practice&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K60:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The community and ways to make use of existing sources of information for profiling and planning purposes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K61:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Requirements to maintain a healthy and safe environment, including professional practice in relation to legal obligations, risk assessment and duties of care.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K62:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Organisational written health and safety policy and own role and that of others with regard to monitoring, measuring and reporting health and safety concerns.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K63:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Legal and organisational obligations regarding administration, recording and management of data.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K64:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; How to use sources of information to make a business case and demonstrate the impact and benefits of youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K65:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Organisational policies and procedures including any legislative, regulatory and ethical requirements for funding youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K66:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Local and national trends and developments affecting the demand for youth work activities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K67:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories of management and leadership in youth work projects to include: •&#160;&#160;&#160;&#160;&#160;&#160; inter-professional and interdisciplinary working •&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160; leadership of teams and individualsv&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K68:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Organisational policies and legal requirements for delivery or youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K69:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Types of management support that can be provided and how they differ.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K70:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Organisation’s HR procedures e.g. professional development, disciplinary, grievance.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K71:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Theories of mentoring and professional supervision of youth workers including a range of models.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K72:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Importance of staff development, and how to identify training and development needs to support professional formation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K73:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ways of reflecting on and critiquing youth work practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K74:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Critical appreciation of theories, models and&#160; principles of reflective practice within youth work settings and contexts.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K75:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Requirements of own work role and boundaries of autonomy, responsibility and authority.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;K76:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; The importance of critical reflection and continuous professional development for youth work practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Skills&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S1&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evaluate and utilise appropriate forms and styles of communication suited to the needs and abilities of a variety of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S2&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Recognise, manage and critically reflect upon appropriate relational boundaries in professional work with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S3&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Network and engage in multi-agency working and build partnerships with other professionals, community groups and young people’s projects.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S4&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Seek, resource and maintain appropriate organisational relationships for the benefit of young people (and communities).&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S5&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate and reflect upon effective communication with local community groups, colleagues and agencies who work with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S6&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Develop, initiate and evaluate programmes in partnership with other agencies.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S7&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Promote collaboration with partners to challenge inequalities and encourage social transformation and advocate on behalf of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S8&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Facilitate the learning and development of young people in a range of suitable settings.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S9&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Create and maintain a safe environment for group work, exploiting opportunities to enable young people to creatively build upon strengths in bring about transformation in their lives and communities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S10&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work with young people to explore, challenge and transform discrimination and oppressive behaviours wherever manifest.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S11&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Facilitate and evaluate effective leadership within groups in order to promote&#160;&#160; active participation, ownership and empowerment with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S12&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Draw upon differentiated approaches, methods and styles in meeting the needs of groups and in promoting their ongoing development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S13&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Encourage, acknowledge and value the ideas and input of all young people working with these&#160; to promote learning and change.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S14&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Create and evaluate the effectiveness of inclusive and participatory learning environments.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S15&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Motivate young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S16&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify and agree with young people activities that are relevant to their interests and development.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S17&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Support young people to participate in planning, organising and delivering youth work activities and programmes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S18&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Design evaluation frameworks that capture key outcomes and processes in youth work programmes/ projects and engage young people as evaluation partners.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S19&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Involve young people and staff in monitoring and evaluating the effectiveness of the activities and the impact on their own development or learning.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S20&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use the outcomes of evaluation to develop and enhance youth work practice&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S21&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Build trusting relationships and create inclusive environments.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S22&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Create activities that enable young people to contribute to the planning and preparation of activities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S23&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Encourage and support young people to take the lead in services and projects.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S24&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Support young people to plan, research, lead, resource and evaluate youth work activities and programmes through negotiation and democratic process.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S25&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use suitable methods to agree with young people criteria for evaluation of progress, monitoring and methodology.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S26&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Raise awareness of the benefits of active participation and inclusive practice with colleagues and partner agencies.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S27&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Select and use methods and tools suitable for planning youth work activities.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S28&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Facilitate youth work programmes that are engaging, creative and contribute to the learning and development of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S29&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Enable young people to express their views, aspirations, needs and concerns.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S30&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use techniques and activities that encourage young people to become more self-aware, and recognise how their values and beliefs impact upon their lives and those of others.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S31&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Enable young people to think critically within a safe environment that supports their feelings, values and beliefs.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S32&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Facilitate activities and techniques to use with young people that promote self-confidence and build self-esteem and resilience.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S33&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Design a learning environment which both supports young people and enables them to confront and challenge new ideas.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S34&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Foster democratic and inclusive practice through building trusting relationships, support for young people and creating inclusive environments.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S35&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Support young people in making their voices heard and creating change on issues that affect them.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S36&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify and counter oppressive attitudes, behaviours and situations at interpersonal and systemic levels.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S37&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate an understanding and commitment to the rights of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S38&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use appropriate forms and styles of communication suited to the needs and abilities of a variety of young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S39&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate empathy when working with young people to explore their wellbeing, and encourage this in others, including young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S40&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify appropriate partners whose involvement may enhance the work e.g. CAMHS, drugs services, sexual health.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S41&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Engage young people to discuss openly and honestly their concerns, choices and behaviour.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S42&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Engage young people in strategies to enhance their well-being and decision- making.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S43&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Know limits of own role and when to seek advice from others.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S44&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Implement effective safeguarding practices.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S45&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work within the parameters of organisational, local and national safeguarding policies and procedures.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S46&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work within the parameters of organisational, local and national equality and diversity policies and procedures.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S47&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Promote good mental and emotional health for young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S48&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Assess the needs of individual young people to locally agreed thresholds guidance.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S49&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Involve young people in identifying their own needs and strengths and seek solutions.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S50&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Develop action plans with young people to achieve individual goals.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S51&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Record and monitor individual casework with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S52&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitor and review the progress of individual young people and effectiveness of approaches to support.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S53&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Maintain professional boundaries, make informed judgements of complex ethical and professional issues and operate as a reflective practitioner.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S54&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Agree ground-rules and codes of conduct with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S55&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; IIdentify any unacceptable behaviour and address this appropriately and fairly within the boundaries of role and organisational procedures.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S56&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out needs analysis / SWOT, review and evaluate a range of sources of information.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S57&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Present information in a range of formats supported by a coherent argument that articulates assumptions, risks and likely outcomes.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S58&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Develop coherent project/ action plans and strategies, which demonstrates an understanding of resourcing, outputs, outcomes and evaluation.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S59&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Respond to identified needs and opportunities using innovative and creative responses.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S60&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Ensure regular review of systems and continuous improvement in relation to health and safety performance.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S61&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Keep detailed and accurate records of all health and safety risks and actions.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S62&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out risk assessments and take appropriate actions to manage risk within the workplace.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S63&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Manage financial records in line with role and organisational requirements.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S64&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Budget management at appropriate level.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S65&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate accurate budget and resource management skills.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S66&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evidence strong written and oral communication skills.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S67&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Present information clearly and concisely in a range of formats.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S68&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Evidence application of work objectives and confirm the work required of team to complete these.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S69&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Allocate work to team members, taking account of their skills, knowledge and understanding.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S70&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Identify any poor performance and agree ways to improve with team members.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S71&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Carry out regular supervision and appraisal with colleagues.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S72&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Provide other workers with youth work support, mentoring, informal supervision and advice when they need it.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S73&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Encourage, motivate and support others to achieve their work and development objectives.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S74&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Use a range of leadership styles appropriate to colleagues and their needs.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S75&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Monitor the outcomes of own practice and identify areas for development and improvement.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S76&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Critically reflect on continuing personal and professional development and evolution of own practice.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;S77&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Record, disseminate and share own practice in a form which enables an understanding of issues and effectiveness.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Behaviour&lt;/h3&gt;\r\n&lt;p&gt;&lt;span&gt;&lt;br /&gt;&lt;strong&gt;B1:&lt;/strong&gt; Treat young people with respect.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B2:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Take a positive interest in young people’s concerns, ideas and interests.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B3:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work in an anti-oppressive manner.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B4:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Proactive commitment to partnership working to enhance opportunities for young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B5:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Positive engagement in appropriate professional relationships for the benefit of young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B6:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Promote acceptance and understanding of others.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B7:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Stimulate understanding of issues, impact of behaviours, alternative behaviours.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B8:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Operate as a critically reflective practitioner and informal educator, demonstrating a high level of autonomy and professional judgement in planning, delivering and evaluating educational programmes across a range of settings.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B9:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Uphold principles and values of youth work practice.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B10:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Stimulate reflection as a tool for development of self and others.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B11:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Embed critical reflection and formative evaluation into work with young people.&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;B12:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Celebrate success and the journey of young people individually and collectively&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;B13:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Value young people as partners.&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;B14:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Start with young people where they are at in relation to their own vision and values.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B15:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Seek opportunities to widen young people’s horizons and increase active involvement.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B16:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Encourage young people to take the lead in their individual and collective youth work journey.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B17:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate democratic and inclusive practice.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B18:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Enthusiasm to work with young people and recognise their ideas and contribution.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B19:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work in an inclusive manner and challenge oppressive behaviour.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B20:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Foster creativity and innovation in self and others.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B21:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Encourage young people to express how they feel and accept their view of themselves.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B22:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate inclusivity, challenge oppression and celebrate diversity.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B23:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Implement ethical practice that supports and challenges young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B24:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Respect young people’s rights to make their own decision about involvement with youth work.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B25:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Uphold the values and principles underpinning youth work.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B26:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Uphold the values of justice, fairness and equality.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B27:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Respect young people’s rights to make their own decision about how and why they get involved with youth work.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B28:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Modelling best practice in&#160; safeguarding, equality and diversity.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B29:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Being aware of the requirements to safeguard young people, and exercise professional judgement in responses.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B30:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Promote respect for diversity and equality.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B31:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Challenges inappropriate language and behaviours.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B32:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Work with colleagues to secure the best outcomes for young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B33:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Advocate on behalf of young people to represent their needs and wishes.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B34:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Behave in accordance with the legal, ethical and contractual requirements of youth work.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B35:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Show consistency and fairness in decision-making and involve young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B36:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Commitment to empowerment of young people to present their views and ideas.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B37:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Actively involve young people in the planning process.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B38:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Communicate with, and involve other staff in planning as appropriate.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B39:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Be reliable, honest and to work with integrity at all times.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B40:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Model behaviour that demonstrates a commitment to the effective protection of young people.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B41:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Systematic approach to administration.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B42:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Show integrity, fairness and consistency in assessment of youth work activity.&lt;br /&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;B43:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Approach colleagues with respect and foster trust.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B44:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Commitment to team working.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B45:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate professional conduct, approachability and leadership qualities.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B46:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Demonstrate leadership and ability to form positive relationships with colleagues.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B47:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Commitment to the development and support of colleagues.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B48:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Commitment to personal learning development and critical reflection.&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;&lt;span&gt;B49:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; Uphold the values and principles of youth work.&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Qualifications&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;English and Maths qualifications&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;&lt;span&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.&#160;&#160;For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose&#160;primary language is BSL.&#160;&lt;/span&gt;&lt;/p&gt;\r\n&lt;h3&gt;Additional details&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;&lt;span&gt;Occupational Level:&lt;/span&gt;&lt;/strong&gt;&lt;span&gt; 6&lt;br /&gt;&lt;/span&gt;&lt;strong&gt;Duration (months):&lt;/strong&gt; 36&lt;/p&gt;\r\n&lt;h3&gt;Review&lt;/h3&gt;\r\n&lt;p&gt;&lt;span&gt;This standard will be reviewed after three years.&lt;/span&gt;&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;A youth worker is someone who uses rights-based, person-centred relationships to engage with young people to promote their social, emotional, and personal development using informal education approaches.&lt;/p&gt;\n&lt;p&gt;This occupation can be found in a range of settings where young people are present, including (but not limited to) youth projects, educational settings, health environments and faith sector. The settings may be informal, such as youth clubs, activity-based or social action projects, or more formal, such as Local Authority Children&#39;s Services, hospitals, schools, alternative education provisions or youth custody. In this occupation and context, &#39;youth&#39; refers to young people aged 11 to 19, or up to the age of 25 for those with additional needs.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to enable young people to develop holistically, working with young people to facilitate personal, social and educational development. This is to enable them to develop their voice, influence and place in society, and reach their individual and collective potential.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working with young people to plan, deliver and evaluate the youth work curriculum and programmes with individuals and groups. They will receive supervision from their line manager but will also work autonomously and manage other staff, which may include volunteers, youth support/assistants, youth support workers, peer mentors.&lt;br /&gt;&lt;br /&gt;They may be responsible for building management, such as youth clubs and youth project premises or mobile units depending on the size or structure of the organisation. They will be responsible for managing projects (including budgets) and maintaining appropriate financial and other administrative records.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with voluntary, charitable and statutory services, such as youth services, education, health, social and community provisions. They will also engage with a range of other partners and stakeholders, such as funders, families, and allied professionals.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "50bcf62d-d805-496c-ac8b-908a03645623",
+      "detail": "The importance of building trust and rapport, and methods for achieving this."
+    },
+    {
+      "knowledgeId": "3c3f6031-f790-44e3-8ba1-c13c55ac541c",
+      "detail": "Professional relationship boundaries and the implications of these for youth workers."
+    },
+    {
+      "knowledgeId": "549bf5f2-2216-4bcf-acd7-75f464f74899",
+      "detail": "Communication styles and methods, including barriers to communication and ways to overcome these."
+    },
+    {
+      "knowledgeId": "fb668faa-bd8a-48e7-b708-39ce7db614bf",
+      "detail": "Different models of youth work e.g. Outreach, Detached, Open access, Targeted, Social Action, Digital"
+    },
+    {
+      "knowledgeId": "76e2031e-8d09-4666-9212-7cca0f362566",
+      "detail": "Theories of management and leadership e.g.  inter-professional and inter-disciplinary working. \t"
+    },
+    {
+      "knowledgeId": "1cd57173-b873-4661-8f74-a601cd5f17f6",
+      "detail": "Human resources procedures, e.g. professional development, disciplinary, grievance."
+    },
+    {
+      "knowledgeId": "aece3efa-da6d-42eb-9243-bf8c9df126f0",
+      "detail": "Youth work supervision models."
+    },
+    {
+      "knowledgeId": "c0129690-9a11-44c5-8466-1adf63b0da86",
+      "detail": "The importance of staff development."
+    },
+    {
+      "knowledgeId": "5a1f4f80-c579-44e0-b84c-c9b8a7c5bd3c",
+      "detail": "Resource, financial and facilities management, including relevant legislation and regulations that need to be followed."
+    },
+    {
+      "knowledgeId": "c7ea88ac-a9f3-4945-8a0f-fe936557d2b5",
+      "detail": "National and local plans and strategies relevant to youth work and young people."
+    },
+    {
+      "knowledgeId": "b6b9657a-0b71-47d7-807c-9992160fd15f",
+      "detail": "Roles, remit and responsibilities of key stakeholders. "
+    },
+    {
+      "knowledgeId": "869c2f7d-be43-4219-b425-9e1a79d2d8c6",
+      "detail": "Strategies to build and manage professional partnerships."
+    },
+    {
+      "knowledgeId": "6f6375b1-f5e3-40bc-a473-8684f4fa398f",
+      "detail": "Theories and models of informal and non-formal education and their application in practice."
+    },
+    {
+      "knowledgeId": "12020e3a-1aa2-4b6c-83a3-af37d4052ff1",
+      "detail": "Theories and models for programme planning, development, delivery and evaluation."
+    },
+    {
+      "knowledgeId": "d8cc8c85-6c02-4ca6-b70b-b300f25a279b",
+      "detail": "Policies and strategies related to the national and local youth work curriculum."
+    },
+    {
+      "knowledgeId": "b1111bdf-f9d5-4423-85d6-47b9fd7309fa",
+      "detail": "Contemporary models for impact and evaluation of youth work."
+    },
+    {
+      "knowledgeId": "7fc6de5b-4c07-491e-9f49-34218767ba50",
+      "detail": "Models for inclusive and active participation and barriers to participation."
+    },
+    {
+      "knowledgeId": "05df2c7d-16ce-42de-92e2-05786d7152cd",
+      "detail": "International, national and local factors impacting on young people’s engagement in decision making, including legislation (e.g. UNCRC) and local and national participation strategies."
+    },
+    {
+      "knowledgeId": "b77084b0-937c-4875-8569-3794676e6817",
+      "detail": "Models to undertake appropriate situational needs analysis."
+    },
+    {
+      "knowledgeId": "e35e1e70-4650-420a-8554-38425ec91f74",
+      "detail": "Project management tools and processes, including assessing and managing risk."
+    },
+    {
+      "knowledgeId": "8dd5de29-c184-4ae0-8152-1a9b3c1e74b5",
+      "detail": "Evaluation and impact processes and strategies."
+    },
+    {
+      "knowledgeId": "acb00dad-5110-4695-8f77-895c63916e29",
+      "detail": "Commissioning and funding processes."
+    },
+    {
+      "knowledgeId": "00b3330d-68c9-4406-8539-6df422338bb9",
+      "detail": "Theories, models and principles for reflective practice. "
+    },
+    {
+      "knowledgeId": "5cdbd20f-bffa-49e6-9e17-353a8dc89727",
+      "detail": "The importance of critical reflection and continuous professional development for youth work practice"
+    },
+    {
+      "knowledgeId": "2f71f9f9-39ce-4d7d-b607-4def02c8ec46",
+      "detail": "The relationship between rights, responsibilities and power dynamics in professional youth work relationships and society."
+    },
+    {
+      "knowledgeId": "cf3364cb-fb04-4305-87dd-ad464d7bd35f",
+      "detail": "Cultural and community competency in good youth work practice."
+    },
+    {
+      "knowledgeId": "971df0db-6484-4005-9ffb-3ad4c72048c8",
+      "detail": "Principles of anti-oppressive and anti-discriminatory practice."
+    },
+    {
+      "knowledgeId": "001390b5-afc2-460b-bf65-4bed73f2ba8b",
+      "detail": "Safeguarding legislation, government guidance and national framework regarding record keeping, disclosure management and reporting referrals to a designated safeguarding lead. "
+    },
+    {
+      "knowledgeId": "3eeb5a5a-2a3f-4c27-9d49-5159d36128d9",
+      "detail": "Safer recruitment and staff management processes (including for volunteers)."
+    },
+    {
+      "knowledgeId": "e3d76365-92a2-4426-b9ae-ac7e86537336",
+      "detail": "Boundaries of professional accountability and responsibility for self, staff and project leadership."
+    },
+    {
+      "knowledgeId": "b98615ee-a377-426e-aced-6d6ff7ae65cc",
+      "detail": "Principles of child development and human growth applicable to behaviours likely to be observed in youth activities."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+      "detail": "Work in an anti-oppressive, anti-discriminatory manner"
+    },
+    {
+      "behaviourId": "daa929af-5566-4e75-b879-ca19197d0486",
+      "detail": " Act as an ambassador for young people and youth work."
+    },
+    {
+      "behaviourId": "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+      "detail": "Leads and manages by example, demonstrating inclusive and participatory behaviours in their work."
+    },
+    {
+      "behaviourId": "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+      "detail": "Work collaboratively for the benefit of young people by personal example, encouraging and facilitating cooperation, trust and commitment. "
+    },
+    {
+      "behaviourId": "797304c9-fb9c-4480-bab6-6368dc708c51",
+      "detail": "Be a reflective practitioner."
+    },
+    {
+      "behaviourId": "efca8692-5e1e-4b60-96d6-8db985fb7881",
+      "detail": "Respect young people’s rights to make their own decision about involvement with youth work"
+    },
+    {
+      "behaviourId": "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+      "detail": "Promote the values of justice, fairness and equality"
+    },
+    {
+      "behaviourId": "2faf3da4-15f1-4da2-be9b-73095e82d912",
+      "detail": "Take a positive interest in young people’s concerns, ideas and interests"
+    },
+    {
+      "behaviourId": "49fb0151-b61e-4c15-897c-cd6a9239920c",
+      "detail": "Promote the development of political and social education for and with young people"
+    },
+    {
+      "behaviourId": "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268",
+      "detail": "Compliance with relevant policies and procedures"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b0b64032-b1ce-4189-ba3e-623b27d35925",
+      "detail": "Evaluate and utilise a range of styles of communication suited to the audience, e.g. verbal, non-verbal, written and electronic methods."
+    },
+    {
+      "skillId": "5b3ff2b3-737d-4a12-ba65-a57b650ed27a",
+      "detail": "Maintain professional boundaries in relationships with young people and colleagues."
+    },
+    {
+      "skillId": "9e9ca26c-b7f3-47aa-82ec-fd37d690b4af",
+      "detail": "Select and use suitable youth work models for the needs of young people they are engaging with."
+    },
+    {
+      "skillId": "a9ddd584-9d4b-4456-a01b-7b93ccb54ae9",
+      "detail": "Work in partnership with young people to develop suitable services."
+    },
+    {
+      "skillId": "ffcecae4-d9fc-4105-80d9-84dd58ca65c7",
+      "detail": "Utilise appropriate methods and tools for planning, monitoring and evaluating youth work."
+    },
+    {
+      "skillId": "9945522c-84b2-4ce4-a986-5554fb2e46b1",
+      "detail": "Complete, store and retain accurate administrative and financial records."
+    },
+    {
+      "skillId": "9f66047b-e426-45be-9871-ace900e45929",
+      "detail": "Carry out regular supervision, staff development and appraisals (where appropriate) with colleagues."
+    },
+    {
+      "skillId": "9524dcda-eb6c-45ab-a3a1-936cec043627",
+      "detail": "Apply different leadership styles appropriate to the needs of colleagues."
+    },
+    {
+      "skillId": "7b2b4d26-f36b-4f17-b8e9-9251ac4217fc",
+      "detail": "Utilise a range of sources of information to inform service development."
+    },
+    {
+      "skillId": "fddc2921-f035-432c-b7e5-8682e8557912",
+      "detail": "Identify and work with appropriate partners to add value to work with young people, e.g., Child and Adolescent Mental Health Services (CAMHS), schools, local councillors."
+    },
+    {
+      "skillId": "fdc0db74-ccea-4ac7-89ee-647b2bde68c8",
+      "detail": "Advocate for young people and youth work in policy and service development."
+    },
+    {
+      "skillId": "942c82e4-d70e-4ca9-af96-d124c311360d",
+      "detail": "Select and use appropriate methods and tools when planning youth work programmes and activities. "
+    },
+    {
+      "skillId": "52a591b9-f10d-45bb-ab24-abc8f6f70835",
+      "detail": "Identify and apply differentiated methods and styles when engaging with groups to meet the needs of young people, promoting learning and development"
+    },
+    {
+      "skillId": "a216bc7e-7027-4c0c-9088-5c9ceb45cbc8",
+      "detail": "Facilitate youth work programmes that support the learning and development of young people in line with the youth work curriculum."
+    },
+    {
+      "skillId": "4ffa090b-d039-4a0e-a147-9c61db604445",
+      "detail": "Evaluate, demonstrate and report on the impact of youth work."
+    },
+    {
+      "skillId": "86abe725-a527-40e6-b69b-190cb56db567",
+      "detail": "Provide a safe environment for young people to explore and challenge values, beliefs, ideas and issues."
+    },
+    {
+      "skillId": "113d321b-3c0a-44cf-ac75-b00d3d365c56",
+      "detail": "Create and evaluate effectiveness of inclusive and participatory learning environments."
+    },
+    {
+      "skillId": "a9491e64-4510-4cda-b5ea-0a7563961b2e",
+      "detail": "Support young people to plan, organise and deliver youth-led activities and programmes. "
+    },
+    {
+      "skillId": "a6c8dd2a-2c29-44b2-aa53-a4ff4b483d8f",
+      "detail": "Select and apply appropriate participation models to overcome barriers to participation"
+    },
+    {
+      "skillId": "a8f0cff9-03c7-4112-8645-cf1064bb2b89",
+      "detail": "Support young people to make their voice heard to influence change on issues affecting them."
+    },
+    {
+      "skillId": "dd5b0f6d-68b2-4ed1-bec3-d51fdfca2e7d",
+      "detail": "Identify and challenge oppressive attitudes, behaviours and situations."
+    },
+    {
+      "skillId": "58e1590b-6c63-4c85-88ab-cdf0a57ff8f2",
+      "detail": "Conduct and use information from situational needs analysis to develop projects."
+    },
+    {
+      "skillId": "18eb6bd3-151e-4a4b-9298-ba8efbf29ca9",
+      "detail": "Produce reports, evaluations and summary data in a format appropriate for the intended audience, e.g. commissioners, funders or other stakeholders."
+    },
+    {
+      "skillId": "2b9f4071-ff45-4a74-ab01-a99661f6c1ce",
+      "detail": "Use outcomes of evaluation of service delivery to inform, develop and enhance practice and projects."
+    },
+    {
+      "skillId": "17d92da0-039f-4c93-aa0f-d63c99c1b05d",
+      "detail": "Monitor own practice and use supervision to identify areas for continuing professional development and improvement."
+    },
+    {
+      "skillId": "db1935ef-6178-4eb0-a5db-19c7ef100fea",
+      "detail": "Apply appropriate supervision models to support the development of colleagues."
+    },
+    {
+      "skillId": "33f69d85-7147-4633-8c42-0556d6e3bf12",
+      "detail": "Ensure professional ethical standards are developed, promoted and maintained across the youth work environment."
+    },
+    {
+      "skillId": "0bbcc03a-b36b-434f-adfb-c4906df05409",
+      "detail": "Demonstrate and promote a person-centred approach to youth work."
+    },
+    {
+      "skillId": "22bd28cc-8f50-4e08-90af-c1d447a06b65",
+      "detail": "Implement, identify and report safeguarding referrals, drawing on safeguarding information, in line with safeguarding policies and procedures, to take action when a young person discloses information. "
+    },
+    {
+      "skillId": "2dae085a-4f3b-48b8-a183-04205adbd795",
+      "detail": "Carry out risk assessments, plan activities, visits, and manage situations to mitigate risks to ensure the safety of all young people, depending on the setting and the environment they are working in."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2022-02-11T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-integrated degree",
+  "integration": null,
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0371",
-  "tbMainContact": "stone_carol@sky.com",
-  "involvedEmployers": "Yorkshire and Humber Regional YW Unit, Youth Empowerment Scheme, Belle Vue Community and Youth Centre, DYS Space Ltd, Wakefield Council, Denton Youth & Community Project Limited, Youth Engagement Slough, Enterprise LDN, Kent County Council, Kinetic Youth Ltd, Church of England Education Office, Rathbone, Army Welfare Service (Com.Dev), The Prince's Trust, Bournemouth Borough Council, The Children's Society, Slough Borough Council, Youth Focus North East, Wakefield Council, DYS Space Ltd, University of Gloucester, Carefree, Community Praxis, Balloil Youth & Community Centre, Bradford Metropolitan District Council, Somerset Rural Project, Manchester Young Lives, Rotherham Council, Calderdale Council Young People's Service, Youth Homeless North East, YACS, Barnardo’s Employment Training and Skills, Bath & North East County Council, Penwith Community Development Trust",
+  "tbMainContact": "NYA@nya.org.uk",
+  "involvedEmployers": "National Youth Agency\nCYM – Institute for Children Youth and Mission \nChildren's Services Salford\nEnfield Council\nBishop Grosseteste University\nYouth Work Unit Yorkshire and Humber",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "typicalJobTitles": [
+    "Youth Worker",
+    "Youth Work Manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Care Services",
-  "cluster": "Care Services Professional",
-  "createdDate": "2017-11-14T17:09:58 +00:00",
-  "lastUpdated": "2019-05-23T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/youth-worker#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/youth-worker",
-  "qualifications": [],
+  "cluster": "Care services professional",
+  "clusterId": "44",
+  "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
+  "createdDate": "2021-12-15T10:20:44 +00:00",
+  "lastUpdated": "2022-07-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-02-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0522",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0522-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0522-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "10808ff5-9368-4138-9df7-11d503731915",
+      "title": "JNC endorsed professional Level degree in Youth Work",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "https://www.nya.org.uk/youth-work/jnc/",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "ac460fc1-9b6e-47b4-ad34-1ee9f9d2c195",
+      "dutyDetail": "Establish relationships with young people, communities and partners",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "efca8692-5e1e-4b60-96d6-8db985fb7881",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "2faf3da4-15f1-4da2-be9b-73095e82d912",
+        "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268"
+      ],
+      "mappedKnowledge": [
+        "50bcf62d-d805-496c-ac8b-908a03645623",
+        "3c3f6031-f790-44e3-8ba1-c13c55ac541c",
+        "549bf5f2-2216-4bcf-acd7-75f464f74899",
+        "b98615ee-a377-426e-aced-6d6ff7ae65cc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b0b64032-b1ce-4189-ba3e-623b27d35925",
+        "5b3ff2b3-737d-4a12-ba65-a57b650ed27a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "38961c90-c906-42ca-a61e-98266cd95144",
+      "dutyDetail": "Establish, manage and develop different youth work provisions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6"
+      ],
+      "mappedKnowledge": [
+        "fb668faa-bd8a-48e7-b708-39ce7db614bf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9e9ca26c-b7f3-47aa-82ec-fd37d690b4af",
+        "a9ddd584-9d4b-4456-a01b-7b93ccb54ae9",
+        "ffcecae4-d9fc-4105-80d9-84dd58ca65c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c8e2712-c554-4de3-a45f-f8e692262367",
+      "dutyDetail": "Manage and develop staff, projects and facilities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "797304c9-fb9c-4480-bab6-6368dc708c51",
+        "efca8692-5e1e-4b60-96d6-8db985fb7881",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "2faf3da4-15f1-4da2-be9b-73095e82d912",
+        "49fb0151-b61e-4c15-897c-cd6a9239920c"
+      ],
+      "mappedKnowledge": [
+        "76e2031e-8d09-4666-9212-7cca0f362566",
+        "1cd57173-b873-4661-8f74-a601cd5f17f6",
+        "aece3efa-da6d-42eb-9243-bf8c9df126f0",
+        "c0129690-9a11-44c5-8466-1adf63b0da86",
+        "5a1f4f80-c579-44e0-b84c-c9b8a7c5bd3c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9945522c-84b2-4ce4-a986-5554fb2e46b1",
+        "9f66047b-e426-45be-9871-ace900e45929",
+        "9524dcda-eb6c-45ab-a3a1-936cec043627"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9926674b-6dac-47fd-843a-87de4546f13a",
+      "dutyDetail": "Work with other agencies to develop services across a community.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268"
+      ],
+      "mappedKnowledge": [
+        "c7ea88ac-a9f3-4945-8a0f-fe936557d2b5",
+        "b6b9657a-0b71-47d7-807c-9992160fd15f",
+        "869c2f7d-be43-4219-b425-9e1a79d2d8c6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7b2b4d26-f36b-4f17-b8e9-9251ac4217fc",
+        "fddc2921-f035-432c-b7e5-8682e8557912",
+        "fdc0db74-ccea-4ac7-89ee-647b2bde68c8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "249d7721-c9c7-44b5-8a75-bae31f34b284",
+      "dutyDetail": "Design, lead, implement and evaluate a youth work curriculum.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "797304c9-fb9c-4480-bab6-6368dc708c51",
+        "efca8692-5e1e-4b60-96d6-8db985fb7881",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "2faf3da4-15f1-4da2-be9b-73095e82d912",
+        "49fb0151-b61e-4c15-897c-cd6a9239920c"
+      ],
+      "mappedKnowledge": [
+        "6f6375b1-f5e3-40bc-a473-8684f4fa398f",
+        "12020e3a-1aa2-4b6c-83a3-af37d4052ff1",
+        "d8cc8c85-6c02-4ca6-b70b-b300f25a279b",
+        "b1111bdf-f9d5-4423-85d6-47b9fd7309fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "942c82e4-d70e-4ca9-af96-d124c311360d",
+        "52a591b9-f10d-45bb-ab24-abc8f6f70835",
+        "a216bc7e-7027-4c0c-9088-5c9ceb45cbc8",
+        "4ffa090b-d039-4a0e-a147-9c61db604445"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c9ca0ab1-2709-4c2e-95dd-066a306eb972",
+      "dutyDetail": "Lead on rights-based youth work, and voice and influence strategies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "efca8692-5e1e-4b60-96d6-8db985fb7881",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "2faf3da4-15f1-4da2-be9b-73095e82d912",
+        "49fb0151-b61e-4c15-897c-cd6a9239920c"
+      ],
+      "mappedKnowledge": [
+        "7fc6de5b-4c07-491e-9f49-34218767ba50",
+        "05df2c7d-16ce-42de-92e2-05786d7152cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "86abe725-a527-40e6-b69b-190cb56db567",
+        "113d321b-3c0a-44cf-ac75-b00d3d365c56",
+        "a9491e64-4510-4cda-b5ea-0a7563961b2e",
+        "a6c8dd2a-2c29-44b2-aa53-a4ff4b483d8f",
+        "a8f0cff9-03c7-4112-8645-cf1064bb2b89",
+        "dd5b0f6d-68b2-4ed1-bec3-d51fdfca2e7d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1e64cd5e-49af-410f-b6f4-075d4b77163b",
+      "dutyDetail": "Lead project development, implementation and evaluation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "2faf3da4-15f1-4da2-be9b-73095e82d912",
+        "49fb0151-b61e-4c15-897c-cd6a9239920c",
+        "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268"
+      ],
+      "mappedKnowledge": [
+        "b77084b0-937c-4875-8569-3794676e6817",
+        "e35e1e70-4650-420a-8554-38425ec91f74",
+        "8dd5de29-c184-4ae0-8152-1a9b3c1e74b5",
+        "acb00dad-5110-4695-8f77-895c63916e29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "58e1590b-6c63-4c85-88ab-cdf0a57ff8f2",
+        "18eb6bd3-151e-4a4b-9298-ba8efbf29ca9",
+        "2b9f4071-ff45-4a74-ab01-a99661f6c1ce"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "902dcb3b-b52a-4e16-b2ed-604017c052c1",
+      "dutyDetail": "Engage in continuous professional development.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "797304c9-fb9c-4480-bab6-6368dc708c51",
+        "efca8692-5e1e-4b60-96d6-8db985fb7881",
+        "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268"
+      ],
+      "mappedKnowledge": [
+        "00b3330d-68c9-4406-8539-6df422338bb9",
+        "5cdbd20f-bffa-49e6-9e17-353a8dc89727"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "17d92da0-039f-4c93-aa0f-d63c99c1b05d",
+        "db1935ef-6178-4eb0-a5db-19c7ef100fea"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ee6428c7-ee62-4a89-8b97-9086b2bab7b8",
+      "dutyDetail": "Demonstrate professional youth work values and ethical practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "797304c9-fb9c-4480-bab6-6368dc708c51"
+      ],
+      "mappedKnowledge": [
+        "2f71f9f9-39ce-4d7d-b607-4def02c8ec46",
+        "cf3364cb-fb04-4305-87dd-ad464d7bd35f",
+        "971df0db-6484-4005-9ffb-3ad4c72048c8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "33f69d85-7147-4633-8c42-0556d6e3bf12",
+        "0bbcc03a-b36b-434f-adfb-c4906df05409"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bcb8f604-6664-454d-ae35-3216293d6eea",
+      "dutyDetail": "Manage provision within relevant legislative frameworks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "65d905f1-9e32-471b-9fd3-c43212ebe81a",
+        "daa929af-5566-4e75-b879-ca19197d0486",
+        "d51c7552-8c62-42dd-a33e-1b47dd3e1134",
+        "de76ee75-a51f-4b6e-bfcf-02ca737df2f2",
+        "27f714c8-8bd9-443c-80f8-ab835ae368b6",
+        "1c2ef0ca-0d84-4bfe-92ca-8cd2d86c9268"
+      ],
+      "mappedKnowledge": [
+        "001390b5-afc2-460b-bf65-4bed73f2ba8b",
+        "3eeb5a5a-2a3f-4c27-9d49-5159d36128d9",
+        "e3d76365-92a2-4426-b9ae-ac7e86537336"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "22bd28cc-8f50-4e08-90af-c1d447a06b65",
+        "2dae085a-4f3b-48b8-a183-04205adbd795"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-07-12T00:00:00"
 }
