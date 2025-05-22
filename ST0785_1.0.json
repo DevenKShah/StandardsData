@@ -1,60 +1,780 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 706,
   "referenceNumber": "ST0785",
+  "learningAimClassCode": "",
   "title": "Human factors specialist",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0785",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-05-11T00:00:00",
+  "earliestStartDate": "2023-05-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
-  "level": 6,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "overviewOfRole": "To make systems, products, tasks, jobs, organisations and work environments better for their intended users.",
+  "level": 7,
+  "ePALength": 6,
+  "typicalDuration": 36,
+  "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "human",
+    "factors",
+    "specialist",
+    "environments",
+    "systems"
+  ],
+  "jobRoles": [
+    "Ergonomist",
+    "Human factors consultant",
+    "Human factors engineer",
+    "Human factors practitioner",
+    "Human factors specialist"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "1 Health, Public Services and Care",
-  "ssa2": "1.1 Medicine and dentistry",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the defence and security, transportation, manufacturing, energy, and healthcare sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to make systems, products, tasks, jobs, organisations and work environments better for their intended users. The occupation is also referred to as Ergonomics and it is broadly accepted that the terms &#39;ergonomics&#39; and &#39;human factors&#39; can be used interchangeably. The role involves the application of scientific information about the capabilities of human beings to the design of equipment, working practices, organisations and working environments in order to make people’s jobs safer, more efficient and more productive. Human Factors Specialists are found in a broad range of occupational sectors. For example, they may contribute to the design of power plant control rooms in the energy sector in order to minimise the risk of human error. In the defence sector they might contribute to the design of a fast jet cockpit ensuring that the pilot can use all the information, control the systems and make optimal decisions under high pressure. In the transportation sector they may support the design of a railway carriage layout; ensuring the comfort and safe accommodation of passengers. In a manufacturing context, a Human Factors Specialist may be involved in the design of production line processes, including the definition of line workers’ tasks and the physical layout of the equipment. Similarly, in the healthcare sector a Human Factors Specialist may be involved in the design of human computer interfaces (HCI) on medical devices such as scanners and X-ray machines. Across all sectors the common aim is to ensure that users of a system or process can perform their tasks safely and effectively, often in demanding and stressful environments.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with End Users of systems (e.g. military personnel, pilots, plant operators, radiographers etc.) in order to understand their goals and performance objectives and accommodate features into the design to enable them to achieve these aims. They may also advise experts in specialist fields (such as safety) on the characteristics of Human Performance in given situations. They are also likely to interact with programme managers, customer representatives, suppliers, colleagues in other business functions (e.g. engineering, legal), researchers and academics, Government agencies and regulators. Their daily work is mainly office based with occasional laboratory or field based trials and offsite visits to industrial sites and offices.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for leading human factors elements of projects or programmes to create optimum products or processes that meet the needs of the users and ensure the required operational performance. They will be responsible for the application of specialist methodologies, tools and techniques across the full lifecycle of the system (i.e. from initial concepts, through manufacture and in-service phases to disposal). They may work autonomously but are more likely to be part of wider multidisciplinary teams, typically reporting to project or programme leaders or to a head of human factors. They will typically have responsibility for the human factors team budget for each project. The size of the role is project dependent and may vary from providing a short period of expert consultancy to leading a team of human factors professionals on a large development project over a number of years..&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+      "detail": "The theoretical application of human sciences to the engineering and design of products, processes, and systems based on relevant parts of psychology, physiology, human biology, biomechanics and cognitive science."
+    },
+    {
+      "knowledgeId": "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+      "detail": "Numerical, analytical and critical analysis techniques for Human-System Analysis & Assessment. The limitations of these techniques."
+    },
+    {
+      "knowledgeId": "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+      "detail": "Qualitative and quantitative approaches and techniques for user engagement."
+    },
+    {
+      "knowledgeId": "b3798686-9056-4402-b8a1-1214c0af750f",
+      "detail": "Design principles, methods and limitations for systems design and sociotechnical system design."
+    },
+    {
+      "knowledgeId": "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+      "detail": "Human factors principles for Human Machine Interface (HMI) design."
+    },
+    {
+      "knowledgeId": "6abe0953-279f-404c-a021-4453b41c622b",
+      "detail": "Capability and limitations in the design and evaluation of physical ergonomics."
+    },
+    {
+      "knowledgeId": "0ff7bc76-22df-4192-82a4-a3729279e87c",
+      "detail": "Robotic Intelligent and Autonomous Systems (RIAS) and their Human Factors considerations."
+    },
+    {
+      "knowledgeId": "6b5cf574-872e-4011-a69e-36538f173c40",
+      "detail": "Principles of Human Factors Integration and Human System Integration."
+    },
+    {
+      "knowledgeId": "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+      "detail": "National and international human factors standards and supporting guidance."
+    },
+    {
+      "knowledgeId": "16c5fecc-bc29-49fc-907d-4120711c80bc",
+      "detail": "Legal requirements: statutory and national, international and sector specific legislation and regulation."
+    },
+    {
+      "knowledgeId": "a85881a7-5e49-44a6-8113-5bcb716bf181",
+      "detail": "Research design; ethical and environmental practice in research and qualitative and quantitative approaches to research."
+    },
+    {
+      "knowledgeId": "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+      "detail": "The principles and processes of Human Centred Design."
+    },
+    {
+      "knowledgeId": "f6eea177-76be-427a-b9f7-7d35c1579053",
+      "detail": "Product, service and system lifecycles: planning, developing, preparing, utilising and retirement."
+    },
+    {
+      "knowledgeId": "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+      "detail": "Project management techniques for project delivery: planning, resource management, cost and budget control, risk, and quality."
+    },
+    {
+      "knowledgeId": "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+      "detail": "Teamwork and leadership: negotiation techniques, conflict management, development techniques, and diversity, equality and inclusivity considerations."
+    },
+    {
+      "knowledgeId": "bea57c44-8113-46e9-9b44-d1b9cc21d401",
+      "detail": "Time management techniques."
+    },
+    {
+      "knowledgeId": "fc100dae-da9e-4efa-aa5c-9cee9cc4158e",
+      "detail": "Communication techniques: oral, written, and presentations."
+    },
+    {
+      "knowledgeId": "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+      "detail": "The implication of the broader business and engineering context including safety, environmental protection and sustainability, ethics, economic responsibility, social responsibilities, and advances in technology on human factors."
+    },
+    {
+      "knowledgeId": "d2669141-5306-4a49-bcb9-57b0f368fc02",
+      "detail": "Inclusive and accessible design principles and practice."
+    },
+    {
+      "knowledgeId": "c06b381f-96df-4943-bfa1-722a22a96751",
+      "detail": "Techniques for user trials and experimentation appropriate to human factors design."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d571019c-8eff-4910-b853-d3e1d213e765",
+      "detail": "Adapt and is resilient to challenging or changing situations."
+    },
+    {
+      "behaviourId": "3a23a4ec-8b67-464e-b401-57df38741458",
+      "detail": "Act in a professional and ethical manner."
+    },
+    {
+      "behaviourId": "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+      "detail": "Lead by example and act as an advocate for human centred and inclusive design practices."
+    },
+    {
+      "behaviourId": "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+      "detail": "Prioritise quality and continuous improvement practices."
+    },
+    {
+      "behaviourId": "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+      "detail": "Lead by example to promote innovation and challenge existing practices."
+    },
+    {
+      "behaviourId": "3972b4f7-65b3-4f4f-aac8-afeba97db572",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "49828ad0-8458-413e-86c0-747462999ebc",
+      "detail": "Commit to ongoing professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "65001760-57c0-4eba-9e92-752c6ef29e7c",
+      "detail": "Select and apply human factors methodologies to project requirements."
+    },
+    {
+      "skillId": "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+      "detail": "Use computer-based tools to assist in the design, analysis, evaluation and validation of jobs, interfaces, tasks and environments such as: Computer Aided Design, Task Analysis, Anthropometric Modelling, Workload Analysis, HCI/User Interface Design and Prototyping."
+    },
+    {
+      "skillId": "cb45e644-5312-4823-90ba-59396299566c",
+      "detail": "Produce Specific-Measurable-Appropriate-Realistic-Timebound (SMART) requirements."
+    },
+    {
+      "skillId": "db230410-1f1b-4028-89cc-b37d810a5f0a",
+      "detail": "Identify and comply with legal, statutory and any other relevant legislation and standards to bound and inform design and engineering choices."
+    },
+    {
+      "skillId": "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+      "detail": "Design and execute trials and experimentation involving Users."
+    },
+    {
+      "skillId": "0e0fb039-fc61-4081-91ae-3e19859bd041",
+      "detail": "Collect, analyse and interpret data using numerical, analytical and critical analysis techniques."
+    },
+    {
+      "skillId": "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+      "detail": "Communicate with colleagues and stakeholders in multidisciplinary teams using different methods including oral, written, and presentation."
+    },
+    {
+      "skillId": "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+      "detail": "Plan, manage and lead projects."
+    },
+    {
+      "skillId": "c09a85db-9d75-43e9-be65-c9d9152a087f",
+      "detail": "Produce documentation such as assessments, risk registers, plans, specifications and assurance cases."
+    },
+    {
+      "skillId": "edc29a49-ff4c-4a7a-916f-142880fe9728",
+      "detail": "Plan and undertake research to meet the project requirement."
+    },
+    {
+      "skillId": "f47d393f-945b-4131-adad-2f10050568b4",
+      "detail": "Technical decision making related to human factors engineering considering the impact on the project and area of delegated authority."
+    },
+    {
+      "skillId": "816696e9-74ae-404a-bafb-8033e67efd6d",
+      "detail": "Use human factors design principles when developing solutions."
+    },
+    {
+      "skillId": "61eb9544-3a11-4273-a0fb-3501818255bc",
+      "detail": "Plan and manage own time."
+    },
+    {
+      "skillId": "faa423cb-5eb2-422e-b0c3-4ce21cf88a9a",
+      "detail": "Integrate human factors programme of work within engineering programmes."
+    },
+    {
+      "skillId": "eca3d137-c937-4f84-aa47-ed0ede26af26",
+      "detail": "Teamwork and leadership skills including: negotiation techniques, conflict management, development techniques, and diversity, equality and inclusivity considerations."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2023-05-11T00:00:00 +00:00",
   "integratedApprenticeship": null,
-  "integratedDegree": "non-integrated degree",
+  "integration": null,
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0411",
-  "tbMainContact": "Chris.Vance@mbda-systems.com ",
-  "involvedEmployers": "",
+  "tbMainContact": "chris.vance@mbda-systems.com",
+  "involvedEmployers": "MBDA UK, Defence Equipment & Support (DE&S), Cavendish Nuclear, Frazer Nash Consultants, British Marine Technologies, K Sharp, Ronin, QinetiQ, Defence Science and Technology Laboratory (DSTL), BAE Systems, EDF Energy",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2018-11-16T14:58:26 +00:00",
-  "lastUpdated": "2018-11-16T14:58:26 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/human-factors-specialist#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/human-factors-specialist",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "typicalJobTitles": [
+    "Ergonomist",
+    "Human factors consultant",
+    "Human factors engineer",
+    "Human factors practitioner",
+    "Human factors specialist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
+  "createdDate": "2023-02-20T13:08:41 +00:00",
+  "lastUpdated": "2023-05-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-05-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0785",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "7b654738-76b4-4b89-a8a6-5b9e6fef2a6d",
+      "title": "Masters degree in human factors",
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Graduate Member ",
+      "level": "Chartered Institute of Ergonomics and Human Factors (CIEHF)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "6d24687c-7aa4-41ac-b0df-2456223775aa",
+      "dutyDetail": "Plan, control and deliver human factors activities (e.g. analysis, design and assessment) to meet requirements and achieve goals in terms of performance, quality and in accordance with budgets and timescales.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "6b5cf574-872e-4011-a69e-36538f173c40",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+        "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+        "bea57c44-8113-46e9-9b44-d1b9cc21d401",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02",
+        "c06b381f-96df-4943-bfa1-722a22a96751"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "f47d393f-945b-4131-adad-2f10050568b4",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc",
+        "faa423cb-5eb2-422e-b0c3-4ce21cf88a9a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5be891c7-43cd-4968-a648-01c746b44c45",
+      "dutyDetail": "Conduct bid and tendering activities for human factors work ensuring bids meet customer needs and are in alignment with business and commercial criteria.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "6b5cf574-872e-4011-a69e-36538f173c40",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+        "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+        "bea57c44-8113-46e9-9b44-d1b9cc21d401",
+        "fc100dae-da9e-4efa-aa5c-9cee9cc4158e",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "61eb9544-3a11-4273-a0fb-3501818255bc",
+        "faa423cb-5eb2-422e-b0c3-4ce21cf88a9a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f09623b2-d523-486e-8bca-eefd534f5610",
+      "dutyDetail": "Lead and manage human factors related interactions and communications with end users, other technical disciplines, internal business functions and external agencies (e.g. design workshops and reviews).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+        "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+        "fc100dae-da9e-4efa-aa5c-9cee9cc4158e",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02",
+        "c06b381f-96df-4943-bfa1-722a22a96751"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+        "f47d393f-945b-4131-adad-2f10050568b4",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc",
+        "eca3d137-c937-4f84-aa47-ed0ede26af26"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5e74abcc-a49d-4086-bb4d-4e3bcfdee47c",
+      "dutyDetail": "Identify and manage human factors considerations (e.g. personnel capability, equipment suitability, human performance influencers) in order to determine the appropriate methodologies, tools and standards required to address any human-related risks, issues or opportunities identified with systems, products, tasks, jobs, organisations or environments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c813e22-3b8c-4e2a-8c2b-6303b83682fe",
+      "dutyDetail": "Analyse human roles (e.g. aircraft pilot, control room operator, vehicle maintainer) in order to establish current and future expectations of the end user and demands they may create for the systems, products, jobs, organisations and environments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "0e0fb039-fc61-4081-91ae-3e19859bd041",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93be6472-d1d4-4ecb-830f-08123f8b6621",
+      "dutyDetail": "Support the development of safety systems and processes to ensure adequate protection of people, infrastructure and the environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "cb45e644-5312-4823-90ba-59396299566c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "0e0fb039-fc61-4081-91ae-3e19859bd041",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "57b0b9cd-4b8d-4757-8212-0c5c574297b6",
+      "dutyDetail": "Specify and manage human factors requirements for equipment, systems, products, tasks, jobs, organisations and environments in accordance with human factors principles, best practice and applicable regulations and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "cb45e644-5312-4823-90ba-59396299566c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "85295120-db1f-403a-9407-9799d03d3589",
+      "dutyDetail": "Contribute to the design of equipment, systems, products, tasks, jobs, organisations and environments (e.g. power plant control room, an armoured fighting vehicle, an aircraft cockpit or a medical device) in accordance with requirements, human factors principles, best practice and applicable regulations and standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "cb45e644-5312-4823-90ba-59396299566c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31f378ad-a3b1-4e15-9073-af03b69eda6f",
+      "dutyDetail": "Assess the performance and integration of humans in systems, products, tasks, jobs, organisations and environments (e.g. how an aircraft pilot performs in an aircraft simulator representing a new design) to verify and validate the design against human factors requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "6b5cf574-872e-4011-a69e-36538f173c40",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+        "fc100dae-da9e-4efa-aa5c-9cee9cc4158e",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "0e0fb039-fc61-4081-91ae-3e19859bd041",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc",
+        "faa423cb-5eb2-422e-b0c3-4ce21cf88a9a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8bba40c2-5a56-458f-8e9d-35ed9e1034bf",
+      "dutyDetail": "Provide human factors evidence to support the assurance and acceptance of new or updated systems, products, tasks, jobs, organisations and environments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "fc100dae-da9e-4efa-aa5c-9cee9cc4158e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "0e0fb039-fc61-4081-91ae-3e19859bd041",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8921d0ab-266b-45df-919c-147b9a0ce4b5",
+      "dutyDetail": "Plan, conduct and apply research to support better understanding of human factors related risks (e.g. managing operator cognitive load) and issues throughout the system (product, task, job, organisational structure or environment) lifecycle (from concept to disposal).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c",
+        "d2669141-5306-4a49-bcb9-57b0f368fc02",
+        "c06b381f-96df-4943-bfa1-722a22a96751"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "61eb9544-3a11-4273-a0fb-3501818255bc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc5b70a7-c0ec-4db6-a0d2-33a7cf9de480",
+      "dutyDetail": "Maintain an ongoing continuous professional development programme.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d571019c-8eff-4910-b853-d3e1d213e765",
+        "3a23a4ec-8b67-464e-b401-57df38741458",
+        "1eec4720-96dd-4e9c-8ee9-e9608c4bccb0",
+        "cc108b64-86d4-403c-bf7a-be8e482e9a45",
+        "7058c09d-3336-4b1e-9855-feb4b465bd5c",
+        "3972b4f7-65b3-4f4f-aac8-afeba97db572",
+        "49828ad0-8458-413e-86c0-747462999ebc"
+      ],
+      "mappedKnowledge": [
+        "1fe8b588-ee36-4e09-b41e-ee21038dc0c1",
+        "f5eceb10-46ce-45b4-bbe0-d65e2c04d138",
+        "fef0d523-2ff3-4caa-ab25-436b458e0c0e",
+        "b3798686-9056-4402-b8a1-1214c0af750f",
+        "3cc73d47-0c43-40bb-8df6-ce2ebd9b173f",
+        "6abe0953-279f-404c-a021-4453b41c622b",
+        "0ff7bc76-22df-4192-82a4-a3729279e87c",
+        "6b5cf574-872e-4011-a69e-36538f173c40",
+        "00a6dd0f-ba9f-4eb5-80b8-d842bcccb744",
+        "16c5fecc-bc29-49fc-907d-4120711c80bc",
+        "a85881a7-5e49-44a6-8113-5bcb716bf181",
+        "acca46d4-70fd-44b1-b31e-fc0fcef0f327",
+        "f6eea177-76be-427a-b9f7-7d35c1579053",
+        "42281ae1-cc62-4f60-9fc6-1e1d6633c693",
+        "e4abf666-b13f-4c1a-be9b-540cc8c811bc",
+        "bea57c44-8113-46e9-9b44-d1b9cc21d401",
+        "8fef49c1-1727-4a0d-b34b-3b71a1b25b3c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "65001760-57c0-4eba-9e92-752c6ef29e7c",
+        "c2ec643f-83bf-402c-bbed-4d5458dc9a78",
+        "cb45e644-5312-4823-90ba-59396299566c",
+        "db230410-1f1b-4028-89cc-b37d810a5f0a",
+        "441c5d62-e157-4efc-8dee-c28dd27f1f7b",
+        "0e0fb039-fc61-4081-91ae-3e19859bd041",
+        "af8c43bf-4dca-42a7-9ba0-0696fc9ee378",
+        "7fb7bd7a-e980-404d-a284-2b3727e3a36a",
+        "c09a85db-9d75-43e9-be65-c9d9152a087f",
+        "edc29a49-ff4c-4a7a-916f-142880fe9728",
+        "f47d393f-945b-4131-adad-2f10050568b4",
+        "816696e9-74ae-404a-bafb-8033e67efd6d",
+        "61eb9544-3a11-4273-a0fb-3501818255bc",
+        "faa423cb-5eb2-422e-b0c3-4ce21cf88a9a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-05-11T00:00:00"
 }
