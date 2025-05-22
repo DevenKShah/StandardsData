@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 533,
   "referenceNumber": "ST0447",
+  "learningAimClassCode": "",
   "title": "Clock maker",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/533",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0447",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-03-25T00:00:00",
@@ -12,8 +16,10 @@
   "latestEndDate": null,
   "overviewOfRole": "Service, repair and manufacture components for a range of clocks as well as being able to manufacture a complete clock.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Service",
@@ -32,13 +38,12 @@
     "Clock Conservator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3845/st0447_clock-maker_l3_assessment-plan.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3845/st0447_clock-maker_l3_assessment-plan.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;The clock maker is found in the Heritage and museum, manufacturing, retail and repair, public and Industrial sectors. A clock maker is someone who is able to use their skill and labour to service, repair and manufacture components for a range of clocks as well as being able to manufacture a complete clock. The work is skilled and precise in nature and requires the use of hand and machine tools as well as an understanding of horological theory and history. As most of the work undertaken by clock makers is the repair and restoration of clock mechanisms, it is important that a good understanding of the topics below is grasped.&lt;/p&gt;\r\n&lt;p&gt;A clock maker should be able to manufacture or specify for manufacture all the components within a clock.&lt;/p&gt;\r\n&lt;p&gt;A clock maker may find themselves working in a small team for another clock maker, or as part of a jewellery business. Individuals could eventually, with further training, go on to become self-employed, servicing clocks for others and the general public.&lt;/p&gt;\r\n&lt;p&gt;In their daily work an employee would interact with members of the public, other clock makers who are manufacturing specified components, suppliers, managers/employer, and other team members when working in a manufacturing or retail environment. An employee in this occupation will be responsible for basic maintenance of tools and understanding of the appropriate level of Health and Safety legislation. The employee would expected to be able to service and recognise faults within standard striking platform and pendulum clocks with minimal supervision, however for more complex work they may seek further guidance. It is expected that the employee will have an awareness of restoration, conservation practices and ethical practice.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The clock maker is found in the Heritage and museum, manufacturing, retail and repair, public and Industrial sectors. A clock maker is someone who is able to use their skill and labour to service, repair and manufacture components for a range of clocks as well as being able to manufacture a complete clock. The work is skilled and precise in nature and requires the use of hand and machine tools as well as an understanding of horological theory and history. As most of the work undertaken by clock makers is the repair and restoration of clock mechanisms, it is important that a good understanding of the topics below is grasped.&lt;/p&gt;\n&lt;p&gt;A clock maker should be able to manufacture or specify for manufacture all the components within a clock.&lt;/p&gt;\n&lt;p&gt;A clock maker may find themselves working in a small team for another clock maker, or as part of a jewellery business. Individuals could eventually, with further training, go on to become self-employed, servicing clocks for others and the general public.&lt;/p&gt;\n&lt;p&gt;In their daily work an employee would interact with members of the public, other clock makers who are manufacturing specified components, suppliers, managers/employer, and other team members when working in a manufacturing or retail environment. An employee in this occupation will be responsible for basic maintenance of tools and understanding of the appropriate level of Health and Safety legislation. The employee would expected to be able to service and recognise faults within standard striking platform and pendulum clocks with minimal supervision, however for more complex work they may seek further guidance. It is expected that the employee will have an awareness of restoration, conservation practices and ethical practice.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "60e6cd7c-2050-4689-aa72-834d7e298422",
@@ -321,25 +326,28 @@
       "detail": "Apply the historical knowledge and use clear explanations, providing options and solutions to influence and help customers make choices and agree next steps."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-02-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0391",
   "tbMainContact": "ross.alcock@tiscali.co.uk",
   "involvedEmployers": "Dicky Tickers, Kelvedon Clocks, Cumbria Clock Company, British Museum, Stamford, Royal Collections.",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -349,25 +357,31 @@
     "Clock Restorer",
     "Clock Conservator"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Craft and Design",
-  "cluster": "Precision Manufacturing Craftsperson",
+  "cluster": "Precision manufacturing craftsperson",
+  "clusterId": "72",
+  "clusterDescription": "Use traditional craft hand engineering and metal working skills to manufacture and restore precision items often with a high artistic merit and value",
   "createdDate": "2020-02-26T09:08:42 +00:00",
-  "lastUpdated": "2020-02-26T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clock-maker-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clock-maker-v1-0",
+  "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0447",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0447-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0447-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "British Horological Institute",
-      "level": "0",
+      "level": "Leading towards Member of the BHI (MBHI)",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "British Watch and Clock Makers Guild",
-      "level": "0",
+      "level": "Attains\u00A0Membership",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -387,7 +401,7 @@
         "f51c968a-76cb-43af-ad74-cd843197ef2e",
         "6a025cfb-3bed-490a-a4da-3754bbb325bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "62676524-299a-40a7-bb52-4d915604054b",
         "4b09dfd6-a3fa-4961-9763-94934242589b",
@@ -407,7 +421,7 @@
       "mappedKnowledge": [
         "45725725-e996-47cf-a372-4ed1f3c77a00"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a35c52d5-3125-4f9d-8c81-d12a02934a73",
         "80c56500-7c27-4048-9717-af382df9676b"
@@ -430,7 +444,7 @@
         "06b93b92-6309-42d7-a676-de5613bc2c25",
         "dd181f37-318b-4559-8960-794a5164966a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b0d7917c-ba4f-4613-a1be-66ac4729809a",
         "fb8840cb-80da-42fd-92b1-7a31548874d0",
@@ -457,7 +471,7 @@
         "ae485ec9-775b-4c11-b184-b03d2bf3f4a3",
         "8fe355a2-d9e1-48d0-9776-394c6eba9278"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36ae7b70-e113-4d66-8ab0-9a4778cbc58c",
         "b2fb7312-c198-4f0c-a3cb-88ea2b030a10",
@@ -488,7 +502,7 @@
       "mappedKnowledge": [
         "bade7926-dab0-4b67-8aec-382fb81c9b9c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed785222-265d-415b-bce9-d3218a823338"
       ],
@@ -506,7 +520,7 @@
         "964f35f9-8b90-4494-b0e6-61e648ccae14",
         "19c68291-ee50-4d36-877d-b01b9d1fbb59"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3e69504a-c0ec-4d2d-9041-35166dbfd4c5"
       ],
@@ -526,7 +540,7 @@
         "f7108ec9-2c69-4887-aa93-9d9e4ea2e709",
         "122c218b-296d-4a62-9a5b-ee9f856692d3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d2f01d-32d2-43c8-911d-b25fe50c9436",
         "4f570c94-38f6-4bf2-8c44-91094522876d"
@@ -534,5 +548,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-03-25T00:00:00"
 }
