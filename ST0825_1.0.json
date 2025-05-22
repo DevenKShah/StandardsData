@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 548,
   "referenceNumber": "ST0825",
+  "learningAimClassCode": "",
   "title": "DevOps engineer",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/548",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0825",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-09-26T00:00:00",
   "earliestStartDate": "2020-03-12T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-09-25T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Enabling organisations to get valuable working software out in front of active users and improving the quality of digital services.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "engineer",
@@ -34,13 +40,12 @@
     "Deployment Engineer"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include A levels; a level 3 apprenticeship or other relevant qualification; relevant experience and/or an aptitude test.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4069/st0825_devops_engineer_l4-ap-for-publication_050320_qm_minor-amend-190320.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4069/st0825_devops_engineer_l4-ap-for-publication_050320_qm_minor-amend-190320.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2135 - IT business analysts, architects and systems designers",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide and diverse range of public and private sector organisations, from tech start ups through government departments to multinationals. Essentially any organisation of any size that builds and/or operates modern IT services.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to enable organisations to get valuable working software out in front of active users, both external and internal, frequently and safely, reducing time to market, delivering increased value - both with respect to the end user and the business - and improving the quality of digital services.&#160; At its simplest, DevOps is a philosophy and way of working that brings together two historically disparate parts of the IT organisation, namely those who develop the software and those who are then required to support it in the live environment.&#160; The DevOps Engineer encapsulates both disciplines, requiring the individual to understand and appreciate how their code functions when being used in the real world and troubleshoot any issues that may arise, while taking a cloud-infrastructure focused perspective.&#160; This means taking responsibility for all aspects of the development and operations process - the design, build, test, implement, release and continual iteration of products.&#160; Utilizing the advantages of Cloud computing to enable infrastructure to be defined in code moves the operations side away from traditional system administrator roles which are focused on troubleshooting traditional infrastructure-as-hardware.&#160; The convergence of these two topics drives DevOps culture and ways of working and creates the need for the new role of DevOps Engineer that works within the delivery team. The DevOps Engineer applies all the DevOps culture and software engineering disciplines to codified infrastructure.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of agile development teams, other areas within the organisation’s IT department and business areas, as well as 3rd-party suppliers.&#160; This is an office based or remote working role, with co-location preferable.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively with a minimum of direct supervision within broad but generally well defined parameters, requiring the application of knowledge and understanding, skills and methods in a broad range of complex or technical work activities, performed in a variety of contexts.&#160; They will address problems which are non-routine while normally fairly well defined, taking responsibility for courses of action, including, where relevant, responsibility for the work of others and allocation of resources.&#160; They will typically pair with other technical roles, or work alone at times, and provide input to the planning of work and advise on design.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide and diverse range of public and private sector organisations, from tech start ups through government departments to multinationals. Essentially any organisation of any size that builds and/or operates modern IT services.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to enable organisations to get valuable working software out in front of active users, both external and internal, frequently and safely, reducing time to market, delivering increased value - both with respect to the end user and the business - and improving the quality of digital services.&#160; At its simplest, DevOps is a philosophy and way of working that brings together two historically disparate parts of the IT organisation, namely those who develop the software and those who are then required to support it in the live environment.&#160; The DevOps Engineer encapsulates both disciplines, requiring the individual to understand and appreciate how their code functions when being used in the real world and troubleshoot any issues that may arise, while taking a cloud-infrastructure focused perspective.&#160; This means taking responsibility for all aspects of the development and operations process - the design, build, test, implement, release and continual iteration of products.&#160; Utilizing the advantages of Cloud computing to enable infrastructure to be defined in code moves the operations side away from traditional system administrator roles which are focused on troubleshooting traditional infrastructure-as-hardware.&#160; The convergence of these two topics drives DevOps culture and ways of working and creates the need for the new role of DevOps Engineer that works within the delivery team. The DevOps Engineer applies all the DevOps culture and software engineering disciplines to codified infrastructure.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other members of agile development teams, other areas within the organisation’s IT department and business areas, as well as 3rd-party suppliers.&#160; This is an office based or remote working role, with co-location preferable.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively with a minimum of direct supervision within broad but generally well defined parameters, requiring the application of knowledge and understanding, skills and methods in a broad range of complex or technical work activities, performed in a variety of contexts.&#160; They will address problems which are non-routine while normally fairly well defined, taking responsibility for courses of action, including, where relevant, responsibility for the work of others and allocation of resources.&#160; They will typically pair with other technical roles, or work alone at times, and provide input to the planning of work and advise on design.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "4f8d0cfc-b642-46d3-9c1e-70dae58ac318",
@@ -251,25 +256,28 @@
       "detail": "Incremental refactoring by applying small behaviour-preserving code changes to evolve the architecture."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-03-12T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0442",
-  "tbMainContact": "andrew.sheppard@digital.hmrc.gov.uk",
+  "tbMainContact": "andrew.sheppard@outsystems.com",
   "involvedEmployers": "Cabinet Office, DBS, HSE, DVLA, Hackney Council, DfE, HMPO, MoJ, Home Office, ONS, DVSA, DWP, HMRC, IBM, BT, MadeTech,, Digi2al, Credit Suisse, BPDTS, Militant South, Corndel,, Capgemini,Softwire, BAE, ANS Group, ZenInternet, Virgin Media,, Fujitsu, GVC Group, Dee Set, KPMG, Solent Uni, Bath Uni, PPL UK,, QA, 3, Financial Times, Nationwide, Invotra, Aveva, Door Funds,, Makers Academy, BB, Santander, Amazon",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -284,14 +292,20 @@
     "Full Stack Developer",
     "Deployment Engineer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
-  "cluster": "Software Development Advanced Technician",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2020-03-12T12:42:01 +00:00",
-  "lastUpdated": "2020-03-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/devops-engineer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/devops-engineer-v1-0",
+  "lastUpdated": "2024-09-26T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-03-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0825",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -315,7 +329,7 @@
         "0cdaa332-0f0e-42c2-b5f9-14a008afe320",
         "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
         "5d9a1807-9a68-49da-bde5-7f3682ce2748",
@@ -346,7 +360,7 @@
         "3da8f361-92b4-47c1-8024-49187f61c976",
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -372,7 +386,7 @@
         "a587a84c-86f1-4008-ab3a-71af7a5bcd53",
         "7f114758-5145-4284-8f30-d0b0b4dc9ce6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "ea4d4425-179b-4e6b-bb4a-3739a9a5d576",
@@ -402,7 +416,7 @@
         "50a23f86-67e5-4264-ac6d-256d6c6b034a",
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -429,7 +443,7 @@
         "281249f6-70d0-4fb7-b197-fb48278fb2d7",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "b1a34aa6-2db9-4f6a-b20d-dd617159cfb3",
@@ -456,7 +470,7 @@
         "f4cefcce-deda-4da8-bfe5-d67454cd82c9",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -491,7 +505,7 @@
         "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -529,7 +543,7 @@
         "f6dc64dd-c0e5-4ea1-a08c-17704b704213",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -568,7 +582,7 @@
         "721d3800-fca8-4e6a-9afe-d57ac9ce2fbb",
         "ef339342-bd69-4050-8a96-8b53a8951cfd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b7e8c84-3f45-442a-aeae-c739466ef48e",
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
@@ -598,7 +612,7 @@
         "6920da28-147b-43a0-b0f8-c5a34edf41eb",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6b7e8c84-3f45-442a-aeae-c739466ef48e",
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
@@ -630,7 +644,7 @@
         "970e7088-fbae-4ebe-ac40-89b328757c88",
         "581599e4-a9dd-44cf-94c4-b595f0bfe065"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "2fce42f5-820f-40a1-b1c3-c0d5683843ff"
@@ -656,7 +670,7 @@
         "281249f6-70d0-4fb7-b197-fb48278fb2d7",
         "f4cefcce-deda-4da8-bfe5-d67454cd82c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a775ba6b-73b5-432c-bc1c-7a28892f5516",
         "549ce19f-92ed-4b3a-947b-ec54062ceed7",
@@ -686,7 +700,7 @@
         "619f28db-ad65-4e0f-a3bf-9ce3723b48f4",
         "970e7088-fbae-4ebe-ac40-89b328757c88"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9b5f2589-04ca-43d4-a5da-5fb1dc61f464",
         "cf6a7b06-2ac3-4c02-a7c9-8826fc638f6f",
@@ -701,5 +715,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-09-26T00:00:00"
 }
