@@ -1,19 +1,25 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 621,
   "referenceNumber": "ST0937",
+  "learningAimClassCode": "",
   "title": "General farm worker",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2021-03-16T00:00:00",
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0937",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-20T00:00:00",
+  "earliestStartDate": "2021-05-20T00:00:00",
+  "latestStartDate": "2024-11-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Support the operation of a farm.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "farming",
@@ -22,7 +28,8 @@
     "agriculture",
     "environment",
     "animals",
-    "farm"
+    "farm",
+    "farm worker"
   ],
   "jobRoles": [
     "Assistant Herdsperson",
@@ -32,13 +39,12 @@
     "Stockperson"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4988/st0937_general-farm-worker_l2_epa-for-publication_160321.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7301/st0937_general-farm-worker_l2_epa-for-adjustment_110422pdfem.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.1 Agriculture",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "9111",
-  "occupationalSummary": "&lt;p&gt;&lt;strong&gt;This occupation is found in..&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;Agriculture, Animal Health and Welfare&lt;br /&gt;&lt;strong&gt;&lt;br /&gt;The broad purpose of the occupation is …&lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;to support the operation of farm enterprises through maintaining a culture of health and safety, biosecurity, engaging with third parties, maintaining crop, animal handling and health, maintenance and cleanliness of machinery. The General Farm Worker will typically be required to drive farm vehicles and must hold the appropriate license. The individual will work alongside the supervisor, supporting daily operations for the farm enterprises including identifying and maintaining animal or plant health performance, conducting routine tasks and assisting with general record keeping practices. The individual will manage the storage of forage and crop, minimising waste and disposing of necessary waste appropriately. Animal welfare and risk awareness and prevention are integral to this occupation.&lt;/p&gt;\r\n&lt;p&gt;A General Farm Worker is likely to specialise in Livestock or Crop. This Apprenticeship Standard takes a core and options approach. All apprentices will complete the core and must select the one most appropriate option to their role: Livestock Worker or Crop Worker.&#160;&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;In their daily work, an employee in this occupation interacts with … &lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;the internal farm team reporting to a line manager, and with a number of external stakeholders including vets, farm advisor, contractors and other consultants to the business.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;An employee in this occupation will be responsible for … &lt;/strong&gt;&lt;/p&gt;\r\n&lt;p&gt;carrying out routine work set by their supervisor, to the required business standards. This includes assisting with animal and plant health and nutrition, maintaining health and safety and biosecurity, operating farm vehicles and optimising the environmental impacts of animal and crop performance. Office work is minimal although basic daily record keeping will be required.&#160; Typical working hours will depend on farm type and labour structure. A farm worker will be expected to do long hours, only as permitted within UK employment law.&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;&lt;strong&gt;This occupation is found in..&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Agriculture, Animal Health and Welfare&lt;br&gt;&lt;strong&gt;&lt;br&gt;The broad purpose of the occupation is …&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;to support the operation of farm enterprises through maintaining a culture of health and safety, biosecurity, engaging with third parties, maintaining crop, animal handling and health, maintenance and cleanliness of machinery. The General Farm Worker will typically be required to drive farm vehicles and must hold the appropriate license. The individual will work alongside the supervisor, supporting daily operations for the farm enterprises including identifying and maintaining animal or plant health performance, conducting routine tasks and assisting with general record keeping practices. The individual will manage the storage of forage and crop, minimising waste and disposing of necessary waste appropriately. Animal welfare and risk awareness and prevention are integral to this occupation.&lt;/p&gt;\n&lt;p&gt;A General Farm Worker is likely to specialise in Livestock or Crop. This Apprenticeship Standard takes a core and options approach. All apprentices will complete the core and must select the one most appropriate option to their role: Livestock Worker or Crop Worker.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In their daily work, an employee in this occupation interacts with … &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;the internal farm team reporting to a line manager, and with a number of external stakeholders including vets, farm advisor, contractors and other consultants to the business.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;An employee in this occupation will be responsible for … &lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;carrying out routine work set by their supervisor, to the required business standards. This includes assisting with animal and plant health and nutrition, maintaining health and safety and biosecurity, operating farm vehicles and optimising the environmental impacts of animal and crop performance. Office work is minimal although basic daily record keeping will be required.&amp;nbsp; Typical working hours will depend on farm type and labour structure. A farm worker will be expected to do long hours, only as permitted within UK employment law.&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
@@ -229,34 +235,28 @@
       "detail": "Produce products for sale from the business (for example, milking, shearing, lambing, harvesting)"
     }
   ],
-  "options": [
-    {
-      "optionId": "3bb83f1a-e112-4dca-86b7-1569c3c49ce8",
-      "title": "livestock worker"
-    },
-    {
-      "optionId": "3c4e925d-ef04-42a1-be27-b7620f203a95",
-      "title": "crop worker"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "approvedForDelivery": "2021-05-17T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0083",
-  "tbMainContact": "amie.burke@ahdb.org.uk",
+  "tbMainContact": "rlongthorp@longthorp.com",
   "involvedEmployers": "Agriculture and Horticulture Development Board (AHDB)\r\nCharollais Sheep Society\r\nFishguard farm\r\nG and A Speed\r\nG's Fresh\r\nHawthorns farm\r\nLKL Farming\r\nMenadews farm\r\nFU\r\nRed Tractor Assurance\r\nTrentithen Farm\r\nTrevear Farm\r\nUpper Booth farm\r\nYeatman and Sons Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -267,26 +267,36 @@
     "General Farm Operative",
     "Stockperson"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Agricultural Operative/Technician",
-  "createdDate": "2021-03-16T15:10:44 +00:00",
-  "lastUpdated": "2021-03-16T15:10:44 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/general-farm-worker#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/general-farm-worker",
+  "cluster": "Agricultural operative or technician",
+  "clusterId": "143",
+  "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
+  "createdDate": "2022-04-11T14:30:36 +00:00",
+  "lastUpdated": "2023-02-20T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0937",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0937-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0937-v1-0",
   "qualifications": [
     {
       "qualificationId": "e0489d98-ac85-4c16-b182-698520fe7621",
       "title": "Award in Emergency First Aid at Work, which is a minimum of 1-day course (Ofqual regulated)",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "8bfcab27-d99f-4145-9deb-8bc8cda3ba8e",
-      "title": "City & Guilds Level 2 Principles of Safe Handling and Application of Pesticides or Lantra Awards Level 2 Award in the Safe Use of Pesticides",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "title": "City & Guilds Principles of Safe Handling and Application of Pesticides Guidance or Lantra Safe use of Pesticides’",
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -313,7 +323,7 @@
         "931cda8c-378a-4af4-8b6f-2bf87cf77416",
         "53511eb8-e1f3-4384-b483-8fc797966326"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "90def781-104f-4193-ad0f-e7c67b66001a",
@@ -333,7 +343,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "09a1dca4-8876-4aa2-8d50-47e51ac3afe9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "90def781-104f-4193-ad0f-e7c67b66001a"
@@ -350,7 +360,7 @@
       "mappedKnowledge": [
         "72f849a8-3acd-4785-8306-59eb16d1eb76"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a6a3994d-9f7a-43eb-9bdd-d6b4c9497a29"
       ],
@@ -367,7 +377,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "a16fbcae-446f-4ffa-aaf9-d00edb666f97"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "2260d810-2300-45b0-9f88-c3fc2fdb2d33"
@@ -387,7 +397,7 @@
       "mappedKnowledge": [
         "a1f5e69b-d148-42d9-a46a-e11c3b38c119"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "e04f8ceb-e6aa-4d78-900c-89e3899314b1"
@@ -408,7 +418,7 @@
         "502ff6df-6dbc-4b42-aaea-afeab4f18aef",
         "74c04c55-5207-4cfa-99d7-70f0d9aafbd8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "2df0da19-ca39-4847-b169-2f26333eb4d3"
@@ -431,7 +441,7 @@
       "mappedKnowledge": [
         "43ffbaac-d7de-491e-bf79-7493866a50fb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "210b6791-4247-4d59-8ff3-3bf09e71a161",
         "327113c6-0020-4f4a-a0f7-9f1c853c939a"
@@ -451,7 +461,7 @@
         "69350094-3dec-4ccb-9361-1b328642b5da",
         "9436934c-4730-443d-b408-bb6b46c184f3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "833134d0-9d4d-4091-920a-4c43932545ad"
       ],
@@ -469,7 +479,7 @@
       "mappedKnowledge": [
         "4992eedb-d3da-4e3f-abdd-157d5c7292ec"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2df0da19-ca39-4847-b169-2f26333eb4d3"
       ],
@@ -515,7 +525,7 @@
       "mappedOptions": [
         "3bb83f1a-e112-4dca-86b7-1569c3c49ce8"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -600,7 +610,7 @@
       "mappedOptions": [
         "3c4e925d-ef04-42a1-be27-b7620f203a95"
       ],
-      "mappedSkills": null,
+      "mappedSkills": [],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -695,5 +705,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "3bb83f1a-e112-4dca-86b7-1569c3c49ce8",
+      "title": "livestock worker",
+      "occupationCode": "OCC0937B"
+    },
+    {
+      "optionId": "3c4e925d-ef04-42a1-be27-b7620f203a95",
+      "title": "crop worker",
+      "occupationCode": "OCC0937A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-11-17T00:00:00"
 }
