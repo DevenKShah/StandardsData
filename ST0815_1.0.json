@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 569,
   "referenceNumber": "ST0815",
+  "learningAimClassCode": "",
   "title": "Trade union official",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/569",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0815",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-01-25T00:00:00",
+  "changedDate": "2022-01-18T00:00:00",
   "earliestStartDate": "2020-06-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Develop and deliver union organising activities and campaigns that will recruit and retain union members and activists.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
-  "keywords": [],
+  "keywords": [
+    "Trade Union Official",
+    "business management",
+    "unions",
+    "union members",
+    "HR",
+    "Human resources"
+  ],
   "jobRoles": [
     "Trade union official",
     "Regional officer",
@@ -30,12 +43,11 @@
     "Learning organiser caseworker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4336/st0815_trade_union_official_l4_apforpuplication8620.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4336/st0815_trade_union_official_l4_apforpuplication8620.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "4114 - Officers of non-governmental organisations",
   "occupationalSummary": "&lt;p&gt;This occupation is found in Trade Unions, Staff Associations and Professional/Trade Associations covering a broad range of industries and sectors. The broad purpose of the occupation is to develop and deliver union organising activity and campaigns that will recruit and retain union members and activists, ensure union members are represented in their workplaces and to deliver improved terms and conditions, protection of employment rights and security of employment for union members. For many trade unions, the ultimate aim of the Trade Union Official is to help members build self-sustaining unionised workplaces with effective lay member structures in place so that members and their elected representatives in the workplace are competent and able to manage their own affairs. The occupation, therefore, involves a mixture of direct delivery of a range of member services whilst also training, supporting and motivating volunteer lay trade union activists to do the same, all the while ensuring that union activity is in line with overall union policy. The balance between the direct delivery of membership services and overseeing volunteers varies from union employer to union employer according to the respective union&#39;s operating model. In their daily work, an employee in this occupation interacts with interacts with volunteer lay member activists, other union members, potential members, employers (often Human Resources and Operations Managers but other roles too), other union staff (both from within their own employer and other trade unions), elected representatives and workplaces branches, external bodies such as trade federations, national and local governments, political parties, Non-Government Organisations and other campaigning organisations, press and media. An employee in this occupation will be responsible for implementing their union&#39;s organising strategy covering a number of workplaces, employers or a geographical area. They would normally report to a more senior union official and/or a lay member executive. They may have responsibility for leading a team of local volunteer representatives. Work allocation and reporting structures vary; Trade Union Officials may for instance have lead responsibility for collective negotiations with employers or may represent an individual case up to Tribunal level.&lt;/p&gt;",
   "knowledges": [
     {
@@ -195,25 +207,28 @@
       "detail": "Identifies and addresses equality issues and opportunities. Develops and applies strategies that progress the Trade Union equality agenda and own union's equality priorities. Applies campaigning techniques to address inequality in the workplace and beyond."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-06-23T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0431",
   "tbMainContact": "barbara.kielim@unitetheunion.org",
   "involvedEmployers": "Unite, TSSA, Royal College of Nursing, GMB, Voice, PCS, Nautilus International, POA",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -230,14 +245,20 @@
     "Organising officer",
     "Learning organiser caseworker"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Human Resources",
-  "cluster": "Human Resources Manager",
+  "cluster": "Human resources manager",
+  "clusterId": "167",
+  "clusterDescription": "Management of routine human resource services, usually with specific expertise in a human resource discipline e.g. equality and diversity, training and development, employee representation. Significant problem solving is core to these occupations",
   "createdDate": "2019-10-25T10:08:25 +00:00",
-  "lastUpdated": "2020-06-23T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/trade-union-official-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/trade-union-official-v1-0",
+  "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-06-23T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).",
+  "occupationCode": "OCC0815",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0815-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0815-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -261,7 +282,7 @@
         "3775d7f2-87b8-46c0-9f87-6d231015f3ed",
         "98af073e-6d2a-4834-97be-4cd6decd4fa2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -291,7 +312,7 @@
         "3775d7f2-87b8-46c0-9f87-6d231015f3ed",
         "98af073e-6d2a-4834-97be-4cd6decd4fa2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
         "15965151-6b5e-453c-bd70-904fcae35e7a",
@@ -320,7 +341,7 @@
         "25cac98d-b198-49ad-a849-765bb9d212e9",
         "2d941e84-84c4-4408-8990-9980b27e83e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -351,7 +372,7 @@
         "3775d7f2-87b8-46c0-9f87-6d231015f3ed",
         "98af073e-6d2a-4834-97be-4cd6decd4fa2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -385,7 +406,7 @@
         "98af073e-6d2a-4834-97be-4cd6decd4fa2",
         "c5376b42-2860-4a65-af15-5a9585dd24dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -415,7 +436,7 @@
         "ae8ef356-7f13-4fa6-a689-38c25be386ce",
         "2d941e84-84c4-4408-8990-9980b27e83e6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8b036fed-eceb-499b-bea7-1f4fe245e248",
         "39b356a4-017f-42b8-85de-2d316869db10",
@@ -443,7 +464,7 @@
         "3775d7f2-87b8-46c0-9f87-6d231015f3ed",
         "c5376b42-2860-4a65-af15-5a9585dd24dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15965151-6b5e-453c-bd70-904fcae35e7a",
         "8b036fed-eceb-499b-bea7-1f4fe245e248",
@@ -474,7 +495,7 @@
         "16918269-2642-4b3c-88d2-3b1be6ff96f0",
         "ac31e757-f2f1-40e0-af8d-a2bcd7187562"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
         "8b036fed-eceb-499b-bea7-1f4fe245e248",
@@ -503,7 +524,7 @@
         "2d941e84-84c4-4408-8990-9980b27e83e6",
         "ac31e757-f2f1-40e0-af8d-a2bcd7187562"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "15965151-6b5e-453c-bd70-904fcae35e7a",
         "aa9738e5-c034-419d-b2c6-e1953dfeb98a",
@@ -530,7 +551,7 @@
         "2d941e84-84c4-4408-8990-9980b27e83e6",
         "c5376b42-2860-4a65-af15-5a9585dd24dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -561,7 +582,7 @@
         "98af073e-6d2a-4834-97be-4cd6decd4fa2",
         "c5376b42-2860-4a65-af15-5a9585dd24dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4d11b90d-7e02-4fc9-926a-a5a47df7eece",
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
@@ -590,7 +611,7 @@
       "mappedKnowledge": [
         "25cac98d-b198-49ad-a849-765bb9d212e9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd012877-0221-47cb-b91a-25cf2fb2ee35"
       ],
@@ -612,7 +633,7 @@
         "1b4add64-d6f6-4578-bddf-8420a6de1eef",
         "ac31e757-f2f1-40e0-af8d-a2bcd7187562"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
         "aa9738e5-c034-419d-b2c6-e1953dfeb98a",
@@ -634,7 +655,7 @@
         "1b4add64-d6f6-4578-bddf-8420a6de1eef",
         "c5376b42-2860-4a65-af15-5a9585dd24dd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1bb9b44c-5421-48c9-b03f-3e91ab1c0b9d",
         "dde3d546-f35e-47aa-9b82-ec4ac7523661"
@@ -642,5 +663,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-01-18T00:00:00"
 }
