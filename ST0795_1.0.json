@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 576,
   "referenceNumber": "ST0795",
+  "learningAimClassCode": "",
   "title": "Data technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/576",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0795",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-04-24T00:00:00",
   "earliestStartDate": "2020-07-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Source, format and present data securely in a relevant way for analysis.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "ICT",
@@ -30,12 +36,11 @@
     "Junior information analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4612/st0795_data_technician_l3_assessment-plan-for-publication_c27_qm-adjustment-october-2020.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/rwgamqsm/st0795_data_technician_l3_assessment-plan-for-publication_c27_qm-adjustment-october-2020.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2135 - IT business analysts, architects and systems designers",
   "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors where data is generated or processed including but not limited to finance, retail, education, health, media, manufacturing and hospitality. The broad purpose of the occupation is to source, format and present data securely in a relevant way for analysis using basic methods; to communicate outcomes appropriate to the audience; analyse structured and unstructured data to support business outcomes; blend data from multiple sources as directed and apply legal and ethical principles when manipulating data. In their daily work, an employee in this occupation interacts with a wide range of stakeholders including colleagues, managers, customers and internal and external suppliers. They would typically work as a member of a team; this may be office based or virtual. An employee in this occupation will be responsible for collecting and processing data under the guidance of a senior colleague or multiple colleagues across the business. This may vary by sector and size of the organisation. An employee would mainly be responsible for their own work but may have the opportunity to mentor others.&lt;/p&gt;",
   "knowledges": [
     {
@@ -44,139 +49,139 @@
     },
     {
       "knowledgeId": "e386b323-0024-4950-b147-4b6dd4a7fdb8",
-      "detail": "How to access and extract data from a range of already identified sources"
+      "detail": "How to access and extract data from a range of already identified sources."
     },
     {
       "knowledgeId": "48ae8843-54ea-4018-bbe8-6b7535564abc",
-      "detail": "How to collate and format data in line with industry standards"
+      "detail": "How to collate and format data in line with industry standards."
     },
     {
       "knowledgeId": "7b5a8683-c0df-4c1e-a339-04a639857532",
-      "detail": "Data formats and their importance for analysis\nManagement and presentation tools to visualise and review the characteristics of data\nCommunication tools and technologies for collaborative working"
+      "detail": "Data formats and their importance for analysis\nManagement and presentation tools to visualise and review the characteristics of data\nCommunication tools and technologies for collaborative working."
     },
     {
       "knowledgeId": "d2f90559-7306-4bb5-8f78-40d6f624b692",
-      "detail": "Communication methods, formats and techniques, including: written, verbal, non-verbal, presentation, email, conversation, audience and active listening\nRange of roles within an organisation, including: customer, manager, client, peer, technical and non-technical"
+      "detail": "Communication methods, formats and techniques, including: written, verbal, non-verbal, presentation, email, conversation, audience and active listening\nRange of roles within an organisation, including: customer, manager, client, peer, technical and non-technical."
     },
     {
       "knowledgeId": "a57eb64d-5391-47c8-b07a-5b45bd4f1b42",
-      "detail": "The value of data to the business\nHow to undertake blending of data from multiple sources"
+      "detail": "The value of data to the business.\nHow to undertake blending of data from multiple sources."
     },
     {
       "knowledgeId": "22b1ff46-f693-4757-b9dd-81e8f9ebca11",
-      "detail": "Algorithms, and how they work using a step-by-step solution to a problem, or rules to follow to solve the problem and the potential to use automation"
+      "detail": "Algorithms, and how they work using a step-by-step solution to a problem, or rules to follow to solve the problem and the potential to use automation."
     },
     {
       "knowledgeId": "1b88e93a-ecfc-4710-b7ea-7854076c3cfe",
-      "detail": "How to filter details, focusing on information relevant to the data project"
+      "detail": "How to filter details, focusing on information relevant to the data project."
     },
     {
       "knowledgeId": "73f30751-390c-4223-b678-ef7a0714c22b",
-      "detail": "Basic statistical methods and simple data modelling to extract relevant data and normalise unstructured data"
+      "detail": "Basic statistical methods and simple data modelling to extract relevant data and normalise unstructured data."
     },
     {
       "knowledgeId": "1aacd769-8109-4f46-8d80-abe0b1ed755f",
-      "detail": "The range of common data quality issues that can arise e.g. misclassification, duplicate entries, spelling errors, obsolete data, compliance issues and interpretation/ translation of meaning"
+      "detail": "The range of common data quality issues that can arise e.g. misclassification, duplicate entries, spelling errors, obsolete data, compliance issues and interpretation/ translation of meaning."
     },
     {
       "knowledgeId": "68c12897-ccc1-4994-a64e-31fbb04f7779",
-      "detail": "Different methods of validating data and the importance of taking corrective action"
+      "detail": "Different methods of validating data and the importance of taking corrective action."
     },
     {
       "knowledgeId": "5444c6b8-8d2d-4698-9a54-dff0e3d2d308",
-      "detail": "Communicating the results through basic narrative"
+      "detail": "Communicating the results through basic narrative."
     },
     {
       "knowledgeId": "95b628f8-bf18-4bfd-9c61-d1476bfd4334",
-      "detail": "Legal and regulatory requirements e.g. Data Protection, Data Security, Intellectual Property Rights (IPR), Data sharing, marketing consent, personal data definition.\nThe ethical use of data"
+      "detail": "Legal and regulatory requirements e.g. Data Protection, Data Security, Intellectual Property Rights (IPR), Data sharing, marketing consent, personal data definition.\nThe ethical use of data."
     },
     {
       "knowledgeId": "e90d04e8-f8cc-4c8d-8c37-4b0aa90e4867",
-      "detail": "The significance of customer issues, problems, business value, brand awareness, cultural awareness/ diversity, accessibility, internal/ external audience, level of technical knowledge and profile in a business context"
+      "detail": "The significance of customer issues, problems, business value, brand awareness, cultural awareness/ diversity, accessibility, internal/ external audience, level of technical knowledge and profile in a business context."
     },
     {
       "knowledgeId": "b4c2d702-89b3-4359-95d8-02ab7008d990",
-      "detail": "The role of data in the context of of the digital world including the use of eternal trusted open data sets, how data underpins every digital interaction and connectedness across the digital landscape including applications, devises, IoT, customer centricity"
+      "detail": "The role of data in the context of of the digital world including the use of eternal trusted open data sets, how data underpins every digital interaction and connectedness across the digital landscape including applications, devises, IoT, customer centricity."
     },
     {
       "knowledgeId": "5c8cf482-dc54-4503-83c8-621568a661c5",
-      "detail": "Different learning techniques, learning techniques and the breadth and sources of knowledge"
+      "detail": "Different learning techniques, learning techniques and the breadth and sources of knowledge."
     }
   ],
   "behaviours": [
     {
       "behaviourId": "f00e109d-2d78-45bb-bb17-aa2b20200bc2",
-      "detail": "Manage own time to meet deadlines and manage stakeholder expectations"
+      "detail": "Manage own time to meet deadlines and manage stakeholder expectations."
     },
     {
       "behaviourId": "53991ad5-681d-4a93-8fa8-56f4923a683f",
-      "detail": "Work independently and take responsibility"
+      "detail": "Work independently and take responsibility."
     },
     {
       "behaviourId": "5143d0e3-f996-44a8-93d5-4bb19ed80c54",
-      "detail": "Use own initiative"
+      "detail": "Use own initiative."
     },
     {
       "behaviourId": "fc0644ed-4cb4-4466-89bf-10ed9eeef035",
-      "detail": "A thorough and organised approach"
+      "detail": "A thorough and organised approach."
     },
     {
       "behaviourId": "c32db1a1-83f3-4673-8720-cb2840a1ea19",
-      "detail": "Work with a range of internal and external customers"
+      "detail": "Work with a range of internal and external customers."
     },
     {
       "behaviourId": "b38501bc-19e2-475b-b5ab-c7a4928625ee",
-      "detail": "Value difference and be sensitive to the needs of others"
+      "detail": "Value difference and be sensitive to the needs of others."
     }
   ],
   "skills": [
     {
       "skillId": "bd88fdfb-803e-4761-9072-69fccb043f36",
-      "detail": "Source and migrate data from already identified different sources"
+      "detail": "Source and migrate data from already identified different sources."
     },
     {
       "skillId": "04ba1f8b-f802-4aab-ac1b-810d572fd648",
-      "detail": "Collect, format and save datasets"
+      "detail": "Collect, format and save datasets."
     },
     {
       "skillId": "3467f5f5-04d4-48b9-b491-92a3090cee94",
-      "detail": "Summarise and explain gathered data"
+      "detail": "Summarise and explain gathered data."
     },
     {
       "skillId": "f42016e3-6cb7-49c2-a95c-a1b06e66c668",
-      "detail": "Blend data sets from multiple sources and present in format appropriate to the task"
+      "detail": "Blend data sets from multiple sources and present in format appropriate to the task."
     },
     {
       "skillId": "32448eb9-eab2-495a-9c16-0baa5c1ff3bc",
-      "detail": "Manipulate and link different data sets as required"
+      "detail": "Manipulate and link different data sets as required."
     },
     {
       "skillId": "9e75ec61-46b0-4fd4-93af-fbddff2cbfe7",
-      "detail": "Use tools and techniques to identify trends and patterns in data"
+      "detail": "Use tools and techniques to identify trends and patterns in data."
     },
     {
       "skillId": "74e57b07-fba8-485a-a983-2a618275f3d7",
-      "detail": "Apply basic statistical methods and algorithms to identify trends and patterns in data"
+      "detail": "Apply basic statistical methods and algorithms to identify trends and patterns in data."
     },
     {
       "skillId": "3bd59a6e-2f8b-4796-b81b-8d74e248eed9",
-      "detail": "Apply cross checking techniques for identifying faults and data results for data project requirements"
+      "detail": "Apply cross checking techniques for identifying faults and data results for data project requirements."
     },
     {
       "skillId": "99b027a0-5e0d-4ff8-8e62-0592e97cf697",
-      "detail": "Audit data results"
+      "detail": "Audit data results."
     },
     {
       "skillId": "ac4d95c4-c37c-40cd-81d6-bd608c34fabd",
-      "detail": "Demonstrate the different ways of communicating meaning from data in line with audience requirements"
+      "detail": "Demonstrate the different ways of communicating meaning from data in line with audience requirements."
     },
     {
       "skillId": "41f21a4b-a6be-4f20-b7c7-4737d36782b9",
-      "detail": "Produce clear and consistent technical documentation using standard organisational templates"
+      "detail": "Produce clear and consistent technical documentation using standard organisational templates."
     },
     {
       "skillId": "065a6e18-a39b-43ce-9dc4-5b8cb31c123e",
-      "detail": "Store, manage and distribute in compliance with data security standards and legislation"
+      "detail": "Store, manage and distribute in compliance with data security standards and legislation."
     },
     {
       "skillId": "01e94c3e-d35e-4101-a55a-5b1bb5b7e071",
@@ -184,11 +189,11 @@
     },
     {
       "skillId": "aaba21b2-1b10-48ba-a907-90a4e545d418",
-      "detail": "Review own development needs"
+      "detail": "Review own development needs."
     },
     {
       "skillId": "499852da-645d-47dd-8524-692030dcc26d",
-      "detail": "Keep up to date with developments in technologies, trends and innovation using a range of sources"
+      "detail": "Keep up to date with developments in technologies, trends and innovation using a range of sources."
     },
     {
       "skillId": "3184d241-f673-4eea-8443-6de817e4ce9e",
@@ -196,32 +201,35 @@
     },
     {
       "skillId": "7d23e69a-5daf-46eb-88fd-89878d4a81c7",
-      "detail": "Operate as part of a multi-functional team"
+      "detail": "Operate as part of a multi-functional team."
     },
     {
       "skillId": "af0b702f-572c-47eb-943c-1ecbc91178c8",
-      "detail": "Prioritise within the context of a project"
+      "detail": "Prioritise within the context of a project."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-07-10T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0417",
   "tbMainContact": "damian.jacobs@lloydsbanking.com",
-  "involvedEmployers": "Fijitsu, Lloyds Banking, GEO Strategies, Accenture, Accordio Ltd, Stategic Discourse Ltd, Digital Care Consultancy Ltd",
+  "involvedEmployers": "Fujitsu, Lloyds Banking, GEO Strategies, Accenture, Accordio Ltd, Stategic Discourse Ltd, Digital Care Consultancy Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -231,14 +239,20 @@
     "Junior data analyst",
     "Junior information analyst"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
-  "cluster": "Data Analyst Technician",
-  "createdDate": "2020-10-30T15:47:53 +00:00",
-  "lastUpdated": "2020-10-30T15:47:53 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/data-technician-v1-0",
+  "cluster": "Data analyst technician",
+  "clusterId": "276",
+  "clusterDescription": "Source, format and present data securely in a relevant way for analysis using basic methods.",
+  "createdDate": "2023-04-05T12:45:15 +00:00",
+  "lastUpdated": "2024-04-24T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "occupationCode": "OCC0795",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0795-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0795-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -256,7 +270,7 @@
         "e386b323-0024-4950-b147-4b6dd4a7fdb8",
         "b4c2d702-89b3-4359-95d8-02ab7008d990"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bd88fdfb-803e-4761-9072-69fccb043f36"
       ],
@@ -274,7 +288,7 @@
       "mappedKnowledge": [
         "48ae8843-54ea-4018-bbe8-6b7535564abc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "04ba1f8b-f802-4aab-ac1b-810d572fd648",
         "3184d241-f673-4eea-8443-6de817e4ce9e"
@@ -293,7 +307,7 @@
         "7b5a8683-c0df-4c1e-a339-04a639857532",
         "d2f90559-7306-4bb5-8f78-40d6f624b692"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3467f5f5-04d4-48b9-b491-92a3090cee94"
       ],
@@ -311,7 +325,7 @@
       "mappedKnowledge": [
         "a57eb64d-5391-47c8-b07a-5b45bd4f1b42"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f42016e3-6cb7-49c2-a95c-a1b06e66c668",
         "32448eb9-eab2-495a-9c16-0baa5c1ff3bc",
@@ -337,7 +351,7 @@
         "1b88e93a-ecfc-4710-b7ea-7854076c3cfe",
         "73f30751-390c-4223-b678-ef7a0714c22b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "74e57b07-fba8-485a-a983-2a618275f3d7"
       ],
@@ -357,7 +371,7 @@
         "1aacd769-8109-4f46-8d80-abe0b1ed755f",
         "68c12897-ccc1-4994-a64e-31fbb04f7779"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "3bd59a6e-2f8b-4796-b81b-8d74e248eed9",
         "99b027a0-5e0d-4ff8-8e62-0592e97cf697",
@@ -377,7 +391,7 @@
         "d2f90559-7306-4bb5-8f78-40d6f624b692",
         "5444c6b8-8d2d-4698-9a54-dff0e3d2d308"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ac4d95c4-c37c-40cd-81d6-bd608c34fabd",
         "41f21a4b-a6be-4f20-b7c7-4737d36782b9"
@@ -394,7 +408,7 @@
       "mappedKnowledge": [
         "95b628f8-bf18-4bfd-9c61-d1476bfd4334"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "065a6e18-a39b-43ce-9dc4-5b8cb31c123e",
         "499852da-645d-47dd-8524-692030dcc26d"
@@ -413,7 +427,7 @@
       "mappedKnowledge": [
         "e90d04e8-f8cc-4c8d-8c37-4b0aa90e4867"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "01e94c3e-d35e-4101-a55a-5b1bb5b7e071",
         "499852da-645d-47dd-8524-692030dcc26d",
@@ -436,7 +450,7 @@
         "b4c2d702-89b3-4359-95d8-02ab7008d990",
         "5c8cf482-dc54-4503-83c8-621568a661c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aaba21b2-1b10-48ba-a907-90a4e545d418",
         "499852da-645d-47dd-8524-692030dcc26d",
@@ -447,5 +461,10 @@
       "criteriaForMeasuringPerformance": "Articulate the latest technology trends affecting data analysis and can communicate the impacts of latest trends"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2024-04-24T00:00:00"
 }
