@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 480,
   "referenceNumber": "ST0807",
+  "learningAimClassCode": "",
   "title": "Marketing assistant",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/480",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0807",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "Approved for delivery",
-  "changedDate": null,
+  "change": "Retired",
+  "changedDate": "2023-12-12T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-12-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting customer focused marketing activities through awareness raising and/or perception building.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "marketing",
@@ -31,12 +37,11 @@
     "Promotional assistant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3198/st0807_marketing-assistant_l3_ap-for-publication_11062019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/tkvmzn24/st0807_marketing-assistant_l3_ap-for-publication_11062019.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.4 Marketing and sales",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "3543 - Marketing associate professionals",
   "occupationalSummary": "&lt;p&gt;This occupation is found in every sector and industry including manufacturing, retail, IT, automotive, service industries (financial services, health care, professional services, etc), and across large, medium and small commercial, public sector and not-for-profit organisations. Roles can sit within a specific company/agency that provides marketing deliverables and advice to external clients, or within an internal marketing team, delivering marketing activities to drive that business.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to support customer focussed marketing activities that drive the demand for a product or service through awareness raising and/or perception building to generate results to the bottom line. As part of the Marketing team the Marketing Assistant will contribute to the implementation of the Marketing strategy and plans. They will be responsible for delivering day-to-day marketing activities across a multitude of platforms, channels and systems that are essential to the Marketing function and activities of the company.&lt;br /&gt;&lt;br /&gt;It is typically the entry route for many Marketing professionals who progress their career into more senior marketing positions. In their daily work, an employee in this occupation interacts with a wide range of internal colleagues and external marketing suppliers. Depending on the size and structure of the organisation, this could include collaboration with colleagues from sales, operations, PR, IT, the customer insight team and finance as well as interaction externally with clients/customers and suppliers such as printers, digital agencies, PR and media agencies, event display companies, market research agencies, and media sales professionals. &lt;br /&gt;&lt;br /&gt;The role is likely to be primarily office-based, although they may spend time away from the office attending exhibitions and events, meetings with external marketing suppliers, marketing research suppliers, visiting clients, trade shows, or supporting research activities. An employee in this occupation will be responsible for coordinating and delivering specific marketing activities which could include, but are not limited to, marketing content creation, background market and customer research, monitoring campaign analytic and collecting data, using relevant marketing software/systems, maintaining marketing administration activities such as managing the supply of marketing literature, tracking marketing expenditure, supporting the procurement of, and overseeing the delivery of work by external and internal marketing suppliers. The level of supervision is likely to vary for each employer, with the level of autonomy varying by size of organisation and marketing function. Typically they would be the first point of contact for day-to-day activities in the marketing function, and supervised by a member of staff with greater marketing skills, knowledge and experience.&lt;br /&gt;&lt;br /&gt;Depending on the size of the organisation and its Marketing function, the Marketing Assistant may report into a Marketing Executive, a Marketing Manager, Marketing Director or (in small organisations) an Sales/Operational Manager or Managing Director.&lt;/p&gt;",
   "knowledges": [
     {
@@ -204,25 +209,28 @@
       "detail": "Compile a report from a marketing system/software, e.g. CRM, Google Analytics, Dotmailer"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0012",
-  "tbMainContact": "r.clough@nfer.ac.uk, Nick.Montgomerie@cim.co.uk",
+  "tbMainContact": " Peter.Jones@hepcomotion.com and deenielee@lagommarketing.co.uk",
   "involvedEmployers": "NS&I, SEETEC, Covea Insurance, MESH Experience, Mercedes Benz Financial Services Ltd, Growth Company, 3M, Walsall Council, Unilever, Specsavers",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -233,19 +241,25 @@
     "Brand assistant",
     "Promotional assistant"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Marketing",
-  "cluster": "Marketing Assistant",
+  "cluster": "Marketing assistant",
+  "clusterId": "124",
+  "clusterDescription": "Plan, organise and deliver key marketing actions and events",
   "createdDate": "2020-01-16T11:56:14 +00:00",
-  "lastUpdated": "2020-01-16T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/marketing-assistant-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/marketing-assistant-v1-0",
+  "lastUpdated": "2023-12-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "This apprenticeship will be retired on 12 December 2023. Current apprentices will be able to complete their programme. Employers who wish to start new apprentices should consider using\u00A0ST1031 Multi-channel Marketer instead.",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0807-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0807-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "Chartered Institute of Marketing (CIM)",
-      "level": "0",
+      "level": "This apprenticeship is designed to meet the requirements for registration as an Affiliate Member with the Chartered Institute of Marketing (CIM).",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -254,7 +268,7 @@
     {
       "dutyID": "7d3fee11-fc99-42fe-bc56-c5f2b4d7bc4b",
       "dutyDetail": "Create and edit content in collaboration with senior colleagues for offline and/or digital marketing channels, such as website, social media, sales materials or event displays, ensuring that brand guidelines are met in order to achieve marketing objectives.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -273,7 +287,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -287,7 +301,7 @@
     {
       "dutyID": "a027d7d5-1fa9-416b-85fd-8deb5145ef04",
       "dutyDetail": "Publish editorial, creative and video content via social media or video sharing platforms, e.g. LinkedIn, Twitter, Instagram",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -304,7 +318,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -317,7 +331,7 @@
     {
       "dutyID": "a45db950-9ad0-41c9-90c6-93448661fca5",
       "dutyDetail": "Specify, purchase and quality assure marketing goods and services from external suppliers e.g. place a brochure print order, book exhibition space, book media space.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -332,7 +346,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
         "f051a628-4135-4e6e-a5e7-76c5c131f716",
@@ -343,7 +357,7 @@
     {
       "dutyID": "2a078faf-4d3d-4636-9027-bed47bc858a5",
       "dutyDetail": "Manage the cataloguing of offline and digital marketing assets including permissions and compliance, in-line with marketing regulations and legislation, e.g. storage and organisation of marketing materials, administering creative asset management systems.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
         "43f76987-b2b9-4d79-916e-f3379d03393f",
@@ -355,7 +369,7 @@
         "c8568aa2-6072-4b3e-97d1-b5c1216efc46",
         "451293a0-30c3-4829-ac86-9b9bc592c694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "7e88d519-c6aa-46e2-aecc-3b23590fe453"
@@ -365,7 +379,7 @@
     {
       "dutyID": "87267f23-998a-47c8-af4e-5ddabc88677a",
       "dutyDetail": "Monitor and evaluate marketing delivery effectiveness by producing and interpreting reports from one or more marketing tools or systems, e.g. marketing automation report; social media monitoring report; analytics and metrics reports, budget tracker.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "84667dab-acab-4497-adb6-b202a1ab54d7",
@@ -382,7 +396,7 @@
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -395,7 +409,7 @@
     {
       "dutyID": "f691ad36-041f-42fc-9fee-62c37c389281",
       "dutyDetail": "Contribute to the planning, delivery or evaluation of marketing activity through creation of written planning and evaluation documents and presentations, e.g. marketing campaign results, market and customer intelligence research, update marketing plan",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -414,7 +428,7 @@
         "c8568aa2-6072-4b3e-97d1-b5c1216efc46",
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -427,7 +441,7 @@
     {
       "dutyID": "4f109680-2604-41d0-a2c7-75cd27ab94f6",
       "dutyDetail": "Use content management software to publish and refresh effective online content to engage with different customer segments.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -445,7 +459,7 @@
         "8144101e-981d-4f9c-a74c-4210b00299e2",
         "7a703a6b-706c-4bed-ad61-5a60c4892720"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "091a9689-5559-4cae-a85a-f31ee54e2d4f",
         "8ff37be0-f4d3-4e23-b3eb-112692e0f7e6",
@@ -458,7 +472,7 @@
     {
       "dutyID": "08c2b1fc-01f7-4acb-9d38-606a08b20787",
       "dutyDetail": "Use appropriate primary and secondary research methods including survey tools and desktop research to gather marketing insight or evaluation, and inform marketing decisions, planning and delivery.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -474,7 +488,7 @@
         "c9770d16-1ee4-4527-a8a5-55987424e415",
         "8667dfb6-64ae-43e3-b983-b8afeaa3c9ad"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efda95da-e4c1-462a-8eea-f013ceec256f",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -487,7 +501,7 @@
     {
       "dutyID": "fb63c191-666f-4eb3-83db-92ef180a25dc",
       "dutyDetail": "Monitor marketing expenditure and activities to a specified budget and plan, ensuring invoices are processed efficiently.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -499,7 +513,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7e88d519-c6aa-46e2-aecc-3b23590fe453"
       ],
@@ -508,7 +522,7 @@
     {
       "dutyID": "d43e677a-628c-4947-8683-95b28be821a5",
       "dutyDetail": "Efficiently and effectively source creative assets (photographs, graphically designed creative, video content) for the production of marketing communication collateral in-line with regulations and legislation.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
@@ -524,7 +538,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "451293a0-30c3-4829-ac86-9b9bc592c694"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
@@ -536,7 +550,7 @@
     {
       "dutyID": "7bafb608-c6cd-42ee-9ec9-4460cde16a80",
       "dutyDetail": "Establish and maintain effective day to day relationships and communication between the marketing function and internal and external stakeholders to support marketing activities.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "76a51356-8bda-4fca-ba12-75b15553d3b4",
         "c16eafcc-3f89-4a57-b113-535ace7fbb8b",
@@ -550,7 +564,7 @@
         "bfce0dd9-fd94-411c-b470-62f3c9ae2680",
         "09d88d3d-8bbf-4aa2-8d92-dabb74764335"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f051a628-4135-4e6e-a5e7-76c5c131f716",
         "c1ab4ff7-0439-4e43-9aee-84792ce8a7a0",
@@ -561,7 +575,7 @@
     {
       "dutyID": "10f25370-2e32-446f-b409-2712ebab7f2e",
       "dutyDetail": "Implement marketing activities through marketing administration, e.g. organise an exhibition display, arrange a marketing meeting, organising an event.",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "194cb562-3755-41d6-87ed-a93e89eb8b48",
         "84667dab-acab-4497-adb6-b202a1ab54d7",
@@ -580,7 +594,7 @@
         "02e9c928-ef93-4019-9e54-583b8193a853",
         "b8ec58f1-8ef9-462d-89aa-17b9e755d647"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7813247d-fca2-47a8-a1ed-b7203d122349",
         "cae271c0-b68e-44b8-8e91-2c2a14411d80",
@@ -594,5 +608,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-12-12T00:00:00"
 }
