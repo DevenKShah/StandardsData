@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 469,
   "referenceNumber": "ST0599",
+  "learningAimClassCode": "",
   "title": "Dietitian (integrated degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/469",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0599",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "Approved for delivery",
-  "changedDate": null,
+  "change": "Retired",
+  "changedDate": "2021-07-16T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-07-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Dietitian",
@@ -30,12 +36,11 @@
     "Dietitian"
   ],
   "entryRequirements": "&lt;p&gt;Entry requirements will be determined by the employer and the university, however, this will typically include 3 A-levels (to include biology) or equivalent qualifications&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3392/st0599_dietitian-degree-_l6_ap-for-publication_13062019-1.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3392/st0599_dietitian-degree-_l6_ap-for-publication_13062019-1.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in the health sector. Dietitians are predominantly employed by the NHS, working in hospitals (seeing patients both on wards and in out-patient clinics) and in the community (for example seeing patients in GP practices, care homes, schools, health centres or seeing people in their own home). Dietitians are also employed in the food industry (including clinical nutrition companies) and there maybe opportunity for employment in higher education, sport, media, and national and local government. Some dietitians will be freelance and self-employed.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to use advanced communication and behaviour-change skills to enable people to make lifestyle and food choices to improve their health. Dietitians work in partnership with individual to assess, diagnose and monitor the impact of jointly agreed treatment plans. They treat individuals from birth to older age regarding health and nutrition, gathering and analysing information from a variety of sources, like results of blood tests and diagnostic investigations, and providing a tailored practical action plan using a holistic, person-centred approach. They take an evidence-based approach to effectively support the prevention and management of a wide range of conditions including diabetes, food allergy and intolerance, bowel disorders such as irritable bowel syndrome, cancer, heart disease, stroke, liver and kidney disease, disordered eating and malnutrition caused by disease. &lt;br /&gt;&lt;br /&gt;Dietitians also tailor specific nutritional diet related advice for groups and individuals across diverse populations and communities. They design and develop information about food and nutrition for a variety of audiences, using a range of tools to work with individuals, groups, communities and other health professionals. &lt;br /&gt;&lt;br /&gt;In their daily work, a dietitian interacts with:&lt;br /&gt;&lt;br /&gt;• Patient, their families and carers in clinical settings like hospitals, community clinics, care homes and general practices&lt;br /&gt;• Other health and social care professionals for example, doctors, nurses, pharmacists and care workers&lt;br /&gt;• Catering services and specialist contractors providing nutritional products&lt;br /&gt;• Administrative and clerical staff providing support to the dietetic team&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for the management of a caseload of individuals, groups and communities to whom they will provide evidence-based dietetic care. They may supervise dietetic assistants/support workers and contribute to training dietetic students in the department. They will typically be managed by a dietitian service manager. Although they will work as part of a wider healthcare team, dietitians often work remotely from the team and are autonomous practitioners, which means that they are accountable for their own actions and decisions. They are responsible for maintaining their own knowledge and skills and must partake in continuing professional development activities to maintain their statutory registration.&lt;/p&gt;",
   "knowledges": [
     {
@@ -235,51 +240,62 @@
       "detail": "Appraise and use food labelling and health claims appropriately in the practical advice delivered to individuals, groups and populations"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0144",
   "tbMainContact": "healthcare.trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Barts Health NHS Trust, Derby Teaching Hospitals NHS Foundation Trust, Leeds Community Healthcare NHS Trust, Nestle UK, Northumberland, Tyne and Wear NHS Foundation Trust, Pennine Acute Hospitals NHS Trust,  South Warwickshire NHS Foundation Trust, University Hospitals Birmingham NHS Foundation Trust, University Hospitals of Leicester NHS Trust, University Hospitals of North Midlands NHS Trust, University of Chester, University of Surrey, Coventry University",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Health and Care Professions Council Brendon Edmonds",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Dietitian"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-20T16:09:32 +00:00",
-  "lastUpdated": "2019-12-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/dietitian-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-07-16T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0599",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0599-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0599-v1-0",
   "qualifications": [
     {
-      "qualificationId": "",
+      "qualificationId": "f8e3864a-6b8e-41c8-8bcf-b92176a75133",
       "title": "Apprentices will be required to complete a BSc (Hons) degree in Dietetics or Level 7 qualification approved  by the Health and Care Professions Council (HCPC) and accredited by the  British Dietetic Association where the apprentice already holds a Level 6 degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "British Dietetic Association ",
-      "level": "0",
+      "level": " Full member",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -302,7 +318,7 @@
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016",
         "5b432998-bb25-492f-8f4a-22cb29b84172"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "0810985d-f654-4b64-b00a-88c590ede6d2",
@@ -332,7 +348,7 @@
         "dd54e54d-7e08-40ae-8b07-6555428e0d84",
         "056137c0-9bef-4000-8b8e-7847470cc598"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "6aadce15-187e-4515-8dbf-2f8fd2a5e30d",
@@ -360,7 +376,7 @@
         "46c5131a-3b3b-46bd-965d-fd478c6418be",
         "c867fbb1-f3aa-45af-bf7b-172a5067c41b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3163d85-e178-4c0d-b2ab-1a3ea0dcf67f",
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
@@ -389,7 +405,7 @@
         "3217a10c-ba2f-4f0f-9c4f-ad23a8813b3d",
         "dd54e54d-7e08-40ae-8b07-6555428e0d84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0810985d-f654-4b64-b00a-88c590ede6d2",
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
@@ -414,7 +430,7 @@
         "fc229ef7-7f00-4cf4-8802-5ee3998e7aa6",
         "a02a834e-8d0d-4f2e-b0f4-7871d49ff8af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4",
@@ -440,7 +456,7 @@
         "3217a10c-ba2f-4f0f-9c4f-ad23a8813b3d",
         "dd54e54d-7e08-40ae-8b07-6555428e0d84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
         "06d99151-ff5c-4175-a9ba-4c07bc0c94ff",
@@ -465,7 +481,7 @@
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016",
         "5b432998-bb25-492f-8f4a-22cb29b84172"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "8c365745-67ae-4fcc-9ce9-23ab192ab899",
@@ -493,7 +509,7 @@
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa",
         "c867fbb1-f3aa-45af-bf7b-172a5067c41b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0810985d-f654-4b64-b00a-88c590ede6d2",
         "06d99151-ff5c-4175-a9ba-4c07bc0c94ff",
@@ -523,7 +539,7 @@
         "fc229ef7-7f00-4cf4-8802-5ee3998e7aa6",
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8c365745-67ae-4fcc-9ce9-23ab192ab899",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4",
@@ -546,7 +562,7 @@
         "8049abc2-911b-40e1-925e-098d5e528ed7",
         "b74e84f8-cb7f-485a-b2ae-d3bad0f57ebd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1ca71f8-8b41-4744-a6d8-3a7e8cd84ed3",
         "d07f4fc7-b635-4d08-8acc-02c94ca3bb33",
@@ -568,7 +584,7 @@
         "bd853a4d-2275-4440-a534-37feb051f68c",
         "e02f5d9e-35ca-46b9-bb6f-d6893166d016"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "af29f2e1-dd1d-484a-b518-7cbe719de0c4"
@@ -587,7 +603,7 @@
         "bd853a4d-2275-4440-a534-37feb051f68c",
         "32b29f4e-042e-437f-8a32-796b838dcfdf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "c69a7e1e-69c8-4334-b079-04dec01569fb"
@@ -609,7 +625,7 @@
         "b74e84f8-cb7f-485a-b2ae-d3bad0f57ebd",
         "090fefc5-fde2-4978-9889-dcb6a58d7dfa"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "55cf97dd-d8c6-4827-a7a6-17f66d4eaab2",
         "ba7fdabe-a912-4add-bc6d-01d54b1f0caf",
@@ -620,14 +636,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider ",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO ",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-07-16T00:00:00"
 }
