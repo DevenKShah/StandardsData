@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 484,
   "referenceNumber": "ST0769",
+  "learningAimClassCode": "",
   "title": "Archaeological specialist (degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/484",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0769",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-03-25T00:00:00",
@@ -12,8 +16,10 @@
   "latestEndDate": null,
   "overviewOfRole": "Planning, undertaking and leading archaeological research and investigation.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "planning",
@@ -39,13 +45,12 @@
     "Heritage scientist"
   ],
   "entryRequirements": "&lt;p&gt;While any entry requirements will be a matter for individual employers, candidates will typically have GCSEs (or equivalent) at A*- C (9-4) including maths and English and science. A-levels or BTECs (or equivalent) are desirable. However it would also be suitable for an undergraduate or someone with relevant work experience in a relevant field.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3286/st0769_archaeological-specialist-degree-_l7_addressing-feedback_090719.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3286/st0769_archaeological-specialist-degree-_l7_addressing-feedback_090719.pdf",
   "ssa1": "10 History, Philosophy and Theology",
   "ssa2": "10.2 Archaeology and archaeological sciences",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the Cultural Heritage, Historic Environment and Education sectors. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to plan, undertake and lead Archaeological Research and Investigation, which may comprise surveys, excavation, post-excavation analysis and scientific analysis of archaeological materials and data. Archaeological Specialists have specialised knowledge of one or more aspects of archaeological investigation and analysis. They are responsible for the processing, reporting and preparation for long-term deposition of archaeological data and materials.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with organisations of all sizes in the public, private and third sectors. Typically, they interact with colleagues, external stakeholders and members of the public. Archaeological Specialists work on site (outside, all weathers), in an office or in a laboratory, including operating technical equipment and carrying out physical tasks. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for leading and undertaking Archaeological Research and Investigation, with a high level of responsibility for the delivery and quality of their own work and that of others. They are responsible for providing a specialist resource to colleagues. The size of the employer will impact the team the Archaeological Specialist is responsible for, or interacts with, but typically they will train and supervise less skilled personnel, and be responsible for the delivery of programmes and projects of all sizes and complexities, as well as communicating the results of the work internally and externally.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the Cultural Heritage, Historic Environment and Education sectors. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to plan, undertake and lead Archaeological Research and Investigation, which may comprise surveys, excavation, post-excavation analysis and scientific analysis of archaeological materials and data. Archaeological Specialists have specialised knowledge of one or more aspects of archaeological investigation and analysis. They are responsible for the processing, reporting and preparation for long-term deposition of archaeological data and materials.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with organisations of all sizes in the public, private and third sectors. Typically, they interact with colleagues, external stakeholders and members of the public. Archaeological Specialists work on site (outside, all weathers), in an office or in a laboratory, including operating technical equipment and carrying out physical tasks. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for leading and undertaking Archaeological Research and Investigation, with a high level of responsibility for the delivery and quality of their own work and that of others. They are responsible for providing a specialist resource to colleagues. The size of the employer will impact the team the Archaeological Specialist is responsible for, or interacts with, but typically they will train and supervise less skilled personnel, and be responsible for the delivery of programmes and projects of all sizes and complexities, as well as communicating the results of the work internally and externally.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "c4f1a708-6fea-4e2e-80e5-285583a8d053",
@@ -152,25 +157,28 @@
       "detail": "Ability to employ supervisory techniques effectively"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-11T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0221",
   "tbMainContact": "philip.Pollard@HistoricEngland.org.uk ",
   "involvedEmployers": "Historic England, Museum of London Archaeology, Oxford Archaeology, Cotswold Archaeology, Wessex Archaeology, Arup, Albion Archaeology, Archaeology Warwickshire, Centre for Applied Archaeology University of Salford, University of Newcastle, UCL, Historic England, ASWYAS, Historic England/ NHSM, Allen Archaeology",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -188,26 +196,34 @@
     "Mapping investigator",
     "Heritage scientist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Cultural Heritage and Visitor Attractions",
-  "cluster": "Collections and Conservation Expert",
+  "cluster": "Collections and conservation expert",
+  "clusterId": "183",
+  "clusterDescription": "Manage the physical and digital preservation of collections of cultural collections",
   "createdDate": "2019-12-19T14:07:28 +00:00",
-  "lastUpdated": "2019-12-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/archaeological-specialist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/archaeological-specialist-(degree)-v1-0",
+  "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0769",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0769-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0769-v1-0",
   "qualifications": [
     {
       "qualificationId": "fb2d007e-bf1a-4491-9f88-673cc439c875",
       "title": " An MA or MSc degree in an Archaeology or Archaeological Science subject",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "7 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Chartered Institute for Archaeologists",
-      "level": "0",
+      "level": "Member ",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -234,7 +250,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -261,7 +277,7 @@
         "998c75a5-fb5a-4924-ae3b-b225e3bfa76f",
         "9b0b8cbe-55fc-4c98-89d7-f5319d3456b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -287,7 +303,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -314,7 +330,7 @@
         "7ba08b62-7e71-44e5-a439-e8e5b0877d05",
         "dec8af3f-c17c-46be-b80f-08cd16e4336c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -339,7 +355,7 @@
         "d29108e2-2243-4d18-a789-16533dbdc964",
         "dec8af3f-c17c-46be-b80f-08cd16e4336c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "941c556f-0e01-45d5-9b03-fb7bb73d3288",
         "44840b00-355b-4bed-bdb6-bc08b22079df",
@@ -364,7 +380,7 @@
         "d29108e2-2243-4d18-a789-16533dbdc964",
         "dec8af3f-c17c-46be-b80f-08cd16e4336c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "941c556f-0e01-45d5-9b03-fb7bb73d3288",
         "44840b00-355b-4bed-bdb6-bc08b22079df",
@@ -390,7 +406,7 @@
         "9b0b8cbe-55fc-4c98-89d7-f5319d3456b6",
         "dec8af3f-c17c-46be-b80f-08cd16e4336c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
         "941c556f-0e01-45d5-9b03-fb7bb73d3288",
@@ -417,7 +433,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "941c556f-0e01-45d5-9b03-fb7bb73d3288",
         "44840b00-355b-4bed-bdb6-bc08b22079df",
@@ -444,7 +460,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -469,7 +485,7 @@
         "7ba08b62-7e71-44e5-a439-e8e5b0877d05",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "de3ca472-d6e5-45d8-899a-af5bc826ebd1",
         "4dbf20c9-48b8-40c0-92a3-422ff68a0047"
@@ -493,7 +509,7 @@
         "d29108e2-2243-4d18-a789-16533dbdc964",
         "dec8af3f-c17c-46be-b80f-08cd16e4336c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1a01df12-ac3c-4790-8f02-bc93e4ebca99"
       ],
@@ -511,7 +527,7 @@
         "998c75a5-fb5a-4924-ae3b-b225e3bfa76f",
         "d29108e2-2243-4d18-a789-16533dbdc964"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1a01df12-ac3c-4790-8f02-bc93e4ebca99"
       ],
@@ -536,7 +552,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d944489d-7740-4326-bd90-3303839bd795"
       ],
@@ -559,7 +575,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "44840b00-355b-4bed-bdb6-bc08b22079df",
         "de3ca472-d6e5-45d8-899a-af5bc826ebd1",
@@ -588,7 +604,7 @@
         "dec8af3f-c17c-46be-b80f-08cd16e4336c",
         "a7a19804-5186-441e-aa16-72a3b6539467"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff571c67-1627-4a72-8ef1-df32ac367922",
         "1ce8e197-a2f5-4465-a9b0-b8708ef3960d",
@@ -603,5 +619,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-03-25T00:00:00"
 }
