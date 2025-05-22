@@ -1,60 +1,535 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 673,
   "referenceNumber": "ST0960",
+  "learningAimClassCode": "",
   "title": "Construction support technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0960",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-06-29T00:00:00",
+  "earliestStartDate": "2022-02-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Working in an office or on a construction site.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
-  "route": "Construction",
-  "keywords": [],
-  "jobRoles": [],
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "building",
+    "construction",
+    "survey",
+    "design",
+    "support technician",
+    "construction site"
+  ],
+  "jobRoles": [
+    "Buying and procurement technician",
+    "Contracting quantity surveying technician",
+    "Contracting site technician",
+    "Estimating technician",
+    "General construction contracting operations technician",
+    "Planning technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0960-v1-0?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in and throughout the construction and built environment sector, including construction contracting and associated supply chain subcontractors. Construction Contracting Operations Technicians operate in a range of settings including estimating, planning, buying, site, quantity surveying and design and build roles. Site and office environments include industrial, commercial, residential, refurbishment, heritage, retail and public sector projects. They may be employed by large contracting organisations such as major national housebuilding contractors and civil engineering contractors, as well as a significant number of small and medium sized contractors and subcontractors such as building services companies, insulation contractors, groundworkers, roofing companies, plasterers and decorators together with a host of other specialised construction areas.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is working in an exciting and dynamic environment which could be in an office or on a construction site at the heart of the contracting organisations including versatile activities using digital processes and systems to secure future projects and to enable progress and completion of actual construction sites. Technicians within this specific career area are engaged to interpret, analyse, contribute and directly assist construction contracting professionals working with a wide range of project resources and documentation regularly interacting with internal and external customers.&lt;/p&gt;\n&lt;p&gt;Technicians will also develop a range of highly transferable knowledge, skills and behaviours that can be applied across a range of large and small construction companies and in associated contracting job roles including public and private sector work. In their daily work, an employee in this occupation interacts with professional and technical teams across different parts of the organisation, potentially on a range of sites or in an office environment. They will liaise with external organisations either through site or office communications due to the need to ensure built environment activities and services are progressed at the right time, to high quality standards, with accurate designs and at competitive rates. Interaction also includes working with other construction contracting operations technicians in areas that include estimating, planning, buying, site, quantity surveying and design and build because their respective processes interact with each other during the whole life cycle of a construction project.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for supporting construction contracting teams with the inputting and progression of digital project information linked to resources using industry standard and specialist software in office and site environments. They will develop key information and enhance timely interaction with professional site and technical teams from internal and external organisations, linked to projects either at development, construction or maintenance phases.&lt;/p&gt;\n&lt;p&gt;Effectively recognising site hazards and safe working practices with thorough knowledge of relevant health, safety and environmental legislation to ensure compliance with company site procedures and processes. They will be able to analyse, extract and produce a variety of contract and project documents that will enable the effective operation and progression of construction contracting activities. They will ensure timely communication linked to the progress and completion of all tasks that they are set with a clear mandate to identify any issues as and when they arise; wherever possible resolving those issues using their own initiative.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "8604b7af-4593-4015-8935-06137fd60e2b",
+      "detail": "Appropriate construction principles, mathematical and technical knowledge of site technologies such as methods used to design, plan, build or maintain built environment projects."
+    },
+    {
+      "knowledgeId": "36a7de0c-2180-49c2-bfac-9e84ead2c53c",
+      "detail": "Statutory health, safety and welfare policies, procedures and regulations, including safe working practices and how to comply with them."
+    },
+    {
+      "knowledgeId": "7a82c642-fb13-4e06-9567-9048ea2c8f36",
+      "detail": "Workplace health, safety and welfare requirements including site and office-based protocols and legislation."
+    },
+    {
+      "knowledgeId": "1bef8d94-f8e1-4fad-8294-19250ae96491",
+      "detail": "Use of appropriate construction terminology during verbal communications. Tailoring communication to the audience."
+    },
+    {
+      "knowledgeId": "574bdfd9-0fa5-4413-8344-e4b7ecaa70dc",
+      "detail": "The different types of built environment contracts, project documentation, technical drawings and procurement processes in order to support the production of resource lists."
+    },
+    {
+      "knowledgeId": "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+      "detail": "Appropriate digital construction processes and systems and their use in the sector such as Building Information Modelling (BIM) or other computer-based software packages."
+    },
+    {
+      "knowledgeId": "6f057087-1906-4eee-9fd5-7c1903494953",
+      "detail": "Project tendering, measurement and costing systems to assist with the planning of schedules of work and to provide early warning of problems for all contract phases on site."
+    },
+    {
+      "knowledgeId": "e84aef13-33e6-44fe-a187-90fe05a73def",
+      "detail": "Equality, diversity and inclusion, and its impact on built environment solutions."
+    },
+    {
+      "knowledgeId": "f61b9253-92c1-4ab3-9187-40598d697467",
+      "detail": "Appropriate surveying methods and techniques used to develop information to contribute to the measurement, evaluation and review of project performance."
+    },
+    {
+      "knowledgeId": "d97729a8-fd01-4566-b982-6ee0b30a6725",
+      "detail": "The code of conduct of relevant professional bodies and institutions and their professional obligation to make a contribution to society."
+    },
+    {
+      "knowledgeId": "0613e4ce-8173-4984-9422-7f728c9de32c",
+      "detail": "Ethical principles as applied to construction and the built environment."
+    },
+    {
+      "knowledgeId": "ac9884e2-f44f-499d-86a0-4cf8acedca57",
+      "detail": "Written communication techniques and the production of technical reports."
+    },
+    {
+      "knowledgeId": "071eab2c-4227-40e1-bc2f-78af9bafab89",
+      "detail": "Information technology: Management Information Systems (MIS), word processing, virtual communication, General Data Protection Regulation (GDPR), cyber security."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "429d1488-85fb-49eb-9aad-d88b67b1c545",
+      "detail": "Puts safety first for themselves and others ensuring compliance with health, safety, environmental and quality requirements and policies."
+    },
+    {
+      "behaviourId": "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+      "detail": "Takes personal responsibility for sustainable outcomes when carrying out duties, using environmental good practices."
+    },
+    {
+      "behaviourId": "fa922e8a-267c-456c-acff-4df1842aad1b",
+      "detail": "Takes ownership of own work, knowing own limitations and when to ask for support."
+    },
+    {
+      "behaviourId": "47565e04-93d8-48cb-a519-be5d4459b4b0",
+      "detail": "Committed to keeping up to date with industry best practice and own professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+      "detail": "Apply and integrate appropriate mathematical and technical knowledge in the completion of built environment site and/or office processes to contribute to the coordination of construction projects."
+    },
+    {
+      "skillId": "9bf8b64d-09df-4931-8635-fd20a68e8e73",
+      "detail": "Comply with health and safety regulations and procedures. Identify and document risks and hazards. Apply statutory and company environmental and safe working practices. Produce construction project risk assessment and method statements."
+    },
+    {
+      "skillId": "0ed51bd6-862c-4119-915c-2e00d8506f3f",
+      "detail": "Communicate verbally to internal and external stakeholders using a range of techniques in line with company policies."
+    },
+    {
+      "skillId": "9c052dcd-cf23-49de-928b-0d350170167e",
+      "detail": "Interpret and abstract contract documentation to develop site solutions."
+    },
+    {
+      "skillId": "7276fd14-7625-4acd-880e-539cfb630275",
+      "detail": "Apply digital construction processes to produce resource lists from tender and contract documentation."
+    },
+    {
+      "skillId": "d0c75d02-c081-4a19-b70b-aad40e841c7e",
+      "detail": "The use of project tendering, measurement and costing systems to assist with the planning of schedules of work and to provide early warning of problems for all contract phases on site."
+    },
+    {
+      "skillId": "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+      "detail": "Plan, carry out and manage own work in line with management requirements, assessing tasks, scheduling work, achieving deadlines, reviewing performance and keeping records of work undertaken."
+    },
+    {
+      "skillId": "0da5157d-4f53-4556-a355-f1824bbdae43",
+      "detail": "Apply sustainable principles and low carbon processes in order to implement site environmental solutions."
+    },
+    {
+      "skillId": "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+      "detail": "Use information technology. For example, for document creation, communication, and information management. Comply with GDPR and cyber security."
+    },
+    {
+      "skillId": "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870",
+      "detail": "Plan and undertake continued professional development (CPD) to maintain and enhance competence in their own area of practice."
+    },
+    {
+      "skillId": "0e406b01-b1a8-4ff8-98cf-34aadd618656",
+      "detail": "Communicate in written form to internal and external stakeholders using a range of techniques and reporting mechanisms in line with company policies, using construction and built environment terminology."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-02-11T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbReference": "TB0582",
+  "tbMainContact": "bduffy@lcb.ac.uk",
+  "involvedEmployers": "Engie,  Barratt Developments, Persimmon Homes, BAM Nuttall, HB Projects, Laing O' Rourke, CECA, Torsion Group, Complete Utilities, Powertherm Contract Services, TrAC, En:Able Futures, TICA, JN Bentley.\n\nSMEs: PD Harris, Abbott Construction, Burgess Associates, Driscoll Insulation, John Atkinson Interiors, Bolt & Heeks, PMC Construction, Bridgewater Contracts, Plan RB Ltd, Hainslack Development, Cheetham Hill Construction, Hydrock Consultants Ltd, Phelan Construction.",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "typicalJobTitles": [
+    "Buying and procurement technician",
+    "Contracting quantity surveying technician",
+    "Contracting site technician",
+    "Estimating technician",
+    "General construction contracting operations technician",
+    "Planning technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
-  "createdDate": "2021-03-15T16:07:57 +00:00",
-  "lastUpdated": "2021-03-15T16:07:57 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-support-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-support-technician",
+  "cluster": "Design and surveying technician",
+  "clusterId": "54",
+  "clusterDescription": "Design, analyse, plan for site engineering and construction projects. Specialisms are common (e.g. rail infrastructure, asbestos management). Significant capability in the use of IT/digital technology, data collection, analysis and presentation",
+  "createdDate": "2025-01-13T10:45:32 +00:00",
+  "lastUpdated": "2023-06-29T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-02-11T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0960",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0960-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0960-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "39e27994-4859-4b7b-8b5d-c0f228914441",
+      "dutyDetail": "Support the coordination of construction site-based projects alongside supervisory and technical teams on an individual site, a range of sites or in an office environment. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "429d1488-85fb-49eb-9aad-d88b67b1c545",
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "36a7de0c-2180-49c2-bfac-9e84ead2c53c",
+        "7a82c642-fb13-4e06-9567-9048ea2c8f36",
+        "1bef8d94-f8e1-4fad-8294-19250ae96491",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "ac9884e2-f44f-499d-86a0-4cf8acedca57",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "9bf8b64d-09df-4931-8635-fd20a68e8e73",
+        "0ed51bd6-862c-4119-915c-2e00d8506f3f",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870",
+        "0e406b01-b1a8-4ff8-98cf-34aadd618656"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "323777cf-872e-484c-bf04-23669c468bb9",
+      "dutyDetail": "Identify the suitability of health and safety documentation, including risk assessments and method statements, to assist in ensuring sufficient planning has been carried out for tasks to be completed safely.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "429d1488-85fb-49eb-9aad-d88b67b1c545",
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "36a7de0c-2180-49c2-bfac-9e84ead2c53c",
+        "7a82c642-fb13-4e06-9567-9048ea2c8f36",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "9bf8b64d-09df-4931-8635-fd20a68e8e73",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "50c17058-fb1e-4d9c-9099-e411a36e46c0",
+      "dutyDetail": "Liaise with internal and external stakeholders to ensure the requirements of a project are met, ensuring records of the communications are kept in line with company processes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "429d1488-85fb-49eb-9aad-d88b67b1c545",
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "1bef8d94-f8e1-4fad-8294-19250ae96491",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "ac9884e2-f44f-499d-86a0-4cf8acedca57",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0ed51bd6-862c-4119-915c-2e00d8506f3f",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870",
+        "0e406b01-b1a8-4ff8-98cf-34aadd618656"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eef4f7ce-4917-44c4-a8f7-238f7e20aa2e",
+      "dutyDetail": "Ensure accurate contractual records are kept in relation to the planning of construction projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "574bdfd9-0fa5-4413-8344-e4b7ecaa70dc",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9c052dcd-cf23-49de-928b-0d350170167e",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "614df9d2-a88f-4907-94fc-857d87b2c545",
+      "dutyDetail": "Support the production of resource lists, based on estimates, using technical drawings to identify the requirements of the project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "574bdfd9-0fa5-4413-8344-e4b7ecaa70dc",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "7276fd14-7625-4acd-880e-539cfb630275",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "377575ad-cf5e-462b-a847-4244241f4139",
+      "dutyDetail": "Assist with the development of tenders relevant to the construction project, ensuring records of tenders are kept and processed within the required timescales.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "574bdfd9-0fa5-4413-8344-e4b7ecaa70dc",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "7276fd14-7625-4acd-880e-539cfb630275",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cb36e0f3-391d-49ac-8634-d62dbd890750",
+      "dutyDetail": "Support the procurement of project materials, plant and sub-contractors.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "574bdfd9-0fa5-4413-8344-e4b7ecaa70dc",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "31c71367-b37a-4bab-96f8-bc202794cf55",
+      "dutyDetail": "Support the progress of construction projects, recommending and proposing revisions of programmes and assisting with the planning of schedules of work.\t",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "429d1488-85fb-49eb-9aad-d88b67b1c545",
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "36a7de0c-2180-49c2-bfac-9e84ead2c53c",
+        "7a82c642-fb13-4e06-9567-9048ea2c8f36",
+        "1bef8d94-f8e1-4fad-8294-19250ae96491",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "f61b9253-92c1-4ab3-9187-40598d697467",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "ac9884e2-f44f-499d-86a0-4cf8acedca57",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9bf8b64d-09df-4931-8635-fd20a68e8e73",
+        "0ed51bd6-862c-4119-915c-2e00d8506f3f",
+        "9c052dcd-cf23-49de-928b-0d350170167e",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870",
+        "0e406b01-b1a8-4ff8-98cf-34aadd618656"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68f9e9e9-0108-4f0a-83ad-8f3d020bef5e",
+      "dutyDetail": "Support the implementation of appropriate contract quantities and cost monitoring systems to provide early warning of problems for all contract phases on site.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "f61b9253-92c1-4ab3-9187-40598d697467",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "9c052dcd-cf23-49de-928b-0d350170167e",
+        "d0c75d02-c081-4a19-b70b-aad40e841c7e",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c92f8bb9-8099-4a0d-9893-81007332ea53",
+      "dutyDetail": "Use surveying information to contribute to the measurement, evaluation and review of project performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "429d1488-85fb-49eb-9aad-d88b67b1c545",
+        "4a8ab7bc-6744-4156-bac7-ff4ff825bf32",
+        "fa922e8a-267c-456c-acff-4df1842aad1b",
+        "47565e04-93d8-48cb-a519-be5d4459b4b0"
+      ],
+      "mappedKnowledge": [
+        "8604b7af-4593-4015-8935-06137fd60e2b",
+        "36a7de0c-2180-49c2-bfac-9e84ead2c53c",
+        "7a82c642-fb13-4e06-9567-9048ea2c8f36",
+        "4a8f592d-1877-40cc-ad21-d560ff5741d6",
+        "6f057087-1906-4eee-9fd5-7c1903494953",
+        "e84aef13-33e6-44fe-a187-90fe05a73def",
+        "f61b9253-92c1-4ab3-9187-40598d697467",
+        "d97729a8-fd01-4566-b982-6ee0b30a6725",
+        "0613e4ce-8173-4984-9422-7f728c9de32c",
+        "071eab2c-4227-40e1-bc2f-78af9bafab89"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef4780fd-4d0a-41e5-90ae-a01ca63ee0f1",
+        "9bf8b64d-09df-4931-8635-fd20a68e8e73",
+        "9c052dcd-cf23-49de-928b-0d350170167e",
+        "d0c75d02-c081-4a19-b70b-aad40e841c7e",
+        "22c4c1f2-0bc3-4061-9c73-6d86bb0220a3",
+        "0da5157d-4f53-4556-a355-f1824bbdae43",
+        "7cf2ea3e-2ee1-431c-845e-36c42c520266",
+        "9b28fc67-2e1e-4b50-9fbe-3c1466ef8870"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-06-29T00:00:00"
 }
