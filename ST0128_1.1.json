@@ -1,0 +1,733 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 154,
+  "referenceNumber": "ST0128",
+  "learningAimClassCode": "",
+  "title": "Software development technician",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0128",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "End-point assessment plan, standard and funding band revised.",
+  "changedDate": "2022-04-05T00:00:00",
+  "earliestStartDate": "2022-05-16T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Building simple applications for use in larger software developments.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "maxFunding": 15000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "software",
+    "development",
+    "lifecycle",
+    "unit testing",
+    "unit tester",
+    "coder",
+    "coding",
+    "applications"
+  ],
+  "jobRoles": [
+    "Assistant programmer and automated test developer",
+    "Junior application developer",
+    "Junior application support analyst",
+    "Junior developer",
+    "Junior games developer",
+    "Junior mobile app developer",
+    "Junior programmer",
+    "Junior software developer",
+    "Junior web developer",
+    "Software development technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/dvvpx43n/st0128_software-development-technician_l3_ap_20220520.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in every sector in organisations ranging from large multi-nationals,&#160;public sector bodies and government projects developing multi-billion-pound software solutions to support key projects to small consultancy firms designing bespoke software&#160;solutions for clients.&lt;/p&gt;\n&lt;p&gt;For example, Financial Services, Transport, Security and Defence. The broad purpose of the occupation is to understand a client&#39;s requirements as provided in design specification and&#160;then build and test high-quality code solutions to deliver the best outcome.&lt;/p&gt;\n&lt;p&gt;Software development technicians are the supportive entry level team member helping to create computer programs. Some assist in developing the applications that allow people to do specific tasks on a computer or another device. Others assist in developing the underlying systems that run the devices or that control networks.&#160;For example, a software development technician may work to support a software developer or wider team on Transport ticketing systems, traffic light control systems, customer-facing&#160;websites for journey planning and account management, internal websites for monitoring the status of train and road networks. They may assist in developing software to create bespoke asset management systems.&lt;/p&gt;\n&lt;p&gt;The software development technician may work on assisting software developer teams in devising innovative solutions to problems such as flood warning systems and creating&#160;products that enhance farmers engagement with sustainable farming approaches.&#160;Organisations use software to ensure that their operations become ever more effective and&#160;robust reducing the incidence of downtime by building quality tested software solutions to&#160;give a better service. For example, in commercial organisations this can give them a&#160;competitive advantage by being able to analyse significant amounts of data quickly and&#160;efficiently to provide the business with information and management systems. This can save time and help the business spot profit making opportunities. For public sector bodies the right software solution can drive up performance and help target scarce resources more effectively and ensure that customer expectations are more likely to be met.&lt;/p&gt;\n&lt;p&gt;A software development technician typically works as a junior member of a software&#160;development team, to build simple software components (whether web, mobile or desktop&#160;applications) to be used by other members of the team as part of larger software&#160;development projects or by end users. They will interpret simple design requirements for&#160;discrete components of the project under supervision. The approach will typically include&#160;implementing code, building on code that other team members have developed, to produce&#160; the required component. The software development technician will also be engaged in testing that the specific component meets its intended functionality. In their daily work, an employee in this occupation interacts with software developers and may also assist the wider team in their interactions with internal and external parties including users/customers (to understand their needs and evaluate the software developed through user testing). The software development technician may also interact under supervision with team members from a range of specialist fields including designers, developers, engineers, analysts, and project/delivery managers (to ensure the effective implementation of software solutions).&lt;/p&gt;\n&lt;p&gt;A software development technician is typically office-based however field-based research and testing may require periods of time working in the environments of the clients whose needs they are seeking to meet. An employee in this occupation will be responsible for assisting in the development of software solutions across the full software development life cycle, from research and development, through continuous improvement, to product/service retirement.&lt;/p&gt;\n&lt;p&gt;They will work under supervision on standalone project stages and as part of wider teams,&#160;reporting to a more senior member of their team.&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+      "detail": "Fundamentals of all stages of the software development life cycle including development, Quality Assurance, User Acceptance Testing and release"
+    },
+    {
+      "knowledgeId": "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+      "detail": "Roles and responsibilities within the software development life-cycle"
+    },
+    {
+      "knowledgeId": "f470992d-2dd5-4e13-8559-63e7e61f081f",
+      "detail": "Roles and responsibilities of the project life-cycle"
+    },
+    {
+      "knowledgeId": "e774ef28-8700-4b82-96a5-86d336444e87",
+      "detail": "Different communication methods, how to adapt appropriately to different audiences including collaborative technologies such as discussion threads and document collaboration"
+    },
+    {
+      "knowledgeId": "af9e2180-a541-43a9-a351-5fd65be23f65",
+      "detail": " The key similarities and differences between different software development methodologies, such as agile and waterfall"
+    },
+    {
+      "knowledgeId": "b729f5af-f948-4de3-89c1-f76f418e4559",
+      "detail": "Principles of effective teamwork to produce software"
+    },
+    {
+      "knowledgeId": "dec92b10-0b1f-4111-a37b-02f7918ff475",
+      "detail": "Fundamentals of software design approaches and patterns, including when to identify reusable solutions to commonly occurring problems"
+    },
+    {
+      "knowledgeId": "439d08a2-7838-4ef4-9c71-2ff8e418641f",
+      "detail": "Organisational policies and procedures relating to the tasks being undertaken, and when to follow them. For example, the storage and treatment of General Data Protection Regulation (GDPR) sensitive data."
+    },
+    {
+      "knowledgeId": "b864ee3c-adec-4959-9877-6dede3f1e150",
+      "detail": "Fundamentals of computing systems including physical, virtual and cloud technologies "
+    },
+    {
+      "knowledgeId": "627bb029-47ed-4de3-a05a-125c96924070",
+      "detail": "Fundamental principles of algorithms, logic and data structures. For example, how they work using a step-by-step solution to a problem, or rules to follow to solve the problem "
+    },
+    {
+      "knowledgeId": "0d22bbd1-91f2-468b-8549-f1cf297a726e",
+      "detail": "Principles and uses of relational and non -relational (nosql) databases "
+    },
+    {
+      "knowledgeId": "3e803779-0c08-4ed7-b4f0-497888e3d075",
+      "detail": "Basic principles of software designs and functional/technical specifications "
+    },
+    {
+      "knowledgeId": "55667e21-7564-4644-87c2-8d30e223b2ad",
+      "detail": "Key principles of software testing frameworks and methodologies"
+    },
+    {
+      "knowledgeId": "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
+      "detail": "Principles of pattern recognition such as looking for similarities among and within problems"
+    },
+    {
+      "knowledgeId": "5e63245b-cc69-4a3c-9802-53dc5103676d",
+      "detail": "Fundamentals of breaking down a complex problem or system into smaller, more manageable parts"
+    },
+    {
+      "knowledgeId": "c4c1d63c-2221-48c0-807b-7ad0463f301c",
+      "detail": "The importance of valuing difference and understanding the protected characteristicsnamed in the Equality Act 2010"
+    },
+    {
+      "knowledgeId": "64043232-42ea-434c-ad14-170ef1bfcced",
+      "detail": "Basic principles of emerging technology trends and innovations such as Internet of Things (IoT) Artificial Intelligence (AI) Augmented Reality (AR)"
+    },
+    {
+      "knowledgeId": "f70dc160-65f5-4cd1-9bb0-00921719c763",
+      "detail": "Awareness of legal and regulatory requirements and their practical application to the role for example, Data Protection, Security, Intellectual Property Rights (IPR), Data sharing, marketing consent, personal data definition."
+    },
+    {
+      "knowledgeId": "f07daef2-3c01-4413-8aa1-3fa0f7233ac3",
+      "detail": "Fundamental approaches to actions such as sequence, selection and iteration "
+    },
+    {
+      "knowledgeId": "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+      "detail": "Basic principles of software project planning including: Risks and dependencies * integration * prioritisation of tasks * escalation of problems * quality"
+    },
+    {
+      "knowledgeId": "0a338129-d62f-47fe-98bc-34b8beb615b6",
+      "detail": "Basic principles of processes and protocols used to ensure internet security, including concepts of security assurance"
+    },
+    {
+      "knowledgeId": "c326e117-717a-4738-bb56-fe533f1845e1",
+      "detail": "Key principles of testing for components (including software, hardware, data),interfaces and the resulting service"
+    },
+    {
+      "knowledgeId": "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1",
+      "detail": "Basic principles of digital tools and their use in business: tools such as presentation tools * evaluation tools and techniques. such as project management tools"
+    },
+    {
+      "knowledgeId": "90b17626-35e9-44b7-8122-0b40e0f2c302",
+      "detail": "Role and importance of Industry Standards and where to find them (e.g., ISO standards, IETF RFCs)."
+    },
+    {
+      "knowledgeId": "4f61e291-e447-4b72-a9d5-27b9bf9275e3",
+      "detail": "Software development approaches for example object oriented, event driven or procedural"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "20bdb494-9ce6-4692-920c-76d3aca49eae",
+      "detail": " Use critical thinking skills when undertaking work tasks"
+    },
+    {
+      "behaviourId": "8dc99ed2-908e-4249-a572-34d9e714661e",
+      "detail": "Committed to guided Continuous Professional Development"
+    },
+    {
+      "behaviourId": "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+      "detail": "Work independently and take responsibility within tightly defined parameters"
+    },
+    {
+      "behaviourId": "392cc524-452b-4933-bf70-77d7b62c8fd7",
+      "detail": " Maintain a productive, professional and secure working environment"
+    },
+    {
+      "behaviourId": "0472b0d8-89e5-4adc-a2e3-3390b131b5ad",
+      "detail": "Team player, for example working collaboratively, keeping others informed using effective communication, recognising personal and professional limitations and seeking advice whennecessary"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ac542058-81e9-40a9-8383-cc72fc500748",
+      "detail": "Write simple code for discrete software components following an appropriate logical approach to agreed standards (whether web, mobile or desktop applications) under supervision"
+    },
+    {
+      "skillId": "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
+      "detail": "Apply appropriate secure development principles to specific software components at all stages of development"
+    },
+    {
+      "skillId": "fdae65d9-55d3-4928-a1b7-753964e1e984",
+      "detail": "Support development of effective user interfaces"
+    },
+    {
+      "skillId": "833f469e-39ce-419c-887f-e3a89ad34d09",
+      "detail": "Make simple connections between code and defined data sources as specified"
+    },
+    {
+      "skillId": "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+      "detail": "Test simple code and analyse results to correct errors found using unit testing under supervision"
+    },
+    {
+      "skillId": "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
+      "detail": "Conduct a range of test types under supervision , such as Functional and Non -Functional."
+    },
+    {
+      "skillId": "7de3edd1-88da-4cc5-92d7-f53d86b331a5",
+      "detail": "Apply structured techniques to problem solving, including carry out simple debug of code"
+    },
+    {
+      "skillId": "bdef89a9-3f94-4076-87f0-385495e25cba",
+      "detail": "Follows organisational and industry good coding practices (including for naming, commenting etc.)"
+    },
+    {
+      "skillId": "e26f566f-0b10-4d60-8cd1-2d92f18b243a",
+      "detail": "Solve logical problems, seeking assistance when required (including appropriate mathematical application)"
+    },
+    {
+      "skillId": "a245e64e-4c71-42c9-8b96-0c21b0f10961",
+      "detail": "Support the creation of simple software documentation and visuals to effectivelycommunicate understanding of the program"
+    },
+    {
+      "skillId": "3225e04d-1918-4065-805a-d9392ed55088",
+      "detail": "Define functional and non -functional requirements such as use cases, storyboards, user stories, performance and accessibility."
+    },
+    {
+      "skillId": "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+      "detail": "Work within operational requirements such as health and safety, budgets, brands and normal business protocols"
+    },
+    {
+      "skillId": "7a30ae78-23b5-4f26-8d21-1ff1f647bd0d",
+      "detail": "Develop user interfaces as appropriate to the organisations development standards and the type of software development being developed"
+    },
+    {
+      "skillId": "6f29b03d-8d9d-48cf-ac60-e55aed8181c8",
+      "detail": "Build scripts in line with work instructions for deployment into the relevantenvironment "
+    },
+    {
+      "skillId": "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
+      "detail": "Follow simple software designs and functional/technical specifications in line with work"
+    },
+    {
+      "skillId": "941f6dd4-0ae1-4a73-8701-d0e6a805821a",
+      "detail": "Follow simple testing frameworks and methodologies in line with work instructions"
+    },
+    {
+      "skillId": "f1477b0b-e955-4951-8adf-133ba24d6112",
+      "detail": "Follow company, team or client approaches to continuous integration, version and sourcecontrol as instructed"
+    },
+    {
+      "skillId": "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+      "detail": "Support the communication of software solutions and ideas to technical and non-technical stakeholders"
+    },
+    {
+      "skillId": "972f700e-5753-42a6-91b3-686c5e84b8b6",
+      "detail": "Apply algorithms, logic and data structures in a supported context in line with workinstructions"
+    },
+    {
+      "skillId": "3cbded7e-7dab-4982-ad11-d4699f2eb5d2",
+      "detail": "Follow work instructions to contribute to building a given design whist remainingcompliant with security and maintainability requirements"
+    },
+    {
+      "skillId": "55d29d5f-5077-4e80-8447-e0a3258497ac",
+      "detail": "Apply techniques to break down complex problems."
+    },
+    {
+      "skillId": "a17aee98-756a-42ab-8a57-a4f044a6a659",
+      "detail": "Demonstrate how Key Performance Indicators (KPIs) can be used to frame and measuredesired outcomes"
+    },
+    {
+      "skillId": "5611e6a6-30cb-42d5-aee9-ed043b651eba",
+      "detail": "Implement secure code in appropriate languages of different types which is maintainable, readable, functional."
+    },
+    {
+      "skillId": "deaaf579-3b66-4dc8-822f-f30904e1dd27",
+      "detail": "Design simple software solutions to meet a requirement using tools and techniques, such as waterfall and agile"
+    },
+    {
+      "skillId": "c46a29cb-1a34-4df7-be79-d417e8f1bd91",
+      "detail": "Work in a shared code base with appropriate etiquette and tools, such as modularity and data definition"
+    },
+    {
+      "skillId": "3e72a503-2dd6-414a-975c-b293c0b00f45",
+      "detail": "Use simple debugging techniques, such as interactive debugging, print debugging, remotedebugging"
+    },
+    {
+      "skillId": "c35544ba-af77-496b-95d9-b9646db17add",
+      "detail": "Implement test plans under supervision to show that a test plan is implementable in practice and implementation conforms to the plan."
+    },
+    {
+      "skillId": "f79429da-72d7-43c6-875f-6bca89a7fbe3",
+      "detail": "Develop and use simple acceptance criteria."
+    },
+    {
+      "skillId": "1a6530b0-e8e5-456d-8507-c338a345733b",
+      "detail": "Apply and maintain procedures and security controls to ensure confidentiality, integrityand availability"
+    },
+    {
+      "skillId": "4f745d63-c715-44be-9e90-7535d80b51d2",
+      "detail": "Use collaboration tools and technologies for source and version control to enable workingtogether on common projects, regardless of physical location,"
+    },
+    {
+      "skillId": "95a86163-2b11-40b2-8e82-a2be943a81eb",
+      "detail": "Follow instructions to ensure client data is held securely under supervision e.g., not using personally identifiable information in test systems, making sure personal actions comply with ICO regulations"
+    },
+    {
+      "skillId": "ba119283-dc50-45f9-b2cb-3a42f5d108d2",
+      "detail": "Use collaboration tools and technologies for writing technical documentation for, and adapting to, specific audience(s). e.g., technical, non-technical, internal, external"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2016-12-16T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0558",
+  "tbMainContact": "kevin.streater@forgerock.com",
+  "involvedEmployers": "IBM, Cisco, Cap Gemini, Qinetiq, Accenture, Capp, Virgin Media, Fujitsu, The Royal Signals, The Royal Navy, The RAF, Lloyds Banking Group, John Lewis, BCS, Accenture, DSP Managed Solutions, Fujitsu, Integrated Payment Solutions, Invotra, Microsoft, QA, Real Asset Management, Terias Consulting, Virgin Media",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Assistant programmer and automated test developer",
+    "Junior application developer",
+    "Junior application support analyst",
+    "Junior developer",
+    "Junior games developer",
+    "Junior mobile app developer",
+    "Junior programmer",
+    "Junior software developer",
+    "Junior web developer",
+    "Software development technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Production, Design and Development",
+  "cluster": "Software development technician",
+  "clusterId": "196",
+  "clusterDescription": "Build simple software components (web, mobile, desktop applications) as a part of larger software development project. Interpret simple design requirements and testing to ensure components meet their intended functionality",
+  "createdDate": "2022-05-04T10:14:41 +00:00",
+  "lastUpdated": "2022-04-05T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-12-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0128",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0128-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0128-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "f6d79824-aae2-4372-a980-2313c63ab53a",
+      "dutyDetail": "D1: Follow clearly defined requirements to deliver software development activities and products",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "20bdb494-9ce6-4692-920c-76d3aca49eae",
+        "8dc99ed2-908e-4249-a572-34d9e714661e",
+        "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+        "0472b0d8-89e5-4adc-a2e3-3390b131b5ad"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "f470992d-2dd5-4e13-8559-63e7e61f081f",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+        "0a338129-d62f-47fe-98bc-34b8beb615b6",
+        "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1",
+        "90b17626-35e9-44b7-8122-0b40e0f2c302"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
+        "a245e64e-4c71-42c9-8b96-0c21b0f10961",
+        "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+        "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
+        "941f6dd4-0ae1-4a73-8701-d0e6a805821a",
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "c46a29cb-1a34-4df7-be79-d417e8f1bd91",
+        "4f745d63-c715-44be-9e90-7535d80b51d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "072b0e9f-9379-4976-b9c2-a40863ceeda4",
+      "dutyDetail": "Report progress against metrics on software development activities accurately throughout the stages of the software development lifecycle",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "20bdb494-9ce6-4692-920c-76d3aca49eae"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "f470992d-2dd5-4e13-8559-63e7e61f081f",
+        "e774ef28-8700-4b82-96a5-86d336444e87",
+        "af9e2180-a541-43a9-a351-5fd65be23f65",
+        "b729f5af-f948-4de3-89c1-f76f418e4559",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+        "4f61e291-e447-4b72-a9d5-27b9bf9275e3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+        "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "972f700e-5753-42a6-91b3-686c5e84b8b6",
+        "55d29d5f-5077-4e80-8447-e0a3258497ac",
+        "3e72a503-2dd6-414a-975c-b293c0b00f45",
+        "95a86163-2b11-40b2-8e82-a2be943a81eb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5d428c15-1818-4b93-8816-cba4864100d7",
+      "dutyDetail": "Identify and report any impediments to progress in development activities to supervisors",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "20bdb494-9ce6-4692-920c-76d3aca49eae",
+        "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+        "392cc524-452b-4933-bf70-77d7b62c8fd7"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "f470992d-2dd5-4e13-8559-63e7e61f081f",
+        "e774ef28-8700-4b82-96a5-86d336444e87",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "5e63245b-cc69-4a3c-9802-53dc5103676d",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+        "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1",
+        "90b17626-35e9-44b7-8122-0b40e0f2c302"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ac542058-81e9-40a9-8383-cc72fc500748",
+        "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+        "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
+        "7de3edd1-88da-4cc5-92d7-f53d86b331a5",
+        "e26f566f-0b10-4d60-8cd1-2d92f18b243a",
+        "f1477b0b-e955-4951-8adf-133ba24d6112",
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "972f700e-5753-42a6-91b3-686c5e84b8b6",
+        "a17aee98-756a-42ab-8a57-a4f044a6a659",
+        "5611e6a6-30cb-42d5-aee9-ed043b651eba",
+        "c46a29cb-1a34-4df7-be79-d417e8f1bd91",
+        "3e72a503-2dd6-414a-975c-b293c0b00f45"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ccfaa885-9f02-4b1d-b655-8e881bc67474",
+      "dutyDetail": "Follow instructions to convert customer requirements to technical requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "e774ef28-8700-4b82-96a5-86d336444e87",
+        "b729f5af-f948-4de3-89c1-f76f418e4559"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
+        "fdae65d9-55d3-4928-a1b7-753964e1e984"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fdf640a5-cf91-4a25-a638-b7b4cff82c87",
+      "dutyDetail": "Communicate outcomes from development activities to team members and other stakeholders both internal and external",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "20bdb494-9ce6-4692-920c-76d3aca49eae"
+      ],
+      "mappedKnowledge": [
+        "e774ef28-8700-4b82-96a5-86d336444e87",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+        "e2e84ff7-9cc3-4c22-8a21-6f3e4cb0f2b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ac542058-81e9-40a9-8383-cc72fc500748",
+        "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+        "ba119283-dc50-45f9-b2cb-3a42f5d108d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9414fc3c-7a54-4201-969c-686f506288ad",
+      "dutyDetail": "Identify and implement security features of a proposed design",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b729f5af-f948-4de3-89c1-f76f418e4559",
+        "dec92b10-0b1f-4111-a37b-02f7918ff475",
+        "b864ee3c-adec-4959-9877-6dede3f1e150",
+        "627bb029-47ed-4de3-a05a-125c96924070",
+        "0d22bbd1-91f2-468b-8549-f1cf297a726e",
+        "3e803779-0c08-4ed7-b4f0-497888e3d075",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "1141d603-a1d6-494f-8a77-f48d4f38a6b0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e0c6ddcb-bbd4-4f5d-a006-0cfaf9c995f0",
+        "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+        "6f29b03d-8d9d-48cf-ac60-e55aed8181c8",
+        "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
+        "941f6dd4-0ae1-4a73-8701-d0e6a805821a",
+        "f1477b0b-e955-4951-8adf-133ba24d6112",
+        "1a6530b0-e8e5-456d-8507-c338a345733b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4feb4ad9-3491-48e8-92cd-c77e04ad562e",
+      "dutyDetail": " Write logical and maintainable software solutions in line with given specifications to meet the design requirements and organisational coding standards",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "dec92b10-0b1f-4111-a37b-02f7918ff475",
+        "3e803779-0c08-4ed7-b4f0-497888e3d075"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3225e04d-1918-4065-805a-d9392ed55088"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "726c3321-ede0-4ed4-8446-3045ead1721a",
+      "dutyDetail": "Apply security principles and practice to the software development tasks assigned",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8dc99ed2-908e-4249-a572-34d9e714661e"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "439d08a2-7838-4ef4-9c71-2ff8e418641f",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
+        "5e63245b-cc69-4a3c-9802-53dc5103676d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+        "deaaf579-3b66-4dc8-822f-f30904e1dd27",
+        "c46a29cb-1a34-4df7-be79-d417e8f1bd91"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fbb817d0-7f4e-420f-8a0d-74944cdd3fa8",
+      "dutyDetail": "Maintain appropriate project documentation throughout the software development tasks",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "f470992d-2dd5-4e13-8559-63e7e61f081f",
+        "e774ef28-8700-4b82-96a5-86d336444e87",
+        "f07daef2-3c01-4413-8aa1-3fa0f7233ac3",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7f6b8e59-0dbc-49d2-b889-697fec36f45c",
+        "7a30ae78-23b5-4f26-8d21-1ff1f647bd0d",
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "3e72a503-2dd6-414a-975c-b293c0b00f45",
+        "ba119283-dc50-45f9-b2cb-3a42f5d108d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93eef3d0-e6f9-486a-b6da-7d5157ca5cde",
+      "dutyDetail": "Apply appropriate recovery techniques to ensure that the software solution being developed is not lost. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8dc99ed2-908e-4249-a572-34d9e714661e"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "95a86163-2b11-40b2-8e82-a2be943a81eb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5a2fdd69-0452-40cc-aa4d-c93cdcd600e1",
+      "dutyDetail": "Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and, where necessary, escalate issues",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "c326e117-717a-4738-bb56-fe533f1845e1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "833f469e-39ce-419c-887f-e3a89ad34d09",
+        "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+        "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
+        "bdef89a9-3f94-4076-87f0-385495e25cba",
+        "f1477b0b-e955-4951-8adf-133ba24d6112",
+        "f79429da-72d7-43c6-875f-6bca89a7fbe3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1e1e992c-2f1b-483d-b291-836a5ea89f12",
+      "dutyDetail": "Contribute to testing of the end-to-end software solution to ensure a high-quality output",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8dc99ed2-908e-4249-a572-34d9e714661e",
+        "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+        "392cc524-452b-4933-bf70-77d7b62c8fd7"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "55667e21-7564-4644-87c2-8d30e223b2ad",
+        "c326e117-717a-4738-bb56-fe533f1845e1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7c206cf5-9be1-47f4-86f2-75cad95b6655",
+        "56b15d9d-ab4b-4bf6-a208-6a67c39a3118",
+        "f1477b0b-e955-4951-8adf-133ba24d6112"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3e4a020-d8ef-461b-92f0-c4cb58ee9c50",
+      "dutyDetail": " Support delivery of deployment phases, including trials and final release.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "f470992d-2dd5-4e13-8559-63e7e61f081f",
+        "af9e2180-a541-43a9-a351-5fd65be23f65",
+        "b729f5af-f948-4de3-89c1-f76f418e4559",
+        "b864ee3c-adec-4959-9877-6dede3f1e150",
+        "54a9cb1e-c6a0-4456-92f4-c4ca0e3ca02b",
+        "90b17626-35e9-44b7-8122-0b40e0f2c302"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "972f700e-5753-42a6-91b3-686c5e84b8b6",
+        "5611e6a6-30cb-42d5-aee9-ed043b651eba",
+        "4f745d63-c715-44be-9e90-7535d80b51d2",
+        "95a86163-2b11-40b2-8e82-a2be943a81eb",
+        "ba119283-dc50-45f9-b2cb-3a42f5d108d2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "647dc391-ad0f-4e54-b225-3395b1fa135d",
+      "dutyDetail": "Identify the need for a suitable 'bug fix', appropriate to the severity and priority of the issue identified.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8dc99ed2-908e-4249-a572-34d9e714661e",
+        "cf5da639-3ef2-4369-ac87-2c24913dfa6f",
+        "392cc524-452b-4933-bf70-77d7b62c8fd7"
+      ],
+      "mappedKnowledge": [
+        "bbd33a82-fcf2-4ded-bd19-d83a43f90d7c",
+        "025829ed-b514-4f6f-be57-3dba7b1b2f08",
+        "b729f5af-f948-4de3-89c1-f76f418e4559",
+        "dec92b10-0b1f-4111-a37b-02f7918ff475",
+        "627bb029-47ed-4de3-a05a-125c96924070",
+        "0d22bbd1-91f2-468b-8549-f1cf297a726e",
+        "3e803779-0c08-4ed7-b4f0-497888e3d075",
+        "1141d603-a1d6-494f-8a77-f48d4f38a6b0",
+        "5e63245b-cc69-4a3c-9802-53dc5103676d",
+        "0a338129-d62f-47fe-98bc-34b8beb615b6",
+        "c326e117-717a-4738-bb56-fe533f1845e1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "46d03578-ebcc-4a3a-a1dd-64b6cce3ca3e",
+        "941f6dd4-0ae1-4a73-8701-d0e6a805821a",
+        "f1477b0b-e955-4951-8adf-133ba24d6112",
+        "70cf36a4-a05e-44fd-b3cb-e0503b84a223",
+        "3cbded7e-7dab-4982-ad11-d4699f2eb5d2",
+        "55d29d5f-5077-4e80-8447-e0a3258497ac",
+        "a17aee98-756a-42ab-8a57-a4f044a6a659",
+        "deaaf579-3b66-4dc8-822f-f30904e1dd27",
+        "c35544ba-af77-496b-95d9-b9646db17add"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc423f6f-5be1-48f7-8427-ae113a0ff422",
+      "dutyDetail": "Practice continuous guided self-learning to keep up to date with technological developments to enhancerelevant skills and take responsibility for own professional development",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "20bdb494-9ce6-4692-920c-76d3aca49eae",
+        "0472b0d8-89e5-4adc-a2e3-3390b131b5ad"
+      ],
+      "mappedKnowledge": [
+        "c4c1d63c-2221-48c0-807b-7ad0463f301c",
+        "64043232-42ea-434c-ad14-170ef1bfcced",
+        "f70dc160-65f5-4cd1-9bb0-00921719c763",
+        "90b17626-35e9-44b7-8122-0b40e0f2c302"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-16T00:00:00"
+}
