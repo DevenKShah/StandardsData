@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 612,
   "referenceNumber": "ST0877",
+  "learningAimClassCode": "",
   "title": "Land referencer",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/612",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0877",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2020-12-22T00:00:00",
@@ -12,10 +16,20 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide supporting evidence, documentation and information for an acquiring authority to obtain land for the purposes of large development or infrastructure projects.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 14000,
-  "route": "Construction",
-  "keywords": [],
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "land",
+    "law",
+    "Land referencer",
+    "infrastructure",
+    "construction",
+    "development projects",
+    "building"
+  ],
   "jobRoles": [
     "Land referencer",
     "Land consultant",
@@ -23,13 +37,12 @@
     "Assistant land consultant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4678/st0877_land-referencer_l4_ap-for-publication_121120.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4678/st0877_land-referencer_l4_ap-for-publication_121120.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.5 Law and legal services",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "N/A",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of sectors including transport (aviation, rail, highways), utilities, housing, redevelopment, retail, environmental protection, commercial, private and public sectors. The broad purpose of the occupation is to support land referencing exercises. The main reason for carrying out a land referencing exercise is to provide supporting evidence, documentation and information for an acquiring authority to obtain land for the purposes of large development or infrastructure projects such as airport expansion, railway construction and large shopping centres.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;Legal interests in land are held by individuals or organisations. Land referencing is the process of identifying these individuals and organisations and the nature of their legal interest in the affected land, at both design stage and subsequently to support the process of compulsory purchase. This is achieved through the interpretation of Land Registry documents, desktop research and liaising with landowners and their agents. The Land Referencer would be responsible for capturing this information in a visual format, creating plans using a geographic information system (GIS) to illustrate the land ownership for a particular scheme.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;Land is essential to the successful delivery of all infrastructure and regeneration projects such as High Speed Two, Crossrail, Hinkley Point nuclear, Heathrow Expansion, Birmingham Bull Ring and Bluewater. These schemes are designed and/or promoted by central government, local authorities, and developers, to secure (a) the legal consent for the construction of the scheme (b) the necessary powers of compulsory acquisition.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;Towards the end of a project, the Land Referencer will be responsible for the production of legal notices to be distributed to affected landowners.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their immediate project delivery team; internal and external clients; the client’s independent land advisors and legal representatives; land agents, solicitors and land valuers; other related professions such as geospatial and data managers, ecologists and design teams; government organisations and public bodies. Land Referencers are predominantly office-based but there is often a requirement to conduct site visits for the purposes of identifying the occupiers of affected land, posting and removal of site notices, site surveys to ensure all its features have been accurately recorded and to negotiate with landowners to secure land access for a client.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively within their project team, reporting directly to a team leader, to deliver high-quality land ownership information to clients..&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of sectors including transport (aviation, rail, highways), utilities, housing, redevelopment, retail, environmental protection, commercial, private and public sectors. The broad purpose of the occupation is to support land referencing exercises. The main reason for carrying out a land referencing exercise is to provide supporting evidence, documentation and information for an acquiring authority to obtain land for the purposes of large development or infrastructure projects such as airport expansion, railway construction and large shopping centres.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;Legal interests in land are held by individuals or organisations. Land referencing is the process of identifying these individuals and organisations and the nature of their legal interest in the affected land, at both design stage and subsequently to support the process of compulsory purchase. This is achieved through the interpretation of Land Registry documents, desktop research and liaising with landowners and their agents. The Land Referencer would be responsible for capturing this information in a visual format, creating plans using a geographic information system (GIS) to illustrate the land ownership for a particular scheme.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;Land is essential to the successful delivery of all infrastructure and regeneration projects such as High Speed Two, Crossrail, Hinkley Point nuclear, Heathrow Expansion, Birmingham Bull Ring and Bluewater. These schemes are designed and/or promoted by central government, local authorities, and developers, to secure (a) the legal consent for the construction of the scheme (b) the necessary powers of compulsory acquisition.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;Towards the end of a project, the Land Referencer will be responsible for the production of legal notices to be distributed to affected landowners.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with their immediate project delivery team; internal and external clients; the client’s independent land advisors and legal representatives; land agents, solicitors and land valuers; other related professions such as geospatial and data managers, ecologists and design teams; government organisations and public bodies. Land Referencers are predominantly office-based but there is often a requirement to conduct site visits for the purposes of identifying the occupiers of affected land, posting and removal of site notices, site surveys to ensure all its features have been accurately recorded and to negotiate with landowners to secure land access for a client.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for working collaboratively within their project team, reporting directly to a team leader, to deliver high-quality land ownership information to clients..&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "e56bbdeb-0f81-49e2-af0d-58d8d203f71d",
@@ -156,25 +169,28 @@
       "detail": "Communication with a range of stakeholders via numerous methods including phone, email and in person."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-12-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0470",
   "tbMainContact": "Trevor.Wilding@mottmac.com",
   "involvedEmployers": "WSP, Terra Quest, Carter Jonas, Ardent Management, Dalcour McLaren, Ish, Arcadis, Land Referencing, Arup, Valuation Office Agency, Mott MacDonald",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -184,14 +200,20 @@
     "Land referencing technician",
     "Assistant land consultant"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Advanced Technician",
+  "cluster": "Design and surveying advanced technician",
+  "clusterId": "138",
+  "clusterDescription": "Identify and monitor client requirements, H&S risks, regulatory compliance, environmental impact , build quality, co-ordinate information and manage build costs",
   "createdDate": "2019-12-19T15:37:28 +00:00",
-  "lastUpdated": "2019-12-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/land-referencer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/land-referencer-v1-0",
+  "lastUpdated": "2020-12-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-12-16T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC0877",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0877-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0877-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -213,7 +235,7 @@
         "03957b7e-e8df-46e2-8974-b1094d263f8f",
         "c2f05b99-9816-437f-9fdf-c8e9ba650272"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -242,7 +264,7 @@
         "4c2cab3a-738a-47e2-a8cb-6ab887d9e050",
         "c2f05b99-9816-437f-9fdf-c8e9ba650272"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -277,7 +299,7 @@
         "c2f05b99-9816-437f-9fdf-c8e9ba650272",
         "4b8ab6ab-95ed-4b99-98a6-ecacbe32e3e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -314,7 +336,7 @@
         "c2f05b99-9816-437f-9fdf-c8e9ba650272",
         "4b8ab6ab-95ed-4b99-98a6-ecacbe32e3e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -345,7 +367,7 @@
         "92c52c09-5087-4727-9f18-245ee0e551a5",
         "60ddd530-b595-4f99-b436-6906a1127456"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "babfb4cb-e0b4-4bb1-9d10-43120937c634",
         "f4fcad8d-5968-421b-b210-04d817792a4f",
@@ -375,7 +397,7 @@
         "c2f05b99-9816-437f-9fdf-c8e9ba650272",
         "4b8ab6ab-95ed-4b99-98a6-ecacbe32e3e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -407,7 +429,7 @@
         "1f3c7713-e009-4e8f-ba92-aafacd0ec8cc",
         "4c2cab3a-738a-47e2-a8cb-6ab887d9e050"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -439,7 +461,7 @@
         "03957b7e-e8df-46e2-8974-b1094d263f8f",
         "4c2cab3a-738a-47e2-a8cb-6ab887d9e050"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -471,7 +493,7 @@
         "60ddd530-b595-4f99-b436-6906a1127456",
         "4b8ab6ab-95ed-4b99-98a6-ecacbe32e3e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "babfb4cb-e0b4-4bb1-9d10-43120937c634",
@@ -504,7 +526,7 @@
         "c2f05b99-9816-437f-9fdf-c8e9ba650272",
         "4b8ab6ab-95ed-4b99-98a6-ecacbe32e3e5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6bc85439-43bd-4abe-b898-8efb953cd7d9",
         "800fbe97-7f48-4ad5-943e-9bc86b463ccd",
@@ -517,5 +539,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2020-12-22T00:00:00"
 }
