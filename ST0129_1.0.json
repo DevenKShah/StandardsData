@@ -1,19 +1,25 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 91,
   "referenceNumber": "ST0129",
+  "learningAimClassCode": "",
   "title": "Software tester",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/91",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0129",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-04-28T00:00:00",
   "earliestStartDate": "2016-04-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-05-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out tests to make sure computer software works as intended and is fit for purpose.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "quality assurance",
@@ -25,55 +31,203 @@
     "project support",
     "applications"
   ],
-  "jobRoles": [
-    "QA Engineer"
-  ],
+  "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/1138/software_tester.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1138/software_tester.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
-  "standardInformation": "&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Ro&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;e Profile&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The primary role of a Software Tester is to ensure that software operates as intended. Testers typically design and prepare test plans and conduct software testing as appropriate to ensure that software is fit for purpose. They document and report the results of testing activities. They have a good understanding of the software lifecycle and software development practices.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Typical Job Roles&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Software Tester, Software Test Analyst&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;ntr&lt;/strong&gt;&lt;strong&gt;y Requirements&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Individual employers will set the selection criteria, but this might include five GCSEs; A levels; a Level 3 Apprenticeship; other relevant qualifications and experience; or an aptitude test, with a focus on functional maths.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Technical Competencies&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Implements software testing procedures on software applications (including desktop, web, mobile, embedded, mainframe) to ensure agreed errors and security issues are identified, recorded, prioritised and corrected before release.&lt;/li&gt;\r\n&lt;li&gt;Reviews software requirements and specifications for software functionality and security, and defines comprehensive tests and conditions.&lt;/li&gt;\r\n&lt;li&gt;Designs simple test strategies for non-complex projects.&lt;/li&gt;\r\n&lt;li&gt;Analyses test requirements and designs and prepares a test plan.&lt;/li&gt;\r\n&lt;li&gt;Designs and builds test cases, test scripts, and test procedures, with expected results.&lt;/li&gt;\r\n&lt;li&gt;Develops and collects representative and realistic test data.&lt;/li&gt;\r\n&lt;li&gt;Conducts a range of different software testing types (including Unit Testing, Integration Testing, Functional and Non- Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing); interpreting and executing sets of moderately complex test scripts using agreed methods and standards.&lt;/li&gt;\r\n&lt;li&gt;Accurately records the outcomes of test activities and maintains accurate test records and reports.&lt;/li&gt;\r\n&lt;li&gt;Assesses test results against expected results and acceptance criteria and through traceability to requirements.&lt;/li&gt;\r\n&lt;li&gt;Presents and communicates results effectively using appropriate communication styles and media.&lt;/li&gt;\r\n&lt;li&gt;Operates the organisation&#39;s software testing tools effectively and follows procedures and techniques correctly.&lt;/li&gt;\r\n&lt;li&gt;Complies with relevant legislation and internal/external standards related to software testing and software security.&lt;/li&gt;\r\n&lt;li&gt;Advises and supports others on testing processes and procedures.&lt;/li&gt;\r\n&lt;li&gt;Completes allocated tasks in accordance with the organisation’s reporting and quality systems&lt;/li&gt;\r\n&lt;li&gt;Operates within service level agreements&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Technical Knowledge and Understanding&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Understands and can apply the basic concepts of software testing including testing types; test procedures; testing techniques; testing tools and testing terms.&lt;/li&gt;\r\n&lt;li&gt;Understands how to use and apply automated test tools.&lt;/li&gt;\r\n&lt;li&gt;Understands the importance of accuracy and clear documentation of software tests.&lt;/li&gt;\r\n&lt;li&gt;Understands how to use bug tracking tools&lt;/li&gt;\r\n&lt;li&gt;Understands and can communicate the differences between software testing and verification.&lt;/li&gt;\r\n&lt;li&gt;Understands industry standard software development paradigms and methods (including. Object Oriented, procedural and agile) to conduct testing.&lt;/li&gt;\r\n&lt;li&gt;Understands that software should be ‘secure by design’ and how to test for security requirements.&lt;/li&gt;\r\n&lt;li&gt;Understands the range and features of software test commonly used (Unit Testing, Integration Testing, Functional and Non-Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing).&lt;/li&gt;\r\n&lt;li&gt;Understands how to set up and configure testing packages.&lt;/li&gt;\r\n&lt;li&gt;Understands the role of software testing within the wider systems development life cycle.&lt;/li&gt;\r\n&lt;li&gt;Understands the need for conformance to specific standards where appropriate (including data protection, health informatics, safety critical, etc) related to software testing.&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Underpinning Skills, Attitudes and Behaviours&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;Logical and creative thinking skills&lt;/li&gt;\r\n&lt;li&gt;Analytical and problem solving skills&lt;/li&gt;\r\n&lt;li&gt;Ability to work independently and to take responsibility&lt;/li&gt;\r\n&lt;li&gt;Can use own initiative&lt;/li&gt;\r\n&lt;li&gt;A thorough and organised approach&lt;/li&gt;\r\n&lt;li&gt;Ability to work with a range of internal and external people&lt;/li&gt;\r\n&lt;li&gt;Ability to communicate effectively in a variety of situations&lt;/li&gt;\r\n&lt;li&gt;Maintain productive, professional and secure working environment&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Apprentices must achieve one internationally recognised vendor or professional qualification, from the right hand column in the table below. This then exempts the Ofqual-regulated knowledge module, as shown in the left hand column.&lt;/p&gt;\r\n&lt;p&gt;The knowledge modules are summarised below and further details are available in the occupational brief available from the &lt;a href=&quot;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&quot;&gt;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&lt;/a&gt;&lt;/p&gt;\r\n&lt;table border=&quot;0&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 234px;&quot; width=&quot;234&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;Knowledge Modules&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 231px;&quot; width=&quot;231&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;strong&gt;ndo&lt;/strong&gt;&lt;strong&gt;r or Professional Qualifications&lt;/strong&gt;&lt;/p&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;234&quot;&gt;\r\n&lt;p&gt;Knowledge Module 1: Testing Tools (for Level 4 Software&lt;/p&gt;\r\n&lt;p&gt;Tester Apprenticeship)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;231&quot;&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;p&gt;ISTQB Certified Tester Foundation Level&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;234&quot;&gt;\r\n&lt;p&gt;Knowledge Module 2: Testing Concepts ( for Level 4&lt;/p&gt;\r\n&lt;p&gt;Software Tester Apprenticeship)&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;231&quot;&gt;\r\n&lt;p&gt;ISTQB Certified Tester Foundation Level&lt;/p&gt;\r\n&lt;p&gt;&#160;&lt;/p&gt;\r\n&lt;p&gt;BCS Intermediate Certificate in Software Testing&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;p&gt;Individual employers will select which vendor or professional qualification the apprentice should take.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;g&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt;sh and Maths&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;Level 2 English and Maths will need to be achieved, if not already, prior to taking the end point assessment.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Professional Recognition&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This apprenticeship is recognised for entry onto the Register of IT Technicians confirming SFIA level 3 professional competence and those completing the apprenticeship are eligible to apply for registration.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;ur&lt;/strong&gt;&lt;strong&gt;ation&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;The duration of this apprenticeship is typically 24 months.&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This is a Level 4 Apprenticeship&lt;/p&gt;\r\n&lt;h3&gt;&lt;strong&gt;Re&lt;/strong&gt;&lt;strong&gt;vi&lt;/strong&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;strong&gt;w Date&lt;/strong&gt;&lt;/h3&gt;\r\n&lt;p&gt;This standard will be reviewed in February 2017&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "&lt;p&gt;&#160;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Ro&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;e Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The primary role of a Software Tester is to ensure that software operates as intended. Testers typically design and prepare test plans and conduct software testing as appropriate to ensure that software is fit for purpose. They document and report the results of testing activities. They have a good understanding of the software lifecycle and software development practices.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical Job Roles&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Software Tester, Software Test Analyst&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;ntr&lt;/strong&gt;&lt;strong&gt;y Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria, but this might include five GCSEs; A levels; a Level 3 Apprenticeship; other relevant qualifications and experience; or an aptitude test, with a focus on functional maths.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Technical Competencies&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Implements software testing procedures on software applications (including desktop, web, mobile, embedded, mainframe) to ensure agreed errors and security issues are identified, recorded, prioritised and corrected before release.&lt;/li&gt;\n&lt;li&gt;Reviews software requirements and specifications for software functionality and security, and defines comprehensive tests and conditions.&lt;/li&gt;\n&lt;li&gt;Designs simple test strategies for non-complex projects.&lt;/li&gt;\n&lt;li&gt;Analyses test requirements and designs and prepares a test plan.&lt;/li&gt;\n&lt;li&gt;Designs and builds test cases, test scripts, and test procedures, with expected results.&lt;/li&gt;\n&lt;li&gt;Develops and collects representative and realistic test data.&lt;/li&gt;\n&lt;li&gt;Conducts a range of different software testing types (including Unit Testing, Integration Testing, Functional and Non- Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing); interpreting and executing sets of moderately complex test scripts using agreed methods and standards.&lt;/li&gt;\n&lt;li&gt;Accurately records the outcomes of test activities and maintains accurate test records and reports.&lt;/li&gt;\n&lt;li&gt;Assesses test results against expected results and acceptance criteria and through traceability to requirements.&lt;/li&gt;\n&lt;li&gt;Presents and communicates results effectively using appropriate communication styles and media.&lt;/li&gt;\n&lt;li&gt;Operates the organisation&#39;s software testing tools effectively and follows procedures and techniques correctly.&lt;/li&gt;\n&lt;li&gt;Complies with relevant legislation and internal/external standards related to software testing and software security.&lt;/li&gt;\n&lt;li&gt;Advises and supports others on testing processes and procedures.&lt;/li&gt;\n&lt;li&gt;Completes allocated tasks in accordance with the organisation’s reporting and quality systems&lt;/li&gt;\n&lt;li&gt;Operates within service level agreements&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Technical Knowledge and Understanding&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understands and can apply the basic concepts of software testing including testing types; test procedures; testing techniques; testing tools and testing terms.&lt;/li&gt;\n&lt;li&gt;Understands how to use and apply automated test tools.&lt;/li&gt;\n&lt;li&gt;Understands the importance of accuracy and clear documentation of software tests.&lt;/li&gt;\n&lt;li&gt;Understands how to use bug tracking tools&lt;/li&gt;\n&lt;li&gt;Understands and can communicate the differences between software testing and verification.&lt;/li&gt;\n&lt;li&gt;Understands industry standard software development paradigms and methods (including. Object Oriented, procedural and agile) to conduct testing.&lt;/li&gt;\n&lt;li&gt;Understands that software should be ‘secure by design’ and how to test for security requirements.&lt;/li&gt;\n&lt;li&gt;Understands the range and features of software test commonly used (Unit Testing, Integration Testing, Functional and Non-Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing).&lt;/li&gt;\n&lt;li&gt;Understands how to set up and configure testing packages.&lt;/li&gt;\n&lt;li&gt;Understands the role of software testing within the wider systems development life cycle.&lt;/li&gt;\n&lt;li&gt;Understands the need for conformance to specific standards where appropriate (including data protection, health informatics, safety critical, etc) related to software testing.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Underpinning Skills, Attitudes and Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Logical and creative thinking skills&lt;/li&gt;\n&lt;li&gt;Analytical and problem solving skills&lt;/li&gt;\n&lt;li&gt;Ability to work independently and to take responsibility&lt;/li&gt;\n&lt;li&gt;Can use own initiative&lt;/li&gt;\n&lt;li&gt;A thorough and organised approach&lt;/li&gt;\n&lt;li&gt;Ability to work with a range of internal and external people&lt;/li&gt;\n&lt;li&gt;Ability to communicate effectively in a variety of situations&lt;/li&gt;\n&lt;li&gt;Maintain productive, professional and secure working environment&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices must achieve one internationally recognised vendor or professional qualification, from the right hand column in the table below. This then exempts the Ofqual-regulated knowledge module, as shown in the left hand column.&lt;/p&gt;\n&lt;p&gt;The knowledge modules are summarised below and further details are available in the occupational brief available from the &lt;a href=&quot;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&quot;&gt;https://www.nsar.co.uk/digital-eqa/digital-apprenticeship-standards/&lt;/a&gt;&lt;/p&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;234&quot; style=&quot;width: 234px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge Modules&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;231&quot; style=&quot;width: 231px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;V&lt;/strong&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;strong&gt;ndo&lt;/strong&gt;&lt;strong&gt;r or Professional Qualifications&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;234&quot;&gt;\n&lt;p&gt;Knowledge Module 1: Testing Tools (for Level 4 Software&lt;/p&gt;\n&lt;p&gt;Tester Apprenticeship)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;231&quot;&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;ISTQB Certified Tester Foundation Level&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;234&quot;&gt;\n&lt;p&gt;Knowledge Module 2: Testing Concepts ( for Level 4&lt;/p&gt;\n&lt;p&gt;Software Tester Apprenticeship)&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;231&quot;&gt;\n&lt;p&gt;ISTQB Certified Tester Foundation Level&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;\n&lt;p&gt;BCS Intermediate Certificate in Software Testing&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;Individual employers will select which vendor or professional qualification the apprentice should take.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;E&lt;/strong&gt;&lt;strong&gt;n&lt;/strong&gt;&lt;strong&gt;g&lt;/strong&gt;&lt;strong&gt;l&lt;/strong&gt;&lt;strong&gt;i&lt;/strong&gt;&lt;strong&gt;sh and Maths&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Level 2 English and Maths will need to be achieved, if not already, prior to taking the end point assessment.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Professional Recognition&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship is recognised for entry onto the Register of IT Technicians confirming SFIA level 3 professional competence and those completing the apprenticeship are eligible to apply for registration.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;D&lt;/strong&gt;&lt;strong&gt;ur&lt;/strong&gt;&lt;strong&gt;ation&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The duration of this apprenticeship is typically 24 months.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This is a Level 4 Apprenticeship&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Re&lt;/strong&gt;&lt;strong&gt;vi&lt;/strong&gt;&lt;strong&gt;e&lt;/strong&gt;&lt;strong&gt;w Date&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This standard will be reviewed in February 2017&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The primary role of a Software Tester is to ensure that software operates as intended. Testers typically design and prepare test plans and conduct software testing as appropriate to ensure that software is fit for purpose. They document and report the results of testing activities. They have a good understanding of the software lifecycle and software development practices.&lt;/p&gt;\n&lt;p&gt;Carrying out tests to make sure computer software works as intended and is fit for purpose.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "869b2949-290e-4f5a-b6a9-4336fb071419",
+      "detail": "Understands and can apply the basic concepts of software testing including testing types; test procedures; testing techniques; testing tools and testing terms."
+    },
+    {
+      "knowledgeId": "1f12255d-9665-457d-a540-61b92eeca21a",
+      "detail": "Understands how to use and apply automated test tools."
+    },
+    {
+      "knowledgeId": "58dc03e7-16aa-4939-b252-05f56d8be220",
+      "detail": "Understands the importance of accuracy and clear documentation of software tests."
+    },
+    {
+      "knowledgeId": "0576db4d-3e0f-423c-aeb9-18220799daca",
+      "detail": "Understands how to use bug tracking tools."
+    },
+    {
+      "knowledgeId": "e4362063-6faf-478b-baee-ff0294be26d7",
+      "detail": "Understands and can communicate the differences between software testing and verification."
+    },
+    {
+      "knowledgeId": "a4886d4c-6831-49b6-b506-1e600ddcf346",
+      "detail": "Understands industry standard software development paradigms and methods (including. Object Oriented, procedural and agile) to conduct testing."
+    },
+    {
+      "knowledgeId": "ef1253b5-3e29-4c8b-a369-111f27203bd7",
+      "detail": "Understands that software should be 'secure by design' and how to test for security requirements."
+    },
+    {
+      "knowledgeId": "12b93ba9-352a-4f5d-bea4-9e89979ff039",
+      "detail": "Understands the range and features of software test commonly used (Unit Testing, Integration Testing, Functional and Non-Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing)."
+    },
+    {
+      "knowledgeId": "c912bb49-53fa-4dd5-b2e1-37d443d9a6f5",
+      "detail": "Understands how to set up and configure testing packages."
+    },
+    {
+      "knowledgeId": "39af6e5a-b4f0-469d-83bb-fd4e782ec0de",
+      "detail": "Understands the role of software testing within the wider systems development life cycle."
+    },
+    {
+      "knowledgeId": "cc8ced21-ff69-4b60-a2f9-983aa55c8acb",
+      "detail": "Understands the need for conformance to specific standards where appropriate (including data protection, health informatics, safety critical, etc) related to software testing."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "9cb1e5ef-9cf0-49c3-8adc-62320b245107",
+      "detail": "Logical and creative thinking skills."
+    },
+    {
+      "behaviourId": "6c66f853-755c-4a13-9ea2-d38e1911acd7",
+      "detail": "Analytical and problem solving skills."
+    },
+    {
+      "behaviourId": "f1990512-8dd5-4c63-8550-a0f79f23a1ab",
+      "detail": "Ability to work independently and to take responsibility."
+    },
+    {
+      "behaviourId": "f0a93060-2762-4af4-b6d6-3d159dc075df",
+      "detail": "Can use own initiative."
+    },
+    {
+      "behaviourId": "4b1894f0-b4b4-4c6c-b0cf-57a3f6f8089b",
+      "detail": "A thorough and organised approach."
+    },
+    {
+      "behaviourId": "b0469711-1745-4d3d-af6b-bb9ce84a4643",
+      "detail": "Ability to work with a range of internal and external people."
+    },
+    {
+      "behaviourId": "e5c8228d-32c4-45b0-866b-b062bf4c0e94",
+      "detail": "Ability to communicate effectively in a variety of situations."
+    },
+    {
+      "behaviourId": "43427512-c82f-473a-a13c-40d1defef94a",
+      "detail": "Maintain productive, professional and secure working environment."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "1feb1dec-33c2-4ec0-900d-3a24182db6e8",
+      "detail": "Implements software testing procedures on software applications (including desktop, web, mobile, embedded, mainframe) to ensure agreed errors and security issues are identified, recorded, prioritised and corrected before release."
+    },
+    {
+      "skillId": "7676a2db-0629-42b3-9c2a-22507dd5d4b8",
+      "detail": "Reviews software requirements and specifications for software functionality and security, and defines comprehensive tests and conditions."
+    },
+    {
+      "skillId": "ae507ce3-be2d-4541-aef5-1db6f757ce4c",
+      "detail": "Designs simple test strategies for non-complex projects."
+    },
+    {
+      "skillId": "38769488-3e2d-4327-b64b-8cb85cd46f56",
+      "detail": "Analyses test requirements and designs and prepares a test plan."
+    },
+    {
+      "skillId": "c2a06770-471b-4918-b434-d0c43313b5a2",
+      "detail": "Designs and builds test cases, test scripts, and test procedures, with expected results."
+    },
+    {
+      "skillId": "f06cdc34-9fd5-47d9-89ec-93ac53506425",
+      "detail": "Develops and collects representative and realistic test data."
+    },
+    {
+      "skillId": "e5429314-9acc-4cf4-a20a-abe8312f79bd",
+      "detail": "Conducts a range of different software testing types (including Unit Testing, Integration Testing, Functional and Non- Functional Testing, System Testing, Stress Testing, Performance Testing, Usability Testing, Acceptance Testing, Regression Testing and Exploratory Testing); interpreting and executing sets of moderately complex test scripts using agreed methods and standards."
+    },
+    {
+      "skillId": "0e3a9e7d-c5e7-4dd2-836e-d29ff5bcfc23",
+      "detail": "Accurately records the outcomes of test activities and maintains accurate test records and reports."
+    },
+    {
+      "skillId": "8f2cbb08-af43-4353-9fbe-3ef955889516",
+      "detail": "Assesses test results against expected results and acceptance criteria and through traceability to requirements."
+    },
+    {
+      "skillId": "ad365e68-a2c1-4b4c-bfb4-ec26e95f5c46",
+      "detail": "Presents and communicates results effectively using appropriate communication styles and media."
+    },
+    {
+      "skillId": "9699f20a-a3ee-40a6-928a-5051824e66bb",
+      "detail": "Operates the organisation's software testing tools effectively and follows procedures and techniques correctly."
+    },
+    {
+      "skillId": "e7043c7f-f560-4b29-be2e-10718bcd731c",
+      "detail": "Complies with relevant legislation and internal/external standards related to software testing and software security."
+    },
+    {
+      "skillId": "6a6a6e47-4833-4037-a59f-1c72d36857a9",
+      "detail": "Advises and supports others on testing processes and procedures."
+    },
+    {
+      "skillId": "f6447b6c-48ba-4ac1-81b3-692f6979f426",
+      "detail": "Completes allocated tasks in accordance with the organisations reporting and quality systems"
+    },
+    {
+      "skillId": "97bd066c-dc8c-47e9-9dce-563d4549cdb6",
+      "detail": "Operates within service level agreements."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2016-04-21T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0456",
-  "tbMainContact": "Enquiries.IFA@education.gov.uk\u00A0",
+  "tbMainContact": "Ian.howles@ibm.com ",
   "involvedEmployers": "IBM, Capgemini, Microsoft, Cisco, BT, HP, The Royal Signals, Lowe and Partners, Qinetiq, Weboo, 4Ps Marketing, Fujitsu, Accenture, Atos, CGI, Visa, Contentive, Thales, Ticket Master, NCA, Virgin Media",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [
-    "QA Engineer"
-  ],
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Production, Design and Development",
-  "cluster": "Software Development Advanced Technician",
-  "createdDate": "2017-09-22T14:24:18 +00:00",
-  "lastUpdated": "2016-04-21T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/software-tester-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/software-tester-v1-0",
+  "cluster": "Software development advanced technician",
+  "clusterId": "197",
+  "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
+  "createdDate": "2022-04-07T15:35:46 +00:00",
+  "lastUpdated": "2022-04-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2016-04-21T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0129",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0129-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0129-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-15T00:00:00"
 }
