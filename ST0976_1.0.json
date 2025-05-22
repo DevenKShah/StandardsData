@@ -1,0 +1,878 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 799,
+  "referenceNumber": "ST0976",
+  "learningAimClassCode": "",
+  "title": "Wood machinist",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0976",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2025-04-17T00:00:00",
+  "earliestStartDate": "2025-02-19T00:00:00",
+  "latestStartDate": "2025-04-16T00:00:00",
+  "latestEndDate": null,
+  "overviewOfRole": "Machine and manufacture wood components in the furniture industry.",
+  "level": 2,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "wood machinist",
+    "manufacturing",
+    "furniture",
+    "CNC machining",
+    "shaping"
+  ],
+  "jobRoles": [
+    "Cnc operator",
+    "Engineering woodworker",
+    "Furniture cnc operative",
+    "Furniture machinist",
+    "Machine operator",
+    "Saw doctor",
+    "Sawmill operative",
+    "Sawmiller",
+    "Sawyer",
+    "Timber machinist",
+    "Wood processing machinist"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.2 Manufacturing technologies",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;&lt;strong&gt;This occupation is found in&amp;nbsp;&lt;/strong&gt;the furniture and interiors, bench joinery, shopfitting, wood, sawmilling and bespoke machining industries. Wood machinists either machine wood components for use in these industries or convert round timber to boards and other products to required specification. For example, panelling, floorboards, kitchen counters, bars, banisters, spindles, skirting boards, window and door frames. Wood machinist&#39;s workplaces range from small workshops to large scale factories and sawmills. Employers vary in size from small to large.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;The broad purpose of the occupation is&amp;nbsp;&lt;/strong&gt;to cut and prepare timber and related material components. Wood machinists set up and operate variety of woodworking machines to surface, cut, and shape timber, and to fabricate parts for wood products, such as furniture components, doors, door and window frames, furniture, and sashes, according to specifications. They prepare and finish wood or wood-based components or sub-assemblies. They select, install, and adjust saw blades, cutterheads, boring bits, and sanding belts in respective machines, using hand tools and measuring equipment. They also inspect, pack and store finished components or sub-assemblies and contribute to continuous improvement activities. Completing documentation and cleaning up is also part of the role. The occupation can be physically demanding, involving lifting of heavy materials and standing for long periods of time. It involves working with dangerous machinery, tools and equipment. Wood machinists often work shift systems. The seasonality of the industry, plus peaks and troughs in orders, often demands overtime working.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;In their daily work, an employee in this occupation interacts with&amp;nbsp;&lt;/strong&gt;other operatives, production or manufacturing managers, quality technicians, production leaders and product developers. Wood machinists typically report to a supervisor or shift team leader.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;An employee in this occupation will be responsible for&amp;nbsp;&lt;/strong&gt;completing their duties in line with company procedures and priorities. They are responsible for their own work and meeting production and quality targets. They must work within health, safety and environmental regulations and considerations. They must manage their own time and use the correct protective clothing, tools and equipment. Depending on the size of the organisation, they may be required to work on their own, or they may work as part of a wider team.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "40f58181-21b1-44c0-a9d0-09fec113d841",
+      "detail": "The furniture industry function and role of the operative. Responsibilities, limits of role and escalation procedures."
+    },
+    {
+      "knowledgeId": "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+      "detail": "Job specifications, technical drawings and technical information."
+    },
+    {
+      "knowledgeId": "851404ea-9482-4b50-95f3-609ed371098a",
+      "detail": "Planning for wood machining activity, work organisation, resources, materials and time management."
+    },
+    {
+      "knowledgeId": "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+      "detail": "Safe systems of work including risk assessments."
+    },
+    {
+      "knowledgeId": "0f5135e4-637f-474a-9488-96fb6e93cd37",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (COSHH). Fire safety. Health and Safety at Work Act. Isolation and emergency stop procedures. Manual handling. Personal Protective Equipment (PPE). Safety equipment: guards, signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Provision and Use of Work Equipment Regulations (PUWER) and Reporting of Injuries, Diseases and Dangerous Occurrences Regulations (RIDDOR)."
+    },
+    {
+      "knowledgeId": "ec29b49e-9618-4a4e-8cab-8775bbb04e3c",
+      "detail": "Environment and sustainability regulation, standards and guidance relevant to the occupation and the operative’s responsibilities. Efficient use of resources. Recycling, reuse and safe disposal of waste."
+    },
+    {
+      "knowledgeId": "d0886fe5-00b2-4283-9fea-86185c3555fe",
+      "detail": "Preparation, maintenance and restoration of the work area."
+    },
+    {
+      "knowledgeId": "71ae0858-6518-491a-876a-3ee2ae34f7be",
+      "detail": "Workplace operating procedures. What they are and why they are important."
+    },
+    {
+      "knowledgeId": "89c9b95f-dac9-4bd4-badd-633e84e8bfd7",
+      "detail": "Tools and equipment used in wood machining. "
+    },
+    {
+      "knowledgeId": "a7c06bd1-d10f-42ab-9156-2726dd85499a",
+      "detail": "Storage environment for tools and equipment."
+    },
+    {
+      "knowledgeId": "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+      "detail": "Maintenance of tools and equipment such as, cleaning and lubrication, tool calibration checks, sharpening and servicing of tools."
+    },
+    {
+      "knowledgeId": "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+      "detail": "Machinery used in wood machining: conventional and CNC machinery"
+    },
+    {
+      "knowledgeId": "70299e08-af3e-452e-b2c7-a978e5b4ae08",
+      "detail": "Maintenance of machinery for wood machining activity such as, cleaning and lubrication, calibration checks, sharpening and servicing of tools."
+    },
+    {
+      "knowledgeId": "9c7af994-9266-455d-8bea-ef6e92e8e52f",
+      "detail": "Setting up wood machining machinery and tooling to perform wood machining operations."
+    },
+    {
+      "knowledgeId": "28697169-c774-4451-973d-4f8ead2c3560",
+      "detail": "Types of materials used in wood machining."
+    },
+    {
+      "knowledgeId": "0520c357-3640-4ea0-80d8-7a5c94501b52",
+      "detail": "Jigs and templates. Purpose, condition and use."
+    },
+    {
+      "knowledgeId": "f7d9fa5e-70a9-48aa-af29-76cdd7cebac1",
+      "detail": "Tools and techniques used in measuring and marking out materials. "
+    },
+    {
+      "knowledgeId": "5ffed374-0191-498f-911b-ef640edac204",
+      "detail": "Wood machining processes: cutting, shaping, planing, turning, profiling, boring, edge banding, jointing wood and wood-based products. "
+    },
+    {
+      "knowledgeId": "b9e09ee2-ebe8-4d1f-a612-e6c73656d609",
+      "detail": "Wood preparation techniques: inspection, stripping, process of sanding and grit sizes. "
+    },
+    {
+      "knowledgeId": "19c71825-ba49-4621-b9d7-f7541040c778",
+      "detail": "Furniture components and sub-assemblies."
+    },
+    {
+      "knowledgeId": "a2c8b26a-8860-4eff-b0ff-8b3e1a1bdb3a",
+      "detail": "Rectification, repair and rework techniques used in wood machining."
+    },
+    {
+      "knowledgeId": "2498d42e-79a7-44bf-94eb-6b36a351ae4b",
+      "detail": "Methods of packing, storing and handling of furniture components and sub-assemblies."
+    },
+    {
+      "knowledgeId": "c64b39b0-b951-4efa-8f4d-15c7e0cc33e8",
+      "detail": "Quality assurance processes."
+    },
+    {
+      "knowledgeId": "4287a47c-b0d2-4c52-9483-1d215762a006",
+      "detail": "Methods of documenting work in progress for the wood machining activity."
+    },
+    {
+      "knowledgeId": "69099d33-ee4c-4c48-878a-9b6e1460c536",
+      "detail": "Continuous improvement techniques: lean manufacturing, six sigma, 5S, and KAIZEN."
+    },
+    {
+      "knowledgeId": "11baa570-6fad-4c73-8531-7ed2eec2da6b",
+      "detail": "Team working principles."
+    },
+    {
+      "knowledgeId": "7b2f006e-aee1-47b3-b5bb-97ab6ee64ebb",
+      "detail": "Principles of equity, diversity, and inclusion in the workplace and the impact on their work."
+    },
+    {
+      "knowledgeId": "3e024786-19bc-4cfb-993c-262b8dc24a37",
+      "detail": "Verbal communication techniques. Giving and receiving information."
+    },
+    {
+      "knowledgeId": "1ae17217-1977-43d8-a20e-daccafeb214b",
+      "detail": "Written communication techniques - electronic and paper. Industry terminology."
+    },
+    {
+      "knowledgeId": "35934b1a-7458-4674-ade2-5f3582bed07e",
+      "detail": "Information and digital technology: email, collaboration packages, databases, equipment digital interfaces, management information systems, word processing, work sharing platforms, GDPR, cyber security."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+      "detail": "Put health and safety first."
+    },
+    {
+      "behaviourId": "87aab16d-906f-4cf7-8e43-444c1419c14f",
+      "detail": "Take ownership of given work."
+    },
+    {
+      "behaviourId": "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+      "detail": "Consider the impact on the environment when using resources and carrying out work."
+    },
+    {
+      "behaviourId": "ba3138b0-390d-49de-bdc8-5398dcc97152",
+      "detail": "Team-focus to meet work goals."
+    },
+    {
+      "behaviourId": "5101c798-908c-4166-86e3-583a9aece2fb",
+      "detail": "Support an inclusive workplace for example, respectful of different views."
+    },
+    {
+      "behaviourId": "5dd60ad1-b70f-4048-94e7-7e7119553990",
+      "detail": "Seek learning and development opportunities."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "cd104455-11fa-4cf1-8d70-150ee578c863",
+      "detail": "Read and interpret job specifications, technical drawings or information for wood machining activity."
+    },
+    {
+      "skillId": "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+      "detail": "Plan wood machining activity including timescales for completion and organise materials and resources."
+    },
+    {
+      "skillId": "1838f9ef-1712-4fb8-805d-cfea67a268cd",
+      "detail": "Prepare, maintain and restore the work area."
+    },
+    {
+      "skillId": "892d36c3-8516-470d-91e2-f82d5b311d3d",
+      "detail": "Apply safe systems of working including risk assessment."
+    },
+    {
+      "skillId": "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+      "detail": "Follow health and safety regulations, standards, and guidance."
+    },
+    {
+      "skillId": "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+      "detail": "Comply with procedures in line with environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+      "detail": "Follow workplace operating procedures."
+    },
+    {
+      "skillId": "4306d6f7-6c44-4548-b5a3-20afbedd2629",
+      "detail": "Store tools and equipment."
+    },
+    {
+      "skillId": "78fe8652-63a3-4c03-a7a1-0f07d3f6c204",
+      "detail": "Select tools, equipment, and machinery for wood machining activity."
+    },
+    {
+      "skillId": "a1fd3e1d-f07d-479d-ab2d-ab46111e87c1",
+      "detail": "Apply first line maintenance of tools, equipment and machinery. For example, checking condition, cleaning, lubrication, visual inspection, calibration checks, sharpening and servicing."
+    },
+    {
+      "skillId": "9ea80123-f8a1-4fb8-8262-ba8aead4e0f1",
+      "detail": "Identify and select materials used in wood machining."
+    },
+    {
+      "skillId": "4ecec1a2-dcb1-4325-9010-7fbb0439190d",
+      "detail": "Measure and mark out materials."
+    },
+    {
+      "skillId": "a549c850-d53f-4c0f-afa6-297b5be55efd",
+      "detail": "Prepare, check and use jigs and templates used in the work activity. "
+    },
+    {
+      "skillId": "eccbba0b-a1ff-4faf-9441-f46ca8c0ac34",
+      "detail": "Set up and operate wood machining machinery."
+    },
+    {
+      "skillId": "c7141c2e-314e-4dfe-8091-35818575a6d6",
+      "detail": "Apply wood machining processes using conventional or CNC machinery. For example, cutting, shaping, planing, turning, profiling, boring, or edge banding for production of jointed wood and wood-based products."
+    },
+    {
+      "skillId": "e45eb504-e0f1-493f-a617-d85f4cc7b201",
+      "detail": "Assemble components or sub-assemblies of furniture."
+    },
+    {
+      "skillId": "2acb6ff6-cb84-4b6c-952a-57abc48f8e0f",
+      "detail": "Inspect, strip, and sand material surfaces."
+    },
+    {
+      "skillId": "3663f781-52dc-47e7-81de-3bba685faf92",
+      "detail": "Apply rectification, repair or rework techniques."
+    },
+    {
+      "skillId": "04f50dba-0a1c-43d0-8d69-b3d1a76d840d",
+      "detail": "Follow quality assurance processes."
+    },
+    {
+      "skillId": "27577bfc-dda6-4ee6-a708-064b6c4d2b31",
+      "detail": "Pack, store and handle components and sub-assemblies."
+    },
+    {
+      "skillId": "b5457365-a682-4496-8494-0d2d20e12e04",
+      "detail": "Record wood machining activity information - paper based or electronic."
+    },
+    {
+      "skillId": "0ce4e994-0ec3-4ff9-8826-a7015cce4060",
+      "detail": "Apply basic continuous improvement techniques. For example, lean manufacturing, six sigma, 5S, and KAIZEN."
+    },
+    {
+      "skillId": "915927aa-9fe2-490e-9048-31df04a0eb90",
+      "detail": "Apply team working principles."
+    },
+    {
+      "skillId": "86822802-6433-4814-a1c1-b84c49505e0b",
+      "detail": "Apply escalation procedures in relation to faults or issues."
+    },
+    {
+      "skillId": "3560b7bb-a366-4127-a5b9-133363b1ca1f",
+      "detail": "Follow equity, diversity and inclusion rules."
+    },
+    {
+      "skillId": "b80e2c78-f154-4508-9b2c-68ec383e36b2",
+      "detail": "Communicate verbally with colleagues and supervisors."
+    },
+    {
+      "skillId": "30e96597-3034-4bf7-acbe-310270ba6cb8",
+      "detail": "Communicate in writing with colleagues and supervisors using industry terminology electronically or paper based."
+    },
+    {
+      "skillId": "21fc8537-faaf-4187-b6fa-6906e43e797f",
+      "detail": "Use information technology and digital systems. Comply with GDPR and cyber security regulations and policies."
+    },
+    {
+      "skillId": "40944e71-3954-4d24-b4b9-3e4d7d9189f7",
+      "detail": "Undertake and record learning and development activities."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2024-12-05T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2025-02-19T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0683",
+  "tbMainContact": "lisa@achievepartners.co.uk",
+  "involvedEmployers": "Benbow Group, BSW Group, BSW Timber, CTS Joinery, Ercol, JT Ward Joinery, Rolls-Royce Motor Cars, SB Joinery, Stairways Group, Tekne, Tetrad",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Cnc operator",
+    "Engineering woodworker",
+    "Furniture cnc operative",
+    "Furniture machinist",
+    "Machine operator",
+    "Saw doctor",
+    "Sawmill operative",
+    "Sawmiller",
+    "Sawyer",
+    "Timber machinist",
+    "Wood processing machinist"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing and process operative or technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
+  "createdDate": "2025-01-09T10:40:39 +00:00",
+  "lastUpdated": "2025-04-17T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2025-02-19T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0976",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "6365ba46-f0b3-4de9-8b9c-4eecca58c96c",
+      "dutyDetail": "Receive, read and interpret job specifications. For example, drawings, and technical information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "851404ea-9482-4b50-95f3-609ed371098a",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "28697169-c774-4451-973d-4f8ead2c3560"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cd104455-11fa-4cf1-8d70-150ee578c863",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "b80e2c78-f154-4508-9b2c-68ec383e36b2",
+        "30e96597-3034-4bf7-acbe-310270ba6cb8",
+        "21fc8537-faaf-4187-b6fa-6906e43e797f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f1c1c29f-bf02-4dd0-91e6-d3d2b616480d",
+      "dutyDetail": "Maintain the work area for health, safety, and environmental compliance before, during, and after the wood machining activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "ec29b49e-9618-4a4e-8cab-8775bbb04e3c",
+        "d0886fe5-00b2-4283-9fea-86185c3555fe",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "a7c06bd1-d10f-42ab-9156-2726dd85499a",
+        "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "0520c357-3640-4ea0-80d8-7a5c94501b52",
+        "11baa570-6fad-4c73-8531-7ed2eec2da6b",
+        "7b2f006e-aee1-47b3-b5bb-97ab6ee64ebb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "1838f9ef-1712-4fb8-805d-cfea67a268cd",
+        "892d36c3-8516-470d-91e2-f82d5b311d3d",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "4306d6f7-6c44-4548-b5a3-20afbedd2629",
+        "a1fd3e1d-f07d-479d-ab2d-ab46111e87c1",
+        "9ea80123-f8a1-4fb8-8262-ba8aead4e0f1",
+        "eccbba0b-a1ff-4faf-9441-f46ca8c0ac34",
+        "2acb6ff6-cb84-4b6c-952a-57abc48f8e0f",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b",
+        "3560b7bb-a366-4127-a5b9-133363b1ca1f",
+        "b80e2c78-f154-4508-9b2c-68ec383e36b2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68f420e6-b042-4633-a783-f1327967b641",
+      "dutyDetail": "Plan work and resources to complete wood machining activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "851404ea-9482-4b50-95f3-609ed371098a",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "d0886fe5-00b2-4283-9fea-86185c3555fe",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "11baa570-6fad-4c73-8531-7ed2eec2da6b",
+        "7b2f006e-aee1-47b3-b5bb-97ab6ee64ebb",
+        "3e024786-19bc-4cfb-993c-262b8dc24a37"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cd104455-11fa-4cf1-8d70-150ee578c863",
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "892d36c3-8516-470d-91e2-f82d5b311d3d",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "78fe8652-63a3-4c03-a7a1-0f07d3f6c204",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b",
+        "3560b7bb-a366-4127-a5b9-133363b1ca1f",
+        "b80e2c78-f154-4508-9b2c-68ec383e36b2",
+        "30e96597-3034-4bf7-acbe-310270ba6cb8",
+        "21fc8537-faaf-4187-b6fa-6906e43e797f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3fdfb283-d720-4f21-819d-1f68ae76af61",
+      "dutyDetail": "Organise availability and condition of machinery, tools, wood machining tooling, equipment and materials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "851404ea-9482-4b50-95f3-609ed371098a",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "11baa570-6fad-4c73-8531-7ed2eec2da6b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "892d36c3-8516-470d-91e2-f82d5b311d3d",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "4306d6f7-6c44-4548-b5a3-20afbedd2629",
+        "78fe8652-63a3-4c03-a7a1-0f07d3f6c204",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b",
+        "30e96597-3034-4bf7-acbe-310270ba6cb8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68cc72f4-b226-4b4d-b367-ff12e7a27bef",
+      "dutyDetail": "Perform first line maintenance tasks on wood machinery, tools and equipment. For example, cleaning, lubricating, sharpening or replacing blades, tool calibration checks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "89c9b95f-dac9-4bd4-badd-633e84e8bfd7",
+        "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "70299e08-af3e-452e-b2c7-a978e5b4ae08"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "a1fd3e1d-f07d-479d-ab2d-ab46111e87c1",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b706e26d-ee81-4d43-823c-6311cad2dcf2",
+      "dutyDetail": "Prepare, set up and operate conventional machinery or computer numerically controlled (CNC) wood machinery including tooling.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "851404ea-9482-4b50-95f3-609ed371098a",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "ec29b49e-9618-4a4e-8cab-8775bbb04e3c",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "89c9b95f-dac9-4bd4-badd-633e84e8bfd7",
+        "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "9c7af994-9266-455d-8bea-ef6e92e8e52f",
+        "5ffed374-0191-498f-911b-ef640edac204"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "eccbba0b-a1ff-4faf-9441-f46ca8c0ac34",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4310f9d7-c5f0-43b5-be01-ae6c001b52c0",
+      "dutyDetail": "Set up and configure jigs and templates for production of wood and composite components. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "851404ea-9482-4b50-95f3-609ed371098a",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "89c9b95f-dac9-4bd4-badd-633e84e8bfd7",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "9c7af994-9266-455d-8bea-ef6e92e8e52f",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "0520c357-3640-4ea0-80d8-7a5c94501b52",
+        "5ffed374-0191-498f-911b-ef640edac204"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "a549c850-d53f-4c0f-afa6-297b5be55efd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "00f5355c-21d4-4a80-908c-3ae4ddac0950",
+      "dutyDetail": "Manufacture components of furniture using machinery, tools, equipment and techniques. For example, cutting, shaping, planing, profiling, boring, edge banding, jointing wood products, using saws, chisels, surface planes, power tools and woodworking machinery.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "751dd77d-a2ea-41cb-ab67-822dd7bd8fce",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "f7d9fa5e-70a9-48aa-af29-76cdd7cebac1",
+        "5ffed374-0191-498f-911b-ef640edac204"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "4ecec1a2-dcb1-4325-9010-7fbb0439190d",
+        "c7141c2e-314e-4dfe-8091-35818575a6d6",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8256cb3c-ee15-44fd-8952-56fb338503b3",
+      "dutyDetail": "Prepare and assemble components and materials for job completion. For example, wood, timber, manmade composite materials including plywood, medium density fibreboard (MDF) and melamine faced chipboard (MFC)",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "ec29b49e-9618-4a4e-8cab-8775bbb04e3c",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "f7d9fa5e-70a9-48aa-af29-76cdd7cebac1",
+        "5ffed374-0191-498f-911b-ef640edac204",
+        "19c71825-ba49-4621-b9d7-f7541040c778"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "9ea80123-f8a1-4fb8-8262-ba8aead4e0f1",
+        "e45eb504-e0f1-493f-a617-d85f4cc7b201",
+        "2acb6ff6-cb84-4b6c-952a-57abc48f8e0f",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d59cc464-3941-4f59-b7d5-a98d31d59f6d",
+      "dutyDetail": "Prepare materials prior to assembly and post-assembly. For example, use sanders to smooth and finish wood products. Identify, and report or resolve issues with materials. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "ec29b49e-9618-4a4e-8cab-8775bbb04e3c",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "b9e09ee2-ebe8-4d1f-a612-e6c73656d609",
+        "19c71825-ba49-4621-b9d7-f7541040c778"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "e45eb504-e0f1-493f-a617-d85f4cc7b201",
+        "2acb6ff6-cb84-4b6c-952a-57abc48f8e0f",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f0baed61-643f-44ba-b648-9b48cc696668",
+      "dutyDetail": "Complete rectification, repair or rework on machined items or components where necessary. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "46785bf6-a68f-4a52-9514-5e510b81f3b0",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "71ae0858-6518-491a-876a-3ee2ae34f7be",
+        "ea30b4b8-611e-41ff-b73c-8a68b7d06ca4",
+        "28697169-c774-4451-973d-4f8ead2c3560",
+        "19c71825-ba49-4621-b9d7-f7541040c778",
+        "a2c8b26a-8860-4eff-b0ff-8b3e1a1bdb3a",
+        "c64b39b0-b951-4efa-8f4d-15c7e0cc33e8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "228e3d2b-0123-4d68-b008-bed0c2d7d5bc",
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "2acb6ff6-cb84-4b6c-952a-57abc48f8e0f",
+        "3663f781-52dc-47e7-81de-3bba685faf92",
+        "04f50dba-0a1c-43d0-8d69-b3d1a76d840d",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b802a64-10c2-4ecf-8cd1-0f07a654a771",
+      "dutyDetail": "Safely remove and inspect components from machinery. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "c64b39b0-b951-4efa-8f4d-15c7e0cc33e8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "04f50dba-0a1c-43d0-8d69-b3d1a76d840d",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3caaca5c-ec0e-44ff-a07c-6850ad83fd2a",
+      "dutyDetail": "Pack and store finished assemblies and conduct quality assurance checks. Rectify or report issues.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "87aab16d-906f-4cf7-8e43-444c1419c14f"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "a7c06bd1-d10f-42ab-9156-2726dd85499a",
+        "2498d42e-79a7-44bf-94eb-6b36a351ae4b",
+        "c64b39b0-b951-4efa-8f4d-15c7e0cc33e8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "43c4dc40-2bc8-4877-a99e-9fc47ac1e77a",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "04f50dba-0a1c-43d0-8d69-b3d1a76d840d",
+        "27577bfc-dda6-4ee6-a708-064b6c4d2b31",
+        "915927aa-9fe2-490e-9048-31df04a0eb90"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "18d58e1f-65ed-4bf1-83a8-80c5823a22a9",
+      "dutyDetail": "Complete documentation relating to the wood machining process. For example, job sheets, work to do lists, production records.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5101c798-908c-4166-86e3-583a9aece2fb"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "2498d42e-79a7-44bf-94eb-6b36a351ae4b",
+        "c64b39b0-b951-4efa-8f4d-15c7e0cc33e8",
+        "4287a47c-b0d2-4c52-9483-1d215762a006",
+        "3e024786-19bc-4cfb-993c-262b8dc24a37",
+        "1ae17217-1977-43d8-a20e-daccafeb214b",
+        "35934b1a-7458-4674-ade2-5f3582bed07e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "04f50dba-0a1c-43d0-8d69-b3d1a76d840d",
+        "b5457365-a682-4496-8494-0d2d20e12e04",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b",
+        "b80e2c78-f154-4508-9b2c-68ec383e36b2",
+        "30e96597-3034-4bf7-acbe-310270ba6cb8",
+        "21fc8537-faaf-4187-b6fa-6906e43e797f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ae366388-f960-4d84-a2e0-7e448e88d865",
+      "dutyDetail": "Support continuous improvement and problem solving activities. For example, identify issues to address business needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "1cacc80e-5837-40a6-8d31-e8e2e03cbf2e",
+        "87aab16d-906f-4cf7-8e43-444c1419c14f",
+        "7ac7bdf1-cc97-4521-93d2-6fcfc1f8f7c8",
+        "ba3138b0-390d-49de-bdc8-5398dcc97152",
+        "5dd60ad1-b70f-4048-94e7-7e7119553990"
+      ],
+      "mappedKnowledge": [
+        "40f58181-21b1-44c0-a9d0-09fec113d841",
+        "581d26c2-2a2d-4cb6-bc29-fc4e66788bbb",
+        "0f5135e4-637f-474a-9488-96fb6e93cd37",
+        "2498d42e-79a7-44bf-94eb-6b36a351ae4b",
+        "4287a47c-b0d2-4c52-9483-1d215762a006",
+        "69099d33-ee4c-4c48-878a-9b6e1460c536",
+        "11baa570-6fad-4c73-8531-7ed2eec2da6b",
+        "7b2f006e-aee1-47b3-b5bb-97ab6ee64ebb",
+        "3e024786-19bc-4cfb-993c-262b8dc24a37"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2b52d48a-df68-4d2c-9e90-143efd70b5a8",
+        "3a0953f1-2638-4cc9-9d1b-25346ebfed01",
+        "0ce4e994-0ec3-4ff9-8826-a7015cce4060",
+        "915927aa-9fe2-490e-9048-31df04a0eb90",
+        "86822802-6433-4814-a1c1-b84c49505e0b",
+        "3560b7bb-a366-4127-a5b9-133363b1ca1f",
+        "b80e2c78-f154-4508-9b2c-68ec383e36b2",
+        "30e96597-3034-4bf7-acbe-310270ba6cb8",
+        "40944e71-3954-4d24-b4b9-3e4d7d9189f7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-04-17T00:00:00"
+}
