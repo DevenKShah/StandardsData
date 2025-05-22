@@ -1,0 +1,853 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 38,
+  "referenceNumber": "ST0013",
+  "learningAimClassCode": "",
+  "title": "High integrity software engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0013",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "Occupational standard and end-point assessment plan revised.",
+  "changedDate": "2025-01-13T00:00:00",
+  "earliestStartDate": "2025-01-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Developing software to support safety critical industries.",
+  "level": 6,
+  "ePALength": 9,
+  "typicalDuration": 48,
+  "maxFunding": 27000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "modelling",
+    "simulation",
+    "systems",
+    "code",
+    "coding",
+    "degree"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved academic qualifications of 96* UCAS points or above at A-Level standard or equivalent, to include two STEM-based subjects such as Maths, Physics, ICT, Computing or Electronics, plus five GCSEs at Grade 4 and above** including Mathematics, English and Double Science or equivalent qualification. (*Equal to 240 UCAS points prior to 2017, **Equal to Grades C and above).&amp;nbsp;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0013-v1-2?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;The following standard reflects employers’ requirements for the skills, knowledge and behaviours expected from someone to be competent in the job role.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Role Profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Software Engineers are predominantly involved in the discipline of Software Engineering, however, aspects of Modelling and Simulation, Human Factors and Systems Engineering disciplines are also covered as essential background for a fully rounded software engineer.&lt;/p&gt;\n&lt;p&gt;During the Concept, Assessment, Demonstration and Manufacture life cycle phases, Software Engineering is focused on influencing product architecture to accommodate modification and upgrade throughout the product lifecycle. Software is an intrinsic component of the systems used to deliver in-service support. Following the in-service date, Software Engineering delivers support, optimises and upgrades the Support System infra-structure. These are considered to be Sustainment activities.&lt;/p&gt;\n&lt;p&gt;All engineers must comply with statutory regulations and organisational safety requirements. They must be able to use and interpret engineering data and documentation such as engineering requirements, specifications, designs, code, test specifications, test scripts, code analysis (static and dynamic) tool output.&lt;/p&gt;\n&lt;p&gt;Software engineers will be expected to work both as individuals and as part of wider Engineering teams.&amp;nbsp; They will be expected to demonstrate coding ability and specify, analyse, test and modify Software Engineering artefacts across Design and Development and In-Service Operations. They will be expected to validate, test and modify the software to comply with its design and associate requirements.&lt;/p&gt;\n&lt;p&gt;The requirements are designed to offer stretch and progression. Higher Apprentices will be able to work with appropriate supervision, whilst taking progressively more responsibility for the quality and accuracy of the work they undertake. They will be proactive in finding solutions to problems and identifying areas for improving the business.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical job titles:&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Programmer, Developer, Aerospace Software Development Engineer, Aircraft Software Development Engineer and Aircraft Software Engineer&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge &amp;amp; Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Aerospace Software Development Engineers are able to demonstrate:&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;understanding of the fundamentals of&amp;nbsp;Software Engineering Practice, apprentices will be able to describe all of the phases of the software Lifecycle and the interfaces between each phase&lt;/li&gt;\n&lt;li&gt;understanding of configuration management and software build processes, apprentices will understand the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\n&lt;li&gt;understanding of analytical methods (engineering mathematics), apprentices will understand the use of mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\n&lt;li&gt;understanding of “Modelling &amp;amp; Simulation” software, apprentices will understand&amp;nbsp; how to develop software more quickly and reliably utilising &amp;nbsp;“Modelling” toolsets&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;complying with statutory, quality, organisational, environmental and health and safety regulations, apprentices will seek opportunities to show compliance with appropriate standards&lt;/li&gt;\n&lt;li&gt;reading and interpreting Software engineering data, apprentices will demonstrate an understanding of code, design and requirements documentation&lt;/li&gt;\n&lt;li&gt;applying configuration management and software build processes, apprentices will gain experience of the methods &amp;amp; tools used to control the change and modification of software-related products&lt;/li&gt;\n&lt;li&gt;developing and applying Algorithms, including specification, design and implementation, apprentices will construct algorithms required to implement required functionality in software&lt;/li&gt;\n&lt;li&gt;applying appropriate Engineering Operations and Toolsets, apprentices will use the standard methods adopted for software production and the toolsets deployed to support efficient development&lt;/li&gt;\n&lt;li&gt;applying analytical methods (engineering mathematics), apprentices will use mathematics and associated toolsets to reason about properties of software such as safety or performance&lt;/li&gt;\n&lt;li&gt;applying Systems Engineering principles, apprentices will learn the criteria for making architectural decisions in order to achieve an optimal solution over potentially&amp;nbsp; conflicting system objectives&lt;/li&gt;\n&lt;li&gt;using “Modelling &amp;amp; Simulation” software, apprentices will learn how to develop software more quickly and reliably utilising&amp;nbsp; “Modelling” toolsets&lt;/li&gt;\n&lt;li&gt;applying business improvement techniques ensuring optimisation of processes, resources and budget, apprentices will use systematic methods to identify and eliminate waste and inefficiencies in their software production activities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The required behaviours are&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;1. Knowledge and understanding&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Commitment to continuing personal development, refreshing and expanding Engineering knowledge through a variety of methods.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;2. Design and development of processes, systems, services and products&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Contributing to the continuing development of Engineering within their domain&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;3. Responsibility, management or leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Taking personal responsibility for their actions, Managing projects, including resource management within their remit.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;4. Communication and interpersonal skills&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Be able to demonstrate a range of communication styles and methods. Understanding the importance of networks within and across functions.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;5. Professional commitment&lt;/strong&gt;&lt;/p&gt;\n&lt;p&gt;Demonstrating a personal and professional commitment to society, their profession and the environment, adopting a set of values and behaviours that will maintain and enhance the reputation of the profession.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved academic qualifications of 96* UCAS points or above at A-Level standard or equivalent, to include two STEM-based subjects such as Maths, Physics, ICT, Computing, Electronics..&amp;nbsp; Plus Five GCSEs at Grade 4 and above** including Mathematics, English and Double Science or equivalent qualification. Apprentices without Level 2 Maths and English must achieve this prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&amp;nbsp; (*Equal to 240 UCAS points prior to 2017,**Equal to Grades C and above).&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Typical Duration of Apprenticeship &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically 48 months - timescales may vary depending on occupational role and/or prior relevant qualifications/experience and Assessment of Prior Learning and Knowledge (APL/K) opportunities.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Mandatory Qualifications &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Level 4 Diploma in Engineering and Advanced Manufacturing (Development Competence)&lt;/li&gt;\n&lt;li&gt;Level 6 Bachelor Honours Degree (BEng or BSc) Stipulated by the employer and accredited by an Engineering Council licenced Professional Engineering Institution&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;All of the qualification requirements in the foundation and development phases are mandatory outcomes for the completion and final certification of the Apprenticeship Standard. Each qualification has a core and options approach and employers will select the most applicable pathway and unit options to meet their organisational requirements.&lt;/p&gt;\n&lt;p&gt;There will be an end-point assessment during the final phase of the Apprenticeship where the apprentice will need to demonstrate to the employer how they have achieved full occupational competence against, skills, knowledge and behaviours, set out in the Standard&amp;nbsp; On successful completion of the end-point assessment and employer endorsement phase (final sign off) apprentices will be then be put forward to be awarded their Apprenticeship completion certificate.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Recognition&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship Standard aligns with the current edition of the UK Standard for Professional Engineering Competence (UK-SPEC) at Incorporated Engineering (IEng) level. The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for IEng and reaches the agreed level of professional competence as defined in the Assessment Plan.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level and Review &lt;/strong&gt;&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship Standard is at Level 6 and will be reviewed as a minimum every three years.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is predominately found in safety critical industries where software failure may cause serious damage or danger to life including aerospace, nuclear, automotive and process control sectors. The occupation can be found in large, medium and small employers across the world. High integrity software engineers may work on specific safety critical software products. They may also work on bespoke tooling and associated integrated environments and infrastructure. Employment fields include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;aerospace manufacturers&lt;/li&gt;\n&lt;li&gt;nuclear reactor controls manufacturers&lt;/li&gt;\n&lt;li&gt;automotive safety critical software systems&lt;/li&gt;\n&lt;li&gt;industrial process control systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The broad purpose of the occupation is to design, develop and test, real-time safety-critical software. They develop embedded high integrity systems software and stand-alone applications used in sector specific support. They develop and test tools that support the creation of high integrity software. They support customers and suppliers by maintaining and improving software utilities and tools. They develop processes for the development and test of products. They review performance, design, test and use project management and continuous improvement techniques. They proactively find solutions to problems and identify areas for business improvement.&lt;/p&gt;\n&lt;p&gt;High integrity software engineers are typically office-based. They may be required to work in simulation rig testing facilities, or in operational environments.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation may interact with customers. They may also interact with system operators, other specialist engineers, technicians, partners and suppliers.&amp;nbsp; They also interact with colleagues across other areas in their organisation. For example, manufacturing, project management, quality assurance, finance, human resources, procurement and safety.&lt;/p&gt;\n&lt;p&gt;They typically report to senior engineers, senior specialists or chief engineers depending on the organisation.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation is responsible for working ethically and professionally. They may work to regulatory requirements for sector specific industries. They must meet statutory and company regulations. For example, health and safety, environment and sustainability, cost, quality, accuracy and efficiency. High integrity software engineers work individually and as part of a team. They are responsible for the safety and security of the product they create. Depending on the size and structure of the organisation they may manage software technicians or teams of engineers.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+      "detail": "Mathematics: the mathematical techniques and analytical methods required to model software and hardware systems: algebra, calculus, geometry, Boolean Logic, trigonometry and statistics."
+    },
+    {
+      "knowledgeId": "1712b961-95c5-4b05-aaf9-be548cac559d",
+      "detail": "Software requirements development: the requirement lifecycle from concept to release; gathering, specifications, validation. "
+    },
+    {
+      "knowledgeId": "ca6a141c-d991-4c6f-a8ba-1ec57b59b3dc",
+      "detail": "Software requirements engineering:  maintenance, operating environment, identification of software security, modelling, human computer interaction, and identification of system safety. "
+    },
+    {
+      "knowledgeId": "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+      "detail": "Software architecture: operating system concepts and architectural considerations."
+    },
+    {
+      "knowledgeId": "383cb1ee-5ff9-4b33-81e3-9bebf6d1f1bb",
+      "detail": "Software design development: structures, methodologies, techniques and validation.  "
+    },
+    {
+      "knowledgeId": "368a2476-4fff-4f22-980e-d1b81bc24f9c",
+      "detail": "Software design engineering: software functions and interconnection, flexibility, coupling and cohesion, readability, maintainability, testability, safety, security and design verification."
+    },
+    {
+      "knowledgeId": "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+      "detail": "Modelling and simulation: creation and simulation of design models."
+    },
+    {
+      "knowledgeId": "ce3ec270-8e7e-4415-b048-3b163d5cc330",
+      "detail": "Software implementation development: creation of executable code. "
+    },
+    {
+      "knowledgeId": "a1afe7e5-2785-4e56-8ae2-3eff527792ad",
+      "detail": "Software implementation engineering: underlying concepts of computational thinking, abstraction, representation and modelling, language specifications including assembler, analysis, and inspection methodologies."
+    },
+    {
+      "knowledgeId": "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+      "detail": "Testing the software solution: test environments; debugging and profiling facilities."
+    },
+    {
+      "knowledgeId": "3302c4da-6787-419b-8143-725983ecefcc",
+      "detail": "Test methodologies: methods used to test software; criticality."
+    },
+    {
+      "knowledgeId": "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+      "detail": "Configuration control: configuration management methods, software build processes, tools and change control."
+    },
+    {
+      "knowledgeId": "7746900d-a248-4da2-94fa-d550a6603a0d",
+      "detail": "Software development environment: tool configurations, library functions, operating environment, compiler process and options, scripting and hardware or software integration."
+    },
+    {
+      "knowledgeId": "795298cd-3b9e-4555-9ede-925b77d48a01",
+      "detail": "System security: statutory, regulatory, organisational and certification principles in a software product."
+    },
+    {
+      "knowledgeId": "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+      "detail": "Principles of quality: process conformations and assurance in a high integrity software engineering environment."
+    },
+    {
+      "knowledgeId": "a8845039-d056-422b-af33-98d83c7f68d1",
+      "detail": "Continuous improvement principles and techniques: Plan-do-check-act (PDCA), Lean, 6 Sigma, and Statistical Process Control (SPC). Lean manufacturing tools. Process mapping."
+    },
+    {
+      "knowledgeId": "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+      "detail": "Safety requirements: statutory, regulatory, organisational and certification principles (software safety integrity levels) in a high integrity software environment."
+    },
+    {
+      "knowledgeId": "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+      "detail": "Teamwork: conflict management, people development techniques, performance management, diversity and inclusivity."
+    },
+    {
+      "knowledgeId": "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+      "detail": "Information technology: general data protection regulation (GDPR), digital tools for presentation of data, digital communication and collaboration packages."
+    },
+    {
+      "knowledgeId": "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+      "detail": "Communication techniques: verbal, written and presentations."
+    },
+    {
+      "knowledgeId": "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+      "detail": "Time management techniques."
+    },
+    {
+      "knowledgeId": "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+      "detail": "Environment and sustainability: role of software design and implementation in the end-to-end value chain for sustainable products; optimising energy and resource consumption; relationship between obsolescence and sustainability. "
+    },
+    {
+      "knowledgeId": "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+      "detail": "Project management: project planning, management of risks, commercial awareness, financial management and resourcing."
+    },
+    {
+      "knowledgeId": "a6c93314-a41b-4524-873f-9813ce5e4636",
+      "detail": "Report writing techniques and methods. IT applications for technical reporting."
+    },
+    {
+      "knowledgeId": "6306865c-1b98-49d1-8af8-b23299595722",
+      "detail": "Problem solving tools and techniques: lateral thinking, root cause analysis (RCA)."
+    },
+    {
+      "knowledgeId": "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
+      "detail": "Software development techniques: Waterfall, Agile, and Hybrid."
+    },
+    {
+      "knowledgeId": "d0fa72e0-b1fa-4534-89bd-682988ae51ba",
+      "detail": "Software integration techniques."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f6568743-b301-431b-b9f5-bb1ff959fbd4",
+      "detail": "Lead by example and promote health and safety."
+    },
+    {
+      "behaviourId": "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+      "detail": "Lead by example and promote environment, ethical and sustainable practices."
+    },
+    {
+      "behaviourId": "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+      "detail": "Adapt to challenging or changing situations and be resilient to the effects."
+    },
+    {
+      "behaviourId": "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+      "detail": "Collaborate and promote teamwork across disciplines."
+    },
+    {
+      "behaviourId": "a3c0cecc-490f-4f2b-883d-a49ef8e48889",
+      "detail": "Lead by example to promote accessibility, diversity and inclusion."
+    },
+    {
+      "behaviourId": "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28",
+      "detail": "Commits to their own and others' professional development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+      "detail": "Apply analytical methods; use mathematics and associated toolsets to characterise properties and behaviour of software."
+    },
+    {
+      "skillId": "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+      "detail": "Read, interpret and use software engineering data. For example, requirements, design, code, test and release documentation."
+    },
+    {
+      "skillId": "9c392b67-1488-4f1d-97e6-fed78b8e65e1",
+      "detail": "Develop and apply algorithms. For example, produce specification, design and implementation for algorithms."
+    },
+    {
+      "skillId": "bf42bd44-ee3f-4bca-8e51-d4a2ea551d8e",
+      "detail": "Select the design approach and tools for a given software engineering application and environment."
+    },
+    {
+      "skillId": "4e40b01c-a586-4f29-ac06-f8422a7fd2c3",
+      "detail": "Apply model-based techniques. For example, using simulations to verify the compliance to the parent requirements."
+    },
+    {
+      "skillId": "9b4e6b68-dd25-42f7-9456-8d7ff8fc2420",
+      "detail": "Produce system and software designs. For example, produce state machine diagrams. "
+    },
+    {
+      "skillId": "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+      "detail": "Setup and configure tools and the environment.  For example, verification tool to target hardware requirements, management tool to design tool, and configuration tool to development tools.  "
+    },
+    {
+      "skillId": "3d4b774b-c646-4c94-8d39-699c442449a4",
+      "detail": "Implement functional software solutions.  For example, developing software solutions that incorporate new, legacy or commercial components."
+    },
+    {
+      "skillId": "89c04ef2-feb8-4c16-bed2-65c0e7b188f7",
+      "detail": "Develop and execute high integrity software test plans. "
+    },
+    {
+      "skillId": "68815d18-60a0-45d9-96d8-8b6398ad7d04",
+      "detail": "Analyse and review high integrity software outputs. For example, design reviews, code walkthroughs, test script reviews."
+    },
+    {
+      "skillId": "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+      "detail": "Use problem solving tools and techniques. For example: lateral thinking, root cause analysis (RCA), Kaizen, Lean manufacturing and Kanban. "
+    },
+    {
+      "skillId": "90900e5f-1064-4d89-ba96-85936c3ea90b",
+      "detail": "Apply configuration management and software build processes."
+    },
+    {
+      "skillId": "e252b8ee-f433-430e-8244-2a8a6a237517",
+      "detail": "Communicate with internal and external stakeholders; verbal and written."
+    },
+    {
+      "skillId": "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+      "detail": "Write reports. For example, data, technical information, drawings, outcomes and recommendations."
+    },
+    {
+      "skillId": "1410252c-6a3f-47c7-ba42-63bebd224791",
+      "detail": "Present information. For example, presenting project progress and key performance indicators (KPI's) such as cost, quality, time, risk and opportunities. Presenting technical results into design reviews."
+    },
+    {
+      "skillId": "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+      "detail": "Use information technology: digital tools for presentation of data, digital communication and collaboration packages."
+    },
+    {
+      "skillId": "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+      "detail": "Use continuous improvement techniques and make recommendations. For example, Kaizen, Lean manufacturing and Kanban."
+    },
+    {
+      "skillId": "98853983-675a-4851-8478-51a8ebcb95aa",
+      "detail": "Use project management techniques. For example, in estimating, risk, cost and budget control, time management and resource management."
+    },
+    {
+      "skillId": "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+      "detail": "Identify and comply with legal and statutory requirements. For example: cyber security, software certification requirements, data protection, high integrity software safety, environmental protection and sustainability."
+    },
+    {
+      "skillId": "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+      "detail": "Plan and manage own time."
+    },
+    {
+      "skillId": "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+      "detail": "Apply and uphold ethical principles."
+    },
+    {
+      "skillId": "822eec59-d480-48df-9be6-9171ee5bd620",
+      "detail": "Apply team working principles."
+    },
+    {
+      "skillId": "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+      "detail": "Apply software development techniques. For example, Waterfall, Agile, or Hybrid."
+    },
+    {
+      "skillId": "f6bea9c7-09c2-4dd9-b788-235b2199750b",
+      "detail": "Apply software integration techniques. For example, networks, hardware or system integration."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2015-09-03T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0823",
+  "tbMainContact": "jon.milner@baesystems.com",
+  "involvedEmployers": "BAE Systems, Defence Science and Technology Laboratory (DSTL), Leonardo, Rolls Royce plc",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Aerospace software designer",
+    "Aerospace software engineer",
+    "Embedded software engineer",
+    "High integrity software engineer",
+    "Safety embedded software engineer",
+    "Senior safety engineer",
+    "Software engineer",
+    "Systems engineer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
+  "createdDate": "2025-01-13T16:22:56 +00:00",
+  "lastUpdated": "2025-01-13T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-09-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0013",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0013-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0013-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "59c76c60-6388-49d5-a96b-12271581a157",
+      "title": "bachelor honours degree in software engineering (BEng), computer science (BSc), or other degree that directly aligns to the KSBs in the degree-apprenticeship",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "None",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "The Royal Aeronautical Society",
+      "level": "Incorporated Engineer (IEng). This degree-apprenticeship standard aligns with the Engineering Council’s learning outcomes, indicated in ‘Accreditation of Higher Education Programmes’ (AHEP) and the competence framework detailed in UK-SPEC for Incorporated Engineer (IEng). The experience gained and responsibility held by the apprentice on completion of the degree-apprenticeship will either wholly or partially satisfy the requirements for registration at this level.",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "The Chartered Institute for IT (BCS)",
+      "level": "Registration for IT Technicians (RITTech). The experience gained and responsibility held by the apprentice on completion of the degree-apprenticeship will either wholly or partially satisfy the requirements for registration at this level.",
+      "isPartial": "full",
+      "partialFreeText": "This apprenticeship standard aligns with the Engineering Council’s learning outcomes, indicated in ‘Accreditation of Higher Education Programmes’ (AHEP) and the competence framework detailed in UK-SPEC for Incorporated Engineer (IEng). The experience gained and responsibility held by the apprentice on completion of the apprenticeship will either wholly or partially satisfy the requirements for registration at this level."
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "84e9e6df-2ecf-43c6-9f7d-224e2fa67e83",
+      "dutyDetail": "Define and maintain the engineering plan detailing the implementation of software engineering solutions. In collaboration with multidisciplinary teams and organisational stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f6568743-b301-431b-b9f5-bb1ff959fbd4",
+        "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "a3c0cecc-490f-4f2b-883d-a49ef8e48889",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "1712b961-95c5-4b05-aaf9-be548cac559d",
+        "ca6a141c-d991-4c6f-a8ba-1ec57b59b3dc",
+        "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+        "383cb1ee-5ff9-4b33-81e3-9bebf6d1f1bb",
+        "368a2476-4fff-4f22-980e-d1b81bc24f9c",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "ce3ec270-8e7e-4415-b048-3b163d5cc330",
+        "a1afe7e5-2785-4e56-8ae2-3eff527792ad",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "3302c4da-6787-419b-8143-725983ecefcc",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "a6c93314-a41b-4524-873f-9813ce5e4636"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "98853983-675a-4851-8478-51a8ebcb95aa",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+        "822eec59-d480-48df-9be6-9171ee5bd620"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ec16b867-03cb-4d77-a5f3-0118e72ca819",
+      "dutyDetail": "Identify, evaluate, derive, analyse and maintain software requirements for customer and projects.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f6568743-b301-431b-b9f5-bb1ff959fbd4",
+        "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "1712b961-95c5-4b05-aaf9-be548cac559d",
+        "ca6a141c-d991-4c6f-a8ba-1ec57b59b3dc",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+        "a6c93314-a41b-4524-873f-9813ce5e4636",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "89c04ef2-feb8-4c16-bed2-65c0e7b188f7",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+        "f6bea9c7-09c2-4dd9-b788-235b2199750b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b63a9c13-d520-429b-9c56-cb1fe4c6a0d7",
+      "dutyDetail": "Define and maintain the architecture and design of software products, tools, utilities and applications to meet project requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+        "383cb1ee-5ff9-4b33-81e3-9bebf6d1f1bb",
+        "368a2476-4fff-4f22-980e-d1b81bc24f9c",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "9c392b67-1488-4f1d-97e6-fed78b8e65e1",
+        "bf42bd44-ee3f-4bca-8e51-d4a2ea551d8e",
+        "4e40b01c-a586-4f29-ac06-f8422a7fd2c3",
+        "9b4e6b68-dd25-42f7-9456-8d7ff8fc2420",
+        "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+        "822eec59-d480-48df-9be6-9171ee5bd620"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0f1ac1f5-b327-4674-84e3-f855b292c04d",
+      "dutyDetail": "Implement high integrity software design from combinations of new, modified and existing components to meet project requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "ce3ec270-8e7e-4415-b048-3b163d5cc330",
+        "a1afe7e5-2785-4e56-8ae2-3eff527792ad",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "3302c4da-6787-419b-8143-725983ecefcc",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
+        "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "9c392b67-1488-4f1d-97e6-fed78b8e65e1",
+        "bf42bd44-ee3f-4bca-8e51-d4a2ea551d8e",
+        "4e40b01c-a586-4f29-ac06-f8422a7fd2c3",
+        "9b4e6b68-dd25-42f7-9456-8d7ff8fc2420",
+        "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+        "3d4b774b-c646-4c94-8d39-699c442449a4",
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "98853983-675a-4851-8478-51a8ebcb95aa",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+        "f6bea9c7-09c2-4dd9-b788-235b2199750b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3a74f118-e7b0-4416-b8c5-e765f2192f03",
+      "dutyDetail": "Develop, define and execute testing of high integrity software products to verify functionality and performance. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "1712b961-95c5-4b05-aaf9-be548cac559d",
+        "ca6a141c-d991-4c6f-a8ba-1ec57b59b3dc",
+        "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+        "383cb1ee-5ff9-4b33-81e3-9bebf6d1f1bb",
+        "368a2476-4fff-4f22-980e-d1b81bc24f9c",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "3302c4da-6787-419b-8143-725983ecefcc",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
+        "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+        "89c04ef2-feb8-4c16-bed2-65c0e7b188f7",
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+        "f6bea9c7-09c2-4dd9-b788-235b2199750b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "444068ec-517b-4586-abf4-8f66c60ae697",
+      "dutyDetail": "Analyse and review the high integrity software outputs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "1712b961-95c5-4b05-aaf9-be548cac559d",
+        "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+        "383cb1ee-5ff9-4b33-81e3-9bebf6d1f1bb",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "ce3ec270-8e7e-4415-b048-3b163d5cc330",
+        "3302c4da-6787-419b-8143-725983ecefcc",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b99e3ede-8c9d-4f14-b4e6-662fb2c0b9da",
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+        "68815d18-60a0-45d9-96d8-8b6398ad7d04",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "42b5306d-4913-4d7b-b151-9de58ee810ce",
+      "dutyDetail": "Undertake and complete build, configure and release of the high integrity software product.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "a6c93314-a41b-4524-873f-9813ce5e4636",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3",
+        "d0fa72e0-b1fa-4534-89bd-682988ae51ba"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "f16f1e13-1bb7-4c21-926b-e9af507f4932",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4d9bb252-48b4-44b0-b109-ccc60ded2907",
+      "dutyDetail": "Verify that software processes and procedures comply with standards throughout the life cycle. These include local, national and international regulatory, legislative, customer and company standards. For example, cyber security, development, environmental, anti-bribery and corruption. Official Secrets Act, export control, safety standards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "88ddd7ce-7745-495f-9c62-5e7ba43d3127",
+        "1712b961-95c5-4b05-aaf9-be548cac559d",
+        "9dc1e89e-618c-43b8-a525-b5d6604cb69e",
+        "368a2476-4fff-4f22-980e-d1b81bc24f9c",
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "ce3ec270-8e7e-4415-b048-3b163d5cc330",
+        "c64f1e97-b49b-4e2a-b53c-c829533fef24",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "89c04ef2-feb8-4c16-bed2-65c0e7b188f7",
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+        "f6bea9c7-09c2-4dd9-b788-235b2199750b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a76a7fc2-a7dc-4003-8580-07d889554082",
+      "dutyDetail": "Review the in-service performance of software products, processes and systems. Assess the cause of any faults or problems and propose solutions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "6306865c-1b98-49d1-8af8-b23299595722",
+        "f9c62831-7d2e-4f1a-ab3e-ded70f9f3fd3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "74f82f76-0be5-4d33-b7c2-8f0098f58243",
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "98853983-675a-4851-8478-51a8ebcb95aa",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "822eec59-d480-48df-9be6-9171ee5bd620",
+        "8ae6d475-1344-4c9b-b7d9-b796b560a7eb",
+        "f6bea9c7-09c2-4dd9-b788-235b2199750b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "306e1373-77a5-43c6-b8df-196516fa2642",
+      "dutyDetail": "Manage stakeholders by communicating project status, technical and commercial information. For example, communicate success, risks and issues to all levels of the business. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f6568743-b301-431b-b9f5-bb1ff959fbd4",
+        "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "cfa57e2d-9028-4f15-a037-f98ce3e7d468",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "b91e4fba-d589-40dd-9ef0-ad264d392e6e",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e",
+        "ccd638d6-a851-4855-a2d5-d27cef0ce7c2",
+        "2c33956d-d2dd-4902-a3e6-d1586c2d388f",
+        "bd916117-84de-4dc9-afde-1eac2a6aa8ff",
+        "06252547-af1e-4f8d-9c45-28980bd3d1ba",
+        "bb608ecc-2fed-4485-bca5-f1ff203b5dad",
+        "a6c93314-a41b-4524-873f-9813ce5e4636"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "98853983-675a-4851-8478-51a8ebcb95aa",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+        "822eec59-d480-48df-9be6-9171ee5bd620"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46bff467-3ab3-40c8-b8ce-23219f4c32e1",
+      "dutyDetail": "Define, monitor and co-ordinate the continuous improvement of software processes and methods.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f6568743-b301-431b-b9f5-bb1ff959fbd4",
+        "3831d394-c7ff-44bf-8d8c-383f99cdd5b2",
+        "dd3c11a3-b3c8-42d4-87a9-8d172c03ecd3",
+        "85647ea2-8d3f-427f-a5b6-5251f6d73c1b",
+        "a3c0cecc-490f-4f2b-883d-a49ef8e48889",
+        "34e1e9f7-e893-4841-8cbd-c8a3f19c6d28"
+      ],
+      "mappedKnowledge": [
+        "53d2a648-9cd3-4fc2-97c3-bf01a86f5c6d",
+        "7bf478a1-7190-47d5-ac36-3f467e4a2ef2",
+        "7746900d-a248-4da2-94fa-d550a6603a0d",
+        "795298cd-3b9e-4555-9ede-925b77d48a01",
+        "a8845039-d056-422b-af33-98d83c7f68d1",
+        "a8d4bda0-ea00-4393-a2aa-1aa70ad2fb9e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9bd1371b-ff3a-4b06-90a7-2e9bd2f75748",
+        "90900e5f-1064-4d89-ba96-85936c3ea90b",
+        "e252b8ee-f433-430e-8244-2a8a6a237517",
+        "3572a80e-e68d-4bf4-9fa3-ec92e338fc46",
+        "1410252c-6a3f-47c7-ba42-63bebd224791",
+        "37b03c73-ffd0-4af0-8b65-f16370814b5a",
+        "ffe141fb-d819-4c86-8fe6-e3e5b66c9145",
+        "98853983-675a-4851-8478-51a8ebcb95aa",
+        "4c69f903-635b-4e85-8db2-7180a1ace4ef",
+        "acb7ad65-7b03-4ec1-9ff1-8fe191ea1e1d",
+        "5e322aa6-8b74-4f5a-8568-34300fdf89b4",
+        "822eec59-d480-48df-9be6-9171ee5bd620"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-01-13T00:00:00"
+}
