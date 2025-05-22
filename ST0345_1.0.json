@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 491,
   "referenceNumber": "ST0345",
+  "learningAimClassCode": "",
   "title": "Digital community manager",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/491",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0345",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-04-30T00:00:00",
@@ -12,30 +16,24 @@
   "latestEndDate": null,
   "overviewOfRole": "Facilitate and instigate direct communication online between the end user or customer and the organisation.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [
-    "communicate",
-    "customer",
-    "manager",
-    "digital",
-    "online",
-    "media"
-  ],
+  "keywords": [],
   "jobRoles": [
     "Community Manager",
     "Consumer Experience Representative",
     "Games Community Manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4833/st0345_digital_community_manager_l4_ap-for-publication_301020adjustment.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4833/st0345_digital_community_manager_l4_ap-for-publication_301020adjustment.pdf",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in industries and organisations that interact and communicate with their customers and end user online, for example the videogame industry and software providers. It is a key role for such employers, from small to medium sized enterprises (SMEs) to large organisations.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to facilitate and instigate direct communication online between the end user or customer and the organisation. The customers who are communicating with the organisation are referred to as ‘the community&#39;. Digital Community Managers are the ‘public face’ online for an organisation, implementing their communication strategy to support its business objectives. This is achieved through the management of online media channels and delivering activities such as release information, updates and responding to questions from the community. Digital Community Managers deliver information and useful ideas from the community to their organisation and are the ‘eyes and ears’ of the organisation within the player community. Conversely, they provide information from their organisation back to the community. &lt;br /&gt;&lt;br /&gt;In their daily work an employee in this occupation routinely works with multiple communities on-line. Information has to be delivered in the unique tone and voice of each community. The community can run from hundreds to many thousands of customers dependent on the size of the product or game. As they talk to a considerable number of customers with each interaction they have a huge responsibility to accurately and appropriately represent the organisation, a mis-step or badly handled communication can have a detrimental impact on an organisations reputation or revenue. Digital Community Managers work within an office environment and are part of a team developing and implementing an overall communication strategy. They work autonomously but will interact with other departments in an organisation including public relations (pr),marketing, production and communication.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for analysing and interpreting data from the community. Their evaluation of customers&#39; behaviour and data is reported upwards in the organisation, feeding into future communication strategies and product direction. Digital Community Managers are responsible for reviewing their own work and understanding the impact of their communication in order to better inform future interactions. The nature of the work is autonomous as online communication is fast moving and often needs to be timely without requiring supervision. Therefore they have a high degree of responsibility and need to exercise good judgement for their own work within the parameters defined by their organisation.&lt;br /&gt;&lt;br /&gt;Digital Community Managers report to Senior Digital Community Managers, Communications Managers and Communication Directors.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in industries and organisations that interact and communicate with their customers and end user online, for example the videogame industry and software providers. It is a key role for such employers, from small to medium sized enterprises (SMEs) to large organisations.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to facilitate and instigate direct communication online between the end user or customer and the organisation. The customers who are communicating with the organisation are referred to as ‘the community&#39;. Digital Community Managers are the ‘public face’ online for an organisation, implementing their communication strategy to support its business objectives. This is achieved through the management of online media channels and delivering activities such as release information, updates and responding to questions from the community. Digital Community Managers deliver information and useful ideas from the community to their organisation and are the ‘eyes and ears’ of the organisation within the player community. Conversely, they provide information from their organisation back to the community. &lt;br&gt;&lt;br&gt;In their daily work an employee in this occupation routinely works with multiple communities on-line. Information has to be delivered in the unique tone and voice of each community. The community can run from hundreds to many thousands of customers dependent on the size of the product or game. As they talk to a considerable number of customers with each interaction they have a huge responsibility to accurately and appropriately represent the organisation, a mis-step or badly handled communication can have a detrimental impact on an organisations reputation or revenue. Digital Community Managers work within an office environment and are part of a team developing and implementing an overall communication strategy. They work autonomously but will interact with other departments in an organisation including public relations (pr),marketing, production and communication.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for analysing and interpreting data from the community. Their evaluation of customers&#39; behaviour and data is reported upwards in the organisation, feeding into future communication strategies and product direction. Digital Community Managers are responsible for reviewing their own work and understanding the impact of their communication in order to better inform future interactions. The nature of the work is autonomous as online communication is fast moving and often needs to be timely without requiring supervision. Therefore they have a high degree of responsibility and need to exercise good judgement for their own work within the parameters defined by their organisation.&lt;br&gt;&lt;br&gt;Digital Community Managers report to Senior Digital Community Managers, Communications Managers and Communication Directors.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fbbf194e-3fcc-475c-89aa-a13fe39258cb",
@@ -194,25 +192,28 @@
       "detail": "Analyse and evaluate the information created by data analytics to review the effectives of their actions"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-08-14T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0145",
   "tbMainContact": "marcia.deakin@nextgenskillsacademy.com",
   "involvedEmployers": "Ubisoft, Auroch Digital, Rebellion, Future Games of London, New Dawns, Sports Interactive, Coatsink Software, Blazing Griffin",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -221,14 +222,20 @@
     "Consumer Experience Representative",
     "Games Community Manager"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Business Services",
-  "cluster": "Digital Solutions Advanced Technician",
+  "cluster": "Digital solutions advanced technician",
+  "clusterId": "194",
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2021-01-18T09:44:05 +00:00",
-  "lastUpdated": "2019-10-03T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-community-manager-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/digital-community-manager-v1-0",
+  "lastUpdated": "2021-04-30T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-08-14T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "occupationCode": "OCC0345",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0345-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0345-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -242,7 +249,7 @@
       "mappedKnowledge": [
         "fbbf194e-3fcc-475c-89aa-a13fe39258cb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1871f9f-50c8-415b-b057-e22e42f5fa0d"
       ],
@@ -258,7 +265,7 @@
       "mappedKnowledge": [
         "8bbfd015-9f6c-4650-8b6e-1c07cecc8a90"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c"
       ],
@@ -276,7 +283,7 @@
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4",
         "92d3feda-425d-453b-aac6-a3a5489067e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "75a7adff-61b5-4ff3-826a-91c10df4faf5",
         "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b"
@@ -294,7 +301,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "673facca-555d-4799-9b34-c2d380dce86b",
         "474a4c58-774c-45c8-97a6-4bc94e4444ed"
@@ -311,7 +318,7 @@
       "mappedKnowledge": [
         "44815731-a8eb-4558-8aca-61bbb633b581"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "bb65faa5-5d06-4e2a-8e29-52cc2aa8ab3f"
       ],
@@ -330,7 +337,7 @@
         "3d892bdb-e397-4165-8666-47a0f3129fc2",
         "b0f863e3-0465-4196-a7e7-4fc72810883c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "41c4bf25-cc11-4c3e-b779-46d131dd734c"
       ],
@@ -347,7 +354,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "474a4c58-774c-45c8-97a6-4bc94e4444ed",
         "e46236c2-2617-4665-a32a-78d42a7b8bd8",
@@ -367,7 +374,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "197aa8b1-b302-4bbd-ac14-83d036bd20b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aedda3e2-0953-430b-808e-db1a0526d22b",
         "416e4fe9-77bf-4fa8-b8b6-a9f5af90ae02"
@@ -385,7 +392,7 @@
         "92d3feda-425d-453b-aac6-a3a5489067e2",
         "151533d5-2fc5-4369-a8c3-7ce7a583de84"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "76a0f3ad-bb8e-4f0d-a4be-17a7ec59424b",
         "a1f2b85b-3e9e-41e1-a568-99eb93076bd5"
@@ -407,7 +414,7 @@
         "0334eee6-9741-4d1e-95a4-e027f82643e9",
         "26572817-8db2-4b4a-a778-331dac01a54f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "85cb96ae-4577-406b-a944-3854cb062563",
         "8a062ecb-92c3-48ce-9555-8335194f5fdb"
@@ -427,7 +434,7 @@
         "756cd61e-22a5-4168-82d6-3e8eae469fd2",
         "eac458ee-e265-46cd-800e-b959bb584b30"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e46236c2-2617-4665-a32a-78d42a7b8bd8",
         "8a062ecb-92c3-48ce-9555-8335194f5fdb"
@@ -446,7 +453,7 @@
         "31cb21d2-7017-4a43-a73e-24dbe8d843ff",
         "7869e35c-14be-4c78-b86a-e8d418b5994d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f1871f9f-50c8-415b-b057-e22e42f5fa0d",
         "ebd161fe-69e0-4b0c-9b68-1c8b2059a74c"
@@ -454,5 +461,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-04-30T00:00:00"
 }
