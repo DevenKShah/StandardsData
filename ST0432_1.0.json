@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 377,
   "referenceNumber": "ST0432",
+  "learningAimClassCode": "",
   "title": "Engineering fitter",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/377",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0432",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "Approved for delivery",
-  "changedDate": "2021-03-16T00:00:00",
+  "change": "Retired",
+  "changedDate": "2022-05-31T00:00:00",
   "earliestStartDate": "2018-11-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing complex high value, low volume components or assemblies.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 42,
   "maxFunding": 21000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "engineering",
@@ -33,13 +39,12 @@
     "Controls and systems fitter"
   ],
   "entryRequirements": "&lt;p&gt;&lt;span&gt;There are no statutory/regulatory or other typical entry requirements.&lt;br /&gt;&lt;br /&gt;&lt;strong&gt;Health and Safety&#160;&lt;/strong&gt;&lt;br /&gt;All learning will need to comply with statutory regulations and organisational safety requirements in the relevant sector&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4987/st0432_engineering-fitter_l3_ap-for-publication_160321.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4987/st0432_engineering-fitter_l3_ap-for-publication_160321.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in manufacturing and process sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to produce complex high value, low volume components or assemblies in full or part, using machines, equipment or systems, to the required specification. For example, turbines, cranes, gearboxes, production lines, rigs and platforms. Fitters may typically have a mechanical, electrical, electronic, control systems, pipe fitting or instrumentation bias or operate across multiple disciplines depending on the type of assembly. To produce or re-furbish the components fitters will interpret drawings/specifications and plan their work, for example ensuring they have the right tools, equipment and resources to complete the task to the required specification. Fitters are required to check their work against quality standards and make adjustments as required based on their knowledge. On completion of the task a fitter will hand over the product and prepare the work area for the next task by checking equipment meets the standards required to operate. They may be based in a workshop or clients premises - this may include hazardous environments.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation typically interacts with line managers/supervisors; depending on the size of the employer and nature of the work they may work as part of a team of fitters or independently. They may interact with personnel in other functions for example installation and maintenance engineers, health &amp;amp; safety and quality assurance personnel, as well as internal or external customers.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for completion of their work to the required specification and deadlines, in line with quality, health &amp;amp; safety and environmental regulations and requirements, with minimum supervision.&#160;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in manufacturing and process sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to produce complex high value, low volume components or assemblies in full or part, using machines, equipment or systems, to the required specification. For example, turbines, cranes, gearboxes, production lines, rigs and platforms. Fitters may typically have a mechanical, electrical, electronic, control systems, pipe fitting or instrumentation bias or operate across multiple disciplines depending on the type of assembly. To produce or re-furbish the components fitters will interpret drawings/specifications and plan their work, for example ensuring they have the right tools, equipment and resources to complete the task to the required specification. Fitters are required to check their work against quality standards and make adjustments as required based on their knowledge. On completion of the task a fitter will hand over the product and prepare the work area for the next task by checking equipment meets the standards required to operate. They may be based in a workshop or clients premises - this may include hazardous environments.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation typically interacts with line managers/supervisors; depending on the size of the employer and nature of the work they may work as part of a team of fitters or independently. They may interact with personnel in other functions for example installation and maintenance engineers, health &amp;amp; safety and quality assurance personnel, as well as internal or external customers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for completion of their work to the required specification and deadlines, in line with quality, health &amp;amp; safety and environmental regulations and requirements, with minimum supervision.&#160;&#160;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "bba59398-ff34-4164-8fc1-0e85b405a566",
@@ -198,25 +203,28 @@
       "detail": "Operating in line with quality, health & safety and environmental policy and procedures; identifying risks and hazards and identifying control measure where applicable"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2018-11-20T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0373 ",
   "tbMainContact": "david.ambler@siemens.com",
   "involvedEmployers": "Rolls Royce, UTAS, AMTC, Silicoms, MoveTech UK, Paradigm Precision, MGTS, Heller Machine Tools, Selex, Zeiss, Siemens",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -228,38 +236,50 @@
     "Pipe fitter",
     "Controls and systems fitter"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Manufacturing, Process and Control",
-  "cluster": "Manufacturing and Process Operative/Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Manufacturing and process operative or technician",
+  "clusterId": "262",
+  "clusterDescription": "Assemble and construct complex engineering products",
   "createdDate": "2019-12-24T10:51:53 +00:00",
-  "lastUpdated": "2019-12-24T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/engineering-fitter-v1-0",
+  "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-11-20T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0432",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0432-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0432-v1-0",
   "qualifications": [
     {
       "qualificationId": "2b4f7cdd-4632-4aba-adbc-9c52c671493a",
       "title": "Advanced Manufacturing Engineering (Development Knowledge) – Awarding organisation EAL; GLH 750, this qualification ensures full knowledge to complete the fitting role.",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "0bb43505-7e9c-4760-92a5-6553eaf258eb",
       "title": "Advanced Manufacturing Engineering (Development Technical Knowledge) – Awarding organisation Pearsons; GLH 720 – this qualification ensures full knowledge to complete the fitting role.",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     },
     {
       "qualificationId": "eeaa72f2-0187-439c-bd46-a420ee3c696b",
       "title": "Diploma in Advanced Manufacturing Engineering (Development Knowledge) – Awarding organisation City and Guilds; 720 GLH, this qualification ensures full knowledge to complete the fitting role.",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "IET",
-      "level": "0",
+      "level": "Eng Tech ",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -268,7 +288,7 @@
     {
       "dutyID": "8f0e2c65-db10-4512-a9d5-36f07c1fcb6f",
       "dutyDetail": "Interpreting and following drawings/diagrams and/or specifications for required component or assembly",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -294,7 +314,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -312,7 +332,7 @@
     {
       "dutyID": "497e4090-1242-4779-a91b-dda6cd9363f6",
       "dutyDetail": "Planning work activity, including resources, equipment and tooling",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -339,7 +359,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -361,7 +381,7 @@
     {
       "dutyID": "0955ae21-5654-4a35-8e13-e8521240c7b7",
       "dutyDetail": "Producing individual components, for example keys, pipework, threading, wiring looms, interfacing parts, motors, wiring cables",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -388,7 +408,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -409,7 +429,7 @@
     {
       "dutyID": "3cc8e455-5fe4-42ae-b693-b9ad6263a7e1",
       "dutyDetail": "Re-furbishing components",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -436,7 +456,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -457,7 +477,7 @@
     {
       "dutyID": "d553f52f-29fd-4683-a947-6c315d63a02b",
       "dutyDetail": "Assembling components to produce equipment, machine or system - in full or part",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -484,7 +504,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -505,7 +525,7 @@
     {
       "dutyID": "23610133-6ed1-4b7a-a05b-cdcf2f5d455b",
       "dutyDetail": "Quality checking and adjusting components or assembly against required specification; for example testing and calibrating",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -529,7 +549,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -551,7 +571,7 @@
     {
       "dutyID": "0a935b33-41bb-4a17-a508-dc294740bfce",
       "dutyDetail": "Identifying and resolving problems with components or assembly; fault diagnosis",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -578,7 +598,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -600,7 +620,7 @@
     {
       "dutyID": "44d4dc94-005c-4505-b206-e0734d2de9d2",
       "dutyDetail": "Handing over completed components or assembly, this may include storage and commissioning",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -618,7 +638,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -639,7 +659,7 @@
     {
       "dutyID": "ba35c393-f996-4e2a-b2b5-0b7c0fd93da2",
       "dutyDetail": "Re-instating work area and equipment",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -665,7 +685,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ef5d663a-aabe-4913-a150-04213e1ffdd5",
         "9112be76-54bb-4b30-b911-b18b21ad2cdb",
@@ -678,7 +698,7 @@
     {
       "dutyID": "3e7f7df5-99f8-45e1-9823-af29fc5ecf85",
       "dutyDetail": "Contributing to continuous improvement in component production or assembly",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "2f4eceaa-cf2e-4d28-bef5-7b87afe5b0ae",
         "0603b599-0b78-4066-87c2-5ee776b6383d",
@@ -703,7 +723,7 @@
         "9e3b8532-647a-479c-a4dd-0b9d24ccb85c",
         "dcc28fa8-0c37-4956-b764-3d9dc527b207"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4c90a7e7-5813-4f16-a06c-0ca1b2faf61b",
         "90abfbe7-520c-42ad-b383-581ec0066ee9",
@@ -723,5 +743,10 @@
       "criteriaForMeasuringPerformance": "• Maintains a professional working relationship with team and stakeholders\n• Suggests improvements where appropriate to production or assembly techniques"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-31T00:00:00"
 }
