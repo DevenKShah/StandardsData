@@ -1,0 +1,735 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 340,
+  "referenceNumber": "ST0583",
+  "learningAimClassCode": "",
+  "title": "Mammography associate",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0583",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "Occupational standard, end-point assessment plan and funding band revised",
+  "changedDate": "2024-02-01T00:00:00",
+  "earliestStartDate": "2024-02-01T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Operating specialist equipment used to screen people for breast cancer.",
+  "level": 4,
+  "ePALength": 3,
+  "typicalDuration": 12,
+  "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "mammography",
+    "healthcare services",
+    "health and science",
+    "x-ray",
+    "Cancer services"
+  ],
+  "jobRoles": [
+    "Breast screening assistant practitioner",
+    "Mammography assistant practitioner",
+    "Mammography Associate"
+  ],
+  "entryRequirements": "&lt;p&gt;There are no statutory or regulatory requirements but typical entry requirements would include potential role holders being caring and compassionate, honest, conscientious and committed to delivering a high quality experience to individuals attending for mammography.&lt;/p&gt;\n&lt;p&gt;Successful mammography associates may be eligible to apply for accreditation with the Society and College of Radiographers and join the public voluntary register for Accredited Assistant Practitioners and Mammography Associates.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0583-v1-2?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.1 Medicine and dentistry",
+  "version": "1.2",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The occupation is found in a hospital or in a community setting such as in mobile breast screening units and medical centres working in a multidisciplinary team.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to work within the breast imaging workforce undertaking routine two-view mammography which are x-ray images of breasts as part of a breast screening programme. The mammography associate will also be able to undertake routine mammography on individuals with symptoms of breast disease. Mammography associates will have a good understanding of breast anatomy, physiology and pathology, including clinical signs and symptoms of breast cancer, and be able to apply knowledge of ionising radiation regulations. They will be technically skilled in operating specialised mammography equipment.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with individuals attending for mammography, their families, carers, the multidisciplinary team and breast imaging workforce. Mammography associates have excellent interpersonal skills and provide high quality care. They will work under the supervision of a radiographer.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be part of the team responsible for monitoring specialised mammography equipment function and performance and for producing mammography images of consistently high quality to meet rigorous standards.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "9ba82769-53d0-49b2-b58d-63ecc5372c78",
+      "detail": "Principles of person-centred care."
+    },
+    {
+      "knowledgeId": "bd1641d2-09c3-42fa-990e-f4b8da0526a9",
+      "detail": "Normal breast anatomy, physiology, and pathology."
+    },
+    {
+      "knowledgeId": "367d19f9-2d63-406a-8311-235cf7d63143",
+      "detail": "Types of abnormalities of the breasts that need to be observed and recorded."
+    },
+    {
+      "knowledgeId": "9bfb62e8-0834-45a1-84da-03ac408ce649",
+      "detail": "Principles of informed consent and the actions to take if consent is withdrawn."
+    },
+    {
+      "knowledgeId": "f44a809c-a750-4fa7-81a8-7c37d035865e",
+      "detail": "Effective positioning and immobilisation of individuals."
+    },
+    {
+      "knowledgeId": "2cb3172a-151b-4b02-84e0-b7d49dc3fb5c",
+      "detail": "Adapt techniques to optimise image quality."
+    },
+    {
+      "knowledgeId": "27f09d2a-92be-40b6-9279-eb3da1c6da93",
+      "detail": "The role of other imaging and treatment modalities including ultrasound (US), magnetic resonance imaging (MRI), radiotherapy, chemotherapy and immunotherapy."
+    },
+    {
+      "knowledgeId": "3eab1cb2-c3b3-4d6c-94b7-5cc2b074606b",
+      "detail": "The relationship between anatomy, pathophysiology and the imaging process."
+    },
+    {
+      "knowledgeId": "e4a0be4c-4d1b-40a0-8a6a-b2292a581684",
+      "detail": "The basic design, function and operation of mammography image acquisition and display equipment."
+    },
+    {
+      "knowledgeId": "57f3fb18-31a5-4857-9034-1a765ce004fc",
+      "detail": "Processes for recording, storing and sharing personal information securely, including the safe use of technology complying with organisational and legal requirements."
+    },
+    {
+      "knowledgeId": "2590a304-40e0-4c1f-b199-b0b4c17847ad",
+      "detail": "Relevant legal, ethical, professional, and local frameworks and protocols in the mammography context."
+    },
+    {
+      "knowledgeId": "8eda2cf8-d11b-495d-a3bb-e94c243564cf",
+      "detail": "Maintaining health and safety in the workplace. "
+    },
+    {
+      "knowledgeId": "e63feffe-9089-4fc2-bb2f-d11f1223f427",
+      "detail": "How radiation is produced and its interaction with matter."
+    },
+    {
+      "knowledgeId": "4764c783-cf8a-4b30-8657-fdcf008b594c",
+      "detail": "The radiobiological effects of radiation - short and long-term risks."
+    },
+    {
+      "knowledgeId": "a6e5722e-04ae-42f4-8020-556820a79984",
+      "detail": "Radiation protection of self and others."
+    },
+    {
+      "knowledgeId": "3d3b16da-0c16-426d-b8eb-777d9101a0e7",
+      "detail": "The application of ionising radiation regulations."
+    },
+    {
+      "knowledgeId": "12dc8c26-f558-4da9-91a5-b6a98488ec2b",
+      "detail": "The meaning of risk in the workplace, ways to raise concerns and own responsibilities in relation to incidents, errors and near misses."
+    },
+    {
+      "knowledgeId": "8faa07e5-2955-40ee-a648-c2afcb952d9a",
+      "detail": "Principles of infection control."
+    },
+    {
+      "knowledgeId": "7a244806-ed00-461e-b95b-06101105f4bc",
+      "detail": "Basic life support techniques."
+    },
+    {
+      "knowledgeId": "c8c00379-7962-49d6-9828-c809ac3d5e49",
+      "detail": "Principles of safe moving and assisting individuals and moving and handling equipment."
+    },
+    {
+      "knowledgeId": "f3a9ef4f-5f61-42dd-aa95-4052ae7c3bb7",
+      "detail": "Operate within your own scope of practice, legislation, and policies.  "
+    },
+    {
+      "knowledgeId": "990b11f4-694a-470a-adb4-efac2d7621f5",
+      "detail": "Responsibilities and professional values of a mammography associate."
+    },
+    {
+      "knowledgeId": "f424d1a8-670b-40a1-bfd0-4efcee0279e9",
+      "detail": "When it is necessary to refer to an appropriate member of the multi-disciplinary breast care team, including the supervisory radiographer, for concerns and queries outside scope of practice."
+    },
+    {
+      "knowledgeId": "28bb3dad-e4df-48d1-ad67-bd5eac30549f",
+      "detail": "Standards and criteria for assessing the technical quality of images."
+    },
+    {
+      "knowledgeId": "183c0a0e-1319-4281-b6ab-fb15c702d037",
+      "detail": "Systems for image acquisition, storage, and retrieval."
+    },
+    {
+      "knowledgeId": "8f03b71a-4a41-4df7-8433-47270e157e1b",
+      "detail": "Individual and unit performance targets relating to the quality of mammography images."
+    },
+    {
+      "knowledgeId": "0fd009d2-3e2d-4d2d-97ba-224def413f5c",
+      "detail": "Principles of effective interpersonal and communication skills."
+    },
+    {
+      "knowledgeId": "0010f5d1-5e19-4a5f-8c55-801a36c11703",
+      "detail": "Advise individuals of the results process and give additional information within the scope of your responsibility."
+    },
+    {
+      "knowledgeId": "ace33afe-946a-49c8-b1f2-2c9bca4a9671",
+      "detail": "Meet the care needs of individuals and their accompanying companions with sensitivity and respect. "
+    },
+    {
+      "knowledgeId": "64db7db0-919b-4c34-816c-590cbb769351",
+      "detail": "Principles of confidentiality, duty of candour and disclosure."
+    },
+    {
+      "knowledgeId": "a763aa13-44c9-476d-99bd-187a94f922cc",
+      "detail": "Principles of equality, diversity and inclusion."
+    },
+    {
+      "knowledgeId": "6e395d31-89e3-4b2a-bb0c-b2a9a8a8fbd6",
+      "detail": "The purpose, principles and methods of quality control and quality assurance in mammography."
+    },
+    {
+      "knowledgeId": "2703afb8-5ef7-417c-93db-93617a16152b",
+      "detail": "Relevant national standards and local guidelines for quality control and assurance."
+    },
+    {
+      "knowledgeId": "c57b1566-6e12-4a53-a8e8-da9916f34a4e",
+      "detail": "The responsibility of mammographers to identify individual clinical mammography learning needs to ensure breast screening programme standards are met."
+    },
+    {
+      "knowledgeId": "636d5cf0-cfcd-4aa1-8ab0-995b3bb91668",
+      "detail": "Value of appropriately timed health promotion interventions."
+    },
+    {
+      "knowledgeId": "958d7855-cb0f-4129-845d-f52798b77822",
+      "detail": "National and local strategies, priorities, and initiatives for promoting and improving public health."
+    },
+    {
+      "knowledgeId": "70faffa9-32e5-4051-9ac5-7f1438990e8c",
+      "detail": "Wider determinants of health such as the contribution of social influences, health literacy, individual circumstances, behaviours and lifestyle choices on health and wellbeing."
+    },
+    {
+      "knowledgeId": "98c9769d-c1e3-4bf8-a31e-edfe59925256",
+      "detail": "The role and function of the multi-disciplinary breast care team."
+    },
+    {
+      "knowledgeId": "32a910f9-0193-4c9c-a4c9-dfd537d0cd75",
+      "detail": "Principles of effective team-working. "
+    },
+    {
+      "knowledgeId": "f535f5e3-c626-4737-9ca7-bf5d54c73af9",
+      "detail": "Techniques for managing challenging situations, unsafe work practices, addressing comments, compliments, conflict, and complaints."
+    },
+    {
+      "knowledgeId": "f136469a-e5dd-4dfa-91e7-0be2b0da7ff4",
+      "detail": "Importance of personal health, resilience, and wellbeing."
+    },
+    {
+      "knowledgeId": "499ea72f-1494-4abb-8dbe-e2fab96ce6a9",
+      "detail": "Purpose and value of supervision, appraisals and personal development planning."
+    },
+    {
+      "knowledgeId": "a1efe8ac-aff0-488b-bc8f-20ffaca40fe2",
+      "detail": "Reflective practice and how to use it effectively."
+    },
+    {
+      "knowledgeId": "9343ae5f-d0dd-4f56-93a9-e2ddf4eea982",
+      "detail": "Importance of continuing personal and professional development."
+    },
+    {
+      "knowledgeId": "51d0580e-799e-44b8-89a3-3bf85af48d9d",
+      "detail": "Principles of audit and research applied in mammography services."
+    },
+    {
+      "knowledgeId": "a34e3a6a-ac40-4a4c-958f-b27185a73152",
+      "detail": "How audit and research lead to the maintaining standards and improving the quality of mammography services."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+      "detail": "Treat individuals with dignity, respecting their beliefs, culture, values and preferences."
+    },
+    {
+      "behaviourId": "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+      "detail": "Adopt an empathic approach and demonstrate discretion."
+    },
+    {
+      "behaviourId": "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+      "detail": "Demonstrate courage to challenge areas of concern."
+    },
+    {
+      "behaviourId": "c897bba8-94dc-46c9-a071-74177eeb4293",
+      "detail": "Be adaptable and responsive to changing service needs."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "986167b2-18d2-4113-9dbc-cc6d435e337e",
+      "detail": "Prepare equipment and environments appropriately for mammography."
+    },
+    {
+      "skillId": "9f49a8db-2c53-4824-b900-07b6202280ad",
+      "detail": "Identify individuals attending for mammography appropriately."
+    },
+    {
+      "skillId": "d72316ca-24ce-481d-bed1-e2181c1dffdf",
+      "detail": "Prepare individuals appropriately for mammography."
+    },
+    {
+      "skillId": "654f2d48-96b6-4ad2-9da4-586cef4f77c2",
+      "detail": "Employ effective positioning and immobilisation to achieve images of high quality."
+    },
+    {
+      "skillId": "7556ea90-a75a-49fb-bd4b-8c133bdce924",
+      "detail": "Operate mammography equipment safely and effectively within protocol."
+    },
+    {
+      "skillId": "31ad00bf-469d-4bf9-9a0c-d6bf9615f4b7",
+      "detail": "Maintain required and accurate records of the procedure complying with quality, confidentiality and data protection requirements."
+    },
+    {
+      "skillId": "a099f2e4-fea4-4af8-9683-3bfdef47376e",
+      "detail": "Use information management systems effectively."
+    },
+    {
+      "skillId": "8921d83a-813f-41f3-aac3-7cd0e95e8b84",
+      "detail": "Comply with, and practise safely within, relevant legal, ethical, professional, and local frameworks and protocols for the delivery of clinical mammography."
+    },
+    {
+      "skillId": "bbb20096-167e-479e-a1d0-3b3f809fe33f",
+      "detail": "Maintain the radiation safety of all individuals in the working environment in line with current legislation."
+    },
+    {
+      "skillId": "65419d27-e158-47bf-9906-8bd83c2a57f7",
+      "detail": "Work in accordance with ionising radiation regulations."
+    },
+    {
+      "skillId": "947c8fa3-6749-4e21-a3e6-20822b0d9d0d",
+      "detail": "Take appropriate action in response to concerns, risks, incidents or near misses arising in the workplace."
+    },
+    {
+      "skillId": "abecc0ac-40f5-495f-a8e9-305a30806d8d",
+      "detail": "Safeguard individuals in accordance with legal and organisational requirements."
+    },
+    {
+      "skillId": "2bb8d471-e64c-4569-85a4-d924d25f6f85",
+      "detail": "Use techniques for infection control."
+    },
+    {
+      "skillId": "8c4dc3b5-cd6d-4247-a242-4b77a7d52ce5",
+      "detail": "Provide basic life-support techniques, when required."
+    },
+    {
+      "skillId": "70348266-e6a8-4aaa-9a5a-ea0a81dce6c1",
+      "detail": "Move and handle equipment or other items safely and assist individuals as appropriate."
+    },
+    {
+      "skillId": "34a97aa3-3545-478e-8935-86115fa33d2f",
+      "detail": "Manage self and own work effectively"
+    },
+    {
+      "skillId": "52db146d-f524-4f62-a189-73e95eab0a00",
+      "detail": "Recognise and respond appropriately to strengths and limitations in own knowledge, skills, and attributes.  "
+    },
+    {
+      "skillId": "e05cc911-3a4d-4c7f-b5f4-59643edc97bf",
+      "detail": "Refer to an appropriate member of the multi-disciplinary breast care team where required for concerns and queries outside scope of practice."
+    },
+    {
+      "skillId": "13279b51-57a5-48f9-bb35-5f2865c1dbc2",
+      "detail": "Assess the technical quality of images produced against required standards for breast screening programmes."
+    },
+    {
+      "skillId": "0849cb73-8989-4792-a335-130a32a22d1e",
+      "detail": "Adhere to quality standards of performance for breast screening programmes."
+    },
+    {
+      "skillId": "e667481b-5993-4390-8d8a-22c8bea40826",
+      "detail": "Transfer and store images using appropriate systems."
+    },
+    {
+      "skillId": "4783122c-d611-4e94-a6c4-ea9c7bf40dd0",
+      "detail": "Apply effective interpersonal and communication skills to engage with individuals."
+    },
+    {
+      "skillId": "b33b98bc-bc51-45b5-b7b6-4b6f7a023648",
+      "detail": "Report and share information related to individuals securely in line with local and national policies, maintaining confidentiality."
+    },
+    {
+      "skillId": "564161a7-03a0-4d48-9f1e-ac4097577830",
+      "detail": "Ensure own actions promote equality, diversity and inclusion."
+    },
+    {
+      "skillId": "a9786f41-f74a-4a29-9792-05413b5d2bf5",
+      "detail": "Work individually, collaboratively and in partnership to deliver person-centred care."
+    },
+    {
+      "skillId": "32a94033-0db3-4906-b9ec-2c7c59162ef0",
+      "detail": "Advise individuals of the results process and give any necessary additional information within the scope of your responsibility."
+    },
+    {
+      "skillId": "21c1f1a5-c193-4519-bde0-127699fbde0a",
+      "detail": "Participate in quality control tests of mammography equipment and accurately record results."
+    },
+    {
+      "skillId": "8c6f12bc-6f99-4bd1-a37a-db2a616fd21b",
+      "detail": "Report any failed equipment tests to a senior member of staff."
+    },
+    {
+      "skillId": "816af47f-74ee-4055-8924-890340560f61",
+      "detail": "Participate in image assessment and peer review to adhere to breast screening programme standards."
+    },
+    {
+      "skillId": "25ddc6a1-b50b-4f26-b5ca-fcedb0f0f75d",
+      "detail": "Engage in effective health promotion by actively seeking out and acting on opportunities to support individuals to maximise their health and well-being within the scope of the role."
+    },
+    {
+      "skillId": "57e7d585-7467-45de-a6e1-10c1066adf9d",
+      "detail": "Promote preventative health behaviours and support individuals to make informed choices to improve their health and wellbeing within the scope of the role."
+    },
+    {
+      "skillId": "d1cc373b-e147-4dfc-be86-fd99d6280e89",
+      "detail": "Work effectively within the multi-disciplinary breast care team."
+    },
+    {
+      "skillId": "3a642cc3-bdcc-4758-ad2c-d56c0360ddbb",
+      "detail": "Promote a positive, safe, and effective working environment."
+    },
+    {
+      "skillId": "cd665126-f8e6-42a7-a16c-c4c6338306a8",
+      "detail": "Make use of supervision and pastoral care."
+    },
+    {
+      "skillId": "4211b644-ec91-4617-99bb-4fb9fbf64247",
+      "detail": "Make use of reflective practice to engage in continuing professional development."
+    },
+    {
+      "skillId": "0c939d32-23b7-4ff7-ad33-9d18945c56a7",
+      "detail": "Participate in training and development activities and evaluate the impact of learning on own practice."
+    },
+    {
+      "skillId": "95b0c2cb-fb06-4fe1-a5cc-795f3327f80d",
+      "detail": "Seek out and respond to feedback and engage in appraisals."
+    },
+    {
+      "skillId": "1cc14636-8ab2-47df-ad85-c86ce53e0e70",
+      "detail": "Identify opportunities to improve the quality of the mammography service provided and contribute to local, regional, and national quality improvement initiatives."
+    },
+    {
+      "skillId": "551cf3b2-9f92-43fb-9e84-8ebea6334226",
+      "detail": "Participate in and support others with quality improvement activities in the workplace. "
+    },
+    {
+      "skillId": "b84795fa-03bf-46fe-91f8-7cb42724b551",
+      "detail": "Act as a role model for others within the scope of own role."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2018-08-22T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0245",
+  "tbMainContact": "Angelo.Varetto@wdtrust.org.uk",
+  "involvedEmployers": "Wythenshawe Hospital, St George’s University Hospitals NHS Foundation Trust, Sandwell & West Birmingham Hospitals NHS Trust, King’s College Hospital NHS Foundation Trust, East Kent Hospitals University NHS Foundation Trust, Cambridge University Hospitals NHS Foundation Trust, Nottingham University Hospital NHS Trust, Leeds Teaching Hospitals NHS Trust, Poole Hospital NHS Foundation Trust, Bradford Teaching Hospitals NHS Foundation Trust, InHealth Group, Newcastle Hospitals NHS Foundation Trust, Skills for Health, Manchester University Hospitals NHS Foundation Trust, The Jarvis Breast Screening Centre, NHS Breast Screening Programme ",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Breast screening assistant practitioner",
+    "Mammography assistant practitioner",
+    "Mammography Associate"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "createdDate": "2024-01-15T09:49:49 +00:00",
+  "lastUpdated": "2024-02-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-08-22T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0583",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0583-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0583-v1-2",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "fc4972ef-b09c-4578-971e-cd2571cf132e",
+      "dutyDetail": "Perform standard mammogram examinations using specialised mammographic equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "9ba82769-53d0-49b2-b58d-63ecc5372c78",
+        "bd1641d2-09c3-42fa-990e-f4b8da0526a9",
+        "367d19f9-2d63-406a-8311-235cf7d63143",
+        "9bfb62e8-0834-45a1-84da-03ac408ce649",
+        "f44a809c-a750-4fa7-81a8-7c37d035865e",
+        "2cb3172a-151b-4b02-84e0-b7d49dc3fb5c",
+        "27f09d2a-92be-40b6-9279-eb3da1c6da93",
+        "3eab1cb2-c3b3-4d6c-94b7-5cc2b074606b",
+        "e4a0be4c-4d1b-40a0-8a6a-b2292a581684",
+        "57f3fb18-31a5-4857-9034-1a765ce004fc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "986167b2-18d2-4113-9dbc-cc6d435e337e",
+        "9f49a8db-2c53-4824-b900-07b6202280ad",
+        "d72316ca-24ce-481d-bed1-e2181c1dffdf",
+        "654f2d48-96b6-4ad2-9da4-586cef4f77c2",
+        "7556ea90-a75a-49fb-bd4b-8c133bdce924",
+        "31ad00bf-469d-4bf9-9a0c-d6bf9615f4b7",
+        "a099f2e4-fea4-4af8-9683-3bfdef47376e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e6433a3f-f2c6-48d0-b87b-80e9632cda8c",
+      "dutyDetail": "Contribute to the identification and management of risks to self and others to maintain a safe and healthy working environment following local and national standards, policies, standard operating procedures, and protocols used in the workplace.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "2590a304-40e0-4c1f-b199-b0b4c17847ad",
+        "8eda2cf8-d11b-495d-a3bb-e94c243564cf",
+        "e63feffe-9089-4fc2-bb2f-d11f1223f427",
+        "4764c783-cf8a-4b30-8657-fdcf008b594c",
+        "a6e5722e-04ae-42f4-8020-556820a79984",
+        "3d3b16da-0c16-426d-b8eb-777d9101a0e7",
+        "12dc8c26-f558-4da9-91a5-b6a98488ec2b",
+        "8faa07e5-2955-40ee-a648-c2afcb952d9a",
+        "7a244806-ed00-461e-b95b-06101105f4bc",
+        "c8c00379-7962-49d6-9828-c809ac3d5e49"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8921d83a-813f-41f3-aac3-7cd0e95e8b84",
+        "bbb20096-167e-479e-a1d0-3b3f809fe33f",
+        "65419d27-e158-47bf-9906-8bd83c2a57f7",
+        "947c8fa3-6749-4e21-a3e6-20822b0d9d0d",
+        "abecc0ac-40f5-495f-a8e9-305a30806d8d",
+        "2bb8d471-e64c-4569-85a4-d924d25f6f85",
+        "8c4dc3b5-cd6d-4247-a242-4b77a7d52ce5",
+        "70348266-e6a8-4aaa-9a5a-ea0a81dce6c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "14c649f1-8fb4-413b-9d9a-e7ace6b7fec6",
+      "dutyDetail": "Act within the limits of own competence and within agreed ways of working, following relevant legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "f3a9ef4f-5f61-42dd-aa95-4052ae7c3bb7",
+        "990b11f4-694a-470a-adb4-efac2d7621f5",
+        "f424d1a8-670b-40a1-bfd0-4efcee0279e9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "34a97aa3-3545-478e-8935-86115fa33d2f",
+        "52db146d-f524-4f62-a189-73e95eab0a00",
+        "e05cc911-3a4d-4c7f-b5f4-59643edc97bf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed0755de-663e-4598-bb55-7f002a676b1f",
+      "dutyDetail": "Ensure image quality and the safe storage of images.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "28bb3dad-e4df-48d1-ad67-bd5eac30549f",
+        "183c0a0e-1319-4281-b6ab-fb15c702d037",
+        "8f03b71a-4a41-4df7-8433-47270e157e1b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13279b51-57a5-48f9-bb35-5f2865c1dbc2",
+        "0849cb73-8989-4792-a335-130a32a22d1e",
+        "e667481b-5993-4390-8d8a-22c8bea40826"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b6406a89-cace-4662-b8ae-d73fbb24c325",
+      "dutyDetail": "Communicate complex sensitive information effectively with individuals, their families, carers and health and care professionals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "0fd009d2-3e2d-4d2d-97ba-224def413f5c",
+        "0010f5d1-5e19-4a5f-8c55-801a36c11703",
+        "ace33afe-946a-49c8-b1f2-2c9bca4a9671",
+        "64db7db0-919b-4c34-816c-590cbb769351",
+        "a763aa13-44c9-476d-99bd-187a94f922cc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4783122c-d611-4e94-a6c4-ea9c7bf40dd0",
+        "b33b98bc-bc51-45b5-b7b6-4b6f7a023648",
+        "564161a7-03a0-4d48-9f1e-ac4097577830",
+        "a9786f41-f74a-4a29-9792-05413b5d2bf5",
+        "32a94033-0db3-4906-b9ec-2c7c59162ef0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "997fd6e8-d827-42ee-b83e-4900561baf69",
+      "dutyDetail": "Ensure equipment and service meet quality control and assurance requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "6e395d31-89e3-4b2a-bb0c-b2a9a8a8fbd6",
+        "2703afb8-5ef7-417c-93db-93617a16152b",
+        "c57b1566-6e12-4a53-a8e8-da9916f34a4e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "21c1f1a5-c193-4519-bde0-127699fbde0a",
+        "8c6f12bc-6f99-4bd1-a37a-db2a616fd21b",
+        "816af47f-74ee-4055-8924-890340560f61"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "36badadd-558a-4eb8-bda6-f3900d0762c8",
+      "dutyDetail": "Promote the health and wellbeing of individuals, acting on opportunities to educate and empower individuals to maximise their own health and well-being.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "636d5cf0-cfcd-4aa1-8ab0-995b3bb91668",
+        "958d7855-cb0f-4129-845d-f52798b77822",
+        "70faffa9-32e5-4051-9ac5-7f1438990e8c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "25ddc6a1-b50b-4f26-b5ca-fcedb0f0f75d",
+        "57e7d585-7467-45de-a6e1-10c1066adf9d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "be4ffe0b-a39a-4e4c-8f46-ee5c34384fb4",
+      "dutyDetail": "Work as part of the team and contribute to service improvement.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "98c9769d-c1e3-4bf8-a31e-edfe59925256",
+        "32a910f9-0193-4c9c-a4c9-dfd537d0cd75",
+        "f535f5e3-c626-4737-9ca7-bf5d54c73af9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d1cc373b-e147-4dfc-be86-fd99d6280e89",
+        "3a642cc3-bdcc-4758-ad2c-d56c0360ddbb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "512e7f71-b860-46d2-a53c-c27f4cbc6120",
+      "dutyDetail": "Maintain and further develop own knowledge and skills through recognised continuing professional development activities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "f136469a-e5dd-4dfa-91e7-0be2b0da7ff4",
+        "499ea72f-1494-4abb-8dbe-e2fab96ce6a9",
+        "a1efe8ac-aff0-488b-bc8f-20ffaca40fe2",
+        "9343ae5f-d0dd-4f56-93a9-e2ddf4eea982"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cd665126-f8e6-42a7-a16c-c4c6338306a8",
+        "4211b644-ec91-4617-99bb-4fb9fbf64247",
+        "0c939d32-23b7-4ff7-ad33-9d18945c56a7",
+        "95b0c2cb-fb06-4fe1-a5cc-795f3327f80d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33ec8203-1b7b-4f18-965c-689ab5180fae",
+      "dutyDetail": "Promote an evidence-based approach to providing mammography services, participating in quality improvement and research activity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [
+        "51d0580e-799e-44b8-89a3-3bf85af48d9d",
+        "a34e3a6a-ac40-4a4c-958f-b27185a73152"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1cc14636-8ab2-47df-ad85-c86ce53e0e70",
+        "551cf3b2-9f92-43fb-9e84-8ebea6334226"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "911de3cf-0dbd-4f0c-bf41-8ee21354db84",
+      "dutyDetail": "Support the development of others through role-modelling, supervision, and guidance. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ecfdb1e8-7b0a-43a8-9c6b-4c86cb5a0ebd",
+        "6ec9010e-59bb-47cf-bef2-9ac6f76dc7ff",
+        "e926b0a3-26f1-4e46-b01e-ec104c65a6c8",
+        "c897bba8-94dc-46c9-a071-74177eeb4293"
+      ],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b84795fa-03bf-46fe-91f8-7cb42724b551"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-01T00:00:00"
+}
