@@ -1,0 +1,790 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 239,
+  "referenceNumber": "ST0264",
+  "learningAimClassCode": "",
+  "title": "Carpentry and joinery",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0264",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.4",
+  "change": "End-point assessment plan revised. The apprentice can end the assessment early wording added to interview and practical assessments.",
+  "changedDate": "2025-01-13T00:00:00",
+  "earliestStartDate": "2025-01-13T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Using timber products to create and install building components.",
+  "level": 2,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
+  "keywords": [
+    "timber",
+    "building",
+    "carpentry",
+    "joinery",
+    "construction",
+    "builder"
+  ],
+  "jobRoles": [
+    "Architectural joiner",
+    "Site carpenter"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
+  "version": "1.4",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in both the new build and refurbishment construction sector. The construction industry is central to creating the homes, schools, hospitals, energy and transport infrastructure society needs.&amp;nbsp; There is growing demand for carpenters and joiners to help meet the need for the transition to modern methods of construction and sustainability.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is working with wood-based materials and associated products to create and install building components. This typically involves shaping and cutting materials, installing finished materials like partitions, doors, staircases, window frames, mouldings, timber floor coverings and erecting structural components such as floor joists and roofs. All work needs to be carried out safely, using the appropriate tools and to the quality specified.&lt;/p&gt;\n&lt;p&gt;This occupation includes two different options and people will either work on a construction site as a Site Carpenter or in a workshop as an Architectural Joiner.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;A Site Carpenter will prepare and install basic building components e.g. doors, straight staircases, wall and floor units and erecting structural carpentry and roof structures on a building site or in domestic and commercial premises.&lt;/p&gt;\n&lt;p&gt;An Architectural Joiner will create building components by setting out, marking out and manufacturing basic architectural products, including doors, windows, straight staircases and associated ironmongery.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with other construction roles such as bricklayers, plasterers and plumbers, supervisors, site management, architects, designers, contractors and customers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for using machinery and tools under supervision to create structures or components from the designs, plans and specifications of architects and designers that meet the clients expectations. On site these could include roof structures, floors, partitions and second fix work such as door frames and skirting. As an architectural joiner, they could include doors, windows and stairs, including ironmongery.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c9d056bd-fbac-4933-8c03-362dae032b79",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Substances Hazardous to Health (CoSHH). Fire safety. Health and Safety at Work Act. Asbestos awareness. Manual handling. signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working in confined spaces. Working at height. Provision and use of work equipment regulations (PUWER) and Electrical safety."
+    },
+    {
+      "knowledgeId": "2df0e149-2de4-44de-a941-269fd5a97e31",
+      "detail": "Safety control equipment and how to use personal protective equipment (PPE) respiratory protective equipment (RPE) and local exhaust ventilation (LEV)."
+    },
+    {
+      "knowledgeId": "309a716c-01e2-43e0-9efd-398038e70cb6",
+      "detail": "Safe systems of work: Site inductions, tool box talks, risk assessments, method statements and hazard identification in the work area."
+    },
+    {
+      "knowledgeId": "57423a43-69ee-4167-a734-15cc5c2b63e4",
+      "detail": "Impact of the sector on the environment: Efficient use of resources. Recycling, reuse, safe disposal of waste and sustainable forestry."
+    },
+    {
+      "knowledgeId": "a2911685-37e0-48a2-bccb-2143a9bf5cfd",
+      "detail": "Principles of building and modern methods of construction: Foundations, roofs, walls, damp proof courses, floors, timber frame, structurally insulated panels (SIPS) utilities and services, internal plaster finishes, insulation, fire protection, moisture and air protection and quality of materials."
+    },
+    {
+      "knowledgeId": "f048f8d0-b7c5-4466-b918-c2ffd3821879",
+      "detail": "Basic principles of digital design and modelling systems."
+    },
+    {
+      "knowledgeId": "685842a0-6cd6-4d16-a00d-47aed9dd336e",
+      "detail": "Standards and regulations associated with carpentry activities: British standards, building regulations and warranty provider standards."
+    },
+    {
+      "knowledgeId": "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b",
+      "detail": "Methods of interpreting and extracting relevant information from drawings and specifications."
+    },
+    {
+      "knowledgeId": "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
+      "detail": "Materials and their characteristics of home grown and imported timber and timber-based products. Natural timber products: Hardwood and softwood. Manufactured timber products: Board, laminated timber and carcassing."
+    },
+    {
+      "knowledgeId": "e211f7b4-65ec-4afd-af36-5150942caa79",
+      "detail": "Timber decay and repair methods: Timber moisture content parameters for a range of timber and timber-based materials, wet rot and dry rot, and insect attack."
+    },
+    {
+      "knowledgeId": "1b0271e9-ab88-4838-b7d2-f0f539897e19",
+      "detail": "Carpentry and joinery products and purpose: Mastics, preservatives, wood fillers, plastics and ironmongery."
+    },
+    {
+      "knowledgeId": "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
+      "detail": "Basic material estimation techniques, calculating lengths of timber, fixing requirements and a cutting list production methods."
+    },
+    {
+      "knowledgeId": "0d08390b-ea4f-4858-9090-5dff14b4cc1f",
+      "detail": "Verbal communication techniques and construction terminology."
+    },
+    {
+      "knowledgeId": "3aec1714-ba17-43f5-abd7-93553b557c52",
+      "detail": "Hand tool use and storage methods and techniques: Chisels, planes, hand saws, hammers, squares, tri-square, bevels, marking and mortise gauges, spirit levels."
+    },
+    {
+      "knowledgeId": "55a8c972-2171-478c-b81c-f42dfab417b7",
+      "detail": "Hand tool maintenance and sharpening techniques."
+    },
+    {
+      "knowledgeId": "ea3ef0b5-2e52-4629-a799-e017e35bb594",
+      "detail": "Jig production techniques."
+    },
+    {
+      "knowledgeId": "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+      "detail": "Power tools use and storage methods and techniques: Portable circular saws, drills, saws, planers, routers, sanders, multi-functional tools and nail guns."
+    },
+    {
+      "knowledgeId": "30ef27fd-8f98-40ca-90b8-ae30b43a8717",
+      "detail": "Principles of good team working."
+    },
+    {
+      "knowledgeId": "38bbc905-e3e6-4744-a142-e7d700c3d025",
+      "detail": "Inclusion, equity and diversity in the workplace."
+    },
+    {
+      "knowledgeId": "f926eab7-380e-48c6-8d0d-32e9b4f962dd",
+      "detail": "Well-being: Mental and physical health considerations in self and others and how to access support."
+    },
+    {
+      "knowledgeId": "36dec9a6-e175-4dac-ae8b-f796bbabb37b",
+      "detail": "Site carpentry techniques: Measuring, marking out, fitting, cutting (straight and angled) and mitring. "
+    },
+    {
+      "knowledgeId": "650b8dde-37fe-49db-9e24-d7378edb5401",
+      "detail": "Site carpentry: Structural fixtures and timber sizing in site carpentry, how to use sizing tables."
+    },
+    {
+      "knowledgeId": "e3bbb743-efd3-4103-80d3-7566b8d461ea",
+      "detail": "Site Carpenter: Timber sizing tables purpose and use."
+    },
+    {
+      "knowledgeId": "1e6f1ec5-bc73-43ef-8d96-adc19ca40348",
+      "detail": "Site carpentry: Timber splicing and scribing techniques."
+    },
+    {
+      "knowledgeId": "abc88133-a5cb-44a1-945a-4b88806e2bcf",
+      "detail": "Site carpentry: Straight roof installation techniques: Basic rafter trussed (prefabricated) and traditional cut roof (built on site)."
+    },
+    {
+      "knowledgeId": "aa444e86-53e3-4509-80da-e5186e068c30",
+      "detail": "Site carpentry: Flat roofs: Warm and cold flat roofs including firings and coverings."
+    },
+    {
+      "knowledgeId": "8293957a-fbf7-4e9a-88ff-cdeb3d728529",
+      "detail": "Site carpentry: First fixing installation techniques: Structural carcassing, floor joists and coverings, straight flights of stairs, metal and timber stud partitions.  "
+    },
+    {
+      "knowledgeId": "bb492f92-c1c4-4f94-a5b0-f3c5f4be8e59",
+      "detail": "Site carpentry: Second fix installation techniques: Service encasement, cladding, wall and floor units and fitments, window boards, handrails and spindles to straight flights of stairs, doors and mouldings (architrave and skirting board)."
+    },
+    {
+      "knowledgeId": "737d0c76-4413-46b2-a90b-8aa6fd186597",
+      "detail": "Site carpentry: Types, use, calibration and storage of laser levels."
+    },
+    {
+      "knowledgeId": "16f1bbcd-23fa-488c-bd52-5ab09b4890f4",
+      "detail": "Architectural joiner: Requirements of fire door assemblies."
+    },
+    {
+      "knowledgeId": "1bd5b45b-5173-4875-ab89-051e6615b65e",
+      "detail": "Architectural joiner: Safe use of fixed machinery, inspection, preparation and operation techniques: Crosscut saw, band saw, planer and thicknesser and mortiser. "
+    },
+    {
+      "knowledgeId": "297fda27-f268-4a6a-851e-0c2581432800",
+      "detail": "Architectural joiner: Setting out and marking out techniques for joinery product manufacture and potential effects of marking out errors. "
+    },
+    {
+      "knowledgeId": "91d785ba-3f8c-4d88-aa10-e385bed8a65f",
+      "detail": "Architectural joiner: Timber joints, types and production techniques: Dovetails, mortise and tenon, bridals and halvings."
+    },
+    {
+      "knowledgeId": "56e2977c-27d5-4dd5-8306-d857fb25bdff",
+      "detail": "Architectural joiner: Manufacture and assembly techniques for standard right angled timber windows."
+    },
+    {
+      "knowledgeId": "911d2b4a-066c-4ba7-adf7-e395fab26f52",
+      "detail": "Architectural joiner: Connection methods in joinery: Dowels, biscuit, staples and adhesives."
+    },
+    {
+      "knowledgeId": "2e771238-caee-449e-a6f1-ccb9fbdba5b1",
+      "detail": "Architectural joiner: Manufacture and assembly techniques for timber first fix products: 1. straight staircases 2. door frames and linings."
+    },
+    {
+      "knowledgeId": "6e3c3aa7-d846-4808-b1ec-a2f186bd7881",
+      "detail": "Architectural joiner: Manufacture and assembly techniques for second fix timber products: 1. timber wall and floor units 2. timber doors 3. timber mouldings."
+    },
+    {
+      "knowledgeId": "61ed4aff-febc-4b5a-9377-43df6d4fc0aa",
+      "detail": "Architectural joiner: Finishing techniques for manufactured timber products: Sanding, painting, waxing, polishing, oiling and applying preservative."
+    },
+    {
+      "knowledgeId": "63a99f54-d404-4b3e-875a-cfe1028b94d8",
+      "detail": "Architectural joiner: Ironmongery installation techniques."
+    },
+    {
+      "knowledgeId": "0d64d25c-439f-4bf5-a786-f96c626221e5",
+      "detail": "Employment types (self employed and employed), small business start up principles and tax."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+      "detail": "Put health, safety and wellbeing first."
+    },
+    {
+      "behaviourId": "70ba80db-9a07-4b3a-b1d7-b44bf914f253",
+      "detail": "Consider the environment when using resources and carrying out processes."
+    },
+    {
+      "behaviourId": "aa80f341-8a17-467c-9e5d-c80814d6ccc7",
+      "detail": "Contribute to an inclusive and diverse culture."
+    },
+    {
+      "behaviourId": "3a1ee959-86c8-4d04-843c-70c4d5487fa4",
+      "detail": "Seek learning and development opportunities."
+    },
+    {
+      "behaviourId": "e1cddd16-08a9-4ae1-96e7-5966e2e31788",
+      "detail": " Team-focus to meet team goals including, considering the wider build team."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+      "detail": "Comply with health and safety regulations, standards, and guidance."
+    },
+    {
+      "skillId": "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
+      "detail": "Identify and use safety control equipment, for example, RPE, dust suppression, PPE and LEV."
+    },
+    {
+      "skillId": "db4fc8d4-c18a-422a-9a6b-ae9941d58859",
+      "detail": "Comply with environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling and disposal. "
+    },
+    {
+      "skillId": "1fccd425-7533-4c00-8468-a973b0532bfc",
+      "detail": "Comply with industry regulations, standards, and guidance."
+    },
+    {
+      "skillId": "25e731b1-7321-4870-9eb1-5e5f099517ce",
+      "detail": "Prepare and maintain a safe working area."
+    },
+    {
+      "skillId": "9536ad85-f6be-4416-b98d-4c4f1f0127e3",
+      "detail": "Interpret and use information from drawings and specifications."
+    },
+    {
+      "skillId": "0b3d2e6d-8063-400f-bbd3-157b1b00feeb",
+      "detail": "Estimate required materials and produce a cutting list."
+    },
+    {
+      "skillId": "b8f08d98-a41f-4c41-99f6-02bbedc4453c",
+      "detail": "Verbally communicate with others, applying construction terminology."
+    },
+    {
+      "skillId": "efb9fcb9-e780-47dc-82d0-fe402acf3e5a",
+      "detail": "Select, use and store hand tools. "
+    },
+    {
+      "skillId": "2d6ec4d9-e1e4-4701-8acf-1ab21f42e802",
+      "detail": "Select, use and store power tools."
+    },
+    {
+      "skillId": "31e36ffb-4786-4c2d-ab81-83e824bcffed",
+      "detail": "Maintain and sharpen hand tools."
+    },
+    {
+      "skillId": "0856a879-6e05-4550-9957-0e498b041805",
+      "detail": "Produce jigs."
+    },
+    {
+      "skillId": "63190b13-f732-4c8c-8055-354395b12cc7",
+      "detail": "Identifies well-being support available to self and others."
+    },
+    {
+      "skillId": "062d909f-b210-4aa0-ae5c-1c1d63d1f663",
+      "detail": "Site carpenter: Apply first fix techniques and practices for: 1. structural carcassing, 2. straight timber or metal partition walls, 3. floor joists 4. floor joist coverings and 5. straight flights of stairs."
+    },
+    {
+      "skillId": "9e487661-4f85-4179-af87-7fa4d0d7ef60",
+      "detail": "Site carpenter: Install structural fixings. "
+    },
+    {
+      "skillId": "1417b300-15a6-4a9a-9923-3df4bde22a04",
+      "detail": "Site carpenter: Size timber from sizing tables."
+    },
+    {
+      "skillId": "b212cfa5-1e77-4f25-a691-fa794ce93923",
+      "detail": "Site carpenter: Apply site second fix techniques and practices for:1. service encasement, 2. cladding 3. wall and floor units and fitments, 4. handrails and spindles to straight flights of stairs, 5. internal and external doors, 6. skirting boards and architrave, 7. window boards. "
+    },
+    {
+      "skillId": "3ecdf32f-208b-4fc8-96b7-fc0286d7a554",
+      "detail": "Site carpenter: Apply site carpenter techniques and practices to construction of rafter roofs, including trussed (prefabricated) and traditional (built on site) including the construction of verge, eaves and fitting loft access."
+    },
+    {
+      "skillId": "f61aeef5-a45e-4646-95e9-eef5adcb56ee",
+      "detail": "Site carpenter: Use and store laser levels for example cross line laser."
+    },
+    {
+      "skillId": "ad08076f-447c-4e75-9a98-70020b2a7d2c",
+      "detail": "Site carpenter: Form connections, for example, using joints, nails, screws, bolts and adhesive."
+    },
+    {
+      "skillId": "455c8161-7830-4fde-8324-10335493d5b4",
+      "detail": "Site carpenter: Apply measuring, marking out, cutting (square and angled), mitring, hinging and recessing techniques."
+    },
+    {
+      "skillId": "93f0b6a7-8f30-4765-bc4d-26e7215dc100",
+      "detail": "Site carpenter: Carrying out splicing and scribing techniques. "
+    },
+    {
+      "skillId": "34d95057-7950-4930-92e9-d6907c02fe71",
+      "detail": "Architectural joiner: Produce setting out details, including setting rods, and mark out for timber products."
+    },
+    {
+      "skillId": "e3a540de-1df7-4370-a5fc-6a14120375c1",
+      "detail": "Architectural joiner: Produce basic woodworking joints including dovetail, bridal, mortise and tenon and halving."
+    },
+    {
+      "skillId": "bf46b834-c278-433f-af88-128579cb952e",
+      "detail": "Architectural joiner: Form connections using dowels, biscuit, staples and adhesives."
+    },
+    {
+      "skillId": "f02f123a-0b26-4260-8068-8d19a9c14090",
+      "detail": "Architectural joiner: Apply techniques and practices to the manufacture and assembly of a timber window with casement including glazing rebates and associated ironmongery."
+    },
+    {
+      "skillId": "60ac7b1f-9089-4501-8d75-babd4a42b542",
+      "detail": "Architectural joiner: Apply manufacture and assembly techniques for first fix products: 1. straight staircases, 2. door frames and linings. "
+    },
+    {
+      "skillId": "332f9f2f-65ed-4dad-8c21-5f1560dcd131",
+      "detail": "Architectural joiner: Apply manufacture and assembly techniques for second fix products: 1. timber doors, 2. wall and floor units,  3. timber mouldings, 4. staircase spindles and balustrades. "
+    },
+    {
+      "skillId": "abf8cf4a-9712-4211-a137-a4c573ae361c",
+      "detail": "Architectural joiner: Fit ironmongery including door locks, door handles, door hinges, latches and draw runners."
+    },
+    {
+      "skillId": "78718d5f-a2e6-4018-adcb-209ab8bbe408",
+      "detail": "Architectural joiner: Inspect, prepare and operate fixed machinery."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0035",
+  "tbMainContact": "nicola.jordan@education.gov.uk",
+  "involvedEmployers": "Cambridge Regional College, Beal-Homes, Brian Fell (Level) Ltd, British Woodwork Federation, CITB, H&H Joiners and Builders, Houghtons of York, Leeds College of Building (LCB) , Levens, Lignum Associates, North York Moors, York College",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Architectural joiner",
+    "Site carpenter"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Onsite Construction",
+  "cluster": "Core building tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
+  "createdDate": "2025-01-13T13:27:22 +00:00",
+  "lastUpdated": "2025-01-13T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0264",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "1fc6e1a1-96b0-4089-b19e-6990b7f9fd82",
+      "dutyDetail": "Work in compliance with occupational health, safety and environmental requirements to ensure the health, safety and wellbeing of self and others at all times. Report in a timely manner any non-compliances against the construction programme to the appropriate person",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+        "70ba80db-9a07-4b3a-b1d7-b44bf914f253",
+        "aa80f341-8a17-467c-9e5d-c80814d6ccc7"
+      ],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "2df0e149-2de4-44de-a941-269fd5a97e31",
+        "309a716c-01e2-43e0-9efd-398038e70cb6",
+        "685842a0-6cd6-4d16-a00d-47aed9dd336e",
+        "3aec1714-ba17-43f5-abd7-93553b557c52",
+        "55a8c972-2171-478c-b81c-f42dfab417b7",
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+        "38bbc905-e3e6-4744-a142-e7d700c3d025",
+        "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
+        "db4fc8d4-c18a-422a-9a6b-ae9941d58859",
+        "1fccd425-7533-4c00-8468-a973b0532bfc",
+        "25e731b1-7321-4870-9eb1-5e5f099517ce",
+        "efb9fcb9-e780-47dc-82d0-fe402acf3e5a",
+        "2d6ec4d9-e1e4-4701-8acf-1ab21f42e802",
+        "31e36ffb-4786-4c2d-ab81-83e824bcffed",
+        "63190b13-f732-4c8c-8055-354395b12cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7098a162-c333-43d4-87c7-ee1ed009d1b1",
+      "dutyDetail": "Work to the construction programme, adapting to changes in schedule and requirements where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+        "e1cddd16-08a9-4ae1-96e7-5966e2e31788"
+      ],
+      "mappedKnowledge": [
+        "a2911685-37e0-48a2-bccb-2143a9bf5cfd",
+        "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "9536ad85-f6be-4416-b98d-4c4f1f0127e3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c767f35-8dea-476c-a2f9-ccf7d27c643c",
+      "dutyDetail": "Prepare the work site or workshop ready for the work and select materials and tools appropriate to the project",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece"
+      ],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "2df0e149-2de4-44de-a941-269fd5a97e31",
+        "309a716c-01e2-43e0-9efd-398038e70cb6",
+        "a2911685-37e0-48a2-bccb-2143a9bf5cfd",
+        "f048f8d0-b7c5-4466-b918-c2ffd3821879",
+        "050bf20e-f8ee-4bdf-ac84-82b14a4f7f3b",
+        "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
+        "e211f7b4-65ec-4afd-af36-5150942caa79",
+        "1b0271e9-ab88-4838-b7d2-f0f539897e19",
+        "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
+        "3aec1714-ba17-43f5-abd7-93553b557c52",
+        "ea3ef0b5-2e52-4629-a799-e017e35bb594"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
+        "db4fc8d4-c18a-422a-9a6b-ae9941d58859",
+        "0b3d2e6d-8063-400f-bbd3-157b1b00feeb",
+        "efb9fcb9-e780-47dc-82d0-fe402acf3e5a",
+        "0856a879-6e05-4550-9957-0e498b041805"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "07f1a5ed-557a-4397-9ec7-1d2b298bef98",
+      "dutyDetail": "Use and maintain hand tools and power tools and associated equipment to complete task to industry standards ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece"
+      ],
+      "mappedKnowledge": [
+        "3aec1714-ba17-43f5-abd7-93553b557c52",
+        "55a8c972-2171-478c-b81c-f42dfab417b7",
+        "ea3ef0b5-2e52-4629-a799-e017e35bb594",
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
+        "efb9fcb9-e780-47dc-82d0-fe402acf3e5a",
+        "31e36ffb-4786-4c2d-ab81-83e824bcffed",
+        "0856a879-6e05-4550-9957-0e498b041805"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0005ab18-d469-438d-a383-3f84667d8807",
+      "dutyDetail": " Collaborate with stakeholders including clients and other construction roles",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+        "aa80f341-8a17-467c-9e5d-c80814d6ccc7",
+        "e1cddd16-08a9-4ae1-96e7-5966e2e31788"
+      ],
+      "mappedKnowledge": [
+        "309a716c-01e2-43e0-9efd-398038e70cb6",
+        "a2911685-37e0-48a2-bccb-2143a9bf5cfd",
+        "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
+        "0d08390b-ea4f-4858-9090-5dff14b4cc1f",
+        "30ef27fd-8f98-40ca-90b8-ae30b43a8717",
+        "38bbc905-e3e6-4744-a142-e7d700c3d025",
+        "f926eab7-380e-48c6-8d0d-32e9b4f962dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8f08d98-a41f-4c41-99f6-02bbedc4453c",
+        "63190b13-f732-4c8c-8055-354395b12cc7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "163e0d18-de1e-4c3c-81f5-54345efc0fb2",
+      "dutyDetail": "Receive, unload, move and lift materials to site for installation following good handling practices preventing injury or damage",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece"
+      ],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "2df0e149-2de4-44de-a941-269fd5a97e31"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d3e8c938-4b3f-403e-90fa-c13de8c0c1b8",
+      "dutyDetail": "Maintain a clear and safe worksite at all times, disposing of waste appropriately and sustainably",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+        "70ba80db-9a07-4b3a-b1d7-b44bf914f253"
+      ],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "57423a43-69ee-4167-a734-15cc5c2b63e4",
+        "a2911685-37e0-48a2-bccb-2143a9bf5cfd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "de2b02e7-8649-40c5-a96d-ed292858cdd8",
+        "db4fc8d4-c18a-422a-9a6b-ae9941d58859",
+        "25e731b1-7321-4870-9eb1-5e5f099517ce"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c95c64f6-cfaa-492e-a242-1da99813c4ec",
+      "dutyDetail": "Carry out continuous professional development to maintain knowledge of current and future developments affecting the role",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "cf1dd6c6-02f1-4a2b-82de-955d5cc7dece",
+        "3a1ee959-86c8-4d04-843c-70c4d5487fa4"
+      ],
+      "mappedKnowledge": [
+        "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
+        "38bbc905-e3e6-4744-a142-e7d700c3d025",
+        "f926eab7-380e-48c6-8d0d-32e9b4f962dd",
+        "0d64d25c-439f-4bf5-a786-f96c626221e5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fcf6b057-03cd-46c1-8c9b-dcb6b68f6698",
+      "dutyDetail": "Use the appropriate tools, materials and equipment to carry out first and second fix site carpenter tasks including roofs",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
+        "1b0271e9-ab88-4838-b7d2-f0f539897e19",
+        "3aec1714-ba17-43f5-abd7-93553b557c52",
+        "55a8c972-2171-478c-b81c-f42dfab417b7",
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+        "36dec9a6-e175-4dac-ae8b-f796bbabb37b",
+        "650b8dde-37fe-49db-9e24-d7378edb5401",
+        "e3bbb743-efd3-4103-80d3-7566b8d461ea",
+        "1e6f1ec5-bc73-43ef-8d96-adc19ca40348",
+        "abc88133-a5cb-44a1-945a-4b88806e2bcf",
+        "aa444e86-53e3-4509-80da-e5186e068c30",
+        "8293957a-fbf7-4e9a-88ff-cdeb3d728529",
+        "bb492f92-c1c4-4f94-a5b0-f3c5f4be8e59",
+        "737d0c76-4413-46b2-a90b-8aa6fd186597"
+      ],
+      "mappedOptions": [
+        "98e3409f-4b72-43bb-95bc-d5e4cd7ce981"
+      ],
+      "mappedSkills": [
+        "a860cbbd-b18b-46d1-b50a-8b9ace0f3f7a",
+        "2d6ec4d9-e1e4-4701-8acf-1ab21f42e802",
+        "0856a879-6e05-4550-9957-0e498b041805",
+        "062d909f-b210-4aa0-ae5c-1c1d63d1f663",
+        "9e487661-4f85-4179-af87-7fa4d0d7ef60",
+        "1417b300-15a6-4a9a-9923-3df4bde22a04",
+        "b212cfa5-1e77-4f25-a691-fa794ce93923",
+        "3ecdf32f-208b-4fc8-96b7-fc0286d7a554",
+        "f61aeef5-a45e-4646-95e9-eef5adcb56ee",
+        "ad08076f-447c-4e75-9a98-70020b2a7d2c",
+        "455c8161-7830-4fde-8324-10335493d5b4",
+        "93f0b6a7-8f30-4765-bc4d-26e7215dc100"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f3ece219-4fa3-4774-97ca-4100129b5c11",
+      "dutyDetail": "Carry out minor repairs or modifications.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+        "36dec9a6-e175-4dac-ae8b-f796bbabb37b",
+        "8293957a-fbf7-4e9a-88ff-cdeb3d728529"
+      ],
+      "mappedOptions": [
+        "98e3409f-4b72-43bb-95bc-d5e4cd7ce981"
+      ],
+      "mappedSkills": [
+        "b212cfa5-1e77-4f25-a691-fa794ce93923",
+        "ad08076f-447c-4e75-9a98-70020b2a7d2c",
+        "455c8161-7830-4fde-8324-10335493d5b4",
+        "93f0b6a7-8f30-4765-bc4d-26e7215dc100"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bc50fe1c-6e7d-46fc-af42-c18c4d2875de",
+      "dutyDetail": "Carry out their work conforming to all current and relevant building regulations, quality standards and work instructions",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "2df0e149-2de4-44de-a941-269fd5a97e31",
+        "309a716c-01e2-43e0-9efd-398038e70cb6",
+        "685842a0-6cd6-4d16-a00d-47aed9dd336e",
+        "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
+        "36dec9a6-e175-4dac-ae8b-f796bbabb37b",
+        "650b8dde-37fe-49db-9e24-d7378edb5401",
+        "e3bbb743-efd3-4103-80d3-7566b8d461ea",
+        "abc88133-a5cb-44a1-945a-4b88806e2bcf",
+        "aa444e86-53e3-4509-80da-e5186e068c30",
+        "8293957a-fbf7-4e9a-88ff-cdeb3d728529",
+        "bb492f92-c1c4-4f94-a5b0-f3c5f4be8e59"
+      ],
+      "mappedOptions": [
+        "98e3409f-4b72-43bb-95bc-d5e4cd7ce981"
+      ],
+      "mappedSkills": [
+        "062d909f-b210-4aa0-ae5c-1c1d63d1f663",
+        "9e487661-4f85-4179-af87-7fa4d0d7ef60",
+        "1417b300-15a6-4a9a-9923-3df4bde22a04",
+        "b212cfa5-1e77-4f25-a691-fa794ce93923",
+        "3ecdf32f-208b-4fc8-96b7-fc0286d7a554"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3df5e0d1-0e05-4df7-abdc-64375fac7bf8",
+      "dutyDetail": "Use the appropriate fixed workshop machinery, tools, materials and equipment to carry out architectural joinery tasks including setting, marking out and manufacturing timber products  ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "eb507c50-ee97-4c25-a30c-9fa2cba0866a",
+        "55a8c972-2171-478c-b81c-f42dfab417b7",
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+        "1bd5b45b-5173-4875-ab89-051e6615b65e",
+        "297fda27-f268-4a6a-851e-0c2581432800",
+        "91d785ba-3f8c-4d88-aa10-e385bed8a65f",
+        "56e2977c-27d5-4dd5-8306-d857fb25bdff",
+        "911d2b4a-066c-4ba7-adf7-e395fab26f52",
+        "2e771238-caee-449e-a6f1-ccb9fbdba5b1",
+        "6e3c3aa7-d846-4808-b1ec-a2f186bd7881",
+        "61ed4aff-febc-4b5a-9377-43df6d4fc0aa"
+      ],
+      "mappedOptions": [
+        "64b537f8-b5c2-44e8-a3f2-bf24e09612ea"
+      ],
+      "mappedSkills": [
+        "e3a540de-1df7-4370-a5fc-6a14120375c1",
+        "bf46b834-c278-433f-af88-128579cb952e",
+        "f02f123a-0b26-4260-8068-8d19a9c14090",
+        "60ac7b1f-9089-4501-8d75-babd4a42b542",
+        "332f9f2f-65ed-4dad-8c21-5f1560dcd131",
+        "78718d5f-a2e6-4018-adcb-209ab8bbe408"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f31f8834-6710-41cd-9466-90ae73da99ab",
+      "dutyDetail": "Assemble and fit components to timber products",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a6143c8a-b9d7-4655-9a09-6581e95ac2a5",
+        "e211f7b4-65ec-4afd-af36-5150942caa79",
+        "1b0271e9-ab88-4838-b7d2-f0f539897e19",
+        "8fb9c55e-b10a-4bd5-84d1-5bb56eea98b2",
+        "16f1bbcd-23fa-488c-bd52-5ab09b4890f4",
+        "297fda27-f268-4a6a-851e-0c2581432800",
+        "91d785ba-3f8c-4d88-aa10-e385bed8a65f",
+        "56e2977c-27d5-4dd5-8306-d857fb25bdff",
+        "911d2b4a-066c-4ba7-adf7-e395fab26f52",
+        "2e771238-caee-449e-a6f1-ccb9fbdba5b1",
+        "6e3c3aa7-d846-4808-b1ec-a2f186bd7881",
+        "61ed4aff-febc-4b5a-9377-43df6d4fc0aa",
+        "63a99f54-d404-4b3e-875a-cfe1028b94d8"
+      ],
+      "mappedOptions": [
+        "64b537f8-b5c2-44e8-a3f2-bf24e09612ea"
+      ],
+      "mappedSkills": [
+        "34d95057-7950-4930-92e9-d6907c02fe71",
+        "e3a540de-1df7-4370-a5fc-6a14120375c1",
+        "f02f123a-0b26-4260-8068-8d19a9c14090",
+        "60ac7b1f-9089-4501-8d75-babd4a42b542",
+        "332f9f2f-65ed-4dad-8c21-5f1560dcd131",
+        "abf8cf4a-9712-4211-a137-a4c573ae361c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4c207be1-8462-4357-99b0-b740682f1400",
+      "dutyDetail": "Carry out their work conforming to all current and relevant building regulations, quality standards and work instructions",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "c9d056bd-fbac-4933-8c03-362dae032b79",
+        "2df0e149-2de4-44de-a941-269fd5a97e31",
+        "309a716c-01e2-43e0-9efd-398038e70cb6",
+        "685842a0-6cd6-4d16-a00d-47aed9dd336e",
+        "16f1bbcd-23fa-488c-bd52-5ab09b4890f4",
+        "1bd5b45b-5173-4875-ab89-051e6615b65e",
+        "297fda27-f268-4a6a-851e-0c2581432800",
+        "91d785ba-3f8c-4d88-aa10-e385bed8a65f",
+        "56e2977c-27d5-4dd5-8306-d857fb25bdff",
+        "911d2b4a-066c-4ba7-adf7-e395fab26f52",
+        "2e771238-caee-449e-a6f1-ccb9fbdba5b1",
+        "61ed4aff-febc-4b5a-9377-43df6d4fc0aa"
+      ],
+      "mappedOptions": [
+        "64b537f8-b5c2-44e8-a3f2-bf24e09612ea"
+      ],
+      "mappedSkills": [
+        "f02f123a-0b26-4260-8068-8d19a9c14090",
+        "60ac7b1f-9089-4501-8d75-babd4a42b542",
+        "332f9f2f-65ed-4dad-8c21-5f1560dcd131",
+        "abf8cf4a-9712-4211-a137-a4c573ae361c",
+        "78718d5f-a2e6-4018-adcb-209ab8bbe408"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "98e3409f-4b72-43bb-95bc-d5e4cd7ce981",
+      "title": "Site Carpenter",
+      "occupationCode": "OCC0264B"
+    },
+    {
+      "optionId": "64b537f8-b5c2-44e8-a3f2-bf24e09612ea",
+      "title": "Architectural Joiner",
+      "occupationCode": "OCC0264A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-01-13T00:00:00"
+}
