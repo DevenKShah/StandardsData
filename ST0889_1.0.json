@@ -1,60 +1,1683 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 677,
   "referenceNumber": "ST0889",
+  "learningAimClassCode": "",
   "title": "Mortuary technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0889",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-07-27T00:00:00",
+  "earliestStartDate": "2022-03-30T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Ensure the effective operation of the mortuary and to assist colleagues in providing dignified care of the deceased.",
   "level": 3,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 4,
+  "typicalDuration": 18,
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "health",
+    "social care",
+    "mortuary",
+    "science",
+    "technician",
+    "Mortuary technician"
+  ],
+  "jobRoles": [
+    "Anatomical pathology technologist",
+    "Embalming assistant",
+    "Mortuary assistant",
+    "Mortuary technician"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5851/st0889_mortuary_technician_l3_ap-for-publication_02022022.pdf",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.3 Health and social care",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the death care industry, typically within funeral organisations, NHS and private hospitals, Universities, Schools of Anatomy, private and public mortuaries.&lt;/p&gt;\n&lt;p&gt;A Funeral Mortuary Technician prepares, dresses and encoffins the deceased, ensuring that they are cared for and presented with dignity and respect in line with religious and cultural requirements.&lt;/p&gt;\n&lt;p&gt;An Anatomical Pathology Technologist assists with post-mortems, evisceration and dissection, removal of organs and tissue retrieval, and reconstruction of the deceased following post-mortem.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation for both options is to ensure the effective operation of the mortuary and to assist colleagues in providing dignified care of the deceased.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with internal and external stakeholders for example, the deceased, relatives, funeral directors, embalmers, crematoria, cemeteries, funeral arrangers, funeral service operatives, drivers, embalmers, doctors, police, coroners, regulatory agencies (for example, Human Tissue Authority), religious/cultural leaders, bereavement services, midwives, trade organisations, hospital and care home staff, suppliers, managers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for three broad areas of work:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;ensuring that the deceased is cared for and presented with dignity and respect in line with religious and cultural requirements.&lt;/li&gt;\n&lt;li&gt;ensuring the organisation of daily mortuary activities including mortuary governance for example, checking documentation, reviewing the condition of the deceased, infection control, monitoring equipment and consumables and ensuring that they are replenished and available as necessary.&lt;/li&gt;\n&lt;li&gt;ensuring that work areas and equipment are sanitary and functional.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Mortuary technicians work as part of a team in either a funeral business, NHS or private hospital, University, School of Anatomy, private or public mortuary. They normally work set hours, however they may occasionally work unsociable hours if required by the business.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+      "detail": "Industry standards, regulations and legislation relating to mortuary procedures and governance"
+    },
+    {
+      "knowledgeId": "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+      "detail": "Organisational policies, protocols and standard operating procedures, systems and applications"
+    },
+    {
+      "knowledgeId": "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+      "detail": "The required stock levels for consumables and sundries based on scope of practice"
+    },
+    {
+      "knowledgeId": "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+      "detail": "The importance of ensuring the Mortuary area is safely set up"
+    },
+    {
+      "knowledgeId": "25f7bed6-f03f-4179-8596-423ba2f8a677",
+      "detail": "The identification and prevention of further deterioration and decomposition of the deceased and the process to escalate issues"
+    },
+    {
+      "knowledgeId": "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+      "detail": "The importance of infection control  and how to prevent and control the spread of infection within the workplace"
+    },
+    {
+      "knowledgeId": "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+      "detail": "The risks and control of chemical exposure"
+    },
+    {
+      "knowledgeId": "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+      "detail": "The implications of excessive size and weight of the deceased and how to safely handle the deceased"
+    },
+    {
+      "knowledgeId": "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+      "detail": "Risk assessments and the employee's responsibilities in line with organisational standards"
+    },
+    {
+      "knowledgeId": "d38d4427-11fd-4c46-89df-709d67161d94",
+      "detail": "The limits of own responsibilities"
+    },
+    {
+      "knowledgeId": "79da6124-d3ec-43cc-abad-f3ef1f441307",
+      "detail": "The equipment available to support and mitigate risks, how and when to utilise the equipment and how to report faults"
+    },
+    {
+      "knowledgeId": "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+      "detail": "How and when to safely remove medical equipment from the deceased"
+    },
+    {
+      "knowledgeId": "97e2833d-97f8-4cd9-a949-010f35096dcc",
+      "detail": "The implications of implants, when to remove from the deceased and escalation procedures"
+    },
+    {
+      "knowledgeId": "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+      "detail": "The organisation’s databases and systems for recording the journey of the deceased and their care information"
+    },
+    {
+      "knowledgeId": "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+      "detail": "The importance of treating each deceased with dignity and respect at all times"
+    },
+    {
+      "knowledgeId": "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+      "detail": "The importance of continuous professional development and how to research opportunities for development"
+    },
+    {
+      "knowledgeId": "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+      "detail": "Coaching and mentoring methods"
+    },
+    {
+      "knowledgeId": "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+      "detail": "Methods of communication"
+    },
+    {
+      "knowledgeId": "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+      "detail": "The importance of and how to complete and process all relevant paperwork "
+    },
+    {
+      "knowledgeId": "81d6a22e-ff50-4783-a802-57cfb112e038",
+      "detail": "The legal implications surrounding specialist funeral services such as burial, cremation and repatriation"
+    },
+    {
+      "knowledgeId": "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+      "detail": "The individual needs of clients and family members and the impact that these have on the deceased’s time in mortuary care (such as: cultural, religious, age, gender requirements) "
+    },
+    {
+      "knowledgeId": "bc98721d-b97e-4d94-ba10-b0e1a0dfc34f",
+      "detail": "Mouth and eye closure techniques"
+    },
+    {
+      "knowledgeId": "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+      "detail": "How to, and the reasons for packing orifices "
+    },
+    {
+      "knowledgeId": "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+      "detail": "Personal grooming techniques in the care of the deceased including cosmetic application"
+    },
+    {
+      "knowledgeId": "5b3f0f9a-900e-462d-9f96-f74b4e674a97",
+      "detail": "Dressing techniques and rituals in the care of the deceased"
+    },
+    {
+      "knowledgeId": "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+      "detail": "The embalming process and specific requirements when supporting the embalmer "
+    },
+    {
+      "knowledgeId": "2893272c-db74-4fee-b4f8-b4910a812690",
+      "detail": "The anatomical structure of the human body"
+    },
+    {
+      "knowledgeId": "461c0364-876d-4721-9b29-7ce8a626ffd0",
+      "detail": "The physiology of anatomical systems in the human body"
+    },
+    {
+      "knowledgeId": "9107e7b8-7552-4be1-aceb-b9241f702738",
+      "detail": "The structure and life cycles of bacteria, protozoa, fungi and viruses of relevance to human health"
+    },
+    {
+      "knowledgeId": "70ae339d-b47a-4c24-b935-1f2fc651a6c1",
+      "detail": "The procedure to record and retrieve tissue from a deceased person"
+    },
+    {
+      "knowledgeId": "e880ed92-ebb3-4c93-a495-bc813ac4766e",
+      "detail": "The requirements for specialist post-mortem examinations"
+    },
+    {
+      "knowledgeId": "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
+      "detail": "The documentation requirements for post-mortem examination consent and subsequent procedures"
+    },
+    {
+      "knowledgeId": "16dea393-4464-471d-9fbe-55f8a5db355f",
+      "detail": "The specific requirements when supporting the pathologist"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+      "detail": "Treat colleagues and the deceased with respect and dignity"
+    },
+    {
+      "behaviourId": "b442f662-66f0-4b98-81a2-6876a5b9f388",
+      "detail": "Maintain professionalism at all times"
+    },
+    {
+      "behaviourId": "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+      "detail": "Be considerate of the diverse needs of individuals"
+    },
+    {
+      "behaviourId": "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+      "detail": "Demonstrate attention to detail"
+    },
+    {
+      "behaviourId": "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+      "detail": "Demonstrate empathy and sensitivity"
+    },
+    {
+      "behaviourId": "c997424a-e705-437d-8e52-c95877743688",
+      "detail": "Be adaptable and flexible to situations as they arise"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "35255b6c-a219-417c-994a-8345e3df0b70",
+      "detail": "Follow safe operating procedures to monitor and maintain the safety and hygienic condition of equipment and mortuary"
+    },
+    {
+      "skillId": "a5865b51-0373-4214-8777-4cf1916e1b20",
+      "detail": "Organise the repair and replacement of faulty / damaged equipment if necessary"
+    },
+    {
+      "skillId": "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+      "detail": "Complete all relevant documents for each deceased in line with organisational system requirements reporting any discrepancies to the appropriate person"
+    },
+    {
+      "skillId": "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+      "detail": "Carry out opening checks to ensure mortuary environment is safe and ready for use"
+    },
+    {
+      "skillId": "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+      "detail": "Carry out stock rotation, control and replenishment in line with organisational systems and procedures"
+    },
+    {
+      "skillId": "0e743046-0501-49d2-9c86-9bfa92787489",
+      "detail": "Order supplies as required within limits of authority"
+    },
+    {
+      "skillId": "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+      "detail": "Carry out correct identification of the deceased, checking condition and recording personal effects and details on organisational database/system as required"
+    },
+    {
+      "skillId": "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+      "detail": "Triage the deceased by assessing, prioritising and carrying out initial care as necessary and permitted within scope of practise"
+    },
+    {
+      "skillId": "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+      "detail": "Complete on-going assessments, acting on and communicating any issues arising"
+    },
+    {
+      "skillId": "294201f6-403a-4d12-be72-16153f3f6935",
+      "detail": "Monitor the available spaces and communicate to line manager in line with organisational procedures"
+    },
+    {
+      "skillId": "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+      "detail": "Complete necessary risk assessments on equipment and mortuary environment as required in line with organisational procedures"
+    },
+    {
+      "skillId": "0326a7b7-c4c7-4290-b39f-9d6dcb707e31",
+      "detail": "Dispose of or return soiled items according to legislation and organisational procedures"
+    },
+    {
+      "skillId": "008ae4b9-7734-4110-a380-d5b1282316f5",
+      "detail": "Carry out cleaning and disinfection processes in the care of the deceased according to client wishes"
+    },
+    {
+      "skillId": "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+      "detail": "Prioritise workload to meet business and client demands"
+    },
+    {
+      "skillId": "2776c904-3729-457b-aa9b-27ece7755783",
+      "detail": "Demonstrate the use of communication methods, tools and skills, adapting technique and style to suit the individual"
+    },
+    {
+      "skillId": "d12be3b5-1583-47e6-84cc-4253acf508e0",
+      "detail": "Monitor the progress of the deceased through the mortuary area reporting any issues to the appropriate person"
+    },
+    {
+      "skillId": "4d6fcfe2-d477-42ee-878c-facec6e26024",
+      "detail": "Carry out quality checks at every interaction with the deceased"
+    },
+    {
+      "skillId": "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+      "detail": "Carry out cleaning schedule in line with organisational requirements, reporting any issues to the appropriate person"
+    },
+    {
+      "skillId": "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+      "detail": "Assist other colleagues within the mortuary environment as and when required"
+    },
+    {
+      "skillId": "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+      "detail": "Apply manual handling and safe working practices in the completion of duties"
+    },
+    {
+      "skillId": "37903152-2b9e-4874-a720-e1a9b7a9d666",
+      "detail": "Prepare the deceased for release and complete final quality checks before the deceased leaves the mortuary"
+    },
+    {
+      "skillId": "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+      "detail": "Monitor the standard of care within the mortuary, identifying training and development needs and reporting to the appropriate person"
+    },
+    {
+      "skillId": "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+      "detail": "Identify areas for self-development and maintain continuous professional development"
+    },
+    {
+      "skillId": "3a733c86-8dd3-433f-9429-854c1292e981",
+      "detail": "Demonstrate and share best practice with the team"
+    },
+    {
+      "skillId": "6289407c-acc2-4832-90c9-2d406442582a",
+      "detail": "Prioritise workload considering initial assessment of the deceased, business, family members and client requirements, timescales and collaborate with the wider team"
+    },
+    {
+      "skillId": "bc54537a-0927-467e-ad1a-92a2b304fd47",
+      "detail": "Accurately measure the deceased considering size and weight implications, communicate any concerns to the appropriate person"
+    },
+    {
+      "skillId": "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+      "detail": "Prepare the deceased for embalming"
+    },
+    {
+      "skillId": "731d55b8-54c1-4af9-aadb-e107c022e875",
+      "detail": "Support the embalmer in the embalming process"
+    },
+    {
+      "skillId": "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+      "detail": "Carry out preparation of the deceased for example, washing, feature setting, orifice packing, dressing, application of cosmetics, personal grooming and any specific individual requirements respecting religious and cultural beliefs"
+    },
+    {
+      "skillId": "0d498dfe-af8f-4ee1-b108-64078003aa63",
+      "detail": "Implement family-specific and cultural needs and wishes"
+    },
+    {
+      "skillId": "d2bb0d48-ff92-4793-91ad-96c1a411d9a4",
+      "detail": "Carry out identification and personal effect checks at every interaction with the deceased"
+    },
+    {
+      "skillId": "137e524b-71b8-45eb-9bd7-5e9e444f191a",
+      "detail": "Prepare the deceased for post-mortem examination "
+    },
+    {
+      "skillId": "1d50f20e-ebad-4e94-9a4a-7a80eb806dd6",
+      "detail": "Carry out external examination of the deceased "
+    },
+    {
+      "skillId": "ee1813bc-69d0-477f-be44-b2a316988c5a",
+      "detail": "Carry out evisceration and dissection of the deceased under the direction of supervisory staff"
+    },
+    {
+      "skillId": "8f89fa0c-06f0-4409-98d0-08173a871f4e",
+      "detail": "Carry out examination of dissected organs and structures"
+    },
+    {
+      "skillId": "be74fc32-1a6a-4dd9-af94-8799fb03660e",
+      "detail": "Carry out reconstruction of the deceased following post-mortem examination"
+    },
+    {
+      "skillId": "ff46214f-f4b1-4e7e-b6d8-e681b1443a78",
+      "detail": "Carry out procedures for tissue retrieval and recording under the direction of supervisory staff"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-03-30T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0473",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "ruth.pugh@people1st.co.uk",
+  "involvedEmployers": "The Co-operative Group Funeralcare\nPeople 1st international\nDignity Plc\nFuneral Partners Ltd\nLincolnshire Co-op\nEast of England Co-op\nEast Sussex Healthcare Trust\nS. Stibbards & Sons Family Funeral DirectorsS.Stibbards & Sons Family Funeral Directors\nA.R Adams (Funeral Directors) Ltd\nC.P.J Field Funeral Directors\nThe Association of Anatomical Pathology Technicians\nThe British Institute of Embalmers\nHealth Education England\nRoyal Society for Public Health\nNorth Tees and Hartlepool NHS Foundation Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2020-12-03T09:45:07 +00:00",
-  "lastUpdated": "2020-12-03T09:45:07 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/mortuary-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/mortuary-technician",
-  "qualifications": [],
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Anatomical pathology technologist",
+    "Embalming assistant",
+    "Mortuary assistant",
+    "Mortuary technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health assistant",
+  "clusterId": "112",
+  "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
+  "createdDate": "2022-02-04T08:52:24 +00:00",
+  "lastUpdated": "2022-07-27T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-03-30T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0889",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0889-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0889-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "51597d45-4ff3-4951-a3f2-af113234489d",
+      "title": "RSPH Level 3 Diploma in Healthcare Science (Anatomical Pathology Technology)Guided Learning Hours (GLH) 363 hours Total Qualification Time (TQT) 615 hours  ",
+      "level": "3",
+      "anyAdditionalInformation": "This qualification is mandated for those learners using the APT option",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "duties": [
+    {
+      "dutyID": "b0ae3797-f0a3-4354-af93-6b7a961e53cf",
+      "dutyDetail": "Monitor the safety and hygiene of equipment and mortuary in line with legislation and business standards",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+        "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+        "0e743046-0501-49d2-9c86-9bfa92787489",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "0326a7b7-c4c7-4290-b39f-9d6dcb707e31",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "731d55b8-54c1-4af9-aadb-e107c022e875"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "01d344ef-a80e-448c-bd9a-98c360cbe178",
+      "dutyDetail": "Ensure facilities, equipment, consumables and sundries are available and serviceable",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "bc98721d-b97e-4d94-ba10-b0e1a0dfc34f",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "70ae339d-b47a-4c24-b935-1f2fc651a6c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+        "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+        "0e743046-0501-49d2-9c86-9bfa92787489",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "8f89fa0c-06f0-4409-98d0-08173a871f4e",
+        "be74fc32-1a6a-4dd9-af94-8799fb03660e",
+        "ff46214f-f4b1-4e7e-b6d8-e681b1443a78"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7ab08a00-a7a3-440c-84c8-e40ddbd1971e",
+      "dutyDetail": "Manage the receipt and release including identification check and personal effects in line with business policies and procedures",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "d2bb0d48-ff92-4793-91ad-96c1a411d9a4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79c1d969-1ed7-42e1-b271-65aa61e842b8",
+      "dutyDetail": "Carry out initial and on-going assessments of the deceased to monitor the condition of the deceased and any changes that occur due to natural decomposition",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "9107e7b8-7552-4be1-aceb-b9241f702738"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a",
+        "1d50f20e-ebad-4e94-9a4a-7a80eb806dd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8043508a-82c8-489d-828a-4107213b15ef",
+      "dutyDetail": "Manage risks within the limits of own responsibilities, notify the wider team of any concerns and escalate high risks to the senior manager",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "70ae339d-b47a-4c24-b935-1f2fc651a6c1",
+        "e880ed92-ebb3-4c93-a495-bc813ac4766e",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "0326a7b7-c4c7-4290-b39f-9d6dcb707e31",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "37903152-2b9e-4874-a720-e1a9b7a9d666",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a",
+        "1d50f20e-ebad-4e94-9a4a-7a80eb806dd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c540570a-a320-43fd-9ab1-b749494c9ac9",
+      "dutyDetail": "Carry out initial care such as cleaning of deceased and removal of soiled items",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "0326a7b7-c4c7-4290-b39f-9d6dcb707e31",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8070edbc-a755-49fa-806e-931df58b0643",
+      "dutyDetail": "Manage the flow of cases in line with business and client priorities and liaise with team members to ensure that the service user or client is kept informed",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "9107e7b8-7552-4be1-aceb-b9241f702738",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "876e26a0-6c43-4569-a748-5af8cc62076d",
+      "dutyDetail": "Maintain the register of deceased",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ab6e6eca-57e3-4ee8-ba41-880cef6588a3",
+      "dutyDetail": "Ensure correct documents and permissions are in place in line with legislation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "d2bb0d48-ff92-4793-91ad-96c1a411d9a4",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9b20012-125c-435a-82cd-3e50bf421c36",
+      "dutyDetail": "Clean the mortuary before/after procedures to maintain infection control",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+        "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "70ffb36b-91d4-47e0-b434-5be9f420ec21",
+      "dutyDetail": "Communicate with third parties, clients, doctors, internal and external stakeholders to ensure the business delivers the highest level of care to the service user, client and the deceased",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "bc98721d-b97e-4d94-ba10-b0e1a0dfc34f",
+        "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463",
+        "e880ed92-ebb3-4c93-a495-bc813ac4766e",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+        "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+        "0e743046-0501-49d2-9c86-9bfa92787489",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "a43991df-4b7a-4ab0-bc2e-514327d22ee5",
+        "e0bf863f-ea45-4cca-b0ea-8b93814a09ca",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "b7de5ec6-1407-44da-831e-2cd1d5baa05a",
+        "0326a7b7-c4c7-4290-b39f-9d6dcb707e31",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "80073ec9-a62c-47ca-b21a-9f7c40b3d015",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "37903152-2b9e-4874-a720-e1a9b7a9d666",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "731d55b8-54c1-4af9-aadb-e107c022e875",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63",
+        "d2bb0d48-ff92-4793-91ad-96c1a411d9a4",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a",
+        "ee1813bc-69d0-477f-be44-b2a316988c5a",
+        "8f89fa0c-06f0-4409-98d0-08173a871f4e",
+        "be74fc32-1a6a-4dd9-af94-8799fb03660e",
+        "ff46214f-f4b1-4e7e-b6d8-e681b1443a78"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b98c02d-5ab2-4eba-9303-1cdda6cae070",
+      "dutyDetail": "Carry out stock / chemicals inventory and ensure stock replenishment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "d2fd9e79-f5a7-4c61-bbc5-96060bcda0ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "a5865b51-0373-4214-8777-4cf1916e1b20",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "03510277-ee01-48bb-a7bd-36007cfcd3c7",
+        "5e25d68a-4414-4474-bb21-53fc1478dfc2",
+        "0e743046-0501-49d2-9c86-9bfa92787489",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "91f6f1fe-6f9c-4f77-9447-592ab19374de",
+      "dutyDetail": "Participate in on-going learning and continuous development of self and team",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b2de9861-1b05-416b-a814-59718dac9cb7",
+      "dutyDetail": "Assist in the embalming where necessary",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "bc98721d-b97e-4d94-ba10-b0e1a0dfc34f",
+        "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+        "d4b5ee26-7efa-491a-929d-9f71e2fd5463"
+      ],
+      "mappedOptions": [
+        "2981610f-764e-4021-b27b-916a59f1bcbb"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "731d55b8-54c1-4af9-aadb-e107c022e875"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e1b55730-ffa7-4c56-912a-fc9d077d951e",
+      "dutyDetail": "Prepare the deceased for their funeral, such as; washing, setting features, dressing, hair, make-up, encoffining where necessary",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "bc98721d-b97e-4d94-ba10-b0e1a0dfc34f",
+        "e51d1a76-b9ac-4604-8606-ddd48bddc980",
+        "9105668d-1ce1-4766-be3c-e18e0d30f6ae",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97"
+      ],
+      "mappedOptions": [
+        "2981610f-764e-4021-b27b-916a59f1bcbb"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "e0e5786c-cd3c-4c43-9dd2-242618e21760",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc",
+        "0d498dfe-af8f-4ee1-b108-64078003aa63"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92f32a29-a2d3-4606-965a-cfa6d0668913",
+      "dutyDetail": "Maintain and audit the standard of care within the mortuary in line with organisational policies and procedures",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04"
+      ],
+      "mappedOptions": [
+        "2981610f-764e-4021-b27b-916a59f1bcbb"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "37903152-2b9e-4874-a720-e1a9b7a9d666",
+        "a9b8e503-7006-426b-b827-7e7bba19d9cb",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5c6da14d-3acf-4d28-841f-199cad72be93",
+      "dutyDetail": "Support viewings of the deceased",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5",
+        "5b3f0f9a-900e-462d-9f96-f74b4e674a97"
+      ],
+      "mappedOptions": [
+        "2981610f-764e-4021-b27b-916a59f1bcbb"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47",
+        "3bb19449-3764-48c2-bbc2-f814866c8fdc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "05edb708-4bce-40de-94cc-0e85961b65d6",
+      "dutyDetail": "Support the out-of-hours function of the mortuary",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "6664eae3-5ff1-4fc4-8ad4-2b4bbe466d04",
+        "81d6a22e-ff50-4783-a802-57cfb112e038",
+        "1f0f3c30-a799-4597-9398-fe2cbba804a5"
+      ],
+      "mappedOptions": [
+        "2981610f-764e-4021-b27b-916a59f1bcbb"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "37903152-2b9e-4874-a720-e1a9b7a9d666",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "6289407c-acc2-4832-90c9-2d406442582a",
+        "bc54537a-0927-467e-ad1a-92a2b304fd47"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1a4fc857-84f4-49f2-ad34-cbf875ea38c3",
+      "dutyDetail": "Prepare the deceased for post-mortem examination, such as checking for bruising, jaundice, trauma and implanted devices ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "f1b02826-95a8-4e70-ae1c-e81adc70bcd5",
+        "97e2833d-97f8-4cd9-a949-010f35096dcc",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "e880ed92-ebb3-4c93-a495-bc813ac4766e",
+        "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [
+        "32d05fde-4b75-4813-820a-98f0c3e5b5d2"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "294201f6-403a-4d12-be72-16153f3f6935",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "137e524b-71b8-45eb-9bd7-5e9e444f191a",
+        "1d50f20e-ebad-4e94-9a4a-7a80eb806dd6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7b88c36b-84a5-431e-97a4-f7f209059c8c",
+      "dutyDetail": "Assist with internal examination of the deceased, including evisceration and dissection of organs and structures",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [
+        "32d05fde-4b75-4813-820a-98f0c3e5b5d2"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "ee1813bc-69d0-477f-be44-b2a316988c5a",
+        "8f89fa0c-06f0-4409-98d0-08173a871f4e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eb3dca57-19e9-4352-8f99-fbac1a8125e0",
+      "dutyDetail": "Carry out reconstruction of the deceased following a post-mortem",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [
+        "32d05fde-4b75-4813-820a-98f0c3e5b5d2"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "be74fc32-1a6a-4dd9-af94-8799fb03660e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4a35a0e4-7a0b-4470-9200-320aa8f56f05",
+      "dutyDetail": "Carry out tissue retrieval and recording under the direction of supervisory staff",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "5a74b719-8c6d-4f0a-82d8-5c25c0402872",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "9107e7b8-7552-4be1-aceb-b9241f702738",
+        "70ae339d-b47a-4c24-b935-1f2fc651a6c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [
+        "32d05fde-4b75-4813-820a-98f0c3e5b5d2"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981",
+        "ff46214f-f4b1-4e7e-b6d8-e681b1443a78"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ca49180e-32db-44a4-8609-5cdeba030ba3",
+      "dutyDetail": "Assist the pathologist where necessary",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "f8a3a596-9913-4d7f-943d-cb00abb734ba",
+        "b442f662-66f0-4b98-81a2-6876a5b9f388",
+        "0bd2665c-01d9-4993-aa8f-c3f73fc5a14b",
+        "43c1137f-5e27-44e4-9d5f-4c6e19747736",
+        "337d44c9-b2dd-45f0-9f3a-9d13b72fe87c",
+        "c997424a-e705-437d-8e52-c95877743688"
+      ],
+      "mappedKnowledge": [
+        "26eec3ba-a029-4714-9f3a-1c88f19d7fe6",
+        "7473ad5e-8820-464c-b90e-1f45fbece2ef",
+        "b618ac59-66a2-4cfd-b508-fb77c8ab3972",
+        "25f7bed6-f03f-4179-8596-423ba2f8a677",
+        "73a923c6-973f-4037-a3aa-9648b2e5ae13",
+        "9c27ed9e-b225-4c23-8446-5b72b454c6fb",
+        "db0bd803-2a1c-4429-8a2e-05b6d2da7e06",
+        "1b77eb40-b87b-4567-9195-fcb6e641fad1",
+        "d38d4427-11fd-4c46-89df-709d67161d94",
+        "79da6124-d3ec-43cc-abad-f3ef1f441307",
+        "c5c1ea99-28d2-4411-a3ab-f3b7040cc153",
+        "36a712fc-3b18-4fa1-b59a-5ad5e6ada069",
+        "b9d9f7bf-e138-4cba-9aae-2fd28d24050a",
+        "b2cab2b0-718f-4af6-b827-0a597c99b4b9",
+        "2893272c-db74-4fee-b4f8-b4910a812690",
+        "461c0364-876d-4721-9b29-7ce8a626ffd0",
+        "9107e7b8-7552-4be1-aceb-b9241f702738",
+        "e880ed92-ebb3-4c93-a495-bc813ac4766e",
+        "b8d4bfaf-0f17-4d38-abee-905d91dc70c1",
+        "16dea393-4464-471d-9fbe-55f8a5db355f"
+      ],
+      "mappedOptions": [
+        "32d05fde-4b75-4813-820a-98f0c3e5b5d2"
+      ],
+      "mappedSkills": [
+        "35255b6c-a219-417c-994a-8345e3df0b70",
+        "43ec47e2-4875-4b8d-b6ce-ad8fc958bb67",
+        "4f6408ff-3177-4303-b207-a4ac2b62c2f6",
+        "008ae4b9-7734-4110-a380-d5b1282316f5",
+        "6cfc142f-98fd-4229-a1f7-34a0a9d5b214",
+        "2776c904-3729-457b-aa9b-27ece7755783",
+        "d12be3b5-1583-47e6-84cc-4253acf508e0",
+        "4d6fcfe2-d477-42ee-878c-facec6e26024",
+        "964f63db-2e69-4a0b-a6ba-a76baccbfbc4",
+        "ecda98c0-e8e8-42f0-994e-23bf7f74c398",
+        "bb7327c0-a75e-42ef-bf28-ca623edf0c1e",
+        "3a733c86-8dd3-433f-9429-854c1292e981"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "2981610f-764e-4021-b27b-916a59f1bcbb",
+      "title": "Funeral mortuary technician",
+      "occupationCode": "OCC0889B"
+    },
+    {
+      "optionId": "32d05fde-4b75-4813-820a-98f0c3e5b5d2",
+      "title": "Anatomical pathology technologist",
+      "occupationCode": "OCC0889A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-07-27T00:00:00"
 }
