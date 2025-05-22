@@ -1,60 +1,1418 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 703,
   "referenceNumber": "ST0963",
+  "learningAimClassCode": "",
   "title": "Surface finisher",
-  "status": "Proposal in development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2021-03-23T00:00:00",
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0963",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-03-24T00:00:00",
+  "earliestStartDate": "2023-03-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
-  "level": 4,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "overviewOfRole": "Surface finishing is a broad range of industrial processes that alter the surface of a manufactured item to achieve a certain property.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 42,
+  "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "construction",
+    "surface finisher",
+    "manufacturing",
+    "service",
+    "repair",
+    "installation",
+    "industrial",
+    "wooden",
+    "surface"
+  ],
+  "jobRoles": [
+    "Marine surface finisher",
+    "Marine painter",
+    "Marine sprayer",
+    "Yacht painter",
+    "Marine French polisher",
+    "Yacht finisher",
+    "Marine coatings finisher",
+    "Paint technician",
+    "Detail paint finisher",
+    "Detail painter interior components",
+    "Aviation paint technician",
+    "Aviation woodwork/lacquer finisher",
+    "Vehicle painter",
+    "Vehicle sprayer",
+    "Paint team member"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6984/st0963_surface_finisher_l3_c44_ap_for_publication_140223.pdf",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.2 Manufacturing technologies",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the engineering and manufacturing sector within the marine, aviation and automotive industries. Surface finishers may work for boat manufacturers, refit and repair boatyards, marinas, specialist marine companies, aerospace manufacturing, repair and restoration companies and automotive manufacturers including ‘supercar’ manufacturers and motorsport companies. These can be small, medium or large businesses. Surface finishers can undertake work on a variety of products including for example motorised cruisers, narrowboats, sailing boats, work boats, superyachts, high end vehicles, supercars, private jets and commercial aircraft. This is a core and options apprenticeship standard. Apprentices will be trained and assessed against the core and one option. There are three options: 1. Marine surface finisher 2. Aviation surface finisher 3. Automotive surface finisher &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is for surface finishers to prepare the wooden (hard and soft woods), metal (ferrous and non-ferrous) or composite (FRP, FRC) hulls, superstructures, chassis and components of boats, vehicles and aircrafts of varying complexity and size. They plan their work, set up equipment and apply coatings to the prepared surface using specialist techniques and products for example, spray, hand paint, varnish and French polish. They identify paint defects, take corrective action, carry out performance testing and quality assurance activities including the use of inspection equipment. They carry out maintenance activities on facilities and equipment and complete a wide range of documentation. The main differences between the three options are those relating to dimensional scale, volume of throughput, operational environment, materials (automotive uses water-based paints, marine uses a lot of varnishes and aerospace uses more complex substrates subject to regulatory oversight), technology, equipment and application technique. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with the immediate team such as production staff, quality assurance staff and specialist trades such as engineers, boat builders, riggers, carpenters, welders and electricians. They also liaise with other departments regularly, such as sales, health and safety, human resources, audit and training. Surface finishers may also have contact with external technical paint representatives, contractors, customers and suppliers. Surface finishers work in paint preparation workshops, finishing spray booths, tented areas, product interiors and other outside environments. These areas house a range of specialist tools and equipment, which could include a maintenance area, mixing area and adjoining workshops. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for ensuring the highest standards are met when preparing a product or coating to the appropriate final surface finish. They must ensure the safety of themselves and others and the environment ensuring they utilise Personal Protective Equipment (PPE), carry out occupational health surveillance and adhere to Control of Substances Hazardous to Health (COSHH). They may work on their own or part of a team. They must work within budgets, timescales and quality standards to meet customer requirements.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "1beabd78-34e5-4cdf-ba8c-fb6708d84576",
+      "detail": "Characteristics and features of the surface finishing industry and the surface finisher’s role and placement within the industry, and who surface finishers interact with in order to perform their work operations."
+    },
+    {
+      "knowledgeId": "805143bd-1ee9-44c1-9eb2-ece4d939e3d2",
+      "detail": "Communication techniques, their role and features, along with the advantages and disadvantages of each when communicating with different customers and stakeholders (internal and external). Organisational processes and procedures regarding communication channels, techniques and how communications and their outcomes are recorded and documented."
+    },
+    {
+      "knowledgeId": "98d6b372-c860-45e9-829d-1b0d5b5c4743",
+      "detail": "Surface finishing terminology and its meaning. Uses of information technology relevant to surface finishing work operations."
+    },
+    {
+      "knowledgeId": "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+      "detail": "Problem-solving and testing techniques and methods used to resolve surface finishing problems relevant to their area of responsibility."
+    },
+    {
+      "knowledgeId": "c26fd92b-945d-491f-821f-3f9819cf0121",
+      "detail": "Sourcing of materials and equipment, costing, pricing and budgeting principles and identifying and addressing discrepancies and quality issues."
+    },
+    {
+      "knowledgeId": "f6cc6ef4-7799-4f21-b796-58572564e38b",
+      "detail": "Organisational policies, processes and procedures for the design, planning and set up, and delivery of surface finishing activities including tools, materials, equipment and environment."
+    },
+    {
+      "knowledgeId": "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+      "detail": "Legislation, regulations, industry guidance, practices and procedures that direct health and safety and environmental sustainability at work and the importance of complying with control of substances hazardous to health (COSHH). Personal protective equipment (PPE) and respiratory protective equipment (RPE)."
+    },
+    {
+      "knowledgeId": "74be3e92-4618-466c-afc1-51f7bf28094f",
+      "detail": "The requirement for personal responsibility and regular health surveillance and the importance of properly adhering to disposal of hazardous waste principals ensuring protection of the environment."
+    },
+    {
+      "knowledgeId": "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+      "detail": "Ways of ensuring quality of surface finishing processes and work products, including continuous business improvement techniques and how they are integrated into surface finishing work processes and procedures."
+    },
+    {
+      "knowledgeId": "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+      "detail": "Sources of information and guidance that directs surface finishing work operations, typically including drawings and technical specifications, where this information and guidance can be found and when and where it should be used."
+    },
+    {
+      "knowledgeId": "ca995437-33c0-4c98-902e-671dcf04ed15",
+      "detail": "Mathematical techniques and calculations that underpin surface finishing work."
+    },
+    {
+      "knowledgeId": "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+      "detail": "Range and purpose of tools, materials and equipment used when setting up and when performing surface finishing operations, their characteristics, features, their safe use, movement and operation and the consequences of using inappropriate tools and techniques for the correct surface finish."
+    },
+    {
+      "knowledgeId": "7dafa66c-2c25-40b2-b00a-f49488a7001e",
+      "detail": "The relationship between different substrates, materials and complex shapes."
+    },
+    {
+      "knowledgeId": "2326b277-c288-403c-b66e-abac8d8c42f3",
+      "detail": "Importance of accurately completing surface finishing documentation and the information that needs to be recorded during different stages of surface finishing work operations."
+    },
+    {
+      "knowledgeId": "6cd64b98-241f-4463-b0e3-5af162375919",
+      "detail": "Importance of restoring the work area to a tidy and safe state on completion of surface finishing work operation and what this entails."
+    },
+    {
+      "knowledgeId": "770c3384-3c40-4953-be7d-50c4272aeb37",
+      "detail": "Checks, tests and inspections undertaken before, during and after performing different surface finishing work operations, how these are undertaken and any remedial action required."
+    },
+    {
+      "knowledgeId": "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
+      "detail": "The common types of defects (for example, sags, seeds, runs) and contamination effects found at inspection and their potential causes."
+    },
+    {
+      "knowledgeId": "45ed4b4a-b129-4a41-a819-e42999f265b5",
+      "detail": "Application principles and techniques for different surface finishing materials."
+    },
+    {
+      "knowledgeId": "db3c73a3-4a3d-4e2d-a287-f8f319f405fa",
+      "detail": "Basic operational principles of surface finishing equipment and their servicing and maintenance requirements."
+    },
+    {
+      "knowledgeId": "7b84825c-e585-4f1b-ad45-ad434377b34e",
+      "detail": "Importance of customer service and customer service principles and techniques."
+    },
+    {
+      "knowledgeId": "0c40e35d-8bfc-4e39-8e00-4c0921c15794",
+      "detail": "Human factors and how they can affect an individual’s performance while carrying out maintenance and surface finishing activities."
+    },
+    {
+      "knowledgeId": "de2f498c-2ba5-4445-9d72-58b33569207c",
+      "detail": "Work at height regulations and requirements for safe access and egress from a vessel such as engineering controls (handrails, guard rails, guard wires etc.) and PPE to be worn during the work at height activity and its care and correct use (e.g. harnesses and lanyards)."
+    },
+    {
+      "knowledgeId": "306aaa24-96f5-4f34-b0b1-12d8d489c7f9",
+      "detail": "Process and safety requirements for working in confined spaces."
+    },
+    {
+      "knowledgeId": "49f9913a-8dbd-4ce7-b80e-8f0d0a36aec5",
+      "detail": "Regulations and requirements to setup work platforms, staging, towers and mobile elevated work platforms (MEWP) and training requirements to ensure safe use."
+    },
+    {
+      "knowledgeId": "bce9f152-ee17-4062-94a5-c3e4bd0de50e",
+      "detail": "Requirements of lifting operations and lifting equipment regulation (LOLER) in relation to MEWPs and harnesses."
+    },
+    {
+      "knowledgeId": "7a5b6523-c4cd-4410-b526-b49a56990717",
+      "detail": "Working practices, hazards, associated risks and the emergency preparedness when carrying out work in an operational marine environment (including on or near the water) including the use of electrical power tools and requirements for PPE such as life jackets."
+    },
+    {
+      "knowledgeId": "10a0c401-9ca8-4392-b08c-0e77d07515f7",
+      "detail": "Flexible work practice and how marine paint operations effect the workflow and schedule of other trades to accommodate work processes and COSHH requirements such as to meet product overcoating timeframes."
+    },
+    {
+      "knowledgeId": "72a464cc-a9a1-4993-b28a-65c0608fe98d",
+      "detail": "Local restrictions in relation to work operations such as site of special scientific interest (SSSI) restrictions in harbours and rivers and consideration for environmental protection of watercourses."
+    },
+    {
+      "knowledgeId": "c9d3e2fc-5205-4219-947c-874e789be4e9",
+      "detail": "Products, techniques and various methods of applying coatings by hand such as roll and tip and hand varnishing."
+    },
+    {
+      "knowledgeId": "ad6a6812-effb-48ea-9b26-1bd14cccc62d",
+      "detail": "Products, techniques, requirements and various methods of polishing and finishing such as French polishing and gel coat finishing."
+    },
+    {
+      "knowledgeId": "e5379d5b-0b06-4210-a388-49e05f3c16df",
+      "detail": "Products, techniques and requirements for spraying large complex shapes, structures and components, including the need to maintain a wet edge whilst spraying. Team-based application methods such as multiple sprayers, pot men and spotters to safely spray hulls and large structures."
+    },
+    {
+      "knowledgeId": "e10fb860-2c5b-4a97-bb96-d4a1f7fe26bf",
+      "detail": "Specific coatings and metal treatments used in aviation painting, including types of finish, measurement of coating thickness and the application techniques for matt and gloss finishes."
+    },
+    {
+      "knowledgeId": "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+      "detail": "Processes used to prepare an aircraft for refinishing including aircraft bonding, inspection techniques and protection of vital components."
+    },
+    {
+      "knowledgeId": "af129e9d-a30c-448e-9642-96748ff05c22",
+      "detail": "Composites and substrates used in aviation and the preparation techniques used with these materials."
+    },
+    {
+      "knowledgeId": "6c7da824-2dca-4c06-992a-cffc034e040f",
+      "detail": "Military or civil regulations as applicable to aircraft refinishing."
+    },
+    {
+      "knowledgeId": "53301487-cc50-4473-8488-1a5e0a202809",
+      "detail": "Critical areas on an aircraft and how these can be affected by refinishing including Reduced Vertical Separation Minima (RVSM) requirements."
+    },
+    {
+      "knowledgeId": "b5d1d5fa-205e-4555-84c2-7c8b5e13934c",
+      "detail": "Inspection techniques to inspect an aircraft post paint strip such as inspecting for corrosion. Types of corrosion, treatment of corrosion and techniques used for inspecting for delamination."
+    },
+    {
+      "knowledgeId": "77fadf93-1bed-48f9-9d75-e18ba910c71b",
+      "detail": "Processes used in applying and positioning both mandatory and customer selected external markings."
+    },
+    {
+      "knowledgeId": "91c1d33d-6828-46b9-819d-735fd9d84c94",
+      "detail": "Process and safety requirements for working in confined spaces."
+    },
+    {
+      "knowledgeId": "1ff63db2-cd67-451c-a5b3-b92e0edbe969",
+      "detail": "Properties of substrates related to the automotive sector including plastics, metals and carbon fibres. Impact of the substrate on the surface finish, including changes in colour match and variations in techniques."
+    },
+    {
+      "knowledgeId": "3cd59735-54d2-4594-9232-e16482c0553c",
+      "detail": "Types of coatings used in automotive including anti-chip blackouts, base coats and their characteristics and application techniques."
+    },
+    {
+      "knowledgeId": "14c46d3c-b499-43bf-ae63-82bac6139907",
+      "detail": "The defect recording, processing and completion requirements required at automotive paint inspection stages."
+    },
+    {
+      "knowledgeId": "33b06469-58c1-4fd3-ad67-fc676694cd03",
+      "detail": "Methods used for masking out product, types of masking materials, application techniques."
+    },
+    {
+      "knowledgeId": "b01d07e6-6a91-4302-bc22-c28c3fa667a6",
+      "detail": "Methods of demasking, common concerns and defects arising from incorrect demasking."
+    },
+    {
+      "knowledgeId": "3a3de100-4040-461d-b586-6bd068677764",
+      "detail": "Techniques, tools, materials and methods used in polishing and finishing of automotive vehicle finishes."
+    },
+    {
+      "knowledgeId": "50d1ad3a-c7c7-48db-9c12-69497285507e",
+      "detail": "Types of spot repair. Techniques, tools, materials and methods used to carry out spot repairs."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+      "detail": "Embrace a safety culture and situational awareness including being hazard and risk aware when working."
+    },
+    {
+      "behaviourId": "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+      "detail": "Embrace an environmentally sustainable working culture, taking responsibility for the appropriate use of resources and own actions."
+    },
+    {
+      "behaviourId": "59961827-24e7-4e97-a20c-010861c2fdd7",
+      "detail": "Demonstrate commitment to quality, commercial awareness and continuous improvement."
+    },
+    {
+      "behaviourId": "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+      "detail": "Focus on the requirements of the customer (internal and external), seeking to provide outstanding customer service, meeting customer requirements."
+    },
+    {
+      "behaviourId": "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+      "detail": "Work individually and as part of a team, communicating at different levels to achieve positive work results."
+    },
+    {
+      "behaviourId": "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+      "detail": "Treat everyone with respect and courtesy, valuing diversity."
+    },
+    {
+      "behaviourId": "d80813e9-0e04-422d-ae98-36e89bf3a548",
+      "detail": "Motivated, meticulous, proactive and adaptable, with a focus on continuous personal development and knowledge sharing."
+    },
+    {
+      "behaviourId": "f3ebe64a-b3e8-4dc2-a927-561104061706",
+      "detail": "Manage own time to complete work operations within the confines of job responsibility."
+    },
+    {
+      "behaviourId": "bfd66f41-cc7e-4bf3-badb-0175b880a6f6",
+      "detail": "Demonstrate due consideration of human factors in performing maintenance and surface finishing activities."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "dbb13ef2-15fc-4299-8b6d-3d021275b2b4",
+      "detail": "Use communication and interpersonal techniques and terminology to aid interactions with colleagues, contractors, suppliers and others."
+    },
+    {
+      "skillId": "58e7b965-c678-4457-be63-9defb1403a46",
+      "detail": "Deliver appropriate customer service principles and techniques, in accordance with organisational policy and processes."
+    },
+    {
+      "skillId": "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+      "detail": "Maintain the safety of self along with others by following safe systems of work and  complying with all relevant legislation, regulations, codes of practice and other relevant information and guidance."
+    },
+    {
+      "skillId": "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+      "detail": "Consider sustainability and environmental impacts when planning and performing surface finishing work operations."
+    },
+    {
+      "skillId": "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+      "detail": "Follow approved industry and manufacturer’s guidance and techniques, operational work methods, practices, processes, principles and procedures when undertaking different surface finishing work operations, within required time frames."
+    },
+    {
+      "skillId": "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+      "detail": "Select, use, and store resources safely and correctly including tools, materials, equipment, machinery and consumables."
+    },
+    {
+      "skillId": "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
+      "detail": "Carry out the correct preparation techniques when working with a substrate."
+    },
+    {
+      "skillId": "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+      "detail": "Follow quality improvement principles, techniques, and methods and identify any areas for improvement, consulting internally and externally as appropriate."
+    },
+    {
+      "skillId": "fbc9598f-41c6-4b23-a312-be162d865795",
+      "detail": "Conduct required tests and checks when performing surface finishing work operations."
+    },
+    {
+      "skillId": "2fd9849b-b5d5-403b-9e75-f90dd54d344e",
+      "detail": "Restore work area to a safe and tidy condition in accordance with organisational and legislative policy and procedures."
+    },
+    {
+      "skillId": "a0e8e3c1-e1d3-4cb2-930a-e091b15d8c79",
+      "detail": "Complete records and documentation relevant to surface finishing work operations, in accordance with requirements such as legislative or regulatory."
+    },
+    {
+      "skillId": "f24924f6-6cbf-43c9-8153-8a6a0f3f1617",
+      "detail": "Check and identify surface defects and contamination issues to company and industry standards, using appropriate and relevant documentation."
+    },
+    {
+      "skillId": "766ebf26-5b44-44dd-a6b2-d41995d3d2d3",
+      "detail": "Dispose of waste materials, in accordance with safe working and environmental practices and approved procedures."
+    },
+    {
+      "skillId": "a141a518-bb26-4618-b617-d817637c9bc9",
+      "detail": "Carry out required rework using approved materials and techniques."
+    },
+    {
+      "skillId": "f807ed91-53d3-4e3c-9533-15bebdd5df3b",
+      "detail": "Perform routine maintenance and servicing on relevant equipment."
+    },
+    {
+      "skillId": "e5d635ea-13ac-4df7-a3fc-80534faa2b84",
+      "detail": "Deal with any problems that may present themselves within their own area of responsibility."
+    },
+    {
+      "skillId": "aab64a0c-7202-4226-88fd-5e1bf3da9034",
+      "detail": "Adhere to work at height regulations and requirements for safe access and egress from or around a vessel and utilise appropriate PPE when working at height ensuring pre-use checks, operation and maintenance activities are carried out correctly."
+    },
+    {
+      "skillId": "ae290b18-5e8c-474e-aa18-0665747ccaec",
+      "detail": "Setup work platforms to requirements and current regulations including staging, towers and mobile elevated work platforms (MEWP) to ensure safe use."
+    },
+    {
+      "skillId": "fda83fa0-a057-43ff-94d6-97401e6b927c",
+      "detail": "Carry out lifting operations in accordance with lifting operations and lifting equipment regulations (LOLER)."
+    },
+    {
+      "skillId": "9f660208-b466-43f1-8c7a-bdf581d56518",
+      "detail": "Identify hazards and control their associated risks when working on or near the water, using techniques such as risk assessment. Use emergency preparedness procedures when carrying out work in an operational marine environment (including on or near the water)."
+    },
+    {
+      "skillId": "8f40c4d6-2474-4242-b509-6743ee2e9b38",
+      "detail": "Adapt working practices to support marine paint operations which affect the workflow. Schedule work to accommodate other trades processes and COSHH requirements such as to meet product overcoating timeframes."
+    },
+    {
+      "skillId": "4121ee1a-46a0-4b28-86da-d9d5798ab247",
+      "detail": "Use products, techniques and various methods of applying coatings by hand such as roll and tip and hand varnishing."
+    },
+    {
+      "skillId": "678e16fe-3fc4-4390-b58f-e7a1fca63ddf",
+      "detail": "Use the correct products, techniques and various methods of polishing and finishing such as French polishing and gel coat finishing."
+    },
+    {
+      "skillId": "c19e4d90-461f-485c-96bc-ac892b5802ac",
+      "detail": "Use products, techniques, methods and equipment for spraying complex shapes, structures and components such as maintaining a wet edge whilst spraying and team-based application methods (multiple sprayers, pot men and spotters to safely spray hulls and large structures)."
+    },
+    {
+      "skillId": "e481681b-5433-4bd2-9a7c-491e39c126b4",
+      "detail": "Set up spray facilities in accordance with the manufacturer’s product data sheets and differing temperature and humidity requirements when applying coatings to wooden, composite or metal vessels."
+    },
+    {
+      "skillId": "0cfead40-2394-4d05-a283-0bc84c54cead",
+      "detail": "Carry out masking and demasking of large or complex shapes, without causing surface finish defects during the demask process."
+    },
+    {
+      "skillId": "1499d972-f622-41bd-b13c-e14b44239634",
+      "detail": "Follow the approved ground handling procedures in place to ensure the aircraft is correctly positioned in the hangar, ensuring safe working systems are in place to allow access prior to commencement of agreed works."
+    },
+    {
+      "skillId": "3ce9c808-2e28-47cc-8301-035a18a84f03",
+      "detail": "Comply with the manufacturer’s guidance notes on specific aircraft types using the Aircraft Maintenance Manual, structural repair manual and procedures when preparing and finishing aircraft substrates along with in-house quality documentation and procedures."
+    },
+    {
+      "skillId": "4a05ea34-478a-485d-b5f2-5ba3c9bcafb5",
+      "detail": "Inspect, identify and report surface defects, contamination and quality issues using appropriate and relevant documentation and in accordance with the manufacturer’s and the regulators requirements."
+    },
+    {
+      "skillId": "0c821e5a-fbdd-4f1d-a9d1-292660dd6255",
+      "detail": "Complete relevant task staging documentation to the work carried out, ensure this has been signed for and any materials used recorded and provide reference for technical data used."
+    },
+    {
+      "skillId": "ee4e1a27-a6b3-417f-80ec-f92e685de5cf",
+      "detail": "Inspect an aircraft, recording and rectifying listed defects using relevant documentation.  Comply with technical data and measuring methods during the inspection, for example dent and buckle charts, structural repair manual and standard practices."
+    },
+    {
+      "skillId": "8fde2896-dc37-45a0-8fad-8ff775e2844c",
+      "detail": "Interpret and understand Original Equipment Manufacturer (OEM) and customer data to apply and position external markings, both mandatory and customer selected."
+    },
+    {
+      "skillId": "1b978d77-48fd-4577-ae11-fdeae1990960",
+      "detail": "Use materials, equipment and techniques to achieve acceptable finishes on substrates such as plastics, metals and composites used in automotive manufacture."
+    },
+    {
+      "skillId": "22171fff-2c86-4944-b9d5-e5a502beaa11",
+      "detail": "Apply spray coatings across varying parts of a vehicle shell including vertical, horizontal and internal aspects of the vehicle."
+    },
+    {
+      "skillId": "cc1f7ccc-4e98-483f-9361-1b973669d59d",
+      "detail": "Apply various types of spray coating, such as base coats, lacquer coats, anti-chip."
+    },
+    {
+      "skillId": "3318bb7d-40f0-4571-b4f8-965319acbe62",
+      "detail": "Carry out masking of product."
+    },
+    {
+      "skillId": "af2e2939-a2f6-4cb8-9913-48a5db41e444",
+      "detail": "Demask products without causing surface finish defects."
+    },
+    {
+      "skillId": "fcef5ccc-29fc-4794-9ae3-34d973b7e6a6",
+      "detail": "Select the materials and methods and complete polishing and finishing of vehicle coatings."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2023-03-23T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
-  "tbReference": "",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbReference": "TB0575",
+  "tbMainContact": "steve.hancock@pendennis.com",
+  "involvedEmployers": "Pendennis Shipyard, Berthon Boat Company Ltd, Royal National Lifeboat Institution, Sunseeker International Ltd, Harrods Aviation, RAS Completions, Toyota",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": null,
-  "cluster": null,
-  "createdDate": "2021-03-23T16:58:22 +00:00",
-  "lastUpdated": "2021-03-23T16:58:22 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/surface-finisher#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/surface-finisher",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "Marine surface finisher",
+    "Marine painter",
+    "Marine sprayer",
+    "Yacht painter",
+    "Marine French polisher",
+    "Yacht finisher",
+    "Marine coatings finisher",
+    "Paint technician",
+    "Detail paint finisher",
+    "Detail painter interior components",
+    "Aviation paint technician",
+    "Aviation woodwork/lacquer finisher",
+    "Vehicle painter",
+    "Vehicle sprayer",
+    "Paint team member"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2022-01-27T10:59:43 +00:00",
+  "lastUpdated": "2023-03-24T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2023-03-23T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0963",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0963-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0963-v1-0",
   "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute for Marine Engineering Science and Technology (IMarEST) ",
+      "level": "Marine Technician (MarTech) associate member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "9982e542-1b48-483c-870d-aee40ca1ddf8",
+      "dutyDetail": "Produce solutions to meet design and customer requirements , including process design, equipment set up and safe systems of work  (including personal protective equipment (PPE), respiratory protective equipment (RPE) and control of substances hazardous to health (COSHH)), interacting with relevant teams as necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1beabd78-34e5-4cdf-ba8c-fb6708d84576",
+        "805143bd-1ee9-44c1-9eb2-ece4d939e3d2",
+        "98d6b372-c860-45e9-829d-1b0d5b5c4743",
+        "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "7b84825c-e585-4f1b-ad45-ad434377b34e",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dbb13ef2-15fc-4299-8b6d-3d021275b2b4",
+        "58e7b965-c678-4457-be63-9defb1403a46",
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "2fd9849b-b5d5-403b-9e75-f90dd54d344e",
+        "766ebf26-5b44-44dd-a6b2-d41995d3d2d3",
+        "e5d635ea-13ac-4df7-a3fc-80534faa2b84"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "77a67b7b-4cf6-4774-9f80-fdab577ce3a7",
+      "dutyDetail": "Identify industry specifications and characteristics. Report issues impacting on quality and deadlines by interacting with customers, suppliers, technical support staff and other relevant personnel both internally and externally.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1beabd78-34e5-4cdf-ba8c-fb6708d84576",
+        "805143bd-1ee9-44c1-9eb2-ece4d939e3d2",
+        "98d6b372-c860-45e9-829d-1b0d5b5c4743",
+        "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+        "c26fd92b-945d-491f-821f-3f9819cf0121",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dbb13ef2-15fc-4299-8b6d-3d021275b2b4",
+        "58e7b965-c678-4457-be63-9defb1403a46",
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
+        "fbc9598f-41c6-4b23-a312-be162d865795",
+        "a0e8e3c1-e1d3-4cb2-930a-e091b15d8c79",
+        "f24924f6-6cbf-43c9-8153-8a6a0f3f1617",
+        "766ebf26-5b44-44dd-a6b2-d41995d3d2d3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d2e283da-4c3b-4264-88fb-21599103e57b",
+      "dutyDetail": "Prepare coatings and different surfaces for finishing. Set up and use specialist equipment to apply  the final surface coating. For example using a static gun, taping, masking and blanking to a safe condition.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "7dafa66c-2c25-40b2-b00a-f49488a7001e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4f4a618e-7f58-443e-9c1d-d92d18079a4a",
+      "dutyDetail": "Set up and monitor the working environment in accordance with manufacturers data sheets in various specialist areas and settings. For example, temperature and humidity checks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "c26fd92b-945d-491f-821f-3f9819cf0121",
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3812979b-1ef3-47cc-9d23-87a3b1ffca0c",
+      "dutyDetail": "Ensure safe access and egress to and from the work area.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8390c7b9-d486-44a6-9e15-7f536cfc435c",
+      "dutyDetail": "Identify and rectify surface defects using a range of equipment and techniques to troubleshoot as per customer requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "7dafa66c-2c25-40b2-b00a-f49488a7001e",
+        "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
+        "45ed4b4a-b129-4a41-a819-e42999f265b5",
+        "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ffa028f0-87d7-4cad-a4d9-8762c3e6d2c9",
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "fbc9598f-41c6-4b23-a312-be162d865795",
+        "f24924f6-6cbf-43c9-8153-8a6a0f3f1617"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "76892157-8c22-47ba-b982-564ed634304a",
+      "dutyDetail": "Apply protective surface coatings to protect the surface finish rectifying any issues throughout the process for example, polishes, waxes and nano technologies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "7dafa66c-2c25-40b2-b00a-f49488a7001e",
+        "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
+        "45ed4b4a-b129-4a41-a819-e42999f265b5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "fbc9598f-41c6-4b23-a312-be162d865795",
+        "a141a518-bb26-4618-b617-d817637c9bc9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fb61c9c5-51e3-4f07-9ddb-3961406f73cf",
+      "dutyDetail": "Carry out performance testing of the surface finish using inspection equipment and visual quality checks for example, wet film/dry film thickness testing, colour matching.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "432abad9-5658-47d0-8451-9d8d7ca6cbea",
+        "c26fd92b-945d-491f-821f-3f9819cf0121",
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "7dafa66c-2c25-40b2-b00a-f49488a7001e",
+        "770c3384-3c40-4953-be7d-50c4272aeb37",
+        "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
+        "45ed4b4a-b129-4a41-a819-e42999f265b5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "fbc9598f-41c6-4b23-a312-be162d865795",
+        "a141a518-bb26-4618-b617-d817637c9bc9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "33fea696-e3f9-4eac-bcb8-1d0d8084e6b8",
+      "dutyDetail": "Ensure facilities (spray booths and equipment) are maintained and compliant with regulations for example local exhaust ventilation (LEV) testing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45ed008e-a2a6-46a9-81ee-d69d21d58584",
+      "dutyDetail": "Perform preventative maintenance on finishing equipment. Fault finding and rectifying any common issues to ensure a consistent level of quality. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "6cd64b98-241f-4463-b0e3-5af162375919",
+        "db3c73a3-4a3d-4e2d-a287-f8f319f405fa"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "6e2c2068-0bfe-4b57-ab06-fd3a9078737b",
+        "e939a18b-a590-44fc-a8fb-648ef374f9c4",
+        "f807ed91-53d3-4e3c-9533-15bebdd5df3b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "92534f7e-2445-467f-9cfc-cf5be59c804d",
+      "dutyDetail": "Disassemble and store staging, return tools, unused materials and equipment to a clean, safe and reliable condition on completion of surface finishing work operations.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "b96e9f8d-abef-4b03-95b3-76891f1a9919",
+        "f6f72df3-bcfa-4fa3-a83b-3c0352663ea7",
+        "ca995437-33c0-4c98-902e-671dcf04ed15",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "6cd64b98-241f-4463-b0e3-5af162375919",
+        "db3c73a3-4a3d-4e2d-a287-f8f319f405fa",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7cdfb91d-bb9c-42c9-92b3-69a776455331",
+        "e20c0921-cf05-4e4f-a94c-8145e63104f6",
+        "2fd9849b-b5d5-403b-9e75-f90dd54d344e",
+        "766ebf26-5b44-44dd-a6b2-d41995d3d2d3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed1a4b93-dada-4fa4-a18b-96469144c98b",
+      "dutyDetail": "Undertake quality assurance  of applied coatings to meet specification and customer requirements. Facilitate customer inspection and final sign off of finished product. On completion, ensure all masking and blanking is removed and areas are free of loose articles.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "7dafa66c-2c25-40b2-b00a-f49488a7001e",
+        "770c3384-3c40-4953-be7d-50c4272aeb37",
+        "4cb7ed2c-533e-44ab-85ca-8be2593d9fa2",
+        "7b84825c-e585-4f1b-ad45-ad434377b34e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "a141a518-bb26-4618-b617-d817637c9bc9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "de6a7ddc-4520-42a6-ab26-ef7fc2cf9318",
+      "dutyDetail": "Complete documentation at the relevant stages of the surface finishing work operations and keep colleagues informed. For example, coating application records, data logger records.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "c26fd92b-945d-491f-821f-3f9819cf0121",
+        "f6cc6ef4-7799-4f21-b796-58572564e38b",
+        "74be3e92-4618-466c-afc1-51f7bf28094f",
+        "1ed2a1f0-4722-4b64-bb2e-446f14bc3e8b",
+        "94b75d2b-5708-4faf-ae4d-a0103429f2e3",
+        "2326b277-c288-403c-b66e-abac8d8c42f3",
+        "0c40e35d-8bfc-4e39-8e00-4c0921c15794"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "58e7b965-c678-4457-be63-9defb1403a46",
+        "2b10d106-8e1c-4ee9-acad-e262166ba9c3",
+        "a0e8e3c1-e1d3-4cb2-930a-e091b15d8c79",
+        "f24924f6-6cbf-43c9-8153-8a6a0f3f1617",
+        "a141a518-bb26-4618-b617-d817637c9bc9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b4e51270-e026-48e7-9499-53a882682ae2",
+      "dutyDetail": "Spray application of marine coatings to hulls, superstructures, interiors and components of boats monitoring and rectifying any issues throughout the process.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "306aaa24-96f5-4f34-b0b1-12d8d489c7f9",
+        "7a5b6523-c4cd-4410-b526-b49a56990717",
+        "10a0c401-9ca8-4392-b08c-0e77d07515f7",
+        "72a464cc-a9a1-4993-b28a-65c0608fe98d",
+        "e5379d5b-0b06-4210-a388-49e05f3c16df"
+      ],
+      "mappedOptions": [
+        "c5745bf4-80a7-4d8d-a999-f3228548675b"
+      ],
+      "mappedSkills": [
+        "c19e4d90-461f-485c-96bc-ac892b5802ac",
+        "e481681b-5433-4bd2-9a7c-491e39c126b4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9ad39c05-2187-4a52-aae6-daf4ea7455b7",
+      "dutyDetail": "Apply marine coatings by hand to hulls, superstructures, interiors and components of boats using a range of techniques. For example, applying anti-foul coatings, applying gel coat or varnishing",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "7a5b6523-c4cd-4410-b526-b49a56990717",
+        "10a0c401-9ca8-4392-b08c-0e77d07515f7",
+        "72a464cc-a9a1-4993-b28a-65c0608fe98d",
+        "c9d3e2fc-5205-4219-947c-874e789be4e9",
+        "ad6a6812-effb-48ea-9b26-1bd14cccc62d"
+      ],
+      "mappedOptions": [
+        "c5745bf4-80a7-4d8d-a999-f3228548675b"
+      ],
+      "mappedSkills": [
+        "4121ee1a-46a0-4b28-86da-d9d5798ab247",
+        "678e16fe-3fc4-4390-b58f-e7a1fca63ddf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "91377900-249e-432a-a2e5-755d16664942",
+      "dutyDetail": "Undertake polishing and finishing on marine components and structures using a range of techniques and equipment to achieve the required finish.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "7a5b6523-c4cd-4410-b526-b49a56990717",
+        "10a0c401-9ca8-4392-b08c-0e77d07515f7",
+        "72a464cc-a9a1-4993-b28a-65c0608fe98d",
+        "c9d3e2fc-5205-4219-947c-874e789be4e9",
+        "ad6a6812-effb-48ea-9b26-1bd14cccc62d"
+      ],
+      "mappedOptions": [
+        "c5745bf4-80a7-4d8d-a999-f3228548675b"
+      ],
+      "mappedSkills": [
+        "678e16fe-3fc4-4390-b58f-e7a1fca63ddf",
+        "0cfead40-2394-4d05-a283-0bc84c54cead"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a34107e6-1888-4c8c-a50b-811dde2e7352",
+      "dutyDetail": "Set up mobile platforms and staging, working on or near the water adhering to all safety regulations and local requirements.  ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "de2f498c-2ba5-4445-9d72-58b33569207c",
+        "306aaa24-96f5-4f34-b0b1-12d8d489c7f9",
+        "49f9913a-8dbd-4ce7-b80e-8f0d0a36aec5",
+        "bce9f152-ee17-4062-94a5-c3e4bd0de50e",
+        "7a5b6523-c4cd-4410-b526-b49a56990717",
+        "10a0c401-9ca8-4392-b08c-0e77d07515f7",
+        "72a464cc-a9a1-4993-b28a-65c0608fe98d"
+      ],
+      "mappedOptions": [
+        "c5745bf4-80a7-4d8d-a999-f3228548675b"
+      ],
+      "mappedSkills": [
+        "aab64a0c-7202-4226-88fd-5e1bf3da9034",
+        "ae290b18-5e8c-474e-aa18-0665747ccaec",
+        "fda83fa0-a057-43ff-94d6-97401e6b927c",
+        "9f660208-b466-43f1-8c7a-bdf581d56518",
+        "8f40c4d6-2474-4242-b509-6743ee2e9b38"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79b65c10-06ad-41fa-9dad-7dc1189623ce",
+      "dutyDetail": "Spray application of aircraft surfaces and flying controls in accordance with customer specification, drawings and aircraft manufacturer’s instructions. Application of specialist protective coatings and treatments as required by the aircraft manufacturer",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "e10fb860-2c5b-4a97-bb96-d4a1f7fe26bf",
+        "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+        "af129e9d-a30c-448e-9642-96748ff05c22"
+      ],
+      "mappedOptions": [
+        "775d0f94-f021-4f70-9221-c2e5087528fe"
+      ],
+      "mappedSkills": [
+        "3ce9c808-2e28-47cc-8301-035a18a84f03"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "06c01ba8-166b-49f2-afdb-98f476f4d673",
+      "dutyDetail": "Undertake the preparation and refinishing of composite and metal substrate materials used in the aviation sector to include static and lightening protection systems",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "e10fb860-2c5b-4a97-bb96-d4a1f7fe26bf",
+        "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+        "af129e9d-a30c-448e-9642-96748ff05c22"
+      ],
+      "mappedOptions": [
+        "775d0f94-f021-4f70-9221-c2e5087528fe"
+      ],
+      "mappedSkills": [
+        "0c821e5a-fbdd-4f1d-a9d1-292660dd6255"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "eac1064f-29cc-4896-8b4a-56d5a05dc2dd",
+      "dutyDetail": "Apply the current civil or military aviation regulations and procedures for aircraft refinishing including the recording of the tasks completed and the materials used in accordance with manufacturers data.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+        "af129e9d-a30c-448e-9642-96748ff05c22",
+        "6c7da824-2dca-4c06-992a-cffc034e040f",
+        "91c1d33d-6828-46b9-819d-735fd9d84c94"
+      ],
+      "mappedOptions": [
+        "775d0f94-f021-4f70-9221-c2e5087528fe"
+      ],
+      "mappedSkills": [
+        "1499d972-f622-41bd-b13c-e14b44239634",
+        "3ce9c808-2e28-47cc-8301-035a18a84f03",
+        "4a05ea34-478a-485d-b5f2-5ba3c9bcafb5",
+        "ee4e1a27-a6b3-417f-80ec-f92e685de5cf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "69d321e7-18c3-42bc-bc13-8b3dfdcd7b38",
+      "dutyDetail": "Carry out visual inspection post refinishing for defects, anomalies and log any rectification required in accordance with required standards. Ensure specific requirements such as RVSM (Reduced Vertical Separation Minima requirements) to meet the required standards",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+        "53301487-cc50-4473-8488-1a5e0a202809",
+        "b5d1d5fa-205e-4555-84c2-7c8b5e13934c",
+        "91c1d33d-6828-46b9-819d-735fd9d84c94"
+      ],
+      "mappedOptions": [
+        "775d0f94-f021-4f70-9221-c2e5087528fe"
+      ],
+      "mappedSkills": [
+        "3ce9c808-2e28-47cc-8301-035a18a84f03",
+        "4a05ea34-478a-485d-b5f2-5ba3c9bcafb5",
+        "0c821e5a-fbdd-4f1d-a9d1-292660dd6255",
+        "ee4e1a27-a6b3-417f-80ec-f92e685de5cf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "62f1f219-a12b-4fc4-9da5-ddb18231718b",
+      "dutyDetail": "Apply external markings and placards as required by the customer, manufacturer and regulator using a wide variety of processes for example: - hand painting, decals and preprinted vinyl ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "2f1328fa-cb85-4d84-a313-57280d9f1bc0",
+        "af129e9d-a30c-448e-9642-96748ff05c22",
+        "77fadf93-1bed-48f9-9d75-e18ba910c71b"
+      ],
+      "mappedOptions": [
+        "775d0f94-f021-4f70-9221-c2e5087528fe"
+      ],
+      "mappedSkills": [
+        "8fde2896-dc37-45a0-8fad-8ff775e2844c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dcc5fa44-09fb-4feb-9b8f-dcc2d1dadcca",
+      "dutyDetail": "Spray application of coatings across varying product substrates including metals, plastics and carbon fibre.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1ff63db2-cd67-451c-a5b3-b92e0edbe969"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "1b978d77-48fd-4577-ae11-fdeae1990960"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b2ba7962-4238-4706-b8b0-aca67f88eb7b",
+      "dutyDetail": "Carry out Spray application to external and internal (i.e., door shuts) parts of a vehicle shell, using a range of various coating types i.e., anti-chip, black out, base coats, top coats, lacquer coats",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1ff63db2-cd67-451c-a5b3-b92e0edbe969",
+        "3cd59735-54d2-4594-9232-e16482c0553c"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "22171fff-2c86-4944-b9d5-e5a502beaa11",
+        "cc1f7ccc-4e98-483f-9361-1b973669d59d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e77f7d10-02bb-4c29-9223-a37b8d7ffb97",
+      "dutyDetail": "Carry out post inspection of finished surfaces looking for defects (seeds, sags, runs etc.) and other anomalies and record such defects using standard paperwork for future rectification",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "14c46d3c-b499-43bf-ae63-82bac6139907",
+        "b01d07e6-6a91-4302-bc22-c28c3fa667a6"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "af2e2939-a2f6-4cb8-9913-48a5db41e444"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "26c66545-ab6e-405e-b995-5f070f2e452d",
+      "dutyDetail": "Carry out detailed masking and de-masking of the product ensuring accuracy and the avoidance of damage during de-mask process.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "33b06469-58c1-4fd3-ad67-fc676694cd03",
+        "b01d07e6-6a91-4302-bc22-c28c3fa667a6"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "3318bb7d-40f0-4571-b4f8-965319acbe62",
+        "af2e2939-a2f6-4cb8-9913-48a5db41e444"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6a783b5d-b180-487d-aa6c-0520615bb3bc",
+      "dutyDetail": "Undertake polishing and finishing (‘flat and finish’) on Automotive vehicle’s using a range of techniques and equipment to achieve the required finish.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "1ff63db2-cd67-451c-a5b3-b92e0edbe969",
+        "3a3de100-4040-461d-b586-6bd068677764"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "fcef5ccc-29fc-4794-9ae3-34d973b7e6a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "68c884a2-d81e-417e-87b6-14b5f9d55bb8",
+      "dutyDetail": "Carry out spot repairs and detailing to components and panels of automotive vehicles",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [
+        "ebb4796c-d776-498c-b3a6-7b4579a4fc65",
+        "52f92b74-cd42-4698-9c8e-651a6f6487e9",
+        "59961827-24e7-4e97-a20c-010861c2fdd7",
+        "d37d5a1b-9136-494e-b88c-a65ca59731c0",
+        "1f4ac098-cd0b-4742-8d89-49e192e8707a",
+        "d922397f-f23f-47fd-9cd7-f57eb10c6b7c",
+        "d80813e9-0e04-422d-ae98-36e89bf3a548",
+        "f3ebe64a-b3e8-4dc2-a927-561104061706",
+        "bfd66f41-cc7e-4bf3-badb-0175b880a6f6"
+      ],
+      "mappedKnowledge": [
+        "50d1ad3a-c7c7-48db-9c12-69497285507e"
+      ],
+      "mappedOptions": [
+        "fcf47714-aa50-4a49-810c-ac70b2b29c8c"
+      ],
+      "mappedSkills": [
+        "1b978d77-48fd-4577-ae11-fdeae1990960",
+        "22171fff-2c86-4944-b9d5-e5a502beaa11",
+        "fcef5ccc-29fc-4794-9ae3-34d973b7e6a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "c5745bf4-80a7-4d8d-a999-f3228548675b",
+      "title": "Marine Surface Finisher",
+      "occupationCode": "OCC0963C"
+    },
+    {
+      "optionId": "775d0f94-f021-4f70-9221-c2e5087528fe",
+      "title": "Aviation Surface Finisher",
+      "occupationCode": "OCC0963B"
+    },
+    {
+      "optionId": "fcf47714-aa50-4a49-810c-ac70b2b29c8c",
+      "title": "Automotive Surface Finisher",
+      "occupationCode": "OCC0963A"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-03-24T00:00:00"
 }
