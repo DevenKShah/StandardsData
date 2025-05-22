@@ -1,60 +1,1103 @@
 {
-  "larsCode": 0,
+  "templateType": "Occupational Standard",
+  "larsCode": 679,
   "referenceNumber": "ST0875",
-  "title": "Small vessel engineer",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "learningAimClassCode": "",
+  "title": "Small vessel chief engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0875",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-08-22T00:00:00",
+  "earliestStartDate": "2022-06-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Leading the engineering function for small vessels (less than 9000 Kilowatt and less than 3,000 Gross Tonnage) unlimited area. ",
   "level": 4,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 6,
+  "typicalDuration": 48,
+  "maxFunding": 16000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
-  "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "keywords": [
+    "boat",
+    "vessells",
+    "engineering",
+    "cheif engineer",
+    "transport",
+    "operations"
+  ],
+  "jobRoles": [
+    "Small vessel chief engineer",
+    "Small vessel chief engineer officer"
+  ],
+  "entryRequirements": "&lt;p&gt;To meet the Merchant Shipping regulations individuals must meet medical standards (including eyesight). If you are considering a seagoing career, it is strongly advised that you have a medical and sight test, which includes testing of colour and visual acuity, before starting training.&#160;&lt;/p&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0875-v1-0?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.3 Transportation operations and maintenance",
+  "version": "1.0",
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Small vessel chief engineers work in the maritime engineering sector.&lt;/p&gt;\n&lt;p&gt;Small vessel chief engineer (Chief Engineer Officer, less than 9000 Kilowatt, less than 3000 Gross Tonnage, unlimited area STCW Reg III/2) is a statutory regulated occupation. In the UK, it is regulated by the Maritime and Coastguard Agency (MCA).&#160;&lt;/p&gt;\n&lt;p&gt;The occupation relates to eight categories of small vessel, as defined by the Maritime and Coastguard Agency. These are:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;fishing vessels&lt;/li&gt;\n&lt;li&gt;yachts&lt;/li&gt;\n&lt;li&gt;tugs&lt;/li&gt;\n&lt;li&gt;workboats&lt;/li&gt;\n&lt;li&gt;standby vessels&lt;/li&gt;\n&lt;li&gt;seismic survey vessels&lt;/li&gt;\n&lt;li&gt;oceanographic research vessels&lt;/li&gt;\n&lt;li&gt;Government patrol vessels&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;The small vessel chief engineer occupational standard incorporates the MCA’s regulatory requirements. It also has additional knowledge, skills and behaviours required for competency in the occupation, as defined by employers. In this document the inclusion of &#39;MCA&#39; following a knowledge or skill statement means it is required by and assessed by the MCA.&lt;/p&gt;\n&lt;p&gt;Small vessel chief engineers ensure the day-to-day operation of the engineering aspects of a small vessel at sea and alongside (not at sea). This includes the vessel’s engine and other machinery and the technical side of ‘hotel services’ such as heating and ventilation. They prepare and check engineering systems, order engineering stock and supplies including bunkering (fuelling), and ready the vessel and systems for going to sea. Whilst at sea, they monitor engineering systems - adjusting parameters to maximise performance and minimise waste, diagnose faults and conduct basic repairs and replace parts. On return from sea, they shut down vessel running machinery and maintain operational availability. Liaising with repair contractors, keeping records, reporting, and preparing for statutory surveys and dry dock are all part of the role.&lt;/p&gt;\n&lt;p&gt;They typically work for several weeks at a time on board, sleeping on board, followed by a similar length of time on leave. Although some operate patterns to enable them to return home at the end of the day. The detail will vary between different types of vessels, and individual companies.&lt;/p&gt;\n&lt;p&gt;They are a first responder to safety related alarms and defects, both when on duty and on emergency alarm call out. Even when not on duty, a small vessel chief engineer needs to act during emergencies.&lt;/p&gt;\n&lt;p&gt;In their daily work, they interact with the vessel’s Master – who has overall responsibility for the vessel. Plus other officers and crew responsible for the navigation of the vessel. Depending on the size and nature of the vessel, they may work on their own or within a small team of engineers. They report directly to the vessel’s Master. They have contact with a shore-based Superintendent - who has responsibility for the engineering aspects of several vessels. Plus repair contractors and regulatory personnel, such as classification society surveyors and Port State inspectors.&lt;/p&gt;\n&lt;p&gt;They are responsible for conducting their duties in line with health, safety and environmental policy, and company procedures. They must work within the legal requirements set by international and national bodies. This includes SOLAS (International Convention for the Safety of Life at Sea), MARPOL (International Convention for the Prevention of Pollution from Ships), local port requirements, and Port Marine Regulations. They can be personally prosecuted for failure to comply. They may have responsibility for the line management of more junior colleagues. They have budgetary responsibilities.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "4cec01ad-2375-43ac-b073-bc6bd8d92737",
+      "detail": "Understand the reason for determining voyage needs; fuel, lubricants, water, stores, expendables. [MCA]"
+    },
+    {
+      "knowledgeId": "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+      "detail": "Understand the necessity for routine maintenance and the reasons for maintaining records of machinery and its performance. [MCA]"
+    },
+    {
+      "knowledgeId": "e1814f95-c4c2-42c7-a255-67034fe45da5",
+      "detail": "Understand the consequences of sailing with certain items of machinery inoperative and the risks involved in doing so. [MCA]"
+    },
+    {
+      "knowledgeId": "795d71aa-c9f3-4d5c-891c-097fddbe1993",
+      "detail": "Understand the (Chief Engineer’s) responsibilities and duties concerning bunkering or refuelling operations. [MCA]"
+    },
+    {
+      "knowledgeId": "298b612e-cfc7-471d-a246-dbaac4306614",
+      "detail": "The methods of dealing with fire on board ship. Prevention of the spread of fire. The organisation and direction of fire-fighting and lifesaving parties. [MCA]"
+    },
+    {
+      "knowledgeId": "7f102358-acb5-4676-b19b-110d8f32fea5",
+      "detail": "Care and management of steering systems and bow thrusters. [MCA]"
+    },
+    {
+      "knowledgeId": "05d6d5d2-4bed-4649-a452-31ef37e5a7a6",
+      "detail": "Care and management of pumping systems. [MCA]"
+    },
+    {
+      "knowledgeId": "d5e7cc18-29b6-426c-9349-58c7b0ccc8e1",
+      "detail": "Care and management of oily water separator equipment. [MCA]"
+    },
+    {
+      "knowledgeId": "6aa8eb7b-65d0-4645-bac1-cfeba1188e9e",
+      "detail": "(a) Construction, maintenance and operation of fire-fighting equipment, (b) Fire detection and prevention. [MCA]"
+    },
+    {
+      "knowledgeId": "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+      "detail": "(a) Codes of safe working practices, risk assessment, permit to work (entry into enclosed space, hot work, electrical work), (b) The dangers of entering enclosed spaces. [MCA]"
+    },
+    {
+      "knowledgeId": "1ae1018c-e6f6-4b3e-92b5-921b608e0203",
+      "detail": "Routine operational duties and the effect of legislation on engine room operations. [MCA]"
+    },
+    {
+      "knowledgeId": "0c53c599-d59c-401b-b161-71268b958918",
+      "detail": "Working principles and constructional details of marine engines, gears, clutches and ancillary equipment. [MCA]"
+    },
+    {
+      "knowledgeId": "497848ab-22e8-4903-bea4-453636d29055",
+      "detail": "Fuel oil, lubrication oil, and cooling systems of marine engines together with ancillary systems including filters, pumps, heat exchangers and controls. [MCA]"
+    },
+    {
+      "knowledgeId": "7a2859e5-479d-45cc-836b-7c36f8640e38",
+      "detail": "(a) Methods of manoeuvring, including bridge control systems, variable pitch propellers and bow thrusters, (b) Emergency controls. [MCA]"
+    },
+    {
+      "knowledgeId": "c64d8486-f904-4807-ae8b-993449247df8",
+      "detail": "Working principles and constructional details of air compressors, air receivers and associated equipment. [MCA]"
+    },
+    {
+      "knowledgeId": "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+      "detail": "Operational testing and fault rectification of basic control systems and alarm panels. [MCA]"
+    },
+    {
+      "knowledgeId": "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+      "detail": "Safe and efficient operation and maintenance of marine engines and propulsion systems. [MCA]"
+    },
+    {
+      "knowledgeId": "782857f1-bdab-4c47-9941-cf2462e73c3f",
+      "detail": "Knowledge of the International Convention for the Prevention of Pollution from Ships (MARPOL) Annexes and implementations. [MCA]"
+    },
+    {
+      "knowledgeId": "18ea46e6-79f2-440a-b1cd-76d3f1b979af",
+      "detail": "Principles of stability, water tight and watertight integrity, free surface effect and reserve buoyancy. [MCA]"
+    },
+    {
+      "knowledgeId": "a4e8896a-44b1-438e-bb54-acb4766bef6e",
+      "detail": "Basic understanding of International Safety Management (ISM). [MCA]"
+    },
+    {
+      "knowledgeId": "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+      "detail": "Principles and constructional details of sensing, monitoring and measuring devices associated with marine equipment. [MCA]"
+    },
+    {
+      "knowledgeId": "6ce20460-1f3f-4643-9d43-9ab99918d689",
+      "detail": "Principles involved with the operation, testing and maintenance of propulsive transmission systems, including thrust and shaft bearings, stern tubes and propellers. [MCA]"
+    },
+    {
+      "knowledgeId": "a9537ad0-01ed-4db3-82b0-b618327671c3",
+      "detail": "Principles involved with the operation, testing and maintenance of bilge and ballast pumps, pumping and priming systems including pollution prevention equipment and systems. [MCA]"
+    },
+    {
+      "knowledgeId": "8655f91b-247b-4409-982b-17ad975cc1aa",
+      "detail": "Principles involved with the operation, testing and maintenance of steering and stabilizing systems including bow thrusters. [MCA]"
+    },
+    {
+      "knowledgeId": "dda26895-1f8f-4484-965a-7af2aac8761b",
+      "detail": "Principles involved with operation, testing and maintenance of control and alarm systems associated with automatic operation of marine steam plant. [MCA]"
+    },
+    {
+      "knowledgeId": "ef16db94-31de-449c-ad80-2026f4d3b09c",
+      "detail": "Principles involved with the operation, testing and maintenance of: a. marine diesel engines (medium and high speed); gearing systems and clutches; b. starting and reversing systems; c. cooling and lubrication systems; d. fuel oil preparation systems; e. air compressors, receivers and associated equipment; f. auxiliary diesel engines and associated equipment; g. control and alarm systems associated with automatic operation of a diesel plant. [MCA]"
+    },
+    {
+      "knowledgeId": "437dddf0-4018-4898-a29f-452e8635cede",
+      "detail": "Methods of assessment of power output and diesel plant efficiency and action to be taken to maintain safe and efficient operation of plant. [MCA]"
+    },
+    {
+      "knowledgeId": "62941ebe-204c-4126-a974-4c0fde503f02",
+      "detail": "Methods of testing fuel oil, lubrication oil and cooling water and action to be taken to maintain safe conditions. [MCA]"
+    },
+    {
+      "knowledgeId": "6811bdd0-b056-40f5-b0d0-5d66f4786bfb",
+      "detail": "Types of information issued by the MCA with respect to safety at sea. [MCA]"
+    },
+    {
+      "knowledgeId": "0db57f5e-1cf3-4aab-995a-b0d4707c92d8",
+      "detail": "Responsibilities of a chief engineer officer with regard to the control and prevention of fire: a. precautions against fire or explosions, explosive mixtures and sources of ignition; b. principles and methods of fire prevention, detection and extinction in all areas of a ship; c. principles of the operation, testing and maintenance of fire detection and extinguishing systems; d. principles of the operation, testing and maintenance of fire pumps and associated pumping systems; e. control and organization of fire and damage control parties. [MCA]"
+    },
+    {
+      "knowledgeId": "e3e898d2-6598-4ea3-82b1-25d56baf40cd",
+      "detail": "Knowledge and understanding of applications and maintenance of ISM codes and system. [MCA]"
+    },
+    {
+      "knowledgeId": "5d092c59-4ab8-4b6c-a5e6-af61fb7665fa",
+      "detail": "Organisation and control procedures necessary for the safe and efficient operation in the Unmanned Maritime Systems (UMS) mode. [MCA]"
+    },
+    {
+      "knowledgeId": "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+      "detail": "Principles of the operation, testing and maintenance of: a. alternators, generators, motors, switch gear and batteries; b. ac and dc distribution systems. [MCA]"
+    },
+    {
+      "knowledgeId": "0325b241-970d-412b-8414-32228f566a3e",
+      "detail": "Fault finding and rectification of faults in electrical systems. [MCA]"
+    },
+    {
+      "knowledgeId": "0c619edb-9d17-4a36-99ef-6342579369a9",
+      "detail": "Administration duties of a chief engineer associated with: a. organisation and training of staff for normal and emergency duties; b. organisation of temporary and permanent repairs and surveys – Company approval and Classification society. [MCA]"
+    },
+    {
+      "knowledgeId": "20196e1f-0320-472d-b0e8-abbff4022ced",
+      "detail": "Ensuring ship is in seaworthy condition prior to sailing taking into account nature of voyage. [MCA]"
+    },
+    {
+      "knowledgeId": "ec0ae668-9184-4b93-b37e-cb81e9e3cac1",
+      "detail": "Dry docking, hull surveys and repairs. [MCA]"
+    },
+    {
+      "knowledgeId": "985aa5b3-b00a-46a8-8bd8-e1bab5f0d8d7",
+      "detail": "The introduction of increased automation, artificial intelligence, and emerging technologies in the maritime sector."
+    },
+    {
+      "knowledgeId": "102ee263-a8fa-471f-bf71-3aa0516cb74a",
+      "detail": "Project management techniques: setting objectives, planning and monitoring. "
+    },
+    {
+      "knowledgeId": "9c4d06de-fb6b-4b48-801a-3cc9d9c43c98",
+      "detail": "Commercial awareness; costing and budgeting principles. "
+    },
+    {
+      "knowledgeId": "b3cf677b-7b39-4255-868e-98aab7bf16f4",
+      "detail": "Resource management considerations: cost, quality, safety, security, and environmental impact."
+    },
+    {
+      "knowledgeId": "6eb0c1b7-c77a-4161-b512-8976684b24fb",
+      "detail": "Problem solving tools and techniques: root cause analysis."
+    },
+    {
+      "knowledgeId": "103949f1-23e4-4c79-ac13-576ca9235c59",
+      "detail": "Marine industry terminology."
+    },
+    {
+      "knowledgeId": "65252f89-da2f-410b-b359-65c1f6e6befc",
+      "detail": "Communication techniques: verbal and written."
+    },
+    {
+      "knowledgeId": "1cdf211e-4591-4138-9901-76bfc33202b3",
+      "detail": "Report writing techniques."
+    },
+    {
+      "knowledgeId": "78789dd3-ce7a-44e3-966c-882cf8084331",
+      "detail": "Documentation requirements and importance."
+    },
+    {
+      "knowledgeId": "3099cf04-b689-402a-a40f-26d02255f059",
+      "detail": "Information technology: word processing, spreadsheets, e-mail, and presentation. IT applications for technical reporting. "
+    },
+    {
+      "knowledgeId": "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
+      "detail": "Sustainability: current practices and developments in the sector."
+    },
+    {
+      "knowledgeId": "4935ff5d-1eab-4f58-a57d-3dc17bef1df0",
+      "detail": "Ethical practices."
+    },
+    {
+      "knowledgeId": "784f95ce-1b00-4c1e-8144-8499a9ade0bf",
+      "detail": "Equality, diversity, and inclusion awareness. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+      "detail": "Promote and adopt a safety culture."
+    },
+    {
+      "behaviourId": "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+      "detail": "Committed to protecting the marine environment from pollution."
+    },
+    {
+      "behaviourId": "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+      "detail": "Take personal responsibility for their actions."
+    },
+    {
+      "behaviourId": "bb16e781-4892-4841-adb4-5a319ced38b4",
+      "detail": "Committed to quality and continuous improvement."
+    },
+    {
+      "behaviourId": "72b42e97-c1f6-4da1-8873-390fccc1850f",
+      "detail": "Role-model equality and diversity expectations and requirements."
+    },
+    {
+      "behaviourId": "4f3d5109-2e61-45cb-8866-c9a73d5800c7",
+      "detail": "Actively pursue professional development to maintain and enhance their competence."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e7e1109c-2a3f-4a95-a195-3e3e5f736ac1",
+      "detail": "Take personal emergency action onboard a vessel. [MCA]"
+    },
+    {
+      "skillId": "3f8dfa71-c0d0-4687-aad8-824d0a1db559",
+      "detail": "Respond to emergencies onboard a vessel. [MCA]"
+    },
+    {
+      "skillId": "3ef4ab8f-0755-4de6-a86b-b2d1f844163b",
+      "detail": "Take control of survival craft and rescue boats. [MCA]"
+    },
+    {
+      "skillId": "555d4420-cff4-4c9c-a929-64af5fdc7f3d",
+      "detail": "Take charge of an engine room watch. [MCA]"
+    },
+    {
+      "skillId": "3333a8d8-08b1-4241-b9d6-28f196b22e4a",
+      "detail": "Prepare and operate vessel propulsion machinery and ancillary systems. [MCA]"
+    },
+    {
+      "skillId": "cc95b79f-a27e-4139-a816-8193036d00df",
+      "detail": "Operate vessel ancillaries and service machinery. [MCA]"
+    },
+    {
+      "skillId": "a79b8528-540a-4799-b146-e8491fc3845b",
+      "detail": "Operate and adjust vessel electrical systems. [MCA]"
+    },
+    {
+      "skillId": "f604c47a-764b-40e2-96fd-c9be31fc698a",
+      "detail": "Carry out maintenance to vessel electrical machinery and systems. [MCA]"
+    },
+    {
+      "skillId": "59d3c553-9ea6-45db-bf22-cfe65a8511b0",
+      "detail": "Carry out maintenance to vessel mechanical machinery and systems. [MCA]"
+    },
+    {
+      "skillId": "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+      "detail": "Maintain personal health, safety and environmental standards onboard a vessel. [MCA]"
+    },
+    {
+      "skillId": "b05e5924-c470-4afe-bf12-488042c5a73a",
+      "detail": "Maintain safe, legal and effective working practices onboard a vessel. [MCA]"
+    },
+    {
+      "skillId": "f6c8f8d4-f497-497f-bac0-f001e0081064",
+      "detail": "Maintain and enhance productive working relationships onboard a vessel. [MCA]"
+    },
+    {
+      "skillId": "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+      "detail": "Identify costs and create a draft budget for sign-off. "
+    },
+    {
+      "skillId": "d037f4e5-d378-4ceb-bee6-b5b46b6fb385",
+      "detail": "Apply project management techniques."
+    },
+    {
+      "skillId": "6ca05072-50b4-472d-a0cc-2f41693e70f2",
+      "detail": "Identify, organise, and use resources to complete tasks. "
+    },
+    {
+      "skillId": "6d429138-cac6-45f4-b475-eb76c1a1f140",
+      "detail": "Diagnose problems. Resolve or escalate problems in line with responsibilities. "
+    },
+    {
+      "skillId": "030b5d15-1cd4-43cd-8672-1985213418e9",
+      "detail": "Review work to identify improvements."
+    },
+    {
+      "skillId": "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+      "detail": "Communicate verbally and in writing with others for example, colleagues and contractors onboard or ashore."
+    },
+    {
+      "skillId": "9a3d0b48-8ad6-4c69-be0a-9d67b36a362a",
+      "detail": "Complete documentation for example, machinery space logbook and oil record book."
+    },
+    {
+      "skillId": "ab6c79db-2975-406d-b87d-e0f16a3d9836",
+      "detail": "Write technical reports."
+    },
+    {
+      "skillId": "322202bd-5160-492f-acb9-8014ef2740c1",
+      "detail": "Use information technology for example, word processing, spreadsheets, email, and presentation.  "
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-06-01T00:00:00 +00:00",
+  "integratedApprenticeship": true,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0468",
-  "tbMainContact": "",
-  "involvedEmployers": "",
-  "regulated": false,
-  "regulatedBody": "",
+  "tbMainContact": "j.hawkins@boluda.eu",
+  "involvedEmployers": "Bibby Marine, \r\nBoluda Towage Europe, \r\nBorder Force, \r\nDalby Offshore, \r\nForth Ports Towage (Tilbury), \r\nGardline, \r\nHolyhead Towing, \r\nPortland Harbour Authority, \r\nSerco, \r\nSMS Towage, \r\nSolent Towage/Ostensjo, \r\nSvitzer",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "Maritime and Coastguard Agency",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Installation, Service, Repair and/or Overhaul Advanced Technician",
-  "createdDate": "2019-04-18T11:13:41 +00:00",
-  "lastUpdated": "2020-02-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/small-vessel-engineer#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/small-vessel-engineer",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "typicalJobTitles": [
+    "Small vessel chief engineer",
+    "Small vessel chief engineer officer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Installation, service, repair and/or overhaul advanced technician",
+  "clusterId": "97",
+  "clusterDescription": "Install, maintain and service plant and equipment using application and/or context specific expertise",
+  "createdDate": "2022-10-24T13:31:00 +00:00",
+  "lastUpdated": "2022-08-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-06-01T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0875",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0875-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0875-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "38aba6d9-c348-4a6d-9159-8d6765b62aa0",
+      "title": "An apprentice must complete the Maritime and Coastguard Agency’s (MCA) mandatory qualifications, courses and other requirements to obtain a Chief Engineer Officer, less than 9,000 kW, less than 3,000 GT, unlimited area, STCW Convention Regulation III/2, Certificate of Competency . These requirements are detailed in MIN 524, or subsequent M-Notice.",
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Marine Engineering, Science and Technology (IMarEST)",
+      "level": "Engineering Technician (EngTech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "a241733b-c9ba-4d82-a148-85ae52c1185d",
+      "dutyDetail": "Prepare, maintain, and check vessel engineering systems whilst alongside.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "4cec01ad-2375-43ac-b073-bc6bd8d92737",
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "7f102358-acb5-4676-b19b-110d8f32fea5",
+        "05d6d5d2-4bed-4649-a452-31ef37e5a7a6",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "497848ab-22e8-4903-bea4-453636d29055",
+        "c64d8486-f904-4807-ae8b-993449247df8",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "6ce20460-1f3f-4643-9d43-9ab99918d689",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "8655f91b-247b-4409-982b-17ad975cc1aa",
+        "dda26895-1f8f-4484-965a-7af2aac8761b",
+        "ef16db94-31de-449c-ad80-2026f4d3b09c",
+        "437dddf0-4018-4898-a29f-452e8635cede",
+        "62941ebe-204c-4126-a974-4c0fde503f02",
+        "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+        "0325b241-970d-412b-8414-32228f566a3e",
+        "20196e1f-0320-472d-b0e8-abbff4022ced",
+        "985aa5b3-b00a-46a8-8bd8-e1bab5f0d8d7",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3333a8d8-08b1-4241-b9d6-28f196b22e4a",
+        "cc95b79f-a27e-4139-a816-8193036d00df",
+        "a79b8528-540a-4799-b146-e8491fc3845b",
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6ca05072-50b4-472d-a0cc-2f41693e70f2",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc24aca8-7fa8-460a-9a78-ffe32d47e836",
+      "dutyDetail": "Monitor engineering operational parameters whilst vessel is at sea for example, engine temperatures, and fuel, and oil and water consumption, adjusting engine and propulsion parameters to maximise fuel efficiency and minimise pollution.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "e1814f95-c4c2-42c7-a255-67034fe45da5",
+        "1ae1018c-e6f6-4b3e-92b5-921b608e0203",
+        "0c53c599-d59c-401b-b161-71268b958918",
+        "497848ab-22e8-4903-bea4-453636d29055",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "6ce20460-1f3f-4643-9d43-9ab99918d689",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "8655f91b-247b-4409-982b-17ad975cc1aa",
+        "dda26895-1f8f-4484-965a-7af2aac8761b",
+        "ef16db94-31de-449c-ad80-2026f4d3b09c",
+        "437dddf0-4018-4898-a29f-452e8635cede",
+        "62941ebe-204c-4126-a974-4c0fde503f02",
+        "5d092c59-4ab8-4b6c-a5e6-af61fb7665fa",
+        "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+        "985aa5b3-b00a-46a8-8bd8-e1bab5f0d8d7",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "555d4420-cff4-4c9c-a929-64af5fdc7f3d",
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2b095dda-c050-4f92-9302-5d47a7d0551b",
+      "dutyDetail": "Take overall responsibility for the monitoring of vessel equipment and its operational readiness.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "e1814f95-c4c2-42c7-a255-67034fe45da5",
+        "795d71aa-c9f3-4d5c-891c-097fddbe1993",
+        "7f102358-acb5-4676-b19b-110d8f32fea5",
+        "05d6d5d2-4bed-4649-a452-31ef37e5a7a6",
+        "d5e7cc18-29b6-426c-9349-58c7b0ccc8e1",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "0c53c599-d59c-401b-b161-71268b958918",
+        "497848ab-22e8-4903-bea4-453636d29055",
+        "7a2859e5-479d-45cc-836b-7c36f8640e38",
+        "c64d8486-f904-4807-ae8b-993449247df8",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+        "18ea46e6-79f2-440a-b1cd-76d3f1b979af",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "6ce20460-1f3f-4643-9d43-9ab99918d689",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "8655f91b-247b-4409-982b-17ad975cc1aa",
+        "dda26895-1f8f-4484-965a-7af2aac8761b",
+        "ef16db94-31de-449c-ad80-2026f4d3b09c",
+        "437dddf0-4018-4898-a29f-452e8635cede",
+        "62941ebe-204c-4126-a974-4c0fde503f02",
+        "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ddeac8ba-37ae-4ea2-b94b-52c8ab2b20e1",
+      "dutyDetail": "Undertake planned maintenance of engineering components in accordance with the planned vessel maintenance system and manage others undertaking maintenance. Recommend improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "7f102358-acb5-4676-b19b-110d8f32fea5",
+        "05d6d5d2-4bed-4649-a452-31ef37e5a7a6",
+        "d5e7cc18-29b6-426c-9349-58c7b0ccc8e1",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "0c53c599-d59c-401b-b161-71268b958918",
+        "497848ab-22e8-4903-bea4-453636d29055",
+        "7a2859e5-479d-45cc-836b-7c36f8640e38",
+        "c64d8486-f904-4807-ae8b-993449247df8",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+        "18ea46e6-79f2-440a-b1cd-76d3f1b979af",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "6ce20460-1f3f-4643-9d43-9ab99918d689",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "8655f91b-247b-4409-982b-17ad975cc1aa",
+        "dda26895-1f8f-4484-965a-7af2aac8761b",
+        "ef16db94-31de-449c-ad80-2026f4d3b09c",
+        "437dddf0-4018-4898-a29f-452e8635cede",
+        "62941ebe-204c-4126-a974-4c0fde503f02",
+        "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f604c47a-764b-40e2-96fd-c9be31fc698a",
+        "59d3c553-9ea6-45db-bf22-cfe65a8511b0",
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "030b5d15-1cd4-43cd-8672-1985213418e9",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "897318c8-1854-4a32-8aa4-59bd716e92d2",
+      "dutyDetail": "Maintain and test safety systems (for example, fire-fighting) and safety barriers, whilst at sea and alongside.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "298b612e-cfc7-471d-a246-dbaac4306614",
+        "6aa8eb7b-65d0-4645-bac1-cfeba1188e9e",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "0db57f5e-1cf3-4aab-995a-b0d4707c92d8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "9a3d0b48-8ad6-4c69-be0a-9d67b36a362a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4e918b0c-8255-43a7-9380-827b05658991",
+      "dutyDetail": "Undertake fault-finding and diagnosis of vessel engineering issues. Conduct basic repairs and replace parts.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "e1814f95-c4c2-42c7-a255-67034fe45da5",
+        "7f102358-acb5-4676-b19b-110d8f32fea5",
+        "05d6d5d2-4bed-4649-a452-31ef37e5a7a6",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "0c53c599-d59c-401b-b161-71268b958918",
+        "497848ab-22e8-4903-bea4-453636d29055",
+        "7a2859e5-479d-45cc-836b-7c36f8640e38",
+        "c64d8486-f904-4807-ae8b-993449247df8",
+        "16ed8fc3-a33d-4b8a-9306-1f5138b29d0c",
+        "c31c5e1a-9307-473a-ab72-1e1fa449f416",
+        "18ea46e6-79f2-440a-b1cd-76d3f1b979af",
+        "552c28b4-5b71-4fd6-9963-518b4a1d568f",
+        "6ce20460-1f3f-4643-9d43-9ab99918d689",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "8655f91b-247b-4409-982b-17ad975cc1aa",
+        "dda26895-1f8f-4484-965a-7af2aac8761b",
+        "ef16db94-31de-449c-ad80-2026f4d3b09c",
+        "437dddf0-4018-4898-a29f-452e8635cede",
+        "62941ebe-204c-4126-a974-4c0fde503f02",
+        "682ba57f-ea85-4ed7-843d-88d77d3a9fa8",
+        "0325b241-970d-412b-8414-32228f566a3e",
+        "6eb0c1b7-c77a-4161-b512-8976684b24fb",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d0024bfe-c565-41c0-94a7-95677a87b4e9",
+      "dutyDetail": "Liaise with shore managers regarding vessel engineering repair contractor requirements. Control of engineering contractors undertaking vessel repairs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "72b42e97-c1f6-4da1-8873-390fccc1850f",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "e1814f95-c4c2-42c7-a255-67034fe45da5",
+        "ec0ae668-9184-4b93-b37e-cb81e9e3cac1",
+        "b3cf677b-7b39-4255-868e-98aab7bf16f4",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
+        "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "f6c8f8d4-f497-497f-bac0-f001e0081064",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "322202bd-5160-492f-acb9-8014ef2740c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ba8b87cf-7f87-4535-bc51-a129a9ba2ac4",
+      "dutyDetail": "Order stock and spares for the vessel operation including bunkering – storage and provision of fuel for vessel.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "4cec01ad-2375-43ac-b073-bc6bd8d92737",
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "795d71aa-c9f3-4d5c-891c-097fddbe1993",
+        "9c4d06de-fb6b-4b48-801a-3cc9d9c43c98",
+        "b3cf677b-7b39-4255-868e-98aab7bf16f4",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "78789dd3-ce7a-44e3-966c-882cf8084331",
+        "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
+        "4935ff5d-1eab-4f58-a57d-3dc17bef1df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "9a3d0b48-8ad6-4c69-be0a-9d67b36a362a",
+        "322202bd-5160-492f-acb9-8014ef2740c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cebff459-5a28-4bb5-a196-c14087e4ef6c",
+      "dutyDetail": "Operate vessel safety management systems, including conducting risk assessments in line with onboard procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "6811bdd0-b056-40f5-b0d0-5d66f4786bfb",
+        "0db57f5e-1cf3-4aab-995a-b0d4707c92d8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "78789dd3-ce7a-44e3-966c-882cf8084331"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f91f92b8-fbfa-43bb-bdb7-6bcee8009abd",
+      "dutyDetail": "Carry out basic security checks for example, visual inspection of vessel, and checking identification for visitors on board the vessel.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "a4e8896a-44b1-438e-bb54-acb4766bef6e",
+        "e3e898d2-6598-4ea3-82b1-25d56baf40cd",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3cc4822-f188-4434-b280-3ba9716af6d5",
+      "dutyDetail": "Record and report on vessel engineering factors for example, planned and unplanned maintenance, fuel consumption, and waste.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "c0fb8e9d-2fa6-46d5-a983-189de1da9386",
+        "0c619edb-9d17-4a36-99ef-6342579369a9",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "1cdf211e-4591-4138-9901-76bfc33202b3",
+        "78789dd3-ce7a-44e3-966c-882cf8084331",
+        "3099cf04-b689-402a-a40f-26d02255f059"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "9a3d0b48-8ad6-4c69-be0a-9d67b36a362a",
+        "322202bd-5160-492f-acb9-8014ef2740c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e9d52f54-587f-44cf-8102-cca025aef236",
+      "dutyDetail": "Maintain vessel machinery spaces in a clean, tidy, and oil-free condition.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46141acd-c054-4f7d-8e02-6503c4c8ff38",
+      "dutyDetail": "Take charge of the engineering response during an emergency. For example, vessel fire, flooding, collision, or hi-jacking.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "72b42e97-c1f6-4da1-8873-390fccc1850f",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "298b612e-cfc7-471d-a246-dbaac4306614",
+        "6aa8eb7b-65d0-4645-bac1-cfeba1188e9e",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "a4e8896a-44b1-438e-bb54-acb4766bef6e",
+        "6811bdd0-b056-40f5-b0d0-5d66f4786bfb",
+        "0db57f5e-1cf3-4aab-995a-b0d4707c92d8",
+        "0c619edb-9d17-4a36-99ef-6342579369a9",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e7e1109c-2a3f-4a95-a195-3e3e5f736ac1",
+        "3f8dfa71-c0d0-4687-aad8-824d0a1db559",
+        "3ef4ab8f-0755-4de6-a86b-b2d1f844163b",
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "f6c8f8d4-f497-497f-bac0-f001e0081064",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c75ba658-2a3a-4e54-8b25-32865fb1a23a",
+      "dutyDetail": "Shut down vessel running machinery upon return from sea, whilst maintaining operational efficiency.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "d037f4e5-d378-4ceb-bee6-b5b46b6fb385",
+        "6ca05072-50b4-472d-a0cc-2f41693e70f2",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "995babc3-a518-4b05-99f7-200d67e12936",
+      "dutyDetail": "Prepare for statutory surveys and dry dock including preparation of the necessary paperwork and dry dock.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "0c619edb-9d17-4a36-99ef-6342579369a9",
+        "ec0ae668-9184-4b93-b37e-cb81e9e3cac1",
+        "102ee263-a8fa-471f-bf71-3aa0516cb74a",
+        "b3cf677b-7b39-4255-868e-98aab7bf16f4",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "1cdf211e-4591-4138-9901-76bfc33202b3",
+        "78789dd3-ce7a-44e3-966c-882cf8084331",
+        "3099cf04-b689-402a-a40f-26d02255f059"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "d037f4e5-d378-4ceb-bee6-b5b46b6fb385",
+        "6ca05072-50b4-472d-a0cc-2f41693e70f2",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "9a3d0b48-8ad6-4c69-be0a-9d67b36a362a",
+        "ab6c79db-2975-406d-b87d-e0f16a3d9836",
+        "322202bd-5160-492f-acb9-8014ef2740c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d50040a-6733-4619-84be-608af9ac5d00",
+      "dutyDetail": "Commission and support sea trials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "4cec01ad-2375-43ac-b073-bc6bd8d92737",
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "985aa5b3-b00a-46a8-8bd8-e1bab5f0d8d7",
+        "102ee263-a8fa-471f-bf71-3aa0516cb74a",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "1cdf211e-4591-4138-9901-76bfc33202b3",
+        "78789dd3-ce7a-44e3-966c-882cf8084331",
+        "3099cf04-b689-402a-a40f-26d02255f059"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6ca05072-50b4-472d-a0cc-2f41693e70f2",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968",
+        "ab6c79db-2975-406d-b87d-e0f16a3d9836",
+        "322202bd-5160-492f-acb9-8014ef2740c1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e86d1e83-c07e-465f-a42a-abdbea6ab4f8",
+      "dutyDetail": "Maintain equipment and tools for vessel maintenance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "985aa5b3-b00a-46a8-8bd8-e1bab5f0d8d7",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4d3053f3-a517-47cb-be95-1e1a7a13f6f4",
+      "dutyDetail": "Manage waste – storage and removal in line with environmental regulation, policy, and procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b7c8a3ea-2e03-4596-9086-f5799cafe1b6",
+        "96414cc6-abcb-4dc3-945a-97c3d3c5c01b",
+        "eb81f7a4-f328-4f50-b71c-fd59d09b7778",
+        "bb16e781-4892-4841-adb4-5a319ced38b4",
+        "4f3d5109-2e61-45cb-8866-c9a73d5800c7"
+      ],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "1ae1018c-e6f6-4b3e-92b5-921b608e0203",
+        "782857f1-bdab-4c47-9941-cf2462e73c3f",
+        "a9537ad0-01ed-4db3-82b0-b618327671c3",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
+        "4935ff5d-1eab-4f58-a57d-3dc17bef1df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "249a0479-f2a2-4245-b2bb-d7ec821274ca",
+        "b05e5924-c470-4afe-bf12-488042c5a73a",
+        "5e2bfa81-1f35-4917-9d87-4cc180f6986d",
+        "6d429138-cac6-45f4-b475-eb76c1a1f140",
+        "fb224c53-a4c1-48d2-89a4-ac8838cb7968"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e56ebaa4-8d55-44e3-9777-2616a49ded7d",
+      "dutyDetail": "Manage and lead the engineering team onboard including external contractors such as manufacturers’ representatives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "f25b09ca-7192-4fc8-9804-9f2b8d824ce8",
+        "0c619edb-9d17-4a36-99ef-6342579369a9",
+        "9c4d06de-fb6b-4b48-801a-3cc9d9c43c98",
+        "b3cf677b-7b39-4255-868e-98aab7bf16f4",
+        "103949f1-23e4-4c79-ac13-576ca9235c59",
+        "65252f89-da2f-410b-b359-65c1f6e6befc",
+        "1cdf211e-4591-4138-9901-76bfc33202b3",
+        "acf6ce0e-dc53-49ae-8f10-79ae1d1d3e2b",
+        "4935ff5d-1eab-4f58-a57d-3dc17bef1df0",
+        "784f95ce-1b00-4c1e-8144-8499a9ade0bf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training Provider",
+      "webLink": "",
+      "approved": true
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": false
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-08-22T00:00:00"
 }
