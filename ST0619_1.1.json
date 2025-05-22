@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 431,
   "referenceNumber": "ST0619",
+  "learningAimClassCode": "",
   "title": "Diagnostic radiographer (integrated degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/431",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0619",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Funding band revised",
-  "changedDate": "2020-11-19T00:00:00",
+  "changedDate": "2021-10-01T00:00:00",
   "earliestStartDate": "2020-11-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-11-18T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Obtaining images of a high diagnostic quality using a range of complex imaging equipment.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Diagnostic Radiographer",
@@ -28,13 +34,12 @@
     "Diagnostic radiographer"
   ],
   "entryRequirements": "&lt;p&gt;Entry requirements will be stipulated by individual HEIs&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3393/st0619_-diagnostic-radiographer_-l6_for-publication_05042019-1-pdf_.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3393/st0619_-diagnostic-radiographer_-l6_for-publication_05042019-1-pdf_.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.1",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in all healthcare settings including, primary, secondary and tertiary healthcare, independent and private healthcare sectors.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to provide excellent patient care by obtaining images of a high diagnostic quality using a range of high cost and complex imaging equipment. This will include imaging using x-rays and cross-sectional imaging methods (Computed Tomography or CT), fluoroscopy and Interventional Radiology and will be able to assist in other imaging modalities such as Ultrasound, Magnetic Resonance Imaging (MRI), Breast Imaging and Nuclear Medicine. Diagnostic Radiographers work with a broad range of patients, e.g. patients who may have mental and/or physical disabilities or be distressed, children and the terminally ill. They work independently to assess, authorise, obtain consent and undertake individual examination requests for radiography procedures. They will critique images and determine appropriate actions. The work is physically and mentally demanding and involves direct patient contact, which can be of a personal nature.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with patients, their carers, members of the public and other healthcare staff e.g. porters, nurses, other allied health professionals, doctors, external contractors, engineers and medical physicists etc. They will primarily work in diagnostic imaging departments in hospitals (inpatients and outpatients), but also provide mobile imaging on Wards, including the Intensive Care Unit, Neonatal Unit, Emergency Department and Operating Theatres. Diagnostic Radiographers may also provide imaging in stand- alone satellite units.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for the safe use of imaging equipment and the safe conduct of examinations, including the radiation protection of patients, themselves, staff and visitors. As registered autonomous practitioners they are accountable both professionally and legally for their own actions and for those operating under their supervision as they deliver safe and compassionate care. Work may be undertaken independently or as part of a team. They may refer to another healthcare professional for advice; however, this may not always be available at night in smaller organisations or in satellite departments. They are expected to contribute to a 24-hour, 7-day week imaging service with varying shift patterns and on call service and, on occasion, may be the sole provider of imaging services for the organisation.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all healthcare settings including, primary, secondary and tertiary healthcare, independent and private healthcare sectors.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide excellent patient care by obtaining images of a high diagnostic quality using a range of high cost and complex imaging equipment. This will include imaging using x-rays and cross-sectional imaging methods (Computed Tomography or CT), fluoroscopy and Interventional Radiology and will be able to assist in other imaging modalities such as Ultrasound, Magnetic Resonance Imaging (MRI), Breast Imaging and Nuclear Medicine. Diagnostic Radiographers work with a broad range of patients, e.g. patients who may have mental and/or physical disabilities or be distressed, children and the terminally ill. They work independently to assess, authorise, obtain consent and undertake individual examination requests for radiography procedures. They will critique images and determine appropriate actions. The work is physically and mentally demanding and involves direct patient contact, which can be of a personal nature.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with patients, their carers, members of the public and other healthcare staff e.g. porters, nurses, other allied health professionals, doctors, external contractors, engineers and medical physicists etc. They will primarily work in diagnostic imaging departments in hospitals (inpatients and outpatients), but also provide mobile imaging on Wards, including the Intensive Care Unit, Neonatal Unit, Emergency Department and Operating Theatres. Diagnostic Radiographers may also provide imaging in stand- alone satellite units.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the safe use of imaging equipment and the safe conduct of examinations, including the radiation protection of patients, themselves, staff and visitors. As registered autonomous practitioners they are accountable both professionally and legally for their own actions and for those operating under their supervision as they deliver safe and compassionate care. Work may be undertaken independently or as part of a team. They may refer to another healthcare professional for advice; however, this may not always be available at night in smaller organisations or in satellite departments. They are expected to contribute to a 24-hour, 7-day week imaging service with varying shift patterns and on call service and, on occasion, may be the sole provider of imaging services for the organisation.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fc0df0a9-6854-4c7b-8c45-a33099c368c7",
@@ -253,57 +258,68 @@
       "detail": "Read and critically analyse research articles, utilise basic research skills and apply research findings to practice."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-04-05T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0143",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "University Hospitals Birmingham NHS Foundation Trust, Birmingham Women’s and Children’s NHS Foundation Trust, Burton Hospitals NHS Foundation Trust, Cobalt Health, Guy’s & St. Thomas’ NHS Foundation Trust, Hampshire Hospitals NHS Foundation Trust, Heart of England NHS Trust Foundation Trust, InHealth, Nottingham University Hospitals NHS Trust, Salisbury NHS Foundation Trust, United Lincolnshire Hospitals NHS Trust, University Hospital Southampton NHS Foundation Trust, University Hospitals Coventry & Warwickshire NHS Trust, University Hospitals North Midlands NHS Trust, Walsall Healthcare NHS Trust, Sheffield Hallam University, Birmingham City University, City University London, London South Bank University",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Health and Care Professions Council",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Diagnostic radiographer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2019-12-20T15:29:43 +00:00",
-  "lastUpdated": "2019-12-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/diagnostic-radiographer-(integrated-degree)-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/diagnostic-radiographer-(integrated-degree)-v1-1",
+  "lastUpdated": "2021-10-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-04-05T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0619",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0619-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0619-v1-1",
   "qualifications": [
     {
       "qualificationId": "d0577aef-552d-4941-a3c6-01961a954169",
       "title": "BSc (Hons) Diagnostic Radiography or (where the apprentice already holds a level 6 honours degree) a pre-registration MSc in Diagnostic Radiography.",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Society and College of Radiographers",
-      "level": "0",
+      "level": "6 and 7 ",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Health and Care Professionals Council (HCPC)",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -329,7 +345,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
@@ -353,7 +369,7 @@
         "e0c16060-556b-434c-a3c0-b6f6f7b44bc0",
         "e8abea06-19be-4c4d-a2aa-968c0d4ddedc"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -376,7 +392,7 @@
         "2e9a58e7-3929-4c48-82b0-e22ba92f7df5",
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "e2a7bf6a-bb49-4616-8cef-b8a056b48920"
@@ -396,7 +412,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "a01e4845-fc9a-419c-8ef4-384563797b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806"
       ],
@@ -419,7 +435,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ee100dcb-0f76-497a-8a50-27d34d5f9796",
         "d6ff3ddb-4d51-4072-a929-25831b9bba9b",
@@ -442,7 +458,7 @@
         "de58847c-0461-4cc7-96bf-0866831d5b4b",
         "a240b275-7c25-4254-b882-fdbc48a885d2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d6ff3ddb-4d51-4072-a929-25831b9bba9b",
         "9ac75699-0da9-4382-b396-4ffeba85515e"
@@ -463,7 +479,7 @@
         "f0b1dd70-b219-46e9-b2a6-7255cbbbbb4a",
         "a01e4845-fc9a-419c-8ef4-384563797b3d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "b5f9eb64-a4c6-4aa7-9c61-2865aac9f930",
@@ -485,7 +501,7 @@
         "f30e39c9-cf28-4e75-8565-7ea631abee9e",
         "14fe73f6-3cd8-4e67-806f-cf838e323e39"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a18d4191-bc2d-4323-8e26-12ce227c7219",
         "09cfa5ba-bf5a-4ddc-8142-6ea8e890becc"
@@ -505,7 +521,7 @@
         "fc0df0a9-6854-4c7b-8c45-a33099c368c7",
         "ef1aac3d-0588-4547-91df-0c4f87395e31"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b9f9d4df-6ee9-4793-b48b-38b95a38f849",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -528,7 +544,7 @@
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5",
         "de58847c-0461-4cc7-96bf-0866831d5b4b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "2d53b4d3-e6e3-4ff4-93c6-865e92c3adf9",
@@ -551,7 +567,7 @@
         "bef86e96-bd14-473f-b4d2-4cdb374232ca",
         "fdf8d7f5-9227-44d0-aae8-a7318bc5f8a5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87c57312-e481-4758-a3ce-023c31e81d70"
       ],
@@ -574,7 +590,7 @@
         "20f2fdfe-3acf-4e17-a6d7-0e7b45d64c64",
         "c42ca783-2b6b-42fe-b3cc-46cc48f35347"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "f48eac22-fba1-4fbe-87e7-079deddf2a38"
@@ -595,7 +611,7 @@
         "b4bfd1aa-056a-4711-a624-29480904fb26",
         "aacc5dcb-73b7-4b85-adb3-dabc701647be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
         "a18d4191-bc2d-4323-8e26-12ce227c7219",
@@ -620,7 +636,7 @@
         "c42ca783-2b6b-42fe-b3cc-46cc48f35347",
         "b4bfd1aa-056a-4711-a624-29480904fb26"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ece0363d-88ed-41c8-9afc-4a8dde52a0f7",
         "09cfa5ba-bf5a-4ddc-8142-6ea8e890becc",
@@ -648,7 +664,7 @@
         "b4bfd1aa-056a-4711-a624-29480904fb26",
         "aacc5dcb-73b7-4b85-adb3-dabc701647be"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "b9f9d4df-6ee9-4793-b48b-38b95a38f849",
@@ -675,7 +691,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "f30e39c9-cf28-4e75-8565-7ea631abee9e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f3d5ff67-eb52-4e7c-b719-afed1ffa63ba",
         "7c154917-2997-41d8-a7a5-33de58007806",
@@ -702,7 +718,7 @@
         "fb6687cd-e484-4433-9d6f-ad74fb82dec0",
         "e293c4ec-ab4a-43f0-a9be-518f1e0546b1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7c154917-2997-41d8-a7a5-33de58007806",
         "c8b51a58-cfc4-40be-8c40-615cd7f65489",
@@ -714,14 +730,21 @@
       "criteriaForMeasuringPerformance": "Comply with Health and Care Professions Council Standards of Proficiency and Society and College\nof Radiographers guidance"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-11-18T00:00:00"
 }
