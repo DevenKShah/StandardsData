@@ -1,30 +1,42 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 471,
   "referenceNumber": "ST0300",
+  "learningAimClassCode": "",
   "title": "Pharmacy technician (integrated)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/471",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0300",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-02-04T00:00:00",
+  "changedDate": "2023-08-16T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-08-15T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assisting the pharmacist in chemists and hospital dispensaries.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 8000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "health",
+    "science",
+    "social cre",
+    "chemists",
+    "hospital",
+    "pharmacy"
+  ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4272/st0300_pharmacy-technician-integrated-_l3_plan-for-publication_15052020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6702/st0300-pharmacy-technician_l3_fully-integrated_ap_for-publication_25112022.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;Pharmacy Technicians are registered professionals working within the regulatory standards for pharmacy, as set by the General Pharmaceutical Council (GPhC) Pharmacy Order 2010.&lt;/p&gt;\r\n&lt;p&gt;Pharmacy Technicians work in a wide range of settings, including (but not exclusively): registered pharmacies, community services, justice (the Prison Service), GP Practices, dispensing doctors’ practices, care homes and clinical commissioning groups, hospitals, mental health, defence (HM Armed Services) and within the pharmaceutical industry&lt;/p&gt;\r\n&lt;p&gt;Pharmacy technicians manage the supply of medicines and devices in a pharmacy and assist pharmacists with advisory services. The actual work setting will determine the specific areas of activity that the Pharmacy Technician undertakes, but typically their role will include the following&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;providing safe and effective pharmacy services&lt;/li&gt;\r\n&lt;li&gt;supply medicines and devices to patients, whether on prescription or over the counter&lt;/li&gt;\r\n&lt;li&gt;achieving the best outcomes through a patient’s medicines&lt;/li&gt;\r\n&lt;li&gt;assemble medicines for prescriptions&lt;/li&gt;\r\n&lt;li&gt;provide information to patients and other healthcare professionals.&lt;/li&gt;\r\n&lt;li&gt;manage areas of medicines supply such as dispensaries&lt;/li&gt;\r\n&lt;li&gt;supervise other pharmacy staff&lt;/li&gt;\r\n&lt;li&gt;answering customers questions face to face or by phone&lt;/li&gt;\r\n&lt;li&gt;pre-packing, assembling and labelling medicines&lt;/li&gt;\r\n&lt;li&gt;referring problems or queries to the pharmacist&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;p&gt;A Pharmacy Technician is responsible for carrying out both routine and specialist services, including highly complex activities requiring them to use their professional judgement. They are expected to work both individually and as part of a multi-disciplinary team. They are able to work with minimum supervision, with a high degree of autonomy, taking responsibility for the quality and accuracy of the work that they have undertaken and that of others.&lt;/p&gt;\r\n&lt;p&gt;Pharmacy Technicians are expected to communicate effectively with healthcare professionals, patients and the public, whilst respecting and maintaining confidentiality and privacy.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Pharmacy Technicians are registered professionals working within the regulatory standards for pharmacy, as set by the General Pharmaceutical Council (GPhC) Pharmacy Order 2010.&lt;/p&gt;\n&lt;p&gt;Pharmacy Technicians work in a wide range of settings, including (but not exclusively): registered pharmacies, community services, justice (the Prison Service), GP Practices, dispensing doctors’ practices, care homes and clinical commissioning groups, hospitals, mental health, defence (HM Armed Services) and within the pharmaceutical industry&lt;/p&gt;\n&lt;p&gt;Pharmacy technicians manage the supply of medicines and devices in a pharmacy and assist pharmacists with advisory services. The actual work setting will determine the specific areas of activity that the Pharmacy Technician undertakes, but typically their role will include the following&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;providing safe and effective pharmacy services&lt;/li&gt;\n&lt;li&gt;supply medicines and devices to patients, whether on prescription or over the counter&lt;/li&gt;\n&lt;li&gt;achieving the best outcomes through a patient’s medicines&lt;/li&gt;\n&lt;li&gt;assemble medicines for prescriptions&lt;/li&gt;\n&lt;li&gt;provide information to patients and other healthcare professionals.&lt;/li&gt;\n&lt;li&gt;manage areas of medicines supply such as dispensaries&lt;/li&gt;\n&lt;li&gt;supervise other pharmacy staff&lt;/li&gt;\n&lt;li&gt;answering customers questions face to face or by phone&lt;/li&gt;\n&lt;li&gt;pre-packing, assembling and labelling medicines&lt;/li&gt;\n&lt;li&gt;referring problems or queries to the pharmacist&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;A Pharmacy Technician is responsible for carrying out both routine and specialist services, including highly complex activities requiring them to use their professional judgement. They are expected to work both individually and as part of a multi-disciplinary team. They are able to work with minimum supervision, with a high degree of autonomy, taking responsibility for the quality and accuracy of the work that they have undertaken and that of others.&lt;/p&gt;\n&lt;p&gt;Pharmacy Technicians are expected to communicate effectively with healthcare professionals, patients and the public, whilst respecting and maintaining confidentiality and privacy.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "e1b203a5-d85d-4933-a83c-3b0668cdc706",
@@ -287,43 +299,54 @@
       "detail": "Effectively supervise other members of the team"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "National Skills Academy for Rail (NSAR)",
-    "contactName": "Barry Smith",
-    "contactAddress": "NSAR Ltd<br>11 Carteret Street<br>London<br>SW1H 9DJ",
-    "contactEmail": "Barry.smith@nsar.co.uk",
-    "webLink": "https://www.nsar.co.uk/"
+    "providerName": "General Pharmaceutical Council ",
+    "contactName": "Chris McKendrick",
+    "contactAddress": "General Pharmaceutical Council, Level 14, One Cabot Square, London E14 4QJ ",
+    "contactEmail": "Chris.McKendrick@pharmacyregulation.org",
+    "webLink": "https://www.pharmacyregulation.org/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
   "integratedApprenticeship": true,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0519",
-  "tbMainContact": "training@buttercups.co.uk",
+  "tbMainContact": "David.evans21@nhs.net",
   "involvedEmployers": "Daleacre Ltd, Lincolnshire Co-Operative Ltd, PCT Healthcare , Leeds Teaching Hospital, Herefordshire CCG, Guy's and St Thomas' NHS Foundation Trust, Bristol NHS Foundation Trust, Boots UK, APTUK, Tesco UK, Superdrug UK, Celesio UK, National Pharmacy Association, Association of Pharmacy Technicians UK",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "General Pharmaceuticals Council",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Healthcare Science",
-  "cluster": "Pharmacy Science Assistant",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Healthcare science",
+  "cluster": "Pharmacy science assistant",
+  "clusterId": "273",
+  "clusterDescription": "Order, prepare and dispense medicines under direct supervision",
   "createdDate": "2019-12-23T10:15:55 +00:00",
-  "lastUpdated": "2020-05-22T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-(integrated)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/pharmacy-technician-(integrated)-v1-0",
+  "lastUpdated": "2023-08-16T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.\u00A0",
+  "occupationCode": "OCC0300",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0300-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0300-v1-0",
   "qualifications": [
     {
       "qualificationId": "073063f9-9d11-450b-ae66-2a02ea5e6580",
       "title": "General Pharmaceutical Council ",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -342,7 +365,7 @@
         "392cf911-9c48-4437-9576-21d465b33a27",
         "84dc124b-6401-4136-ab06-2af7380dbaf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d73b87c2-5a69-4d00-aac0-7bedbb7426bf",
         "b26d365a-4c82-47d5-b83e-94db8abb2b29",
@@ -366,7 +389,7 @@
         "9fe428f2-4695-4574-bafe-545f536a5190",
         "7fda49ef-798e-4d25-ab4a-32fad8523266"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ae9ee99e-7207-4167-9892-8122b54fdc50",
         "410cbeaa-393f-4e0e-b964-7d3067614587",
@@ -387,7 +410,7 @@
         "67afc10f-9e53-4d59-995c-cbdeee2cc4a4",
         "0dfb5c1c-84c1-4a77-95ac-be8bb04b2241"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0bf91429-bdae-4103-9217-93e32402ab49",
         "4f3d46c6-a21e-441c-80d8-78eb972be05d",
@@ -402,11 +425,11 @@
       "dutyID": "be9a725b-c63d-4009-8fac-4b43afaa23cb",
       "dutyDetail": "Provide training to pharmacy and the wider healthcare teams. e.g. for a new member of staff",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "9bb3d5ed-e334-4bd3-8ea2-1993d3b78da3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c9c37945-d27d-44cc-8310-0226bd43bca5"
       ],
@@ -425,7 +448,7 @@
         "3c147b9f-2a0a-42a2-b2ce-3c90683ef418",
         "ed82b8cf-bbdc-44c1-a10c-f83013558fbb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ad970d0a-fd1a-4e77-8a2f-52ac96dde267",
         "8c1a77d1-9834-4484-8638-0400bef302eb",
@@ -445,7 +468,7 @@
         "ea642c41-d504-4089-84e0-ef0d4363a868",
         "f391efaa-c8cf-4d01-a2ca-af8453f8ff5e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "babf2618-9ce2-49d2-a075-d6ebcb1f26bd",
         "434f2d05-df8d-4941-8bdc-6295d09334d6",
@@ -467,7 +490,7 @@
         "c5a15b2a-b9b6-4d77-9479-f33aba47c4b6",
         "54962448-71e2-4fc3-a2f4-a938aeb11433"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d127faf-71ac-46f7-9513-08145a9aba3f",
         "be256969-4380-497c-b838-5cd9c85e61f0",
@@ -486,7 +509,7 @@
         "9d373121-362c-4faa-80e1-4ffd0018438d",
         "59e03ecb-e18c-4a2c-93fd-f3f8eaea5b54"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea007eab-8fe0-40f2-9c52-24c90ce7dc50",
         "cd40aab3-2b6e-47a1-8fd7-34a2b3329390"
@@ -497,11 +520,11 @@
       "dutyID": "0dab15c2-8f32-44de-98fe-760f712a0e80",
       "dutyDetail": "Provide specialist services in response to local and national needs and initiatives.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "eec291e0-2567-4561-976c-a0622ed42d55"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aeafcf95-c291-4c6d-8c4e-06ee5b103772"
       ],
@@ -511,12 +534,12 @@
       "dutyID": "d854ffb3-4e7a-4e21-871a-3bdaa8d7c19d",
       "dutyDetail": "Respond appropriately to medical emergencies.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": null,
+      "mappedBehaviour": [],
       "mappedKnowledge": [
         "25dc2a7e-1db1-48bd-b550-446fde4c755b",
         "9d754d16-9da6-44c6-ade9-26f56f36c4d5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2956464e-b6be-4189-b611-47465508cd2d",
         "2cec159f-b212-4934-8e2b-85f9f1588d03"
@@ -524,14 +547,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider ",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-08-16T00:00:00"
 }
