@@ -1,0 +1,752 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 442,
+  "referenceNumber": "ST0696",
+  "learningAimClassCode": "",
+  "title": "Post production technical operator",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0696",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard and end-point assessment plan revised.",
+  "changedDate": "2024-02-28T00:00:00",
+  "earliestStartDate": "2024-02-28T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Providing support, assistance and delivery within the technical support operation of a post-production company.",
+  "level": 4,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Creative and design",
+  "keywords": [
+    "post production technical operator",
+    "media",
+    "communications",
+    "creative",
+    "design",
+    "production"
+  ],
+  "jobRoles": [
+    "Dailies operator",
+    "Data wrangler",
+    "Digital imaging technician (dit)",
+    "Grade/edit assistant",
+    "Input/output operator",
+    "Mcr operator",
+    "Media operator",
+    "Offline assistant",
+    "Quality control operator",
+    "Technical operator"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/xyphmhix/st0696-adjustment.pdf",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.3 Media and communication",
+  "version": "1.1",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the media industries and covers the Post Production area for Film, TV and Advertising. Post-production is effectively the final step in the making of a film or television programme and associated products, is the process of refinement and transition of productions’ raw materials into a finished product before distribution and release to the public. Post Production Technical Operators are employed by audio and picture post-production companies, visual effects companies, broadcasters and by film and TV production companies who have their own facilities.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;The broad purpose of the occupation is to provide support, assistance and delivery within the technical support operation of a post-production company. Core duties include (but are not limited to) first line technical and edit support for the workflow and lifecycle of the content in post-production, media backup, ingest and export. The core objective of the role is to ensure that the technical support operations are fulfilled effectively and efficiently to the technical specification provided. Each company engaged in post-production, of whatever size, employs Technical Operators to prepare, manage and deliver the assets and creative media handled during the post production process.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with creative colleagues in editing, visual effects or production teams, as well as clients. This is a junior position into the Master Control Room (MCR) department, the role is often shift based and may involve working alone or as part of a larger team; they will report to senior technical managers.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;An employee in this occupation will be responsible for applying technical knowledge and understanding to the post production process in film, TV and Advertising. Post-Production Technical Operators are given high levels of responsibility with sensitive material, working to specific and varied technical standards within time-limited deadlines. In this role, they are responsible for assessing quality of content and carrying out corrective measures where possible. They have to be able to analyse source material/content and interpret and apply technical specifications to this. Although it is a technical role, there is a need to have an eye for the creative processes in post production such as editing, audio mixing and colour grading. The roles require an understanding of current digital file-based workflows as well as legacy media. Creative personnel in picture editing, grading and audio dubbing suites depend on the picture and audio files produced by technicians in this role. They are known by a variety of job titles, depending on the specific services provided by their employer, however the core technical understanding that they use applies across the industry.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "65cfc179-ba4e-4236-bd95-f112b15d9385",
+      "detail": "Understand the purpose of post-production within the end-to-end production process."
+    },
+    {
+      "knowledgeId": "c6ea6155-9dfa-40cd-a103-9743871ef4c4",
+      "detail": "Understand the commercial context of post-production with the film, TV and advertising industry."
+    },
+    {
+      "knowledgeId": "61ab0bdc-9e0b-4b1d-b278-5b3937ede6b4",
+      "detail": "Understand the importance of agreed workflows and how to adapt these to meet the needs of a production."
+    },
+    {
+      "knowledgeId": "cd4d475f-2f71-4895-94d2-510ece6c195b",
+      "detail": "Understand the importance of accurate, effective and timely communication with own team, other departments and customers to ensure efficient progress of the work in hand."
+    },
+    {
+      "knowledgeId": "6aa2968f-99e0-4b23-89d0-17799f86fbf7",
+      "detail": "Know the relevant health and safety legislation and company policies to ensure a safe working environment for themselves, colleagues and customers."
+    },
+    {
+      "knowledgeId": "33cf40fa-1430-484a-b100-0872de6bb6db",
+      "detail": "Understand the principles of video signals for film and TV in the digital and analogue domains including: resolution, sampling, colour science, display technologies and emerging and legacy video formats/standards."
+    },
+    {
+      "knowledgeId": "87851206-8000-4dcd-9a2c-4c7433442a72",
+      "detail": "Understand the principles of audio signals in the digital and analogue domains including: Signal path basics, mono, stereo, surround sound, object-based audio, audio levels and loudness."
+    },
+    {
+      "knowledgeId": "03522d1e-12cf-42ee-94f6-4a075d23f8d4",
+      "detail": "Understand the use of metadata and other forms of content documentation."
+    },
+    {
+      "knowledgeId": "9d80cd52-239b-4fd4-92f1-0ed02285f9d3",
+      "detail": "Understand the use of timecode and other frame labelling protocols."
+    },
+    {
+      "knowledgeId": "fbfd9005-afd0-4075-9bba-3f88ced4e69c",
+      "detail": "Understand why it is business critical to use unambiguous labelling of content, clock numbers and file naming conventions."
+    },
+    {
+      "knowledgeId": "0fc5e82a-87b3-4d10-80cb-e00d0f2f3bcf",
+      "detail": "Understand the importance of agreed workflows and how these may be adapted to meet the bespoke needs of a production."
+    },
+    {
+      "knowledgeId": "32a3d5b4-62b1-4c05-bad1-84d1bf19ae7c",
+      "detail": "Know and understand the structure of and appropriate application of, audio and video file formats in common use in production, post-production and delivery."
+    },
+    {
+      "knowledgeId": "1b89115d-b0fb-466c-87e5-8eb9f1e40570",
+      "detail": "Know the formats that are used for still images and graphics held as bitmaps or vector images, and which file formats are used for moving images held as sequential single frame files"
+    },
+    {
+      "knowledgeId": "371a3a1a-e595-45f6-8614-5c85cc75559b",
+      "detail": "Understand the principles of encoding, transcoding and compression of digital audio and video."
+    },
+    {
+      "knowledgeId": "bfea3b45-5811-406c-aa5b-e8fcfaca5ab3",
+      "detail": "Understand the capabilities of different connection standards for portable storage devices."
+    },
+    {
+      "knowledgeId": "c4d3eede-1143-4ba5-9a17-60a687f6dedb",
+      "detail": "Understand the principles of high speed file transfer across Local Area Networks (LAN) and Wider Area Networks (WAN)."
+    },
+    {
+      "knowledgeId": "f5edf7c6-51a6-43a8-9991-526e3dcd90f2",
+      "detail": "Know and understand the protocols for secure, audited receipt and dispatch of content via physical and electronic transfer."
+    },
+    {
+      "knowledgeId": "d77b7804-4c3f-494d-bb31-e99b7e91168f",
+      "detail": "Understand the principles of computer systems, IP networks and shared storage systems as applied in post production."
+    },
+    {
+      "knowledgeId": "0d407ebf-62d6-43e0-8833-01731ecdcec7",
+      "detail": "How media is managed throughout the data lifecycle including production storage, shared storage, nearline storage and archive, whether on premises or in the cloud."
+    },
+    {
+      "knowledgeId": "ad1139d0-d076-4de5-ba92-29baf295b19b",
+      "detail": "Understand the bandwidth requirements and disk configurations necessary to ensure reliable playback and record performance at the required resolution for one or more clients from shared storage or directly connected storage."
+    },
+    {
+      "knowledgeId": "1a28c994-26b3-425d-a9ef-ff81bf72d4c5",
+      "detail": "Understand the principles of good digital content governance, resilience, RAID (redundant array of inexpensive disks), security, confidentiality."
+    },
+    {
+      "knowledgeId": "b5a99959-10e5-46f2-b86a-01d4b2429038",
+      "detail": "Understand the value of media content to the business and its customers."
+    },
+    {
+      "knowledgeId": "01cf39ae-10f5-42e7-a943-c4f7be367fcf",
+      "detail": "Understand the principles of non-linear editing systems."
+    },
+    {
+      "knowledgeId": "8b196fc6-bd40-458d-90f1-0f61f178666e",
+      "detail": "Understand the functional role, capabilities and limitations of the equipment used in offline editing."
+    },
+    {
+      "knowledgeId": "58de1075-e506-40d3-af48-24586d4a50fe",
+      "detail": "How to provide operational assistance and first-line support to creative personnel and problem solve within agreed governance constraints."
+    },
+    {
+      "knowledgeId": "06c2190e-0d66-4841-ac5b-57acb111cf5f",
+      "detail": "Understand the principles of non-linear picture and sound finishing systems."
+    },
+    {
+      "knowledgeId": "221efef5-7fc9-4a11-8c15-1208ba1b25c9",
+      "detail": "Understand the functional role, capabilities and limitations of the equipment used in online editing, colour grading and audio dubbing."
+    },
+    {
+      "knowledgeId": "fc2f1636-921e-43f9-af03-fd48d8e4f6ae",
+      "detail": "Understand the technical standards and customer specifications used for UK and international delivery of programmes, films and commercials to cinema, TV broadcast and online distribution platforms."
+    },
+    {
+      "knowledgeId": "90ab8e46-940a-4a93-aa03-73fdfda2280f",
+      "detail": "Understand the requirements of international productions to aid localisation, such as textless backgrounds and audio stems."
+    },
+    {
+      "knowledgeId": "f76d641e-97ab-4a72-ae90-b4e0e3442a87",
+      "detail": "Understand the correct environment in which to perform quality control and assessment."
+    },
+    {
+      "knowledgeId": "5daa38d4-836d-4959-94c0-ef2eab8709de",
+      "detail": "Understand the European Broadcasting Union (EBU) classification of quality issues and the International Telecommunications Union (ITU) 5-point quality assessment scale."
+    },
+    {
+      "knowledgeId": "c0df3667-903e-4e34-b970-3dba693f0f4d",
+      "detail": "Know and understand the regulations to comply with in regard to flashing images and stimuli causing photo sensitive epilepsy."
+    },
+    {
+      "knowledgeId": "1b88799b-557d-4232-813d-987213fe242e",
+      "detail": "Understand the regulations and specifications for on-screen text and graphics such as: safe areas, minimum text height and minimum durations for legal information in commercials."
+    },
+    {
+      "knowledgeId": "6d350329-43b1-4f30-b6dd-f20e17345509",
+      "detail": "Understand the importance of intelligibility of dialogue and how this is impacted by a complex range of factors, especially age-related hearing loss."
+    },
+    {
+      "knowledgeId": "4b8b10e9-3a14-4369-b67f-0eb7c48a6d15",
+      "detail": "Know and understand the relevant health and safety legislation and company policies."
+    },
+    {
+      "knowledgeId": "97cfd26e-a41f-4504-b131-4d5a696c8a47",
+      "detail": "Know and understand legacy video standards such as standard definition PAL and NTSC and their conversion to contemporary standards."
+    },
+    {
+      "knowledgeId": "8ad2d655-abbf-4322-935c-bc62703bf1ee",
+      "detail": "Know and understand legacy video and audio tape formats."
+    },
+    {
+      "knowledgeId": "729496bd-6f75-44f3-ac49-12702faf4347",
+      "detail": "Understand the implications of using legacy formats in contemporary workflows."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "063a2dfa-80a7-41ab-877e-812f729f9122",
+      "detail": "Displays a strong work ethic and commitment to meet the standards required - upholding ethical and professional standards."
+    },
+    {
+      "behaviourId": "f9356863-f0f9-466b-b4bd-9e133e612f70",
+      "detail": "Demonstrates a passion for post production, the media industry and its productions - proactively keeping up to date with latest developments within the industry."
+    },
+    {
+      "behaviourId": "5d72f3aa-f38b-46d0-a33b-13d4acdc41f6",
+      "detail": "Maintains company and customer confidentiality, acting as an ambassador for their employer."
+    },
+    {
+      "behaviourId": "7592ab46-3a29-43ae-abb8-84d02769d009",
+      "detail": "Acts in a manner that supports the commercial customer relationship acting as an ambassador for their employer."
+    },
+    {
+      "behaviourId": "9278a515-924d-45fa-89eb-53c0b7cfae14",
+      "detail": "Demonstrates attention to detail and not willingly accepting second best; whilst at the same time being pragmatic about balancing client expectations against the available time and budget."
+    },
+    {
+      "behaviourId": "a352721f-b162-408b-8aa3-a8b02d096c4f",
+      "detail": "Proactively keeping up to date with latest developments within the industry."
+    },
+    {
+      "behaviourId": "3f77a02c-099e-4ce6-9ccd-d4136deb228e",
+      "detail": "Thinks creatively and logically to solve technical issues - contribute to a process of continual improvement of workflow and technique."
+    },
+    {
+      "behaviourId": "212286a0-cb5e-4133-b8ac-55b66b3a320a",
+      "detail": "Delivers good customer service in a creative environment."
+    },
+    {
+      "behaviourId": "39f66226-0f08-4d6c-99d6-d72c1d0998ae",
+      "detail": "Balances the quality threshold which it is practical to achieve within time and budget constraints, and the customer expectations."
+    },
+    {
+      "behaviourId": "f17d668c-50c5-4651-b717-aec072a98e49",
+      "detail": "Works with a high level of sustained concentration and attention to detail."
+    },
+    {
+      "behaviourId": "12af7996-7237-4ea6-b4a3-b06a838ff8de",
+      "detail": "Works safely to ensure a safe working environment for themselves, colleagues and customers."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "534f8298-7516-4008-a520-908b8659ebcd",
+      "detail": "Work in line with agreed workflows, adapting to operational changes as they occur."
+    },
+    {
+      "skillId": "c3ac4fed-992c-469d-835a-bd0e68e8b248",
+      "detail": "Multitask on simultaneous projects, often for different clients, prioritising the work to ensure that all tasks are completed on schedule."
+    },
+    {
+      "skillId": "4bb2e9e8-59a9-40ef-bc50-2c6ec51b24fe",
+      "detail": "Analyse and interpret the work order and technical specification to complete the scheduled tasks."
+    },
+    {
+      "skillId": "7f8aa022-6624-42f9-bb43-0d6aa83f7f74",
+      "detail": "Use process documentation and work order reporting systems for efficient, accurate and timely communication with other departments about the progress of the work in hand."
+    },
+    {
+      "skillId": "9413b63a-06c8-4e25-8e62-a8c06b67b803",
+      "detail": "Work accurately with a high degree of attention to detail."
+    },
+    {
+      "skillId": "a2669ca1-8652-4600-9674-9536a6a0a902",
+      "detail": "Analyse and advise on the quality of audio, video and data throughout the post production process to colleagues, customers and suppliers."
+    },
+    {
+      "skillId": "693b2398-e8a8-43c8-b8b7-a26a1656ab59",
+      "detail": "Follow post production processes to ensure the necessary quality is achieved."
+    },
+    {
+      "skillId": "38002533-c599-43fc-b55d-b8f534eb2aa6",
+      "detail": "Access and interpret the relevant information pertaining to technical specifications and client requirements, and apply to the post production process."
+    },
+    {
+      "skillId": "c710e17f-4204-404a-b57f-96f95cf2fb85",
+      "detail": "Use appropriate technical vocabulary to document and communicate compliance with, or exceptions from, technical standards."
+    },
+    {
+      "skillId": "b691560f-72e8-46c0-95bb-e0e8b8a93d7a",
+      "detail": "Assimilate information from multiple sources and apply to task in hand."
+    },
+    {
+      "skillId": "ed69d64f-7a2c-4a08-b9d3-6c295ffb6976",
+      "detail": "Ensure data is transferred securely between client supplied sources and post production storage systems, performing data integrity and virus checks."
+    },
+    {
+      "skillId": "0650afc0-3177-4c6c-89fc-8fda6d8b44ca",
+      "detail": "Ingest and export media content and metadata to/from post-production systems, syncing the audio to video and applying colour transforms (LUTs) as required."
+    },
+    {
+      "skillId": "1f4fb068-dee6-4b8f-9b8c-32038b8e31ea",
+      "detail": "Arrange media content in agreed folder structures, using consistent and unambiguous folder and file naming conventions."
+    },
+    {
+      "skillId": "635c4123-ce13-4d01-9144-0864d570a068",
+      "detail": "Prepare graphics and still images for ingest using software such as Photoshop where basic manipulation is required."
+    },
+    {
+      "skillId": "0bca4d4c-ae1d-4bb5-a6bf-28ba2fd7f6ce",
+      "detail": "Encode and transcode audio and video data to required specifications."
+    },
+    {
+      "skillId": "c39bdb29-c731-4403-ad38-da991fb87069",
+      "detail": "Export finished content or work-in-progress with metadata from post-production systems to required specifications and naming conventions."
+    },
+    {
+      "skillId": "0d55d943-289b-408d-b326-d58e6721f2dd",
+      "detail": "Provide technical advice to clients and colleagues on an appropriate file specification for a given requirement."
+    },
+    {
+      "skillId": "476b2261-7755-43c0-85d1-dbb8b430b0de",
+      "detail": "Dispatch and receive physical assets to/from external organisations and audit the process."
+    },
+    {
+      "skillId": "54d78f90-ae18-4aca-a57e-37d8585b29d0",
+      "detail": "Use file transfer software for fast, secure and audited delivery of assets to external destinations."
+    },
+    {
+      "skillId": "d4a41045-c308-4475-a930-7c5d9ecacdae",
+      "detail": "Communicate work progress to colleagues and clients as appropriate."
+    },
+    {
+      "skillId": "06eb8b87-8ae8-4291-8eee-14ec2758126e",
+      "detail": "Manage access by clients to shared storage systems according to company protocols."
+    },
+    {
+      "skillId": "b1194349-2d12-422f-a8b6-e02f4b116775",
+      "detail": "Ensure data integrity when moving media between storage systems."
+    },
+    {
+      "skillId": "4c30d7ed-e52b-44f5-afcc-81493c0efe2c",
+      "detail": "Backup, archive and restore media, sequences and metadata according to company practice."
+    },
+    {
+      "skillId": "452a663e-e875-4fe7-981b-3161836c7a1e",
+      "detail": "Safely delete media as instructed and complying with company protocols."
+    },
+    {
+      "skillId": "3736334f-411c-4fa6-972e-ff8b7b7b25db",
+      "detail": "Maintain content security measures, both electronic and physical as required by the employer and their clients."
+    },
+    {
+      "skillId": "86addd40-92dc-444b-8e7a-f09e2cbdc231",
+      "detail": "Enact business continuity procedures."
+    },
+    {
+      "skillId": "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
+      "detail": "Prioritise the workload to ensure the scheduled tasks are completed on time, liaising with colleagues and clients."
+    },
+    {
+      "skillId": "dcf05b48-773a-462a-be17-ce8712bbf2ec",
+      "detail": "Provide frontline operational support to clients in editing suites, to ensure that they can find and work with their media."
+    },
+    {
+      "skillId": "667176af-72eb-486b-bb5d-a6618133a472",
+      "detail": "Take ownership to resolve and/or escalate faults/incidents to the appropriate person, within agreed governance constraints."
+    },
+    {
+      "skillId": "0673375c-4874-4aa3-bb06-0af5260e7439",
+      "detail": "Connect and set-up post production editing equipment using appropriate cables and connectors."
+    },
+    {
+      "skillId": "11b66545-5bfb-4510-9b9e-db1ccc7e1a43",
+      "detail": "Perform and check data conforms of sequences prior to colour grading or online editing."
+    },
+    {
+      "skillId": "eb16b11c-a9d0-4ea3-b9ee-f719afb0d913",
+      "detail": "Transfer picture data between grading and editing systems, ensuring the data integrity of content and sequences is maintained."
+    },
+    {
+      "skillId": "9e95b96b-3f2d-40bb-9e0e-44b0af20c460",
+      "detail": "Relink ingested media to updated sequences as editorial changes occur."
+    },
+    {
+      "skillId": "8bb13761-ce78-4d7c-8089-464ba6460fa1",
+      "detail": "Prepare and transfer audio data to the dubbing suite."
+    },
+    {
+      "skillId": "2f878781-ce77-41c3-8467-b2b0fddcab29",
+      "detail": "Perform basic editing functions necessary for the preparation of media and sequences for creative processes, or for formatting of finished content for delivery (e.g. adding line-up signals, idents, patching in QC fixes, audio laybacks)."
+    },
+    {
+      "skillId": "ceef8f73-180a-43a0-ab36-534700d392a1",
+      "detail": "Analyse and interpret the results of reports from audio and video test equipment."
+    },
+    {
+      "skillId": "1118341f-1bd0-4a24-b151-d872eea2f2ce",
+      "detail": "Consistently assess and identify faults in content, using the correct terminology to accurately describe and record them."
+    },
+    {
+      "skillId": "5f822240-1d39-4772-8882-90e44ce3f7a5",
+      "detail": "Use own judgement and discretion to decide what is acceptable and what is not in relation to quality control, depending on the context of the material, its intended use and the required technical specifications and customer requirements."
+    },
+    {
+      "skillId": "93f0e7d1-96fb-4ff6-ac1e-2a3fc06c1eae",
+      "detail": "Deliver accurate and concise Quality Assessment Reports with clear indications of mandatory failures, advisory warnings and client approved exceptions."
+    },
+    {
+      "skillId": "f7ddcfd6-d91e-40c6-9921-6ac57aa9d431",
+      "detail": "Provide technical advice on remedial action to correct faults identified."
+    },
+    {
+      "skillId": "81b1c469-1bb5-4886-adcb-a829f2e9bfbc",
+      "detail": "Communicate findings to both clients and colleagues accurately, and in a diplomatic manner."
+    },
+    {
+      "skillId": "a8d36bc7-1e60-4a66-a6cd-e9aea56eba1e",
+      "detail": "Comply with company Health and Safety policies and practices, identifying, mitigating and reporting any incidents or risk to the appropriate person."
+    },
+    {
+      "skillId": "3f8cbd7b-6570-4172-a909-df2a2916ae26",
+      "detail": "Consistently work in a safe manner for self, colleagues and clients."
+    },
+    {
+      "skillId": "67791785-4b53-4472-8443-1b7928d4de71",
+      "detail": "Use appropriate legacy media physical handling procedures."
+    },
+    {
+      "skillId": "319dcae0-fe6f-4bc9-93b4-771eb94ebbe6",
+      "detail": "Carry out basic operation of videotape recorders and audio recorders."
+    },
+    {
+      "skillId": "a4f91568-5a6b-4a92-a5e3-7031c207f1be",
+      "detail": "Digitise tape content into editing systems."
+    },
+    {
+      "skillId": "035119c7-7cf2-48d0-8b8f-5ae79331f55c",
+      "detail": "Playout finished content from editing systems to tape."
+    },
+    {
+      "skillId": "e70ae9d1-c17e-4cea-b754-b22ddbdbcfb7",
+      "detail": "Provide technical advice to clients and colleagues on the implications of using legacy format in contemporary workflows."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2019-04-11T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0287",
+  "tbMainContact": "rowan.bray@clearcut.cc",
+  "involvedEmployers": "Clear Cut Pictures, Company3/Encore/Deluxe, Creative Skillset, Edit Store, Fifty Fifty, Flix Facilities, Framestore, Molinare, Motion Pictures Solutions, MPC (Moving Picture Company), Pinewood Studios, Platform Post, Run VT, Technicolor, UK Screen Alliance, West Digital",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Dailies operator",
+    "Data wrangler",
+    "Digital imaging technician (dit)",
+    "Grade/edit assistant",
+    "Input/output operator",
+    "Mcr operator",
+    "Media operator",
+    "Offline assistant",
+    "Quality control operator",
+    "Technical operator"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Media, Broadcast and Production",
+  "cluster": "Media, broadcast and production technician",
+  "clusterId": "76",
+  "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
+  "createdDate": "2024-02-28T15:35:10 +00:00",
+  "lastUpdated": "2024-02-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "occupationCode": "OCC0696",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0696-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0696-v1-1",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "fac7417b-e8fe-466b-882d-cbd7a0f13521",
+      "dutyDetail": "Work effectively as part of a team, supporting creative colleagues to deliver the clients’ vision of the final programme, film or commercial",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "063a2dfa-80a7-41ab-877e-812f729f9122",
+        "f9356863-f0f9-466b-b4bd-9e133e612f70",
+        "5d72f3aa-f38b-46d0-a33b-13d4acdc41f6",
+        "7592ab46-3a29-43ae-abb8-84d02769d009"
+      ],
+      "mappedKnowledge": [
+        "65cfc179-ba4e-4236-bd95-f112b15d9385",
+        "c6ea6155-9dfa-40cd-a103-9743871ef4c4",
+        "61ab0bdc-9e0b-4b1d-b278-5b3937ede6b4",
+        "cd4d475f-2f71-4895-94d2-510ece6c195b",
+        "6aa2968f-99e0-4b23-89d0-17799f86fbf7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "534f8298-7516-4008-a520-908b8659ebcd",
+        "c3ac4fed-992c-469d-835a-bd0e68e8b248",
+        "4bb2e9e8-59a9-40ef-bc50-2c6ec51b24fe",
+        "7f8aa022-6624-42f9-bb43-0d6aa83f7f74",
+        "9413b63a-06c8-4e25-8e62-a8c06b67b803"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3dd86b3e-bdb8-4d28-ae87-37632fd44cce",
+      "dutyDetail": "Preserve or create audio, video and data content at the best quality possible as it passes through the post production department, in line with industry standards and client requirements",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9278a515-924d-45fa-89eb-53c0b7cfae14",
+        "a352721f-b162-408b-8aa3-a8b02d096c4f"
+      ],
+      "mappedKnowledge": [
+        "33cf40fa-1430-484a-b100-0872de6bb6db",
+        "87851206-8000-4dcd-9a2c-4c7433442a72",
+        "03522d1e-12cf-42ee-94f6-4a075d23f8d4",
+        "9d80cd52-239b-4fd4-92f1-0ed02285f9d3",
+        "fbfd9005-afd0-4075-9bba-3f88ced4e69c"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a2669ca1-8652-4600-9674-9536a6a0a902",
+        "693b2398-e8a8-43c8-b8b7-a26a1656ab59",
+        "38002533-c599-43fc-b55d-b8f534eb2aa6",
+        "c710e17f-4204-404a-b57f-96f95cf2fb85",
+        "b691560f-72e8-46c0-95bb-e0e8b8a93d7a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1c004187-453f-4e42-8662-6c2fc3e157a1",
+      "dutyDetail": "Ingest and export media to/from the post production environment",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f77a02c-099e-4ce6-9ccd-d4136deb228e",
+        "212286a0-cb5e-4133-b8ac-55b66b3a320a"
+      ],
+      "mappedKnowledge": [
+        "0fc5e82a-87b3-4d10-80cb-e00d0f2f3bcf",
+        "32a3d5b4-62b1-4c05-bad1-84d1bf19ae7c",
+        "1b89115d-b0fb-466c-87e5-8eb9f1e40570",
+        "371a3a1a-e595-45f6-8614-5c85cc75559b",
+        "bfea3b45-5811-406c-aa5b-e8fcfaca5ab3",
+        "c4d3eede-1143-4ba5-9a17-60a687f6dedb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b691560f-72e8-46c0-95bb-e0e8b8a93d7a",
+        "ed69d64f-7a2c-4a08-b9d3-6c295ffb6976",
+        "0650afc0-3177-4c6c-89fc-8fda6d8b44ca",
+        "1f4fb068-dee6-4b8f-9b8c-32038b8e31ea",
+        "635c4123-ce13-4d01-9144-0864d570a068",
+        "0bca4d4c-ae1d-4bb5-a6bf-28ba2fd7f6ce",
+        "c39bdb29-c731-4403-ad38-da991fb87069",
+        "0d55d943-289b-408d-b326-d58e6721f2dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2578e61d-3967-47e7-89ea-e40e95a8417e",
+      "dutyDetail": "Receive and dispatch media from/to external organisations",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "5d72f3aa-f38b-46d0-a33b-13d4acdc41f6",
+        "212286a0-cb5e-4133-b8ac-55b66b3a320a"
+      ],
+      "mappedKnowledge": [
+        "c4d3eede-1143-4ba5-9a17-60a687f6dedb",
+        "f5edf7c6-51a6-43a8-9991-526e3dcd90f2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "476b2261-7755-43c0-85d1-dbb8b430b0de",
+        "54d78f90-ae18-4aca-a57e-37d8585b29d0",
+        "d4a41045-c308-4475-a930-7c5d9ecacdae"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c683433-ef48-4108-bb1d-90a43106405d",
+      "dutyDetail": "Manage media on post-production storage systems, to ensure that the right content is available at the right time, to the right client.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "063a2dfa-80a7-41ab-877e-812f729f9122",
+        "5d72f3aa-f38b-46d0-a33b-13d4acdc41f6",
+        "f17d668c-50c5-4651-b717-aec072a98e49"
+      ],
+      "mappedKnowledge": [
+        "d77b7804-4c3f-494d-bb31-e99b7e91168f",
+        "0d407ebf-62d6-43e0-8833-01731ecdcec7",
+        "ad1139d0-d076-4de5-ba92-29baf295b19b",
+        "1a28c994-26b3-425d-a9ef-ff81bf72d4c5",
+        "b5a99959-10e5-46f2-b86a-01d4b2429038"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "06eb8b87-8ae8-4291-8eee-14ec2758126e",
+        "b1194349-2d12-422f-a8b6-e02f4b116775",
+        "4c30d7ed-e52b-44f5-afcc-81493c0efe2c",
+        "452a663e-e875-4fe7-981b-3161836c7a1e",
+        "3736334f-411c-4fa6-972e-ff8b7b7b25db",
+        "86addd40-92dc-444b-8e7a-f09e2cbdc231",
+        "47bf55a0-ce5d-43f8-b226-e69c2d13df44"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a2eef6af-b680-4b5d-899d-1754cbca886c",
+      "dutyDetail": "Support creative colleagues in edit suites",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f77a02c-099e-4ce6-9ccd-d4136deb228e",
+        "212286a0-cb5e-4133-b8ac-55b66b3a320a"
+      ],
+      "mappedKnowledge": [
+        "01cf39ae-10f5-42e7-a943-c4f7be367fcf",
+        "8b196fc6-bd40-458d-90f1-0f61f178666e",
+        "58de1075-e506-40d3-af48-24586d4a50fe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
+        "dcf05b48-773a-462a-be17-ce8712bbf2ec",
+        "667176af-72eb-486b-bb5d-a6618133a472",
+        "0673375c-4874-4aa3-bb06-0af5260e7439"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "89ef6d73-7884-4b92-99ac-ebfeea34e38f",
+      "dutyDetail": "Support creative colleagues in picture and sound finishing suites",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9278a515-924d-45fa-89eb-53c0b7cfae14",
+        "3f77a02c-099e-4ce6-9ccd-d4136deb228e",
+        "212286a0-cb5e-4133-b8ac-55b66b3a320a",
+        "12af7996-7237-4ea6-b4a3-b06a838ff8de"
+      ],
+      "mappedKnowledge": [
+        "06c2190e-0d66-4841-ac5b-57acb111cf5f",
+        "221efef5-7fc9-4a11-8c15-1208ba1b25c9"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
+        "dcf05b48-773a-462a-be17-ce8712bbf2ec",
+        "11b66545-5bfb-4510-9b9e-db1ccc7e1a43",
+        "eb16b11c-a9d0-4ea3-b9ee-f719afb0d913",
+        "9e95b96b-3f2d-40bb-9e0e-44b0af20c460",
+        "8bb13761-ce78-4d7c-8089-464ba6460fa1",
+        "2f878781-ce77-41c3-8467-b2b0fddcab29"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e84a021f-5f09-42db-8797-bf03da5fc9a4",
+      "dutyDetail": "Perform formal Quality Control Assessments to produce reports on the technical quality of sound, pictures and data of finished content",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "39f66226-0f08-4d6c-99d6-d72c1d0998ae",
+        "f17d668c-50c5-4651-b717-aec072a98e49"
+      ],
+      "mappedKnowledge": [
+        "fc2f1636-921e-43f9-af03-fd48d8e4f6ae",
+        "90ab8e46-940a-4a93-aa03-73fdfda2280f",
+        "f76d641e-97ab-4a72-ae90-b4e0e3442a87",
+        "5daa38d4-836d-4959-94c0-ef2eab8709de",
+        "c0df3667-903e-4e34-b970-3dba693f0f4d",
+        "1b88799b-557d-4232-813d-987213fe242e",
+        "6d350329-43b1-4f30-b6dd-f20e17345509"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ceef8f73-180a-43a0-ab36-534700d392a1",
+        "1118341f-1bd0-4a24-b151-d872eea2f2ce",
+        "5f822240-1d39-4772-8882-90e44ce3f7a5",
+        "93f0e7d1-96fb-4ff6-ac1e-2a3fc06c1eae",
+        "f7ddcfd6-d91e-40c6-9921-6ac57aa9d431",
+        "81b1c469-1bb5-4886-adcb-a829f2e9bfbc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "90e29d74-c5ec-4002-a479-dc341e2cb164",
+      "dutyDetail": "Conform to company Health and Safety policies, company processes and procedures",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "12af7996-7237-4ea6-b4a3-b06a838ff8de"
+      ],
+      "mappedKnowledge": [
+        "4b8b10e9-3a14-4369-b67f-0eb7c48a6d15"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a8d36bc7-1e60-4a66-a6cd-e9aea56eba1e",
+        "3f8cbd7b-6570-4172-a909-df2a2916ae26"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "64031227-792c-450b-8e01-99786557069d",
+      "dutyDetail": "Handle legacy media content",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3f77a02c-099e-4ce6-9ccd-d4136deb228e",
+        "212286a0-cb5e-4133-b8ac-55b66b3a320a"
+      ],
+      "mappedKnowledge": [
+        "97cfd26e-a41f-4504-b131-4d5a696c8a47",
+        "8ad2d655-abbf-4322-935c-bc62703bf1ee",
+        "729496bd-6f75-44f3-ac49-12702faf4347"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "47bf55a0-ce5d-43f8-b226-e69c2d13df44",
+        "67791785-4b53-4472-8443-1b7928d4de71",
+        "319dcae0-fe6f-4bc9-93b4-771eb94ebbe6",
+        "a4f91568-5a6b-4a92-a5e3-7031c207f1be",
+        "035119c7-7cf2-48d0-8b8f-5ae79331f55c",
+        "e70ae9d1-c17e-4cea-b754-b22ddbdbcfb7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-02-28T00:00:00"
+}
