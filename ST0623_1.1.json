@@ -1,73 +1,471 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 455,
   "referenceNumber": "ST0623",
+  "learningAimClassCode": "",
   "title": "Marine technical superintendent (degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/455",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0623",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard revised",
-  "changedDate": "2019-07-19T00:00:00",
+  "changedDate": "2022-04-01T00:00:00",
   "earliestStartDate": "2019-07-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Overseeing vessel performance and the technical and operational condition of vessels.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
-    "Marine Technical Superintendent",
-    "degree",
-    "marine",
+    "transport",
     "operations",
-    "transporation",
+    "maintenance",
+    "marine",
+    "vessels",
     "technical"
   ],
   "jobRoles": [],
-  "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3047/st0623_marine_technical_superintendent_l7_epa-for-publication_170419.pdf",
+  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Entrants to the role should typically have a foundation level qualification (level 5) and experience in a maritime engineering discipline, preferably as a second engineer officer or electro-technical officer with equivalent experience. However, suitable candidates may also have a background in the management of ship-repair or experience as a classification society surveyor.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6009/st0623_marine_technical_superintendent_l7_epa-for-publication_300322.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.1",
-  "standardInformation": "&lt;h2&gt;Occupation summary&lt;/h2&gt;\r\n&lt;p&gt;The Marine Technical Superintendent (MTS) is a shore-based, technical role responsible for the safe and economic operation of one or more vessels. They oversee vessel performance and are responsible for the technical and operational condition of vessels from an engineering perspective, including the planning and execution of refit and fleet time maintenance programmes, implementing and monitoring compliance and ensuring vessels are fully certified according to international maritime legislative requirements and classification society regulations.&lt;/p&gt;\r\n&lt;p&gt;The duties and responsibilities of the MTS are significantly broader than those of a sea-going engineer and require advanced skills in leadership and management, financial and commercial proficiency, project management expertise and the commitment to keep abreast of emerging technologies, including cybersecurity and ship automation. The MTS would also provide subject-matter expertise in the event of an emergency response situation. This is primarily a senior engineering management role, with typical progression routes from sea-going and shore-based occupations. Typically, the MTS reports to the Technical or Fleet Manager overseeing operations and all Chief Engineers in the fleet would typically report to the MTS.&lt;/p&gt;\r\n&lt;h2&gt;Entry requirements&lt;/h2&gt;\r\n&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Entrants to the role should typically have a foundation level qualification (level 5) and experience in a maritime engineering discipline, preferably as a second engineer officer or electro-technical officer with equivalent experience. However, suitable candidates may also have a background in the management of ship-repair or experience as a classification society surveyor.&lt;/p&gt;\r\n&lt;h2&gt;Occupation duties&lt;/h2&gt;\r\n&lt;table width=&quot;100%&quot;&gt;\r\n&lt;tbody&gt;\r\n&lt;tr&gt;\r\n&lt;th style=&quot;width: 40%;&quot; width=&quot;40%&quot;&gt;\r\n&lt;h3&gt;Duty&lt;/h3&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 40%;&quot; width=&quot;40%&quot;&gt;\r\n&lt;h3&gt;Criteria for measuring performance&lt;/h3&gt;\r\n&lt;/th&gt;\r\n&lt;th style=&quot;width: 20%;&quot; width=&quot;20%&quot;&gt;\r\n&lt;h3&gt;KSBs&lt;/h3&gt;\r\n&lt;/th&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D1&lt;/strong&gt; Provide guidance and solutions to technical issues to ensure the full technical readiness and optimum performance of vessels in meeting the service commitments of the organization&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Accuracy, efficiency, adherence to ISM code and the company&#39;s quality, safety and environmental management system&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K1 K5 K6&lt;br /&gt;S1 S2 S3&lt;br /&gt;B1 B2 B3 B4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D2&lt;/strong&gt; Plan, coordinate and project manage fleet-time maintenance programmes, regular service periods, dry-dockings and vessel upgrades.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Accuracy, efficiency, adherence to ISM code and the company&#39;s quality, safety and environmental management system&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K2 K8 K9&#160;&lt;br /&gt;S4&lt;br /&gt;B2 B3 B4 B5 B6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D3&lt;/strong&gt; Manage and control technical budgets for maintenance, repair, re-fit, spare parts, lube oil, chemical and gases and other consumables.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Financial accuracy of budgets produced&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K3 K4&lt;br /&gt;S5 S6&lt;br /&gt;B1 B2 B3 B5 B6&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D4&lt;/strong&gt; Coordinate and control the supply of spare parts and necessary vessel equipment&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Planning accuracy, parts available when required&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K2&lt;br /&gt;S3 S4 &lt;br /&gt;B2 B5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D5&lt;/strong&gt; Execute and commission surveys, inspections and certification in line with the requirements of the International Safety Management (ISM) Code, maritime legislation, classification society regulations, Flag State requirements and other standards required by the company.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Compliance with the requirements of the International Safety Management (ISM) Code, maritime legislation, classification society regulations, Flag State requirements and other standards required by the company.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K5 K6 K7&lt;br /&gt;S7 S10&#160;&lt;br /&gt;B4 B7&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D6&lt;/strong&gt; Be an implementer of best practice in safety management and promote safety and safe working practices as an operational necessity&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Implements best practice standards in safety management and actively promotes safety and safe working practices in all operations&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K5 K6&lt;br /&gt;S7 S10&#160;&lt;br /&gt;B4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D7&lt;/strong&gt; Lead and manage multi-functional teams, including contribution to HR processes such as recruitment and performance management of staff.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Performance of team in maintaining fleet operation to customer satisfaction and within budget&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K8&lt;br /&gt;S8 S9 S10&lt;br /&gt;B1 B2 B5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D8&lt;/strong&gt; Provide effective communication across all levels within the organisation to inform of significant operational/technical issues that impact on the availability of vessels within the fleet and acting as the principal point of contact between ship and shore-based staff.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Effectiveness of written and verbal communication in terms of clarity and brevity&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K9 K11&lt;br /&gt;S10 S11&lt;br /&gt;B5&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D9&lt;/strong&gt; Provide a leading role and technical expertise in the event of an emergency response situation.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Speed and effectiveness of appropriate response&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K1 K5 K6 K11&lt;br /&gt;S8&lt;br /&gt;B3 B4&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D10&lt;/strong&gt; Keep abreast of current and emerging industry advances and their application in an engineering capacity. Promoting the case for vessel upgrades or the adoption of emerging technologies to optimise performance.&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Knowledge of advances within the industry&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K10&lt;br /&gt;S1 S2 S13 S14&lt;br /&gt;B8 B9&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;tr&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;&lt;strong&gt;D11&lt;/strong&gt; Maintain awareness of new regulatory and compliance requirements&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;40%&quot;&gt;\r\n&lt;p&gt;Knowledge of new regulations and compliance requirements&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;td width=&quot;20%&quot;&gt;\r\n&lt;p&gt;K5&lt;br /&gt;S7&lt;br /&gt;B10&lt;/p&gt;\r\n&lt;/td&gt;\r\n&lt;/tr&gt;\r\n&lt;/tbody&gt;\r\n&lt;/table&gt;\r\n&lt;h2&gt;KSBs&lt;/h2&gt;\r\n&lt;h3&gt;Knowledge&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;K1&lt;/strong&gt; Vessel construction and operation for a fleet of vessels of varying types and complexity&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K2&lt;/strong&gt; Programmes/schedules for refit, fleet time maintenance, planned maintenance systems (PMS), regular servicing, dry docking, vessel upgrades, repair and internal / external audits&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K3 &lt;/strong&gt;Financial strategies to manage technical budgets in order to successfully monitor and control maintenance and repair costs&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K4&lt;/strong&gt; Insurance stakeholder roles (broker, underwriter, surveyor) for the effective processing of Maritime insurance claims&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K5&#160;&lt;/strong&gt;Regulatory compliance frameworks for the technical management of vessels, crew safety and protection of the environment such as International Convention for the Safety of Life at Sea (SOLAS), International Convention for the Prevention of Pollution from Ships (MARPOL), International Maritime Dangerous Goods Code (IMDG), ISM Code, Standards of Training Certification and Watchkeeping (STCW), International Labour Organisation Maritime Labour Convention (ILO MLC), Flag State, International Organisation for Standardisation (ISO) requirements and workforce health and safety legislation and how they affect technical planning&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K6&lt;/strong&gt; Clear understanding of the relationships and responsibilities of Flag State, Port State Control and Classification Societies&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K6&lt;/strong&gt; Relationships and responsibilities of Flag State, Port State Control and Classification Societies&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K7&lt;/strong&gt; Processes and appropriate record-keeping for risk assessment, vessel audit and inspection and accident investigation&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K8&lt;/strong&gt; Leading and managing teams successfully, including conflict resolution and managing difficult conversations&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K9&lt;/strong&gt; Effective oral and written communication strategies and a working knowledge of the terminology used in this occupation&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K10&lt;/strong&gt; How to access industry news and market trends through relevant publications and technical bulletins, such as those published by International Maritime Organisation (IMO) or IMarEST etc&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;K11&#160;&lt;/strong&gt;Technical expertise and knowledge of options (e.g. 3rd party assistance) during emergencies&#160;&lt;/p&gt;\r\n&lt;h3&gt;Skills&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;S1&lt;/strong&gt; Evaluate complex, technical information from many sources drawing accurate conclusions and making informed decisions&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S2&lt;/strong&gt; Predict and solve operational problems with innovative solutions where appropriate and using integrated software solutions to aid problem solving&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S3&lt;/strong&gt; Work within any necessary commercial and budgetary constraints to ensure vessels remain in a safe and seaworthy condition in accordance with Classification Society and Flag State requirements, are operated safely and meet all necessary regulatory standards&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S4&lt;/strong&gt; Organise and plan technical projects within agreed strict deadlines and budget, and to agreed quality standards to optimise the utilisation of vessels within a given fleet. Ensure that all work is completed in accordance with the appropriate contract and that extra and emergent work is completed within financial and time constraints ensuring required quality standards are met&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S5&lt;/strong&gt; Manage the operating expenditure (OPEX) and capital expenditure (CAPEX) technical budgets for the maintenance and dry docking of vessels in the fleet, including monitoring and control of the cost of repairs, spare parts, fuel and lube oil usage&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S6&lt;/strong&gt; Develop and apply an understanding of maritime sector economics to support well-founded commercial decision-making. Analyse financial data and liaise with all relevant stakeholders to maintain an efficient technical operation&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S7&lt;/strong&gt; Successfully implement compliance frameworks for the technical management of vessels, crew safety and protection of the environment such as SOLAS, MARPOL, IMDG Code, ISM Code, STCW, ILO MLC, Flag State, ISO requirements and workforce health and safety legislation&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S8&lt;/strong&gt; Build, lead and manage multifunctional teams, interacting with and influencing a range of internal and external stakeholders. Develop HR-related skills such as the performance management of staff, recruitment and selection activities etc.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S9&lt;/strong&gt; Act as a team player when operating as part of a wider team&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S10&lt;/strong&gt; Communicate effectively and professionally with all levels within and across the organisation, both at-sea and on-shore Positively challenge to affect change where appropriate&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S11&lt;/strong&gt; Develop and maintain close working relationships with stakeholders to ensure that all parties are aware of operational and technical requirements&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S13&lt;/strong&gt; Effectively liaise with relevant manufacturers regarding technological advances&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;S14&lt;/strong&gt; Effectively scope, allocate accurate budgetary costs and present a business case for vessel upgrades or the adoption of emerging technologies to optimise performance&lt;/p&gt;\r\n&lt;h3&gt;Behaviours&lt;/h3&gt;\r\n&lt;p&gt;&lt;strong&gt;B1&lt;/strong&gt; Be self-motivated with the ability to work independently and with integrity&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B2&lt;/strong&gt; Able to take personal responsibility for their actions, demonstrate leadership and show resilience&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B3&lt;/strong&gt; Able to work under pressure to tight deadlines&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B4&lt;/strong&gt; Be an implementer of best practice in technical and safety management, complying with the International Safety Management (ISM) code and adhering to the company&#39;s safety management systems (SMS). Promote and adopt a safety culture within the organisation, taking responsibility for effective problem-solving, emergency response and safeguarding the company’s reputation&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B5&lt;/strong&gt; Able to interact and influence a range of stakeholders&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B6&lt;/strong&gt; Able to integrate technical operations with financial requirements&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B7&lt;/strong&gt; Able to function as an enabler to provide services rendered in an efficient and transparent way&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B8&lt;/strong&gt; Promote the case for the adoption of emerging technologies to optimise performance&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B9&lt;/strong&gt; Enable their own professional development, seeking opportunities to enhance their knowledge, skills and experience. Keeping abreast of current industry advances in advanced manufacturing and computer technologies such as cybersecurity best practice and ship automation, and their potential application in an engineering capacity. Maintaining awareness of new regulations and compliance requirements&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;B10&lt;/strong&gt; Maintaining awareness of new regulations and compliance requirements&lt;/p&gt;\r\n&lt;h2&gt;Qualifications&lt;/h2&gt;\r\n&lt;p&gt;&lt;strong&gt;English and Maths qualifications&lt;/strong&gt;&lt;br /&gt;Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Other qualifications&#160;&lt;/strong&gt;&lt;/p&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;BEng Engineering / 6 (non-integrated degree)&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h2&gt;&lt;strong&gt;Professional recognition &lt;/strong&gt;&lt;/h2&gt;\r\n&lt;ul&gt;\r\n&lt;li&gt;\r\n&lt;p&gt;Recognised by the Institute of Marine Engineering, Science and Technology at IENG Level&lt;/p&gt;\r\n&lt;/li&gt;\r\n&lt;/ul&gt;\r\n&lt;h2&gt;&lt;strong&gt;Additional details&lt;/strong&gt;&lt;/h2&gt;\r\n&lt;p&gt;&lt;strong&gt;Occupational Level: &lt;/strong&gt;7&lt;/p&gt;\r\n&lt;p&gt;&lt;strong&gt;Duration (months):&#160;&lt;/strong&gt;36&lt;/p&gt;\r\n&lt;h2&gt;Review&lt;/h2&gt;\r\n&lt;p&gt;This standard will be reviewed after three years.&lt;/p&gt;",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;The Marine Technical Superintendent (MTS) is a shore-based, technical role responsible for the safe and economic operation of one or more vessels. They oversee vessel performance and are responsible for the technical and operational condition of vessels from an engineering perspective, including the planning and execution of refit and fleet time maintenance programmes, implementing and monitoring compliance and ensuring vessels are fully certified according to international maritime legislative requirements and classification society regulations.&lt;/p&gt;\n&lt;p&gt;The duties and responsibilities of the MTS are significantly broader than those of a sea-going engineer and require advanced skills in leadership and management, financial and commercial proficiency, project management expertise and the commitment to keep abreast of emerging technologies, including cybersecurity and ship automation. The MTS would also provide subject-matter expertise in the event of an emergency response situation. This is primarily a senior engineering management role, with typical progression routes from sea-going and shore-based occupations. Typically, the MTS reports to the Technical or Fleet Manager overseeing operations and all Chief Engineers in the fleet would typically report to the MTS.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "2be7f5f6-7bc1-43c7-98d0-4d6c2f5e8dd2",
+      "detail": "Vessel construction and operation for a fleet of vessels of varying types and complexity."
+    },
+    {
+      "knowledgeId": "21cf6f91-a0e9-42ee-9d4d-93888fe053dd",
+      "detail": "Programmes/schedules for refit, fleet time maintenance, planned maintenance systems (PMS), regular servicing, dry docking, vessel upgrades, repair and internal / external audits."
+    },
+    {
+      "knowledgeId": "8436be86-348b-4f40-8048-bcf4c9e2d585",
+      "detail": "Financial strategies to manage technical budgets in order to successfully monitor and control maintenance and repair costs."
+    },
+    {
+      "knowledgeId": "410f531f-3ad8-4348-86b6-4e3d261e9d5e",
+      "detail": "Insurance stakeholder roles (broker, underwriter, surveyor) for the effective processing of Maritime insurance claims."
+    },
+    {
+      "knowledgeId": "ff368253-de56-4851-9a1c-baf3d1303e75",
+      "detail": "Regulatory compliance frameworks for the technical management of vessels, crew safety and protection of the environment such as International Convention for the Safety of Life at Sea (SOLAS), International Convention for the Prevention of Pollution from Ships (MARPOL), International Maritime Dangerous Goods Code (IMDG), ISM Code, Standards of Training Certification and Watchkeeping (STCW), International Labour Organisation Maritime Labour Convention (ILO MLC), Flag State, International Organisation for Standardisation (ISO) requirements and workforce health and safety legislation and how they affect technical planning."
+    },
+    {
+      "knowledgeId": "aee989a5-f859-4518-bbe3-516849f1acab",
+      "detail": "Clear understanding of the relationships and responsibilities of Flag State, Port State Control and Classification Societies."
+    },
+    {
+      "knowledgeId": "ea92447e-9565-4e5d-a225-15b1e0975636",
+      "detail": "Processes and appropriate record-keeping for risk assessment, vessel audit and inspection and accident investigation."
+    },
+    {
+      "knowledgeId": "b9d4bdf8-b50e-4389-85cd-5d6ef78fd2bb",
+      "detail": "Leading and managing teams successfully, including conflict resolution and managing difficult conversations."
+    },
+    {
+      "knowledgeId": "beba17f3-73b2-4099-91a8-d242593bc959",
+      "detail": "Effective oral and written communication strategies and a working knowledge of the terminology used in this occupation."
+    },
+    {
+      "knowledgeId": "a575daa9-b17f-4957-968e-25b2e5c5be32",
+      "detail": "How to access industry news and market trends through relevant publications and technical bulletins, such as those published by International Maritime Organisation (IMO) or IMarEST etc."
+    },
+    {
+      "knowledgeId": "617f5b7d-a317-4a9b-a902-50441dbe9d13",
+      "detail": "Technical expertise and knowledge of options (e.g. 3rd party assistance) during emergencies."
+    },
+    {
+      "knowledgeId": "b9a7e546-16e2-4b94-b2f8-5f555727e80b",
+      "detail": "Relationships and responsibilities of Flag State, Port State Control and Classification Societies."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "2864ae9b-5948-4152-90ed-27d83b84ffe9",
+      "detail": "Be self-motivated with the ability to work independently and with integrity."
+    },
+    {
+      "behaviourId": "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+      "detail": "Able to take personal responsibility for their actions, demonstrate leadership and show resilience."
+    },
+    {
+      "behaviourId": "48aab11a-7375-45ee-b1a7-f0103cbff90c",
+      "detail": "Able to work under pressure to tight deadlines"
+    },
+    {
+      "behaviourId": "0bb7f729-ae0f-44be-bf58-371cc36a18dd",
+      "detail": "Be an implementer of best practice in technical and safety management, complying with the International Safety Management (ISM) code and adhering to the company's safety management systems (SMS). Promote and adopt a safety culture within the organisation, taking responsibility for effective problem-solving, emergency response and safeguarding the company’s reputation."
+    },
+    {
+      "behaviourId": "c1668ad7-9334-49a4-846c-499f4acd17c8",
+      "detail": "Able to interact and influence a range of stakeholders."
+    },
+    {
+      "behaviourId": "b460a673-d1a4-4bf8-9325-f53119f6a591",
+      "detail": "Able to integrate technical operations with financial requirements"
+    },
+    {
+      "behaviourId": "a9fdc8a4-109d-4e5a-b107-770be03de146",
+      "detail": "Able to function as an enabler to provide services rendered in an efficient and transparent way."
+    },
+    {
+      "behaviourId": "3930788d-8c8a-49e0-a19c-e5da7ade3f01",
+      "detail": "Promote the case for the adoption of emerging technologies to optimise performance."
+    },
+    {
+      "behaviourId": "811cfb5a-be35-444c-84c0-f872f3175d40",
+      "detail": "Enable their own professional development, seeking opportunities to enhance their knowledge, skills and experience. Keeping abreast of current industry advances in advanced manufacturing and computer technologies such as cybersecurity best practice and ship automation, and their potential application in an engineering capacity. Maintaining awareness of new regulations and compliance requirements."
+    },
+    {
+      "behaviourId": "797133ea-afcf-4f02-aac4-8c493f2c095f",
+      "detail": "Maintaining awareness of new regulations and compliance requirements."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "d2d7a563-38c5-4ef7-b258-f47b280e6f5a",
+      "detail": "Evaluate complex, technical information from many sources drawing accurate conclusions and making informed decisions."
+    },
+    {
+      "skillId": "05043a10-b47a-4f28-8fba-e764b31a031f",
+      "detail": "Predict and solve operational problems with innovative solutions where appropriate and using integrated software solutions to aid problem solving."
+    },
+    {
+      "skillId": "be38e7fe-703c-460d-999d-435c411259dc",
+      "detail": "Work within any necessary commercial and budgetary constraints to ensure vessels remain in a safe and seaworthy condition in accordance with Classification Society and Flag State requirements, are operated safely and meet all necessary regulatory standards."
+    },
+    {
+      "skillId": "088110fb-5ab5-49ac-87f5-d581bc457d42",
+      "detail": "Organise and plan technical projects within agreed strict deadlines and budget, and to agreed quality standards to optimise the utilisation of vessels within a given fleet. Ensure that all work is completed in accordance with the appropriate contract and that extra and emergent work is completed within financial and time constraints ensuring required quality standards are met."
+    },
+    {
+      "skillId": "394d7656-f4c1-4b03-b3e2-7f1867a360ed",
+      "detail": "Manage the operating expenditure (OPEX) and capital expenditure (CAPEX) technical budgets for the maintenance and dry docking of vessels in the fleet, including monitoring and control of the cost of repairs, spare parts, fuel and lube oil usage."
+    },
+    {
+      "skillId": "6692f62f-7423-4fd3-abb8-8ae0b2fee097",
+      "detail": "Develop and apply an understanding of maritime sector economics to support well-founded commercial decision-making. Analyse financial data and liaise with all relevant stakeholders to maintain an efficient technical operation."
+    },
+    {
+      "skillId": "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e",
+      "detail": "Successfully implement compliance frameworks for the technical management of vessels, crew safety and protection of the environment such as SOLAS, MARPOL, IMDG Code, ISM Code, STCW, ILO MLC, Flag State, ISO requirements and workforce health and safety legislation."
+    },
+    {
+      "skillId": "db959f0e-d1a2-43e7-b5c9-a2d98b9fa812",
+      "detail": "Build, lead and manage multifunctional teams, interacting with and influencing a range of internal and external stakeholders. Develop HR-related skills such as the performance management of staff, recruitment and selection activities etc."
+    },
+    {
+      "skillId": "f702a5d4-2a10-43da-93a7-24488da60478",
+      "detail": "Act as a team player when operating as part of a wider team."
+    },
+    {
+      "skillId": "bec1aac0-f3e2-4172-9d34-17b4f2873d14",
+      "detail": "Communicate effectively and professionally with all levels within and across the organisation, both at-sea and on-shore Positively challenge to affect change where appropriate."
+    },
+    {
+      "skillId": "033942c6-a120-4a4b-802b-e879db8445e4",
+      "detail": "Develop and maintain close working relationships with stakeholders to ensure that all parties are aware of operational and technical requirements."
+    },
+    {
+      "skillId": "8ef0cb45-9223-4be5-b986-857c11c6a9e1",
+      "detail": "Effectively liaise with relevant manufacturers regarding technological advances."
+    },
+    {
+      "skillId": "4bbe1879-0ebf-43fc-9977-dcf0f827e4f2",
+      "detail": "Effectively scope, allocate accurate budgetary costs and present a business case for vessel upgrades or the adoption of emerging technologies to optimise performance."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-13T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
-  "tbReference": "ST0623",
-  "tbMainContact": "D.Fitch@ljmu.ac.uk",
+  "tbReference": "TB0544",
+  "tbMainContact": "brendan.casey@education.gov.uk",
   "involvedEmployers": "Carmet Tug Co, Royal Fleet Auxiliary, Svitzer, Holyhead Towing, Brookes Bell, Stena / Northern Marine, Seatruck Ferries",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Installation & Service Engineer",
-  "createdDate": "2020-10-06T15:58:51 +00:00",
-  "lastUpdated": "2019-07-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/marine-technical-superintendent-(degree)-v1-1#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/marine-technical-superintendent-(degree)-v1-1",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Installation and service engineer",
+  "clusterId": "53",
+  "clusterDescription": "Build and install plant and equipment using application and/or context specific expertise",
+  "createdDate": "2022-03-30T09:24:44 +00:00",
+  "lastUpdated": "2022-04-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0623",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0623-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0623-v1-1",
+  "qualifications": [
+    {
+      "qualificationId": "fa47e3a2-a201-4fa1-beb6-673e2b97b189",
+      "title": "BEng Engineering degree",
+      "level": "6 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Marine Engineering, Science and Technology",
+      "level": "IENG Level",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "dc46f03a-d67a-439e-966b-0df6ee639dcf",
+      "dutyDetail": "Provide guidance and solutions to technical issues to ensure the full technical readiness and optimum performance of vessels in meeting the service commitments of the organisation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2864ae9b-5948-4152-90ed-27d83b84ffe9",
+        "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+        "48aab11a-7375-45ee-b1a7-f0103cbff90c",
+        "0bb7f729-ae0f-44be-bf58-371cc36a18dd"
+      ],
+      "mappedKnowledge": [
+        "2be7f5f6-7bc1-43c7-98d0-4d6c2f5e8dd2",
+        "ff368253-de56-4851-9a1c-baf3d1303e75",
+        "aee989a5-f859-4518-bbe3-516849f1acab",
+        "b9a7e546-16e2-4b94-b2f8-5f555727e80b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d2d7a563-38c5-4ef7-b258-f47b280e6f5a",
+        "05043a10-b47a-4f28-8fba-e764b31a031f",
+        "be38e7fe-703c-460d-999d-435c411259dc"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc5dc4d6-3218-4097-ada5-a1788aa22013",
+      "dutyDetail": "Plan, coordinate and project manage fleet-time maintenance programmes, regular service periods, dry-dockings and vessel upgrades.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+        "48aab11a-7375-45ee-b1a7-f0103cbff90c",
+        "0bb7f729-ae0f-44be-bf58-371cc36a18dd",
+        "c1668ad7-9334-49a4-846c-499f4acd17c8",
+        "b460a673-d1a4-4bf8-9325-f53119f6a591"
+      ],
+      "mappedKnowledge": [
+        "21cf6f91-a0e9-42ee-9d4d-93888fe053dd",
+        "b9d4bdf8-b50e-4389-85cd-5d6ef78fd2bb",
+        "beba17f3-73b2-4099-91a8-d242593bc959"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "088110fb-5ab5-49ac-87f5-d581bc457d42"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b72c43c7-c299-4ead-a98d-ff5dcb5b1868",
+      "dutyDetail": "Manage and control technical budgets for maintenance, repair, re-fit, spare parts, lube oil, chemical and gases and other consumables.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2864ae9b-5948-4152-90ed-27d83b84ffe9",
+        "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+        "48aab11a-7375-45ee-b1a7-f0103cbff90c",
+        "c1668ad7-9334-49a4-846c-499f4acd17c8",
+        "b460a673-d1a4-4bf8-9325-f53119f6a591"
+      ],
+      "mappedKnowledge": [
+        "8436be86-348b-4f40-8048-bcf4c9e2d585",
+        "410f531f-3ad8-4348-86b6-4e3d261e9d5e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "394d7656-f4c1-4b03-b3e2-7f1867a360ed",
+        "6692f62f-7423-4fd3-abb8-8ae0b2fee097"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4fd367e4-6b0d-44e3-9790-5ac37d5eb0aa",
+      "dutyDetail": "Coordinate and control the supply of spare parts and necessary vessel equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+        "c1668ad7-9334-49a4-846c-499f4acd17c8"
+      ],
+      "mappedKnowledge": [
+        "21cf6f91-a0e9-42ee-9d4d-93888fe053dd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "be38e7fe-703c-460d-999d-435c411259dc",
+        "088110fb-5ab5-49ac-87f5-d581bc457d42"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ffe4d66-4e32-4010-95d1-eaeeba19f0c0",
+      "dutyDetail": "Execute and commission surveys, inspections and certification in line with the requirements of the International Safety Management (ISM) Code, maritime legislation, classification society regulations, Flag State requirements and other standards required by the company.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0bb7f729-ae0f-44be-bf58-371cc36a18dd",
+        "a9fdc8a4-109d-4e5a-b107-770be03de146"
+      ],
+      "mappedKnowledge": [
+        "ff368253-de56-4851-9a1c-baf3d1303e75",
+        "aee989a5-f859-4518-bbe3-516849f1acab",
+        "ea92447e-9565-4e5d-a225-15b1e0975636"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e",
+        "bec1aac0-f3e2-4172-9d34-17b4f2873d14"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b34db1be-5b33-441a-ad92-55218ae7a51f",
+      "dutyDetail": "Be an implementer of best practice in safety management and promote safety and safe working practices as an operational necessity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "0bb7f729-ae0f-44be-bf58-371cc36a18dd"
+      ],
+      "mappedKnowledge": [
+        "ff368253-de56-4851-9a1c-baf3d1303e75",
+        "aee989a5-f859-4518-bbe3-516849f1acab"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e",
+        "bec1aac0-f3e2-4172-9d34-17b4f2873d14"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f6b23859-1466-4427-8511-be2ab82d2dc8",
+      "dutyDetail": "Lead and manage multi-functional teams, including contribution to HR processes such as recruitment and performance management of staff.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2864ae9b-5948-4152-90ed-27d83b84ffe9",
+        "0311cbf8-7cf9-4711-9d87-96052c720ed5",
+        "c1668ad7-9334-49a4-846c-499f4acd17c8"
+      ],
+      "mappedKnowledge": [
+        "b9d4bdf8-b50e-4389-85cd-5d6ef78fd2bb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "db959f0e-d1a2-43e7-b5c9-a2d98b9fa812",
+        "f702a5d4-2a10-43da-93a7-24488da60478",
+        "bec1aac0-f3e2-4172-9d34-17b4f2873d14"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "22e2b348-6ef2-40fd-a746-6e0566fbc5e8",
+      "dutyDetail": "Provide effective communication across all levels within the organisation to inform of significant operational/technical issues that impact on the availability of vessels within the fleet and acting as the principal point of contact between ship and shore-based staff.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c1668ad7-9334-49a4-846c-499f4acd17c8"
+      ],
+      "mappedKnowledge": [
+        "beba17f3-73b2-4099-91a8-d242593bc959",
+        "617f5b7d-a317-4a9b-a902-50441dbe9d13"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bec1aac0-f3e2-4172-9d34-17b4f2873d14",
+        "033942c6-a120-4a4b-802b-e879db8445e4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80fc4cb1-2a35-44b4-8d4c-8d19ebdc06c4",
+      "dutyDetail": "Provide a leading role and technical expertise in the event of an emergency response situation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "48aab11a-7375-45ee-b1a7-f0103cbff90c",
+        "0bb7f729-ae0f-44be-bf58-371cc36a18dd"
+      ],
+      "mappedKnowledge": [
+        "2be7f5f6-7bc1-43c7-98d0-4d6c2f5e8dd2",
+        "ff368253-de56-4851-9a1c-baf3d1303e75",
+        "aee989a5-f859-4518-bbe3-516849f1acab",
+        "617f5b7d-a317-4a9b-a902-50441dbe9d13"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "db959f0e-d1a2-43e7-b5c9-a2d98b9fa812"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "affee479-d68c-468d-bd28-03663ab05522",
+      "dutyDetail": "Keep abreast of current and emerging industry advances and their application in an engineering capacity. Promoting the case for vessel upgrades or the adoption of emerging technologies to optimise performance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3930788d-8c8a-49e0-a19c-e5da7ade3f01",
+        "811cfb5a-be35-444c-84c0-f872f3175d40"
+      ],
+      "mappedKnowledge": [
+        "a575daa9-b17f-4957-968e-25b2e5c5be32"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d2d7a563-38c5-4ef7-b258-f47b280e6f5a",
+        "05043a10-b47a-4f28-8fba-e764b31a031f",
+        "8ef0cb45-9223-4be5-b986-857c11c6a9e1",
+        "4bbe1879-0ebf-43fc-9977-dcf0f827e4f2"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "61ce7fbc-7a18-4119-b607-7472ead53e06",
+      "dutyDetail": "Maintain awareness of new regulatory and compliance requirements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "797133ea-afcf-4f02-aac4-8c493f2c095f"
+      ],
+      "mappedKnowledge": [
+        "ff368253-de56-4851-9a1c-baf3d1303e75",
+        "b9a7e546-16e2-4b94-b2f8-5f555727e80b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "aed8aa85-3fb7-4f0b-959e-7a0eb18e632e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-04-01T00:00:00"
 }
