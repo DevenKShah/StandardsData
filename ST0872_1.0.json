@@ -1,34 +1,42 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 667,
   "referenceNumber": "ST0872",
+  "learningAimClassCode": "",
   "title": "Lifting equipment technician",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": "2019-10-16T00:00:00",
-  "latestStartDate": null,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0872",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2023-12-04T00:00:00",
+  "earliestStartDate": "2021-11-12T00:00:00",
+  "latestStartDate": "2023-12-03T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Repair, maintain, modify, inspect, test, install and assemble lifting equipment to ensure its suitability and safety for a continued period of service.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
-  "maxFunding": 0,
+  "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
-  "jobRoles": [
-    "Lifting Equipment Inspector",
-    "Mechanical Engineer",
-    "Lifting Gear Fitter",
-    "Lifting Equipment Engineer"
+  "keywords": [
+    "Repair",
+    "maintenance",
+    "lifting",
+    "engineering",
+    "construction",
+    "install",
+    "manufacturing"
   ],
+  "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Although there are no statutory or regulatory entry requirements, this occupation does require employees to have a firm understanding of mathematical principles, therefore typically employers will require applicants to hold a level 2 qualification in mathematics.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4329/st0872_lifting_equipment_technician_l3_for-publication-ap_c25_qm-08062020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5267/st0872_lifting_equipment_technician_l3_for-publication-ap02_adj_qm-july-21.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
-  "version": "",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "3113 - Engineering technicians",
   "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of industries, wherever organisations have lifting equipment. For example this could be in marine, construction, manufacturing, distribution, medical, agriculture, mining and quarrying, aeronautical, renewable, entertainment and military environments. This is a globally recognised occupation, in demand wherever lifting equipment is used.&lt;br /&gt;&lt;br /&gt;Examples of equipment include, but are not limited to, hoists used for the lifting of lighting rigs at festivals to chain slings on construction sites. Equipment can be in almost any type of industry, including onshore or offshore, in car plants, aircraft manufacturing organisations, ship building, yacht building, food processing, warehousing and general engineering facilities.&lt;br /&gt;&lt;br /&gt;They are typically employed in organisations who provide a bespoke service or in-house by the users of the equipment. This can include lifting equipment manufacturers, end users, owners, distributors, hirers and inspectors.&lt;br /&gt;&lt;br /&gt;They will often be required to work on site and at clients premises and will need to be able to travel to them, so will typically need a driving licence. The broad purpose of the occupation is to repair, maintain, modify, inspect, test, install and assemble lifting equipment to ensure its suitability and safety for a continued period of service. They provide documentation and technical advice to customers and check that equipment is being maintained in accordance with statutory requirements. Additionally, the role may include the removal of equipment from service or decommissioning where it is considered to be unsafe and does not meet regulatory standards.&lt;br /&gt;&lt;br /&gt;Lifting Equipment Technicians are self-motivated problem solvers who work with organisations to resolve issues and come up with solutions to their everyday needs. They ensure the safety and suitability of the equipment used for lifting goods or people in order to meet regulatory requirements. In their daily work, an employee in this occupation interacts with site managers, production managers, health &amp;amp; safety managers, workshop supervisors, design engineers, equipment and component suppliers and government agencies, such as the HSE.&lt;br /&gt;&lt;br /&gt;They may work independently or within a team and typically report to a senior line manager who can offer support, knowledge, and best practice guidance. An employee in this occupation will be responsible for supporting the organisations in which they are employed or providing a service to. They typically have responsibility for a range of lifting equipment to ensure it has been properly verified as safe for use. The Lifting Equipment Technician can interpret and comply with contract information, such as service contracts, and work with the lifting organisations who hold or own lifting equipment. They&#160;are also responsible for ensuring Health &amp;amp; Safety, Regulatory and Quality requirements are met, and for taking an active role in general workshop quality control.&lt;br /&gt;They are responsible for ensuring the maintenance of their own tools and equipment and the tidiness of their working area.&lt;/p&gt;",
   "knowledges": [
     {
@@ -288,47 +296,51 @@
       "detail": "Mark lifting equipment in accordance with industrial standards"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0541",
   "tbMainContact": "k.moss@catenais.co.uk",
   "involvedEmployers": "Catena Inspections & Engineering Services, Calibrations Engineering Services, Southern Cranes, Lift Turn Move, Rigging Services, CERTEX, SWL, GT Lifting Gear, Allianz UK, Checkmate, Riging Services, Gap Group, First Integrated, MOD Army",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [
-    "Lifting Equipment Inspector",
-    "Mechanical Engineer",
-    "Lifting Gear Fitter",
-    "Lifting Equipment Engineer"
-  ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Maintenance, Installation & Repair",
-  "cluster": "Service, Repair and/or Overhaul Operative/Technician",
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2019-10-16T15:52:24 +00:00",
-  "lastUpdated": "2020-06-18T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lifting-equipment-technician#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/lifting-equipment-technician",
+  "lastUpdated": "2023-12-04T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0872",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0872-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0872-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "The Institute of Engineering and Technology",
-      "level": "0",
+      "level": "Engineering Technician ",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -375,7 +387,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -449,7 +461,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -514,7 +526,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -552,7 +564,7 @@
       "mappedKnowledge": [
         "be95fa36-8a44-4ecf-b641-a661b74f20e2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "233116f2-cd80-4c20-b015-94705f362526",
         "80977b9e-937a-441f-b942-201092e4cb7a"
@@ -603,7 +615,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -656,7 +668,7 @@
         "1e1598fb-d5f2-4d46-bb9e-a2be9212f361",
         "c4387c9a-6188-43ed-bc2d-497de82b9baf"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf667fd6-2cd5-4da2-9656-f8a0ca8ec654",
         "1df87cb2-0066-4cba-b717-f40e64782c16",
@@ -688,7 +700,7 @@
         "1e1598fb-d5f2-4d46-bb9e-a2be9212f361",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6a54142e-d436-4c93-8dd7-742220545879",
         "1df87cb2-0066-4cba-b717-f40e64782c16",
@@ -743,7 +755,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -814,7 +826,7 @@
         "203c5f42-e5d8-45e0-a25d-43f56634e2aa",
         "531743cc-3cbc-4aa6-8981-170421800b8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -874,7 +886,7 @@
         "203c5f42-e5d8-45e0-a25d-43f56634e2aa",
         "531743cc-3cbc-4aa6-8981-170421800b8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -934,7 +946,7 @@
         "203c5f42-e5d8-45e0-a25d-43f56634e2aa",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "202804d8-4234-4d75-b148-780c14831008",
         "8a3dbf7a-9230-4e85-abef-092e897f3aa7",
@@ -996,7 +1008,7 @@
         "531743cc-3cbc-4aa6-8981-170421800b8f",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4f6eb1df-290c-4021-af7e-e65774163b46",
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
@@ -1053,7 +1065,7 @@
         "fc8364cb-63e3-4257-b628-e05a8b810802",
         "130208b9-9dd0-47df-9b54-5b92ebf951b8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "202804d8-4234-4d75-b148-780c14831008",
         "8a3dbf7a-9230-4e85-abef-092e897f3aa7",
@@ -1103,7 +1115,7 @@
         "203c5f42-e5d8-45e0-a25d-43f56634e2aa",
         "531743cc-3cbc-4aa6-8981-170421800b8f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
         "202804d8-4234-4d75-b148-780c14831008",
@@ -1155,7 +1167,7 @@
         "ef6420ee-add2-45bb-965f-4148c0a2aff0",
         "c117b5ac-c8bf-4a14-9479-18fb58911b12"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5bfd80c-9504-4625-8345-f21bf43cd974",
         "202804d8-4234-4d75-b148-780c14831008",
@@ -1196,7 +1208,7 @@
         "203c5f42-e5d8-45e0-a25d-43f56634e2aa",
         "47e1127c-6067-4aac-a261-a1f0af194e74"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "8a3dbf7a-9230-4e85-abef-092e897f3aa7",
         "cf667fd6-2cd5-4da2-9656-f8a0ca8ec654",
@@ -1223,7 +1235,7 @@
         "be95fa36-8a44-4ecf-b641-a661b74f20e2",
         "f012a69f-d7ca-46f1-983f-9650c28f07c3"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "233116f2-cd80-4c20-b015-94705f362526"
       ],
@@ -1246,7 +1258,7 @@
         "8375e760-50c1-4543-8669-46ec4ad41347",
         "1e1598fb-d5f2-4d46-bb9e-a2be9212f361"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1df87cb2-0066-4cba-b717-f40e64782c16",
         "1517a372-612a-4f05-8b63-d529c5247c08",
@@ -1261,5 +1273,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-12-04T00:00:00"
 }
