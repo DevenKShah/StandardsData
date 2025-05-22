@@ -1,60 +1,1013 @@
 {
-  "larsCode": 0,
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 672,
   "referenceNumber": "ST0945",
+  "learningAimClassCode": "",
   "title": "Outdoor learning specialist",
-  "status": "In development",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/0",
-  "versionNumber": "",
-  "change": "",
-  "changedDate": null,
-  "earliestStartDate": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0945",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2022-05-16T00:00:00",
+  "earliestStartDate": "2022-02-02T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Design, planning and delivery of programmes that provide learning and change using outdoor activities and experiences.",
   "level": 5,
-  "typicalDuration": 0,
-  "maxFunding": 0,
+  "ePALength": 0,
+  "typicalDuration": 24,
+  "maxFunding": 13000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
-  "jobRoles": [],
+  "keywords": [
+    "Outdoor",
+    "sport",
+    "leisure",
+    "recreation",
+    "health",
+    "science",
+    "fitness"
+  ],
+  "jobRoles": [
+    "Senior Outdoor Instructor/Coach",
+    "Outdoor Programme Tutor",
+    "Outdoor Educator",
+    "Outdoor Education Teacher",
+    "Senior/Lead/Area Ranger",
+    "Outdoor Development Trainer",
+    "Senior Field Studies Tutor",
+    "Outdoor Learning Course Director"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
-  "version": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6098/st0945_outdoor_learning_specialist_l5_ap-for-publication_05052022.pdf",
+  "ssa1": "8 Leisure, Travel and Tourism",
+  "ssa2": "8.1 Sport, leisure and recreation",
+  "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in outdoor sport, leisure, tourism, public health, youth work and education sectors. Apprentices are employed by charitable outdoor organisations, private and for-profit outdoor learning businesses, schools, expedition providers, social enterprises, etc. Outdoor Learning Specialists work within outdoor activity or education centres; outdoor adventure and activity businesses; expedition and sports tourism providers; early years, schools, colleges and universities; national parks, nature reserves and country parks; youth work and youth development organisations; health, wellbeing and social care contexts; and training and educational organisations. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is the design, planning and delivery of programmes that provide progressive learning and change using outdoor activities and experiences. Typical impacts are educational achievement, personal and social development, health and wellbeing, nature connection, outdoor science, team cohesion, or practical skills development. In smaller organisations Outdoor Learning Specialists are likely to perform all duties of this standard within their role. In larger organisations their role may specialise in duties related to programme delivery, customer relationship management, staffing and team support, or safety and risk management for example. Outdoor Learning Specialists apply professional outdoor leadership judgement in order to facilitate safe and effective individual and group learning. Their technical and subject specific outdoor activity competence will have been developed through a mix of academic and vocational qualifications, and experience. They have a broad and specialised knowledge of the natural outdoor environment and determine likely hazards of undertaking activities and perform in-advance and in the moment (dynamic) risk – benefit assessments. They manage the allocated resources required for an outdoor learning programme, including delivery team, vehicles, trailers, technical equipment, catering, budget, etc. They are able to work autonomously to direct and support delivery staff and solve problems associated with a dynamic change in group, equipment, or environmental conditions using an appropriate problem solving, recovery, rescue or emergency response. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with programme participants; customers and stakeholders to identify needs and expectations, sequence, plan, monitor and report on the delivery of an outdoor learning programme; department heads of stores, hospitality, catering to prepare logistics; the allocated delivery team to direct their work on a programme; the operational or duty manager to report on safety and customer satisfaction; landowners, organisations, local communities, other users (human and fauna) where the outdoor learning programme is operating; and their line manager. They are able to perform in situations which are often physically and emotionally demanding, remote, unpredictable and complex. When the environment, weather conditions or individual circumstances change they will adapt their programme leadership approach to ensure the physical, social and emotional wellbeing of participants and the securing of interpersonal relationships of participants for prolonged periods of time. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for needs analysis &amp;amp; diagnosis, design, planning, execution and evaluation of outdoor learning development programmes for children, young people and adults. They will be informed by relevant policies, reports, evidence and research and comply with the Institute for Outdoor Learning (IOL) Code of Professional Conduct; first aid, safeguarding and professional liability responsibilities; and legislation including the Health and Safety at Work Act, Equality Act and Adventure Activity Licensing Regulations (or any replacement scheme which may come into force). Outdoor Learning Specialists facilitate the progressive development of activity competence, inter-personal and intra-personal life skills, outdoor and environmental knowledge and understanding. They will coach, mentor and provide feedback to allocated outdoor activity session delivery staff to develop their knowledge and skills in meeting the outcomes of the programme. They follow the principles of sustainable use and minimum impact to the natural environment and promote on-going activity participation and engagement with the outdoors.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+      "detail": "Methods to identify and analyse the wants, needs and expectations of participants, customers, and stakeholders."
+    },
+    {
+      "knowledgeId": "e86c74a4-5924-44e3-8f43-d659d6342cef",
+      "detail": "How to use Theory of Change to design outdoor learning programmes or services that contribute to desired long-term impact, including organising and aligning intended outcomes with meaningful/realistic learning opportunities utilising outdoor activities and experiences."
+    },
+    {
+      "knowledgeId": "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+      "detail": "Legislation, codes of practice, ethics and accepted good practice related to the safe delivery of learning experiences in the outdoor and indoor environments in which they work."
+    },
+    {
+      "knowledgeId": "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+      "detail": "Recognised approaches to outdoor learning appropriate to their workplace including their history, pedagogy/andragogy and application when designing, planning and delivering outdoor learning programmes"
+    },
+    {
+      "knowledgeId": "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+      "detail": "The background and application of relevant theories of human and social development; models of psychology; and neuroscience appropriate to their work"
+    },
+    {
+      "knowledgeId": "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+      "detail": "The physical and emotional capacity, motivation drivers, developmental needs and rights of the population group they work with."
+    },
+    {
+      "knowledgeId": "82e79834-2c1f-4c12-bcc5-b583a695071b",
+      "detail": "The evidence base for the effectiveness of the outdoor learning provided in their workplace and the relevant evaluation and research data."
+    },
+    {
+      "knowledgeId": "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+      "detail": "The ethics, theories, legal position and methods of making and recording risk–benefit assessments for outdoor learning experiences."
+    },
+    {
+      "knowledgeId": "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+      "detail": "Workplace policies and procedures relevant to leading an outdoor learning programme including the planning process, safety systems, budgetary control, and reporting"
+    },
+    {
+      "knowledgeId": "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+      "detail": "Approaches for motivating, supervising, coaching and mentoring staff allocated for a programme."
+    },
+    {
+      "knowledgeId": "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+      "detail": "Theories and models for leading groups in the outdoors."
+    },
+    {
+      "knowledgeId": "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+      "detail": "Relevant research and theory on decision making and judgement in the outdoor setting informed by approaches to reflection in-action, reflection on-action-in-context, and reflection on-action. "
+    },
+    {
+      "knowledgeId": "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+      "detail": "How to recognise and respond to a dynamic change in environmental, individual, or group conditions using an appropriate problem solving, recovery, rescue or emergency response"
+    },
+    {
+      "knowledgeId": "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+      "detail": "The benefits of instruction, teaching, coaching and mentoring approaches and their application in facilitating outdoor learning. "
+    },
+    {
+      "knowledgeId": "12410e66-556f-479b-aad0-51bc7045ef85",
+      "detail": "Methods to differentiate learning in order to respond to different learning preferences, group dynamics and interpersonal communication, emotional and cultural intelligences."
+    },
+    {
+      "knowledgeId": "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+      "detail": "Principles of assessment as learning, rules of assessment evidence and assessment methods suitable for the range of activities and intended outcomes of the outdoor programmes delivered."
+    },
+    {
+      "knowledgeId": "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+      "detail": "Feedback methods that support participants to achieve intended outcomes and development goals "
+    },
+    {
+      "knowledgeId": "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+      "detail": "Methods to identify and overcome barriers to equality, diversity and inclusion within programmes, the organisation and the wider sector ."
+    },
+    {
+      "knowledgeId": "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+      "detail": "Digital technologies to support instruction, teaching, coaching and learning in the outdoors and how they benefit self and participants."
+    },
+    {
+      "knowledgeId": "3e070eb3-dced-47a4-923f-0fe64ed785db",
+      "detail": "The geography and ecology of landscapes in which they practice, including but not limited to local, regional and global perspectives on habitat, biodiversity, the effects of climate change, social history, and local effects such as weather and tides."
+    },
+    {
+      "knowledgeId": "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+      "detail": "Methods to gather and analyse feedback and evidence data on outputs, outcomes and impacts of an outdoor learning programme."
+    },
+    {
+      "knowledgeId": "a9048640-667f-4a23-a832-d936a032d3bd",
+      "detail": "Methods to build and maintain effective relationships with a wide range of participants, volunteers, stakeholders and colleagues."
+    },
+    {
+      "knowledgeId": "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+      "detail": "How to positively promote the work of the organisation"
+    },
+    {
+      "knowledgeId": "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+      "detail": "Principles of good customer service, including the types, needs and expectations of internal and external customers and ways to manage conflict."
+    },
+    {
+      "knowledgeId": "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+      "detail": "How to lead meetings, structure and deliver effective instructions, presentations, written reports. "
+    },
+    {
+      "knowledgeId": "60788188-8101-4238-b09a-9b309abc5cf3",
+      "detail": "Ethics and the value of reflective practice for professional development. "
+    },
+    {
+      "knowledgeId": "6ef6acec-5305-4c6c-b740-b0062fdf68ee",
+      "detail": "Contemporary issues and the global challenges faced by Outdoor Learning, including the role and vision of organisations such as the Institute for Outdoor Learning"
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "f187c0ea-7876-492e-b783-006c6352dd80",
+      "detail": "Acts in a way that builds and maintains positive relationships with colleagues, participants and stakeholders."
+    },
+    {
+      "behaviourId": "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+      "detail": "Champions the wellbeing and health and safety of participants and stakeholders."
+    },
+    {
+      "behaviourId": "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+      "detail": "Encourages participants to achieve their potential in the activity, experience or programme"
+    },
+    {
+      "behaviourId": "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+      "detail": "Acts in a professional and ethical manner and portrays a positive approach to work."
+    },
+    {
+      "behaviourId": "701e40a9-cd84-487b-b787-d1e026293b2d",
+      "detail": "Champions, actively respects and protects the outdoor environment in which they work"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "5948a203-4e10-49dd-acdf-a6613668a3d8",
+      "detail": "Use questions, observations, discussions, surveys and active listening to identify the programme needs and expectations of customers, participants and stakeholders."
+    },
+    {
+      "skillId": "7471ad5e-b1d1-4d14-a9ec-fb22aae6bb89",
+      "detail": "Plan a purposeful sequence of outdoor learning activities and experiences matched to an agreed Theory of Change."
+    },
+    {
+      "skillId": "79770dbb-68fb-477b-b249-d099880ec5fa",
+      "detail": "Comply with relevant legislation and codes of practice related to the safe delivery of learning experiences in the outdoor and indoor environments in which they work."
+    },
+    {
+      "skillId": "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+      "detail": "Make programme design and delivery decisions based on the pedagogy/andragogy of the chosen approaches to outdoor learning used by their organisation."
+    },
+    {
+      "skillId": "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+      "detail": "Produce risk-benefit assessments for outdoor learning programmes."
+    },
+    {
+      "skillId": "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+      "detail": "Supervise, motivate and work alongside the delivery team allocated to an outdoor learning programme, taking into account available resources, participant needs, individual and organisational approach, programme budget, intended outcomes and desired long-term impact."
+    },
+    {
+      "skillId": "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+      "detail": "Lead differentiated outdoor learning activities and experiences to meet the needs and capabilities of individual participants within the group using appropriate resources and techniques."
+    },
+    {
+      "skillId": "418f0e05-01ec-4187-a25a-7d499ea28218",
+      "detail": "Instruct others in how to participate in activities correctly and safely and vary the content, tempo and direction of the activities to enable all participants to contribute to and benefit from the experience."
+    },
+    {
+      "skillId": "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+      "detail": "Make decisions informed by data such as by observations, experience, reflection in-action (in the moment), reflection on-action-in-context (during the experience), reflection on-action (post experience) and professional judgement."
+    },
+    {
+      "skillId": "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+      "detail": "Deal with a dynamic change in group, equipment, or environmental conditions using an appropriate problem solving, recovery, rescue or emergency response."
+    },
+    {
+      "skillId": "e35f5122-a776-43e6-85f9-ca97d214538e",
+      "detail": "Create the conditions for participant engagement and achievement whilst supporting equality and diversity and inclusion."
+    },
+    {
+      "skillId": "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+      "detail": "Use a relevant approach such as instruction, teaching, coaching and mentoring approaches to assist participants to meet the intended outcomes of a session and programme."
+    },
+    {
+      "skillId": "27c34474-e5da-4c30-a344-535953d7cdb9",
+      "detail": "Use relevant approaches to outdoor learning; theories of human and social development; psychological models; and neuroscience to support participants to achieve the intended outcomes of a programme."
+    },
+    {
+      "skillId": "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+      "detail": "Use the rules of assessment evidence to determine participant progress towards intended outcomes and provide appropriate feedback in terms of its timing, frequency, content and delivery that promotes further learning."
+    },
+    {
+      "skillId": "6e7659f5-ef13-4863-9312-b8363ef1824f",
+      "detail": "Use digital technologies to support the delivery of outdoor learning sessions and enable participants to engage with technology to achieve the intended outcomes of a programme."
+    },
+    {
+      "skillId": "053542ea-a4c6-4bab-a154-164e3c2d1423",
+      "detail": "Plan and lead programmes and activities that are sustainable, minimise impact and connect participants with their environment."
+    },
+    {
+      "skillId": "fd0e3507-3061-440e-b199-bb4f022a1148",
+      "detail": "Care for, conserve and enhance the environment in which they work."
+    },
+    {
+      "skillId": "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+      "detail": "Use research data and evaluation of own experience to: plan and lead evidence informed outdoor learning experiences; and communicate the value of an outdoor learning programme"
+    },
+    {
+      "skillId": "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+      "detail": "Use data gathered on outputs, outcomes and impacts of outdoor learning programmes to quality assure programme and organisational improvements in the short, medium and longer term. "
+    },
+    {
+      "skillId": "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+      "detail": "Engage and communicate confidently, clearly and considerately with individuals, small groups and larger groups."
+    },
+    {
+      "skillId": "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+      "detail": "Lead meetings, deliver presentations and write short reports ."
+    },
+    {
+      "skillId": "0764cee0-faa5-4c65-a566-d3cf523a200c",
+      "detail": "Use reflective practice in their work."
+    },
+    {
+      "skillId": "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8",
+      "detail": "Recognise own values, beliefs, strengths, areas of development and set future goals in line with own and the organisations objectives."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
-  "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2022-02-02T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0271",
-  "tbMainContact": " mark.lavington@pgl.co.uk",
-  "involvedEmployers": "Institute for Outdoor Learning, DA Training and Consultancy, North Yorkshire Youth, Bangor University, Outward Bound Trust, Lindley Education Trust, Scouts, Chateau Beaumont, Oxfordshire Council, Rockley Watersports, Heatree Adventure Centre, Mendip Activity Centre, Anderton Centre, Uk Youth, Glencoe Outdoor Centre, Mere Mountains, Field Studies Council, Bents Green School, White Wave Outdoor Centre, Fundays Club, Hornton School, Mellow Journeys, Wiltshire Outdoor Learning Team,  Callington Community College, Tirabad outdoor centre, Cumbria University, Peak District Council, Calvert Trust, Black Dog Adventures, Wiston Lodge",
+  "tbMainContact": "institute@outdoor-learning.org",
+  "involvedEmployers": "PGL\r\nOutward Bound\r\nField Studies Council\r\nPlas Y Brenin\r\nHeatree Activity Centre\r\nLocomotivation\r\nInspiring Learning\r\nSouth Devon College\r\n",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Community Exercise, Physical Activity, Sport and Health",
-  "cluster": "Exercise, Fitness and Health Specialist",
-  "createdDate": "2020-04-17T09:04:54 +00:00",
-  "lastUpdated": "2020-04-17T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/outdoor-learning-specialist#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/outdoor-learning-specialist",
-  "qualifications": [],
-  "professionalRecognition": [],
-  "duties": [],
-  "regulationDetail": []
+  "typicalJobTitles": [
+    "Senior Outdoor Instructor/Coach",
+    "Outdoor Programme Tutor",
+    "Outdoor Educator",
+    "Outdoor Education Teacher",
+    "Senior/Lead/Area Ranger",
+    "Outdoor Development Trainer",
+    "Senior Field Studies Tutor",
+    "Outdoor Learning Course Director"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Community exercise, physical activity, sport and health",
+  "cluster": "Exercise, fitness and health specialist",
+  "clusterId": "215",
+  "clusterDescription": "Develop and deliver programmes which significantly enhance the performance of an individual or team",
+  "createdDate": "2022-02-02T10:14:21 +00:00",
+  "lastUpdated": "2022-05-16T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2022-02-02T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0945",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0945-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0945-v1-0",
+  "qualifications": [
+    {
+      "qualificationId": "5187247d-ed55-41eb-871e-3e6f51540309",
+      "title": "Ofqual registered Level 2 Award in Safeguarding appropriate to the employer's business",
+      "level": "2",
+      "anyAdditionalInformation": "The two mandated qualifications fall under \"Type 2”. For this role, they are both required by employers with job descriptions usually stating the requirement for a relevant Outdoor First Aid Award and Safeguarding built into staff induction. Apprentices completing their apprenticeship without these two generic awards will be significantly disadvantaged on completion.e.g. https://www.outdoor-learning.org/Jobs/Current-Vacancies-New/freelance-outdoor-education-instructorIn addition, the Institute for Outdoor Learning are further developing their Professional Registration pathways in the sector to offer Chartered Professional status. Changes are employer led and the two mandated qualifications will become a set requirement once their incorporation into this apprenticeship is demonstrated.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "36e9a1a3-4693-4f10-87ac-e767163a568d",
+      "title": "Ofqual registered 2-day Outdoor First Aid Award ",
+      "level": "3",
+      "anyAdditionalInformation": "The two mandated qualifications fall under \"Type 2”. For this role, they are both required by employers with job descriptions usually stating the requirement for a relevant Outdoor First Aid Award and Safeguarding built into staff induction. Apprentices completing their apprenticeship without these two generic awards will be significantly disadvantaged on completion.e.g. https://www.outdoor-learning.org/Jobs/Current-Vacancies-New/freelance-outdoor-education-instructorIn addition, the Institute for Outdoor Learning are further developing their Professional Registration pathways in the sector to offer Chartered Professional status. Changes are employer led and the two mandated qualifications will become a set requirement once their incorporation into this apprenticeship is demonstrated.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Outdoor Learning",
+      "level": "Associate Professional",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "03866323-e7ee-4d6e-b120-9e67ada438b0",
+      "dutyDetail": "Establish participants’ needs, customer expectations and agree required outcomes for a programme of outdoor activities that delivers progressive learning and change by working in partnership with individual group members and stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5948a203-4e10-49dd-acdf-a6613668a3d8",
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f426fdfd-e014-40b7-a4ea-3d8aaa467702",
+      "dutyDetail": "Design and plan outdoor learning programmes informed by relevant reports, evidence and research, related theories (e.g. theory of change, physiology, risk-benefit, adventure, sustainability, psychology, outdoor coaching, leadership), legislation (e.g. H&SAW, AALR), ethics (e.g. IOL Code of Professional Conduct), and accepted good practice in outdoor learning (e.g. IOL Occupational Standards, IOL Statements of Good Practice, Activity Awarding Body Scope of Practice).",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5948a203-4e10-49dd-acdf-a6613668a3d8",
+        "7471ad5e-b1d1-4d14-a9ec-fb22aae6bb89",
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c86eebbc-3896-4600-be83-3eb546caacc1",
+      "dutyDetail": "Apply outdoor leadership experience to determine the likely hazards of activities and experiences and perform risk – benefit assessments for working in unknown or complex or unpredictable or wild or remote outdoor environments.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "132b614d-bc47-47e2-81c0-417bf2be55b0",
+      "dutyDetail": "Manage the allocated resources required for an outdoor learning programme, including delivery team, vehicles, trailers, technical equipment, catering, budget, etc.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bd0ceac8-6608-4899-8f2d-02b8df479d0c",
+      "dutyDetail": "Coach, mentor and provide feedback to allocated programme delivery team to develop their knowledge skills, competence and confidence in meeting the outcomes of the programme.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "80e0e605-2c44-40e4-82d5-bf2cf09b73f3",
+      "dutyDetail": "Lead individual and group activities and experiences outdoors by applying dynamic risk assessment, and professional judgement and decision making to meet the physical, mental and emotional safety and wellbeing needs of participants.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d7fa3ec3-e221-4ff1-9302-131361f9607c",
+      "dutyDetail": "Assess and solve complex and unpredictable problems associated with changing conditions and needs (for example, individuals, the group, the natural outdoor environment, weather, equipment, etc.) in order to work autonomously in unknown outdoor environments away from immediate help and direct line management.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1bc0a2be-9b99-4686-8d56-7791a9726506",
+      "dutyDetail": "Manage individual and group wellbeing (e.g. food, shelter, warmth, security, safeguarding, duty of care responsibilities) during day and overnight experiences (e.g. wild camp, bunkhouse, residential centre, sail training vessel) and demonstrate equality, diversity and inclusion.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "8fc88103-2d3f-4a2a-b099-55f7ff7b32fe",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c90c8e98-ec77-4ab9-b84d-d51ba0cf9fb3",
+      "dutyDetail": "Facilitate learning using a wide variety of teaching, personal development, assessment, reflection, feedback and coaching strategies to engage participants",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a45d1711-a840-41a0-a3c2-916bb13ff62f",
+      "dutyDetail": "Plan, adapt and develop outdoor activity specific learning approaches, teaching resources and equipment to meet a complex variety of environmental, technical and participant needs.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "5ebd89e7-6406-44e4-a01d-c13bbc9b95c2",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "3177293e-35a9-4ab0-a6a4-6a17db2300ab",
+        "b60b3c9e-765c-49ca-9630-52f3a05d35db",
+        "672cad53-cd6a-42df-b1e8-dc87cbfef063",
+        "12410e66-556f-479b-aad0-51bc7045ef85",
+        "f787bdb1-0d61-459f-be2f-912faacdbb4b",
+        "2744d5f5-b224-4ae8-8ffa-2a4340e5437c",
+        "ed5dd396-60e0-42d8-9776-8bfcc12286a4",
+        "688170e1-f9aa-4889-a659-a0bdd2205e6e",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "e32ab633-e4d4-4c01-975a-b61eaf91cb92",
+        "3064e3a4-0dfd-40d1-a0a8-dc7fe3a1f86d",
+        "adf89fe4-d7bc-4ed9-a6dd-dbb074048ab5",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1b7bd04c-8143-426b-8aab-0152ddd0bcf2",
+      "dutyDetail": "Inspire connection, promote sustainable use and on-going engagement with the natural outdoor environment by explaining the essential facts, principles, values, beliefs, ethics and aesthetics about the outdoor environment they are working in.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "3e070eb3-dced-47a4-923f-0fe64ed785db",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "5631b9d8-c6d1-477c-aa4b-cbacdd61c016",
+        "418f0e05-01ec-4187-a25a-7d499ea28218",
+        "c7a6fc40-1dfa-495c-856a-b116f715ce1a",
+        "98cf2fd8-4770-42f6-b047-20d22f21ae1e",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "ea5ec9c4-c665-44da-a203-bf7814b2cc5b",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "053542ea-a4c6-4bab-a154-164e3c2d1423",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "029e45fd-afb3-4076-9388-fad8090bdf0f",
+      "dutyDetail": "Evaluate actions, methods, results and impact of an outdoor learning programme and explain qualitative and quantitative data to customers, stakeholders and other interested parties.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "7c13aca3-703c-48f4-b1c5-0921e587a9a0",
+        "e86c74a4-5924-44e3-8f43-d659d6342cef",
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "be18aa74-fdb6-4288-9a1f-1165f5cfcb5a",
+        "dae36797-423d-4d8d-b4f3-e4e462fb765e",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "5948a203-4e10-49dd-acdf-a6613668a3d8",
+        "7471ad5e-b1d1-4d14-a9ec-fb22aae6bb89",
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "e35f5122-a776-43e6-85f9-ca97d214538e",
+        "27c34474-e5da-4c30-a344-535953d7cdb9",
+        "a42e7ed1-6277-4ace-b0e3-0ec877ed5494",
+        "6e7659f5-ef13-4863-9312-b8363ef1824f",
+        "fd0e3507-3061-440e-b199-bb4f022a1148",
+        "3041d714-cc23-44f0-a7ae-3c9fb65c7811",
+        "fb0e03f4-7748-4bc0-a87a-05847ccd90ed",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a5aab1f6-9d34-4248-b964-8e5d4a021833",
+      "dutyDetail": "Maintain outdoor learning professional competence and ethical practice by taking responsibility for own learning and development with minimum direction.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f187c0ea-7876-492e-b783-006c6352dd80",
+        "2976e6aa-34e0-4608-ad32-3e2c559e46db",
+        "c0b7a353-4d4a-4bfa-9d28-7ff0f8dc5e12",
+        "c4b8d149-9deb-4f30-8bcf-43b5147ddc4a",
+        "701e40a9-cd84-487b-b787-d1e026293b2d"
+      ],
+      "mappedKnowledge": [
+        "f4cdf15c-9f54-4882-9a24-298f65ee3d17",
+        "8ede75cd-950b-4e45-81a7-ff6509035d9c",
+        "de7ec2a2-a2d6-408a-a3fd-bc78c30feb11",
+        "8aa9fc5b-da69-43d1-8ca5-7bb77f8efe7f",
+        "82e79834-2c1f-4c12-bcc5-b583a695071b",
+        "0cd6072a-9a32-4ae1-89f9-286ecfb722c5",
+        "a9048640-667f-4a23-a832-d936a032d3bd",
+        "9d90eb24-7a3b-4b67-87a4-701a1a33af02",
+        "483c1c9b-a4e2-4140-9343-7ba9400643b3",
+        "655ba88d-4eeb-4cd6-a696-7b1bae5277e5",
+        "60788188-8101-4238-b09a-9b309abc5cf3",
+        "6ef6acec-5305-4c6c-b740-b0062fdf68ee"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "79770dbb-68fb-477b-b249-d099880ec5fa",
+        "d98d36c4-f230-412a-8f70-3cf5c3e88bc0",
+        "128b0f30-4f98-4ddb-9ba4-e107518d7c7f",
+        "0764cee0-faa5-4c65-a566-d3cf523a200c",
+        "f4dcdf5e-ffb4-4350-b9cb-3c0f2970b8f8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-05-16T00:00:00"
 }
