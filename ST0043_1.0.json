@@ -1,20 +1,26 @@
 {
+  "templateType": "Apprenticeship Standard",
   "larsCode": 500,
   "referenceNumber": "ST0043",
+  "learningAimClassCode": "",
   "title": "Construction design and build technician",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/500",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0043",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2024-03-15T00:00:00",
   "earliestStartDate": "2019-09-13T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2024-03-14T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping with essential building tasks such as planning, designing and project management.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
-  "route": "Construction",
+  "maxFundingAdditionalInformation": "",
+  "route": "Construction and the built environment",
   "keywords": [
     "building",
     "construction",
@@ -24,51 +30,169 @@
     "planning",
     "survey"
   ],
-  "jobRoles": [],
+  "jobRoles": [
+    "Assistant Design Co-ordinator",
+    "Design and Build Co-ordinator",
+    "Design Co-ordinator",
+    "Design Manager"
+  ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3449/st0043_construction-design-and-build-technician_l4_ap_for_publication_13092019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3449/st0043_construction-design-and-build-technician_l4_ap_for_publication_13092019.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
-  "standardInformation": "&lt;h3&gt;1.&#160;&#160;&#160;&#160; Occupation(s)&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The occupation covered by this standard is Construction Design and Build Technician and typical job titles can include: Assistant Design Co-ordinator or Design and Build Co-ordinator. In the case of SME construction companies the roles are likely to include Design Co-ordinator or Design Manager. They are associated with the co-ordination of design information on construction projects and are based on construction sites with occasional time in offices.&lt;/p&gt;\n&lt;h3&gt;2.&#160;&#160;&#160;&#160; Occupational profile&lt;/h3&gt;\n&lt;p&gt;The main duties and tasks of a Construction Design and Build Technician are:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identification of client requirements in construction projects&lt;/li&gt;\n&lt;li&gt;Identification of health and safety risks in the design of projects&lt;/li&gt;\n&lt;li&gt;Checking of compliance with regulations on a construction project&lt;/li&gt;\n&lt;li&gt;The minimisation of the environmental impact of construction projects&lt;/li&gt;\n&lt;li&gt;Assisting architects with the development of detailed design on a construction project&lt;/li&gt;\n&lt;li&gt;Co-ordinate design information on a construction project&lt;/li&gt;\n&lt;li&gt;Monitoring of quality on a construction project&lt;/li&gt;\n&lt;li&gt;Assisting commercial staff with the monitoring of costs on a construction project&lt;/li&gt;\n&lt;/ul&gt;\n&lt;table&gt;&lt;caption&gt;Requirements: Knowledge, Skills (and behaviours)&lt;/caption&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 126px;&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 373px;&quot; width=&quot;373&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Client Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Know how to analyse client requirements and ensure comprehensive survey information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and Safety&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand risk assessment of design solutions and the importance of behaviours in safety-critical environments&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand the sustainability issues in projects across economic, social and environmental aspects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Construction Technology&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand different construction methods and materials and building regulations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Develop Designs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand how to develop detailed designs in line with client requirements and construction process&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Design Documentation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand how to co-ordinate design information in both electronic and paper form&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand construction contracts and client quality standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor costs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand the importance of cost control on a construction project&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 126px;&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 373px;&quot; width=&quot;373&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Client Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assist in the assessment and presentation of client requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and Safety&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Identify risk in designs and suggest actions to reduce risks&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assess, identify and record the environmental impact of projects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Construction Technology&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assist in the implementation of the most appropriate solutions for construction projects whilst maintaining adherence to building regulations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Develop Designs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Prepare and present design proposals and solutions&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Design Documentation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Control document production and design information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Inspect and report on quality standards and assist in commissioning of finished construction projects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor costs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand financial and legal constraints and measure and record progress against budget&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th style=&quot;width: 126px;&quot; width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th style=&quot;width: 342px;&quot; width=&quot;342&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Professional Judgement&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to work within own level of competence and know when to seek advice from others&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commitment to Code of&#160;&lt;/strong&gt;&lt;strong&gt;Ethics&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Understand and apply the Code of Conduct and conduct regulations, ethics and professional standards relevant to industry’s recognised professional bodies.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Continuing Professional&#160;&lt;/strong&gt;&lt;strong&gt;Development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Identify own development needs and take action to meet those needs. Use own knowledge and expertise to help others when requested.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commitment to Equality&#160;&lt;/strong&gt;&lt;strong&gt;and Diversity&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Understand the importance of equality and diversity and demonstrate these attributes so as to meet the requirements of fairness at work.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Communicate Effectively&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to contribute effectively to meetings and present information in a variety of ways including oral and written.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Work in Teams&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to work with others in a collaborative and non-confrontational way.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Demonstrate Innovation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to identify areas for improvement and suggest innovative solutions.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;&lt;br /&gt;4. Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The typical duration for this Apprenticeship is three years but this will depend upon the previous experience of the apprentice and access to opportunities to gain the full range of competence.&lt;/p&gt;\n&lt;h3&gt;5. Entry requirements&lt;/h3&gt;\n&lt;p&gt;Individual employers will determine their own entry requirements, but the typical entry requirements for this Apprenticeship will be five GCSEs or equivalent, including Maths, English and a Science; or a Level 2 Apprenticeship.&#160;&lt;/p&gt;\n&lt;h3&gt;6. Qualifications&lt;/h3&gt;\n&lt;p&gt;The following qualification will be gained:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A Level 4 qualification in Construction and Built Environment that meets the knowledge requirements of the standard and is approved by the industry’s recognised professional bodies meeting the educational requirements for Technician status or the equivalent level of membership.&lt;/li&gt;\n&lt;li&gt;English and Maths; apprentices without level 2 English and Maths will need to achieve this level prior to taking the end-point assessment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;7. Link to professional registration&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship will include the knowledge, skills and behaviours typically required to achieve Technician status or the equivalent with the industry’s recognised professional bodies. The final assessment process for this Apprenticeship will typically be representative of the review process required for professional registration.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard is at Level 4.&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard should be reviewed three years after approval of the standard.&lt;/p&gt;",
-  "standardOccupationalCode": "",
+  "standardInformation": "&lt;h3&gt;1.&#160;&#160;&#160;&#160; Occupation(s)&lt;strong&gt;&#160;&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The occupation covered by this standard is Construction Design and Build Technician and typical job titles can include: Assistant Design Co-ordinator or Design and Build Co-ordinator. In the case of SME construction companies the roles are likely to include Design Co-ordinator or Design Manager. They are associated with the co-ordination of design information on construction projects and are based on construction sites with occasional time in offices.&lt;/p&gt;\n&lt;h3&gt;2.&#160;&#160;&#160;&#160; Occupational profile&lt;/h3&gt;\n&lt;p&gt;The main duties and tasks of a Construction Design and Build Technician are:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Identification of client requirements in construction projects&lt;/li&gt;\n&lt;li&gt;Identification of health and safety risks in the design of projects&lt;/li&gt;\n&lt;li&gt;Checking of compliance with regulations on a construction project&lt;/li&gt;\n&lt;li&gt;The minimisation of the environmental impact of construction projects&lt;/li&gt;\n&lt;li&gt;Assisting architects with the development of detailed design on a construction project&lt;/li&gt;\n&lt;li&gt;Co-ordinate design information on a construction project&lt;/li&gt;\n&lt;li&gt;Monitoring of quality on a construction project&lt;/li&gt;\n&lt;li&gt;Assisting commercial staff with the monitoring of costs on a construction project&lt;/li&gt;\n&lt;/ul&gt;\n&lt;table border=&quot;0&quot;&gt;&lt;caption&gt;Requirements: Knowledge, Skills (and behaviours)&lt;/caption&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;126&quot; style=&quot;width: 126px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;373&quot; style=&quot;width: 373px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Client Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Know how to analyse client requirements and ensure comprehensive survey information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and Safety&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand risk assessment of design solutions and the importance of behaviours in safety-critical environments&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand the sustainability issues in projects across economic, social and environmental aspects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Construction Technology&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand different construction methods and materials and building regulations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Develop Designs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand how to develop detailed designs in line with client requirements and construction process&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Design Documentation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand how to co-ordinate design information in both electronic and paper form&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand construction contracts and client quality standards&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor costs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand the importance of cost control on a construction project&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;126&quot; style=&quot;width: 126px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;373&quot; style=&quot;width: 373px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Client Requirements&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assist in the assessment and presentation of client requirements&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and Safety&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Identify risk in designs and suggest actions to reduce risks&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Sustainability&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assess, identify and record the environmental impact of projects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Construction Technology&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Assist in the implementation of the most appropriate solutions for construction projects whilst maintaining adherence to building regulations&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Develop Designs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Prepare and present design proposals and solutions&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Design Documentation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Control document production and design information&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor Compliance&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Inspect and report on quality standards and assist in commissioning of finished construction projects&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Monitor costs&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;373&quot;&gt;\n&lt;p&gt;Understand financial and legal constraints and measure and record progress against budget&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;126&quot; style=&quot;width: 126px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;342&quot; style=&quot;width: 342px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Professional Judgement&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to work within own level of competence and know when to seek advice from others&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commitment to Code of&#160;&lt;/strong&gt;&lt;strong&gt;Ethics&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Understand and apply the Code of Conduct and conduct regulations, ethics and professional standards relevant to industry’s recognised professional bodies.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Continuing Professional&#160;&lt;/strong&gt;&lt;strong&gt;Development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Identify own development needs and take action to meet those needs. Use own knowledge and expertise to help others when requested.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Commitment to Equality&#160;&lt;/strong&gt;&lt;strong&gt;and Diversity&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Understand the importance of equality and diversity and demonstrate these attributes so as to meet the requirements of fairness at work.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Communicate Effectively&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to contribute effectively to meetings and present information in a variety of ways including oral and written.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Work in Teams&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to work with others in a collaborative and non-confrontational way.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;126&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Demonstrate Innovation&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;342&quot;&gt;\n&lt;p&gt;Be able to identify areas for improvement and suggest innovative solutions.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;&lt;br /&gt;4. Duration&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The typical duration for this Apprenticeship is three years but this will depend upon the previous experience of the apprentice and access to opportunities to gain the full range of competence.&lt;/p&gt;\n&lt;h3&gt;5. Entry requirements&lt;/h3&gt;\n&lt;p&gt;Individual employers will determine their own entry requirements, but the typical entry requirements for this Apprenticeship will be five GCSEs or equivalent, including Maths, English and a Science; or a Level 2 Apprenticeship.&#160;&lt;/p&gt;\n&lt;h3&gt;6. Qualifications&lt;/h3&gt;\n&lt;p&gt;The following qualification will be gained:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;A Level 4 qualification in Construction and Built Environment that meets the knowledge requirements of the standard and is approved by the industry’s recognised professional bodies meeting the educational requirements for Technician status or the equivalent level of membership.&lt;/li&gt;\n&lt;li&gt;English and Maths; apprentices without level 2 English and Maths will need to achieve this level prior to taking the end-point assessment.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;7. Link to professional registration&lt;/h3&gt;\n&lt;p&gt;This Apprenticeship will include the knowledge, skills and behaviours typically required to achieve Technician status or the equivalent with the industry’s recognised professional bodies. The final assessment process for this Apprenticeship will typically be representative of the review process required for professional registration.&lt;/p&gt;\n&lt;h3&gt;Level&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard is at Level 4.&lt;/p&gt;\n&lt;h3&gt;Review date&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard should be reviewed three years after approval of the standard.&lt;/p&gt;",
   "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
-  "options": [],
+  "knowledges": [
+    {
+      "knowledgeId": "797fd35d-a24a-410f-a026-1d5ccd78f7cd",
+      "detail": "Know how to analyse client requirements and ensure comprehensive survey information."
+    },
+    {
+      "knowledgeId": "f9804016-2490-46f9-8f9c-097f96b3f149",
+      "detail": "Understand risk assessment of design solutions and the importance of behaviours in safety-critical environments."
+    },
+    {
+      "knowledgeId": "3c3976d1-1a91-4225-82fb-70286ac1aa46",
+      "detail": "Understand the sustainability issues in projects across economic, social and environmental aspects."
+    },
+    {
+      "knowledgeId": "890fb009-bafb-44ed-b88e-34e9e8ba12b7",
+      "detail": "Understand different construction methods and materials and building regulations."
+    },
+    {
+      "knowledgeId": "46261627-f82d-4b8b-9abc-f6fb80622d03",
+      "detail": "Understand how to develop detailed designs in line with client requirements and construction process."
+    },
+    {
+      "knowledgeId": "184b77d4-4863-43bd-940a-edd074c8f3f6",
+      "detail": "Understand how to co-ordinate design information in both electronic and paper form."
+    },
+    {
+      "knowledgeId": "e34e7080-a265-4136-9b00-5db856f7ff0e",
+      "detail": "Understand construction contracts and client quality standards."
+    },
+    {
+      "knowledgeId": "74d2aa72-341d-4a78-bb0c-55acb1bdc572",
+      "detail": "Understand the importance of cost control on a construction project."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "4e78e487-7466-45d4-babd-f3ce25250ad9",
+      "detail": "Be able to work within own level of competence and know when to seek advice from others."
+    },
+    {
+      "behaviourId": "b4505cb8-fc69-45e2-8a00-836e6523ccdf",
+      "detail": "Understand and apply the Code of Conduct and conduct regulations, ethics and professional standards relevant to industry's recognised professional bodies."
+    },
+    {
+      "behaviourId": "995d12c2-1379-4c4d-aaa7-3789360c4ce4",
+      "detail": "Identify own development needs and take action to meet those needs. Use own knowledge and expertise to help others when requested."
+    },
+    {
+      "behaviourId": "b015e2e0-f559-4f63-8563-7415a08bb8ab",
+      "detail": "Understand the importance of equality and diversity and demonstrate these attributes so as to meet the requirements of fairness at work."
+    },
+    {
+      "behaviourId": "756e8507-d5e9-4447-a315-357ed14ac25a",
+      "detail": "Be able to contribute effectively to meetings and present information in a variety of ways including oral and written."
+    },
+    {
+      "behaviourId": "6b6dbcf4-de9f-4d6f-9b15-709034defd3a",
+      "detail": "Be able to work with others in a collaborative and non-confrontational way."
+    },
+    {
+      "behaviourId": "def387ec-bc7e-4e49-98fc-a0c70ec43b0c",
+      "detail": "Be able to identify areas for improvement and suggest innovative solutions."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "71dcf614-cbb5-464e-a26f-1bcbaf31f146",
+      "detail": "Assist in the assessment and presentation of client requirements."
+    },
+    {
+      "skillId": "4a65a573-0d02-435a-bf26-7a3e3cf088a4",
+      "detail": "Identify risk in designs and suggest actions to reduce risks."
+    },
+    {
+      "skillId": "b06b32d1-0f16-4304-a49d-dd640d8b6290",
+      "detail": "Assess, identify and record the environmental impact of projects."
+    },
+    {
+      "skillId": "a7d051d1-e250-45bd-b2ce-b08fb2495161",
+      "detail": "Assist in the implementation of the most appropriate solutions for construction projects whilst maintaining adherence to building regulations."
+    },
+    {
+      "skillId": "2610789c-117c-44cc-aee8-43acf3be408f",
+      "detail": "Prepare and present design proposals and solutions."
+    },
+    {
+      "skillId": "b9cfd418-3874-4bde-9797-c0ae9c819d23",
+      "detail": "Control document production and design information."
+    },
+    {
+      "skillId": "ec45ad5e-814d-4861-9b5a-38f618d7341c",
+      "detail": "Inspect and report on quality standards and assist in commissioning of finished construction projects."
+    },
+    {
+      "skillId": "a53a2d24-c792-4b96-955c-6b873f5a7fe5",
+      "detail": "Understand financial and legal constraints and measure and record progress against budget."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Construction Industry Training Board (CITB)",
-    "contactName": "Dawn Hillier",
-    "contactAddress": "Carthusian Court<br>12 Carthusian Street<br>LONDON<br>EM1M 6EZ",
-    "contactEmail": "Quality.assurance@citb.co.uk",
-    "webLink": "https://www.citb.co.uk/"
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "",
-  "tbMainContact": "MThompson@ryderarchitecture.com ",
+  "tbMainContact": "PBarker@ryderarchitecture.com",
   "involvedEmployers": "Balfour Beatty, Costain, Wates, Willmott Dixon, Lend Lease, Carillion, Hind Joiners, KM Decorating, BAM Construction, Laing O’Rourke, Kier, Byrne Brothers, Seddon, NG Bailey",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
-  "typicalJobTitles": [],
+  "typicalJobTitles": [
+    "Assistant Design Co-ordinator",
+    "Design and Build Co-ordinator",
+    "Design Co-ordinator",
+    "Design Manager"
+  ],
+  "greenJobTitles": [],
   "englishAndMathsQualifications": "",
-  "reviewDetails": "",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Design, Surveying & Planning",
-  "cluster": "Design & Surveying Technician",
-  "createdDate": "2017-11-14T17:10:31 +00:00",
-  "lastUpdated": "2019-09-13T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-design-and-build-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/construction-design-and-build-technician-v1-0",
+  "cluster": "Design and surveying advanced technician",
+  "clusterId": "138",
+  "clusterDescription": "Identify and monitor client requirements, H&S risks, regulatory compliance, environmental impact , build quality, co-ordinate information and manage build costs",
+  "createdDate": "2022-04-07T12:37:05 +00:00",
+  "lastUpdated": "2024-03-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-09-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0043",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0043-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0043-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-03-15T00:00:00"
 }
