@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 559,
   "referenceNumber": "ST0865",
+  "learningAimClassCode": "",
   "title": "Cyber security technician",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/559",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0865",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-04-01T00:00:00",
@@ -12,8 +16,10 @@
   "latestEndDate": null,
   "overviewOfRole": "Provide first line cyber security support.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 11000,
+  "maxFundingAdditionalInformation": "",
   "route": "Digital",
   "keywords": [
     "ICT",
@@ -37,13 +43,12 @@
     "Junior Security Analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/5023/st0865_cyber_security_technician_l3_ap-for-publication_20210315.pdf",
-  "ssa1": "6 Information and Communication Technology (ICT)",
-  "ssa2": "6.1 ICT practitioners",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/jszlvxjy/st0865_cyber_security_technician_l3_ap-for-publication_20210315.pdf",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "3131 - IT operations technicians",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors where information is held digitally and where that information is an asset that needs to be protected including but not limited to finance, retail, telecoms, health, media, manufacturing and local authorities.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to provide first line cyber security support. This requires individuals to monitor and detect potential security threats and escalate as necessary and to support secure and uninterrupted business operations of an organisation through the implementation of cyber security mechanisms and the application of cyber security procedures and controls. To contribute to the delivery of a security culture across an organisation, understanding vulnerabilities and threats and supporting the development of an organisation&#39;s cyber security maturity. To apply procedures and controls to maintain security and control of an organisation, and process security requests ensuring confidentiality, integrity and availability of information stored digitally.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders including colleagues, managers, customers and internal and external suppliers. They would typically work as a member of a team; this may be office based or virtual. The employee will interact with, and influence colleagues and will have working level contact with customers, suppliers and partners in their capacity as an individual contributor.&lt;/p&gt;\r\n&lt;p&gt;An employee in this occupation will be responsible for supporting a cyber security function (frequently a Security Operations Centre or Network Operations Centre) working under supervision. The employee will be conducting specific cyber security tasks to defined procedures and standards. Specific cyber security mechanisms and controls that an individual would be required to implement would include: patching software, installing software updates, implementing access control, configuring firewalls, security incident and event management tools (SIEM) tools and protection tools (Anti-virus, Anti-malware, Anti-spam). They will be responsible for their own activities with other resources made available to them as required. As directed, the employee will engage with specific cyber security events. The employee will be expected to work with internal and external stakeholders under general direction. They will use discretion in identifying and responding to complex issues and assignments and will usually receive specific instructions and will have work reviewed at frequent milestones. They will be expected to determine when issues should be escalated to a higher level.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in all sectors where information is held digitally and where that information is an asset that needs to be protected including but not limited to finance, retail, telecoms, health, media, manufacturing and local authorities.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to provide first line cyber security support. This requires individuals to monitor and detect potential security threats and escalate as necessary and to support secure and uninterrupted business operations of an organisation through the implementation of cyber security mechanisms and the application of cyber security procedures and controls. To contribute to the delivery of a security culture across an organisation, understanding vulnerabilities and threats and supporting the development of an organisation&#39;s cyber security maturity. To apply procedures and controls to maintain security and control of an organisation, and process security requests ensuring confidentiality, integrity and availability of information stored digitally.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with a wide range of stakeholders including colleagues, managers, customers and internal and external suppliers. They would typically work as a member of a team; this may be office based or virtual. The employee will interact with, and influence colleagues and will have working level contact with customers, suppliers and partners in their capacity as an individual contributor.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for supporting a cyber security function (frequently a Security Operations Centre or Network Operations Centre) working under supervision. The employee will be conducting specific cyber security tasks to defined procedures and standards. Specific cyber security mechanisms and controls that an individual would be required to implement would include: patching software, installing software updates, implementing access control, configuring firewalls, security incident and event management tools (SIEM) tools and protection tools (Anti-virus, Anti-malware, Anti-spam). They will be responsible for their own activities with other resources made available to them as required. As directed, the employee will engage with specific cyber security events. The employee will be expected to work with internal and external stakeholders under general direction. They will use discretion in identifying and responding to complex issues and assignments and will usually receive specific instructions and will have work reviewed at frequent milestones. They will be expected to determine when issues should be escalated to a higher level.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "6f48cab5-8dac-4207-ad47-509bdee64d3e",
@@ -135,7 +140,7 @@
     },
     {
       "knowledgeId": "df325723-3186-4f6d-884a-d0eee6658ce8",
-      "detail": "Evolving cyber security issues in the digital world including the application to critical national infrastructure, communications technologies, the need for information assurance and governance, control systems and internet of things (IoT) devises"
+      "detail": "Evolving cyber security issues in the digital world including the application to critical national infrastructure, communications technologies, the need for information assurance and governance, control systems and internet of things (IoT) devices"
     },
     {
       "knowledgeId": "cfc5e40c-8180-488a-8776-021de7986df6",
@@ -286,25 +291,28 @@
       "detail": "Keep up-to-date with legislation and industry standards related to the implementation of cyber security in an organisation"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-05-13T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0532",
-  "tbMainContact": "budgie.dhanda@qufaro.uk",
-  "involvedEmployers": "IBM, Qufaro, Cap Gemini, Fujitsu, Sandettie, Dimension Data, CyberCrowd, Forgerock, CompTIA, ABFoods\r\nIssured, Deloitte, Local Government Association, Global Knowledge",
+  "tbMainContact": "apprentices@ciisec.org",
+  "involvedEmployers": "IBM, Qufaro, Cap Gemini, Fujitsu, Sandettie, Dimension Data, CyberCrowd, Forgerock, CompTIA, ABFoods\nIssured, Deloitte, Local Government Association, Global Knowledge",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -318,31 +326,37 @@
     "Junior Penetration Tester",
     "Junior Security Analyst"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Digital Support and Services",
-  "cluster": "IT Support and Services Technician",
+  "cluster": "IT support and services technician",
+  "clusterId": "187",
+  "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2020-01-23T14:40:18 +00:00",
-  "lastUpdated": "2020-05-13T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technician-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/cyber-security-technician-v1-0",
+  "lastUpdated": "2021-04-01T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-05-13T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0865",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0865-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0865-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
       "bodyName": "BCS - The Chartered Institute for IT ",
-      "level": "0",
+      "level": "Associate BCS membership (AMBCS) and Professional ",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Registration for IT Technicians (RITTech)",
-      "level": "0",
+      "level": "",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "Chartered Institute for Information Security ",
-      "level": "0",
+      "level": "/ Accredited Affiliate",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -364,7 +378,7 @@
         "aebbc3ff-3cbc-4ed1-aaae-6a7f021dd7cc",
         "94718a96-2336-49e6-9895-0287d837ec8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "90666401-f091-4f53-ae47-811e41f2a77e",
@@ -390,7 +404,7 @@
         "94718a96-2336-49e6-9895-0287d837ec8e",
         "375943fc-59e6-4bd4-b59f-cb17b8613f46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4b11fe49-21b5-463e-8b12-55800bb1e976",
         "a35f073d-71a2-45df-90a0-7979e57de214",
@@ -418,7 +432,7 @@
         "57a84b22-e050-49e4-960b-827ed650a132",
         "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "c38a3eff-e69c-4c55-8401-844786391a6a",
@@ -442,7 +456,7 @@
         "165ae668-549d-4969-8c2d-0669d7371524",
         "00403dbf-ca17-40c9-bf80-067ab8171a06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "90666401-f091-4f53-ae47-811e41f2a77e",
@@ -472,7 +486,7 @@
         "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
         "c928252a-48c5-42cb-9aac-6c08d590d915"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "ea09e005-b5ba-4704-a05c-84f2fa50f7a6",
@@ -495,7 +509,7 @@
         "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
         "00403dbf-ca17-40c9-bf80-067ab8171a06"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "90666401-f091-4f53-ae47-811e41f2a77e",
@@ -519,7 +533,7 @@
         "cebe3189-be79-4a75-8fda-cdfb47a37c32",
         "751e8643-d136-4b00-bfe3-1b0fd0e0b065"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "90666401-f091-4f53-ae47-811e41f2a77e",
@@ -542,7 +556,7 @@
         "d7600e3e-327e-4857-a40b-3f9a78b9b9b0",
         "751e8643-d136-4b00-bfe3-1b0fd0e0b065"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "17aebf03-e43d-4727-9ebc-ffe3894bc4c4"
@@ -565,7 +579,7 @@
         "a02820cf-efa8-4ea8-a298-239f584db3d7",
         "628ceeaf-d80c-408c-b456-19da63c9cb89"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "89ff792c-8c8c-45d9-8b5b-4d0c7c66df6f"
@@ -592,7 +606,7 @@
         "e74bd198-5dbb-4806-be4c-c0fd2f862ad8",
         "567deb0a-5c1e-4de5-bf8d-9d9e3f55e5b2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "3db11ef1-3d79-4dd1-aa16-aedd96f6eea0",
@@ -618,7 +632,7 @@
         "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
         "0128d1be-d8b1-4231-909d-b80f182d41ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "64861d0e-056c-4a2d-b1dd-3160210104e8",
@@ -644,7 +658,7 @@
         "eb896a8e-9f63-47ac-b23f-48c0632ab3f0",
         "b5208d48-d9b3-4e3c-84ac-5d8c38f75018"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "d2e7faa2-ac88-4a35-aa37-2e4a8e379a9b"
@@ -670,7 +684,7 @@
         "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
         "89f3a467-0dd2-4ff0-9df4-f5ae78c5603b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ea09e005-b5ba-4704-a05c-84f2fa50f7a6",
         "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
@@ -699,7 +713,7 @@
         "8d7151d2-c13a-4801-a5d0-fd8a021cce7f",
         "df325723-3186-4f6d-884a-d0eee6658ce8"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2dce4537-b6d7-4bbe-8219-fd09c9895093",
         "10a710c1-cb37-47df-946b-a1a98b549b14",
@@ -726,7 +740,7 @@
         "cfc5e40c-8180-488a-8776-021de7986df6",
         "ea7ffb09-95d5-4772-be60-4a92d853ac94"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2d167573-3148-4d09-a5c0-c886cd325d79",
         "dcbca131-61f7-4057-acf9-477de79337ac"
@@ -754,7 +768,7 @@
         "5105ba84-419a-4037-ac6e-99f0a0e6a5e5",
         "375943fc-59e6-4bd4-b59f-cb17b8613f46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a0bcb541-a074-4ce9-905d-cc93468ff7e3",
         "90666401-f091-4f53-ae47-811e41f2a77e",
@@ -779,7 +793,7 @@
         "cfc5e40c-8180-488a-8776-021de7986df6",
         "0128d1be-d8b1-4231-909d-b80f182d41ea"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ec8246c0-6684-47f2-943b-b740e599fa28"
       ],
@@ -800,7 +814,7 @@
         "c928252a-48c5-42cb-9aac-6c08d590d915",
         "7bcc35ca-a974-47e7-ab78-7ae2b5209b5b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0be3da9b-ab83-4bf6-8aea-4f4adf9ce44f",
         "d2e7faa2-ac88-4a35-aa37-2e4a8e379a9b",
@@ -810,5 +824,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2021-04-01T00:00:00"
 }
