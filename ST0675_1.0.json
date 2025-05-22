@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 477,
   "referenceNumber": "ST0675",
+  "learningAimClassCode": "",
   "title": "Materials science technologist (degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/477",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0675",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2019-07-03T00:00:00",
   "earliestStartDate": "2019-07-03T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Ensuring materials are fit for purpose for a wide range of different industries.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 48,
   "maxFunding": 24000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "R&D Technologist",
@@ -34,12 +40,11 @@
     "Graduate Sales Exec"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3199/st0675_materials_science_technologist_l6_for-publication_120619.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3199/st0675_materials_science_technologist_l6_for-publication_120619.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;The Materials Science Technologist occupation is at the forefront materials innovation in the Petrochemical, Pharmaceutical, Engineering, Construction, and Manufacturing industries across numerous sectors including automotive, aerospace, healthcare, defence, and energy, mechanical, civil and chemical engineering, material failure, rheology, adhesives, polymers, traditional and advanced ceramics. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to ensure materials used in those industries are fit for purpose in terms of product innovation, performance, failure diagnosis, operational management, process and manufacturing, and the positive advancement of materials science, thus enhancing economic and social value today and in the future.&lt;br /&gt;&lt;br /&gt;In their daily work, materials technologists will engage in high level activities such as materials testing, novel product development, solving manufacturing issues, laboratory management, team leadership, technological sales, and client management, depending on which of the variety of related businesses their employer is in. &lt;br /&gt;&lt;br /&gt;Work involves testing materials used by clients through activities such as investigation, gathering physical evidence, critical analyses, drawing conclusions, and recommending courses of action. Depending on context, technologists may be involved in designing new materials or production processes, combining materials, or additive manufacturing. In addition, they may need to provide technical leadership in the design and development of new material products by choosing correct materials and applications through data derived from analysis in the field or lab for: e.g. body armour for defence, materials for engine parts for aerospace, commercial vehicles or high performance cars, materials for new developments in battery design/manufacture, or coatings and additives for healthcare applications such as dental work, or materials for replacement bones or prosthetics.&lt;br /&gt;&lt;br /&gt;This employee will participate in internal/external project teams, provide management and leadership of direct report personnel as well as cross-functional teams in addition to liaising with clients in a sales role or providing technical consultancy, proof of concept, or scale-up initiatives. Work will be on projects in the lab, office, onsite, or in the field in local, regional, national or global contexts.&lt;br /&gt;&lt;br /&gt;In addition they may be expected to acquire and develop new business and manage an existing client base comprising of individuals, SMEs, larger national companies, government agencies, and multinational organisations.&lt;/p&gt;",
   "knowledges": [
     {
@@ -203,25 +208,28 @@
       "detail": "Communicate effectively with colleagues and stakeholders using the appropriate language register both verbally and in writing."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB1234",
   "tbMainContact": "Chris.Stevens@nsg.com",
   "involvedEmployers": "Mantec Technical Ceramics Ltd, Bostik Ltd, MAGDEV Ltd, Johnson Matthey, Knowles (UK) Limited, Keeling & Walker Ltd, Steelite International Ltd, Indestructible Paint Ltd, Naylor Industries plc, Arconic Manufacturing (GB) Ltd, Coorstek Crewe Limited, Prince Minerals Limited, Trelleborg AVS, Johnson Tiles, Wade Ceramics, Global Ceramic Materials Limited, Victrex PLC, Prince Minerals Limited, Cape Plc, Forterra, F P McCann Ltd, Caterpillar, Norcros Adhesives, Fenner Precision, James Kent Group, Fairey Industrial Ceramics Ltd, Synthomer Plc, Gates Power Transmission, Dupre Minerals, AstraZeneca, Furlong Mills Ltd, A&M EDM Limited, TA Instruments, Imerys Fused Minerals Hull Limited, Ibstock PLC, Chemquip Ltd, Pilkington UK Ltd (NSG Group), Exova, Lagan Brick, Denby Pottery Co Ltd, Foseco International Ltd",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -234,26 +242,34 @@
     "Quality Assurance/Quality Control",
     "Graduate Sales Exec"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Engineer",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development engineer",
+  "clusterId": "253",
+  "clusterDescription": "Design and develop a range of products and/or process technologies using discipline and applications specific expertise",
   "createdDate": "2019-12-24T11:59:48 +00:00",
-  "lastUpdated": "2019-12-24T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/materials-science-technologist-(degree)-v1-0",
+  "lastUpdated": "2019-07-03T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0675",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0675-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0675-v1-0",
   "qualifications": [
     {
       "qualificationId": "c39e232f-d89f-49fa-aea3-d06d2dd8b132",
       "title": "Degree in Materials ",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (non-integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "The Institue of Materials, Minerals, and Mining (IOM3) ",
-      "level": "0",
+      "level": "Associate Member with Incorporated Engineer registration (IEng AIMMM)",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -292,7 +308,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -329,7 +345,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "90e4b874-5d3e-4e82-ad9f-1d816926fc7d",
@@ -368,7 +384,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -406,7 +422,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -447,7 +463,7 @@
         "11fd45f7-1864-4d8c-b579-3dde4546edaf",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -478,7 +494,7 @@
         "285d8ebd-3bb3-4022-b1d1-96447437126c",
         "bbc65397-d4d7-4ada-97ad-a5289a454174"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b5b13cf4-291a-4822-9ad5-c1b9137feb64",
         "c8949322-5bb6-46f7-876a-dc20027f1e1b",
@@ -505,7 +521,7 @@
         "ed8b8afa-ea5b-4c2f-8d08-e2ddfcdf877e",
         "2275b4f8-b2f0-4a08-9e5f-471130cacfc2"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -547,7 +563,7 @@
         "e6992584-239a-4847-bfc9-c35c495c07a6",
         "a868e59e-4228-40b5-9674-489f03976f4e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -585,7 +601,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -619,7 +635,7 @@
         "bbc65397-d4d7-4ada-97ad-a5289a454174",
         "e6992584-239a-4847-bfc9-c35c495c07a6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "90e4b874-5d3e-4e82-ad9f-1d816926fc7d",
@@ -644,7 +660,7 @@
         "285d8ebd-3bb3-4022-b1d1-96447437126c",
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
         "ce347e38-3466-4b99-ac5d-79c1463815ec",
@@ -687,7 +703,7 @@
         "612409d7-cc9f-46d5-b91a-71d6c0ede30d",
         "bbc65397-d4d7-4ada-97ad-a5289a454174"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "96b1c60e-9744-4d15-a531-73900c9b2c55",
         "2901a58d-0031-41b4-a0d6-e9e0b0321290",
@@ -701,5 +717,10 @@
       "criteriaForMeasuringPerformance": "Accurate; attention to detail; precise; responsible; methodical; drive; tenacity; on time; on budget;\ntarget driven"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2019-07-03T00:00:00"
 }
