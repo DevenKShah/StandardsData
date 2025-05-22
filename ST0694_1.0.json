@@ -1,21 +1,34 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 453,
   "referenceNumber": "ST0694",
+  "learningAimClassCode": "",
   "title": "Career development professional",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/453",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0694",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-04-07T00:00:00",
   "earliestStartDate": "2019-05-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Assisting individuals or organisations before or during career transitions to develop long and short term career strategies.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
-  "keywords": [],
+  "keywords": [
+    "business management",
+    "career",
+    "HR",
+    "career development",
+    "professional",
+    "Human resources"
+  ],
   "jobRoles": [
     "Career adviser",
     "Career coach",
@@ -29,13 +42,12 @@
     "Personal adviser"
   ],
   "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved level two English and maths on entry. Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment. Apprentices working with young people and vulnerable adults would be required to hold a DBS clearance&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3049/st0694_career-development-professional_l6_plan-for-publication_070519.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3049/st0694_career-development-professional_l6_plan-for-publication_070519.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;Career Development Professionals are typically found in educational settings, training organisations, careers and employment services and human resource/learning and development departments in both the public and the private sector. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to assist individuals and/or organisations before or during career transitions to develop long and short term career strategies. Transitions could include from learning to work, returning to the labour market, returning to learning, sector/organisation/management change, redundancy and pre-retirement choices. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for helping individuals assess their own strengths, values, beliefs, and situation and connect them meaningfully to the labour market and the education system. They are responsible for making professional judgements in the best interest of the client whilst adhering to the ethical practice required by the organisation or profession, and acting in accordance with organisational policy and relevant legislation. A career development professional is required to act with autonomy, working independently, often on their own and in collaboration with other professionals, for example careers leaders, senior academics, social workers, course tutors, managers and HR professionals.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;In their daily work, Career Development Professionals will provide activities and services on an individual or group basis and these may be face-to-face or via on-line technology. They will interact with: clients with a range of needs and at different stages of career awareness; training providers who support the development of skills and vocational training; schools, colleges and universities to support educational/occupational choices and labour market entry/progression; employers to broker employment opportunities including work experience and internships; and other support organisations, such as housing associations and social services to address the client&#39;s wider needs, e.g. accommodation and financial support. &lt;br /&gt;&lt;br /&gt;They will exercise their responsibility thorough the provision of information, ideas, tools and resources, administration of assessment and self-assessment tools, career guidance interviews, career education programmes, career coaching, taster programmes, work-search programmes, outplacement, redundancy and transition services, retention and talent assessment reviews, career progression or promotion training, and other forms of career development related consultancy, research and professional development.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Career Development Professionals are typically found in educational settings, training organisations, careers and employment services and human resource/learning and development departments in both the public and the private sector. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to assist individuals and/or organisations before or during career transitions to develop long and short term career strategies. Transitions could include from learning to work, returning to the labour market, returning to learning, sector/organisation/management change, redundancy and pre-retirement choices. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for helping individuals assess their own strengths, values, beliefs, and situation and connect them meaningfully to the labour market and the education system. They are responsible for making professional judgements in the best interest of the client whilst adhering to the ethical practice required by the organisation or profession, and acting in accordance with organisational policy and relevant legislation. A career development professional is required to act with autonomy, working independently, often on their own and in collaboration with other professionals, for example careers leaders, senior academics, social workers, course tutors, managers and HR professionals.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;In their daily work, Career Development Professionals will provide activities and services on an individual or group basis and these may be face-to-face or via on-line technology. They will interact with: clients with a range of needs and at different stages of career awareness; training providers who support the development of skills and vocational training; schools, colleges and universities to support educational/occupational choices and labour market entry/progression; employers to broker employment opportunities including work experience and internships; and other support organisations, such as housing associations and social services to address the client&#39;s wider needs, e.g. accommodation and financial support. &lt;br&gt;&lt;br&gt;They will exercise their responsibility thorough the provision of information, ideas, tools and resources, administration of assessment and self-assessment tools, career guidance interviews, career education programmes, career coaching, taster programmes, work-search programmes, outplacement, redundancy and transition services, retention and talent assessment reviews, career progression or promotion training, and other forms of career development related consultancy, research and professional development.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "61f4fe12-a99e-4e3f-94de-b605b45077b0",
@@ -242,25 +254,28 @@
       "detail": "Understand and apply appropriate research strategies to obtain, interpret and tailor information to meet the needs of clients and others, including the appropriate use of  primary, and secondary sources, and information technology, e.g. social media and web-based information sources"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-10T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0384 ",
   "tbMainContact": "Tracy.Noble@hertfordshire.gov.uk",
   "involvedEmployers": "Hertfordshire County Council, CXK Limited, The Careers Group University of London, CareersInc Ltd, Education Development Trust, C & K Careers Ltd, The Futures Group, Career Connect, Inspira, Prospects Services, New Challenge, The JGA Group, Adviza Partnership",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -276,20 +291,28 @@
     "senior employability adviser",
     "Personal adviser"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Human Resources",
-  "cluster": "Human Resources Professional",
+  "cluster": "Human resources professional",
+  "clusterId": "7",
+  "clusterDescription": "Provision of high level human resource advice and leadership across an organisation combined with the ability to define strategic and operational organisation-wide human resource challenges and to develop lasting solutions",
   "createdDate": "2019-12-20T14:06:20 +00:00",
-  "lastUpdated": "2019-12-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/career-development-professional-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/career-development-professional-v1-0",
+  "lastUpdated": "2022-04-07T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-10T00:00:00 +00:00",
+  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "occupationCode": "OCC0694",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0694-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0694-v1-0",
   "qualifications": [
     {
       "qualificationId": "11d1d46f-0319-4376-bc45-9872ea2c36e5",
       "title": "A level 6 or higher career-related qualification (minimum of 60 credits) approved by the Career Development Institute as giving eligibility to the Register of Career Development Professionals. https://www.thecdi.net/write/Documents/CDI_UK_Register_Brochure-Feb_2018.pdf",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "6 (non-degree qualification)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -314,7 +337,7 @@
         "f93c3b61-15fb-4c15-97c8-234758b59985",
         "32054f57-8503-4e59-8d0d-d7292b8c403c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "712eb554-f4df-4921-aea4-e4b60371eba7",
         "09d24eaa-b711-45b9-925f-f9c9606a8232",
@@ -347,7 +370,7 @@
         "32054f57-8503-4e59-8d0d-d7292b8c403c",
         "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "a332ffe4-1374-42a1-8431-ad1d935be5b7",
@@ -374,7 +397,7 @@
       "mappedKnowledge": [
         "5c3bdeac-afa2-4991-9eff-76a1b7d86507"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "255b1ee5-d73a-4924-98f6-3f210ad28854",
@@ -395,7 +418,7 @@
         "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
         "61c4a687-10e6-434f-9cfb-b1ef8760fac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
         "f379fe21-b83b-4dbd-8179-e92333716721",
@@ -416,7 +439,7 @@
         "a473548d-0c4f-4d3c-8b39-878d9ebc9928",
         "5e6c676c-92c3-4797-9df9-392abaffaa8a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d282bac-ef1c-4da6-8a0d-b82f1c14bef2",
         "511612b3-7322-42fd-9b27-17f14579283e"
@@ -435,7 +458,7 @@
         "747de321-3d57-407a-8bf4-84334d912c35",
         "f1abb559-6a09-497a-a516-e466fd5efb99"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "13c247c5-a602-4de6-9572-71626379a64e",
         "a332ffe4-1374-42a1-8431-ad1d935be5b7",
@@ -455,7 +478,7 @@
       "mappedKnowledge": [
         "747de321-3d57-407a-8bf4-84334d912c35"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "09d24eaa-b711-45b9-925f-f9c9606a8232",
         "f379fe21-b83b-4dbd-8179-e92333716721",
@@ -482,7 +505,7 @@
         "34e3a19d-961d-4866-8f3a-415e8bd5a490",
         "32054f57-8503-4e59-8d0d-d7292b8c403c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "54b09ff5-1244-4853-a402-e97d5ddd7f21",
         "15a62551-90e8-4f23-b096-9ba6bc306f22",
@@ -511,7 +534,7 @@
         "34e3a19d-961d-4866-8f3a-415e8bd5a490",
         "ecbacae0-6ae0-4061-9826-f2e0c283a8f0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c73f2b82-a3cb-42d8-b172-27e657ee7ff3",
         "3bfab8c5-b71b-437d-aa80-91ceb59469ff",
@@ -521,5 +544,10 @@
       "criteriaForMeasuringPerformance": "A CDP should demonstrate a practical understanding of the policy framework,  current research, and expectations of clients and organisations, that enables them to critically evaluate and promote wider career development services"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-04-07T00:00:00"
 }
