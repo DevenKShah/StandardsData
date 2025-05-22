@@ -1,21 +1,36 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 432,
   "referenceNumber": "ST0633",
+  "learningAimClassCode": "",
   "title": "Arts therapist (degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/432",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0633",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2022-09-21T00:00:00",
   "earliestStartDate": "2019-04-05T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2022-02-20T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Using art, drama or music to carry out therapy interventions to improve a person’s mental, physical health and wellbeing.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "Arts",
+    "art",
+    "drama",
+    "music",
+    "health",
+    "mental health",
+    "wellbeing",
+    "therapist"
+  ],
   "jobRoles": [
     "Art therapist",
     "Dramatherapist",
@@ -23,12 +38,11 @@
     "Art psychotherapist"
   ],
   "entryRequirements": "&lt;p&gt;Apprentices will need to be proficient in art, drama or music before applying to this apprenticeship eg holding a degree or with experiential equivalence. In order to meet the HCPC requirements apprentices must be able to communicate in English to the standard equivalent to level 7 of the International English Language Testing System, with no element below 6.5, prior to entering the degree programme.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3664/arts-therapist-degree-assesment-plan.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3664/arts-therapist-degree-assesment-plan.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in health, education and social care. Arts Therapists work in a range of settings such as the NHS, local authorities, voluntary, or private sector, hospitals, clinics, education, shelters, hospices, or prisons.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to use art, drama or music to carry out therapy interventions to improve a person’s mental, physical health and wellbeing. Arts Therapists are both artists in their chosen field and psychological therapists. They use art, drama or music as their primary mode of communication. Arts therapies can help to enhance general development, autonomy, social interaction and communication skills and can support both mental and physical rehabilitation. They may be used to address anxiety, confusion, pain, trauma and depression and to improve quality of life. Arts Therapists help the individual to experience themselves and others in different ways through the arts therapy intervention. This is particularly helpful when emotions are too confusing to express verbally, when verbal communication is difficult, or when words are not enough to relay feelings. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide range of clients. Arts therapists may work across the full age range with clients who may have a wide range of difficulties, disabilities or diagnoses such as emotional, social, behavioural or mental health problems, learning or physical disabilities, injury, life-limiting conditions, neurological conditions or physical illnesses. Arts Therapy sessions may be delivered individually or in groups depending on the client’s needs. Arts therapists work closely with their team to provide and receive ongoing managerial, clinical and professional supervision and support. They also work with a range of wider stakeholders or organisations who may be involved in their client&#39;s care or support such as family, carers, education providers, health or social care services.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for managing a caseload of clients with a wide variety of problems using client-centred approaches to assess a client’s needs. They devise support plans that takes into account the complex psychological, emotional, cognitive, physical, communicative and social needs of the client. They build rapport with clients and create a safe environment to help them to develop their self-awareness and self-confidence and to improve their functioning and promote mental well-being.&lt;/p&gt;",
   "knowledges": [
     {
@@ -400,25 +414,28 @@
       "detail": "Reflect on, review and continuously improve and develop your own psychological and arts-based practice, supporting others to do the same."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
-    "contactName": "Pete Moss ",
-    "contactAddress": "Open Awards Estuary Commerce Park<br>17 De Havilland Dr<br>Speke<br>Liverpool<br>L24 8RN",
-    "contactEmail": "EQA@openawards.org.uk",
-    "webLink": ""
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-04-05T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-integrated degree",
   "tbReference": "TB0088 ",
   "tbMainContact": "Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "East London NHS Foundation Trust, West London Mental Health NHS Trust, Cambridge County Council, Central and North  West London NHS Foundation Trust, Chiltern Music Therapy, Chroma Therapies Ltd t/a Chroma, Inspirative Arts Derby CIC, Oxleas NHS Foundation Trust, South London & Maudsley Mental Health NHS Trust, Surrey & Borders NHS Partnership Trust, Attune Therapies, East London NHS Foundation Trust, Guildhall School of Music and Drama, Hertford City Council, Northumberland, Tyne and Wear NHS Foundation Trust, Royal Hospital for Neuro Rehabilitation London, Sheffield Health and Social Care NHS Trust, Anglia Ruskin University, Chester University, Herts University, British Association of Art Therapists (BAAT), British Association of Music Therapy (BAMT)",
+  "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Health and Care Professions",
   "coreAndOptions": false,
@@ -428,20 +445,28 @@
     "Music therapist",
     "Art psychotherapist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Practitioner",
+  "cluster": "Health practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2019-12-19T14:37:44 +00:00",
-  "lastUpdated": "2019-12-19T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-(degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/arts-therapist-(degree)-v1-0",
+  "lastUpdated": "2022-09-21T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-04-05T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0633",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0633-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0633-v1-0",
   "qualifications": [
     {
       "qualificationId": "e47fd33f-7432-401d-b429-d79eb4daa870",
       "title": " MSc/MA in either Art Therapy/Art Psychotherapy, Dramatherapy or Music Therapy accredited by the Health and Care Professions council (HCPC)",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "7 (non-degree qualification)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -460,7 +485,7 @@
         "ed6f908c-6364-417c-b6da-c997faac219b",
         "7828b3f6-370b-4965-a683-8d8532bb1fac"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42088205-adae-45a3-a875-70ef1d83c935",
         "e79bc6c6-76d4-4ced-a184-c23e40eddaa9",
@@ -480,7 +505,7 @@
         "4dd741b8-ff68-49a0-b4f9-7ade73b7b018",
         "775362b2-250f-47f8-aea9-61d900afcb66"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "726992f4-55fb-4aa9-b4bc-fe2b9a841d72",
         "7ea05faf-2aa1-4ef7-9935-fae97501f0ea",
@@ -505,7 +530,7 @@
         "6c891bcf-9ef6-4139-bb6f-c049510c51c2",
         "c7a82505-18d5-4ad5-809b-331a22295740"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "08cff79a-4341-4426-bc28-df2a0ebc4a69",
         "0cc48211-758c-435d-90c7-a264ccf65e8e"
@@ -528,7 +553,7 @@
         "bb80607f-d3fe-42b2-ab9f-4e8acc5cf582",
         "9f68bb4f-cdeb-4189-94fe-6165cb4978d7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dec2cf28-b1bb-4d50-bcc2-605747b8b62b",
         "cfffa5d4-9fcb-4c27-bdb0-336681158edf",
@@ -550,7 +575,7 @@
         "cffb3480-4842-447b-8727-59719e7d2e3f",
         "4349a33d-4b07-437b-a8a8-172db1dad005"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dd7c5a25-1a99-4c59-ae07-6812029997fd"
       ],
@@ -569,7 +594,7 @@
         "5d71cf12-0584-424f-aba6-6eec951a8322",
         "6c7f97a7-34db-401c-b2eb-b80ba242eab5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c2bbb53c-e499-48e0-a778-455836f28ca6"
       ],
@@ -590,7 +615,7 @@
         "14b23865-1fdb-4137-9a71-e350be271ec8",
         "330ef371-8f1d-4e90-8a83-40627f040e6c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aee3d54a-9870-4d4a-ac07-9d8d22f5a13c",
         "2f86202d-6cf9-499f-ad6f-6532a0f9d760"
@@ -610,7 +635,7 @@
         "da9a3869-4718-41ef-82e4-e769f6212328",
         "33053dfd-2cad-465d-a763-539fc4050c07"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "48ccff66-1b11-4249-9d94-2efde2748acd",
         "b7551551-2d05-4599-b1e6-c496768c6c4f"
@@ -630,7 +655,7 @@
         "48da1913-6532-481e-bf1b-f075acc116f1",
         "1fe17494-f4d0-4ae7-8c9a-7ad8ab802ac0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b3bb6826-9e00-44ec-bb25-d7f79b3482af"
       ],
@@ -647,7 +672,7 @@
         "8fbed071-268b-4894-8954-efd9248bacc8",
         "f3af64e0-3b94-4aab-828c-6cd1225bfe32"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "87e545ce-e5b8-471a-b095-2b5f5f0ba6c5"
       ],
@@ -668,7 +693,7 @@
         "962623e4-5eec-41c9-adab-b216e8b0f553",
         "0fa67fcb-0e43-4245-ac35-eb197a2df3af"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "affcd721-7385-4775-9e74-6f51f5b6fd77",
         "7dd2a66e-3b83-40cb-b589-da8a0627abb5"
@@ -687,7 +712,7 @@
       "mappedKnowledge": [
         "8b3284c9-6909-48ae-8d53-95d46bb2eef0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "9c09e983-af77-4375-8983-9aac60528e1f",
         "fb614ad9-661d-4b34-96a5-5c35a2bb4f57"
@@ -709,7 +734,7 @@
         "0e1d889c-edd2-4824-b246-9ed6ddbcc6fc",
         "f309e1e9-d78f-4d36-8db4-e63a1d053716"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "2fa99792-f673-40b5-ad4f-bd81fe5addeb",
         "0875da9b-c5ca-40ec-9850-dd8d80714d83"
@@ -732,7 +757,7 @@
         "d36def2b-7959-42ce-a16e-33de63a0b9cb",
         "ffa4fe2b-36f5-487c-a84e-3a3f286103da"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "4387d58c-b8ae-4f85-b9f4-8ec6fecefbdf",
         "ed368542-3fcf-4b3a-8708-72d3726480b2",
@@ -753,7 +778,7 @@
         "4da1f5ef-faf0-4529-aa90-52c05ff6a147",
         "10f0fb9a-a7e9-43f9-a12c-ecbe14c7fa2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6437ef1d-4954-4593-a50a-147efc2c4bed"
       ],
@@ -773,21 +798,28 @@
         "4de54ce6-111b-4355-b70e-8c84a42cbc5b",
         "03f4f8f3-0c1a-44b6-90fa-ad932159409c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "62a602a3-61db-4bce-8dd0-6947f07a4194"
       ],
       "criteriaForMeasuringPerformance": "Adhere to HCPC Standards of Proficiency, Standards of Conduct,Performance and Ethics and Continuing Professional Development\n\nAdhere to the professional body’s code of ethics\n\nFollow relevant statutory, mandatory and local policies and procedures\n\nShow self-awareness, resilience and engage with reflective practice and process"
     }
   ],
+  "options": [],
   "regulationDetail": [
     {
       "name": "Training provider",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     },
     {
       "name": "EPAO",
-      "webLink": ""
+      "webLink": "",
+      "approved": true
     }
-  ]
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2022-09-21T00:00:00"
 }
