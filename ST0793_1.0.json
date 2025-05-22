@@ -1,21 +1,33 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 515,
   "referenceNumber": "ST0793",
+  "learningAimClassCode": "",
   "title": "New furniture product developer",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/515",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0793",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "",
-  "changedDate": null,
+  "changedDate": "2019-09-27T00:00:00",
   "earliestStartDate": "2019-09-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Developing new and improved furniture products such as domestic and office furniture",
+  "overviewOfRole": "Developing new and improved furniture products such as domestic and office furniture.",
   "level": 3,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
-  "keywords": [],
+  "keywords": [
+    "Furnishings and Interiors manufacturing industry",
+    "furniture products",
+    "design",
+    "furniture design",
+    "manufacturing"
+  ],
   "jobRoles": [
     "Furniture design technician",
     "Design technician",
@@ -25,13 +37,12 @@
     "Product developer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3514/st0793_new_furniture_product_developer_l3_for-publication_20092019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3514/st0793_new_furniture_product_developer_l3_for-publication_20092019.pdf",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.2 Crafts, creative arts and design",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2126 - Design and development engineers",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the Furniture, Furnishings and Interiors manufacturing industry. The UK furniture, bed and furnishings manufacturing is substantial with over 8,000 companies contributing over &#163;11 billion to the country’s GDP. Over a quarter of a million jobs are dependent on the success of the industry, with 118,000 in manufacturing alone. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is developing new and improved furniture products such as domestic and office furniture. New Furniture Product Developers develop new products or improve existing products so that the company can meet customers’ needs more effectively. They create design briefs using their knowledge of industry specific legislation and understanding of products and materials. They manage the furniture product development and improvement process from conception through to completion. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a range of people including production/manufacturing managers, quality technicians, product developers, engineers, purchasers, customers and suppliers. They understand design, testing, materials and manufacturing processes. &lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for working as part of a team, collaborating with marketing, technical, suppliers and manufacturing specialists throughout the product-development/improvement process. They will report to a senior member of staff such as the Design Director. A New Product Developer combines design, business and engineering skills to create products that meet both market and production requirements. They also test products both internally and externally.&lt;br /&gt;&lt;br /&gt;New Furniture Product Developers can work in a range of environments from small workshops to large factories.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the Furniture, Furnishings and Interiors manufacturing industry. The UK furniture, bed and furnishings manufacturing is substantial with over 8,000 companies contributing over &#163;11 billion to the country’s GDP. Over a quarter of a million jobs are dependent on the success of the industry, with 118,000 in manufacturing alone. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is developing new and improved furniture products such as domestic and office furniture. New Furniture Product Developers develop new products or improve existing products so that the company can meet customers’ needs more effectively. They create design briefs using their knowledge of industry specific legislation and understanding of products and materials. They manage the furniture product development and improvement process from conception through to completion. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a range of people including production/manufacturing managers, quality technicians, product developers, engineers, purchasers, customers and suppliers. They understand design, testing, materials and manufacturing processes. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for working as part of a team, collaborating with marketing, technical, suppliers and manufacturing specialists throughout the product-development/improvement process. They will report to a senior member of staff such as the Design Director. A New Product Developer combines design, business and engineering skills to create products that meet both market and production requirements. They also test products both internally and externally.&lt;br&gt;&lt;br&gt;New Furniture Product Developers can work in a range of environments from small workshops to large factories.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "c240bc13-4aa2-4ebd-b5b6-c1b7bc2faa45",
@@ -266,25 +277,28 @@
       "detail": "Develop and maintain effective working relationships"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-09-27T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0207 ",
   "tbMainContact": "ljwconsultancy@outlook.com",
   "involvedEmployers": "Senator, Harrison Spinks, Travis Perkins, Silentnignt, DFS, Hypnos, Roundhouse Design, Burbidge, Simpsons of Greenfield Mill Ltd, Mascari",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -296,14 +310,20 @@
     "Product designer",
     "Product developer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Technician",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development technician",
+  "clusterId": "255",
+  "clusterDescription": "Design and develop parts of product and/or process technologies",
   "createdDate": "2020-01-16T11:22:43 +00:00",
-  "lastUpdated": "2020-01-16T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/new-furniture-product-developer-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/new-furniture-product-developer-v1-0",
+  "lastUpdated": "2019-09-27T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; This apprenticeship will be retired from 12 August 2025. Current apprentices will be able to complete their programme.",
+  "occupationCode": "OCC0793",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0793-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0793-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -317,7 +337,7 @@
       "mappedKnowledge": [
         "c240bc13-4aa2-4ebd-b5b6-c1b7bc2faa45"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "aa86adf0-ec54-47c7-aa71-f3985bacfa65"
       ],
@@ -336,7 +356,7 @@
         "81134383-c7e1-41cf-b5e3-e6786c32177c",
         "0c985a1f-565f-42ba-b4f1-377d454b9441"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "777382d0-0e83-4be8-acd6-ea5b8c4de8fa",
         "d287ac9e-5b35-4100-897c-b4aa03c6171a"
@@ -364,7 +384,7 @@
         "6b229683-65e0-4999-ab42-e5bba75d5ac5",
         "ce5ecae9-2ebc-42cc-9dd2-3f398c78344f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1d814f52-2237-450b-839a-6a68516520c3",
         "490ede53-1597-42a5-bc96-533a4ff8e856",
@@ -385,7 +405,7 @@
         "ba6335b2-8328-4172-aad4-2c3db5004dae",
         "c9053dce-2579-43e5-b450-df0897c526fd"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "30011947-1561-4806-a40f-80bb5748e6cc"
       ],
@@ -406,7 +426,7 @@
         "bd949261-0a5f-4e6a-9c58-8682a97cff68",
         "0eb86348-14b3-41ac-ad77-ed0cad1c011d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d602d2e6-de1d-4cb8-ad8a-011f260fa8ca",
         "da6efba7-8e4c-451c-b138-a0a1b5a9eea2",
@@ -427,7 +447,7 @@
         "5cf35dd8-2215-47db-b6b8-43b56b703106",
         "0f8c2e1a-b845-4680-a970-ff46b26bf0c5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "36174337-63a0-400e-b93f-9662513038fe",
         "926d6aa3-7a1d-4658-806f-8ffc66ae8f6b"
@@ -445,7 +465,7 @@
       "mappedKnowledge": [
         "4ee86933-27b5-4686-a4de-c9239fd3e1f5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b700e1d1-b7f2-48fb-8a45-ccb0014bf263"
       ],
@@ -464,7 +484,7 @@
         "ada002fc-d317-43e9-9d86-a637e53d7baa",
         "3a5ce278-30e3-4740-bac2-b5c097709749"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "df658e47-1eb9-46a7-9544-2ed058b462da",
         "9573515d-dc22-4e44-9732-8e6d4514eef5"
@@ -482,7 +502,7 @@
       "mappedKnowledge": [
         "6c861717-e7f5-4246-95cb-7c52bf5ee3c9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d2f3c263-8f22-40f7-9406-449e4cbb59d8"
       ],
@@ -501,7 +521,7 @@
         "75c5c079-c570-4c0d-97bb-ca4d113339b7",
         "1abb6df2-fd8e-474e-b151-4c2e3e4d9cc5"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5875b1f6-668b-486f-afbc-3f7dd7a93531",
         "3e64b873-9534-446b-894c-2f44b04fc232"
@@ -509,5 +529,10 @@
       "criteriaForMeasuringPerformance": "delivered in line with customers' expectations"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2019-09-27T00:00:00"
 }
