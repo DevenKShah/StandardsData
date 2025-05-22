@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 494,
   "referenceNumber": "ST0554",
+  "learningAimClassCode": "",
   "title": "Sonographer (integrated degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/494",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0554",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "Approved for delivery",
-  "changedDate": "2020-12-07T00:00:00",
+  "change": "Retired",
+  "changedDate": "2021-08-11T00:00:00",
   "earliestStartDate": "2019-08-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2021-08-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Conducting diagnostic and screening ultrasound examinations.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "Sonographer",
@@ -28,13 +34,12 @@
     "Sonographer"
   ],
   "entryRequirements": "&lt;p&gt;&lt;span&gt;Individual employers will set the selection criteria for appointing apprentices; candidates typically will have 5 GCSEs including English and Maths A-C or 4 and above, and 3 A-levels A-C including one science, or equivalent qualifications.&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3421/st0554_sonographer_l6_-assessment-plan-for-publication_160819.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3421/st0554_sonographer_l6_-assessment-plan-for-publication_160819.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the health sector and includes the NHS and private healthcare providers working in hospitals and clinics.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to conduct diagnostic and screening ultrasound examinations. Ultrasound is the use of highly specialised scanning equipment to create echoes of high-frequency sound waves that can be bounced off body tissues. The echoes are then converted into an image called a sonogram. Ultrasound imaging allows an inside view of soft tissues and the body, to examine anatomy and identify problems. Sonographers perform and report a wide range of clinical ultrasound examinations within a defined area of practice. They undertake scans which may include but are not limited to cancer detection, women&#39;s health and pregnancy, abdominal, vascular and musculoskeletal examinations, although their individual scope of practice can be wide and varied. It requires extremely good hand-eye coordination, spatial awareness and excellent interpersonal skills.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with patients, their carers, members of the public and a range of healthcare professionals, e.g. doctors, midwives, nurses and radiographers. The sonographer will be competent to practice independently in this discipline but will work as part of a wider clinical team. They are independent professional practitioners responsible for managing their own work and for a wide range of specialist ultrasound scanning equipment and resources. They typically report to advanced practitioners, and may supervise healthcare assistants and clinical support workers.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the health sector and includes the NHS and private healthcare providers working in hospitals and clinics.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to conduct diagnostic and screening ultrasound examinations. Ultrasound is the use of highly specialised scanning equipment to create echoes of high-frequency sound waves that can be bounced off body tissues. The echoes are then converted into an image called a sonogram. Ultrasound imaging allows an inside view of soft tissues and the body, to examine anatomy and identify problems. Sonographers perform and report a wide range of clinical ultrasound examinations within a defined area of practice. They undertake scans which may include but are not limited to cancer detection, women&#39;s health and pregnancy, abdominal, vascular and musculoskeletal examinations, although their individual scope of practice can be wide and varied. It requires extremely good hand-eye coordination, spatial awareness and excellent interpersonal skills.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with patients, their carers, members of the public and a range of healthcare professionals, e.g. doctors, midwives, nurses and radiographers. The sonographer will be competent to practice independently in this discipline but will work as part of a wider clinical team. They are independent professional practitioners responsible for managing their own work and for a wide range of specialist ultrasound scanning equipment and resources. They typically report to advanced practitioners, and may supervise healthcare assistants and clinical support workers.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "5efa5b2b-ea35-4b07-ae29-49f3c9a7781c",
@@ -349,57 +354,68 @@
       "detail": "Use basic life support techniques and be able to deal safely with clinical emergencies"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2019-08-16T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0334",
   "tbMainContact": "alison.mcguiness@nhs.net, Healthcare.Trailblazer@skillsforhealth.org.uk",
   "involvedEmployers": "Heart of England NHS Foundation Trust, Imperial College Healthcare NHS Trust, Mid-Yorkshire Hospitals NHS Foundation Trust, North West Surgeons, Royal Liverpool and Broadgreen, University Hospitals NHS Trust, Sheffield Teaching Hospitals NHS Foundation Trust, Sherwood Forest Hospitals NHS Foundation Trust, Thisismy: Screening and Ultrasound Centre, University Hospitals Bristol NHS Foundation Trust, University Hospitals of Derby and Burton NHS Foundation Trust, University Hospital Southampton NHS Foundation Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
   "typicalJobTitles": [
     "Sonographer"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Health",
-  "cluster": "Health Professional",
+  "cluster": "Health professional",
+  "clusterId": "6",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-01-09T10:18:26 +00:00",
-  "lastUpdated": "2020-01-09T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/sonographer-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/sonographer-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-08-11T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-08-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0554",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0554-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0554-v1-0",
   "qualifications": [
     {
       "qualificationId": "72628a43-89bc-41fb-9d16-7699d245b198",
       "title": " BSc Honours Ultrasound; BSc Honours Medical Ultrasound; BSc Honours Diagnostic Imaging; BSc Honours Diagnostic Ultrasound; BSc Honours Medical Imaging (Ultrasound); BSc Honours Ultrasound Imaging",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "Society and College of Radiographers",
-      "level": "0",
+      "level": " Sonographer",
       "isPartial": "",
       "partialFreeText": ""
     },
     {
       "bodyName": "British Medical Ultrasound Society ",
-      "level": "0",
+      "level": " Sonographer",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -435,7 +451,7 @@
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -483,7 +499,7 @@
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -526,7 +542,7 @@
         "50cb7174-4127-4271-b58d-a84d5d94417a",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -571,7 +587,7 @@
         "13c9380e-dcbf-4f03-bf03-c544921890bb",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -610,7 +626,7 @@
         "9a13c81b-ef9a-4b0b-9e30-e9e523e60601",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -664,7 +680,7 @@
         "c2e48718-83ad-41c9-90a0-710e57f22f64",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -707,7 +723,7 @@
         "0161704a-2120-408c-976a-8dbc8bf760cc",
         "db4b455d-38cb-4d7e-9f38-4b68bc8ed5ce"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f6cddb57-ec7b-491d-9d69-7207dd6b3fea",
         "83a657f4-415e-4806-9253-8bc683ab657b",
@@ -744,7 +760,7 @@
         "9baaeb5b-bb0d-455a-ae90-6ce7e1baa368",
         "13c9380e-dcbf-4f03-bf03-c544921890bb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -787,7 +803,7 @@
         "13c9380e-dcbf-4f03-bf03-c544921890bb",
         "50cb7174-4127-4271-b58d-a84d5d94417a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b03624cb-41f5-410c-b6c7-93ba8bc3b1a7",
         "0d30b085-3ad3-42bf-81f3-7ae93e0de615",
@@ -828,7 +844,7 @@
         "13c9380e-dcbf-4f03-bf03-c544921890bb",
         "50cb7174-4127-4271-b58d-a84d5d94417a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "0d30b085-3ad3-42bf-81f3-7ae93e0de615",
         "d9372485-9474-4b1f-80f4-fe25df11131c",
@@ -875,7 +891,7 @@
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -930,7 +946,7 @@
         "9baaeb5b-bb0d-455a-ae90-6ce7e1baa368",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42649f38-f27c-4d71-b382-d6a75a0817ec",
         "bd9eafbf-33e6-4034-b1e7-806d0c6394c7",
@@ -978,7 +994,7 @@
         "9a13c81b-ef9a-4b0b-9e30-e9e523e60601",
         "f8b3d723-b871-4b6a-90b1-24e8c485f755"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -1018,7 +1034,7 @@
         "50cb7174-4127-4271-b58d-a84d5d94417a",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e3797838-aac4-4e64-8053-9c78b2dd2768",
         "24bc0594-e767-4a85-9d6f-c89e99b9dc3b",
@@ -1064,7 +1080,7 @@
         "13c9380e-dcbf-4f03-bf03-c544921890bb",
         "50cb7174-4127-4271-b58d-a84d5d94417a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "42649f38-f27c-4d71-b382-d6a75a0817ec",
         "816c34b6-2f42-4ca1-af5e-8f291a3b5a09",
@@ -1093,7 +1109,7 @@
         "1e6092d9-0479-482f-b337-6664875dfa14",
         "c2e48718-83ad-41c9-90a0-710e57f22f64"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "816c34b6-2f42-4ca1-af5e-8f291a3b5a09",
         "f91f637f-3460-46ac-9052-52bed795207f",
@@ -1123,7 +1139,7 @@
         "c2e48718-83ad-41c9-90a0-710e57f22f64",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1c8c4172-7491-4ec3-88df-81aea81e7e7d",
         "bd9eafbf-33e6-4034-b1e7-806d0c6394c7",
@@ -1149,7 +1165,7 @@
         "0161704a-2120-408c-976a-8dbc8bf760cc",
         "1e6092d9-0479-482f-b337-6664875dfa14"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "83a657f4-415e-4806-9253-8bc683ab657b",
         "18926e55-7b67-4f01-978f-6915f27e8bc1",
@@ -1184,7 +1200,7 @@
         "50cb7174-4127-4271-b58d-a84d5d94417a",
         "19a098b7-dfb1-4ed3-9e33-cd32fd03cdf0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "27393976-cbe4-4db2-86b6-1287d68d91e0",
         "014492c2-92f4-4adc-a4ab-e6434364c918",
@@ -1195,5 +1211,10 @@
       "criteriaForMeasuringPerformance": "Works in line with legislation, standards, codes of conduct, national and local policies and procedures relevant to practice as a sonographer"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-08-11T00:00:00"
 }
