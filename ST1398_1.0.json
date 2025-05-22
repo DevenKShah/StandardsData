@@ -1,0 +1,617 @@
+{
+  "templateType": "Occupational Standard",
+  "larsCode": 795,
+  "referenceNumber": "ST1398",
+  "learningAimClassCode": "",
+  "title": "Machine learning engineer",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1398",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.0",
+  "change": "Approved for delivery",
+  "changedDate": "2024-12-18T00:00:00",
+  "earliestStartDate": "2024-12-18T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "The ML Engineer gathers data from different sources to design, build, deploy and validate machine learning and or artificial intelligence solutions.\n\n",
+  "level": 6,
+  "ePALength": 4,
+  "typicalDuration": 24,
+  "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [
+    "digital",
+    "machine learning",
+    "artificial intelligence",
+    "data",
+    "design",
+    "analysis"
+  ],
+  "jobRoles": [
+    "Ai engineer",
+    "Big data engineer",
+    "Machine learning engineer",
+    "Machine learning operations engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "1.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of public and private sector organisations who increasingly work with machine learning (ML) systems and AI automation that can serve all industries and sectors such as agriculture, environmental and animal care, business and administration, care services, catering and hospitality, construction and the built environment, creative &amp;amp; design, digital, education, engineering &amp;amp; manufacturing, health and science, legal, finance and accounting, protective services, sales, marketing and procurement, transport and logistics.&lt;/p&gt;\n&lt;p&gt;ML Engineers gather data from different sources to design, build, deploy and validate machine learning and or artificial intelligence solutions. They ensure that data is sourced responsibly and analysed to a high standard, aligning the use of ML solutions with the organisations business goals. They build ML models in an innovative, safe and sustainable way, selecting features that will help the model learn effectively by using the right algorithm for the task. Once the ML model is trained, they evaluate its performance and deploy it into the live environment. They streamline the process of taking ML models into production, and then maintain and monitor them. Continuous monitoring is essential to maintain the ML models accuracy. They manage the lifecycle of ML systems &amp;amp; models from initial deployment, to testing and updating of the next iteration, using industry best practice and frameworks to ensure fast, simple and reliable ML pipelines. They would identify as AI professionals, conversant in operating in settings of technical complexity and uncertainty. They can interface effectively across the organisation to communicate the correctness of their engineered technical solutions.&lt;/p&gt;\n&lt;p&gt;A ML engineer will work with a variety of professionals who work together to facilitate the successful development, deployment and adoption of ML systems and models, working with minimal supervision, ensuring they are meeting deadlines and interacting with Data Scientists for analytical guidance, Data Engineers for data preparation, Software Engineers for integration, Product Managers for product strategy, QA Engineers for testing, DevOps Engineers for deployment, UI/UX Designers for user interface design, Business Analysts for requirement analysis and stakeholders or clients for feedback and updates.&amp;nbsp; They typically report to either the Senior ML Operations Engineer, Product Manager ML, AI Specialist, AI Engineering Manager or Client.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;A ML engineer will provide clear technical support communicating complex information to stakeholders and across the organisation inputting into systems documentation, with details around risks and potential mitigation actions in line with the correct organisational standards. They are responsible for meeting quality requirements and working in accordance with health and safety and environmental considerations. They will work according to organisational procedures and policies, to maintain security and compliance and be responsible for ensuring compliance with data governance, ethics, environmental, sustainability and security policies.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "bf61f4ac-69ea-4fee-beb7-db875695dc44",
+      "detail": "The purpose, methodologies and applications for ML AI solutions such as Machine Learning, Computer (Machine) Vision, batched learning systems, Robotics, Generative Transformer Models and Natural & Large Language Processing (NLP and LLMs) Models. "
+    },
+    {
+      "knowledgeId": "abe4d36a-e51c-4424-ba3b-d317c364246d",
+      "detail": "The stages of the machine learning lifecycle. Including establishing the model objectives, data preparation, building and training the model, ML problem framing, testing and evaluating the model using the preferred framework, deploying the modelling and monitoring, maintaining and updating the model using process frameworks such as Quality Assurance and either online, continuous (CLS) or batched learning systems.  "
+    },
+    {
+      "knowledgeId": "b25601b0-fa9d-4338-aa61-883484ab4e64",
+      "detail": "Vulnerabilities related to confidentiality, authentication, non-repudiation, service integrity, network security, planned or unplanned adversarial danger, threat or attack, host OS security, physical security and the implications and preventative mitigations for these at all stages of the machine learning lifecycle."
+    },
+    {
+      "knowledgeId": "958588d5-9ff5-4510-9163-589dcb2be988",
+      "detail": "Project Management methodologies and techniques for machine learning activities such as CRISP-ML Cross Industry Standard Process."
+    },
+    {
+      "knowledgeId": "8ad73936-97dc-48e0-b256-e3ff63449e78",
+      "detail": "Differences and applications of machine learning methods, and models such as: supervised learning; semi supervised learning; unsupervised learning; natural language processing ; reinforcement learning; ensemble learning; predictive using tools for experiment tracking, orchestration, versioning, deployment and monitoring. "
+    },
+    {
+      "knowledgeId": "eb8f9993-1484-4c13-a0ec-d2c87168310b",
+      "detail": "The risks that might occur for example bias, security, quality or over fitting in the product lifecycle during building, testing and through to deployment of ML models in the live environment. "
+    },
+    {
+      "knowledgeId": "adaec311-3ce4-42a3-a5f8-10cf5e336563",
+      "detail": "How to identify and select the performance metrics of the proposed model in the context of the business need."
+    },
+    {
+      "knowledgeId": "0a0592c8-29a4-4692-b905-83a94c054577",
+      "detail": "The processes used to identify variables and features that can impact stability of model performance during testing and when applying changes to existing models in the live environment. "
+    },
+    {
+      "knowledgeId": "9a27819a-ad55-4ead-add9-94f045755450",
+      "detail": "The importance of feature engineering, selection and pre-processing in effective machine learning. "
+    },
+    {
+      "knowledgeId": "51568d24-078e-4980-8f7b-d9e486f7f6a8",
+      "detail": "Machine learning implementation principles for data engineering solutions including quality, security, efficiency, validity, training, testing and tuning."
+    },
+    {
+      "knowledgeId": "3fa9a125-1e28-4d7f-b53d-692fae6e0b6a",
+      "detail": "How machine learning methods are applied to maximise the impact to the organisation. "
+    },
+    {
+      "knowledgeId": "a9cb3a1f-215d-4166-855f-844876391d90",
+      "detail": "Deployment approaches for new data pipelines and automated processes."
+    },
+    {
+      "knowledgeId": "038adbd7-272a-44cc-94e2-7c349f38c0c6",
+      "detail": "Data and information security standards, ethical practices, policies and procedures relevant to data management activities such as data lineage, data retention and metadata management."
+    },
+    {
+      "knowledgeId": "55e35abd-124a-4ff2-8268-aa07906d2f4f",
+      "detail": "Change management processes for ML solutions; recording and logging change using appropriate tools and documentation. "
+    },
+    {
+      "knowledgeId": "452bb70b-13a2-44dd-8912-cf8358bec706",
+      "detail": "The implications of data types ( for example variety, quality, formats) on security, scalability, governance for ML and or AI infrastructure, and cost of local, remote or distributed solutions such as cloud and other SaaS and PasS ML/AI providers. "
+    },
+    {
+      "knowledgeId": "0f98816a-43ab-43a1-a9d5-0177352d75e3",
+      "detail": "How to use programming languages, integrated development environments and modern machine learning libraries. "
+    },
+    {
+      "knowledgeId": "ede68003-5422-4d44-8c8b-f5e6af9ea178",
+      "detail": "Principles for engineering environmentally sustainable ML solutions, that support organisational strategies and objectives for environmental sustainability."
+    },
+    {
+      "knowledgeId": "207c7cd8-3204-40e7-ab02-3bf71d154b52",
+      "detail": "The relationship between mathematical principles and core techniques in machine learning and data science within the organisational context."
+    },
+    {
+      "knowledgeId": "6f472b7f-b215-46e3-8402-9a4fa18d1df2",
+      "detail": "How to solve problems and evaluate software solutions via analysis of test data including synthetic data  and results from research, feasibility, acceptance and usability testing."
+    },
+    {
+      "knowledgeId": "1d12c966-d29d-4807-94f6-ad814a8df2c5",
+      "detail": "Sources of error and algorithmic bias, including how they may be affected by choice of dataset and methodologies applied using practices such as Explicability and Explainable AI (XAI)."
+    },
+    {
+      "knowledgeId": "22d7565c-d126-4045-81d2-1aa3d3f7c2ea",
+      "detail": "The methods and techniques used to communicate concepts and messages to meet the needs of the audience, adapting communication techniques accordingly."
+    },
+    {
+      "knowledgeId": "1f7deba8-cd5c-4a81-ae92-a7f3fd042404",
+      "detail": "Approaches and strategies to stakeholder engagement including engagement with the end user "
+    },
+    {
+      "knowledgeId": "82c5bdeb-28dd-4376-a00c-4afd01c1b271",
+      "detail": "How machine learning and data science techniques support and enhance the work of other members of the team."
+    },
+    {
+      "knowledgeId": "94d8faf5-4fbd-4ea1-a670-17ec7ffc5439",
+      "detail": "Concepts of data governance, including regulatory requirements, data privacy, security, trustworthiness and quality control."
+    },
+    {
+      "knowledgeId": "0b7b7d9f-4fb9-4a3e-a923-f303948247fd",
+      "detail": "Legislation, regulation, governance and guidance assurance frameworks for example AREA or SAFE D and their application to the safe interoperable use of data, machine learning and artificial intelligence. "
+    },
+    {
+      "knowledgeId": "3ce26ef9-20a3-41e6-bc99-94330826b716",
+      "detail": "The ethical aspects associated with the use and collation of data and machine learning models."
+    },
+    {
+      "knowledgeId": "b0a3589c-f05a-4f69-a6f4-8c10f03dd491",
+      "detail": "What the cyber security culture in an organisation is, and how it may contribute to security risk."
+    },
+    {
+      "knowledgeId": "7af6def2-703a-4f9b-81f3-a9c9b00755e1",
+      "detail": "How to identify trends and emerging technologies to ensure knowledge is up to date with new developments in machine learning and AI such as AI embedded within tooling."
+    },
+    {
+      "knowledgeId": "5897bcf5-3891-4b6e-869a-062e1e497bc2",
+      "detail": "How own role supports ML solutions in accordance with organisational strategies, business requirements, Corporate Governance Principles, Social Corporate Responsibilities, legal regulations and Ethical Practices."
+    },
+    {
+      "knowledgeId": "4fbc6fbf-2edd-4957-8da0-26b68e7e2af6",
+      "detail": "AI based approaches, including those provided by third-party vendors’ (Application Programming Interfaces), into existing and new processes. "
+    },
+    {
+      "knowledgeId": "4ccd3289-b0ca-4975-84c9-9b7299663f8e",
+      "detail": "Software development best practices; for example, software testing, version control, continuous integration and continuous delivery."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "eca0c402-c672-4882-92dc-4d8a3f304932",
+      "detail": "Uses initiative and innovation concerning new and emerging technologies through self directed learning and horizon scanning."
+    },
+    {
+      "behaviourId": "148a160f-0b1a-4215-b322-f59bee75e2c2",
+      "detail": "Takes personal responsibility and prioritises sustainable outcomes in how they carry out the duties of their role."
+    },
+    {
+      "behaviourId": "554f986a-57d8-4545-b078-861060059c2b",
+      "detail": "Acts inclusively when collaborating with people from technical and non-technical backgrounds. Contributing to knowledge sharing, management and empowerment across the broader team. "
+    },
+    {
+      "behaviourId": "dabbd69d-9742-4f52-aecc-f74022b6cbd5",
+      "detail": "Acts with integrity, giving due regard to legal, ethical and regulatory requirements."
+    },
+    {
+      "behaviourId": "43a000f6-3571-416b-a1d3-ad896e69a9de",
+      "detail": "Operates in settings of technical complexity and uncertainty."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "7ee5d67b-f2dd-43cc-9d25-07425308f57a",
+      "detail": "Assess vulnerabilities of the proposed design, to ensure that security considerations are built in from inception and throughout the development process."
+    },
+    {
+      "skillId": "8110a214-6ad0-4442-9614-ffae2173a7dc",
+      "detail": "Translate business needs and technical problems to scope machine learning engineering solutions. "
+    },
+    {
+      "skillId": "5deeca0f-c9de-4c0c-8c01-d34a0aa76f6d",
+      "detail": "Select and engineer data sets, algorithms and modelling techniques required to develop the machine learning solution."
+    },
+    {
+      "skillId": "72e730b9-e6af-42de-9a99-0d8344bda73f",
+      "detail": "Apply methodologies and project management techniques for the machine learning activities. "
+    },
+    {
+      "skillId": "fe1d2af1-57c8-459b-b329-3a21b06e4280",
+      "detail": "Create and deploy models to produce machine learning solutions."
+    },
+    {
+      "skillId": "5bffd58b-d767-4e70-8f19-0595ae4b5afc",
+      "detail": "Document the creation, operation and lifecycle management of assets during the model lifecycle."
+    },
+    {
+      "skillId": "522714c3-32ee-4c9c-9c98-635e5bbb03ce",
+      "detail": "Apply techniques for output model testing and tuning to assess accuracy, fit, validity and robustness."
+    },
+    {
+      "skillId": "0030e4ab-03ea-434a-93f7-e85fabcbd552",
+      "detail": "Assess system vulnerabilities and mitigate the threats or risks to assets, data and cyber security."
+    },
+    {
+      "skillId": "0e119e30-c9c6-459c-9bb2-10454c493411",
+      "detail": "Refine or re-engineer the model to improve solution performance."
+    },
+    {
+      "skillId": "58c4e08b-7630-427c-972e-67b682020b51",
+      "detail": "Apply techniques for monitoring models in the live environment to check they remain fit for purpose and stable."
+    },
+    {
+      "skillId": "3125210e-765e-4ea8-be28-f196c631623b",
+      "detail": "Consider the associated regulatory, legal, ethical and governance issues when evaluating choices at each stage of the data process."
+    },
+    {
+      "skillId": "4c85b349-5c9f-4acc-8790-36990a41b1ce",
+      "detail": "Apply machine learning and data science techniques to solve complex business problems."
+    },
+    {
+      "skillId": "0500ee68-da7d-4dda-a3f6-b5d12340a5bb",
+      "detail": "Track and test continual learning models."
+    },
+    {
+      "skillId": "a85ef042-af30-420f-bc7b-ea06a4155827",
+      "detail": "Analyse test data, interpret results and evaluate the suitability of proposed solutions both new and inherited models, considering current and future business requirements."
+    },
+    {
+      "skillId": "3808ad6f-7f87-456b-b841-5590e1cda0b6",
+      "detail": "Identify, consider and advocate for ML solutions to deliver an environmental and operational sustainable outcome. "
+    },
+    {
+      "skillId": "ad152d3e-a496-4d33-b739-bcf942c19d61",
+      "detail": "Transition prototypes into the live environment."
+    },
+    {
+      "skillId": "d46b099b-2ce3-465b-a13f-7f61f4041765",
+      "detail": "Complete audit activities in compliance with policies, governance, industry regulation and standards. "
+    },
+    {
+      "skillId": "86cb285c-26f9-4d65-b9d4-a2ffd17843d9",
+      "detail": "Consider the risks with using digital and physical supply chains. "
+    },
+    {
+      "skillId": "78b15a0f-e7f7-433b-a3c5-2b942bd6f08e",
+      "detail": "Ensure the model capacity is scaled in proportion to the operating requirements."
+    },
+    {
+      "skillId": "cef3bdad-3b0f-49b7-ba7b-a7d004918644",
+      "detail": "Support the evaluation and validation of machine learning models and statistical evidence to minimise algorithmic bias being introduced."
+    },
+    {
+      "skillId": "129756f6-c7a3-4179-bd4c-eb8e314cffe3",
+      "detail": "Monitor data curation and data quality controls including for synthetic data.  "
+    },
+    {
+      "skillId": "56f2cf1b-b8d3-4308-a5dc-3f76050f7232",
+      "detail": "Identify and select the machine learning or artificial intelligence platform architecture and specific hardware, to contribute to solving a computational problem using allocated resources. "
+    },
+    {
+      "skillId": "7e816134-6b33-4583-8886-0d84c10f10b3",
+      "detail": "Identify and embed changes in work to deliver sustainable outcomes."
+    },
+    {
+      "skillId": "ef0cdb29-4c86-49d4-8bd2-68a8b03a0dc2",
+      "detail": "Monitor model data drift, using performance metrics to ensure systems are robust when moving outside of their domain of applicability."
+    },
+    {
+      "skillId": "48db8fd2-0511-4724-a51e-479d92486ab8",
+      "detail": "Develop a process to decommission assets in line with policy and procedures. Manage current and legacy models in line with industry approaches."
+    },
+    {
+      "skillId": "250357ce-8b5d-4418-92fa-c6af25a75e27",
+      "detail": "Undertake independent, impartial decision-making respecting the opinions and views of others in complex, unpredictable and changing circumstances."
+    },
+    {
+      "skillId": "69db76d3-719d-4daa-ab78-e7e1905d6961",
+      "detail": "Coordinate, negotiate with and manage expectations of diverse stakeholders suppliers and multi-disciplinary teams with conflicting priorities, interests and timescales."
+    },
+    {
+      "skillId": "dbf8b98d-6e0d-4049-b025-715df30662cb",
+      "detail": "Produce and maintain technical documentation explaining the data product, that meets organisational, technical and non-technical user requirements, retaining critical information."
+    },
+    {
+      "skillId": "e9e38841-1a46-446a-8303-68582d2450d5",
+      "detail": "Create and disseminate reports, presentations and other documentation that details the model development to confirm stakeholder approval for handover to implementation."
+    },
+    {
+      "skillId": "af8de4ce-6298-418a-a91c-df1a09853dc5",
+      "detail": "Comply with equality, diversity, and inclusion policies and procedures in the workplace."
+    },
+    {
+      "skillId": "9cad3c17-d7cd-4329-ab7d-9205135d13e6",
+      "detail": "Horizon scan to identify new technological developments that offer increased performance of data products."
+    },
+    {
+      "skillId": "8150d75a-fdc9-4909-b75c-71de544e7311",
+      "detail": "Apply Machine Learning principles and standards such as, organisational policies, procedures or professional body requirements."
+    },
+    {
+      "skillId": "00e3f824-9d62-4951-ac7a-b84f0f1546da",
+      "detail": "Integrate AI-based approaches, including those provided by third-party vendors’ Application Programming Interfaces, into existing and new processes. "
+    },
+    {
+      "skillId": "25f3c2c8-5817-46f3-9373-c1918e14c6fb",
+      "detail": "Proactive identification of the potential for automation for example through AI solutions embedded within tooling."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2024-12-18T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "non-degree qualification",
+  "tbReference": "TB0843",
+  "tbMainContact": "huw.davies@bbc.co.uk",
+  "involvedEmployers": "",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Ai engineer",
+    "Big data engineer",
+    "Machine learning engineer",
+    "Machine learning operations engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Business information professional",
+  "clusterId": "233",
+  "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
+  "createdDate": "2025-05-02T11:14:35 +00:00",
+  "lastUpdated": "2024-12-18T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1398",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1398-v1-0",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "BCS, The Chartered Institute for IT ",
+      "level": "Advanced RITTech",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "6e70aeb4-2447-480a-96a4-6624da5a19bb",
+      "dutyDetail": "Ensure that machine learning and artificial intelligence engineered solutions are implemented in a safe, trusted and responsible manner.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "dabbd69d-9742-4f52-aecc-f74022b6cbd5",
+        "43a000f6-3571-416b-a1d3-ad896e69a9de"
+      ],
+      "mappedKnowledge": [
+        "94d8faf5-4fbd-4ea1-a670-17ec7ffc5439",
+        "0b7b7d9f-4fb9-4a3e-a923-f303948247fd",
+        "3ce26ef9-20a3-41e6-bc99-94330826b716",
+        "5897bcf5-3891-4b6e-869a-062e1e497bc2",
+        "4fbc6fbf-2edd-4957-8da0-26b68e7e2af6",
+        "4ccd3289-b0ca-4975-84c9-9b7299663f8e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e9e38841-1a46-446a-8303-68582d2450d5",
+        "8150d75a-fdc9-4909-b75c-71de544e7311",
+        "00e3f824-9d62-4951-ac7a-b84f0f1546da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "50eb1ee9-90b5-4576-b572-6d4e5aaa1b2a",
+      "dutyDetail": "Plan the engineering development of machine learning applications and frameworks. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eca0c402-c672-4882-92dc-4d8a3f304932"
+      ],
+      "mappedKnowledge": [
+        "bf61f4ac-69ea-4fee-beb7-db875695dc44",
+        "abe4d36a-e51c-4424-ba3b-d317c364246d",
+        "b25601b0-fa9d-4338-aa61-883484ab4e64",
+        "958588d5-9ff5-4510-9163-589dcb2be988",
+        "3fa9a125-1e28-4d7f-b53d-692fae6e0b6a",
+        "207c7cd8-3204-40e7-ab02-3bf71d154b52",
+        "4ccd3289-b0ca-4975-84c9-9b7299663f8e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7ee5d67b-f2dd-43cc-9d25-07425308f57a",
+        "8110a214-6ad0-4442-9614-ffae2173a7dc",
+        "5deeca0f-c9de-4c0c-8c01-d34a0aa76f6d",
+        "72e730b9-e6af-42de-9a99-0d8344bda73f",
+        "3808ad6f-7f87-456b-b841-5590e1cda0b6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "19e9cd65-8e22-4b7f-898d-018b87bdf94d",
+      "dutyDetail": "Develop, test, stage and build in a pre-production environment, prototyping machine learning products and solutions including experiment and tracking.  ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "abe4d36a-e51c-4424-ba3b-d317c364246d",
+        "b25601b0-fa9d-4338-aa61-883484ab4e64",
+        "8ad73936-97dc-48e0-b256-e3ff63449e78",
+        "eb8f9993-1484-4c13-a0ec-d2c87168310b",
+        "adaec311-3ce4-42a3-a5f8-10cf5e336563",
+        "0a0592c8-29a4-4692-b905-83a94c054577",
+        "9a27819a-ad55-4ead-add9-94f045755450",
+        "51568d24-078e-4980-8f7b-d9e486f7f6a8",
+        "0f98816a-43ab-43a1-a9d5-0177352d75e3",
+        "4ccd3289-b0ca-4975-84c9-9b7299663f8e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7ee5d67b-f2dd-43cc-9d25-07425308f57a",
+        "8110a214-6ad0-4442-9614-ffae2173a7dc",
+        "fe1d2af1-57c8-459b-b329-3a21b06e4280",
+        "5bffd58b-d767-4e70-8f19-0595ae4b5afc",
+        "522714c3-32ee-4c9c-9c98-635e5bbb03ce",
+        "0030e4ab-03ea-434a-93f7-e85fabcbd552",
+        "0e119e30-c9c6-459c-9bb2-10454c493411",
+        "a85ef042-af30-420f-bc7b-ea06a4155827"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e582a3ff-5d68-482f-8f0a-3b2c10b2dfea",
+      "dutyDetail": "Monitor and support machine learning models through operational deployment in the live environment. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0a0592c8-29a4-4692-b905-83a94c054577",
+        "a9cb3a1f-215d-4166-855f-844876391d90",
+        "038adbd7-272a-44cc-94e2-7c349f38c0c6",
+        "452bb70b-13a2-44dd-8912-cf8358bec706",
+        "4fbc6fbf-2edd-4957-8da0-26b68e7e2af6",
+        "4ccd3289-b0ca-4975-84c9-9b7299663f8e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "58c4e08b-7630-427c-972e-67b682020b51",
+        "0500ee68-da7d-4dda-a3f6-b5d12340a5bb",
+        "ad152d3e-a496-4d33-b739-bcf942c19d61",
+        "d46b099b-2ce3-465b-a13f-7f61f4041765",
+        "78b15a0f-e7f7-433b-a3c5-2b942bd6f08e",
+        "00e3f824-9d62-4951-ac7a-b84f0f1546da",
+        "25f3c2c8-5817-46f3-9373-c1918e14c6fb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46211953-aaca-4ae7-99d0-e60a18779c8b",
+      "dutyDetail": "Monitor the operating resource implications of machine learning systems within the agreed parameters for the service. Develop scalable and environmentally sustainable systems. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "148a160f-0b1a-4215-b322-f59bee75e2c2"
+      ],
+      "mappedKnowledge": [
+        "adaec311-3ce4-42a3-a5f8-10cf5e336563",
+        "3fa9a125-1e28-4d7f-b53d-692fae6e0b6a",
+        "55e35abd-124a-4ff2-8268-aa07906d2f4f",
+        "452bb70b-13a2-44dd-8912-cf8358bec706",
+        "ede68003-5422-4d44-8c8b-f5e6af9ea178",
+        "22d7565c-d126-4045-81d2-1aa3d3f7c2ea",
+        "1f7deba8-cd5c-4a81-ae92-a7f3fd042404",
+        "4fbc6fbf-2edd-4957-8da0-26b68e7e2af6"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4c85b349-5c9f-4acc-8790-36990a41b1ce",
+        "86cb285c-26f9-4d65-b9d4-a2ffd17843d9",
+        "78b15a0f-e7f7-433b-a3c5-2b942bd6f08e",
+        "129756f6-c7a3-4179-bd4c-eb8e314cffe3",
+        "56f2cf1b-b8d3-4308-a5dc-3f76050f7232",
+        "7e816134-6b33-4583-8886-0d84c10f10b3",
+        "00e3f824-9d62-4951-ac7a-b84f0f1546da"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f8e060b5-293b-4b46-951a-8502f3a2d672",
+      "dutyDetail": "Deliver responsive technical engineering support services; to mitigate operational impact whilst ensuring business continuity. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "43a000f6-3571-416b-a1d3-ad896e69a9de"
+      ],
+      "mappedKnowledge": [
+        "6f472b7f-b215-46e3-8402-9a4fa18d1df2",
+        "1d12c966-d29d-4807-94f6-ad814a8df2c5",
+        "22d7565c-d126-4045-81d2-1aa3d3f7c2ea",
+        "b0a3589c-f05a-4f69-a6f4-8c10f03dd491",
+        "4ccd3289-b0ca-4975-84c9-9b7299663f8e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "129756f6-c7a3-4179-bd4c-eb8e314cffe3",
+        "56f2cf1b-b8d3-4308-a5dc-3f76050f7232",
+        "ef0cdb29-4c86-49d4-8bd2-68a8b03a0dc2",
+        "250357ce-8b5d-4418-92fa-c6af25a75e27",
+        "dbf8b98d-6e0d-4049-b025-715df30662cb"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2fb3f0a2-1434-47ea-9274-b9c3143a4e3d",
+      "dutyDetail": "Develop and maintain collaborative stakeholder relationships to ensure buy-in; and provide development updates and auditable records of project and stakeholder expectations at each decision point. Stakeholders can include clients, senior members of staff, Senior ML Operations Engineer, Product Manager, ML and or AI Specialist or AI Engineering Manager. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "554f986a-57d8-4545-b078-861060059c2b"
+      ],
+      "mappedKnowledge": [
+        "22d7565c-d126-4045-81d2-1aa3d3f7c2ea",
+        "1f7deba8-cd5c-4a81-ae92-a7f3fd042404",
+        "82c5bdeb-28dd-4376-a00c-4afd01c1b271",
+        "b0a3589c-f05a-4f69-a6f4-8c10f03dd491",
+        "5897bcf5-3891-4b6e-869a-062e1e497bc2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "69db76d3-719d-4daa-ab78-e7e1905d6961",
+        "e9e38841-1a46-446a-8303-68582d2450d5",
+        "af8de4ce-6298-418a-a91c-df1a09853dc5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f2ef6f3c-bff4-4ae7-afd2-d69c092f90eb",
+      "dutyDetail": "Ensure compliance with data governance, ethics and cyber security.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "554f986a-57d8-4545-b078-861060059c2b",
+        "dabbd69d-9742-4f52-aecc-f74022b6cbd5"
+      ],
+      "mappedKnowledge": [
+        "94d8faf5-4fbd-4ea1-a670-17ec7ffc5439",
+        "0b7b7d9f-4fb9-4a3e-a923-f303948247fd",
+        "3ce26ef9-20a3-41e6-bc99-94330826b716",
+        "b0a3589c-f05a-4f69-a6f4-8c10f03dd491"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "0030e4ab-03ea-434a-93f7-e85fabcbd552",
+        "3125210e-765e-4ea8-be28-f196c631623b",
+        "cef3bdad-3b0f-49b7-ba7b-a7d004918644",
+        "129756f6-c7a3-4179-bd4c-eb8e314cffe3",
+        "48db8fd2-0511-4724-a51e-479d92486ab8",
+        "af8de4ce-6298-418a-a91c-df1a09853dc5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "41b975d7-47fd-478b-88bd-770dc76757b1",
+      "dutyDetail": "Keep up to date with technological engineering developments in machine learning data science, data engineering and artificial intelligence to advance own skills and knowledge.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eca0c402-c672-4882-92dc-4d8a3f304932",
+        "148a160f-0b1a-4215-b322-f59bee75e2c2",
+        "43a000f6-3571-416b-a1d3-ad896e69a9de"
+      ],
+      "mappedKnowledge": [
+        "7af6def2-703a-4f9b-81f3-a9c9b00755e1",
+        "5897bcf5-3891-4b6e-869a-062e1e497bc2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "9cad3c17-d7cd-4329-ab7d-9205135d13e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2024-12-18T00:00:00"
+}
