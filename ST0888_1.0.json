@@ -1,21 +1,33 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 550,
   "referenceNumber": "ST0888",
+  "learningAimClassCode": "",
   "title": "Early years practitioner",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/550",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0888",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": null,
+  "change": "Approved for delivery",
+  "changedDate": "2023-02-15T00:00:00",
   "earliestStartDate": "2020-03-26T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-07-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Work and interact directly with children on a day to day basis supporting the planning of and delivery of activities.",
   "level": 2,
+  "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 4000,
-  "route": "Education and childcare",
-  "keywords": [],
+  "maxFundingAdditionalInformation": "",
+  "route": "Education and early years",
+  "keywords": [
+    "education",
+    "learning",
+    "children",
+    "children development",
+    "childcare"
+  ],
   "jobRoles": [
     "Nursery Assistant",
     "Early Years Practitioner",
@@ -25,13 +37,12 @@
     "Nanny and Early Years Worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4072/st0888_early-years-practitioner_l2_ap-for-publication_16032020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7279/st0888_early-years-practitioner_l2_ap-for-publication_16032020em.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "6121 - Nursery nurses and assistants",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of private and public settings including; full day care, children’s centres, pre-schools, reception classes, playgroups, nursery schools, home based provision, hospitals, social care settings, out of school environments and local authority provision to deliver the Early Years Foundation Stage (EYFS) requirements set by government for the learning, development and care of children from birth to 5 in both indoor and outdoor environments.&lt;/p&gt;\r\n&lt;p&gt;The broad purpose of the occupation is to work and interact directly with children on a day to day basis supporting the planning of and delivery of activities, purposeful play opportunities and educational programmes within the ethos of the setting. An EYP works as part of a professional team ensuring the welfare and care for children under the guidance and supervision of an Early Years Educator, teacher or other suitably qualified professional the Early Years Workforce.&lt;/p&gt;\r\n&lt;p&gt;In their daily work, an employee in this occupation interacts with parents, children, colleagues and wider multi agency professionals and partners such as health visitors, social workers and speech and language therapists. Individuals will undergo all checks as per the EYFS requirements to ensure suitability to work with children. Due to the nature and level of responsibility it is not anticipated that the role would have any budgetary or leadership responsibilities.&lt;/p&gt;\r\n&lt;p&gt;They will be responsible for supporting child initiated and adult led activities based around the needs and interests of each individual child, supporting children’s learning through planned, purposeful play opportunities and educational programmes and working as part of a team to ensure each child feels safe and secure. An EYP will also support the observation and assessment of each child and contribute to their learning experiences and assist with the care needs of the individual child such as teeth, skin, hair, feeding, changing nappies and toileting under direction of a more senior member of the team. They will also work in partnerships with other colleagues, parents and/or carers or other professionals, with support from a more senior member of the team, to meet the individual needs of each child. They will also have a responsibility for ensuring that they recognise when a child is in danger and/or at risk of serious harm or abuse and contributing to the health and safety of the children, staff and others on the premises.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a range of private and public settings including; full day care, children’s centres, pre-schools, reception classes, playgroups, nursery schools, home based provision, hospitals, social care settings, out of school environments and local authority provision to deliver the Early Years Foundation Stage (EYFS) requirements set by government for the learning, development and care of children from birth to 5 in both indoor and outdoor environments.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to work and interact directly with children on a day to day basis supporting the planning of and delivery of activities, purposeful play opportunities and educational programmes within the ethos of the setting. An EYP works as part of a professional team ensuring the welfare and care for children under the guidance and supervision of an Early Years Educator, teacher or other suitably qualified professional the Early Years Workforce.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with parents, children, colleagues and wider multi agency professionals and partners such as health visitors, social workers and speech and language therapists. Individuals will undergo all checks as per the EYFS requirements to ensure suitability to work with children. Due to the nature and level of responsibility it is not anticipated that the role would have any budgetary or leadership responsibilities.&lt;/p&gt;\n&lt;p&gt;They will be responsible for supporting child initiated and adult led activities based around the needs and interests of each individual child, supporting children’s learning through planned, purposeful play opportunities and educational programmes and working as part of a team to ensure each child feels safe and secure. An EYP will also support the observation and assessment of each child and contribute to their learning experiences and assist with the care needs of the individual child such as teeth, skin, hair, feeding, changing nappies and toileting under direction of a more senior member of the team. They will also work in partnerships with other colleagues, parents and/or carers or other professionals, with support from a more senior member of the team, to meet the individual needs of each child. They will also have a responsibility for ensuring that they recognise when a child is in danger and/or at risk of serious harm or abuse and contributing to the health and safety of the children, staff and others on the premises.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "f0028c5c-6615-4c3b-bfba-9b814c538ef5",
@@ -282,25 +293,28 @@
       "detail": "Demonstrate how to share information with parents/carers about the importance of healthy balanced diets, looking after teeth and being physically active."
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2020-03-26T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0479",
   "tbMainContact": "Michael.Freeston@eyalliance.org.uk",
   "involvedEmployers": "Just childcare LTD, London Early years Foundation, London Early Years Foundation, Happy Tree, Kids Planet day nurseries, Each Peach Childcare, Kids allowed, Child base partnership, Sky high achievers, Paint  pot Nurseries, Happy Tree Limited, Our Monkey Club",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -312,20 +326,28 @@
     "Assistant Childminder",
     "Nanny and Early Years Worker"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 1 English and maths will need to achieve this level and apprentices without level 2 English and maths will need to take the tests for this level prior to taking the end-point assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Education and Childcare",
-  "cluster": "Early Education and Childcare Assistant",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Education and early years",
+  "cluster": "Early education and early years assistant",
+  "clusterId": "172",
+  "clusterDescription": "Development of a child's learning, meeting individual care needs, engaging and supporting parents and carers in guiding a child's progress at nursey/pre-school and at home",
   "createdDate": "2020-03-26T09:29:06 +00:00",
-  "lastUpdated": "2020-03-26T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/early-years-practitioner-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/early-years-practitioner-v1-0",
+  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-03-26T00:00:00 +00:00",
+  "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​1st August 2025 with a funding band of £5,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
+  "occupationCode": "OCC0888",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-v1-0",
   "qualifications": [
     {
       "qualificationId": "c4fe2438-1d86-46fd-8275-0b4d9a286d32",
       "title": "Early Years Practitioner Qualification",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -349,7 +371,7 @@
         "c49c5e0f-0abc-4bae-8b17-32004f42c395",
         "79b876dc-84c0-4cd4-b3d4-e1e9cc576b03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2a5e522-3c57-42cf-bdf2-0fde517af2f8",
         "57b96d9c-0455-4471-b7cd-ac8889bd8b3f",
@@ -373,7 +395,7 @@
       "mappedKnowledge": [
         "f94dc9c4-13f2-4fea-a603-19513db84b36"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46e65baa-bf25-4b28-b580-3909e30e03a6"
       ],
@@ -395,7 +417,7 @@
         "b6eacdec-ecba-45ea-bc2c-eb67dc48913f",
         "8d131991-8328-4f63-a2d6-2af1aff2fb8e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "17d34b8a-86f3-45e8-bd81-cc52913701e1"
       ],
@@ -412,7 +434,7 @@
       "mappedKnowledge": [
         "194ca71d-8567-4762-98ef-2ce01f48a706"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "57b96d9c-0455-4471-b7cd-ac8889bd8b3f"
       ],
@@ -435,7 +457,7 @@
         "212d46f2-2c46-4895-8635-2ed3855cdf2a",
         "af7fe823-f3d6-49c2-bec0-77e678077184"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "071b1baa-27e3-4663-a782-d0d6a14971bc",
         "eb45c463-88a8-4760-8b34-b2fbe8676947",
@@ -462,7 +484,7 @@
         "60600626-9974-45f7-908a-51c625ac2515",
         "212d46f2-2c46-4895-8635-2ed3855cdf2a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "97774ca2-d118-48ca-b14f-d66da2f29e16"
       ],
@@ -486,7 +508,7 @@
         "af7fe823-f3d6-49c2-bec0-77e678077184",
         "79b876dc-84c0-4cd4-b3d4-e1e9cc576b03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "f2a5e522-3c57-42cf-bdf2-0fde517af2f8",
         "697dff69-640c-4e71-95f9-1fa18c236415",
@@ -514,7 +536,7 @@
         "5928050e-e6d9-4ef3-aeb3-d19be3ae7bd9",
         "b6bcb31a-fac0-4bde-b8f1-00e51bdd8c46"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "18f2df61-eed4-4865-a54a-5e19cc998e01",
         "dbd2be08-a375-47d8-8b55-7eca4b401666",
@@ -535,7 +557,7 @@
       "mappedKnowledge": [
         "aa9eff01-5ef7-4943-9794-dc70c82ed05a"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "697f5ada-3eef-4059-9fed-e0018008bc63",
         "5a7afbb5-e258-4afa-a405-1359ff9d362a"
@@ -559,12 +581,17 @@
         "48ed48ab-f913-46cd-9eee-0943b43533ef",
         "af7fe823-f3d6-49c2-bec0-77e678077184"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "46e65baa-bf25-4b28-b580-3909e30e03a6"
       ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": true,
+  "coronationEmblem": false,
+  "publishDate": "2025-07-31T00:00:00"
 }
