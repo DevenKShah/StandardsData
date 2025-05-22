@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 604,
   "referenceNumber": "ST0798",
+  "learningAimClassCode": "",
   "title": "Clinical pharmacology scientist (integrated degree)",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/604",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0798",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-01-22T00:00:00",
@@ -12,10 +16,18 @@
   "latestEndDate": null,
   "overviewOfRole": "Design, analyse, interpret and report clinical research and clinical trials.",
   "level": 7,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
-  "keywords": [],
+  "keywords": [
+    "clinical research",
+    "health and science",
+    "pharmacology",
+    "degree",
+    "biotechnology"
+  ],
   "jobRoles": [
     "Quantitative clinical pharmacologist",
     "Clinical pharmacology scientist",
@@ -23,13 +35,12 @@
     "Clinical pharmacokineticist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4594/st0798_clinical_pharmacology_scientist_l7_ap-for-publication_19102020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4594/st0798_clinical_pharmacology_scientist_l7_ap-for-publication_19102020.pdf",
   "ssa1": "2 Science and Mathematics",
   "ssa2": "2.1 Science",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "2112 - Biological scientists and biochemists",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of public or private Clinical Research Organisations (CRO&#39;s including the NHS, Academia, Health Authorities and Clinical Research Facilities), and Pharmaceutical or Biotechnology Industries.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to design, analyse, interpret and report clinical research and clinical trials aimed at understanding what a drug is doing to the body (pharmacodynamics), what happens to a drug in the body (pharmacokinetics), and how it works in terms of treating a particular disease. They will also offer clinical pharmacology expertise to resolve issues that arise during conduct of studies. It is a varied role, supporting the discovery and development of new medicines, and improving understanding of existing ones. The Clinical Pharmacology Scientist is well-placed to aid in all aspects of medicine management. For example, they can provide specialist advice to healthcare professionals and researchers on the interactions of different medicines and how these might affect patients and research participants. In addition, the Clinical Pharmacology Scientist will form a key component of National Institute for Health Research (NIHR) Biomedical Research Centres (BRCs), Clinical Research Facilities (CRFs) and other academic groups, with a focus on driving the development and translation of novel therapeutics in an academic setting. They will also provide expertise in preparation and writing of grant applications.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide range of individuals and teams. Depending on the organisation they work in, these interactions may be internal or external.&lt;/p&gt;\r\n&lt;p&gt;For example, these interactions can be management-based (e.g., Direct Reports and Teams, Project Teams, Line Managers and Senior Managers), or scientifically driven. The central role of the Clinical Pharmacology Scientist is demonstrated by the array of these scientifically-driven interactions. The scientifically-driven interactions are likely to include non-clinical Scientists (e.g., Pharmacologists, Safety Pharmacologists, Toxicologists); Regulatory Specialists; Regulatory Agencies; Ethics Committees; Clinical Trial Investigators; Pharmacokineticists and Pharmacokinetic/Pharmacodynamic Modellers; Medical Clinical Pharmacologists; Chemistry, Manufacturing and Controls Scientists and Pharmacists, Bioanalysis Experts, commercial colleagues (Legal Teams, Sales and Marketing teams, Financial teams), Drug Metabolism and Pharmacokinetics Scientists, Data Managers, Statisticians and Quality Control/Quality Assurance Teams. In CRFs and BRCs, the Clinical Pharmacology Scientist will also interact with individual Chief and Principal Investigators and will be key a member of individual study teams. They will interact across the academic environment, including with clinical academics, non-clinical academics, pre- and post-doctoral scientists. In addition, they will liaise closely with industry and CRO partners as well as academic funding bodies or charities.&lt;/p&gt;\r\n&lt;p&gt;Clinical Pharmacology Scientists also play a key role in advising, supporting and listening to the broad health and life sciences sector. They might also interact with stakeholders such as Professional Bodies, Universities and Educational Bodies, Customers, External Partners, Non-Governmental Organisations (NGOs), Contract Research Organisations, Sector Forums, Patient Groups, Media, Technical Specialists, Suppliers and Sector Skills Councils.. An employee in this occupation will be responsible for the design of research, individual trials or a series of trials designed to test a medicine of interest, as part of a multi-disciplinary team. Throughout the conduct of these trials and research, Clinical Pharmacology Scientists provide scientific and technical leadership, driving strategy. As well as design, they take responsibility for the subsequent analysis and interpretation of data generated in these trials. Therefore, their input and recommendations are critical to ensuring that the outputs of clinical research and clinical trials are meaningful. A Clinical Pharmacology Scientist could find themselves working at the preclinical-clinical interface, determining whether a potential new medicine is safe, establishing whether it works in humans, right through to ensuring the right data are available to support regulatory interactions so that patients get the medicines they need as soon as possible. They will work through phases 1 to 4 of drug development (i.e., from testing whether a drug is safe to use to determining what the long-term risks and benefits are) as well as life cycle management (e.g., developing more palatable or easier to swallow tablets for patients). Ultimately, before a new medicine is approved for use, a Clinical Pharmacology Scientist will summarise the known clinical pharmacology of that medicine to support registration in regions around the world, and will contribute towards developing the information that doctors and patients need to use the medicine appropriately.&lt;/p&gt;\r\n&lt;p&gt;Clinical Pharmacology Scientists are leaders and role models and are likely to have line management and other significant responsibilities within an organisation. This includes awareness of the budgetary implications of their projects and advising on wider company impacts of the trials around production costs and profitability of trial results.&lt;/p&gt;\r\n&lt;p&gt;Clinical Pharmacology Scientists are primarily office based, spending their time analysing data, writing reports and contributing to team discussions. The role will also involve some travel to client sites, conferences, workshops and seminars.&lt;/p&gt;\r\n&lt;p&gt;In addition to their scientific expertise, Clinical Pharmacology Scientists take a thoughtful approach, are excellent communicators and thrive in a team environment.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in a wide range of public or private Clinical Research Organisations (CRO&#39;s including the NHS, Academia, Health Authorities and Clinical Research Facilities), and Pharmaceutical or Biotechnology Industries.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to design, analyse, interpret and report clinical research and clinical trials aimed at understanding what a drug is doing to the body (pharmacodynamics), what happens to a drug in the body (pharmacokinetics), and how it works in terms of treating a particular disease. They will also offer clinical pharmacology expertise to resolve issues that arise during conduct of studies. It is a varied role, supporting the discovery and development of new medicines, and improving understanding of existing ones. The Clinical Pharmacology Scientist is well-placed to aid in all aspects of medicine management. For example, they can provide specialist advice to healthcare professionals and researchers on the interactions of different medicines and how these might affect patients and research participants. In addition, the Clinical Pharmacology Scientist will form a key component of National Institute for Health Research (NIHR) Biomedical Research Centres (BRCs), Clinical Research Facilities (CRFs) and other academic groups, with a focus on driving the development and translation of novel therapeutics in an academic setting. They will also provide expertise in preparation and writing of grant applications.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide range of individuals and teams. Depending on the organisation they work in, these interactions may be internal or external.&lt;/p&gt;\n&lt;p&gt;For example, these interactions can be management-based (e.g., Direct Reports and Teams, Project Teams, Line Managers and Senior Managers), or scientifically driven. The central role of the Clinical Pharmacology Scientist is demonstrated by the array of these scientifically-driven interactions. The scientifically-driven interactions are likely to include non-clinical Scientists (e.g., Pharmacologists, Safety Pharmacologists, Toxicologists); Regulatory Specialists; Regulatory Agencies; Ethics Committees; Clinical Trial Investigators; Pharmacokineticists and Pharmacokinetic/Pharmacodynamic Modellers; Medical Clinical Pharmacologists; Chemistry, Manufacturing and Controls Scientists and Pharmacists, Bioanalysis Experts, commercial colleagues (Legal Teams, Sales and Marketing teams, Financial teams), Drug Metabolism and Pharmacokinetics Scientists, Data Managers, Statisticians and Quality Control/Quality Assurance Teams. In CRFs and BRCs, the Clinical Pharmacology Scientist will also interact with individual Chief and Principal Investigators and will be key a member of individual study teams. They will interact across the academic environment, including with clinical academics, non-clinical academics, pre- and post-doctoral scientists. In addition, they will liaise closely with industry and CRO partners as well as academic funding bodies or charities.&lt;/p&gt;\n&lt;p&gt;Clinical Pharmacology Scientists also play a key role in advising, supporting and listening to the broad health and life sciences sector. They might also interact with stakeholders such as Professional Bodies, Universities and Educational Bodies, Customers, External Partners, Non-Governmental Organisations (NGOs), Contract Research Organisations, Sector Forums, Patient Groups, Media, Technical Specialists, Suppliers and Sector Skills Councils.. An employee in this occupation will be responsible for the design of research, individual trials or a series of trials designed to test a medicine of interest, as part of a multi-disciplinary team. Throughout the conduct of these trials and research, Clinical Pharmacology Scientists provide scientific and technical leadership, driving strategy. As well as design, they take responsibility for the subsequent analysis and interpretation of data generated in these trials. Therefore, their input and recommendations are critical to ensuring that the outputs of clinical research and clinical trials are meaningful. A Clinical Pharmacology Scientist could find themselves working at the preclinical-clinical interface, determining whether a potential new medicine is safe, establishing whether it works in humans, right through to ensuring the right data are available to support regulatory interactions so that patients get the medicines they need as soon as possible. They will work through phases 1 to 4 of drug development (i.e., from testing whether a drug is safe to use to determining what the long-term risks and benefits are) as well as life cycle management (e.g., developing more palatable or easier to swallow tablets for patients). Ultimately, before a new medicine is approved for use, a Clinical Pharmacology Scientist will summarise the known clinical pharmacology of that medicine to support registration in regions around the world, and will contribute towards developing the information that doctors and patients need to use the medicine appropriately.&lt;/p&gt;\n&lt;p&gt;Clinical Pharmacology Scientists are leaders and role models and are likely to have line management and other significant responsibilities within an organisation. This includes awareness of the budgetary implications of their projects and advising on wider company impacts of the trials around production costs and profitability of trial results.&lt;/p&gt;\n&lt;p&gt;Clinical Pharmacology Scientists are primarily office based, spending their time analysing data, writing reports and contributing to team discussions. The role will also involve some travel to client sites, conferences, workshops and seminars.&lt;/p&gt;\n&lt;p&gt;In addition to their scientific expertise, Clinical Pharmacology Scientists take a thoughtful approach, are excellent communicators and thrive in a team environment.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "1938a415-239b-49dd-9295-71657c4e5d96",
@@ -148,25 +159,28 @@
       "detail": "Learning and development\n\n- Research, critique and assess new techniques and methodologies \n- Listen to learners to assess their understanding and adapt techniques to their needs, using ethical and safe practices when mentoring, coaching and training others"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2020-10-23T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0418",
   "tbMainContact": "Andrew.Foxley@astrazeneca.com",
   "involvedEmployers": "Medimmune, Covance, NHS, Richmond Pharmacology, British Pharmacological Society, Quotient Sciences, UCB, Cogent Skills, Kings College London, University of Liverpool, ABPI (The Association of the British Pharmaceutical Industry)",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -176,26 +190,34 @@
     "Clinical pharmacologist",
     "Clinical pharmacokineticist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Healthcare Science",
-  "cluster": "Healthcare Science Professional",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Healthcare science",
+  "cluster": "Healthcare science professional",
+  "clusterId": "21",
+  "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2020-03-05T15:43:56 +00:00",
-  "lastUpdated": "2018-07-24T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clinical-pharmacology-scientist-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/clinical-pharmacology-scientist-(integrated-degree)-v1-0",
+  "lastUpdated": "2021-01-22T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-10-23T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0798",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0798-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0798-v1-0",
   "qualifications": [
     {
       "qualificationId": "cc85f1a9-f3c8-4d9c-baf0-f8f3735e0ab1",
       "title": "MSc in Clinical  Pharmacology",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "7 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "British Pharmacological Society",
-      "level": "0",
+      "level": "Full Membership",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -218,7 +240,7 @@
         "df1b77ed-1667-4614-b4ac-35b9ecb87396",
         "6b29292a-52c5-4a00-80e8-3810edda803d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -247,7 +269,7 @@
         "6b29292a-52c5-4a00-80e8-3810edda803d",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
         "769e923e-f661-46dd-be90-f63ee241b049",
@@ -278,7 +300,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
         "769e923e-f661-46dd-be90-f63ee241b049",
@@ -302,7 +324,7 @@
       "mappedKnowledge": [
         "2adb3991-c4e0-4d97-be60-8e208ff6fd03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed848164-975a-42c5-bae1-e4d7363d51b6",
         "513ceefa-e87d-4f62-a72f-32046196e575"
@@ -322,7 +344,7 @@
       "mappedKnowledge": [
         "2adb3991-c4e0-4d97-be60-8e208ff6fd03"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ed848164-975a-42c5-bae1-e4d7363d51b6",
         "513ceefa-e87d-4f62-a72f-32046196e575"
@@ -347,7 +369,7 @@
         "6b29292a-52c5-4a00-80e8-3810edda803d",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -371,7 +393,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "769e923e-f661-46dd-be90-f63ee241b049",
         "89fbd6df-19aa-46d6-a53d-6f686a2c98e3",
@@ -397,7 +419,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "769e923e-f661-46dd-be90-f63ee241b049",
         "9a5969dd-979b-4aa9-a12c-97abe295901d",
@@ -421,7 +443,7 @@
         "bc7471dc-808f-4ca4-b2e6-3c4e110d91ed",
         "6b29292a-52c5-4a00-80e8-3810edda803d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6eac3947-5b38-42ed-abb2-479fecce10aa",
         "a4a50c74-b87f-4aa7-b3c3-739f71290d95",
@@ -443,7 +465,7 @@
       "mappedKnowledge": [
         "d54d6a9e-0b44-4125-950e-a77ba803fd16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
       ],
@@ -461,7 +483,7 @@
       "mappedKnowledge": [
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21a99419-09f1-496a-b2cb-afd71dc8840c"
       ],
@@ -481,7 +503,7 @@
         "d54d6a9e-0b44-4125-950e-a77ba803fd16",
         "8167aaf8-b0cb-4fc7-a7c9-4f1970e3cfde"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7921513e-f27d-4cd2-825f-316b085eafae",
         "21a99419-09f1-496a-b2cb-afd71dc8840c"
@@ -502,7 +524,7 @@
       "mappedKnowledge": [
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
       ],
@@ -523,7 +545,7 @@
         "8aaaa13c-c0ed-40af-8096-e49c51d95a71",
         "d54d6a9e-0b44-4125-950e-a77ba803fd16"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "21a99419-09f1-496a-b2cb-afd71dc8840c",
         "e609ddb6-2621-4a8a-b4b2-8500ce38a8f6"
@@ -531,5 +553,10 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-01-22T00:00:00"
 }
