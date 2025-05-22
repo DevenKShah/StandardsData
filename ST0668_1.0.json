@@ -1,9 +1,13 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 485,
   "referenceNumber": "ST0668",
+  "learningAimClassCode": "",
   "title": "Assistant buyer and assistant merchandiser",
   "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/485",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0668",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2021-03-25T00:00:00",
@@ -12,8 +16,10 @@
   "latestEndDate": null,
   "overviewOfRole": "Sourcing, selecting, maintaining and delivering the right products to meet demand and business objectives.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
     "Buying and Merchandising",
@@ -30,13 +36,12 @@
     "Assistant merchandiser"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3318/st0668_assistant-buyer-merchandiser_l6_ap-for-publication_11072019.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/hybfy2zz/st0668_assistant-buyer-merchandiser_l6_ap-for-publication_11072019v2.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.1 Retailing and wholesaling",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is typically found in the retail sector, across a range of different types of companies and employers such as those selling direct to the public / consumer and those selling to trade. It is also found across different types of retail operation, including those who trade from traditional stores, those who are exclusively on-line, and those who operate through a variety of channels.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;The purpose of the occupation is to understand the brand and customer in order to source, select, maintain and deliver the right products to meet demand and business objectives. Using effective business forecasting, risk and opportunity analysis, creativity and business insight, they anticipate and shape customer demand and market trends. The overarching purpose of buyers is to identify and source the right products and services, in line with the organisations strategic objectives, for the organisation to sell to customers.The overarching purpose of the merchandiser is to maximise sales and profit by ensuring that the right products are available to customers in the right place at the right time and in the right quantities. They achieve their objectives by developing and implementing buying and merchandising strategies to ensure current and future customer demand is researched, anticipated and satisfied. They anticipate and prepare for new markets through customer insight and research activities, and they contribute to company profit through efficient, effective and sustainable buying and merchandising.&lt;/p&gt;\r\n&lt;p&gt;In this occupation, individuals would normally interact with a wide range of internal and external colleagues, including but not limited to, their wider buying and merchandising team, designers, manufacturers, suppliers, distribution centres, stores, marketing, finance and IT departments. This is normally an office-based role, but may involve remote working, travel to stores, trade fairs, supplier meetings etc. There may also be a need for travel to other countries for supplier and factory meetings. There will usually be a significant leadership element to the role.&lt;/p&gt;\r\n&lt;p&gt;&lt;br /&gt;In this occupation, they will typically be responsible for the management of a team. They will be responsible for an assigned ‘assortment’ or product range. They will have budget responsibility, which varies significantly across different employers and departments, but could reach &#163;100m+.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is typically found in the retail sector, across a range of different types of companies and employers such as those selling direct to the public / consumer and those selling to trade. It is also found across different types of retail operation, including those who trade from traditional stores, those who are exclusively on-line, and those who operate through a variety of channels.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;The purpose of the occupation is to understand the brand and customer in order to source, select, maintain and deliver the right products to meet demand and business objectives. Using effective business forecasting, risk and opportunity analysis, creativity and business insight, they anticipate and shape customer demand and market trends. The overarching purpose of buyers is to identify and source the right products and services, in line with the organisations strategic objectives, for the organisation to sell to customers.The overarching purpose of the merchandiser is to maximise sales and profit by ensuring that the right products are available to customers in the right place at the right time and in the right quantities. They achieve their objectives by developing and implementing buying and merchandising strategies to ensure current and future customer demand is researched, anticipated and satisfied. They anticipate and prepare for new markets through customer insight and research activities, and they contribute to company profit through efficient, effective and sustainable buying and merchandising.&lt;/p&gt;\n&lt;p&gt;In this occupation, individuals would normally interact with a wide range of internal and external colleagues, including but not limited to, their wider buying and merchandising team, designers, manufacturers, suppliers, distribution centres, stores, marketing, finance and IT departments. This is normally an office-based role, but may involve remote working, travel to stores, trade fairs, supplier meetings etc. There may also be a need for travel to other countries for supplier and factory meetings. There will usually be a significant leadership element to the role.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;In this occupation, they will typically be responsible for the management of a team. They will be responsible for an assigned ‘assortment’ or product range. They will have budget responsibility, which varies significantly across different employers and departments, but could reach &#163;100m+.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "5ef02819-8265-430b-a82b-fdccba0399ee",
@@ -459,34 +464,28 @@
       "detail": ": Assess the impact that they have on key external relationships, and adjusts their style to ensure that they achieve maximum benefit for the business"
     }
   ],
-  "options": [
-    {
-      "optionId": "e930bc08-a5dd-4483-86e0-51e1596e448e",
-      "title": "Assistant buyer"
-    },
-    {
-      "optionId": "dfb12295-211a-4759-8cff-6386b9eea736",
-      "title": "Assistant merchandiser"
-    }
-  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
-    "contactName": "Claire Gill / Steve Walker",
+    "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "public.enquiries@ofqual.gov.uk",
-    "webLink": "https://www.gov.uk/government/organisations/ofqual"
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-16T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0031",
   "tbMainContact": "linda.guthrie@steinhoffretail.co.uk",
   "involvedEmployers": "Ocado, Steinhoff UK Ltd, Allen Apprenticeships and Skills, The Fashion Retail Academy, People 1st, Superdrug, Arcadia, M&S, Debenhams, JD Sports, John Lewis, Co-operative Group, Sainsburys, Mothercare, Travis Perkins, Retail Trust",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
@@ -496,14 +495,20 @@
     "Merchandiser",
     "Assistant merchandiser"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Retail",
-  "cluster": "Retail Professional",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": null,
+  "cluster": null,
+  "clusterId": null,
+  "clusterDescription": null,
   "createdDate": "2019-12-20T13:35:05 +00:00",
-  "lastUpdated": "2019-12-20T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-buyer-and-assistant-merchandiser-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/assistant-buyer-and-assistant-merchandiser-v1-0",
+  "lastUpdated": "2021-03-25T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-07-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0668",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0668-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0668-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -521,7 +526,7 @@
         "0862b5f1-3666-40a9-903f-99dfd5131bd3",
         "90742d45-87fe-48ba-8f1f-e9d5f625d2ef"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d1f0f821-aebc-4319-8887-c47cf9e2a543",
         "af8eaf3f-0805-486e-87fc-6d259dd0b820",
@@ -542,7 +547,7 @@
         "ca21f7fa-c351-44db-8df7-6a5fde8aa605",
         "30113789-da36-4738-bc64-b997f1147180"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "dce7dca5-e70a-4a8c-942c-b8e07d05258e",
         "efc9f1d4-8f5b-4fdc-9347-2afa0b0bbe1c"
@@ -562,7 +567,7 @@
         "5a31318d-c594-4b4b-9338-e6e46cd17233",
         "5059dd5f-6c82-4544-9b00-82a9ffc7e203"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7b012279-4f3c-4ae7-ab2d-8705fb8db6e0",
         "d76f30aa-6870-4644-920d-6b87c4067f48"
@@ -581,7 +586,7 @@
         "30113789-da36-4738-bc64-b997f1147180",
         "312a19a1-43d1-4bac-a065-1198e5620808"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "ff6a1e1b-3ce9-4bc6-bfe2-8d4bd1eff7ea"
       ],
@@ -598,7 +603,7 @@
         "e7ca4423-7eea-4e8e-8bfb-f08f90ae81f0",
         "3fab665c-058d-43d2-a186-82c2ebd9eddb"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "efc9f1d4-8f5b-4fdc-9347-2afa0b0bbe1c",
         "6b343792-3015-421d-afed-2c9cef8adb08",
@@ -618,7 +623,7 @@
         "6fc27653-8e98-4f7b-8151-57e5a0cddeb5",
         "54a7dd3e-d107-43de-9675-69f9ed838ca1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "76c57b5e-9656-49fa-88d2-67aa66d927ee",
         "017073ef-48f5-4cc2-a6da-cddc02f97ab5"
@@ -636,7 +641,7 @@
         "6f2a6e66-2d65-4b06-9f96-9ba7c98a203e",
         "e3327dab-89ab-4125-bc03-0e7e6e133594"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "7ff95d63-c260-4744-bae3-9070a24b52a1",
         "dbf8efa9-316f-45e7-89b3-994d045f578b"
@@ -653,7 +658,7 @@
       "mappedKnowledge": [
         "5a7fef83-1094-45f0-9e15-752d327c34b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "82046f13-53ff-4b8e-b42c-24ddff771ffb"
       ],
@@ -672,7 +677,7 @@
         "50f07e91-f264-4d4b-b646-f3b3a07a6334",
         "b1711d59-7a29-48c7-9634-5a00d3f5238b"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5e623ee7-f0e7-45e6-b600-d2e87c5f6370",
         "e7bf3355-fb32-46f6-850d-71588e9833a7",
@@ -692,7 +697,7 @@
         "80e764dc-05eb-429f-9d7f-3b830896dec1",
         "74816f8b-d0a3-4d70-96c7-421694248d45"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c7a35eaf-1a73-42d8-912d-ea84cff92f4c",
         "f05b2be4-d2f5-46d8-b969-fc8e7e50fef6"
@@ -936,5 +941,21 @@
       "criteriaForMeasuringPerformance": ""
     }
   ],
-  "regulationDetail": []
+  "options": [
+    {
+      "optionId": "e930bc08-a5dd-4483-86e0-51e1596e448e",
+      "title": "Assistant buyer",
+      "occupationCode": "OCC0668A"
+    },
+    {
+      "optionId": "dfb12295-211a-4759-8cff-6386b9eea736",
+      "title": "Assistant merchandiser",
+      "occupationCode": "OCC0668B"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2021-03-25T00:00:00"
 }
