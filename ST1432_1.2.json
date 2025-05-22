@@ -1,0 +1,999 @@
+{
+  "templateType": "Structured Apprenticeship Standard",
+  "larsCode": 792,
+  "referenceNumber": "ST1432",
+  "learningAimClassCode": "",
+  "title": "Dental technician (GDC 2023)",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1432",
+  "qualificationStandardUrl": null,
+  "versionNumber": "1.2",
+  "change": "End point assessment plan revised, K16 removed from KSBs",
+  "changedDate": "2025-03-04T00:00:00",
+  "earliestStartDate": "2025-03-04T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Design, manufacture, modify and repair custom-made dental appliances. Typically the work is undertaken in a dental laboratory on a prescription from a dentist. The work can broadly be split into crown and bridge, dentures and orthodontics.",
+  "level": 5,
+  "ePALength": 0,
+  "typicalDuration": 36,
+  "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Health and science",
+  "keywords": [
+    "Dental technician",
+    "dentist",
+    "laboratory",
+    "dentures",
+    "orthodontics"
+  ],
+  "jobRoles": [
+    "Dental technician"
+  ],
+  "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their apprentices. Most candidates will have A levels or existing relevant Level 3 qualifications. Other relevant or prior experience may also be considered as an alternative. Employers who recruit candidates without English and Maths GCSE at Grade C or above (or approved equivalent) must ensure that the candidate achieves this standard prior to the completion of the apprenticeship.&lt;/p&gt;",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/sppii42p/st1432_dental-technician-l5_v12_for-publication_27012025.pdf",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.1 Medicine and dentistry",
+  "version": "1.2",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in Dentistry, typically in a dental laboratory.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to design, manufacture, modify and repair custom-made dental appliances. Typically the work is undertaken in a dental laboratory on a prescription from a dentist. The work can broadly be split into crown and bridge, dentures and orthodontics. Most labs specialise in one or two of these areas but during the apprenticeship dental technicians will develop competency across all disciplines from start to finish before choosing where to specialise once they are qualified.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with the dental team. Dental technicians will need to comply with professional regulation, collaborate with dental practices and occasionally meet patients. Dental technicians will be able to work with minimum supervision and are responsible for the quality of their finished work before it is released to the dentist and patient.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for manufacturing precise custom-made medical appliances but require the attention to detail, colour and manual dexterity that is expected of fine artists.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Dental technicians are registered professionals and work within the standards and scope of practice as defined by the General Dental Council (GDC) Scope of Practice document.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "12c09631-ae06-4efd-8e6f-ddf732754586",
+      "detail": "The aetiology, pathogenesis and epidemiological trends of oral and dental disease and their application to patient management."
+    },
+    {
+      "knowledgeId": "2abfff29-88a8-45b0-89e3-42acdb8afd53",
+      "detail": "How abnormalities of the oral cavity and the rest of the patient may affect their dental devices."
+    },
+    {
+      "knowledgeId": "083771b3-f6cf-432f-a5c6-a4d9c79aa012",
+      "detail": "The variance in disease presentation across diverse cultural and social groups, and those with protected characteristics, and how this impacts diagnosis, prevention, and treatment."
+    },
+    {
+      "knowledgeId": "416e29fb-9b86-48a3-b1a1-274929a03e47",
+      "detail": "The relevance to patient management of dental, oral, craniofacial, and general anatomy, recognising the diversity of anatomy across the patient."
+    },
+    {
+      "knowledgeId": "8f0691d5-7ca8-47cf-ae56-c28c179d7452",
+      "detail": "The potential routes of transmission of infectious agents in the dental laboratory, mechanisms for the prevention of infection, the scientific principles of decontamination and disinfection and their relevance to health and safety."
+    },
+    {
+      "knowledgeId": "12967ab8-bcbc-491f-94c3-c0a0f2e6a470",
+      "detail": "The need for effective recorded maintenance and testing of equipment and requirements for appropriate storage, handling, and use of materials."
+    },
+    {
+      "knowledgeId": "5d4d3b2d-dc13-4514-b750-a30fc6542e9b",
+      "detail": "The scientific principles underpinning the use of materials and biomaterials used in dentistry."
+    },
+    {
+      "knowledgeId": "01f7015b-d95f-4292-8d48-d67ebee89f2f",
+      "detail": "The principles of obtaining valid patient consent."
+    },
+    {
+      "knowledgeId": "38fce2b3-7171-4a30-8226-4b7e45054490",
+      "detail": "How to raise safeguarding concerns for children and adults and act accordingly."
+    },
+    {
+      "knowledgeId": "c6656c29-98d7-4e95-8244-c41abff028fc",
+      "detail": "Principles of preventive care."
+    },
+    {
+      "knowledgeId": "ffbaf4a8-cd2f-4101-8a94-ea1ed4ded7f4",
+      "detail": "The importance of achieving a healthy oral environment prior to introduction of a prosthesis."
+    },
+    {
+      "knowledgeId": "fea51975-2101-41bc-a21e-4692a6607adb",
+      "detail": "The roles and organisation of various referral networks, clinical guidelines and policies and local variation."
+    },
+    {
+      "knowledgeId": "e6a6625b-99b0-49bf-9e86-e776bca94c84",
+      "detail": "The responsibilities of the dental team as an access point to and from wider healthcare."
+    },
+    {
+      "knowledgeId": "3f7c78cc-c8f6-4e7e-a8c8-6671e56967bd",
+      "detail": "How the design and manufacture of custom-made dental devices can contribute to the prevention of oral disease and the interests of the patient’s long-term oral, health, safety and well-being."
+    },
+    {
+      "knowledgeId": "962d4e18-97c5-4f76-819d-743f8a93f5b3",
+      "detail": "The procedures used in the design and manufacture of custom-made dental devices."
+    },
+    {
+      "knowledgeId": "3cd50ebe-b869-4f3e-9fd7-87d2e754c5fe",
+      "detail": "Removed"
+    },
+    {
+      "knowledgeId": "7ec6d19e-15f4-4827-aeb4-ce004b517add",
+      "detail": "The risks within and around the laboratory environment."
+    },
+    {
+      "knowledgeId": "1301b51e-f19e-429b-9af3-b692906060bb",
+      "detail": "The principles of evidence based and appropriate design in the manufacture and provision of custom-made dental devices."
+    },
+    {
+      "knowledgeId": "0c5b527c-c470-4c96-85e6-1a5e0f75d5ed",
+      "detail": "The use of a range of communication methods and technologies and their appropriate application in support of clinical practice."
+    },
+    {
+      "knowledgeId": "632851f6-3559-46d4-9d95-b7fc444ec9df",
+      "detail": "The importance of non-verbal communication, including listening skills, and the barriers to effective communication."
+    },
+    {
+      "knowledgeId": "6e964a30-ffc5-4ab7-bf42-b229018b8f43",
+      "detail": "The professional expectations, potential impact, and consequence of using social media as a communication tool."
+    },
+    {
+      "knowledgeId": "c9de2c8b-d360-4f47-adb9-f1237ab7ef7e",
+      "detail": "The importance of contemporaneous, complete and accurate patient records in accordance with legal requirements and best practice."
+    },
+    {
+      "knowledgeId": "43f80aa1-29c2-4fcc-82a6-6c8fe01e9355",
+      "detail": "Describe the legal responsibilities of maintaining and protecting patients’ information."
+    },
+    {
+      "knowledgeId": "4955b52a-6ae5-4393-9c08-45f092986135",
+      "detail": "The responsibilities and limitations of delegating to other members of the dental team."
+    },
+    {
+      "knowledgeId": "dcf0de3a-7cf3-4eb7-992c-627244ef7b9b",
+      "detail": "The role and professional responsibilities associated with appraisal; training and review of colleagues; provision of and receipt of effective feedback in the context of developing members of the dental team."
+    },
+    {
+      "knowledgeId": "f06e797d-5edd-4ac1-8063-d828eaf4e891",
+      "detail": "The roles of dental and other healthcare professionals in the context of learning and working in a dental and wider healthcare team."
+    },
+    {
+      "knowledgeId": "b0e61bd6-fa0d-452b-a565-8d7ec9314bdc",
+      "detail": "The contribution that team members and effective team working makes to the delivery of safe and effective high-quality care, including the benefits of working in culturally diverse teams."
+    },
+    {
+      "knowledgeId": "4ba072b3-8b3d-4e11-9992-09b1aee4c8db",
+      "detail": "Team working guidance provided by the GDC and other relevant bodies."
+    },
+    {
+      "knowledgeId": "c3eec439-f3ef-43dc-ac93-e940e195adc4",
+      "detail": "The impact of Direct Access on each registrant group and the impact on the application of each group’s scope of practice."
+    },
+    {
+      "knowledgeId": "db7d0312-1540-4d43-b09a-c2b890747669",
+      "detail": "The scope of practice of each member of the dental team and how the roles interact for effective teamwork and patient care."
+    },
+    {
+      "knowledgeId": "7bbd8c3f-8a18-4969-b431-2b057f107f47",
+      "detail": "The need to ensure that those who raise concerns are protected from discrimination or other detrimental effects."
+    },
+    {
+      "knowledgeId": "bd0f4ff5-e4b3-4f37-b82e-bdf29e2af20e",
+      "detail": "The differences between management and leadership."
+    },
+    {
+      "knowledgeId": "0f164e8c-da91-4707-a732-5b8ae53edd06",
+      "detail": "Own management and leadership role and the range of skills and knowledge required to do this effectively."
+    },
+    {
+      "knowledgeId": "569107b6-c280-4d0d-8aa9-fc01638d711f",
+      "detail": "How to take responsibility for the quality of services and devices provided to the patient as relevant to own scope of practice."
+    },
+    {
+      "knowledgeId": "fbbed51f-c77c-4056-9f9b-49b96b16c330",
+      "detail": "The importance of having appropriate indemnity arrangements in place for both the professional and patient."
+    },
+    {
+      "knowledgeId": "ebb425d5-15c0-4528-8ccb-dd1b6e886230",
+      "detail": "The importance of candour and effective communication with patients when things go wrong or when dealing with a complaint."
+    },
+    {
+      "knowledgeId": "9a2aded5-2045-40ca-9d3d-5e3acf75b1b5",
+      "detail": "How and where to report any patient safety issues which arise."
+    },
+    {
+      "knowledgeId": "534eb941-b662-416f-8b5c-a488e2fe7ef3",
+      "detail": "Explain the personal responsibility and the mechanisms for raising concerns about your own or others’ health, behaviour or professional performance as described in GDC guidance."
+    },
+    {
+      "knowledgeId": "7c9faaee-aa65-47ca-9871-aa9eed55a51e",
+      "detail": "Explain the attributes of professional attitudes and behaviour in all environments and media, including interaction with social media."
+    },
+    {
+      "knowledgeId": "c11d6836-bb7a-4aa4-a2b2-e64999c59d2c",
+      "detail": "The principles and procedures for good complaints handling."
+    },
+    {
+      "knowledgeId": "a7411ef4-3ac5-4a6d-aabc-f3876acfa09a",
+      "detail": "The responsibility that dental practices and individual practitioners have in compliance with legal and regulatory frameworks."
+    },
+    {
+      "knowledgeId": "98e07772-60a9-4348-b10d-c5c9217acd29",
+      "detail": "Diversity, equality, inclusion and discrimination and the underpinning legislation, and explain how to apply these principles to manage patients with protected characteristics and work within the dental team, noting that this legislation may differ in England, Scotland, Wales and Northern Ireland."
+    },
+    {
+      "knowledgeId": "00a48cc9-7d75-4a21-a06a-35927bb263ad",
+      "detail": "Cultural competence and its relevance in assessing the needs and planning care for patients from diverse backgrounds."
+    },
+    {
+      "knowledgeId": "4e9e80f9-9e53-4fc2-9af4-9f0b47a114b1",
+      "detail": "The GDC’s expectations and requirements as set out in regulations and guidance and other relevant laws, ethical guidance and systems, in addition to the above legal frameworks."
+    },
+    {
+      "knowledgeId": "c436fedd-1a6d-40cf-aea2-dbaa54e374cc",
+      "detail": "The basic principles of a population health approach including demographic and social trends, UK and international oral health trends, determinants of health and inequalities in health, and the ways in which these are measured and current patterns."
+    },
+    {
+      "knowledgeId": "3ff44c41-8733-4ef6-a5ce-7adeab3c0586",
+      "detail": "The dental and wider healthcare systems dental professionals work within including local and national health policy and organisations, delivery of healthcare and equity."
+    },
+    {
+      "knowledgeId": "69e00273-ed27-4a19-94a3-b356aca2ed42",
+      "detail": "The role of health promotion in terms of the changing environment, community and individual behaviours to deliver health gain."
+    },
+    {
+      "knowledgeId": "c332b0ea-d8a3-47cb-ab12-e9a06025b5ec",
+      "detail": "Methods of evidence-based prevention at a community and or population level."
+    },
+    {
+      "knowledgeId": "729941ab-83f6-4fa6-b4f1-fbe62cc97446",
+      "detail": "The principles of planning oral health care for communities to meet needs and demands."
+    },
+    {
+      "knowledgeId": "789f9035-78ce-4c30-af6b-e3cb00f6c3fa",
+      "detail": "The principles and limitations of the currently available options for funding of dental healthcare provision for individual patients."
+    },
+    {
+      "knowledgeId": "738d1aaa-205e-439c-b28e-605787e32723",
+      "detail": "The ethical challenges associated with providing patient care within the current dental healthcare systems."
+    },
+    {
+      "knowledgeId": "86176a22-7bef-4fdf-a52a-f5becd3205ea",
+      "detail": "The management of resources in provision of care decisions including appropriate use of primary and secondary care networks."
+    },
+    {
+      "knowledgeId": "201d46ea-02c7-47ab-a597-2d7505ab0311",
+      "detail": "The importance of collaboration across the health and social care sector for the benefit of communities and individual patients."
+    },
+    {
+      "knowledgeId": "2b37f82f-3f00-4fbc-b4dd-7da340d3faba",
+      "detail": "The barriers and challenges which prevent sections of the population accessing oral healthcare, including patients from marginalised populations and patients with protected characteristics."
+    },
+    {
+      "knowledgeId": "21f4e1a8-c051-4c03-8b03-0b49f8829caf",
+      "detail": "The main principles relating to sustainable oral health care, both environmentally and in terms of patient compliance, and the factors that might affect implementing a sustainable approach."
+    },
+    {
+      "knowledgeId": "8da2384c-89b5-4a46-af1e-a1b5b5a79e9c",
+      "detail": "The term insight in the context of professional practice."
+    },
+    {
+      "knowledgeId": "fb049805-dd8f-487c-a4a8-fc63aa0eb11c",
+      "detail": "Why insight is important in ensuring safe and effective patient care, and to personal development."
+    },
+    {
+      "knowledgeId": "a58559c9-a2cc-4695-8496-20198a1664df",
+      "detail": "The principles of an evidence-based approach."
+    },
+    {
+      "knowledgeId": "e95c0b2a-02c7-4aa7-8df8-dc25ff6adde4",
+      "detail": "Models for self-reflection and how this process can be used to inform personal development, viewpoint, preconceptions, bias and behaviour."
+    },
+    {
+      "knowledgeId": "25ef09a2-e5bc-4b1c-b2a6-903fe8e33fa6",
+      "detail": "The importance of assessment, feedback, critical reflection, identification of learning needs and appraisal in personal development planning."
+    },
+    {
+      "knowledgeId": "00b9f3d9-db82-419f-8d86-203e71a0e352",
+      "detail": "The importance of and requirement for commitment to lifelong learning."
+    },
+    {
+      "knowledgeId": "a8d3bcb3-b74f-4bf3-80e3-cb3ea7bf5be1",
+      "detail": "Describe the principles of personal development planning, recording of evidence, and reflective practice."
+    },
+    {
+      "knowledgeId": "f5fc5359-d867-4a95-95df-51de613d0403",
+      "detail": "Opportunities for improvement of a clinical service or to manage and or mitigate risks."
+    },
+    {
+      "knowledgeId": "9c8f04a8-3111-4d05-8b70-d3dfa71000f6",
+      "detail": "Ways to self-monitor, self-care and routes of seeking appropriate advice in terms of personal wellbeing."
+    },
+    {
+      "knowledgeId": "2a773647-9424-42e8-9230-8c9d0b812cf8",
+      "detail": "Strategies to identify and manage the personal and emotional challenges of work, teamwork and workload."
+    },
+    {
+      "knowledgeId": "7c6a8b57-da58-4778-9f7d-98174a2ca719",
+      "detail": "Strategies to identify and manage the personal and emotional challenges of uncertainty and change."
+    },
+    {
+      "knowledgeId": "cde5e3af-ed6f-4571-aded-c0e333822a12",
+      "detail": "The role of coping strategies for practice, such as reflection, self-acceptance, debriefing, handing over to another colleague, peer support and asking for help in responding to challenges and setbacks."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+      "detail": "Compassionate professional behaviour and professional responsibilities making sure the fundamental needs of patients and carers are addressed."
+    },
+    {
+      "behaviourId": "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+      "detail": "Act with integrity, be polite, considerate, trustworthy, conscientious and honest."
+    },
+    {
+      "behaviourId": "9d266399-566e-4324-b457-a78819cf61af",
+      "detail": "Take personal and professional responsibility for their actions."
+    },
+    {
+      "behaviourId": "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+      "detail": "Manage time and prioritise effectively."
+    },
+    {
+      "behaviourId": "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+      "detail": "Be open and honest in their interactions with patients, carers, colleagues and employers when things go wrong, known as the professional duty of candour."
+    },
+    {
+      "behaviourId": "0816a0c4-c57e-415e-90bf-284cea657e4e",
+      "detail": "Respect patients’ wishes about whether they wish to participate in the education of learners."
+    },
+    {
+      "behaviourId": "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+      "detail": "Uphold the General Dental Council Standards for The Dental Team (2013)."
+    },
+    {
+      "behaviourId": "38b70576-f942-4a57-ab3d-2a7fcc933e59",
+      "detail": "Willingness to learn, and be proactive in progressing in your own development."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "93c06f0b-c3ab-4021-bdc5-a59a9b2ee1dc",
+      "detail": "Identify relevant and appropriate dental, oral, craniofacial, and general anatomy, recognising the diversity of anatomy across the patient population."
+    },
+    {
+      "skillId": "50f1bf4b-f012-4ad5-9a6d-134e9fc737c4",
+      "detail": "Evaluate the scientific principles underpinning the use of materials and Biomaterials, their limitations and selection, with emphasis on those used in dentistry."
+    },
+    {
+      "skillId": "be9cb906-a68a-4feb-97ac-7aaa7c7af71d",
+      "detail": "Identify the signs of abuse, neglect or emotional trauma, explain local and national systems that safeguard the welfare of children and adults."
+    },
+    {
+      "skillId": "eaf41eb8-6e26-45ce-b686-468e685da5d7",
+      "detail": "Assess patients’ levels of anxiety, experience, and expectations in respect of dental care and oral health."
+    },
+    {
+      "skillId": "63991752-2976-4981-9305-69e57e0c60ad",
+      "detail": "Obtain valid consent from patients explaining all the relevant factors and taking into account the legal requirements where appropriate within scope of practice."
+    },
+    {
+      "skillId": "c5050980-9dfe-43fd-81a0-2cd3f7bc4b18",
+      "detail": "Adopt an evidence-based approach to clinical practice."
+    },
+    {
+      "skillId": "111bfb08-f0a8-4359-b784-d1195454bf1f",
+      "detail": "Assess own capabilities and limitations and refer patients for treatment or advice when and where appropriate."
+    },
+    {
+      "skillId": "f67c4ba4-7fe5-403f-bd5b-8d46916ec9eb",
+      "detail": "Identify the risks within and around the laboratory environment and manage these in a safe and effective manner."
+    },
+    {
+      "skillId": "73cb4ac4-dd40-4281-a9bb-62e4481e406a",
+      "detail": "Implement, perform, and manage effective decontamination and infection control procedures according to current guidelines, considering their effect on materials."
+    },
+    {
+      "skillId": "8f4530ba-39ac-4cd7-a737-91a275082c43",
+      "detail": "Identify, assess, and manage medical emergencies."
+    },
+    {
+      "skillId": "e3e509b7-9e5b-4d4f-861e-5a41a230d3e4",
+      "detail": "Provide patients/carers with comprehensive, personalised preventive advice, instruction and intervention in a manner which is accessible, promotes self-care and motivates patients and or carers to comply with advice and take responsibility to maintain and improve oral health."
+    },
+    {
+      "skillId": "e24ee93b-1477-4044-9be5-888b28a0457d",
+      "detail": "Design, manufacture, assess and provide biomechanically sound removable devices."
+    },
+    {
+      "skillId": "3401add2-ead3-4759-ba69-fa88d65e98fe",
+      "detail": "Design, manufacture, assess and provide biomechanically sound fixed prostheses."
+    },
+    {
+      "skillId": "1e6891df-4203-4481-bf8d-bcbfdd5089e4",
+      "detail": "Design, manufacture, assess and provide biomechanically sound orthodontic appliances."
+    },
+    {
+      "skillId": "bd60522a-5730-4a3d-aa48-e8beb4a17f2f",
+      "detail": "Repair and modify removable custom-made dental devices to meet the needs of the patient."
+    },
+    {
+      "skillId": "bdfabdd4-d270-4f9c-bafa-cf85dbb7a173",
+      "detail": "Assess and ensure fitness for purpose of custom-made dental devices and propose alternative solutions where required."
+    },
+    {
+      "skillId": "def52efe-44cd-409a-b222-ee8420880a21",
+      "detail": "Evaluate for individual patients the need for more complex treatment and seek advice."
+    },
+    {
+      "skillId": "311c31f1-7511-4160-9c07-1e87cb99e447",
+      "detail": "Carry out procedures to meet the prescription."
+    },
+    {
+      "skillId": "800e3dfb-a567-4ec6-8bca-a9eb5c75d3a9",
+      "detail": "Apply the principles of evidence based and appropriate design in the manufacture and provision of custom-made dental devices."
+    },
+    {
+      "skillId": "3936a25d-b06d-4f9c-839a-f765f678c801",
+      "detail": "Communicate effectively and sensitively, tailoring to context, by spoken, written and or electronic means with all patients, including patients whose first language is not English, using representatives or interpreters where necessary, in relation to, patients with anxious or challenging behaviour or special considerations such as emotional trauma, difficult circumstances, such as breaking bad news, or discussing issues such as alcohol consumption, smoking, or diet."
+    },
+    {
+      "skillId": "d052dc75-e9bd-4519-bb51-a7b72686eaa4",
+      "detail": "Communicate effectively and sensitively by spoken, written and electronic means with the public."
+    },
+    {
+      "skillId": "0deb492e-990e-4118-8083-cc4f109a460e",
+      "detail": "Communicate effectively by spoken, written and electronic means with colleagues from dental and other healthcare professions in relation to the direct care of individual patients, oral health promotion, raising concerns when problems arise and including where patients cause distress to staff."
+    },
+    {
+      "skillId": "3a8fda69-deb5-47fb-b5eb-84a84f879e7d",
+      "detail": "Use appropriate methods to provide accurate, clear and comprehensive information when referring patients to other dental and healthcare professionals."
+    },
+    {
+      "skillId": "8d111d03-afb2-480a-bcd1-cea1310dc285",
+      "detail": "Communicate appropriately and effectively in professional discussions and transactions."
+    },
+    {
+      "skillId": "2344d379-cb94-4249-9d05-c3ae00bb42a4",
+      "detail": "Communicate with care, compassion, empathy and respect in all professional interactions with patients, their representatives, the public and colleagues."
+    },
+    {
+      "skillId": "bbddcd7d-c45a-4c8a-bce4-4e6a7e41f8c6",
+      "detail": "Maintain contemporaneous, complete and accurate patient records in accordance with legal requirements and best practice."
+    },
+    {
+      "skillId": "bc6db4cc-682b-4e5e-90d8-089d6a7143d9",
+      "detail": "Give feedback effectively to other members of the team."
+    },
+    {
+      "skillId": "6d290823-ee79-4b6b-895e-e43f2a88d8fc",
+      "detail": "Respect the roles of dental and other healthcare professionals in the context of learning and working in a dental and wider healthcare team."
+    },
+    {
+      "skillId": "db308d12-d158-4e9a-8629-4d942f7d085d",
+      "detail": "Demonstrate effective team working."
+    },
+    {
+      "skillId": "29b10954-3d27-4ea8-8e79-4938ad1552ae",
+      "detail": "Contribute to your team in providing dental care for patients."
+    },
+    {
+      "skillId": "7330f98e-8f4f-4647-8d44-2a80f83a6f30",
+      "detail": "Take a patient-centred approach to working with the dental and wider healthcare team."
+    },
+    {
+      "skillId": "92788233-36e1-4b31-b852-e10294a67557",
+      "detail": "Where appropriate manage and refer/delegate work according to the scope of practice of members of the dental team, in line with competence and professional practice."
+    },
+    {
+      "skillId": "025c4c18-3bcf-4242-bd48-8c57968375a6",
+      "detail": "Provide the best possible outcome for your patients by using your knowledge and skills, acting as an advocate for their needs where appropriate."
+    },
+    {
+      "skillId": "eaf153bc-94ec-40c2-9d52-b1fc27902e54",
+      "detail": "Speak up to protect others from harm."
+    },
+    {
+      "skillId": "af23d1ed-4176-4931-bf52-7037d0dda64f",
+      "detail": "Raise concerns where appropriate about your own or others’ health, behaviour or professional performance."
+    },
+    {
+      "skillId": "c15fb039-cac4-4d8d-a52d-cf5606bb19ec",
+      "detail": "Comply with systems and processes to support safe patient care."
+    },
+    {
+      "skillId": "1587115c-9387-4c06-aad8-0f78b4534646",
+      "detail": "Act in accordance with current best practice guidelines."
+    },
+    {
+      "skillId": "cdb2eb6e-1496-4084-b12c-d176314822fe",
+      "detail": "Act in accordance with national and local clinical governance and health and safety requirements."
+    },
+    {
+      "skillId": "1501446a-0be0-4e0f-8a51-2b35f1bb0591",
+      "detail": "Act within the legal frameworks which inform personal behaviour, the delivery of healthcare and the protection and promotion of the health of individual patients."
+    },
+    {
+      "skillId": "f7a1a2e9-d8a1-415b-b0c2-0b72dcdec22a",
+      "detail": "Act with integrity and ensure your actions maintain the trust of colleagues, patients, and the public in you, your team, and the profession across all environments and media."
+    },
+    {
+      "skillId": "c2858e8a-626d-4b1f-a7cd-c32b3b4417b9",
+      "detail": "Proactively address discriminatory language, behaviour and microaggressions from colleagues, patients and other professionals."
+    },
+    {
+      "skillId": "5cb40369-e96b-4503-b116-dfcc491379e3",
+      "detail": "Demonstrate personal accountability to patients, the regulator, the team and wider community."
+    },
+    {
+      "skillId": "ee067928-e98c-4373-ba2e-8238201d5af4",
+      "detail": "Work in partnership with colleagues to develop and maintain an effective and supportive environment which promotes the safety and wellbeing of the patient and dental team."
+    },
+    {
+      "skillId": "4d4a1f46-a552-42da-a959-1c564ee3fb07",
+      "detail": "Where appropriate lead, manage and take professional responsibility for the actions of colleagues and other members of the team involved in patient care."
+    },
+    {
+      "skillId": "f2252c9f-c934-4512-b8ce-5ca72c01a706",
+      "detail": "Treat your patients, members of the public and your colleagues with dignity and respect and without discrimination."
+    },
+    {
+      "skillId": "1ca1b433-a688-4974-9d72-a36ae3d9e637",
+      "detail": "Support patients to make informed decisions about their care, making their interests your first concern."
+    },
+    {
+      "skillId": "8cbbb0e2-c1d3-48eb-98c9-b230b99c34d3",
+      "detail": "Demonstrate cultural competence, accepting and respecting the diversity of patients and colleagues."
+    },
+    {
+      "skillId": "1b834e25-ce75-4e22-8d7f-ddf9b6b97f6c",
+      "detail": "Evaluate the role of health promotion in terms of the changing environment, community and individual behaviours to deliver health gain."
+    },
+    {
+      "skillId": "dbc73a7c-efca-46ea-8d81-c994cd9db9c7",
+      "detail": "Evaluate the effectiveness of evidence-based prevention at a community and or population level."
+    },
+    {
+      "skillId": "d2e8ed0c-1f59-4b78-a22d-a9c32bc89189",
+      "detail": "Where appropriate support patients to negotiate the barriers and challenges which prevent sections of the population accessing oral healthcare, including patients from marginalised populations and patients with protected characteristics."
+    },
+    {
+      "skillId": "0609fb0c-ccdb-46e5-9130-fe67cf9fceb9",
+      "detail": "Evaluate and apply the evidence base in relation to the environmental impacts of common treatment methods and approaches to the delivery of oral healthcare."
+    },
+    {
+      "skillId": "0a9bc82f-506a-4879-8a33-2e5557505e48",
+      "detail": "Contribute positively to the healthcare communities of which you are a part."
+    },
+    {
+      "skillId": "a68979fd-b7e1-42b9-8e86-a55be598926f",
+      "detail": "Evaluate an evidence base."
+    },
+    {
+      "skillId": "efd7c73d-0df1-442e-81e9-2ca34ae80568",
+      "detail": "Utilise the receipt of effective feedback in the professional development of self."
+    },
+    {
+      "skillId": "57564a89-6fa3-4bf8-9af0-0b17160940d2",
+      "detail": "Demonstrate personal development planning, recording of evidence, and reflective practice."
+    },
+    {
+      "skillId": "81ce4a7d-b917-4302-9556-198bebf1f49e",
+      "detail": "Evaluate the impact of new techniques and technologies as they relate to dental technology practice."
+    },
+    {
+      "skillId": "950ac8ba-023b-4e61-b88a-ba759eda5ec8",
+      "detail": "Accurately assess your own capabilities and limitations in the interest of high-quality patient care and seek advice from supervisors or colleagues where appropriate."
+    },
+    {
+      "skillId": "b0fcc31b-5fc5-4fb9-b7db-e2e37cb14970",
+      "detail": "Recognise personal assumptions, biases and prejudices and manage the impact of these on patient care and professional behaviour with colleagues, patients and wider society."
+    },
+    {
+      "skillId": "99f4aa68-2d32-4fa9-ba26-ede39ad42693",
+      "detail": "Recognise the impact of contextual factors on the health care environment and patient safety and manage this professionally."
+    },
+    {
+      "skillId": "f1ef6983-37ae-4718-80ff-64ae733d80bd",
+      "detail": "Demonstrate own professional responsibility in the development of self."
+    },
+    {
+      "skillId": "0d4891df-92cb-48ff-9d9a-6e7526753bf4",
+      "detail": "Develop and maintain professional knowledge and competence."
+    },
+    {
+      "skillId": "153f9016-4f0b-43c4-8d7a-49b188213fcf",
+      "detail": "Demonstrate appropriate continuous improvement activities."
+    },
+    {
+      "skillId": "88d2c135-897b-4b12-9e8a-291d7e28f129",
+      "detail": "Demonstrate engagement with systems and personal strategies which promote and maintain physical and mental wellbeing."
+    },
+    {
+      "skillId": "85bae774-63dc-41f4-85e3-8de25fcd67d5",
+      "detail": "Recognise when and how to take action if wellbeing is compromised to a point of affecting an individual’s role or professional relationships."
+    },
+    {
+      "skillId": "3963acd7-bebf-454e-9164-134c7247c1e6",
+      "detail": "Effectively manage your own time and resources."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "2024-12-11T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": null,
+  "integratedDegree": "",
+  "tbReference": "TB0600",
+  "tbMainContact": "john.darby@hee.nhs.uk; Ruth.Chesmore@bupadentalcare.co.uk; shalin.mehra@rodericksdental.co.uk",
+  "involvedEmployers": "Bupa Dental Care, City and Guilds, Colosseum Dental, Community Dental Services, Damira Dental, General Dental Council, NCFE, Nexus Dental, Northern Skills Group, Obex Dental, Orthodontic Team Training, Riverdale Healthcare, Rodericks Dental, Skills for Health, Smile Dental Care, Taunton & Somerset NHS Foundation Trust, Tempdent, Today's Dental, UCLAN, University of Bolton, Workforce Development Trust, Yoevil College",
+  "otherInvolvedStakeholders": "",
+  "regulated": true,
+  "regulatedBody": "General Dental Council",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Dental technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Health",
+  "cluster": "Health practitioner",
+  "clusterId": "10",
+  "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
+  "createdDate": "2025-03-04T15:00:43 +00:00",
+  "lastUpdated": "2025-03-04T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2024-12-11T00:00:00 +00:00",
+  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) is in place. Once an EPAO is in place, funding for apprentice starts will be permitted and this message will be removed.",
+  "occupationCode": "OCC1432",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1432-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1432-v1-2",
+  "qualifications": [
+    {
+      "qualificationId": "ea586887-f472-44f3-9c90-23b9822bc327",
+      "title": "A qualification approved by the GDC to enable professional registration with the GDC as a Dental Technician",
+      "level": "5",
+      "anyAdditionalInformation": "On completion of the apprenticeship the apprentice can apply to register with the General Dental Council as a Dental Technician, by virtue of an acceptable qualification accredited by the GDC.The education and training providers must be compliant with the GDC Standards, Student fitness to practice and requirements for providers of education and training programmes.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "10507a90-2c4d-41a7-aac6-f185dda47b4f",
+      "dutyDetail": "Undertake routine dental technology clinical and technical procedures and tasks relevant to the assessment and diagnosis of patients.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "12c09631-ae06-4efd-8e6f-ddf732754586",
+        "2abfff29-88a8-45b0-89e3-42acdb8afd53",
+        "083771b3-f6cf-432f-a5c6-a4d9c79aa012",
+        "416e29fb-9b86-48a3-b1a1-274929a03e47",
+        "8f0691d5-7ca8-47cf-ae56-c28c179d7452",
+        "12967ab8-bcbc-491f-94c3-c0a0f2e6a470",
+        "5d4d3b2d-dc13-4514-b750-a30fc6542e9b",
+        "01f7015b-d95f-4292-8d48-d67ebee89f2f",
+        "38fce2b3-7171-4a30-8226-4b7e45054490"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "93c06f0b-c3ab-4021-bdc5-a59a9b2ee1dc",
+        "50f1bf4b-f012-4ad5-9a6d-134e9fc737c4",
+        "be9cb906-a68a-4feb-97ac-7aaa7c7af71d",
+        "eaf41eb8-6e26-45ce-b686-468e685da5d7",
+        "63991752-2976-4981-9305-69e57e0c60ad",
+        "c5050980-9dfe-43fd-81a0-2cd3f7bc4b18"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "79f9661c-41a2-45bc-849a-94b1df92dc2e",
+      "dutyDetail": "Undertake routine dental technology clinical and technical procedures and tasks relevant to treatment planning and onward referral of patients.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "c6656c29-98d7-4e95-8244-c41abff028fc",
+        "ffbaf4a8-cd2f-4101-8a94-ea1ed4ded7f4",
+        "fea51975-2101-41bc-a21e-4692a6607adb",
+        "e6a6625b-99b0-49bf-9e86-e776bca94c84",
+        "3f7c78cc-c8f6-4e7e-a8c8-6671e56967bd",
+        "962d4e18-97c5-4f76-819d-743f8a93f5b3",
+        "7ec6d19e-15f4-4827-aeb4-ce004b517add",
+        "1301b51e-f19e-429b-9af3-b692906060bb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "111bfb08-f0a8-4359-b784-d1195454bf1f",
+        "f67c4ba4-7fe5-403f-bd5b-8d46916ec9eb",
+        "73cb4ac4-dd40-4281-a9bb-62e4481e406a",
+        "8f4530ba-39ac-4cd7-a737-91a275082c43",
+        "e3e509b7-9e5b-4d4f-861e-5a41a230d3e4",
+        "e24ee93b-1477-4044-9be5-888b28a0457d",
+        "3401add2-ead3-4759-ba69-fa88d65e98fe",
+        "1e6891df-4203-4481-bf8d-bcbfdd5089e4",
+        "bd60522a-5730-4a3d-aa48-e8beb4a17f2f",
+        "bdfabdd4-d270-4f9c-bafa-cf85dbb7a173",
+        "def52efe-44cd-409a-b222-ee8420880a21",
+        "311c31f1-7511-4160-9c07-1e87cb99e447",
+        "800e3dfb-a567-4ec6-8bca-a9eb5c75d3a9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1d7ec55c-fafa-41a0-b407-701c640c3198",
+      "dutyDetail": "Communicate effectively, maintaining confidentiality and records appropriately.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "0c5b527c-c470-4c96-85e6-1a5e0f75d5ed",
+        "632851f6-3559-46d4-9d95-b7fc444ec9df",
+        "6e964a30-ffc5-4ab7-bf42-b229018b8f43",
+        "c9de2c8b-d360-4f47-adb9-f1237ab7ef7e",
+        "43f80aa1-29c2-4fcc-82a6-6c8fe01e9355"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "3936a25d-b06d-4f9c-839a-f765f678c801",
+        "d052dc75-e9bd-4519-bb51-a7b72686eaa4",
+        "0deb492e-990e-4118-8083-cc4f109a460e",
+        "3a8fda69-deb5-47fb-b5eb-84a84f879e7d",
+        "8d111d03-afb2-480a-bcd1-cea1310dc285",
+        "2344d379-cb94-4249-9d05-c3ae00bb42a4",
+        "bbddcd7d-c45a-4c8a-bce4-4e6a7e41f8c6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b154a909-f0a5-40be-a72a-9cc8876cdcd8",
+      "dutyDetail": "Provide professional leadership within the team working in partnership with patients, dental teams, other health and social care professionals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "4955b52a-6ae5-4393-9c08-45f092986135",
+        "dcf0de3a-7cf3-4eb7-992c-627244ef7b9b",
+        "f06e797d-5edd-4ac1-8063-d828eaf4e891",
+        "b0e61bd6-fa0d-452b-a565-8d7ec9314bdc",
+        "4ba072b3-8b3d-4e11-9992-09b1aee4c8db",
+        "c3eec439-f3ef-43dc-ac93-e940e195adc4",
+        "db7d0312-1540-4d43-b09a-c2b890747669",
+        "7bbd8c3f-8a18-4969-b431-2b057f107f47",
+        "bd0f4ff5-e4b3-4f37-b82e-bdf29e2af20e",
+        "0f164e8c-da91-4707-a732-5b8ae53edd06",
+        "569107b6-c280-4d0d-8aa9-fc01638d711f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bc6db4cc-682b-4e5e-90d8-089d6a7143d9",
+        "6d290823-ee79-4b6b-895e-e43f2a88d8fc",
+        "db308d12-d158-4e9a-8629-4d942f7d085d",
+        "29b10954-3d27-4ea8-8e79-4938ad1552ae",
+        "7330f98e-8f4f-4647-8d44-2a80f83a6f30",
+        "92788233-36e1-4b31-b852-e10294a67557"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4113ca84-be55-4836-9b38-d2032d426a2d",
+      "dutyDetail": "Practise as an autonomous professional exercising judgement and integrity, keeping within the scope of practice and the legal and ethical boundaries of the profession.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "fbbed51f-c77c-4056-9f9b-49b96b16c330",
+        "ebb425d5-15c0-4528-8ccb-dd1b6e886230",
+        "9a2aded5-2045-40ca-9d3d-5e3acf75b1b5",
+        "534eb941-b662-416f-8b5c-a488e2fe7ef3",
+        "7c9faaee-aa65-47ca-9871-aa9eed55a51e",
+        "c11d6836-bb7a-4aa4-a2b2-e64999c59d2c",
+        "a7411ef4-3ac5-4a6d-aabc-f3876acfa09a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "025c4c18-3bcf-4242-bd48-8c57968375a6",
+        "eaf153bc-94ec-40c2-9d52-b1fc27902e54",
+        "af23d1ed-4176-4931-bf52-7037d0dda64f",
+        "c15fb039-cac4-4d8d-a52d-cf5606bb19ec",
+        "1587115c-9387-4c06-aad8-0f78b4534646",
+        "cdb2eb6e-1496-4084-b12c-d176314822fe",
+        "1501446a-0be0-4e0f-8a51-2b35f1bb0591",
+        "f7a1a2e9-d8a1-415b-b0c2-0b72dcdec22a",
+        "c2858e8a-626d-4b1f-a7cd-c32b3b4417b9",
+        "5cb40369-e96b-4503-b116-dfcc491379e3",
+        "ee067928-e98c-4373-ba2e-8238201d5af4",
+        "4d4a1f46-a552-42da-a959-1c564ee3fb07"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5129d480-db06-43f5-89b5-0883302ab91d",
+      "dutyDetail": "Practise in a non-discriminatory and inclusive manner recognising the impact of culture, equality and diversity.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "98e07772-60a9-4348-b10d-c5c9217acd29",
+        "00a48cc9-7d75-4a21-a06a-35927bb263ad",
+        "4e9e80f9-9e53-4fc2-9af4-9f0b47a114b1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "f2252c9f-c934-4512-b8ce-5ca72c01a706",
+        "1ca1b433-a688-4974-9d72-a36ae3d9e637",
+        "8cbbb0e2-c1d3-48eb-98c9-b230b99c34d3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e5e60c30-92cb-48c7-983c-0ee676e86a4c",
+      "dutyDetail": "Promote oral health to individuals and the wider population and raise awareness of its role in preventing ill health amongst communities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "c436fedd-1a6d-40cf-aea2-dbaa54e374cc",
+        "3ff44c41-8733-4ef6-a5ce-7adeab3c0586",
+        "69e00273-ed27-4a19-94a3-b356aca2ed42",
+        "c332b0ea-d8a3-47cb-ab12-e9a06025b5ec",
+        "729941ab-83f6-4fa6-b4f1-fbe62cc97446",
+        "789f9035-78ce-4c30-af6b-e3cb00f6c3fa",
+        "738d1aaa-205e-439c-b28e-605787e32723",
+        "86176a22-7bef-4fdf-a52a-f5becd3205ea",
+        "201d46ea-02c7-47ab-a597-2d7505ab0311",
+        "2b37f82f-3f00-4fbc-b4dd-7da340d3faba",
+        "21f4e1a8-c051-4c03-8b03-0b49f8829caf"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1b834e25-ce75-4e22-8d7f-ddf9b6b97f6c",
+        "dbc73a7c-efca-46ea-8d81-c994cd9db9c7",
+        "d2e8ed0c-1f59-4b78-a22d-a9c32bc89189",
+        "0609fb0c-ccdb-46e5-9130-fe67cf9fceb9",
+        "0a9bc82f-506a-4879-8a33-2e5557505e48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "dc100a34-d4b2-48c0-8930-823c10e864fd",
+      "dutyDetail": "Reflect on, review and develop the quality of own practice.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "8da2384c-89b5-4a46-af1e-a1b5b5a79e9c",
+        "fb049805-dd8f-487c-a4a8-fc63aa0eb11c",
+        "a58559c9-a2cc-4695-8496-20198a1664df",
+        "e95c0b2a-02c7-4aa7-8df8-dc25ff6adde4",
+        "25ef09a2-e5bc-4b1c-b2a6-903fe8e33fa6",
+        "00b9f3d9-db82-419f-8d86-203e71a0e352",
+        "a8d3bcb3-b74f-4bf3-80e3-cb3ea7bf5be1",
+        "f5fc5359-d867-4a95-95df-51de613d0403"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a68979fd-b7e1-42b9-8e86-a55be598926f",
+        "efd7c73d-0df1-442e-81e9-2ca34ae80568",
+        "57564a89-6fa3-4bf8-9af0-0b17160940d2",
+        "81ce4a7d-b917-4302-9556-198bebf1f49e",
+        "950ac8ba-023b-4e61-b88a-ba759eda5ec8",
+        "b0fcc31b-5fc5-4fb9-b7db-e2e37cb14970",
+        "99f4aa68-2d32-4fa9-ba26-ede39ad42693",
+        "f1ef6983-37ae-4718-80ff-64ae733d80bd",
+        "0d4891df-92cb-48ff-9d9a-6e7526753bf4",
+        "153f9016-4f0b-43c4-8d7a-49b188213fcf"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3c9f21c3-cc85-4923-8cc4-a4c92db9129f",
+      "dutyDetail": "Manage own health and well-being and promote the well-being of others in the team.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2bdb2e80-120b-41e0-b4d6-77b788ba8ea4",
+        "bf06a8e6-4b3c-4904-b6a3-0611d1329925",
+        "9d266399-566e-4324-b457-a78819cf61af",
+        "6ef84cea-4acf-4b15-a2f7-e5d740ada532",
+        "a826eaaf-96e0-4afb-a32d-8db53a3bb3ca",
+        "0816a0c4-c57e-415e-90bf-284cea657e4e",
+        "691d9b77-57cf-4fc3-b3ad-b3d0d2eca48b",
+        "38b70576-f942-4a57-ab3d-2a7fcc933e59"
+      ],
+      "mappedKnowledge": [
+        "9c8f04a8-3111-4d05-8b70-d3dfa71000f6",
+        "2a773647-9424-42e8-9230-8c9d0b812cf8",
+        "7c6a8b57-da58-4778-9f7d-98174a2ca719",
+        "cde5e3af-ed6f-4571-aded-c0e333822a12"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "88d2c135-897b-4b12-9e8a-291d7e28f129",
+        "85bae774-63dc-41f4-85e3-8de25fcd67d5",
+        "3963acd7-bebf-454e-9164-134c7247c1e6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [
+    {
+      "name": "Training Provider",
+      "webLink": "",
+      "approved": false
+    },
+    {
+      "name": "EPAO",
+      "webLink": "",
+      "approved": true
+    }
+  ],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2025-03-04T00:00:00"
+}
