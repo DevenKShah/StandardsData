@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 459,
   "referenceNumber": "ST0678",
+  "learningAimClassCode": "",
   "title": "Technical dyer and colourist",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/459",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0678",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": null,
+  "changedDate": "2023-09-12T00:00:00",
   "earliestStartDate": "2019-05-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-09-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing highly specialised dyes and colours.",
   "level": 4,
+  "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Colour scientist",
@@ -36,12 +42,11 @@
     "Dye technologist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/3523/technical-dyer-and-colourist-epa-for-website.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3523/technical-dyer-and-colourist-epa-for-website.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;The Technical dyer and colourist occupation is found within the textile manufacturing sector. The broad purpose of the occupation is to produce highly specialised dyes and colours to provide dye and colour chemistry in the production of textiles, apparel, upholstery and fashion fabrics. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with a wide variety of individuals from the most senior technologists, leaders and directors, to shop floor operatives. Technical Dyers and Colourists work in a factory environment, interchanging between manufacturing facilities and laboratories. Almost all their work is indoors and within a controlled environments where they deal with customers by telephone or email over technical data/job sheets. &lt;br /&gt;&lt;br /&gt;An employee in this occupation is responsible for the exact scientific analysis, accurate measurements, trials, production and quality of dyed, pigmented and colour applications to clothing in a heavily industrialised/mechanised scenario. They work in a senior role and lead a team of dyehouse operatives. They report directly to senior management and directors and have overall scrutiny and responsibility for the accuracy of manufactured products within the dyeing and colouration environment. Technical Dyers and Colourists are employed across micro businesses, SMEs and large businesses, ranging from small dyehouse businesses to large chemical, clothing and retail brand businesses.&lt;/p&gt;",
   "knowledges": [
     {
@@ -197,25 +202,28 @@
       "detail": "Use relevant ICT systems and machinery such as flow control, valve pressure, valve opening machines and spectrometers to determine the correct dye colour"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "UK Fashion & Textile Association (UKFT)",
-    "contactName": "John West",
-    "contactAddress": "3 Queen Square<br>LONDON<br>WC1N 3AR",
-    "contactEmail": "john.west@ukft.org",
-    "webLink": "https://www.ukft.org/"
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-05-16T00:00:00 +00:00",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0429",
-  "tbMainContact": "martin.jenkins@ukft.org, paulhamilton@bulmerandlumb.com ",
+  "tbMainContact": "engineering.manufacturing@education.gov.uk",
   "involvedEmployers": "Bulmer & Lumb Group, Bower Roebuck & Co Ltd, A W Hainsworth & Sons Ltd, Abraham Moon & Sons Ltd, DP Dyers, Pincroft Dyeing & Printing, Atkinson Dyeing Company, Century Dyeing, Holmfirth Dyers, Heathcoat Fabrics Ltd, Park Valley Dyers, British Millerain, Lappet Manufacturing, Standfast & Barracks, Society of Dyers & Colourists, English Fine Cottons, H & C Whitehead, Mallalieus of Delph, Samuel Weller & Sons, SIL Holdings, Marton Mills Co Ltd, Shirley Dyeing & Finishing, Pincroft Dyeing & Printing, Burberry, Camira Fabrics, Heathcoat Fabrics, WooltexUK, J Bradbury Fabrics",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -229,26 +237,34 @@
     "Manufacturing managers",
     "Dye technologist"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Engineering, Design and Development",
-  "cluster": "Design and Development Technical Manager",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, design and development",
+  "cluster": "Design and development technical manager",
+  "clusterId": "254",
+  "clusterDescription": "Design and develop whole product and/or process technologies using a specific discipline or technology or application expertise",
   "createdDate": "2020-01-09T09:34:17 +00:00",
-  "lastUpdated": "2020-01-09T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/technical-dyer-and-colourist-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/technical-dyer-and-colourist-v1-0",
+  "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2019-05-16T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0678",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0",
   "qualifications": [
     {
       "qualificationId": "fdc48052-2696-4d65-9184-2a2448268ebb",
       "title": "Textile Colouration Certificate ",
-      "level": "0",
-      "anyAdditionalInformation": null
+      "level": "4",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [
     {
       "bodyName": "TEXTILE INSTITUTE",
-      "level": "0",
+      "level": " LICENTIATE-SHIP",
       "isPartial": "",
       "partialFreeText": ""
     }
@@ -257,7 +273,7 @@
     {
       "dutyID": "887ec540-a57b-4546-8e36-dc59b21b5a2d",
       "dutyDetail": "Undertake production planning and scheduling of dyeing machines",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
         "21562c30-54e3-444d-a2a2-b0f79dbe3ff0",
@@ -274,7 +290,7 @@
         "790349a1-264f-4794-8ec6-cfac913b7ec2",
         "0d1478f1-88d9-4ef3-b38d-d513f5c0c7db"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
@@ -285,7 +301,7 @@
     {
       "dutyID": "4b83be86-a7ad-445e-8c0a-1286a4f91ca9",
       "dutyDetail": "Generate dyestuff recipes for shade colour and dyeing containing dyes and auxiliary chemicals",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
@@ -297,7 +313,7 @@
         "a925ae49-cc81-48b1-a373-27d6f7721d81",
         "37c60a15-c13f-4f83-8b89-e877486f37d1"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "4cc3b4b5-f67f-4a2a-9091-d8775e59288f",
@@ -309,7 +325,7 @@
     {
       "dutyID": "f7226040-1be1-4b30-a75b-00b83fcaf6c0",
       "dutyDetail": "Programme and monitor computer controlled dye vessels equipment using control systems to ensure dye colouration cycles run to optimum conditions",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
         "21562c30-54e3-444d-a2a2-b0f79dbe3ff0",
@@ -322,7 +338,7 @@
         "ae1b1975-0ff4-4061-82c7-28d4558385e7",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "4cc3b4b5-f67f-4a2a-9091-d8775e59288f",
@@ -334,7 +350,7 @@
     {
       "dutyID": "51511c84-eeeb-4c5e-9150-e8d757d853ac",
       "dutyDetail": "Managing the dye-house production team",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
         "37be4cf1-6013-44f4-b929-503104d5ab88",
@@ -345,7 +361,7 @@
         "eab90d79-9904-4b46-b1c1-5a9490c3936c",
         "ae1b1975-0ff4-4061-82c7-28d4558385e7"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "8bbc3fd4-b427-4d4a-b239-345cf1b46f21",
@@ -357,7 +373,7 @@
     {
       "dutyID": "702e32e9-2d91-4a52-870a-46f5b63359e5",
       "dutyDetail": "Control stock and ordering of dyes and chemicals to maximise efficiency and production forecasting",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
         "21562c30-54e3-444d-a2a2-b0f79dbe3ff0"
@@ -366,7 +382,7 @@
         "eab90d79-9904-4b46-b1c1-5a9490c3936c",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "219b8cd8-bf08-4c1b-991e-0c2c3f75f868",
         "21928f3b-343b-413e-83d7-e56e166df374",
@@ -377,7 +393,7 @@
     {
       "dutyID": "f0cfe963-9871-40d1-99f3-d9b2c6741fde",
       "dutyDetail": "Produce dye and colour recipes (including recipe adjustments) for batch processing, ensuring that environmental controls for chemicals usage are managed and maintained",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
         "37be4cf1-6013-44f4-b929-503104d5ab88",
@@ -387,7 +403,7 @@
         "9af7d340-712c-4bbc-b686-33d013000804",
         "ed0944b8-51ed-47b7-994e-869865c9b35d"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -399,7 +415,7 @@
     {
       "dutyID": "23b82e1e-6505-4dba-806e-2b5049db3c41",
       "dutyDetail": "Undertake client liaison for production planning and delivery to meet client expectations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
@@ -412,7 +428,7 @@
         "9af7d340-712c-4bbc-b686-33d013000804",
         "eab90d79-9904-4b46-b1c1-5a9490c3936c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "219b8cd8-bf08-4c1b-991e-0c2c3f75f868",
         "8bbc3fd4-b427-4d4a-b239-345cf1b46f21",
@@ -423,7 +439,7 @@
     {
       "dutyID": "7cad23ca-a580-496b-8101-df5029bc1c69",
       "dutyDetail": "Carry out colour fastness tests and control the quality of finished products before issuing final authorisations for dyeing and colouring of materials",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
@@ -441,7 +457,7 @@
         "37c60a15-c13f-4f83-8b89-e877486f37d1",
         "e764b13c-1eba-4abf-8515-89562dc4edc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -454,7 +470,7 @@
     {
       "dutyID": "1bc78f8c-195e-4a5a-9ce2-a5d15ce9f71d",
       "dutyDetail": "Undertake colour matching in the laboratory including chemical and physical testing of fibres, yarns and fabrics",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
@@ -469,7 +485,7 @@
         "a925ae49-cc81-48b1-a373-27d6f7721d81",
         "e764b13c-1eba-4abf-8515-89562dc4edc0"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "658b33f4-f5d1-4de4-8d11-8f81748690fb",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -482,7 +498,7 @@
     {
       "dutyID": "a8f9b45a-c5d6-4ffa-ae87-9afd64330a54",
       "dutyDetail": "Use bespoke computer software to ensure product specification and consistent testing, analysis and results reporting",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "9c5ef3e1-286b-4d52-8b1c-51e28c410cd4",
@@ -498,7 +514,7 @@
         "e764b13c-1eba-4abf-8515-89562dc4edc0",
         "86e03c21-a992-472e-a2d0-3119784937b4"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
         "21928f3b-343b-413e-83d7-e56e166df374",
@@ -510,7 +526,7 @@
     {
       "dutyID": "0a6439e9-f929-43a2-8759-353b7cbadd69",
       "dutyDetail": "Control the quality of sample and bulk production in line with industry specifications",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "043c7c68-1913-4744-b62e-5bccd69b99d7",
         "e80de56b-f068-4836-92ba-ec73589c9f96",
@@ -523,7 +539,7 @@
         "e764b13c-1eba-4abf-8515-89562dc4edc0",
         "65531ece-9a96-474b-8a6f-8a644594e4b6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "d938fb7b-e4df-4d70-a93a-682c4ffd9b6f",
         "99ce3239-c079-4c9b-9f36-3e5aadc03721",
@@ -532,5 +548,10 @@
       "criteriaForMeasuringPerformance": "Comply with quality checks for consistent production\n\nAdhere to improvement planning and maintenance scheduling\n\nComply with British Standards (ISO)\n\nCommunicate changes clearly, within the team"
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-09-12T00:00:00"
 }
