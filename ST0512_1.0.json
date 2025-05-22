@@ -1,19 +1,25 @@
 {
+  "templateType": "Structured Apprenticeship Standard",
   "larsCode": 570,
   "referenceNumber": "ST0512",
+  "learningAimClassCode": "",
   "title": "Serious and complex crime investigator (integrated degree)",
-  "status": "Approved for delivery",
-  "url": "https://www.instituteforapprenticeships.org/api/apprenticeshipstandards/570",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0512",
+  "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-04-06T00:00:00",
+  "changedDate": "2023-03-17T00:00:00",
   "earliestStartDate": "2020-07-03T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2023-03-16T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Conduct serious and complex investigation.",
   "level": 6,
+  "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 19000,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "Serious and Complex Crime Investigator",
@@ -31,12 +37,11 @@
     "Investigator"
   ],
   "entryRequirements": "&lt;p&gt;&lt;span&gt;Whilst any entry requirements will be a matter for individual agencies and forces, typically an apprentice will be required to meet security vetting requirements&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://www.instituteforapprenticeships.org/media/4342/st0512_serious-and-complex-crime-investigator_l6_ap-for-publication_02072020.pdf",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4342/st0512_serious-and-complex-crime-investigator_l6_ap-for-publication_02072020.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.4 Public services",
   "version": "1.0",
   "standardInformation": "",
-  "standardOccupationalCode": "",
   "occupationalSummary": "&lt;p&gt;This occupation is found in law enforcement.&#160; A Serious and Complex Crime Investigator (S&amp;amp;CCI) could typically be employed by Her Majesty&#39;s Revenue and Customs, The National Crime Agency, Police Forces, The Ministry of Defence or the Financial Conduct Authority. The broad purpose of the occupation is to conduct serious and complex investigations.&#160; They will dynamically conduct investigations through research, analysis and planning to carry out operational activity.&#160; Typically this is a non-emergency response function.&#160; Some of these roles may require a S&amp;amp;CCI to have relevant designated powers where necessary.&#160; They could carry out investigations locally, nationally, and internationally which many involve the use of covert investigative techniques and using advanced technologies to target high level organised crime groups. In their daily work, an employee in this occupation interacts with diverse communities relevant to their organisations in order to, for example, obtain witness statements, gather evidence, conduct lawful searches of physical and virtual spaces and where relevant powers are designated, arrest and interview suspects.&#160; An employee in this occupation also interacts with other law enforcement agencies in order to support their work.&#160; The environment in which a S&amp;amp;CCI works will typically be office based, although there will be a requirement to deploy operationally outside of the office environment. An employee in this occupation will be responsible for investigating serious and organised criminality as part of a dedicated case team.&#160; There will be a Senior Investigating Officer who will allocate tasks and oversee the investigation, however the employee will be expected to undertake tasks independently, with limited supervision, as well as with other members of the case team or with other specialists.&lt;/p&gt;",
   "knowledges": [
     {
@@ -192,25 +197,28 @@
       "detail": "Apply investigative decision making to serious and complex crime investigations so that actions are focused and all key decisions are rational and considered"
     }
   ],
-  "options": [],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
+  "standardPublished": "true",
   "epaApprovalDate": "",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "TBC - Quality Assurance Agency (QAA)",
+    "providerName": "Office for Students",
     "contactName": "",
-    "contactAddress": "",
-    "contactEmail": "",
-    "webLink": ""
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
   },
   "approvedForDelivery": "2020-07-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "integrated degree",
   "tbReference": "TB0300",
-  "tbMainContact": "sandra.grant@nca.gov.uk",
+  "tbMainContact": "Rod.Knapp@nca.gov.uk",
   "involvedEmployers": "NCA, FSA, Devon and Cornwall Police, Herts Police, Merseyside Police, Met Police, Thames Valley Police, West Yorkshire Police, Hampshire Police, The Pensions Regulator, Cabinet Office, Manchester Fire Service, Higher Education Institute Consortium, Home Office, British Transport police, HMRC, IOPC, Humberside, TPR, NCOA, Derbyshire, Staffs, Cheshire",
+  "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": false,
@@ -219,20 +227,28 @@
     "Operations officer",
     "Investigator"
   ],
-  "englishAndMathsQualifications": "Apprentices without level 2 English and maths will need to achieve this level prior to taking the End-Point Assessment.  For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.",
-  "reviewDetails": "<p>This apprenticeship standard will be reviewed after three years</p>",
-  "pathway": "Protective Services",
-  "cluster": "Protective Service Professional",
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Protective services",
+  "cluster": "Protective service professional",
+  "clusterId": "49",
+  "clusterDescription": "Lead and manage a whole service or event regarding safety, security, prevention, enforcement, protection and investigation services largely on behalf of society or workplace. Often requires specialist knowledge to handle complex cases",
   "createdDate": "2020-03-19T11:13:43 +00:00",
-  "lastUpdated": "2020-07-03T00:00:00 +00:00",
-  "occupationalStandardUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-(integrated-degree)-v1-0#OccupationalStandard",
-  "standardPageUrl": "https://www.instituteforapprenticeships.org/apprenticeship-standards/serious-and-complex-crime-investigator-(integrated-degree)-v1-0",
+  "lastUpdated": "2023-03-17T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-07-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0512",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0512-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0512-v1-0",
   "qualifications": [
     {
       "qualificationId": "32d3609b-d42d-4648-beed-cc961487b3da",
       "title": "Serious and complex crime investigator degree",
-      "level": "0",
-      "anyAdditionalInformation": ""
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
     }
   ],
   "professionalRecognition": [],
@@ -240,7 +256,7 @@
     {
       "dutyID": "41cf5545-38b2-4152-b20a-a925956ce290",
       "dutyDetail": "Prepare victim and/or witness strategies,  assessing their needs, providing support and a point of contact.  Categorise the victim and/or witness, and use appropriate methods of interviewing.  Re-evaluate information gathered throughout the investigation to formulate further actions to progress the case",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b"
@@ -251,7 +267,7 @@
         "461d5446-7834-4791-bf56-8762390d2af8",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "77b057b3-a49b-487e-985c-945b0c8daeb4"
       ],
@@ -260,7 +276,7 @@
     {
       "dutyID": "29f87cb7-3eba-48a3-a3a4-cbde44f1dfd1",
       "dutyDetail": "Prepare suspect strategies and arrest strategies.  Conduct the apprehension of individuals and/or prepare arrest submissions for law enforcement partners in accordance with relevant legislation and codes of practice",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b"
@@ -273,7 +289,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e09609d-03e3-480a-8cf7-b6544bd409f8",
         "5acc9056-a1d2-408c-94a9-76c6bd720740"
@@ -283,7 +299,7 @@
     {
       "dutyID": "ab5e108f-732f-4ed2-80ee-c72e25da390b",
       "dutyDetail": "Carry out systematic searches of vehicles, premises and open areas in accordance with relevant legislation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
@@ -295,7 +311,7 @@
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9",
         "bd1c7cdb-4062-404b-9ea9-dd0510385627"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "1e09609d-03e3-480a-8cf7-b6544bd409f8",
         "3a19bde9-d82d-4894-b45d-b2e472d18957",
@@ -306,7 +322,7 @@
     {
       "dutyID": "949cb14d-8433-4d87-8a38-77ebf74405f1",
       "dutyDetail": "Exploit forensic opportunities both digitally and traditionally.  This will include reviewing physical exhibits and downloads of digital exhibits in order to determine their evidential value and identifying opportunities to use such material to progress the investigation",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -317,7 +333,7 @@
         "329923a6-88c2-4728-8ebb-da9702725ecc",
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "cf44f884-a874-4c20-90db-940cad0ded8d",
         "3a19bde9-d82d-4894-b45d-b2e472d18957",
@@ -328,7 +344,7 @@
     {
       "dutyID": "5365b821-f333-4a3a-8c7b-8ab18f551fbe",
       "dutyDetail": "Conduct intelligence driven briefings, taskings and debriefings",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a",
@@ -341,7 +357,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "5acc9056-a1d2-408c-94a9-76c6bd720740",
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c",
@@ -352,7 +368,7 @@
     {
       "dutyID": "c950b962-5a46-4333-a89f-701fe4ffc75d",
       "dutyDetail": "Gather relevant information to enable internal and external communications officers to formulate briefings to the media and third parties and have an awareness of how to use the media to progress investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242",
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
@@ -361,7 +377,7 @@
         "acfeaab5-29a7-43d1-ac14-e920b925110e",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c",
         "85253091-4a75-4672-8cd2-1212c30457b0"
@@ -371,7 +387,7 @@
     {
       "dutyID": "6f0d5cca-f6dd-4600-8c90-8ee5e543bd05",
       "dutyDetail": "Maintain an awareness of the capabilities of internal and external specialists and law enforcement partners.  Liaise with and task such teams in order to progress serious and complex investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "ca7ba3d7-4312-4af3-b7c0-94cabc8a974a"
       ],
@@ -380,7 +396,7 @@
         "961e52be-3125-4da4-84cd-b932ba97623c",
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "b6b96062-9e5d-449a-a2cb-bfc3faee7202",
         "6aac6c73-e59f-4fef-ba1d-8dd43744ef2c"
@@ -390,7 +406,7 @@
     {
       "dutyID": "dd20b254-f3be-454f-abf6-f4c876e93c51",
       "dutyDetail": "Work with Financial Investigators to formulate a financial strategy and use powers and appropriate legislation to disrupt criminal activity and recover proceeds of crime",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -398,7 +414,7 @@
         "0bc42236-5b13-4477-9047-e75d10123f25",
         "961e52be-3125-4da4-84cd-b932ba97623c"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -411,7 +427,7 @@
     {
       "dutyID": "e1867470-98e4-4674-ab05-b85f8f1c07cd",
       "dutyDetail": "Create and use intelligence to progress serious and complex investigations.  This will include undertaking in depth research, conducting high level data analysis, searching intelligence databases, evaluating large volumes of data to assess its intelligence potential and disseminating intelligence",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -420,7 +436,7 @@
         "961e52be-3125-4da4-84cd-b932ba97623c",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -433,7 +449,7 @@
     {
       "dutyID": "7fea6370-eb21-42a6-9a70-3fa147d11aa9",
       "dutyDetail": "Use covert tactics lawfully and effectively to gather intelligence and evidence to progress the investigation.  Make applications for covert information using the required authorities and regulatory powers  and identify and mitigate operational risk where necessary",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "04a4f77f-5b63-4597-859d-8aef917ce77f",
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
@@ -445,7 +461,7 @@
         "50fe5a60-7390-4c3c-b9d1-1e4651c25bc9",
         "acfeaab5-29a7-43d1-ac14-e920b925110e"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -460,7 +476,7 @@
     {
       "dutyID": "049d1dea-88f6-411d-96dc-4231ed832b25",
       "dutyDetail": "Prepare interview briefings and strategies.  Undertake complex suspect interviews,  using a range of interview methods and techniques and addressing complex circumstances when conducting interviews",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "d4eccfea-72f5-423b-8b3c-5d6f1e39712b",
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
@@ -470,7 +486,7 @@
         "814d6679-ca05-471f-b422-22e3c9934168",
         "32bf9633-4079-427f-9325-1f09b9467324"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -482,7 +498,7 @@
     {
       "dutyID": "04f642bf-029a-412e-82aa-b917b739c3f8",
       "dutyDetail": "Formulate investigative strategies to maximise evidence gathering opportunities and support serious and complex investigations",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "dfc143bc-1555-43b3-ac92-44f4c6178242"
       ],
@@ -490,7 +506,7 @@
         "0bc42236-5b13-4477-9047-e75d10123f25",
         "61505c96-5485-45ef-b819-8033bdad529f"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -503,7 +519,7 @@
     {
       "dutyID": "e178220d-0aa5-4cb0-9c3b-65f056a212a8",
       "dutyDetail": "Manage and prepare a case file throughout a serious and complex investigation.  This will include formulating a disclosure strategy and reviewing and managing large volumes of sensitive and non-sensitive material.  Work with The Crown Prosecution Service (CPS) and other relevant prosecuting bodies to deliver a successful prosecution",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3b2834aa-33fa-4c7a-8fd1-28f8f455c78b"
       ],
@@ -512,7 +528,7 @@
         "814d6679-ca05-471f-b422-22e3c9934168",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -524,7 +540,7 @@
     {
       "dutyID": "02fa12e2-0ae1-4076-9768-b54b5ddffa44",
       "dutyDetail": "Present evidence in court and at other hearings in an effective manner, complying with the relevant rules of evidence, procedure and professional standards",
-      "isThisACoreDuty": 0,
+      "isThisACoreDuty": 1,
       "mappedBehaviour": [
         "3b2834aa-33fa-4c7a-8fd1-28f8f455c78b",
         "04a4f77f-5b63-4597-859d-8aef917ce77f"
@@ -533,7 +549,7 @@
         "4adaeee9-abdc-4fac-be6e-4a0c327da495",
         "4fef28cf-06f0-4e86-a7c6-24e5749dd4d6"
       ],
-      "mappedOptions": null,
+      "mappedOptions": [],
       "mappedSkills": [
         "c86d9368-6bce-410f-af0b-68de77656096",
         "cb9ef36d-08c0-481c-9019-27f5247e3946",
@@ -542,5 +558,10 @@
       "criteriaForMeasuringPerformance": "To PIP2 standard.  In accordance with CPIA.  To achieve successful criminal justice outcomes."
     }
   ],
-  "regulationDetail": []
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2023-03-17T00:00:00"
 }
