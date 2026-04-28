@@ -1,12 +1,13 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 350,
   "referenceNumber": "ST0307",
   "learningAimClassCode": "",
   "title": "Port operative",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0307",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0307",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
@@ -18,6 +19,7 @@
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 12,
+  "minimumHoursForCompliance": "300",
   "maxFunding": 8000,
   "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
@@ -41,7 +43,7 @@
     "Stevedore"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0307-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0307-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.1",
@@ -70,7 +72,7 @@
     },
     {
       "knowledgeId": "54346a09-cde7-440f-aea4-c7ba0d209b3d",
-      "detail": "Associated regulations and legislation relating to control of substances hazardous to health. (COSHH) and the international maritime dangerous goods (IMDG) code. "
+      "detail": "Associated regulations and legislation relating to Control of Substances Hazardous to Health. (COSHH) and the International Maritime Dangerous Goods (IMDG) code. "
     },
     {
       "knowledgeId": "999b99da-48d0-4dd5-b460-1dfcc056752f",
@@ -154,7 +156,7 @@
     },
     {
       "knowledgeId": "cf08accb-ca6f-4bdb-9597-34a2af2e5473",
-      "detail": "Classifications of cargo including dangerous goods, liquid bulk, dry bulk, break bulk, roll on; roll off, (roro), and containers.  "
+      "detail": "Classifications of cargo including dangerous goods, liquid bulk, dry bulk, break bulk, roll on; roll off, (RoRo), and containers.  "
     },
     {
       "knowledgeId": "bb6672ce-ab80-4af2-83a7-1284710688b4",
@@ -424,7 +426,7 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
-  "cluster": "Transport Operations Operative/Technician",
+  "cluster": "Transport operations operative or technician",
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2024-05-17T14:05:12 +00:00",
@@ -432,8 +434,8 @@
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0307",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0307-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0307-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0307-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0307-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
