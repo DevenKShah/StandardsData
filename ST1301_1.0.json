@@ -1,16 +1,17 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 802,
   "referenceNumber": "ST1301",
   "learningAimClassCode": "",
   "title": "Paraplanner and financial planner",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1301",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1301",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-05-06T00:00:00",
+  "changedDate": "2025-10-30T00:00:00",
   "earliestStartDate": "2025-05-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -18,6 +19,7 @@
   "level": 4,
   "ePALength": 5,
   "typicalDuration": 24,
+  "minimumHoursForCompliance": "418",
   "maxFunding": 13000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
@@ -38,7 +40,7 @@
     "Wealth planner"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1301-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1301-v1-0?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "1.0",
@@ -250,7 +252,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -258,7 +260,7 @@
   },
   "approvedForDelivery": "2025-05-02T00:00:00 +00:00",
   "integratedApprenticeship": true,
-  "integration": "Mandatory qualification",
+  "integration": "Mandatory qualification with apprenticeship assessment",
   "integratedDegree": "",
   "tbReference": "TB0692",
   "tbMainContact": "Tom.Hegarty@mandg.com",
@@ -282,13 +284,13 @@
   "cluster": "Investment specialist",
   "clusterId": "246",
   "clusterDescription": "Perform complex and specialist operational support to transactions across a wide range of financial instruments and products",
-  "createdDate": "2025-05-27T12:14:15 +00:00",
-  "lastUpdated": "2025-05-06T00:00:00 +00:00",
+  "createdDate": "2026-02-18T14:31:57 +00:00",
+  "lastUpdated": "2025-10-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-02T00:00:00 +00:00",
-  "banners": "This apprenticeship standard has been approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "banners": "",
   "occupationCode": "OCC1301",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1301-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1301-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1301-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1301-v1-0",
   "qualifications": [
     {
       "qualificationId": "2c06ab1c-4da7-4a4e-a694-13344c59ab53",
@@ -297,6 +299,10 @@
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": [
+        {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
         {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
@@ -311,6 +317,10 @@
       "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
+        {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
         }
@@ -323,6 +333,10 @@
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": [
+        {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
         {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
@@ -797,12 +811,12 @@
     {
       "optionId": "286019b5-0c5a-4448-a945-b27da9d77913",
       "title": "Paraplanner",
-      "occupationCode": ""
+      "occupationCode": "OCC1301B"
     },
     {
       "optionId": "2672c45d-9b0f-4201-bcd9-a9732f46cb35",
       "title": "Financial Planner",
-      "occupationCode": ""
+      "occupationCode": "OCC1301A"
     }
   ],
   "regulationDetail": [
@@ -820,5 +834,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-06T00:00:00"
+  "publishDate": "2025-10-30T00:00:00"
 }
