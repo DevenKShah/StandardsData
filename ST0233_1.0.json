@@ -1,12 +1,13 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 96,
   "referenceNumber": "ST0233",
   "learningAimClassCode": "",
   "title": "Hospitality team member",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0233",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0233",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -18,6 +19,7 @@
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 12,
+  "minimumHoursForCompliance": "",
   "maxFunding": 5000,
   "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
@@ -111,7 +113,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hospitality",
-  "cluster": "Hospitality Team Member/Supervisor",
+  "cluster": "Hospitality team member or supervisor",
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2020-10-02T10:33:50 +00:00",
@@ -119,8 +121,8 @@
   "occupationalStandardApprovalDate": "2016-04-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0233",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0233-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0233-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0233-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0233-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
@@ -138,7 +140,7 @@
     {
       "optionId": "52e02835-84d9-4b68-b4e5-8be333ebc295",
       "title": "Concierge & Guest\u00A0Services",
-      "occupationCode": ""
+      "occupationCode": "OCC0233C"
     },
     {
       "optionId": "fe8d3d75-8adc-469e-aece-d9afc07a2e01",
