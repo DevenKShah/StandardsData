@@ -1,23 +1,25 @@
 {
   "templateType": "Apprenticeship Standard",
-  "larsCode": 203,
+  "shortAssessment": false,
+  "larsCode": 822,
   "referenceNumber": "ST0490",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002070",
   "title": "Teacher - Postgraduate",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0490",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0490",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "In revision",
-  "changedDate": "2024-05-22T00:00:00",
-  "earliestStartDate": null,
+  "versionNumber": "1.1",
+  "change": "End-point assessment plan and duration revised.",
+  "changedDate": "2025-08-05T00:00:00",
+  "earliestStartDate": "2025-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Educating young people to achieve the highest possible standards.",
   "level": 6,
   "ePALength": 1,
-  "typicalDuration": 12,
+  "typicalDuration": 9,
+  "minimumHoursForCompliance": "278",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
@@ -33,7 +35,7 @@
     "Teacher"
   ],
   "entryRequirements": "&lt;p&gt;Apprentices must meet the entry requirements for initial teacher training (ITT) as set out by the Department for Education (DfE): Initial teacher training (ITT): criteria and supporting advice - GOV.UK (www.gov.uk)&lt;br&gt;In line with other ITT routes, entry requirements for the teacher apprenticeship require apprentices to have achieved a standard equivalent to a grade 4 in the GCSE examinations in English and mathematics; and ensure that those who intend to train to teach pupils aged 3 to 11 additionally have achieved a standard equivalent to a grade 4 in the GCSE examination in a science subject.&lt;/p&gt;\n&lt;p&gt;The ITT criteria are clear that all entrants to an ITT course leading to QTS, must&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;have achieved a standard equivalent to a grade 4 in the GCSE examinations in English and mathematics. Additionally, for those who intend to teach pupils aged 3 to 11, a&amp;nbsp;standard equivalent to a grade 4 in the GCSE examination in a science subject is required.&amp;nbsp;&amp;nbsp;Where applicants do not have a relevant GCSE at grade 4 or an equivalent qualification, ITT providers can allow them to demonstrate they meet this entry requirement by taking a GCSE equivalency test.&lt;/p&gt;\n&lt;p style=&quot;margin-bottom: 0; line-height: normal; background: rgba(255, 255, 255, 1); vertical-align: baseline;&quot; class=&quot;MsoNormal&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Apprentices without GCSE Grade C/4 or higher in Maths and English or an accepted equivalent qualification (&lt;a href=&quot;https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fassets.publishing.service.gov.uk%2Fmedia%2F63492cb78fa8f534695f39d1%2FApprenticeship_standards_English_and_maths_list-Oct2022.ods&amp;amp;wdOrigin=BROWSELINK&quot;&gt;Apprenticeship_standards_English_and_maths_list-Oct2022.ods (live.com)&lt;/a&gt;.&lt;strong&gt;)&lt;/strong&gt; who meet the entry requirement for ITT by taking a GCSE equivalency test, will also be required to achieve Functional Skills in English and Maths at Level 2 or GCSE grade 4-9 as part of the apprenticeship exit requirement.&lt;/p&gt;",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/fwketn54/st0490_teacher-postgraduate_qts_l6_publication_july-2025.pdf",
   "ssa1": "13 Education and Training",
   "ssa2": "13.1 Teaching and lecturing",
   "version": "1.1",
@@ -41,60 +43,221 @@
   "occupationalSummary": "&lt;p&gt;This occupation is found in a variety of settings where teaching is delivered to pupils between the ages of 3-19. This includes maintained schools, academies, specialist schools, faith schools, and private schools.&lt;br&gt;&lt;br&gt;A teacher’s primary role is to plan and deliver a high-quality curriculum to their pupils to promote good progress and outcomes. Teachers set high expectations which inspire and challenge pupils and manage behaviour effectively to ensure a safe learning environment. Teachers make accurate and productive use of assessment and adapt their teaching to respond to pupils’ needs. They will have strong subject knowledge and keep their teaching practice up to date through regular professional development.&lt;br&gt;&lt;br&gt;A teacher&#39;s day will look different depending on the type of school they work in and the subject they teach. Each school will have its own timetable and different responsibilities outside of teaching hours. In their daily work, a teacher interacts with children, young people, parents and carers. They will work with the senior leadership team in their school, led by a headteacher or head of school. They interact with teaching colleagues and pastoral and curriculum leads. They will also work closely with specialists such as the special educational needs coordinator and designated safeguarding leads.&lt;br&gt;&lt;br&gt;A teacher will be responsible for upholding the Teachers&#39; Standards, which set the minimum requirements for teachers&#39; practice and conduct. Teachers demonstrate consistently high standards of personal and professional conduct. They are responsible for safeguarding and must follow statutory guidance set out in &#39;Keeping Children Safe in Education&#39;. This includes safeguarding pupils&#39; wellbeing. Teachers are responsible for the pupils in their care. They typically report to a subject or year group coordinator in the first instance, with the headteacher having overall responsibility. Qualified teacher status (QTS) is a legal requirement to teach in maintained schools and is considered desirable for teachers in the majority of schools in England.&lt;/p&gt;",
   "knowledges": [
     {
-      "knowledgeId": "6ef09e19-9b20-4795-82ef-9ab7f4a5214b",
-      "detail": "Set high expectations which inspire, motivate and challenge pupils."
+      "knowledgeId": "31c1a0cf-5c1f-48b9-81a9-de09c8439218",
+      "detail": "Have a secure knowledge of the relevant subject(s) and curriculum areas, foster and maintain pupils’ interest in the subject, and address misunderstandings"
     },
     {
-      "knowledgeId": "4898662c-91a8-4bcd-8a91-7f058f0a9d4f",
-      "detail": "Promote good progress and outcomes by pupils."
+      "knowledgeId": "0c84c66e-44f3-4046-be0b-98d211db368c",
+      "detail": "Demonstrate knowledge and understanding of how pupils learn and how this impacts on teaching"
     },
     {
-      "knowledgeId": "37ec90ac-0105-41e5-a21a-15d8b4177c82",
-      "detail": "Demonstrate good subject and curriculum knowledge."
+      "knowledgeId": "338ab1cb-8115-42ca-83da-d28e3f3d357f",
+      "detail": "Demonstrate good subject and curriculum knowledge"
     },
     {
-      "knowledgeId": "4d3fa6c1-536a-4491-87a3-a9591a7ff137",
-      "detail": "Plan and teach well-structured lessons."
+      "knowledgeId": "8a13eda1-7e3e-4fff-8325-130b2d0d2006",
+      "detail": "Demonstrate a critical understanding of developments in the subject and curriculum areas, and promote the value of scholarship"
     },
     {
-      "knowledgeId": "827f97da-efaf-4f08-bde3-a68c2ca7203e",
-      "detail": "Adapt teaching to respond to the strengths and needs of all pupils."
+      "knowledgeId": "c0e5f4cc-6948-43f0-b5e7-2ea82718d9d6",
+      "detail": "Demonstrate an understanding of and take responsibility for promoting high standards of literacy, articulacy and the correct use of standard English, whatever the teacher’s specialist subject"
     },
     {
-      "knowledgeId": "e09bcf08-464d-42fe-b3b1-a6849a7882bc",
-      "detail": "Make accurate and productive use of assessment."
+      "knowledgeId": "1863c5ba-efb0-4106-8570-6ee6114f17f3",
+      "detail": "Demonstrate clear understanding of content and teaching methodologies required for relevant curriculum areas and age groups (for example, systematic synthetic phonics if teaching early reading, or appropriate teaching strategies if teaching early maths)."
     },
     {
-      "knowledgeId": "6b06d9a6-a47e-402e-9d52-4f069fb17c49",
-      "detail": "Manage behaviour effectively to ensure a good and safe learning environment."
+      "knowledgeId": "f821872f-4aa6-4e82-a649-0273fea58413",
+      "detail": "Know when and how to differentiate appropriately, using approaches which enable pupils to be taught effectively"
     },
     {
-      "knowledgeId": "848630cd-c22b-4028-ba0f-5925fa9dd934",
-      "detail": "Fulfil wider professional responsibilities."
+      "knowledgeId": "9f70ccb4-0f9b-498c-ae0b-00627ee50375",
+      "detail": "Have a secure understanding of how a range of factors can inhibit pupils’ ability to learn, and how best to overcome these"
+    },
+    {
+      "knowledgeId": "1c55d8ef-a6c2-42cc-b0b0-c2ca4fe18eca",
+      "detail": "Demonstrate an awareness of the physical, social and intellectual development of children, and know how to adapt teaching to support pupils’ education at different stages of development"
+    },
+    {
+      "knowledgeId": "00ec7d15-2592-41d0-aa56-d23a800591eb",
+      "detail": "Have a clear understanding of the needs of all pupils, including those with special educational needs; those of high ability; those with English as an additional language; those with disabilities; and be able to use and evaluate distinctive teaching approaches to engage and support them."
+    },
+    {
+      "knowledgeId": "9bf3955a-4103-4f7b-b900-a778c5106d07",
+      "detail": "Know and understand how to assess the relevant subject and curriculum areas, including statutory assessment requirements"
     }
   ],
   "behaviours": [
     {
-      "behaviourId": "9743e34f-2df2-490e-869f-ed5c5702972c",
-      "detail": "A teacher is expected to demonstrate consistently high standards of personal and professional conduct. The following statements define the behaviour and attitudes which set the required standards throughout a teacher’s career."
+      "behaviourId": "dcfb71cd-88ad-4324-86b9-b61c052986c5",
+      "detail": "Teachers uphold public trust in the profession and maintain high standards of ethics and behaviour, within and outside school."
+    },
+    {
+      "behaviourId": "d3c51a6c-1aab-4398-a1cf-c08d12dfacaf",
+      "detail": "Treating pupils with dignity, building relationships rooted in mutual respect, and at all times observing proper boundaries appropriate to a teacher’s professional position"
+    },
+    {
+      "behaviourId": "cd0f9d9b-c9d4-4bc0-99f7-353b864a3f56",
+      "detail": "Having regard for the need to safeguard pupils’ well-being, in accordance with statutory provisions"
+    },
+    {
+      "behaviourId": "50c94610-b509-4029-8bdb-21519892fcd4",
+      "detail": "Showing tolerance of and respect for the rights of others"
+    },
+    {
+      "behaviourId": "d24998a8-a5c5-47cd-beb1-42c4e89cc344",
+      "detail": "Not undermining fundamental British values, including democracy, the rule of law, individual liberty and mutual respect, and tolerance of those with different faiths and beliefs"
+    },
+    {
+      "behaviourId": "8a826cfc-33aa-4b7a-a098-da81a2104c61",
+      "detail": "Ensuring that personal beliefs are not expressed in ways which exploit pupils’ vulnerability or might lead them to break the law."
+    },
+    {
+      "behaviourId": "f3e73039-f03e-4cc6-a1e6-ad74da3335e2",
+      "detail": "Teachers must have proper and professional regard for the ethos, policies and practices of the school in which they teach, and maintain high standards in their own attendance and punctuality."
+    },
+    {
+      "behaviourId": "e2975cea-1689-442e-b24a-49c10a1922c9",
+      "detail": "Teachers must have an understanding of, and always act within, the statutory frameworks which set out their professional duties and responsibilities."
     }
   ],
-  "skills": [],
+  "skills": [
+    {
+      "skillId": "abaa57cb-fe7c-41ee-aaa2-ede3324ec25c",
+      "detail": "Establish a safe and stimulating environment for pupils, rooted in mutual respect"
+    },
+    {
+      "skillId": "272e5bd0-5585-4f31-b109-119bb2365a33",
+      "detail": "Set goals that stretch and challenge pupils of all backgrounds, abilities and dispositions"
+    },
+    {
+      "skillId": "2141ed3a-28c2-4e70-84fb-5d66816700e5",
+      "detail": "Demonstrate consistently the positive attitudes, values and behaviour which are expected of pupils."
+    },
+    {
+      "skillId": "13d51065-c6e8-43ad-9d2e-5de33723a7c5",
+      "detail": "Be accountable for pupils’ attainment, progress and outcomes"
+    },
+    {
+      "skillId": "0e925c5f-aeb4-47ab-a647-066225567177",
+      "detail": "Promote good progress and outcomes by pupils"
+    },
+    {
+      "skillId": "7c4eef7c-b32f-46cf-ad4b-c89dbe840ef5",
+      "detail": "Be aware of pupils’ capabilities and their prior knowledge, and plan teaching to build on these"
+    },
+    {
+      "skillId": "01e8ad58-341a-4b57-91a8-a3e33485365d",
+      "detail": "Guide pupils to reflect on the progress they have made and their emerging needs"
+    },
+    {
+      "skillId": "b2f92d61-982a-45b9-bdf5-b5fe16d0075b",
+      "detail": "Encourage pupils to take a responsible and conscientious attitude to their own work and study."
+    },
+    {
+      "skillId": "ed97f415-296f-4778-934d-4275b0086c54",
+      "detail": "Plan and teach well-structured lessons"
+    },
+    {
+      "skillId": "d7643adb-2bdc-4d61-baf3-fcc8f6e4416b",
+      "detail": "Impart knowledge and develop understanding through effective use of lesson time"
+    },
+    {
+      "skillId": "95fac062-df7d-4725-b10d-371c35fcf9ed",
+      "detail": "Promote a love of learning and children’s intellectual curiosity"
+    },
+    {
+      "skillId": "bbc36c95-5607-43d0-900f-3976eef1fcfb",
+      "detail": "Set homework and plan other out-of-class activities to consolidate and extend the knowledge and understanding pupils have acquired"
+    },
+    {
+      "skillId": "096aefef-109a-4338-806e-669920c68bd5",
+      "detail": "Contribute to the design and provision of an engaging curriculum within the relevant subject area(s)."
+    },
+    {
+      "skillId": "3131f3b6-0e97-4305-9e0a-fe9906a61b70",
+      "detail": "Make use of formative and summative assessment to secure pupils’ progress"
+    },
+    {
+      "skillId": "d781f3a5-95d9-4a6e-a7d1-931f76edfedc",
+      "detail": "Use relevant data to monitor progress, set targets, and plan subsequent lessons"
+    },
+    {
+      "skillId": "18ed1d2d-4ab5-468d-8451-5a1d06d0365c",
+      "detail": "Give pupils regular feedback, both orally and through accurate marking, and encourage pupils to respond to the feedback."
+    },
+    {
+      "skillId": "3de34ee1-232b-435b-a3fa-2ef9fdc94e46",
+      "detail": "Deploy support staff effectively"
+    },
+    {
+      "skillId": "5ddf858c-ccf0-4728-a083-a58e98783f85",
+      "detail": "Have clear rules and routines for behaviour in classrooms, and take responsibility for promoting good and courteous behaviour both in classrooms and around the school, in accordance with the school’s behaviour policy"
+    },
+    {
+      "skillId": "d7f460b1-841a-4bec-926f-4978a71d2d0a",
+      "detail": "Have high expectations of behaviour, and establish a framework for discipline with a range of strategies, using praise, sanctions and rewards consistently and fairly"
+    },
+    {
+      "skillId": "d98b6900-af89-467e-8a5a-0d20bf3399d8",
+      "detail": "Manage classes effectively, using approaches which are appropriate to pupils’ needs in order to involve and motivate them maintain good relationships with pupils, exercise appropriate authority, and act decisively when necessary."
+    },
+    {
+      "skillId": "9feb7cce-3e72-4b60-8df4-a8f764a5c3c3",
+      "detail": "Communicate effectively with parents with regard to pupils’ achievements and well-being."
+    },
+    {
+      "skillId": "03c7e1de-b53b-4f6e-ae6a-f86b55adfe19",
+      "detail": "Adapt teaching to respond to the strengths and needs of all pupils"
+    },
+    {
+      "skillId": "fd50418a-0e8f-4a7b-9ac4-a757228f849c",
+      "detail": "Make accurate and productive use of assessment"
+    },
+    {
+      "skillId": "c4f1deee-e486-4147-8d37-690946b78cd5",
+      "detail": "Manage behaviour effectively to ensure a good and safe learning environment"
+    },
+    {
+      "skillId": "e6771c5b-ea3b-4841-a726-e6f92f571f09",
+      "detail": "Develop effective professional relationships with colleagues, knowing how and when to draw on advice and specialist support"
+    },
+    {
+      "skillId": "7b6efc5c-5571-4223-a9c9-4892f93b099a",
+      "detail": "Set high expectations which inspire, motivate and challenge pupils"
+    },
+    {
+      "skillId": "93d15011-882d-4f7c-9ffe-ca8663b8f80e",
+      "detail": "Reflect systematically on the effectiveness of lessons and approaches to teaching "
+    },
+    {
+      "skillId": "ef89f8a8-4d0c-4b13-83f1-86ecc97dc018",
+      "detail": "Make a positive contribution to the wider life and ethos of the school"
+    },
+    {
+      "skillId": "20c4ffa2-6e0b-41d2-b625-d6ae564731e0",
+      "detail": "Take responsibility for improving teaching through appropriate professional development, responding to advice and feedback from colleagues"
+    },
+    {
+      "skillId": "5956f7be-7e1f-4174-b171-42f020a51906",
+      "detail": "Fulfil wider professional responsibilities"
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": null,
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2017-10-19T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integration": "Degree-apprenticeship",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0115",
-  "tbMainContact": "",
-  "involvedEmployers": "",
+  "tbMainContact": "charnden@sfet.org.uk",
+  "involvedEmployers": "Cambridgeshire County Council, The Dean Trust Teaching school, Harris Federation, Leigh Academies Trust, Avonbourne Multi Academy Trust,, Lake Academies Trust, St John Vianney Primary School, Thames and Essex Primary SCITT, Ewell Grove Primary School, Skinners’ Kent Academy, Teach First, Cardinal Hume/Trinity Teaching School, Tenax Schools Trust, Harton Technology College, Turner Schools, UCET, Carshalton Boys College, West Hill Special School, EMLC Academy Trust, The Dales School, Lampard School, NASBTT, Middlesbrough Catholic School Partnership, Medway Teaching School Alliance, South Farnham Educational Trust",
   "otherInvolvedStakeholders": "",
   "regulated": true,
   "regulatedBody": "Department for Education",
@@ -105,17 +268,17 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": "Education and Childcare",
-  "cluster": "Teaching Professional",
+  "pathway": "Education and early years",
+  "cluster": "Teaching professional",
   "clusterId": "171",
   "clusterDescription": "Develop a learners' knowledge, skills and behaviours relevant to their stage of progress and subject specialism. Covers the full range of tracking, assessment and support to ensure a learner succeeds in a timely way",
   "createdDate": "2025-05-12T10:16:16 +00:00",
-  "lastUpdated": "2024-05-22T00:00:00 +00:00",
+  "lastUpdated": "2025-08-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-10-19T00:00:00 +00:00",
-  "banners": "An updated version of this apprenticeship, with a typical duration of 9 months is recognised by the Institute for Apprenticeships and Technical Education. However, shorter durations will only be possible once the legislation changes to allow for durations below 12 months. Once this happens, Skills England will formally determine the typical duration of this apprenticeship.; ST0490 Teacher has been split into two separate apprenticeships. ST0490 v1.1 will be Teacher - Postgraduate and ST1502 is Teacher - Undergraduate.&nbsp;The end-point assessment plans for both are still in development.",
+  "banners": "ST0490 Teacher v1.0 has been split into two separate apprenticeships. ST0490 v1.1 will be Teacher - Postgraduate and ST1502 is Teacher - Undergraduate.&nbsp;",
   "occupationCode": "OCC0490",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0490-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0490-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0490-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0490-v1-1",
   "qualifications": [
     {
       "qualificationId": "78b755f3-9b56-44d8-802f-3ac053fafbca",
@@ -282,5 +445,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-05-22T00:00:00"
+  "publishDate": "2025-08-05T00:00:00"
 }
