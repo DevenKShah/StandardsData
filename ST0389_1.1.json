@@ -1,24 +1,26 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 284,
   "referenceNumber": "ST0389",
   "learningAimClassCode": "",
   "title": "Poultry worker",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0389",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0389",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2025-04-03T00:00:00",
-  "earliestStartDate": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2025-07-14T00:00:00",
+  "earliestStartDate": "2025-06-20T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Optimise the welfare of poultry and consider their needs throughout the different stages of their lives",
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "300",
+  "maxFunding": 7000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
@@ -32,7 +34,7 @@
     "Poultry worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0389-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0389-v1-1?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.1 Agriculture",
   "version": "1.1",
@@ -476,7 +478,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-06-07T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -494,16 +496,16 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Agricultural Operative/Technician",
+  "cluster": "Agricultural operative or technician",
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2025-04-03T12:09:27 +00:00",
-  "lastUpdated": "2025-04-03T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-07T00:00:00 +00:00",
-  "banners": "This revised version of the occupational standard and end-point assessment plan has been agreed and is available for information only pending approval of the funding band.",
+  "banners": "",
   "occupationCode": "OCC0389",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0389-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0389-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0389-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0389-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -1238,27 +1240,27 @@
     {
       "optionId": "14c9d8b8-dcb3-436e-9efa-dd8dc953c32c",
       "title": "Poultry breeding worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389A"
     },
     {
       "optionId": "8d17c4b8-fb92-41c0-b442-0447a08ca380",
       "title": "Poultry egg production worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389B"
     },
     {
       "optionId": "b41449d8-323a-4321-a456-85adfaeb953e",
       "title": "Poultry grow out worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389C"
     },
     {
       "optionId": "d59710ac-32ed-4cb3-85a5-1f43e815ae9a",
       "title": "Poultry hatching worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389D"
     },
     {
       "optionId": "f5353ded-2988-4bae-b520-b00865fab6f3",
       "title": "Poultry rearing worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389E"
     }
   ],
   "regulationDetail": [],
@@ -1302,5 +1304,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-04-03T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
