@@ -1,23 +1,25 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 257,
   "referenceNumber": "ST0311",
   "learningAimClassCode": "",
   "title": "Public relations and communications assistant",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0311",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0311",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised",
-  "changedDate": "2025-04-29T00:00:00",
+  "changedDate": "2025-12-08T00:00:00",
   "earliestStartDate": "2025-04-29T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-12-07T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Building, protecting and maintaining a positive reputation for brands, organisations and individuals.",
   "level": 4,
   "ePALength": 5,
   "typicalDuration": 14,
+  "minimumHoursForCompliance": "326",
   "maxFunding": 11000,
   "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
@@ -39,7 +41,7 @@
     "Public relations assistant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0311-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0311-v1-2?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.2",
@@ -160,7 +162,7 @@
     },
     {
       "skillId": "b0e5432d-d344-4b84-80bf-a8bc4d9cf55f",
-      "detail": "Build stakeholder relationships including developing contacts within the media and presenting to them in both formal and informal settings."
+      "detail": "Build stakeholder relationships and present to them in both formal and informal settings."
     },
     {
       "skillId": "53f4e394-9abd-434d-b09b-101e35d8dd44",
@@ -260,14 +262,14 @@
   "pathway": "Marketing",
   "cluster": "Marketing communications manager",
   "clusterId": "98",
-  "clusterDescription": null,
-  "createdDate": "2025-04-29T09:40:32 +00:00",
-  "lastUpdated": "2025-04-29T00:00:00 +00:00",
+  "clusterDescription": "Provide specialist expertise to a marketing campaign or event, including the collection and analysis of marketing data.",
+  "createdDate": "2025-11-14T08:54:40 +00:00",
+  "lastUpdated": "2025-12-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0311",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0311-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0311-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0311-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0311-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -659,5 +661,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-04-29T00:00:00"
+  "publishDate": "2025-12-08T00:00:00"
 }
