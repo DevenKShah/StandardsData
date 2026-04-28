@@ -1,24 +1,26 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 31,
   "referenceNumber": "ST0185",
   "learningAimClassCode": "",
   "title": "Financial services customer adviser",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0185",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0185",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2025-03-18T00:00:00",
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "versionNumber": "1.3",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2026-04-14T00:00:00",
+  "earliestStartDate": "2026-04-14T00:00:00",
+  "latestStartDate": "2026-07-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "provides financial information across a wide range of financial products, supporting customers and resolving queries or issues.    ",
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 11000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
@@ -42,7 +44,7 @@
     "Senior private client advisor"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0185-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0185-v1-3?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "1.3",
@@ -198,10 +200,7 @@
       "detail": "Handle data safely and securely and share information in compliance with data protection legislation and organisation’s policy."
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Team leadership",
-    "N/A"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -215,7 +214,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2015-08-27T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -245,12 +244,12 @@
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2025-03-18T10:43:42 +00:00",
-  "lastUpdated": "2025-03-18T00:00:00 +00:00",
+  "lastUpdated": "2026-04-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "This version of the apprenticeship is subject to a dispensation: any apprentices who start on v1.3 will be moved to v2.0 when v2.0 goes live in July 2026. They will undertake v2.0 assessment only.; A revised version ​of this has been agreed and is available for information only at present. It will replace the version below for new starts from 27th July 2026 with a funding band of £11,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0185",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0185-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0185-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0185-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0185-v1-3",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -567,27 +566,8 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Team leadership",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "N/A",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-03-18T00:00:00"
+  "publishDate": "2026-07-26T00:00:00"
 }
