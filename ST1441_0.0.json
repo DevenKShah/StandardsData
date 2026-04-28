@@ -1,27 +1,35 @@
 {
-  "templateType": "Apprenticeship Standard",
+  "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 0,
   "referenceNumber": "ST1441",
   "learningAimClassCode": "",
-  "title": "Railway Operations Manager",
+  "title": "Railway operations manager",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1441",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1441",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2024-11-06T00:00:00",
+  "changedDate": "2025-06-09T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Oversees the efficient and safe operation of rail services.",
   "level": 6,
-  "ePALength": 0,
+  "ePALength": 5,
   "typicalDuration": 36,
+  "minimumHoursForCompliance": "",
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
-  "keywords": [],
+  "keywords": [
+    "railway operations manager",
+    "railway services",
+    "railway",
+    "transport",
+    "rail"
+  ],
   "jobRoles": [
     "Customer experience controller",
     "Driver manager",
@@ -33,30 +41,351 @@
     "Seasons control manager",
     "Signalling manager",
     "Station control room manager",
-    "Station manager"
+    "Station manager",
+    "Duty service delivery manager",
+    "Senior train service manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1441?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "0.0",
-  "standardInformation": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the rail industry in the United Kingdom; the infrastructure (track, signalling, bridges, tunnels, stations, and depots) and rail services (trains). Railway operations managers are employed in train operating companies (TOCs), freight operating companies (FOCs) and rail infrastructure operators, including Network Rail, managing key operational areas, including, control, safety, performance, operating capacities, signalling, depots and stations. Because of the diverse operational requirements associated with this occupation, a railway operations manager may be required to work in person at various locations and sites, as well as remote working, with shift work sometimes required, particularly where infrastructure and rail services operate during unsociable hours. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to contribute to safe, efficient, and effective operation of the rail infrastructure and rail services by leading and managing operational teams. Railway operations managers typically liaise with internal and external stakeholders, lead teams of technical experts, lead planning and risk management activities and ensure operational compliance with industry legislation and regulations. Railway operations managers will be required to make decisions that will directly influence the management of the infrastructure and rail services, with a focus on continuous improvement being at the core of this approach. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with a wide variety of internal and external stakeholders. Primarily they will be required to work with members of their immediate team to ensure safe operation of the infrastructure and rail services, for example, signallers, train drivers, station operations staff. Typical stakeholders outside of their immediate team could include other operations managers, customers and trade union officials. Although managing an operational team is a key aspect of this occupation there may also be times when it is necessary to work independently. Railway operations managers must be able to demonstrate business and commercial acumen, collaborating with stakeholders &amp;amp; industry bodies as well as front line staff to achieve organisational objectives. Railway operations managers will also need to effectively engage with their operational teams to guide the principles of broader business implications including recruitment, policies, and training for the wider rail workforce. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for maintaining safe and compliant railway operations while also ensuring performance targets are achieved. Managing operational risks will be a key factor in achieving this which may require a wide range of performance data and information to be analysed. In addition, the outcomes of these analysis activities will be used when reviewing and validating solutions against existing services, business requirements and contracts, and customer standards. Railway operations managers may sometimes encounter degraded travel conditions, unexpected incidents or emergency situations that can be extremely challenging and require the railway operations manager to analyse the situation and identify and communicate appropriate solutions.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f13dc444-4cda-4843-b141-50f9d3c17020",
+      "detail": "Statutory and rail specific legislation and regulations: The Railways and Transport Safety Act, Railways (Accident Investigation and Reporting) Regulations, Railway and Other Guided Transport Systems (Safety) Regulations (ROGS) and Health and Safety at work act (HASAWA)"
+    },
+    {
+      "knowledgeId": "240515dc-6f2e-4e42-afe9-74582bb14f7f",
+      "detail": "National and local operating procedures."
+    },
+    {
+      "knowledgeId": "f11373f1-83fb-4fbd-8c9a-0d8e68e0eb16",
+      "detail": "The Rail Safety and Standards Board (RSSB) Rule Book instructions."
+    },
+    {
+      "knowledgeId": "29daa1aa-1648-4898-b137-7e8fdb2a150d",
+      "detail": "The rail accident investigation branch (RAIB): their purpose, role and objectives within railway operations."
+    },
+    {
+      "knowledgeId": "301c00f9-efd2-4f00-a71f-21f169ecd39c",
+      "detail": "Office of rail and road (ORR): their role within railway operations."
+    },
+    {
+      "knowledgeId": "e0dfc5f2-2f53-4b59-b996-020d9c3ffe25",
+      "detail": "Appendices definitions and descriptions, such as general and sectional."
+    },
+    {
+      "knowledgeId": "a8edb932-5233-4075-a213-cadecb2bbe4f",
+      "detail": "The principles of risk management including identification, assessment, mitigation and monitoring."
+    },
+    {
+      "knowledgeId": "3f74b0cf-19c0-4ccc-b177-b4c06524071f",
+      "detail": "Organisational rail policies, plans, procedures and systems including audits."
+    },
+    {
+      "knowledgeId": "6a2a2c6a-1bf9-4e47-b9b5-2432346d73a7",
+      "detail": "Principles of safety investigations, such as, the different levels of investigations, designated competent person (DCP), recommendations and local actions. Initiate and facilitate safety investigations. "
+    },
+    {
+      "knowledgeId": "bf690140-8d4c-43d4-83ae-8980e55db117",
+      "detail": "Different types of rail incidents and significant events."
+    },
+    {
+      "knowledgeId": "502061c5-fa17-4244-8dbd-17f9315af359",
+      "detail": "The principles of reviewing rail incidents and significant events, including lessons learned reviews."
+    },
+    {
+      "knowledgeId": "4456a654-bacd-4373-b404-a6c4ef92d4c8",
+      "detail": "Role and responsibilities during rail incidents and significant events, including emergency plans, escalation procedures and engagement with cross sector contacts, such as emergency services."
+    },
+    {
+      "knowledgeId": "4625fddd-4e0a-43e6-b016-e3fa5742905a",
+      "detail": "Roles and responsibilities of Tactical Incident Commander (TIC), Rail Incident Commander (RIC) and Train Operation Liaison Officer (TOLO) Station Incident Officer (SIO)."
+    },
+    {
+      "knowledgeId": "d11d5bc2-e797-4507-b063-40e94beea1be",
+      "detail": "National security level and how it is applied locally."
+    },
+    {
+      "knowledgeId": "e9e0a651-072f-4727-8384-a58c3b7b51a9",
+      "detail": "Local security issues: crime, trespass and vandalism."
+    },
+    {
+      "knowledgeId": "11d122da-9ff0-4d7e-87c4-89523c082f18",
+      "detail": "Environmental and sustainability requirements and guidance: wildlife regulations, animal encroachment, animal welfare and disposal, movement of goods, energy utilisation, vegetation management and waste streams."
+    },
+    {
+      "knowledgeId": "bb877790-63a0-4d0c-91d7-6f8919cb4c32",
+      "detail": "Organisational Competency Management Systems (CMS)."
+    },
+    {
+      "knowledgeId": "cc96c76b-61c6-4519-8df8-e3ae014c88e4",
+      "detail": "Principles of checking, assessing and verification of competencies  relating to employees and contractors. Differences between responsibility and accountability."
+    },
+    {
+      "knowledgeId": "9944439f-aa5b-4c7a-9eb9-05675669f351",
+      "detail": "Workplace training and development techniques: coaching and mentoring."
+    },
+    {
+      "knowledgeId": "8c406f5b-1ad2-4abd-a69a-95cae939e402",
+      "detail": "Workplace management techniques: conducting appraisals and providing feedback."
+    },
+    {
+      "knowledgeId": "283162c6-5b01-4e5c-9c6f-41c85bee7364",
+      "detail": "The principles of workforce planning, such as, analysing, forecasting, planning workforce supply and demand, gap analysis and recruitment."
+    },
+    {
+      "knowledgeId": "0b75ffc7-66a7-4045-a7cd-10a8db5f4db8",
+      "detail": "Continuous professional development (CPD) requirements and learning needs of self and their team."
+    },
+    {
+      "knowledgeId": "f418cbec-e47f-44d1-8199-01aee2913810",
+      "detail": "The principles of equity, diversity, and inclusion in the workplace."
+    },
+    {
+      "knowledgeId": "bfc4d1a1-8505-41a7-b5b7-539e39d2ad85",
+      "detail": "The principles of strategic management, such as Porters 5 Forces Analysis, Stakeholder Mapping, PESTEL Analysis, SWOT Analysis."
+    },
+    {
+      "knowledgeId": "f6197ee1-93c4-4537-9583-140cb845038e",
+      "detail": "Organisational strategic goals and objectives and functional constraints."
+    },
+    {
+      "knowledgeId": "e0d16af5-9f02-4f57-878d-ca2dc1707f63",
+      "detail": "The principles of financial management, including risk and liability within railway operations."
+    },
+    {
+      "knowledgeId": "9d01d76e-168e-4309-a7ed-00a30c445dc8",
+      "detail": "Revenue generation streams and costs within railway operations."
+    },
+    {
+      "knowledgeId": "4f18d85b-7438-45f3-9647-73c83d71eb37",
+      "detail": "Operational requirements and the concept of operational resilience."
+    },
+    {
+      "knowledgeId": "083b7fe0-4997-491a-95ae-51c7815db266",
+      "detail": "The principles of contingency planning and approaches to their development and revision."
+    },
+    {
+      "knowledgeId": "93f48f72-7315-428a-9cc4-6ae3a01a6b96",
+      "detail": "Degraded conditions and working methods in railway operations, such as failure of signals, severe weather."
+    },
+    {
+      "knowledgeId": "ac1294fb-2788-49f5-83e4-4eb885361829",
+      "detail": "Key performance indicators (KPIs) and metrics relating to train service performance."
+    },
+    {
+      "knowledgeId": "7052490b-94e2-4c0a-b5f3-842be0106fbc",
+      "detail": "Continuous improvement principles and techniques such as plan-do-check-act (PDCA), Lean, 6 Sigma, process mapping."
+    },
+    {
+      "knowledgeId": "c2c4900b-ca65-4a19-9253-22a6110e0e19",
+      "detail": "Problem solving principles and techniques such as Root Cause Analysis, Fishbone Diagram, Brainstorming."
+    },
+    {
+      "knowledgeId": "7dfa2c20-a659-4a3e-ae32-39926ef37042",
+      "detail": "Service disruption in railway operations."
+    },
+    {
+      "knowledgeId": "0d04d075-dd09-486b-9726-dd1cd925a453",
+      "detail": "Preventative and reactive maintenance requirements of the railway operations environment, such as rolling stock, tracks, infrastructure, stations."
+    },
+    {
+      "knowledgeId": "a4437419-aaca-4f01-a774-c1649a1c52e4",
+      "detail": "Procurement of products and services: organisational approach and subsequent maintenance."
+    },
+    {
+      "knowledgeId": "b70a383b-c42d-4403-91bc-fb9c5de10e90",
+      "detail": "Trade unions and employee representatives: structure and the role they play within their organisation and wider railway operations environment."
+    },
+    {
+      "knowledgeId": "b6ee3913-e9e9-4833-ae95-0b8a81bd416b",
+      "detail": "Written communication techniques. digital and paper. Plain English principles. Industry terminology."
+    },
+    {
+      "knowledgeId": "049c18e6-4c03-49bd-8318-d651cebfc8ed",
+      "detail": "Verbal communication techniques. Giving and receiving information. Matching style to audience. Industry terminology."
+    },
+    {
+      "knowledgeId": "6c79683b-31b5-41df-80ff-29566394e706",
+      "detail": "Customer portfolio and service level agreements (SLAs) including existing and new customers."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+      "detail": "Prioritises health & safety for themselves and others."
+    },
+    {
+      "behaviourId": "c3c36c5c-622e-4756-8986-00a62ce6708b",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "7f902271-90b5-447b-be7f-c60c667f8a03",
+      "detail": "Act as a role model and advocate for environmental and sustainable practices."
+    },
+    {
+      "behaviourId": "ffa398f8-8419-4e6c-972e-8f29e0e3b3f5",
+      "detail": "Committed to maintaining and enhancing competence of self and others through CPD."
+    },
+    {
+      "behaviourId": "2e978547-d0be-42a4-bbbc-959ff9183c6d",
+      "detail": "Encourage a diverse and inclusive culture."
+    },
+    {
+      "behaviourId": "24efc26f-8b78-4dc5-96b7-27ff32082bb7",
+      "detail": "Acts in a professional manner."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "3d48e287-7e42-446e-947c-0c3916c8bf18",
+      "detail": "Comply with statutory and rail specific regulations and legislation."
+    },
+    {
+      "skillId": "144d1be5-00ef-4d09-ab7b-11b3a8e79e7b",
+      "detail": "Manage and monitor workforce compliance with statutory and rail specific regulations and legislation, including health and safety."
+    },
+    {
+      "skillId": "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+      "detail": "Comply with national and local operating procedures."
+    },
+    {
+      "skillId": "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+      "detail": "Manage risks through risk identification, assessment, mitigation and monitoring. "
+    },
+    {
+      "skillId": "6710fd0d-167e-42c4-82cd-0f11f29b495c",
+      "detail": "Implement organisational rail policies, plans procedures and systems monitoring compliance."
+    },
+    {
+      "skillId": "d808c75e-bf7a-4332-ac3d-47a9a9a81428",
+      "detail": "Conduct audits and identify follow up actions."
+    },
+    {
+      "skillId": "3e6e48fd-a295-41c3-a664-7fe87d9e3add",
+      "detail": "Manage safety investigations. "
+    },
+    {
+      "skillId": "32298efb-cb67-46d4-9347-ea8e272dcace",
+      "detail": "Manage information received regarding incidents and significant events."
+    },
+    {
+      "skillId": "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+      "detail": "Review incidents and significant events and identify lessons learnt"
+    },
+    {
+      "skillId": "c5a3b707-d83e-4a2e-826e-cb537e57a6cf",
+      "detail": "Create, review and manage emergency plans to respond to rail incidents and significant events."
+    },
+    {
+      "skillId": "e7bc26b5-7878-4349-b05a-8ba806798dc0",
+      "detail": "Identify, lead, respond and implement solutions to rail security issues."
+    },
+    {
+      "skillId": "22dff640-118e-494d-ba4c-2cace74deee7",
+      "detail": "Apply environmental and sustainability requirements and guidance, ensuring team compliance. "
+    },
+    {
+      "skillId": "e70ef5fb-2cad-4e3f-a601-eab7d2a3cfc4",
+      "detail": "Manage performance of employees and contractors including managing competency and appraisals"
+    },
+    {
+      "skillId": "adf36f5c-f39f-4060-9cf6-0b48c091ea2b",
+      "detail": "Coach and mentor colleagues."
+    },
+    {
+      "skillId": "d5cabd96-9c92-4faa-874e-b9addf824c29",
+      "detail": "Apply principles of workforce planning for example forecasting and recruitment."
+    },
+    {
+      "skillId": "356ca593-05cb-46d3-bd61-d2b6aeb6eaaf",
+      "detail": "Manage and facilitate learning and CPD for self and their team."
+    },
+    {
+      "skillId": "e0a21d0e-9a2d-499e-9c88-c8f636d1243d",
+      "detail": "Apply and promote policies and practices to support equity, diversity and inclusion."
+    },
+    {
+      "skillId": "72ea0467-2cd2-4f7d-84c6-d4af339625de",
+      "detail": "Apply the principles of strategic management which contributes and supports the organisations own strategic objectives"
+    },
+    {
+      "skillId": "8f31cf1f-19c4-4843-ab6f-b31eaa870df8",
+      "detail": "Apply financial management principles."
+    },
+    {
+      "skillId": "f3473543-b58b-4dff-b638-c53114cd9838",
+      "detail": "Prioritise and deploy resources"
+    },
+    {
+      "skillId": "e4a9af95-d138-46c3-9c9a-ca62588d0813",
+      "detail": "Create and revise contingency plans to ensure the achievement of operational requirements."
+    },
+    {
+      "skillId": "41880d19-9049-47c2-aa0e-2fb14303ce73",
+      "detail": "Apply degraded conditions working methods."
+    },
+    {
+      "skillId": "f67e150a-e6e2-4611-87c0-c1bbde384cc1",
+      "detail": "Collect and analyse data and information and identify rail service performance issues."
+    },
+    {
+      "skillId": "8cc2c00a-eab4-4e58-a283-ac0cfdc56602",
+      "detail": "Manage rail service performance. "
+    },
+    {
+      "skillId": "2e1e1b1a-aba5-4877-8f05-a4ee2066bf30",
+      "detail": "Apply continuous improvement principles and techniques."
+    },
+    {
+      "skillId": "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+      "detail": "Identify and implement solutions for rail service issues."
+    },
+    {
+      "skillId": "8f199620-bcc0-4b5b-b761-adc2df7dd4b4",
+      "detail": "Manage the impact of  rail service disruptions and mitigate the impact"
+    },
+    {
+      "skillId": "84993b20-1ffa-46f7-92b6-b5a061133166",
+      "detail": "Manage preventative and reactive maintenance schedules of railway infrastructure, buildings and equipment."
+    },
+    {
+      "skillId": "18490245-6061-4591-ac2b-dcf5c5eac3d6",
+      "detail": "Manage procurement activities, for example initial purchases and subsequent maintenance."
+    },
+    {
+      "skillId": "535a0879-2ef1-4e31-832c-bc219261b4bc",
+      "detail": "Communicate and manage relationships with Trade Union and employer representatives to achieve collective objectives."
+    },
+    {
+      "skillId": "bc23ce60-3ed8-4e19-89a3-23a95a327f3d",
+      "detail": "Communicate in writing, digital and paper including technical reports"
+    },
+    {
+      "skillId": "cd3c59d6-086a-4afa-a690-79d80d1bfce6",
+      "detail": "Communicate with others verbally for example, colleagues and stakeholders."
+    },
+    {
+      "skillId": "c71fb317-8085-41fc-bba8-d7568497c06e",
+      "detail": "Manage customer portfolio and service level agreements (SLAs)."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": null,
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integration": null,
-  "integratedDegree": "",
+  "integration": "None",
+  "integratedDegree": "non-degree qualification",
   "tbReference": "TB0898",
   "tbMainContact": "andrew.perry@gwr.com",
   "involvedEmployers": "CIRO, Freightliner, GB Railfreight, Great Western Railway (GWR), GT Railway, Network Rail, South Western Railway",
@@ -75,22 +404,24 @@
     "Seasons control manager",
     "Signalling manager",
     "Station control room manager",
-    "Station manager"
+    "Station manager",
+    "Duty service delivery manager",
+    "Senior train service manager"
   ],
   "greenJobTitles": [],
-  "englishAndMathsQualifications": "",
-  "reviewDetails": "N/A",
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Transport",
   "cluster": "Transport operations senior manager",
   "clusterId": "231",
   "clusterDescription": "Detail to be added",
-  "createdDate": "2024-09-06T09:24:55 +00:00",
-  "lastUpdated": "2024-11-06T00:00:00 +00:00",
+  "createdDate": "2025-06-09T09:03:33 +00:00",
+  "lastUpdated": "2025-06-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1441",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1441?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1441",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1441?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1441",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -105,70 +436,230 @@
       "dutyID": "e54b925c-4903-4077-8be5-9626d5ee82af",
       "dutyDetail": "Ensure safety of rail operations and compliance with relevant legislation and regulations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "7f902271-90b5-447b-be7f-c60c667f8a03",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "f13dc444-4cda-4843-b141-50f9d3c17020",
+        "240515dc-6f2e-4e42-afe9-74582bb14f7f",
+        "f11373f1-83fb-4fbd-8c9a-0d8e68e0eb16",
+        "29daa1aa-1648-4898-b137-7e8fdb2a150d",
+        "301c00f9-efd2-4f00-a71f-21f169ecd39c",
+        "e0dfc5f2-2f53-4b59-b996-020d9c3ffe25",
+        "a8edb932-5233-4075-a213-cadecb2bbe4f",
+        "6a2a2c6a-1bf9-4e47-b9b5-2432346d73a7",
+        "d11d5bc2-e797-4507-b063-40e94beea1be",
+        "e9e0a651-072f-4727-8384-a58c3b7b51a9",
+        "11d122da-9ff0-4d7e-87c4-89523c082f18",
+        "7dfa2c20-a659-4a3e-ae32-39926ef37042",
+        "0d04d075-dd09-486b-9726-dd1cd925a453"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3d48e287-7e42-446e-947c-0c3916c8bf18",
+        "144d1be5-00ef-4d09-ab7b-11b3a8e79e7b",
+        "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "3e6e48fd-a295-41c3-a664-7fe87d9e3add",
+        "32298efb-cb67-46d4-9347-ea8e272dcace",
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "c5a3b707-d83e-4a2e-826e-cb537e57a6cf",
+        "22dff640-118e-494d-ba4c-2cace74deee7",
+        "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+        "84993b20-1ffa-46f7-92b6-b5a061133166"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "69539790-5de7-4cba-8f8e-baa59fd02397",
       "dutyDetail": "Ensure operational compliance with relevant rail policies, plans, procedures, and systems.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "7f902271-90b5-447b-be7f-c60c667f8a03",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "f13dc444-4cda-4843-b141-50f9d3c17020",
+        "240515dc-6f2e-4e42-afe9-74582bb14f7f",
+        "f11373f1-83fb-4fbd-8c9a-0d8e68e0eb16",
+        "29daa1aa-1648-4898-b137-7e8fdb2a150d",
+        "301c00f9-efd2-4f00-a71f-21f169ecd39c",
+        "e0dfc5f2-2f53-4b59-b996-020d9c3ffe25",
+        "a8edb932-5233-4075-a213-cadecb2bbe4f",
+        "3f74b0cf-19c0-4ccc-b177-b4c06524071f",
+        "d11d5bc2-e797-4507-b063-40e94beea1be",
+        "e9e0a651-072f-4727-8384-a58c3b7b51a9",
+        "c2c4900b-ca65-4a19-9253-22a6110e0e19",
+        "7dfa2c20-a659-4a3e-ae32-39926ef37042",
+        "0d04d075-dd09-486b-9726-dd1cd925a453"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "cfe736c3-4ef7-42ad-81d5-0c782d6dffd6",
-      "dutyDetail": "Ensure the rail service requirements are determined based on operational risk.",
-      "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "6710fd0d-167e-42c4-82cd-0f11f29b495c",
+        "d808c75e-bf7a-4332-ac3d-47a9a9a81428",
+        "3e6e48fd-a295-41c3-a664-7fe87d9e3add",
+        "32298efb-cb67-46d4-9347-ea8e272dcace",
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "c5a3b707-d83e-4a2e-826e-cb537e57a6cf",
+        "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+        "84993b20-1ffa-46f7-92b6-b5a061133166"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "873ce0d3-b6dc-4fa4-bb96-2460a2b80894",
       "dutyDetail": "Manage rail incidents and other significant events.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "240515dc-6f2e-4e42-afe9-74582bb14f7f",
+        "f11373f1-83fb-4fbd-8c9a-0d8e68e0eb16",
+        "29daa1aa-1648-4898-b137-7e8fdb2a150d",
+        "6a2a2c6a-1bf9-4e47-b9b5-2432346d73a7",
+        "bf690140-8d4c-43d4-83ae-8980e55db117",
+        "502061c5-fa17-4244-8dbd-17f9315af359",
+        "4456a654-bacd-4373-b404-a6c4ef92d4c8",
+        "4625fddd-4e0a-43e6-b016-e3fa5742905a",
+        "e9e0a651-072f-4727-8384-a58c3b7b51a9"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3d48e287-7e42-446e-947c-0c3916c8bf18",
+        "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "3e6e48fd-a295-41c3-a664-7fe87d9e3add",
+        "32298efb-cb67-46d4-9347-ea8e272dcace",
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "c5a3b707-d83e-4a2e-826e-cb537e57a6cf"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "13ed6d75-88fc-4d64-bfee-88b78d3ac866",
       "dutyDetail": "Manage factors that impact the environment and sustainability.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "7f902271-90b5-447b-be7f-c60c667f8a03",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "11d122da-9ff0-4d7e-87c4-89523c082f18"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "3d48e287-7e42-446e-947c-0c3916c8bf18",
+        "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "32298efb-cb67-46d4-9347-ea8e272dcace",
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "22dff640-118e-494d-ba4c-2cace74deee7"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "c80afcdb-56a8-4bc4-b7f5-42b31162a0ea",
       "dutyDetail": "Manage rail security.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "29daa1aa-1648-4898-b137-7e8fdb2a150d",
+        "6a2a2c6a-1bf9-4e47-b9b5-2432346d73a7",
+        "bf690140-8d4c-43d4-83ae-8980e55db117",
+        "502061c5-fa17-4244-8dbd-17f9315af359",
+        "4456a654-bacd-4373-b404-a6c4ef92d4c8",
+        "4625fddd-4e0a-43e6-b016-e3fa5742905a",
+        "d11d5bc2-e797-4507-b063-40e94beea1be",
+        "e9e0a651-072f-4727-8384-a58c3b7b51a9"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "3e6e48fd-a295-41c3-a664-7fe87d9e3add",
+        "32298efb-cb67-46d4-9347-ea8e272dcace",
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "e7bc26b5-7878-4349-b05a-8ba806798dc0"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "bb8cfdf9-4b7c-4026-80d1-bcf334084c25",
       "dutyDetail": "Manage workforce competency and professional development requirements, ensuring compliance with regulations.",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "e647aad1-39b4-4991-aa34-9a8a7ab2d59a",
+        "c3c36c5c-622e-4756-8986-00a62ce6708b",
+        "7f902271-90b5-447b-be7f-c60c667f8a03",
+        "ffa398f8-8419-4e6c-972e-8f29e0e3b3f5",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "a8edb932-5233-4075-a213-cadecb2bbe4f",
+        "3f74b0cf-19c0-4ccc-b177-b4c06524071f",
+        "bb877790-63a0-4d0c-91d7-6f8919cb4c32",
+        "cc96c76b-61c6-4519-8df8-e3ae014c88e4",
+        "9944439f-aa5b-4c7a-9eb9-05675669f351",
+        "8c406f5b-1ad2-4abd-a69a-95cae939e402",
+        "283162c6-5b01-4e5c-9c6f-41c85bee7364",
+        "0b75ffc7-66a7-4045-a7cd-10a8db5f4db8",
+        "f418cbec-e47f-44d1-8199-01aee2913810"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "144d1be5-00ef-4d09-ab7b-11b3a8e79e7b",
+        "6710fd0d-167e-42c4-82cd-0f11f29b495c",
+        "e70ef5fb-2cad-4e3f-a601-eab7d2a3cfc4",
+        "adf36f5c-f39f-4060-9cf6-0b48c091ea2b",
+        "d5cabd96-9c92-4faa-874e-b9addf824c29",
+        "356ca593-05cb-46d3-bd61-d2b6aeb6eaaf",
+        "e0a21d0e-9a2d-499e-9c88-c8f636d1243d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6206aebb-ac92-4a25-a8f1-c2f862d3e2ae",
+      "dutyDetail": "Recruit, train, appraise, mentor and be responsible for the day-to-day management of direct workforce",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7f902271-90b5-447b-be7f-c60c667f8a03",
+        "ffa398f8-8419-4e6c-972e-8f29e0e3b3f5",
+        "2e978547-d0be-42a4-bbbc-959ff9183c6d",
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "bb877790-63a0-4d0c-91d7-6f8919cb4c32",
+        "cc96c76b-61c6-4519-8df8-e3ae014c88e4",
+        "9944439f-aa5b-4c7a-9eb9-05675669f351",
+        "8c406f5b-1ad2-4abd-a69a-95cae939e402",
+        "283162c6-5b01-4e5c-9c6f-41c85bee7364",
+        "0b75ffc7-66a7-4045-a7cd-10a8db5f4db8",
+        "f418cbec-e47f-44d1-8199-01aee2913810"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "144d1be5-00ef-4d09-ab7b-11b3a8e79e7b",
+        "e70ef5fb-2cad-4e3f-a601-eab7d2a3cfc4",
+        "adf36f5c-f39f-4060-9cf6-0b48c091ea2b",
+        "d5cabd96-9c92-4faa-874e-b9addf824c29",
+        "356ca593-05cb-46d3-bd61-d2b6aeb6eaaf",
+        "e0a21d0e-9a2d-499e-9c88-c8f636d1243d"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -176,29 +667,14 @@
       "dutyDetail": "Contribute to strategic rail management.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "bfc4d1a1-8505-41a7-b5b7-539e39d2ad85",
+        "f6197ee1-93c4-4537-9583-140cb845038e"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "4b51fcfa-ee9d-4077-9283-695391163b7f",
-      "dutyDetail": "Engage with Trade Unions and employee representatives to achieve organisational objectives.",
-      "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "0b2d0511-0eff-45cb-8c53-f1d46bdb3757",
-      "dutyDetail": "Ensure workforce health and safety is managed across all workplaces.",
-      "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "72ea0467-2cd2-4f7d-84c6-d4af339625de"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -206,29 +682,26 @@
       "dutyDetail": "Develop and maintain internal controls that monitor and manage financial risk to safeguard the organisations assets, personnel and mitigate liabilities.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "a8edb932-5233-4075-a213-cadecb2bbe4f",
+        "6a2a2c6a-1bf9-4e47-b9b5-2432346d73a7",
+        "f6197ee1-93c4-4537-9583-140cb845038e",
+        "e0d16af5-9f02-4f57-878d-ca2dc1707f63",
+        "9d01d76e-168e-4309-a7ed-00a30c445dc8",
+        "4f18d85b-7438-45f3-9647-73c83d71eb37",
+        "a4437419-aaca-4f01-a774-c1649a1c52e4"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "d480b3bc-55c8-4b3e-8258-53e91019d375",
-      "dutyDetail": "Recruit, train, appraise, mentor and be responsible for the day-to-day management of direct workforce.",
-      "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [],
-      "mappedSkills": [],
-      "criteriaForMeasuringPerformance": ""
-    },
-    {
-      "dutyID": "c4fce128-75e6-4b3d-8a48-10d78116caf0",
-      "dutyDetail": "Record, report and manage train service performance to minimise disruption.",
-      "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "27f6a133-1c28-4aaa-bf83-e18def4c2465",
+        "d808c75e-bf7a-4332-ac3d-47a9a9a81428",
+        "8f31cf1f-19c4-4843-ab6f-b31eaa870df8",
+        "f3473543-b58b-4dff-b638-c53114cd9838",
+        "e4a9af95-d138-46c3-9c9a-ca62588d0813",
+        "41880d19-9049-47c2-aa0e-2fb14303ce73",
+        "8cc2c00a-eab4-4e58-a283-ac0cfdc56602",
+        "18490245-6061-4591-ac2b-dcf5c5eac3d6"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -236,9 +709,50 @@
       "dutyDetail": "Lead the creation and collation of contingency plans to ensure operational resilience.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "4456a654-bacd-4373-b404-a6c4ef92d4c8",
+        "4625fddd-4e0a-43e6-b016-e3fa5742905a",
+        "e9e0a651-072f-4727-8384-a58c3b7b51a9",
+        "9d01d76e-168e-4309-a7ed-00a30c445dc8",
+        "4f18d85b-7438-45f3-9647-73c83d71eb37",
+        "083b7fe0-4997-491a-95ae-51c7815db266",
+        "93f48f72-7315-428a-9cc4-6ae3a01a6b96",
+        "7dfa2c20-a659-4a3e-ae32-39926ef37042",
+        "0d04d075-dd09-486b-9726-dd1cd925a453"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "c5a3b707-d83e-4a2e-826e-cb537e57a6cf",
+        "f3473543-b58b-4dff-b638-c53114cd9838",
+        "e4a9af95-d138-46c3-9c9a-ca62588d0813",
+        "41880d19-9049-47c2-aa0e-2fb14303ce73",
+        "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+        "8f199620-bcc0-4b5b-b761-adc2df7dd4b4"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c4fce128-75e6-4b3d-8a48-10d78116caf0",
+      "dutyDetail": "Record, report and manage train service performance to minimise disruption.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "083b7fe0-4997-491a-95ae-51c7815db266",
+        "93f48f72-7315-428a-9cc4-6ae3a01a6b96",
+        "ac1294fb-2788-49f5-83e4-4eb885361829",
+        "7dfa2c20-a659-4a3e-ae32-39926ef37042",
+        "0d04d075-dd09-486b-9726-dd1cd925a453"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e4a9af95-d138-46c3-9c9a-ca62588d0813",
+        "f67e150a-e6e2-4611-87c0-c1bbde384cc1",
+        "8cc2c00a-eab4-4e58-a283-ac0cfdc56602",
+        "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+        "8f199620-bcc0-4b5b-b761-adc2df7dd4b4"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -246,9 +760,25 @@
       "dutyDetail": "Lead on or contribute to problem solving and continuous improvement activities.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "083b7fe0-4997-491a-95ae-51c7815db266",
+        "93f48f72-7315-428a-9cc4-6ae3a01a6b96",
+        "ac1294fb-2788-49f5-83e4-4eb885361829",
+        "7052490b-94e2-4c0a-b5f3-842be0106fbc",
+        "c2c4900b-ca65-4a19-9253-22a6110e0e19"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "27f1098f-79da-4e3b-afa4-c6c1b2dcd153",
+        "e7bc26b5-7878-4349-b05a-8ba806798dc0",
+        "8f31cf1f-19c4-4843-ab6f-b31eaa870df8",
+        "f3473543-b58b-4dff-b638-c53114cd9838",
+        "f67e150a-e6e2-4611-87c0-c1bbde384cc1",
+        "8cc2c00a-eab4-4e58-a283-ac0cfdc56602",
+        "2e1e1b1a-aba5-4877-8f05-a4ee2066bf30",
+        "bfd9b672-73ca-4b40-b6d8-62a06442212e",
+        "8f199620-bcc0-4b5b-b761-adc2df7dd4b4"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
@@ -256,19 +786,58 @@
       "dutyDetail": "Responsibility: Provide products and services which have been properly maintained.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedKnowledge": [
+        "0d04d075-dd09-486b-9726-dd1cd925a453",
+        "a4437419-aaca-4f01-a774-c1649a1c52e4"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "84993b20-1ffa-46f7-92b6-b5a061133166",
+        "18490245-6061-4591-ac2b-dcf5c5eac3d6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4b51fcfa-ee9d-4077-9283-695391163b7f",
+      "dutyDetail": "Engage with Trade Unions and employee representatives to achieve organisational objectives.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "b70a383b-c42d-4403-91bc-fb9c5de10e90"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "535a0879-2ef1-4e31-832c-bc219261b4bc"
+      ],
       "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "a3c487f4-b377-4498-b86a-0889059da174",
-      "dutyDetail": "Liaise with external customers.",
+      "dutyDetail": "Liaise with external stakeholders",
       "isThisACoreDuty": 1,
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
+      "mappedBehaviour": [
+        "24efc26f-8b78-4dc5-96b7-27ff32082bb7"
+      ],
+      "mappedKnowledge": [
+        "301c00f9-efd2-4f00-a71f-21f169ecd39c",
+        "4456a654-bacd-4373-b404-a6c4ef92d4c8",
+        "4625fddd-4e0a-43e6-b016-e3fa5742905a",
+        "d11d5bc2-e797-4507-b063-40e94beea1be",
+        "b6ee3913-e9e9-4833-ae95-0b8a81bd416b",
+        "049c18e6-4c03-49bd-8318-d651cebfc8ed",
+        "6c79683b-31b5-41df-80ff-29566394e706"
+      ],
       "mappedOptions": [],
-      "mappedSkills": [],
+      "mappedSkills": [
+        "c9afe2cf-531c-4c02-9345-c39997d4ed85",
+        "e7bc26b5-7878-4349-b05a-8ba806798dc0",
+        "535a0879-2ef1-4e31-832c-bc219261b4bc",
+        "bc23ce60-3ed8-4e19-89a3-23a95a327f3d",
+        "cd3c59d6-086a-4afa-a690-79d80d1bfce6",
+        "c71fb317-8085-41fc-bba8-d7568497c06e"
+      ],
       "criteriaForMeasuringPerformance": ""
     }
   ],
@@ -277,5 +846,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-06T00:00:00"
+  "publishDate": "2025-06-09T00:00:00"
 }
