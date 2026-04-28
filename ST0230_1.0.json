@@ -1,12 +1,13 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 138,
   "referenceNumber": "ST0230",
   "learningAimClassCode": "",
   "title": "Hospitality supervisor",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0230",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0230",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Retired",
@@ -18,6 +19,7 @@
   "level": 3,
   "ePALength": 0,
   "typicalDuration": 12,
+  "minimumHoursForCompliance": "",
   "maxFunding": 5000,
   "maxFundingAdditionalInformation": "",
   "route": "Catering and hospitality",
@@ -79,7 +81,7 @@
   "englishAndMathsQualifications": "",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Hospitality",
-  "cluster": "Hospitality Team Member/Supervisor",
+  "cluster": "Hospitality team member or supervisor",
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2020-10-02T10:25:31 +00:00",
@@ -87,8 +89,8 @@
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0230",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0230-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0230-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0230-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0230-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [],
@@ -101,7 +103,7 @@
     {
       "optionId": "92915c9d-fb91-40f4-ae77-cf166df5a6ed",
       "title": "Concierge\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230B"
     },
     {
       "optionId": "8aa45760-c0f9-4c28-81c2-ae9b9f47f652",
@@ -121,12 +123,12 @@
     {
       "optionId": "07856d83-e64e-4943-a984-51809d26f529",
       "title": "Hospitality\u00A0Outlet\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230F"
     },
     {
       "optionId": "1f4732ec-23a9-46f0-af35-3fc6b0ad60df",
       "title": "House\u00A0Keeping\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230G"
     }
   ],
   "regulationDetail": [],
