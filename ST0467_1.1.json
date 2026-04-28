@@ -1,24 +1,26 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 331,
   "referenceNumber": "ST0467",
   "learningAimClassCode": "",
   "title": "Poultry technician",
-  "status": "In development",
+  "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0467",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0467",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2023-03-02T00:00:00",
-  "earliestStartDate": null,
-  "latestStartDate": null,
+  "versionNumber": "1.1",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2025-12-09T00:00:00",
+  "earliestStartDate": "2025-06-20T00:00:00",
+  "latestStartDate": "2025-12-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage and control a complex poultry farming site or operational agriculture (hatchery) unit.",
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 18,
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "439",
+  "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
@@ -36,7 +38,7 @@
     "Poultry rearing technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0467-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0467-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
@@ -520,7 +522,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-08-08T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -542,16 +544,16 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Agricultural Operative/Technician",
+  "cluster": "Agricultural operative or technician",
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
-  "createdDate": "2025-04-03T07:59:48 +00:00",
-  "lastUpdated": "2023-03-02T00:00:00 +00:00",
+  "createdDate": "2025-09-03T07:45:25 +00:00",
+  "lastUpdated": "2025-12-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-08T00:00:00 +00:00",
-  "banners": "This revised version of the occupational standard and end-point assessment plan has been agreed and is available for information only pending approval of the funding band.",
+  "banners": "",
   "occupationCode": "OCC0467",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0467-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0467-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0467-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0467-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -1243,27 +1245,27 @@
     {
       "optionId": "ce321cba-dcb1-409a-88b3-34eb3235f909",
       "title": "Poultry rearing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467E"
     },
     {
       "optionId": "0db3bbc9-7ad1-4ae6-8cd9-495a4a167d0a",
       "title": "Poultry breeding technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467A"
     },
     {
       "optionId": "e81dc112-7987-488f-8b1f-bcd6a97aa0ba",
       "title": "Poultry hatchery technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467D"
     },
     {
       "optionId": "a3698fa7-4fa3-4b34-ac3b-c6678007c2ce",
       "title": "Poultry egg production technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467B"
     },
     {
       "optionId": "5d38b2f2-45ee-4979-9736-50e462825561",
       "title": "Poultry growing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467C"
     }
   ],
   "regulationDetail": [],
@@ -1307,5 +1309,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-03-02T00:00:00"
+  "publishDate": "2025-12-09T00:00:00"
 }
