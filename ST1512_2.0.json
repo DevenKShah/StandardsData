@@ -1,0 +1,755 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 828,
+  "referenceNumber": "ST1512",
+  "learningAimClassCode": "Z0001946",
+  "title": "Artificial intelligence (AI) and automation practitioner",
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1512",
+  "qualificationStandardUrl": null,
+  "versionNumber": "2.0",
+  "change": "Approved for delivery",
+  "changedDate": "2026-01-14T00:00:00",
+  "earliestStartDate": "2025-12-10T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Identifying, designing, and delivering practical improvements in how work gets done across business functions, using AI and automation.",
+  "level": 4,
+  "ePALength": 2,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "420",
+  "maxFunding": 18000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Digital",
+  "keywords": [],
+  "jobRoles": [
+    "Ai integration officer",
+    "Automation enablement consultant",
+    "Business process support executive",
+    "Digital automation specialist",
+    "Digital operations technician",
+    "Digital productivity consultant",
+    "Junior innovation consultant",
+    "Process automation analyst",
+    "Technology operations coordinator",
+    "Workflow solutions assistant"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0?view=epa",
+  "ssa1": "6 Digital Technology",
+  "ssa2": "6.1 Digital technology (practitioners)",
+  "version": "2.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;This occupation is found in a wide range of sectors and organisations that rely on digital tools, online systems, and data-driven processes to operate efficiently. Employees in this occupation support improvement wherever digital workflows exist and are typically embedded in operational teams, working in digital support roles, or in change delivery functions. They may also be employed by consultancies or service providers helping organisations optimise internal and customer-facing processes. &lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;The broad purpose of the occupation is to enhance productivity, streamline processes, and support continuous improvement through the safe and responsible use of automation, integration, and AI tools. They understand, select, and implement digital solutions to address inefficiencies in existing systems. Their work is focused on solving real-world challenges that slow down business operations such as manual tasks, duplicated data entry, unintegrated tools, and inefficient workflows. They play a key role in unlocking time and cost savings supporting organisations to realise the potential for AI, automation and digital solutions to improve efficiency, accuracy or productivity.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;In their daily work, an employee in this occupation interacts with internal stakeholders across a variety of teams such as operations, service delivery, customer support, or finance, depending on the organisation. They may also engage with external suppliers or digital tool providers to implement new systems or assist with integrations. They report to team leaders, service managers or project owners and work closely with colleagues to analyse and support existing ways of working. They use communication, collaboration, and feedback skills to align their automation work with wider organisational goals.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;An employee in this occupation will be responsible for identifying opportunities to improve workflow efficiency and productivity using digital tools. They will analyse current systems and processes, make recommendations utilising low-or no-code solutions including AI-driven automations. They will support with user adoption, facilitating the responsible, safe and ethical use of AI, automation and digital solutions, ensuring they align with organisational policies and user needs.&lt;/span&gt;&lt;/p&gt;\n&lt;p class=&quot;pf0&quot;&gt;&lt;span class=&quot;cf0&quot;&gt;While they are not expected to lead teams, they are responsible for taking ownership of specific projects or tasks that deliver tangible operational value.&lt;/span&gt;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "3db450e4-2ce1-4308-a49a-9d3f7ebf9686",
+      "detail": "The role of organisational leadership in responsible AI adoption, including setting values, policy, and strategy. The business case for ethical AI adoption, including reputational risk, staff morale, and long-term sustainability. "
+    },
+    {
+      "knowledgeId": "a3a4aac4-be42-4066-b6ef-61b7ea54a987",
+      "detail": " Legal and regulatory frameworks including employment rights, equality, and responsible automation, data protection and GDPR. Ethical principles and professional standards relevant to AI development such as fairness, transparency, and accountability."
+    },
+    {
+      "knowledgeId": "038d5b76-1127-438d-b020-b6ab8be14834",
+      "detail": "Understand the potential social and economic impacts of AI and automation on different roles, particularly for non-technical staff including change management principles. "
+    },
+    {
+      "knowledgeId": "d54abf31-2269-478a-8c6e-c39b69b42cb6",
+      "detail": "Approaches for identifying and implementing incremental change, including piloting, evaluating solutions in relation to organisational constraints such as budget, time, and resources. "
+    },
+    {
+      "knowledgeId": "70ab02e8-d8ef-472d-9b73-e759f203b269",
+      "detail": "Methods to identify opportunities to enhance productivity such as improve processes, reduce waste, increase user or customer satisfaction or optimise outcomes."
+    },
+    {
+      "knowledgeId": "6e255da6-b445-4100-a00d-e4ab2f5c08d7",
+      "detail": "The importance of designing AI and automation systems that augment rather than replace human work, where feasible."
+    },
+    {
+      "knowledgeId": "5159af4d-f9ed-4253-89ce-fb778b3be182",
+      "detail": "The capabilities, benefits and risks of automation, AI and digital tools including responsible use, ethical considerations and the potential impact on the workforce. "
+    },
+    {
+      "knowledgeId": "c18be09b-73fd-4bec-a93f-702dd39147ce",
+      "detail": "The capabilities, risks and implications of on-premise, cloud-based and third party solutions."
+    },
+    {
+      "knowledgeId": "64e8f041-b19c-46ca-97cc-d0999557b3dc",
+      "detail": "AI and automation concepts, models and limitations. The impact adoption may have on workplace culture and wellbeing."
+    },
+    {
+      "knowledgeId": "342cf794-65ed-4480-8276-8304faf235b0",
+      "detail": "Sources of error and algorithmic bias, including how they may be affected by choice of dataset and methodologies applied, and the impact on the user and or organisation. Fairness metrics and mitigation approaches. "
+    },
+    {
+      "knowledgeId": "5e6dfcf2-ec9a-4782-a4ee-979baeba598e",
+      "detail": "User requirements when designing and implementing AI and automation solutions including accessibility considerations. "
+    },
+    {
+      "knowledgeId": "846d3faf-95ce-416d-80c5-9e134d3fadf1",
+      "detail": "Product development lifecycle including consideration of user experience (UX) principles such as user centred design (UCD), data informed design and experimental testing."
+    },
+    {
+      "knowledgeId": "5a7d2f37-2edb-4f08-80b2-36402733526a",
+      "detail": "How to assess the viability of solutions, for example testing and evaluating solutions, using test data and results, feasibility (time, cost, data quality and process maturity), and user testing."
+    },
+    {
+      "knowledgeId": "a5ebb0ca-41e1-4c18-8f96-d85b8e287243",
+      "detail": "Principles and application of testing methodologies and their application in practice. "
+    },
+    {
+      "knowledgeId": "e0d734b5-0291-4924-b8f4-13fc54d87877",
+      "detail": "Principles of human oversight and human AI collaboration to achieve shared outcomes."
+    },
+    {
+      "knowledgeId": "42bf8bc2-de4d-49f6-a1a3-08078a0b0a63",
+      "detail": "Feedback and evaluation loops to improve systems, processes, productivity and performance including human in the loop safeguards. "
+    },
+    {
+      "knowledgeId": "018f26d2-c6a5-4df3-998e-63c9f56799bd",
+      "detail": "Principles for designing sustainable solutions to support organisational strategies and objectives."
+    },
+    {
+      "knowledgeId": "d9201a3d-8127-4f97-92fc-c09323fc4cdf",
+      "detail": "Governance principles to ensure accountability and compliance, including methods to identify system vulnerabilities and mitigate threats or risks to assets, data and cyber security. "
+    },
+    {
+      "knowledgeId": "a9351c05-4d61-44dd-8f87-8b24ea873bd9",
+      "detail": "Engagement and training approaches used with non-technical staff to understand their roles, responsibilities, and concerns when AI automation solutions are proposed. Including best practice and methods to deliver training."
+    },
+    {
+      "knowledgeId": "07bcca89-823a-4ab1-8597-dcdc2b35f3f0",
+      "detail": "Methods to develop resources such as manuals, short explainers, chat-based guidance, interactive wikis and training materials."
+    },
+    {
+      "knowledgeId": "b3ba14aa-09d4-4f8e-8012-b8a1a6cfd424",
+      "detail": "Strategies for inclusive communication with stakeholders from diverse and non-technical backgrounds."
+    },
+    {
+      "knowledgeId": "df823baa-4262-4932-8058-faa6c244714d",
+      "detail": "Collaborative working principles to explore AI and automation solutions and implement prototypes, pilots or proof of concepts. "
+    },
+    {
+      "knowledgeId": "967ac38f-bb3d-4759-be70-f5f033004c56",
+      "detail": "Mitigation strategies for post-deployment issues such as overreliance and automation bias."
+    },
+    {
+      "knowledgeId": "aa1170bc-6975-4759-a3fb-0de0beecfd77",
+      "detail": "Principles to support project and change management delivery. "
+    },
+    {
+      "knowledgeId": "7febc43d-3a54-4818-902a-1b0363c1cf02",
+      "detail": "Approaches to maintaining up-to-date knowledge of existing, evolving and emerging technologies and sector trends for example peer learning, online forums, AI tool release notes."
+    },
+    {
+      "knowledgeId": "6d57975e-a4b9-4e5d-831f-cacc10fe6963",
+      "detail": "The benefits of wellbeing and safe working practices."
+    },
+    {
+      "knowledgeId": "4a41e08d-829e-40e6-9eac-3945b4d26580",
+      "detail": "Methods for assuring compliance in AI and automation projects, including documentation of model decision-making, conducting structured risk assessments, and aligning implementation with recognised AI assurance and governance frameworks. The importance of auditability, transparency, and accountability in organisational contexts."
+    },
+    {
+      "knowledgeId": "1b99cd01-80b2-45c2-9f81-2581de76eac7",
+      "detail": "Principles and practices of algorithmic impact assessment and workforce equality monitoring, including methods to identify, assess, and mitigate potential disproportionate impacts of automation and AI systems on different workforce groups. Organisational responsibilities under equality and employment law, and methods to evidence fairness and transparency in adoption."
+    },
+    {
+      "knowledgeId": "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0",
+      "detail": "Principles and practices for the long-term monitoring of AI and automation solutions, including detection and mitigation of risks such as model drift, emerging bias, degraded performance, and security vulnerabilities."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "77a7cc63-af93-486c-a7d6-33f829ca9445",
+      "detail": "Demonstrates empathy by actively considering the perspectives and concerns of staff who may be impacted by AI-driven change. Acts responsibly, recognising organisational efficiency goals with fairness to employees."
+    },
+    {
+      "behaviourId": "ace6fb3d-d93c-436a-bd18-1ca74b07a718",
+      "detail": "Maintains professionalism and upholds confidentiality when discussing sensitive workforce impacts, showing respect for individual contributions. "
+    },
+    {
+      "behaviourId": "eb7e69e7-0f7b-46d3-9504-4d6119fa4369",
+      "detail": "Demonstrates confidence in sharing concerns or alternative perspectives of self or others, even when under pressure to deliver efficiencies. "
+    },
+    {
+      "behaviourId": "93d40117-5872-4c5d-b35e-8e99be3a94e1",
+      "detail": "Balances respect for leadership decisions with advocacy for employees."
+    },
+    {
+      "behaviourId": "09684ea3-d62e-42f3-9cc6-2dcfa625a901",
+      "detail": "Support leaders to consider the impact of AI automation adoption, not just immediate organisational gains."
+    },
+    {
+      "behaviourId": "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c",
+      "detail": "Shows curiosity and initiative, experimenting with AI and automation, while ensuring such exploration is conducted safely, ethically, and with regard for potential impacts."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "e63501c1-ad65-4a39-82d5-cb0658b2d70d",
+      "detail": "Review, establish, follow and or amend policies and procedures on data and information security."
+    },
+    {
+      "skillId": "b3e116bf-5da9-44e4-b69c-18057b7dbb5f",
+      "detail": "Follow ethical, responsible and safe working practices respecting confidentiality and sensitive organisational matters."
+    },
+    {
+      "skillId": "fab2b7a9-33fe-44b8-b2e7-67a33fd87b8f",
+      "detail": "Undertake analysis to identify if automation is viable. Including assessing risks such as data quality, process maturity and unintended consequences of AI automation projects, such as the impact on job roles. "
+    },
+    {
+      "skillId": "83d3f56a-0547-4cd6-a933-06f8cb774061",
+      "detail": "Engage with non-technical staff to understand their roles, responsibilities, and concerns when automation solutions are proposed and implemented. Adapt approach to support workforce needs when implementing solutions that impacts the workforce. "
+    },
+    {
+      "skillId": "953214e0-90d3-4f92-8402-9152fda90fb7",
+      "detail": "Support with the introduction, adaption, and implementation of change. Contribute to constructive dialogue between leaders and employees about the adoption of AI and automation solutions. "
+    },
+    {
+      "skillId": "b53b5188-cfeb-4272-87cf-ab5f32839dcd",
+      "detail": "Review and complete workflow and process mapping to identify problems or inefficiencies and recommend solutions including pilots, incremental changes and scaling opportunities."
+    },
+    {
+      "skillId": "8f94b96a-ea63-419d-8cf0-f7ffee9da535",
+      "detail": "Use automation design tools to suit the organisational context to configure, adapt and implement solutions for example Zapier, Make and Power Automate."
+    },
+    {
+      "skillId": "e9a738c7-5aee-4c25-a442-38991ad645aa",
+      "detail": "Create and refine prompts for AI tools, using iterative testing to achieve accurate and useful outputs."
+    },
+    {
+      "skillId": "62758ce0-f0a2-42fc-9d74-d75ed731d877",
+      "detail": "Apply analytical and computational techniques using tools and datasets to design, evaluate, and optimise automation solutions."
+    },
+    {
+      "skillId": "3210574f-b4f2-488c-942a-c9f4fdc35ac5",
+      "detail": "Integrate AI and automation technologies to collect, process, and manage data effectively, enabling intelligent and efficient system operation."
+    },
+    {
+      "skillId": "d52b1966-7749-4a18-868e-94397ed6f85f",
+      "detail": "Design, integrate, and test digital workflows and AI automation tools using APIs, connectors, or low-or no-code integration methods. "
+    },
+    {
+      "skillId": "e38865fd-3382-4a19-b06c-ec7674a12994",
+      "detail": "Iterate solutions based on testing and feedback to ensure reliability, security, accessibility, and alignment with organisational needs."
+    },
+    {
+      "skillId": "b0010158-1092-4a13-a26f-a46161c3a5fd",
+      "detail": "Identify opportunities to deliver automation. Support leaders in integrating ethical, empathetic approaches when decision-making."
+    },
+    {
+      "skillId": "bec4f400-3a45-4921-aa66-3115c4b193ce",
+      "detail": "Support in the identification and evaluation of opportunities for increased productivity. For example, use of low-or no-code tools, streamlining processes and use of AI platforms."
+    },
+    {
+      "skillId": "870876a4-58d3-4be7-b390-4cc446fe3a81",
+      "detail": "Make evidence based suggestions to support governance, outcomes and facilitate improvement for example cost benefit analysis. "
+    },
+    {
+      "skillId": "9155e63a-2740-4113-9db4-2b2340d16d7a",
+      "detail": "Report on productivity and efficiency savings and the opportunities for automation and where applicable when automation does not improve experience or processes."
+    },
+    {
+      "skillId": "e4da483e-54a8-44e7-b966-0b4a4e9e3003",
+      "detail": "Contribute to sustainable and efficient AI and automation solutions."
+    },
+    {
+      "skillId": "ca41facf-738b-4f3c-914d-af5adab7434b",
+      "detail": "Support with the delivery of training to technical and non-technical user groups or audiences adapting content and format responding to feedback and organisational context."
+    },
+    {
+      "skillId": "ebacf448-90de-4724-9c58-6cff4ea691ae",
+      "detail": "Contribute to the creation and or adaption of resources such as user guides, training materials, process documents to meet user requirements."
+    },
+    {
+      "skillId": "608b8c00-0560-4cda-b211-3bbe9535b81c",
+      "detail": "Work collaboratively to deploy AI and automation strategies. Support where required to deal with the impact of automation for example retraining, redeployment, or upskilling of affected staff."
+    },
+    {
+      "skillId": "a5187425-139e-4696-a8d8-e7ed70396d80",
+      "detail": "Undertake data analysis, preparation, and conversion to support automation solutions. "
+    },
+    {
+      "skillId": "4b95c482-cd0f-406b-8bda-295afa032c0c",
+      "detail": "Present and communicate information including the translation of technical concepts into accessible materials to support clear dialogue with stakeholders."
+    },
+    {
+      "skillId": "ebb484d7-953f-4235-a172-758894f5aaac",
+      "detail": "Work with others to achieve agreed outcomes or outputs. Provide evidence-based analysis and insight to leaders on the likely human impacts of automation projects."
+    },
+    {
+      "skillId": "292975ba-6746-4fba-ad17-cf3e7fc27404",
+      "detail": "Use project management principles, techniques and tools to support the development of clear, balanced communications and briefings, articulating both opportunities and risks."
+    },
+    {
+      "skillId": "07a41c8e-0790-4552-b080-d496e7d2e6be",
+      "detail": "Keep up to date with existing, evolving, emerging technologies and sector trends in AI, automation and technology including methods to evaluate vendor and supplier solutions.      "
+    },
+    {
+      "skillId": "59be23eb-7892-4a4f-a317-68e457b1ef8e",
+      "detail": "Apply ethical and human-centred design principles when scoping, developing, and deploying automation and AI solutions, underpinned by robust governance.      "
+    },
+    {
+      "skillId": "c0521dbe-7e6c-478d-a391-33406c203f83",
+      "detail": "Apply technical understanding to help align business needs with technical capabilities, supporting the development of solutions that are scalable, efficient, and aligned with the organisation’s strategic objectives."
+    },
+    {
+      "skillId": "3da4ff4d-1f04-4013-9a01-8b0750976f5f",
+      "detail": "Undertake assurance activities to evidence responsible AI and automation, including maintaining clear documentation of design and decision-making, contributing to risk assessments, and applying  assurance frameworks to support compliance with organisational, regulatory, and ethical standards."
+    },
+    {
+      "skillId": "68d6d98b-4ee0-462a-a22f-2fc2dd1f8a88",
+      "detail": "Apply algorithmic impact assessment and workforce equality monitoring techniques when scoping, implementing, and reviewing AI and automation projects. Gather and analyse relevant workforce data, identify potential equality risks, and contribute evidence-based recommendations to support fair and inclusive adoption."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "2025-11-20T00:00:00 +00:00",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "2025-12-10T00:00:00 +00:00",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "",
+  "tbMainContact": "Carly.Hinds@education.gov.uk",
+  "involvedEmployers": "Sandbox, Go Live Experts, Artemis Clarke, Castelle Group, Sammons Group, ArtStory, Puddle Jumpers, Wrencon, Kettell Windows,  Green Electrical & Maintenance, Reel Films, Delaware Manor, Nostos Catering, Amigo Partners, Bioasis, ICE Electronics, Clever IT, EastEnd Prints, Gridlines, T5 Digital",
+  "otherInvolvedStakeholders": "Innovation UK",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Ai integration officer",
+    "Automation enablement consultant",
+    "Business process support executive",
+    "Digital automation specialist",
+    "Digital operations technician",
+    "Digital productivity consultant",
+    "Junior innovation consultant",
+    "Process automation analyst",
+    "Technology operations coordinator",
+    "Workflow solutions assistant"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Digital Business Services",
+  "cluster": "Digital solutions advanced technician",
+  "clusterId": "194",
+  "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
+  "createdDate": "2025-12-24T08:57:30 +00:00",
+  "lastUpdated": "2026-01-14T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2025-12-10T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC1512",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1512-v2-0",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "e4a9f906-1318-427f-b71e-68ad6281b2d3",
+      "dutyDetail": "Identify opportunities for automation to drive operational improvement and cost savings. Advocate for responsible implementation, balancing the pursuit of efficiency with fairness, transparency, and a commitment to supporting workforce wellbeing.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ace6fb3d-d93c-436a-bd18-1ca74b07a718",
+        "09684ea3-d62e-42f3-9cc6-2dcfa625a901",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "3db450e4-2ce1-4308-a49a-9d3f7ebf9686",
+        "a3a4aac4-be42-4066-b6ef-61b7ea54a987",
+        "d54abf31-2269-478a-8c6e-c39b69b42cb6",
+        "70ab02e8-d8ef-472d-9b73-e759f203b269",
+        "a9351c05-4d61-44dd-8f87-8b24ea873bd9",
+        "967ac38f-bb3d-4759-be70-f5f033004c56",
+        "aa1170bc-6975-4759-a3fb-0de0beecfd77",
+        "7febc43d-3a54-4818-902a-1b0363c1cf02",
+        "6d57975e-a4b9-4e5d-831f-cacc10fe6963",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b3e116bf-5da9-44e4-b69c-18057b7dbb5f",
+        "fab2b7a9-33fe-44b8-b2e7-67a33fd87b8f",
+        "83d3f56a-0547-4cd6-a933-06f8cb774061",
+        "b53b5188-cfeb-4272-87cf-ab5f32839dcd",
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "a5187425-139e-4696-a8d8-e7ed70396d80",
+        "292975ba-6746-4fba-ad17-cf3e7fc27404",
+        "07a41c8e-0790-4552-b080-d496e7d2e6be",
+        "c0521dbe-7e6c-478d-a391-33406c203f83"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "db39ace8-a0bb-4126-9baa-ecc81d5d96c9",
+      "dutyDetail": "Provide input into the implementation of AI and automation solutions that extend beyond low-or no-code platforms. Collaborate when needed with technical teams such as architects and leads to enable the successful delivery of automation opportunities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "77a7cc63-af93-486c-a7d6-33f829ca9445",
+        "ace6fb3d-d93c-436a-bd18-1ca74b07a718",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "038d5b76-1127-438d-b020-b6ab8be14834",
+        "70ab02e8-d8ef-472d-9b73-e759f203b269",
+        "64e8f041-b19c-46ca-97cc-d0999557b3dc",
+        "a5ebb0ca-41e1-4c18-8f96-d85b8e287243",
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e63501c1-ad65-4a39-82d5-cb0658b2d70d",
+        "fab2b7a9-33fe-44b8-b2e7-67a33fd87b8f",
+        "b53b5188-cfeb-4272-87cf-ab5f32839dcd",
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "b0010158-1092-4a13-a26f-a46161c3a5fd",
+        "bec4f400-3a45-4921-aa66-3115c4b193ce",
+        "870876a4-58d3-4be7-b390-4cc446fe3a81"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "150107db-73ff-4448-892e-16c99153cdf5",
+      "dutyDetail": "Evaluate available AI, automation tools and platforms. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "77a7cc63-af93-486c-a7d6-33f829ca9445",
+        "93d40117-5872-4c5d-b35e-8e99be3a94e1",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "70ab02e8-d8ef-472d-9b73-e759f203b269",
+        "64e8f041-b19c-46ca-97cc-d0999557b3dc",
+        "e0d734b5-0291-4924-b8f4-13fc54d87877",
+        "aa1170bc-6975-4759-a3fb-0de0beecfd77",
+        "7febc43d-3a54-4818-902a-1b0363c1cf02",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b53b5188-cfeb-4272-87cf-ab5f32839dcd",
+        "62758ce0-f0a2-42fc-9d74-d75ed731d877",
+        "3210574f-b4f2-488c-942a-c9f4fdc35ac5",
+        "b0010158-1092-4a13-a26f-a46161c3a5fd",
+        "bec4f400-3a45-4921-aa66-3115c4b193ce",
+        "a5187425-139e-4696-a8d8-e7ed70396d80",
+        "292975ba-6746-4fba-ad17-cf3e7fc27404",
+        "07a41c8e-0790-4552-b080-d496e7d2e6be",
+        "c0521dbe-7e6c-478d-a391-33406c203f83"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4ea0d799-f351-40c8-9f9a-7d2871a992ec",
+      "dutyDetail": "Facilitate and support with the design and delivery of workshops and solution design sessions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "77a7cc63-af93-486c-a7d6-33f829ca9445",
+        "eb7e69e7-0f7b-46d3-9504-4d6119fa4369",
+        "93d40117-5872-4c5d-b35e-8e99be3a94e1",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "42bf8bc2-de4d-49f6-a1a3-08078a0b0a63",
+        "07bcca89-823a-4ab1-8597-dcdc2b35f3f0",
+        "b3ba14aa-09d4-4f8e-8012-b8a1a6cfd424",
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "7febc43d-3a54-4818-902a-1b0363c1cf02"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b3e116bf-5da9-44e4-b69c-18057b7dbb5f",
+        "83d3f56a-0547-4cd6-a933-06f8cb774061",
+        "ca41facf-738b-4f3c-914d-af5adab7434b",
+        "608b8c00-0560-4cda-b211-3bbe9535b81c",
+        "07a41c8e-0790-4552-b080-d496e7d2e6be"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "604f7bed-a757-47e7-8498-a37df17fe530",
+      "dutyDetail": "Simplify processes and design workflows that exploit AI and automation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eb7e69e7-0f7b-46d3-9504-4d6119fa4369"
+      ],
+      "mappedKnowledge": [
+        "3db450e4-2ce1-4308-a49a-9d3f7ebf9686",
+        "d9201a3d-8127-4f97-92fc-c09323fc4cdf",
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "967ac38f-bb3d-4759-be70-f5f033004c56",
+        "4a41e08d-829e-40e6-9eac-3945b4d26580",
+        "1b99cd01-80b2-45c2-9f81-2581de76eac7",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "59be23eb-7892-4a4f-a317-68e457b1ef8e",
+        "c0521dbe-7e6c-478d-a391-33406c203f83",
+        "3da4ff4d-1f04-4013-9a01-8b0750976f5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5ed7d674-b941-4f13-9a1a-9a07498fe49f",
+      "dutyDetail": "Configure and adapt low-or no-code tools to solve problems and drive efficiencies.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "70ab02e8-d8ef-472d-9b73-e759f203b269",
+        "64e8f041-b19c-46ca-97cc-d0999557b3dc",
+        "342cf794-65ed-4480-8276-8304faf235b0",
+        "5e6dfcf2-ec9a-4782-a4ee-979baeba598e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "8f94b96a-ea63-419d-8cf0-f7ffee9da535",
+        "e9a738c7-5aee-4c25-a442-38991ad645aa",
+        "62758ce0-f0a2-42fc-9d74-d75ed731d877",
+        "bec4f400-3a45-4921-aa66-3115c4b193ce"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "df6cbdad-5d25-4c2b-851a-a228d9cc7351",
+      "dutyDetail": "Apply AI automation solutions to add value. For example, chatbots, summarisation, and automation platforms such as cloud SaaS and PaaS services.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "70ab02e8-d8ef-472d-9b73-e759f203b269",
+        "6e255da6-b445-4100-a00d-e4ab2f5c08d7",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "b0010158-1092-4a13-a26f-a46161c3a5fd",
+        "bec4f400-3a45-4921-aa66-3115c4b193ce"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "54d006cd-c92c-41eb-9540-ef75a37fb5e1",
+      "dutyDetail": "Develop, document and test integrated digital workflows. Produce documents to meet audience requirements such as technical and end-user materials.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a3a4aac4-be42-4066-b6ef-61b7ea54a987",
+        "038d5b76-1127-438d-b020-b6ab8be14834",
+        "846d3faf-95ce-416d-80c5-9e134d3fadf1",
+        "5a7d2f37-2edb-4f08-80b2-36402733526a",
+        "a5ebb0ca-41e1-4c18-8f96-d85b8e287243",
+        "e0d734b5-0291-4924-b8f4-13fc54d87877",
+        "a9351c05-4d61-44dd-8f87-8b24ea873bd9",
+        "7febc43d-3a54-4818-902a-1b0363c1cf02",
+        "4a41e08d-829e-40e6-9eac-3945b4d26580"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e9a738c7-5aee-4c25-a442-38991ad645aa",
+        "62758ce0-f0a2-42fc-9d74-d75ed731d877",
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "ca41facf-738b-4f3c-914d-af5adab7434b",
+        "59be23eb-7892-4a4f-a317-68e457b1ef8e",
+        "3da4ff4d-1f04-4013-9a01-8b0750976f5f"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "72f0586c-c9b4-430d-b85f-e6f0b8153a59",
+      "dutyDetail": "Keep colleagues, stakeholders and line managers informed on progress.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "77a7cc63-af93-486c-a7d6-33f829ca9445",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "967ac38f-bb3d-4759-be70-f5f033004c56",
+        "aa1170bc-6975-4759-a3fb-0de0beecfd77"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "870876a4-58d3-4be7-b390-4cc446fe3a81",
+        "a5187425-139e-4696-a8d8-e7ed70396d80",
+        "4b95c482-cd0f-406b-8bda-295afa032c0c",
+        "292975ba-6746-4fba-ad17-cf3e7fc27404",
+        "68d6d98b-4ee0-462a-a22f-2fc2dd1f8a88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7954b1c1-7236-4217-8de7-66c0665d29b6",
+      "dutyDetail": "Provide training and or user guides for adopted tools, adapting content and format to audience needs. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eb7e69e7-0f7b-46d3-9504-4d6119fa4369"
+      ],
+      "mappedKnowledge": [
+        "5e6dfcf2-ec9a-4782-a4ee-979baeba598e",
+        "42bf8bc2-de4d-49f6-a1a3-08078a0b0a63",
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "967ac38f-bb3d-4759-be70-f5f033004c56"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "ebacf448-90de-4724-9c58-6cff4ea691ae",
+        "ebb484d7-953f-4235-a172-758894f5aaac"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2c1b0b88-a878-42a3-b5fc-c592ab7f594e",
+      "dutyDetail": "Support teams with change management and adoption activities. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "eb7e69e7-0f7b-46d3-9504-4d6119fa4369",
+        "93d40117-5872-4c5d-b35e-8e99be3a94e1",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "038d5b76-1127-438d-b020-b6ab8be14834",
+        "5e6dfcf2-ec9a-4782-a4ee-979baeba598e",
+        "5a7d2f37-2edb-4f08-80b2-36402733526a",
+        "a5ebb0ca-41e1-4c18-8f96-d85b8e287243",
+        "42bf8bc2-de4d-49f6-a1a3-08078a0b0a63",
+        "df823baa-4262-4932-8058-faa6c244714d",
+        "967ac38f-bb3d-4759-be70-f5f033004c56",
+        "aa1170bc-6975-4759-a3fb-0de0beecfd77",
+        "1b99cd01-80b2-45c2-9f81-2581de76eac7"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b3e116bf-5da9-44e4-b69c-18057b7dbb5f",
+        "83d3f56a-0547-4cd6-a933-06f8cb774061",
+        "953214e0-90d3-4f92-8402-9152fda90fb7",
+        "3210574f-b4f2-488c-942a-c9f4fdc35ac5",
+        "ebacf448-90de-4724-9c58-6cff4ea691ae",
+        "608b8c00-0560-4cda-b211-3bbe9535b81c",
+        "4b95c482-cd0f-406b-8bda-295afa032c0c",
+        "ebb484d7-953f-4235-a172-758894f5aaac",
+        "292975ba-6746-4fba-ad17-cf3e7fc27404",
+        "59be23eb-7892-4a4f-a317-68e457b1ef8e",
+        "68d6d98b-4ee0-462a-a22f-2fc2dd1f8a88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2380e40c-68aa-4944-81df-c273a248597e",
+      "dutyDetail": "Monitor and refine automations incorporating feedback from end- users to improve.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ace6fb3d-d93c-436a-bd18-1ca74b07a718",
+        "9c5d9fe9-8bb9-4c6d-b3de-1ba8039d134c"
+      ],
+      "mappedKnowledge": [
+        "038d5b76-1127-438d-b020-b6ab8be14834",
+        "5159af4d-f9ed-4253-89ce-fb778b3be182",
+        "846d3faf-95ce-416d-80c5-9e134d3fadf1",
+        "e0d734b5-0291-4924-b8f4-13fc54d87877"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "62758ce0-f0a2-42fc-9d74-d75ed731d877",
+        "d52b1966-7749-4a18-868e-94397ed6f85f",
+        "e38865fd-3382-4a19-b06c-ec7674a12994"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e2ee27cb-0210-478f-a59d-889af9096d43",
+      "dutyDetail": "Measure and report on productivity, efficiency and value improvement savings.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "77a7cc63-af93-486c-a7d6-33f829ca9445",
+        "09684ea3-d62e-42f3-9cc6-2dcfa625a901"
+      ],
+      "mappedKnowledge": [
+        "5159af4d-f9ed-4253-89ce-fb778b3be182",
+        "42bf8bc2-de4d-49f6-a1a3-08078a0b0a63",
+        "018f26d2-c6a5-4df3-998e-63c9f56799bd",
+        "d9201a3d-8127-4f97-92fc-c09323fc4cdf",
+        "967ac38f-bb3d-4759-be70-f5f033004c56"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b3e116bf-5da9-44e4-b69c-18057b7dbb5f",
+        "83d3f56a-0547-4cd6-a933-06f8cb774061",
+        "3210574f-b4f2-488c-942a-c9f4fdc35ac5",
+        "b0010158-1092-4a13-a26f-a46161c3a5fd",
+        "bec4f400-3a45-4921-aa66-3115c4b193ce",
+        "870876a4-58d3-4be7-b390-4cc446fe3a81",
+        "9155e63a-2740-4113-9db4-2b2340d16d7a",
+        "e4da483e-54a8-44e7-b966-0b4a4e9e3003"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d453bfc6-0e08-49d4-980f-333c9900ea09",
+      "dutyDetail": "Ensure personal compliance and support stakeholders with digital ethics, security, and privacy including governance, auditing, explainability, and documentation of decision-making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "ace6fb3d-d93c-436a-bd18-1ca74b07a718",
+        "09684ea3-d62e-42f3-9cc6-2dcfa625a901"
+      ],
+      "mappedKnowledge": [
+        "c18be09b-73fd-4bec-a93f-702dd39147ce",
+        "846d3faf-95ce-416d-80c5-9e134d3fadf1",
+        "d9201a3d-8127-4f97-92fc-c09323fc4cdf",
+        "a9351c05-4d61-44dd-8f87-8b24ea873bd9",
+        "1b99cd01-80b2-45c2-9f81-2581de76eac7",
+        "fb1bd2f1-6867-45d9-a4c6-b2469fc14df0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e9a738c7-5aee-4c25-a442-38991ad645aa",
+        "e38865fd-3382-4a19-b06c-ec7674a12994",
+        "870876a4-58d3-4be7-b390-4cc446fe3a81",
+        "4b95c482-cd0f-406b-8bda-295afa032c0c",
+        "68d6d98b-4ee0-462a-a22f-2fc2dd1f8a88"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f96de9c-8b22-4b77-a680-261c424e29fa",
+      "dutyDetail": "Keep up to date with AI automation trends, opportunities, and risks to inform current and future practice. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-01-14T00:00:00"
+}
