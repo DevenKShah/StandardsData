@@ -1,12 +1,13 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 467,
   "referenceNumber": "ST0265",
   "learningAimClassCode": "",
   "title": "Construction assembly and installation operative",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0265",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0265",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -18,6 +19,7 @@
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 18,
+  "minimumHoursForCompliance": "487",
   "maxFunding": 13000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
@@ -44,12 +46,12 @@
     "structural insulated panels (SIP) installer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7260/st0265_construction-assembly-installation-operative_l2_ap_for-_publication_10022022em.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/7260/st0265_construction-assembly-installation-operative_l2_ap_for-_publication_10022022em.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction sector. &#160;On site assembly of manufactured components is a rapidly growing part of the construction sector, representing 15% of the market in 2018. &#160;Projects include; infrastructure, residential, commercial, retail, healthcare, education, rail, prisons and leisure. &#160;Structures and components are manufactured in factories and then transported to the construction site, ready for location, connection and finishing. &#160;Materials can include concrete, timber, modular and portable buildings and can include plastic and steel components. &#160;Projects can be small local ones such as a bespoke house or nationwide in large scale developments such as residential and social housing, schools and hospitals. &#160;These can be permanent, temporary or re-locatable.&lt;/p&gt;\n&lt;p&gt;The broad purpose of this occupation is to use elements manufactured off site, installed and assembled in a construction site environment.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with team colleagues and supervisors as well as those from other organisations such as main contractors, sub-contractors, architects, engineers, plant operators, drivers, Health and Safety Executive representatives, Environment Agency, site managers, construction managers and other trades. &#160;The occupation involves working outside on a construction site, in a range of weather conditions, on projects anywhere in the UK. &#160;In some instances it will involve travelling and working away from home.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the assembly and installation of manufactured components to agreed design specification and tolerance. &#160;This includes the safe handling, moving, installing and finishing to specification and within deadlines under the guidance of senior team colleagues or a supervisor depending on the size of the organisation.&lt;/p&gt;\n&lt;p&gt;The apprenticeship consists of four optional routes:&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;Pre-cast Concrete&lt;/li&gt;\n&lt;li&gt;Timber Frame&lt;/li&gt;\n&lt;li&gt;Relocatable Modular and Portable Buildings&lt;/li&gt;\n&lt;li&gt;Permanent Modular Buildings&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&#160;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction sector. &amp;nbsp;On site assembly of manufactured components is a rapidly growing part of the construction sector, representing 15% of the market in 2018. &amp;nbsp;Projects include; infrastructure, residential, commercial, retail, healthcare, education, rail, prisons and leisure. &amp;nbsp;Structures and components are manufactured in factories and then transported to the construction site, ready for location, connection and finishing. &amp;nbsp;Materials can include concrete, timber, modular and portable buildings and can include plastic and steel components. &amp;nbsp;Projects can be small local ones such as a bespoke house or nationwide in large scale developments such as residential and social housing, schools and hospitals. &amp;nbsp;These can be permanent, temporary or re-locatable.&lt;/p&gt;\n&lt;p&gt;The broad purpose of this occupation is to use elements manufactured off site, installed and assembled in a construction site environment.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with team colleagues and supervisors as well as those from other organisations such as main contractors, sub-contractors, architects, engineers, plant operators, drivers, Health and Safety Executive representatives, Environment Agency, site managers, construction managers and other trades. &amp;nbsp;The occupation involves working outside on a construction site, in a range of weather conditions, on projects anywhere in the UK. &amp;nbsp;In some instances it will involve travelling and working away from home.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for the assembly and installation of manufactured components to agreed design specification and tolerance. &amp;nbsp;This includes the safe handling, moving, installing and finishing to specification and within deadlines under the guidance of senior team colleagues or a supervisor depending on the size of the organisation.&lt;/p&gt;\n&lt;p&gt;The apprenticeship consists of four optional routes:&lt;/p&gt;\n&lt;ol&gt;\n&lt;li&gt;Pre-cast Concrete&lt;/li&gt;\n&lt;li&gt;Timber Frame&lt;/li&gt;\n&lt;li&gt;Relocatable Modular and Portable Buildings&lt;/li&gt;\n&lt;li&gt;Permanent Modular Buildings&lt;/li&gt;\n&lt;/ol&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "15a1d819-b19b-407a-a5b3-b56a7920117a",
@@ -431,7 +433,7 @@
   "integration": null,
   "integratedDegree": "",
   "tbReference": "TB0037",
-  "tbMainContact": "sjbell@laingorourke.com",
+  "tbMainContact": "alomplough@laingorourke.com",
   "involvedEmployers": "Laing O’Rourke, Persimmon Homes, Berkeley Group, Pickerings Plant, Elliott Hire, Modular and Portable Building Association MPBA, SIG Roofspace, PCE ltd, NOCN, CITB, Leeds College of Building, Costain, Skanska, British Precast, Barratt PLC, Crest Nicholson, Redrow Homes, Swift Timber Homes, Taylor Wimpey, Countryside Properties, Citu Group",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -459,13 +461,13 @@
   "cluster": null,
   "clusterId": null,
   "clusterDescription": null,
-  "createdDate": "2022-02-11T13:20:59 +00:00",
+  "createdDate": "2026-03-24T14:39:30 +00:00",
   "lastUpdated": "2024-05-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
-  "banners": "A temporary dispensation has been applied to the assessment plan version ST0265/AP02 apprenticeship. The dispensation will run indefinitely until all apprentices registered to ST0265/AP02 are complete. The dispensation may be withdrawn if no longer necessary. End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported and monitored by the relevant EQA provider. The key changes are: To allow assessment method 2, ‘observation with questioning’ to be delivered in a simulated learning environment.",
+  "banners": "A temporary dispensation has been applied to the assessment plan version ST0265/AP02 apprenticeship. The dispensation will run indefinitely until all apprentices registered to ST0265/AP02 are complete. The dispensation may be withdrawn if no longer necessary. &nbsp;End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported, and monitored by the relevant EQA provider.&nbsp;\n&nbsp;\nThe key changes are:&nbsp;\nTo allow assessment method 2, ‘observation with questioning’ to be delivered in a simulated learning environment.\n&nbsp;\nThe apprentice may choose to end the assessment method early. The apprentice must be confident they have demonstrated competence against the assessment requirements for the assessment method. The independent assessor or EPAO must ensure the apprentice is fully aware of all assessment requirements. The independent assessor or EPAO cannot suggest or choose to end the assessment methods early, unless in an emergency. The EPAO is responsible for ensuring the apprentice understands the implications of ending an assessment early if they choose to do so. The independent assessor may suggest the assessment continues. The independent assessor must document the apprentice’s request to end the assessment early.",
   "occupationCode": "OCC0265",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0265-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0265-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0265-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0265-v1-0",
   "qualifications": [
     {
       "qualificationId": "5e0889c9-75f8-47fa-b2c6-03c8d4fb4894",
@@ -1039,7 +1041,8 @@
         "aff57db8-31e0-45fd-ae98-eeb89f55092d"
       ],
       "mappedSkills": [
-        "a794690d-cf7f-4ba9-8c1e-001002d9b090"
+        "a794690d-cf7f-4ba9-8c1e-001002d9b090",
+        "a4126ed1-f46e-4d7a-bc30-351564ba3b59"
       ],
       "criteriaForMeasuringPerformance": ""
     },
@@ -1082,7 +1085,8 @@
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
       "mappedKnowledge": [
-        "2319c24d-a5db-4424-a569-e8a2cf092cf5"
+        "2319c24d-a5db-4424-a569-e8a2cf092cf5",
+        "f4bccaf3-0b98-413b-b7dd-61c7f29c946b"
       ],
       "mappedOptions": [
         "582c7921-34cd-4b2b-b7d7-37cae8294ab1"
@@ -1091,6 +1095,7 @@
         "851ef1dc-31f7-400c-b4ce-df80bdcedd99",
         "3b58c262-651f-4e3b-a45b-faffbf5cbdc5",
         "beee5820-a7e6-41db-b8c1-5ff255af8d78",
+        "8cf928e2-26a5-4f37-8594-a3d2abf6e85e",
         "1ee3fc87-4c45-4ef5-97f7-2299702bc457"
       ],
       "criteriaForMeasuringPerformance": ""
@@ -1136,7 +1141,8 @@
       "mappedKnowledge": [
         "15a1d819-b19b-407a-a5b3-b56a7920117a",
         "0292dc76-14fa-4fb1-bd6d-17530865118f",
-        "f0a99659-662a-4ae2-8cf7-380be0e9e291"
+        "f0a99659-662a-4ae2-8cf7-380be0e9e291",
+        "f4bccaf3-0b98-413b-b7dd-61c7f29c946b"
       ],
       "mappedOptions": [
         "582c7921-34cd-4b2b-b7d7-37cae8294ab1"
