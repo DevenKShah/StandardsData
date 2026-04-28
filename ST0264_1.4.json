@@ -1,16 +1,17 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 239,
   "referenceNumber": "ST0264",
   "learningAimClassCode": "",
   "title": "Carpentry and joinery",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0264",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0264",
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "End-point assessment plan revised. The apprentice can end the assessment early wording added to interview and practical assessments.",
-  "changedDate": "2025-01-13T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2025-01-13T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -18,6 +19,7 @@
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 24,
+  "minimumHoursForCompliance": "557",
   "maxFunding": 13000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
@@ -34,7 +36,7 @@
     "Site carpenter"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0264-v1-4?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.4",
@@ -147,7 +149,7 @@
     },
     {
       "knowledgeId": "8293957a-fbf7-4e9a-88ff-cdeb3d728529",
-      "detail": "Site carpentry: First fixing installation techniques: Structural carcassing, floor joists and coverings, straight flights of stairs, metal and timber stud partitions.  "
+      "detail": "Site carpentry: First fixing installation techniques: Structural carcassing (load bearing studwork), floor joists and coverings, straight flights of stairs, metal and timber stud partitions.  "
     },
     {
       "knowledgeId": "bb492f92-c1c4-4f94-a5b0-f3c5f4be8e59",
@@ -279,7 +281,7 @@
     },
     {
       "skillId": "062d909f-b210-4aa0-ae5c-1c1d63d1f663",
-      "detail": "Site carpenter: Apply first fix techniques and practices for: 1. structural carcassing, 2. straight timber or metal partition walls, 3. floor joists 4. floor joist coverings and 5. straight flights of stairs."
+      "detail": "Site carpenter: Apply first fix techniques and practices for: 1. structural carcassing (load bearing studwork), 2. straight timber or metal partition walls, 3. floor joists 4. floor joist coverings and 5. straight flights of stairs."
     },
     {
       "skillId": "9e487661-4f85-4179-af87-7fa4d0d7ef60",
@@ -291,7 +293,7 @@
     },
     {
       "skillId": "b212cfa5-1e77-4f25-a691-fa794ce93923",
-      "detail": "Site carpenter: Apply site second fix techniques and practices for:1. service encasement, 2. cladding 3. wall and floor units and fitments, 4. handrails and spindles to straight flights of stairs, 5. internal and external doors, 6. skirting boards and architrave, 7. window boards. "
+      "detail": "Site carpenter: Apply site second fix techniques and practices for: 1. service encasement, 2. cladding 3. wall and floor units and fitments, 4. handrails and spindles to straight flights of stairs, 5. internal and external doors, 6. skirting boards and architrave, 7. window boards. "
     },
     {
       "skillId": "3ecdf32f-208b-4fc8-96b7-fc0286d7a554",
@@ -382,13 +384,13 @@
   "cluster": "Core building tradesperson",
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
-  "createdDate": "2025-01-13T13:27:22 +00:00",
-  "lastUpdated": "2025-01-13T00:00:00 +00:00",
+  "createdDate": "2025-06-23T10:34:41 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0264",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0264-v1-4",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0264-v1-4?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0264-v1-4",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -786,5 +788,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-13T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
