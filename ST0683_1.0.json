@@ -1,12 +1,13 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 458,
   "referenceNumber": "ST0683",
   "learningAimClassCode": "",
   "title": "Buying and merchandising assistant",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0683",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0683",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -14,15 +15,16 @@
   "earliestStartDate": "2019-05-16T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Helping bring products to market for retailer buying or merchandising teams.",
+  "overviewOfRole": "Buying and merchandising assistants work collaboratively to contribute to the delivery of department/company sales and profit targets.",
   "level": 4,
   "ePALength": 0,
   "typicalDuration": 18,
+  "minimumHoursForCompliance": "370",
   "maxFunding": 6000,
   "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
   "keywords": [
-    "buying",
+    "buyin",
     "merchandise",
     "retail",
     "wholesaling",
@@ -31,16 +33,16 @@
     "marketing"
   ],
   "jobRoles": [
-    "Merchandising assistant",
-    "Buying assistant"
+    "Buying assistant",
+    "Merchandising assistant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3155/st0683_buying-and-merchandising-assistant_l4_ap-for-publication_13052019.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3155/st0683_buying-and-merchandising-assistant_l4_ap-for-publication_13052019.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.1 Retailing and wholesaling",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is typically found in the retail sector, across a range of different types of companies and employers such as those selling direct to the public/consumer and those selling to trade. It is also found across different types of retail operation, including those who trade from traditional stores, those who are exclusively on-line, and those who operate through a variety of channels.&lt;/p&gt;\n&lt;p&gt;Buying assistants will support new product selection and development and ensure that these new products are accurately added to the employer’s product portfolio in line with the supplier agreement. They will normally be responsible for the testing and delivery of product samples.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;Merchandising assistants collate, distribute and analyse sales and performance reports, identifying trends, trading patterns and highlighting anomalies. They communicate and escalate findings appropriately, supported by a range of business solutions. They may also place supplier orders and maintain product availability across the business and for monitoring products to ensure on time delivery and availability to agreed locations.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;Buying and merchandising assistants work collaboratively to contribute to the delivery of department/company sales and profit targets. They will normally report to a more senior member of the buying or merchandising team, this may vary with the size of the employer.&lt;/p&gt;\n&lt;p&gt;&lt;br /&gt;In this occupation, individuals would typically interact with a wide range of internal and external colleagues, including but not limited to, their wider buying and merchandising teams, designers, manufacturers, suppliers, distribution centres, stores, marketing, finance and IT departments. This is normally an office-based role, but may involve remote working, travel to stores, trade fairs, supplier meetings etc.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is primarily found in retail organisations, but also exists across a variety of other sectors that manage the acquisition, planning, and distribution of products, stock and/or goods. These may include wholesale, manufacturing, supply chain and logistics, fashion, food and drink, e-commerce, and other industries with structured buying and merchandising operations. These organisations may serve customers and clientele directly (B2C), operate through intermediaries, or supply other businesses (B2B).&lt;/p&gt;\n&lt;p&gt;The primary purpose of the role is to support buying and merchandising teams in ensuring the right products/stock/goods are available at the right time and place. Individuals will assist with coordination, data, and administrative tasks across product selection, supplier liaison, stock tracking, and reporting. This occupation features two pathways:&lt;/p&gt;\n&lt;p&gt;Buying assistants support the selection, sourcing, and onboarding of new products/stock/goods, contributing to the development of the organisation’s portfolio. They assist in managing supplier relationships, coordinating sample testing and/or evaluation processes, and ensure that products/materials/stock are accurately documented and aligned with commercial agreements.&lt;/p&gt;\n&lt;p&gt;Merchandising assistants monitor performance and availability of products/stock/goods by collating, distributing, and analysing relevant data. They identify trends, demand patterns, and anomalies, using a range of business tools and systems. Their responsibilities may include placing and tracking supplier orders, ensuring availability across channels and distribution points, and supporting inventory management to meet commercial objectives.&lt;/p&gt;\n&lt;p&gt;Together, they work collaboratively to help achieve organisational or departmental targets for sales, margin, and efficiency. They will normally report to a more senior member of the buying or merchandising team, but this will vary by employer.&lt;/p&gt;\n&lt;p&gt;Individuals in this occupation typically interact with a wide range of internal and external stakeholders, including wider buying and merchandising teams, designers, manufacturers, suppliers, planners, logistics, marketing, finance, and IT departments. The role is typically office-based, but may involve hybrid working and travel to supplier meetings, trade fairs, distribution centres, operational sites, and potentially international travel for supplier or factory engagements.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "f56ab645-ad42-4d56-b2c7-52ba525dff83",
@@ -251,7 +253,10 @@
       "detail": "Coaches and mentors new/less experienced colleagues"
     }
   ],
-  "optionsUnstructuredTemplate": [],
+  "optionsUnstructuredTemplate": [
+    "Buying Assistant",
+    "Merchandising Assistant"
+  ],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -271,29 +276,29 @@
   "integratedDegree": "",
   "tbReference": "TB0031",
   "tbMainContact": "linda.guthrie@steinhoffretail.co.uk",
-  "involvedEmployers": "Ocado, Steinhoff UK Ltd, Superdrug, Arcadia, M&S, Debenhams, JD Sports, John Lewis, Co-operative Group, Sainsburys, Mothercare, Travis Perkins",
+  "involvedEmployers": "Allen Apprenticeships and Skills, Ocado, People First, Steinhoff UK Ltd, The Fashion Retail Academy",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
   "coreAndOptions": true,
   "typicalJobTitles": [
-    "Merchandising assistant",
-    "Buying assistant"
+    "Buying assistant",
+    "Merchandising assistant"
   ],
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
-  "createdDate": "2020-01-06T10:54:24 +00:00",
+  "pathway": "Sales and retail",
+  "cluster": "Retail manager",
+  "clusterId": "94",
+  "clusterDescription": "Manage and lead a retail team of practitioners for both buying from and selling to wholesalers and retail",
+  "createdDate": "2025-08-07T12:55:37 +00:00",
   "lastUpdated": "2022-12-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-05-16T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0683",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0683-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0683-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0683-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0683-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -322,7 +327,7 @@
         "061ab2e8-2665-489e-b45a-2b1e150154e2",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Recommendations made for new and existing products to agreed timescales"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "28e4015a-2b65-4cad-a484-93f9f1b42ec8",
@@ -366,7 +371,7 @@
         "f18df1b7-02a5-4b5e-ab68-321508bdcbc4",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Issues that affect other internal and external functions identified promptly and resolved\n\nNo KPIs missed through poor communication or failure to collaborate"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "554c2c6d-12f2-4526-bb88-2d85d602bace",
@@ -405,7 +410,7 @@
         "6a3f796d-e64c-4942-8764-b3f30ac53cc7",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Recommendations for improvements made to senior team members"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "42725499-e9e2-4679-9196-b24e27d68e46",
@@ -428,7 +433,7 @@
         "6a3f796d-e64c-4942-8764-b3f30ac53cc7",
         "4a495493-8fff-4a59-9a1d-4e4f2313c29f"
       ],
-      "criteriaForMeasuringPerformance": "Individual and team development recorded"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "06e06bb9-94c4-46fd-a176-e3d5250a8ce9",
@@ -464,7 +469,7 @@
         "f5e98538-5c6f-417b-ab23-fa0d88daf708",
         "f18df1b7-02a5-4b5e-ab68-321508bdcbc4"
       ],
-      "criteriaForMeasuringPerformance": "Professional relationships developed, issues identified and resolved promptly. KPIs met"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "d2176d0e-e0d5-4990-96d7-9face4562824",
@@ -492,7 +497,7 @@
         "140c111b-332c-4ea3-9a64-cb38d3c07a03",
         "061ab2e8-2665-489e-b45a-2b1e150154e2"
       ],
-      "criteriaForMeasuringPerformance": "Internal and external functions briefed on critical path"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "1ab3ef9a-d39d-4818-bca2-0a7f34571132",
@@ -539,7 +544,7 @@
         "11a1237d-c03a-4348-a6b0-414c99353801",
         "f5e98538-5c6f-417b-ab23-fa0d88daf708"
       ],
-      "criteriaForMeasuringPerformance": "Appropriate samples were available for testing and show casing activities"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "3a181849-cf55-432e-9097-3bb5dc2b5718",
@@ -575,7 +580,7 @@
         "f18df1b7-02a5-4b5e-ab68-321508bdcbc4",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Product portfolio updated and maintained with correct information"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "f7aa81e0-c15c-4b7b-a48e-ceea6a9fb9bc",
@@ -608,7 +613,7 @@
         "e906b1f6-e466-4fa6-ad66-4eb955cfc61e",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "All products represented accurately on product portfolio"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "e9d4cd62-41cc-4028-b4c2-d786c01f5875",
@@ -637,7 +642,7 @@
         "11a1237d-c03a-4348-a6b0-414c99353801",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Product portfolio updated and maintained with correct information"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "bfe65c15-7c16-41a8-ad54-32da7f246394",
@@ -668,7 +673,7 @@
         "11a1237d-c03a-4348-a6b0-414c99353801",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Data sourced and actions implemented to agreed timescales"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "74bc23af-732d-4ebf-a29c-e82985086fbc",
@@ -708,7 +713,7 @@
         "f5e98538-5c6f-417b-ab23-fa0d88daf708",
         "f18df1b7-02a5-4b5e-ab68-321508bdcbc4"
       ],
-      "criteriaForMeasuringPerformance": "Accurate data inputted to inform strategic decisions"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "5d2a095e-56c7-4aec-8f84-3baf40ad89ee",
@@ -741,7 +746,7 @@
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128",
         "b3e58a91-2057-43ea-af77-7ad24052ccc7"
       ],
-      "criteriaForMeasuringPerformance": "Stakeholder’s issues dealt with promptly and within targets/timescales"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "2e5c5de4-b718-4fb9-9b64-472573942f9e",
@@ -770,7 +775,7 @@
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128",
         "b3e58a91-2057-43ea-af77-7ad24052ccc7"
       ],
-      "criteriaForMeasuringPerformance": "Deliveries made on agreed dates in agreed volumes\n\nCancellations processed correctly"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "daf325f0-3641-4d9d-8d14-fa2254b37d7f",
@@ -794,7 +799,7 @@
         "709546fd-a5c9-48a2-9015-f3943377e80a",
         "b3e58a91-2057-43ea-af77-7ad24052ccc7"
       ],
-      "criteriaForMeasuringPerformance": "Correct data sources accessed and analysed"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "ebd23cf4-9624-4f13-9d82-93cb0e711a24",
@@ -826,7 +831,7 @@
         "dab43d81-c76c-46c5-aa48-7fe884f8c74c",
         "11a1237d-c03a-4348-a6b0-414c99353801"
       ],
-      "criteriaForMeasuringPerformance": "Data analysed and findings reported to senior team members to agreed timescales."
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "9baa9d51-df4e-4273-9a6b-f49927d8c664",
@@ -865,7 +870,7 @@
         "f18df1b7-02a5-4b5e-ab68-321508bdcbc4",
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128"
       ],
-      "criteriaForMeasuringPerformance": "Accurate data inputted to inform strategic decisions"
+      "criteriaForMeasuringPerformance": ""
     },
     {
       "dutyID": "518090de-9f58-425d-81bf-a9a4c5303dfd",
@@ -894,7 +899,7 @@
         "e1fe5df1-ed8d-4b70-a34f-fa18bed63128",
         "b3e58a91-2057-43ea-af77-7ad24052ccc7"
       ],
-      "criteriaForMeasuringPerformance": "Stock system updated and maintained to agreed timescales"
+      "criteriaForMeasuringPerformance": ""
     }
   ],
   "options": [
@@ -910,7 +915,26 @@
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Buying Assistant",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Merchandising Assistant",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
   "careerStarter": false,
   "coronationEmblem": false,
   "publishDate": "2022-12-30T00:00:00"
