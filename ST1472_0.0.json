@@ -1,16 +1,17 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 0,
   "referenceNumber": "ST1472",
   "learningAimClassCode": "",
   "title": "Administration assistant",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1472",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1472",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
+  "changedDate": "2026-03-18T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -18,7 +19,8 @@
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 12,
-  "maxFunding": 0,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 4000,
   "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
@@ -174,7 +176,7 @@
     },
     {
       "behaviourId": "036fcfab-846d-49f7-82f5-5c67ea73496a",
-      "detail": "Takes responsibility for sustainable outcomes in their actions and approaches to the role. Respecting environmental good practice, specific to both the sector and those recognised externally."
+      "detail": "Works sustainably ensuring resources are used efficiently and responsibly."
     },
     {
       "behaviourId": "85901ba7-3f00-4616-96e1-f36591bca0cf",
@@ -266,7 +268,7 @@
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
   "epaPublished": "false",
   "fundingApprovalDate": "",
@@ -301,13 +303,13 @@
   "cluster": "Administrator",
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
-  "createdDate": "2025-02-26T08:50:36 +00:00",
-  "lastUpdated": "",
+  "createdDate": "2026-03-18T16:23:12 +00:00",
+  "lastUpdated": "2026-03-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
-  "banners": "",
+  "banners": "This assessment plan is currently being developed under the 2025/2026 apprenticeship assessment reforms. The standard will be live for starts on the 1 August 2026. The assessment plan will be published ahead of this date. Starts on the standard will be restricted to under 25s.",
   "occupationCode": "OCC1472",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1472?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1472",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -750,5 +752,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-02-26T08:50:36.627"
+  "publishDate": "2026-03-18T00:00:00"
 }
