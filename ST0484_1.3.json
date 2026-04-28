@@ -1,23 +1,25 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 266,
   "referenceNumber": "ST0484",
   "learningAimClassCode": "",
   "title": "Facilities manager",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0484",
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0484",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
-  "change": "End-point assessment plan revised - Adjustment to business case and question answers, component 2 question and answer session. To include the following sentence \"The apprentice must have access to their business case during the question and answer session\".",
-  "changedDate": "2025-05-14T00:00:00",
+  "change": "End-point assessment plan revised - Adjustment to business case and question answers, component 2 question and answer session. To include the following sentence \"The apprentice must have access to their business case during the question and answer session.",
+  "changedDate": "2025-12-09T00:00:00",
   "earliestStartDate": "2025-05-14T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-12-08T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Making sure that buildings and their services meet the needs of the people that work in them.",
   "level": 4,
   "ePALength": 4,
   "typicalDuration": 24,
+  "minimumHoursForCompliance": "487",
   "maxFunding": 7000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
@@ -38,7 +40,7 @@
     "Property services manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0484-v1-3?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0484-v1-3?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.3",
@@ -135,7 +137,7 @@
     },
     {
       "knowledgeId": "ba14d191-f3c6-4534-bcf5-adcb7292f8ab",
-      "detail": "Problem solving, techniques, diagnostics and root cause analysis. "
+      "detail": "Problem solving techniques, diagnostics and root cause analysis. "
     },
     {
       "knowledgeId": "ffae8b54-73f7-4dc3-9fd8-f99cb23f7339",
@@ -177,7 +179,7 @@
     },
     {
       "behaviourId": "7b7ca30b-ea8f-493e-b56e-16af1e9e318b",
-      "detail": "Take responsibly for the quality of work. "
+      "detail": "Take responsibility for the quality of work. "
     },
     {
       "behaviourId": "e9fc5469-5737-495d-af95-2415a8c2c369",
@@ -334,14 +336,14 @@
   "pathway": "Building Services Engineering",
   "cluster": "Facilities manager",
   "clusterId": "57",
-  "clusterDescription": null,
-  "createdDate": "2025-05-14T11:00:04 +00:00",
-  "lastUpdated": "2025-05-14T00:00:00 +00:00",
+  "clusterDescription": "Manage the services for a building including maintenance and repair",
+  "createdDate": "2025-08-18T13:39:18 +00:00",
+  "lastUpdated": "2025-12-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-03T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0484",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0484-v1-3?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0484-v1-3",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0484-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0484-v1-3",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -793,5 +795,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-14T00:00:00"
+  "publishDate": "2025-12-09T00:00:00"
 }
